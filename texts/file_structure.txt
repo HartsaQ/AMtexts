@@ -1,0 +1,2 @@
+Text structure is simple. Parts of text are marked in HTML like fashion There are four levels of headings h1-h4 marked with <h1>headings-tags</h1> <div>Text is marked with div-tags</div> and <sidebar>contents of sidebars are inside sidebar-tags</sidebar>. A next line is added before <sidebar> and after headings and sidebar end tags.
+That's it
