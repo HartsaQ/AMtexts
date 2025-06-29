@@ -1,5 +1,5 @@
 # AMtexts
-Textual content from Ars Magica sourcebooks extracted with https://github.com/HartsaQ/AMsources2text . Texts may be updated with improvements to text extraction.
+Textual content from Ars Magica sourcebooks extracted with https://github.com/HartsaQ/AMsources2text . Texts will be updated with improvements to text extraction.
 
 Texts are published under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 
