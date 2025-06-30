@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -188,7 +192,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The covenant’s weakening aura causes a magical creature, whose presence is welcomed on account of the vis it produces, to leave in search of a stronger Magic aura. Unless the magi can persuade it to stay or restore their aura, they will lose a source of vis.</div>
 
-<h4>A Mundane Mood</h4>
+<h4>a Mundane Mood</h4>
 
 <div>A bad mood and poor work ethic is noticed among the covenfolk. The magi suspect a sinister influence, but the true cause, which they have overlooked, is simply their slowly weakening aura and the increasing mundanity that results.</div>
 
@@ -365,8 +369,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>strength of the connection to the rest of the Magic Realm, which ranges from 0-10. An extremely powerful vestige might be level 8, and an average vestige would have a level of 4. A vestige with a level of 0 is not connected to anything, and cannot be used for travel. Not everything in the Magic Realm is a vestige, and the proportion of vestiges in a region seems to be quite variable. Some magi have reported regions containing no vestiges, but magi in the Magic Realm rarely search closely enough to be sure. On the other hand, some regions seem to contain nothing but vestiges; regions like frozen moments of history seem to be particularly common, and are one of the main pieces of evidence used by those who argue that the Magic Realm consists of tempora.</div>
 <div>Magical Travel</div>
 <div>Traveling through boundaries or vestiges is very similar to passing between levels of a regio. The character attempts to see the destination he wishes to reach by looking through the boundary or vestige, and then steps into it and beyond. Only characters with Magic Might or special powers like Second Sight or Magic Sensitivity can do this, although they can lead others through with them. Do not include the aura bonus in this roll, but you may add Form bonuses that correspond to the boundary or vestige. For example, a magus with Second Sight could add his (Herbam / 5) to the roll to see through the vestige of a tree or an Herbam boundary. The more powerful the vestige or boundary, the easier it is to travel through it.</div>
-<div>Boundary Travel: stress die + Perception + appropriate Ability + Form bonus vs. ((10 – current realm boundary level) x 3) – Familiarity modifier</div>
-<div>Vestige Travel: stress die + Perception + appropriate Ability + Form bonus vs. ((10 –level of the vestige) x 3) – Familiarity modifier</div>
+
+<h4>Boundary Travel: Stress Die + Perception + Appropriate Ability + Form Bonus Vs. ((10 – Current Realm Boundary Level) X 3) – Familiarity Modifier</h4>
+
+
+<h4>Vestige Travel: Stress Die + Perception + Appropriate Ability + Form Bonus Vs. ((10 –level of the Vestige) X 3) – Familiarity Modifier</h4>
+
 <div>The Familiarity modifier is based on how well the character knows the destination, and reduces the Ease Factor for seeing through a boundary or vestige as shown on the chart below. Use only the highest Familiarity modifier for any given attempt. If the character has never been to the place he wishes to reach but is looking for something specific, or if he simply wishes to explore without a set destina</div>
 <div>tion in mind, his Familiarity modifier is 0. You should also note the amount by which the roll exceeds the difficulty, as this is the character’s initial Speed modifier (see below).</div>
 <div>Familiarity Familiarity Modifier Enigmatic Wisdom score Magic Lore score Area Lore (Magic Realm) (score x 3) Knows name or description  of the destination 1 Has seen the destination before 3 Visited the destination before 6 Arcane Connection to  the destination 15</div>
@@ -374,7 +382,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Speed Level Length of journey –1 or lower permanent  0 seven plus a stress die   (no botch) years  3 seven years  6 Year  9 one season  12 Moon  15 day (24 hours)  18 Sun  21 two hours  24 Diameter (2 minutes)  27 one minute  30+ Momentary</div>
 <div>The character leading the group is aware of the distance that must be covered, as he can perceive their destination (if he had no destination in mind, this is the same place where they started). This is the maximum</div>
 <div>length of their stay in the Twilight Void, and acts as a constant — they will reach their destination once this amount of time has elapsed, no matter what else they do. The character who brought the group through the boundary or vestige can attempt to speed the journey by concentrating: treat the result of the following formula as the group’s new Speed Level for as long as this character concentrates. As the Twilight Void is essentially timeless, it is possible for a character to maintain concentration indefinitely, but he cannot do anything else on the journey. If he stops concentrating, they revert to their initial speed. Like the initial travel total, this roll does not include a bonus for the aura, but if the character has a Form bonus, the player can apply the bonus based on the type of vestige or boundary he is passing through. For example, when traveling through a Terram boundary, a magus can apply his (Terram / 5).</div>
-<div>Twilight Void Travel: stress die + Stamina + Concentration + Form bonus</div>
+
+<h4>Twilight Void Travel: Stress Die + Stamina + Concentration + Form Bonus</h4>
+
 <div>A botch on either of these travel rolls suggests that the leading character and his group are further delayed. Reduce the Speed Level by one step on this chart for each botch on the roll, so that two botches make a Sun journey into a Moon journey instead. If this lowers the Speed Level below 0, the leader loses his connection to the boundary or vestige for which he is heading, and the group is stranded in the Twilight Void. It should be apparent that travel through the Twilight Void is very dangerous. Few magi ever return once they embark upon this path. It is not very difficult to pass through a vestige or boundary, especially one with a very high level, just as it is not very difficult for a magus to throw himself into Twilight. Once through, however, it can take a very long time to reach the destination, so long that the character will effectively leave the game. Unless this journey is the focus of the saga, players should be cautioned that blithely stepping into the Void could remove their characters from play indefinitely. The durations of all supernatural effects expire as soon as they are brought into or out of the Void, even unusual durations such as Until (Condition). This includes the Parma Magica — magi must perform the ritual again each time they pass through a boundary or vestige — but not Longevity Rituals or other laboratory enchantments such as a talisman or familiar bond that do not have a spell Duration.</div>
 <div>Passing into (but not out of) the Twilight Void also causes all Arcane Connections to or from the character to degrade one level (see the chart on ArM5, page 84), so that an Arcane Connection with a duration of Months would become Weeks instead, and an Arcane Connection that normally lasts for Decades would only last Years. This does not affect Arcane Connections with Indefinite duration, though note that the connection is interrupted as long as only one of them is in the Twilight Void.</div>
 <div>The Twilight Void</div>
@@ -382,7 +392,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>vestiges in the Magic Realm. They cannot affect travelers in the Void, and travelers cannot affect them. There are some things in the Void with substance, usually things that have been brought into the Void from the</div>
 <div>world beyond, but these are rare and typically guarded jealously by the natives who possess them. These beings are Daimons, powerful magical creatures who live in the Void but cannot leave it without forming an Aspect (see Chapter 7: Magic Spirits). Travelers in the Void are immune to the hardships of nature: they do not need to eat, drink, or breathe. They do not age at all, and do not suffer Acclimation (see Chapter 4: Magic Characters). Their wounds neither heal nor worsen naturally while they are there, and they do not regain long-term Fatigue. For characters without Might Scores, or characters who have Might Scores that are not aligned to the province in which they travel, the Twilight Void is exactly like being in Twilight. They are insubstantial and unaffected by their environment. In the Void characters do not gain experience, but they also do not accumulate vis like they do in the rest of the Magic Realm. They</div>
 <div>are essentially unaffected by the time spent within its provinces, and so travelers can simply pass through the Void without interacting with their surroundings at all. However, some travelers can also choose to explore the Void, and these adventures can lead to other rewards if the traveler can make sense of the environment and navigate it successfully. To determine how well a traveler can make his way through the magical environment by striking off of the path and going in search of a particular goal, the player makes a Twilight Comprehension roll (ArM5, page 88), substituting a magic character’s (Might Score / 5) for his Warping Score.</div>
-<div>Twilight Comprehension: Intelligence + Enigmatic Wisdom + stress die vs. Warping Score or (Might Score / 5) + stress die</div>
+
+<h4>Twilight Comprehension: Intelligence + Enigmatic Wisdom + Stress Die Vs. Warping Score Or (Might Score / 5) + Stress Die</h4>
+
 <div>Success means that the character has a positive experience. This can also speed the character’s journey back to the Magic Realm: subtract Enigmatic Wisdom from the character’s Comprehension total, and if this exceeds the character’s Speed Level, use that score instead. Failure means the character has a negative experience. If the character botches, this can delay his progress further, possibly stranding him in the Void forever. Reduce the character’s speed by one step on the Travel Time chart above for each botch. As when a magus comprehends Twilight, a positive experience in the Twilight Void has beneficial results. The character gains an appropriate Essential Trait at +1, or increases an appropriate Essential Trait by 1. If the character does not comprehend the experience, the results are negative: the character gains an appropriate Essential Trait at –1, or reduces an appropriate Essential Trait by 1. Then, roll a simple die. The character gains or loses twice this many experience points in an appropriate Art or Ability, and like other experience points gained in the Magic Realm, this experience may manifest as vis if the player so chooses. Then, if the character does not have a Might Score, he also gains this many Warping Points. During this process, the character generally experiences the Void as a series of choices. It is said that everything in the Void is connected to everything else, and so each choice serves to narrow down the myriad possibilities of what the traveler is seeking to one unique thing. As an example, suppose a magus is seeking a friend of his in the Corpus province, a youthful Criamon maga believed lost. He leaves the path on which he entered the Void</div>
 
 <div sidebars>
@@ -506,7 +518,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>Auras and Might Recovery</div>
 <div>Magic characters can recover Might Points more quickly when they rest in a Magic aura, though like mundane characters recovering Fatigue, the magic character cannot engage in strenuous activity while resting. The time in which the character’s entire Might Pool replenishes depends on the strength of the aura modified by the magnitude of the character’s Might Score, as shown below.</div>
-<div>Entire Recovery Time: Subtotal = Aura – (Might Score / 5), then refer to chart</div>
+
+<h4>Entire Recovery Time: Subtotal = Aura – (Might Score / 5), Then Refer To Chart</h4>
+
 <div>Subtotal Recovery Time  0 24 hours  1 12 hours  2 6 hours  3 3 hours  4 90 minutes  5 45 minutes  6 22 minutes  7 10 minutes  8 5 minutes  9 2 minutes</div>
 <div>To determine how quickly individual Might Points are regained, divide the Recovery Time by the character’s Might Score.</div>
 <div>Recovery Rate: 1 Might Point per (Recovery Time / Might Score)</div>
@@ -516,9 +530,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>1. Pick a Character Concept</h4>
 
 <div>Choose the character’s true form (animal, human, spirit, or thing), and determine its Characteristics, Virtues and Flaws, and Size. Characteristics: 7 points assigned as in standard Detailed Character Creation (see ArM5 page 29), no Characteristic more than +3 or less than –3. Virtues and Flaws: Assign the character’s Virtues and Flaws as in standard Detailed Character Creation, including a Social Status Virtue or Flaw. Size: Assign Size, with 0 indicating an average adult human. Add twice this value to the character’s Strength, and subtract it from Quickness.</div>
-<div>2. Determine Season and Assign Abilities</div>
+
+<h4>2. Determine Season and Assign Abilities</h4>
+
 <div>Season determines the magic character’s starting experience points, which are used to assign it scores in any Abilities the character can learn, based on its Virtues and Flaws. A spring character receives 120 experience points, a summer character receives 360, an autumn character receives 720, and a winter character receives 1200.</div>
-<div>3. Determine Magic Might Score, and Choose Magic Qualities and Inferiorities</div>
+
+<h4>3. Determine Magic Might Score, and Choose Magic Qualities and Inferiorities</h4>
+
 <div>Magic Might Score depends upon the power level of the saga and the character’s role within it. (See the table under Magic Might, below.) Then choose Magic Qualities, magical powers, and other advantages, taking a number of Quality points equal to the character’s Might Score. Magic Inferiorities give the character additional points to spend on Magic Qualities; like Virtues and Flaws, Minor Qualities and Inferiorities are worth 1 point, Major Qualities and Inferiorities are worth 3 points. Grog characters cannot take Major Inferiorities or Qualities.</div>
 
 <h4>4. Finishing Touches</h4>
@@ -705,7 +723,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Variable points, Init equal to (Qik – Might cost), appropriate Form R: varies, D: varies, T: varies Duplicates any of a range of nonRitual Muto or Perdo spells pertaining to the specified Hermetic Form, at a cost of</div>
 <div>1 Might point per magnitude of the effect. The level of the effect cannot be greater than the creature’s Might, or 25, whichever is lowest. This power affects only one Form, but some creatures have this power more than once, for different Forms. Mu(Form) or Pe(Form) 25: Focus Power</div>
 
-<h4>Oath-Swearing</h4>
+<h4>Oath-swearing</h4>
 
 <div>10 points, Init equal to (Qik – 10), Vim R: Touch, D: Mom, T: Group, Ritual Enforces the power of a solemnly-sworn oath between two or more parties. All parties must agree to the oath of their own free will, and it must Penetrate the Magic Resistance of all parties to take effect. If a participant in the oath tries to act in direct contravention of it, he immediately becomes aware of this. If he carries on regardless, then he is struck with a Minor Flaw. This Flaw can be removed by re-swearing the oath in front of the original participants. This power persists until there is no further record of the oath, either in the memories of the participants or in written form. New participants may be added to the oath by swearing to it in the presence of the creature, and if it pays the original Might cost again. Unlike the Grant (Flaw) power, the Might points spent on Oath-swearing regenerate normally. No Hermetic equivalent: Ritual Power.</div>
 
@@ -999,7 +1017,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>Beasts of Virtue Story Seeds</div>
 
-<h4>A Noble’s Folly</h4>
+<h4>a Noble’s Folly</h4>
 
 <div>The son of a local noble becomes obsessed with the stories of a monstrous black boar that cannot be killed. The heir is killed hunting the Black Boar of the Bog and the noble swears revenge on it. The noble’s advisor comes to beg the characters for their assistance in defeating the boar. The magi realize that the advisor is withholding something from them. In truth, the advisor thought the heir unfit to rule and persuaded him to hunt the beast, knowing that it would likely kill him. Now the advisor fears the same fate will befall his lord, or, worse, that his role in the heir’s death will be uncovered.</div>
 
@@ -1087,16 +1105,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The covenant or its neighbors are suffering mysterious disappearances of animals. Stealing livestock is a serious crime in most parts of Mythic Europe; in many places it is punishable by death. Suspicions may fall on the magi, but a Panther of Virtue is actually to blame. Incautious characters who investigate may themselves fall victim to the Panther’s lure.</div>
 
-<h4>A Bad Omen</h4>
+<h4>a Bad Omen</h4>
 
 <div>A Raven of Virtue can be a novel, if somewhat heavy-handed, way to launch a story where something bad happens at the covenant. The Aegis of the Hearth keeps it out, so it must deliver its omen to grogs or covenfolk whose daily business takes them outside the covenant walls.</div>
 
-<h4>Cold-Blooded Intruder</h4>
+<h4>Cold-blooded Intruder</h4>
 
 <div>A Salamander of Virtue finds its way into the covenant — its Might is high enough that it can go right through a weak Aegis of the Hearth. In its never-ending search for warmth it extinguishes cooking fires, puts out the blacksmith’s forge, and eventually finds its way into the magi’s laboratories. The creature is so small, it can easily crawl through cracks under doors or hide itself among the rushes on the floors. Grogs and covenfolk are probably terrified of the Salamander of Virtue because of its poison, though it is quite easy to kill by mundane means (if it can be found). An ambitious</div>
 <div>magus might want the Salamander of Virtue as a familiar, but the creature cares little for humans and is not easy to befriend.</div>
 
-<h4>A Magical Quarry</h4>
+<h4>a Magical Quarry</h4>
 
 <div>The characters need the healing powers in the antler of a Stag of Virtue to heal a sick friend. They can either hunt the stag or try to find one of its buried antlers. In many parts of Mythic Europe, hunting large game is a privilege reserved for the nobility. The characters may be accused of poaching, or they may find that the local noble is hunting the Stag of Virtue for himself. Because the Stag has the Ways of the Forest Virtue and an impressive Athletics score, it can be a difficult quarry.</div>
 
@@ -1158,7 +1176,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Soak: 0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5+) Abilities: Athletics 5 (flying), Awareness 4 (food), Brawl 2 (dodging), Music 3 (morning song), Survival 3 (home terrain) Powers: Air for Flying, 1 Point, Init: 0, Auram  R: Sight, D: Conc, T: Group  See below. Call the Flock, 1 Point, Init: 0, Animal  R: Special, D: Diam, T: Group  See below. Vis: Auram vis in feathers.</div>
 </div sidebars>
 
-<div>Powers of the Birds of Nephelococcygia</div>
+
+<h4>Powers of the Birds of Nephelococcygia</h4>
+
 <div>Command the Flock 1 Point, Init: Qik–4, Animal R: Voice, D: Sun, T: Group The character can trill commands to a group of up to 100 birds. The birds will try to obey any command that they can understand (mundane birds can understand commands equivalently to a dog), but they will not do anything obviously suicidal and if the birds have a Magic Resistance this power must Penetrate. The power lasts for a duration of Sun, and after this period the birds will act on their own initiative. ReAn 35 (Base 5, +2 Voice, +2 Sun, +2 Group): Greater Power (35 levels, –3 cost)</div>
 <div>The Crow’s Song 2 Points, Init: Qik–4, Corpus R: Voice, D: Special, T: Ind The character sings this song at a target individual, and the next time the target sleeps an Aging Roll is made for him, adding 5 to the roll — even if he is too young to make Aging Rolls normally. This power must penetrate the target’s Magic Resistance to be effective. PeCo 40 (Base 15, +2 Voice, +3 Special Duration): Greater Power (40 levels, –2 cost)</div>
 <div>Air for Flying 1 Point, Init: Qik–4, Auram R: Sight, D: Conc, T: Group While the character sings this tune, the weather in the locale remains calm and temperate. This will also negate any magically created inclement weather where the magnitude of the effect that caused the inclement weather is less than the character’s Might / 5 (round up). This power has a duration of concentration. ReAu 35 (Base 5, +3 Sight, +1 Concen</div>
@@ -1289,7 +1309,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>R: Voice, D: Mom, T: Group  With some effort, Varkos can belch forth an impressive torrent of flame about 30 paces long and five paces wide. All within that area take +15 fire damage.  CrIg 35 (Base 15, +2 Voice, +2 Group): Greater Power (35 levels, –1 Might cost) Vis: 3 Ignem in heart Appearance: Varkos is a misshapen dragon with a a build like a bulldog’s: massive shoulders and smaller hindquarters. His head is crocodile-like and has a pronounced underbite. His bat-like wings are ridiculously small, but he sometimes flaps them furiously in a vain attempt to fly. He has a spiny ridge running from his forehead all along his body, but the spines poke out drunkenly in different directions.</div>
 <div>Varkos is a fire drake who desperately wants to be thought of as a fearsome dragon. He knows quite a bit about dragon stories, and tries his best to act like the dragons of legend. (His treasure hoard is coming along nicely; it’s almost big enough to fill two hand baskets.) Varkos lives in a cave overlooking a mountain pass, from which he ventures forth to prey upon livestock and set the occasional haystack on fire. He usually tries to scare away humans rather than hurt them; dead men tell no tales, and Varkos is working hard to build up a reputation. Lately he has worked up enough nerve to start robbing travelers of their treasure, and is looking forward to the time when terrified villagers will bring him his first virgin sacrifice. (He has no idea what exactly a virgin is or what real dragons are supposed to do with them.) One of the reasons Varkos tries so hard to be terrifying is that he wants to attract a</div>
 <div>mate. Living in a cave in the mountains can be lonely and rather boring. He enjoys his encounters with humans because they give him a chance to talk to someone, however briefly. Unfortunately, Varkos is not the best conversationalist; he is mostly interested in hearing stories about dragons. Characters might be able to befriend him if they pretend to be afraid of him, tell some entertaining stories, and promise to spread wild tales about how they met the “dragon of the mountains” and barely escaped with their lives.</div>
-<div>Arkliss, a Dragon of the Fens</div>
+
+<h4>Arkliss, a Dragon of the Fens</h4>
+
 <div>Magic Might: 22 (Animal) Characteristics: Int +1, Per +2, Pre +3, Com 0, Str +1, Sta +2, Dex +1, Qik +1 Size: 0 Season: Summer Confidence Score: 2 (6) Virtues and Flaws: Magic Animal; Magical Monster; Arcane Lore, Improved Characteristics (x3), Lightning Reflexes, Self</div>
 
 <div sidebars>
@@ -1313,20 +1335,20 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>Dragon Story Seeds</div>
 
-<h4>A Scintillating Serpent</h4>
+<h4>a Scintillating Serpent</h4>
 
 <div>En route to visit an important magus or noble, the characters stumble upon a scitalis, which tries to bite them as they stand spellbound. Little do they know that the scitalis was a warning from benevolent forces, as it foreshadows their upcoming visit: when they arrive at their destination, their host tries to impress them with lavish gifts and hospitality, while secretly planning to take advantage of them.</div>
 
-<h4>The Less-Than-Deadly “Dragon”</h4>
+<h4>The Less-than-deadly “dragon”</h4>
 
 <div>The characters are waylaid by Varkos the fire drake, who demands all their treasure. They strike up a conversation with the “dragon” and Varkos enjoys it so much he forgets to rob them. Later, the characters learn of a young knight out to build a reputation by slaying the “dragon of the mountains.” The knight has obtained a magical ointment to protect himself from flames, so a battle between him and Varkos could be an even match. Can the characters prevent a deadly fight?</div>
 
-<h4>A Slippery Thief</h4>
+<h4>a Slippery Thief</h4>
 
 <div>Like most dragons, Arkliss is obsessed with treasure. She has come up with a plan to rob the wealthiest estate in her district — which just happens to be the player characters’ covenant. She sends several Dominated peasants inside the walls, posing as peddlers or pilgrims. At midnight</div>
 <div>Arkliss arrives, using her Domination power to neutralize any watchmen so her minions can loot the place of valuables. Arkliss does not know anything about enchanted items, but if she learns through her minions how highly the magi value such things, she makes a special effort to steal them for her hoard.</div>
 
-<h4>A Covetous Creature</h4>
+<h4>a Covetous Creature</h4>
 
 <div>The magi and their companions are enjoying the hospitality of a local noble, when suddenly the feasting hall shakes violently, and a roar like thunder rolls out across the valley. Unknown to them, a lindwurm witnessed their approach and caught a glimpse of an especially rich item among their belongings. The beast wants this item for itself, and won’t release its hostages until the item is given up.</div>
 
@@ -1347,7 +1369,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Warping</div>
 <div>Animals gain Warping points in the same manner as people (ArM5, pages 167168). Once an animal gains a Warping score of 1 it acquires a Minor Flaw, and it gains another Minor Flaw when its Warping score reaches 3. When the Warping Score reaches 5 a Minor Virtue is gained, and subsequent increases in the Warping Score result in the acquisition of Major Flaws. Note that an Animal that acquires a Minor Virtue (as it has reached a Warping Score of 5), no longer gains Warping points merely due to exposure to the same sort of aura.</div>
 
-<h4>Virtues and Flaws from Warping</h4>
+<h4>Virtues and Flaws From Warping</h4>
 
 <div>If the Warping points gained by an</div>
 
@@ -1365,12 +1387,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Example Warped Animals</div>
 <div>Below are some examples of animals that have been transformed due to exposure to magic. Note that until an animal has become so Warped that it acquires a Warping Score of 5, it only gains Flaws due to magical exposure, and many animals do not have a long enough life span to reach such a score.</div>
 
-<h4>The Cat-Fish (Felis Aquatica)</h4>
+<h4>The Cat-fish (Felis Aquatica)</h4>
 
 <div>Characteristics: Cun 0, Per +1, Pre –4, Com –5, Str –7, Sta 0, Dex +3, Qik+4 Size: –3 Warping Score: 1 (0) Confidence Score: 0 Virtues and Flaws: Perfect Balance, Puissant Awareness, Sharp Ears, Aquam Monstrosity Personality Traits: Curious +4, Bold +1 Reputations: Magical beast 2 (local) Combat: Claws: Init +3, Attack +8, Defense +10, Damage –5 Teeth: Init +4, Attack +8, Defense +7, Damage –6 Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–2), –3 (3–4), –5 (5–6), Incapacitated (7–8) Abilities: Awareness 4 (at night), Brawl 2 (claws), Hunt 4 (water rats), Stealth 4 (stalking), Survival 3 (forests), Swim 4 (ambush) Natural Weapons: Claws: Init –1, Attack +2, Defense +3, Damage +2. Teeth: Init 0, Attack +3, Defense +1, Damage +1. The cat’s dense fur gives it a Protection of +1. Vis: 1 pawn of Muto vis in fish tail.</div>
 <div>Appearance: The fore-part of the cat-fish is that of a black cat, and the back-part is that of a silvery fish. His favorite hunting method is to hide under the surface of the water, and grab small vermin nesting in the banks of the river. Sometimes he will chase a fish on a line, but this is more of a kitten-like regression than serious hunting. Like all cats, the cat-fish gains a +3 bonus on rolls to climb and jump, due to his Perfect Balance, although of course he cannot easily climb out of the water. The cat does not have gills, and so cannot breath underwater.</div>
 <div>Village fishermen in Champagne tell stories of a cat that lives in a tributary of the river Seine. The cat, it is claimed, is half fish — a kind of feline mermaid — and is very bold, sometimes even stealing fish from the line. The Bonisagus magus Yonnlius, currently a Master in the Rhine Tribunal, claims to have caught the cat several years ago and examined it. His supposition is that a cat became Warped after falling into a powerful magical regio in the river Seine, while attempting to catch fish from the river bank. It is unclear, from the record held at Durenmar, whether Yonnlius also located this regio, although he does note that upon the completion of his study the animal was released unharmed.</div>
-<div>The Dog that Flew (Canis Volata)</div>
+
+<h4>The Dog That Flew (Canis Volata)</h4>
+
 <div>Characteristics: Cun 0, Per +2, Pre –4, Com 0, Str 0, Sta +2, Dex +1, Qik +2 Size: –1 Warping Score: 3 (0) Confidence Score: 0 Virtues and Flaws: Improved Characteristics, Long-Winded, Sharp Ears, Auram Monstrosity, Warped Senses (sensitive to sound), Reckless Personality Traits: Paranoid +3 Reputations: Flying dog 2 (local) Combat: Bite: Init +2, Attack +8, Defense +7, Damage +1 Soak: +2 Fatigue Levels: OK, 0/0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –5</div>
 
 <div sidebars>
@@ -1389,7 +1413,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>against an Ease Factor of 6 to check if she is successful.</div>
 <div>The town of Hersfeld, in Central Germany (see Guardians of the Forests, page 86), has a prominent bell tower over which the townsfolk witnessed a dog flying in the summer of 1217. Even the monks of the nearby Benedictine Abbey, who attributed the sight to a miracle, recorded the event. Some members of the Hermetic order have proposed that the sighted creature was an animal Warped by magical springs that are known to be in the region, but an expedition in 1219 was unable to find evidence of the flying dog. The flying dog is very skittish, and is afraid of both other animals and humans. She is still hiding near the town of Hersfeld, and survives by scavenging urban refuse. The dog was once a hunting dog and became transformed after finding herself caught near a magical explosion, although this actually occurred in a distant, mountain</div>
 <div>ous area of Mythic Europe — from which she flew. A magus who finds the flying dog may become curious as to the source of the magical explosion and be able to retrace her flight path.</div>
-<div>The Mice That Burned the Barn (Mus Flammeus)</div>
+
+<h4>The Mice That Burned the Barn (Mus Flammeus)</h4>
+
 <div>Characteristics: Cun 0, Per 1, Pre –3, Com –4, Str –18, Sta +1, Dex +3, Qik +8 Size: –10 Warping Score: 1 (0) Confidence Score: 0 Virtues and Flaws: Lightning Reflexes, Sharp Ears, Timid, (Ignem) Monstrosity, Poor Eyesight Personality Traits: Timid +3 Reputations: Vermin 1 (local) Combat: Bite: Init +8, Attack +7, Defense +5, Damage –17 Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1), –3 (2), –5 (3), Incapacitated (4) Abilities: Athletics 3 (running), Awareness 4 (larger creatures), Brawl 3 (bite), Stealth 4 (hiding), Survival 3 (field) Natural Weapons: The weapon statistics for a mouse’s bite are Init 0, Atk +3, Def +1, Dam +1. Vis: 1 pawn of Muto in stomach. Appearance: The mouse is small and unremarkable looking, but occasionally (perhaps once per day) the mouse belches a torrent of sparks, particularly when the mouse is nervous. This small fire (+1) is incapable of causing much damage, but it can ignite dry materials. The mouse is not immune to fire, so will normally try to flee any resulting conflagration. Belching sparks also draws attention to the mouse, and any character nearby spots him on a Perception + Awareness Roll against an Ease Factor of 9. A predator, like a cat, will be curious and surprised if a mouse she is stalking belches fire.</div>
 <div>This family of mice ate the magical residue of a blast of Ignem magic cast by a Flambeau hoplite while dueling with a faerie knight. The now-monstrous mice, somewhat randomly breathe fiery sparks. The magus, distracted at the time, did not notice the col</div>
 <div>lateral effect of his magic as he hurtled off in pursuit of his faerie foe, but the mice have since burned down several nearby barns as they tried to nestle among the stored hay. The farmers who own the barns have not figured out what is happening; they suspect that an arsonist is the cause, and have set a watch on the remaining barns.</div>
@@ -1397,38 +1423,46 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>With the approval of the storyguide, any magical beast with an animal intellect — that is, those with Cunning (Cun) — may be tamed, and then used by another character as a mount, guardian, or companion as appropriate. Taming an animal is a possible laboratory activity for a magus, but mundane animal handlers and some magical characters can also attempt to tame animals. Once an animal has been tamed, it can be further trained and taught a number of tricks.</div>
 <div>Taming Animals</div>
 <div>Regardless of whether the character taming an animal is a magus, a magical character, or a mundane trainer, taming is a seasonal activity and the character accumulates a number of points each season toward taming the animal. Taming is complete when the accumulated total of points exceeds the Might of the creature. Points only accumulate between consecutive seasons, so if the character does something else in the interim then any points already gained are lost. Points for taming animals can’t be transferred between trainers.</div>
-<div>Required Points to Tame a Creature: Might of the Creature</div>
+
+<h4>Required Points To Tame a Creature: Might of the Creature</h4>
+
 <div>In all cases, the tamer must be able to interact daily with the creature throughout the season. If the creature has a violent temperament, the tamer may require some kind of protection (magical or otherwise). If the tamer can generate enough points to tame a creature in a single season, he may split his point total between the taming of several creatures of the same species, but he cannot tame a number of additional creatures in excess of his Animal Handling</div>
 <div>Ability Score.</div>
 
-<h4>A Hermetic Trainer</h4>
+<h4>a Hermetic Trainer</h4>
 
 <div>For a magus, taming an animal is a laboratory activity, and the creature must be housed in the laboratory. Of course, if the creature is very large this may necessitate the construction of a new laboratory. The number of</div>
 <div>points that the magus accumulates each season is based on the magus’ Rego (Form) Lab Total (including bonuses, see insert), which is calculated using the Hermetic Form appropriate to the creature — Aquam for a kelpie, Ignem for a fire elemental, and so on.</div>
 
 <h4>Taming Points Accumulated Each</h4>
 
-<div>Season by an Hermetic Tamer: Re(Fo) Lab Total – Creature’s Might</div>
+
+<h4>Season By an Hermetic Tamer: Re(fo) Lab Total – Creature’s Might</h4>
+
 <div>For example, to tame a fire elemental with an Ignem Might 25, the magus must accumulate 25 points. If the magus has a Rego Ignem Lab Total of 40 he will accumulate (40 – 25 =) 15 points each season, and therefore take two complete seasons to tame the elemental. During the process of taming an animal, a Hermetic magus produces a Lab Text that has a level equal to the Might of the creature that was tamed. A magus may use such a Lab Text, written by himself or another, to provide a bonus to his Lab Total when training animals of the same Form (see below). In addition, a magus may spend a season replicating the instructions in such a Lab Text to tame another creature of exactly the same species, whose Might does not exceed the</div>
 <div>level of the Lab Text. To use the Lab Text in this way, the magus must have a Re(Fo) Lab Total at least equal to the level of the Lab Text. Of course, to use any Lab Text the magus must be able to read it; normally a Lab Text prepared by another character needs to be translated (ArM5, page 102). The following bonuses apply to the Rego (Form) Taming Lab Total for a Hermetic magus:</div>
 <div>•	 Animal Handling Ability Score •	 Experimentation Bonus (i.e. a magus can use the Experimentation rules when taming an animal; ArM5 page 107). •	 +1 for every 5 levels of the highest level similar Lab Text the magus consults as a guide. A similar Lab Text is an animal taming Lab Text using the same Hermetic Form.</div>
 
-<h4>A Magical Trainer</h4>
+<h4>a Magical Trainer</h4>
 
 <div>A character with the Minor Supernatural Virtue: Master of (Form) Creatures (see Chapter 4: Characters) may tame creatures of that Form that have Cunning statistics. For each consecutive season spent, the character accumulates a number of points equal to:</div>
 
 <h4>Taming Points Accumulated Each</h4>
 
-<div>Season by a Master of Creatures: Trainer’s Might + Trainer’s Animal Handling – Creature’s Might</div>
+
+<h4>Season By a Master of Creatures: Trainer’s Might + Trainer’s Animal Handling – Creature’s Might</h4>
+
 <div>If the trainer does not have a Might Score, his Magic Lore Ability Score is substituted for his Might in this calculation (a character with Might can also choose to substitute her Magic Lore Ability Score). If the beast is connected to the same Form as the trainer, the trainer’s Might Score is doubled for the calculation above.</div>
 
-<h4>A Mundane Trainer</h4>
+<h4>a Mundane Trainer</h4>
 
 <div>A mundane trainer can also attempt to tame a beast. He generates a number of points each  consecutive season, equal to:</div>
 
 <h4>Taming Points Accumulated Each</h4>
 
-<div>Season by a Mundane Trainer: Int + Animal Handling – Creature’s Might</div>
+
+<h4>Season By a Mundane Trainer: Int + Animal Handling – Creature’s Might</h4>
+
 <div>Generally, a mundane trainer will only be able to successfully tame beasts with a small Magic Might.</div>
 
 <div sidebars>
@@ -1442,7 +1476,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Loyalty</h4>
 
 <div>Once a creature is tamed he acquires the Personality Trait (Loyal +0), directed towards the character who tamed him. If the creature already has a Loyal Personality Trait, then he doesn’t gain a new Trait, rather the old Trait is focused towards the trainer and its level doesn’t change. Sometimes commanding an animal calls for a Loyalty Test, and as this is a “social interaction,” penalties for the Gift do apply.</div>
-<div>Loyalty Test: Loyal Personality Trait + stress die vs Ease Factor</div>
+
+<h4>Loyalty Test: Loyal Personality Trait + Stress Die Vs Ease Factor</h4>
+
 <div>If he wishes, any character with the Animal Handling Ability may spend additional seasons with an already-tamed creature to improve or transfer the loyalty of that creature. Each additional season of training increases the Loyal trait by +1, to a maximum of +3. A character can only improve the loyalty of an animal that is loyal to himself, but instead of increasing the Loyal trait, with this season of extra training the trainer can choose to transfer the animal’s loyalty to another character (who must also be present for the season). The trainer may even transfer the loyalty of the animal to himself if he was not the character who originally tamed the animal. A magus who has the Lab Text for a tamed animal (see below) may also transfer or improve the Loyal trait of the animal by spending a season, as long as his Re(Fo) Lab Total is at least equal to level of the Lab Text.</div>
 
 <h4>Training Abilities</h4>
@@ -1459,7 +1495,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Commanding a Creature</h4>
 
 <div>In general, when the character commands a tamed creature make a Presence + Animal Handling roll against an Ease Factor set from the following table. The Ride Ability may be substituted for Animal Handling when the character is using the animal as a mount, and for exotic creatures another Ability might be more appropriate; the Magic Lore Ability might be used for commanding tamed elementals, for example. A botch may cause the animal to flee, mistakenly perform some other command, or attack its master — depending on the nature of both the command and the beast. If several characters issue an animal with contradictory commands, it will preferentially obey commands issued by a character it is loyal to. Otherwise, it will obey the command of the character with the highest Presence + Animal Handling Total. For example, a magus tames a magical wolf (the wolf is now loyal to the magus) and he then commands the wolf to guard his sanctum door; the wolf will not normally obey contradictory commands to leave his post.</div>
-<div>Command Beast: Presence + Animal Handling (or Ride or Magic Lore) + stress die vs Ease Factor</div>
+
+<h4>Command Beast: Presence + Animal Handling (Or Ride Or Magic Lore) + Stress Die Vs Ease Factor</h4>
+
 <div>Ease Factor: Automatic success The task uses an Ability that the creature has, and the creature has done this many times before.</div>
 <div>Ease Factor: 6 The animal does not often do this task, and/or the situation is stressful for the animal.</div>
 <div>Ease Factor: 9 The task is a complex series of sub-tasks, that requires the animal to concentrate for a long period of time — at least several rounds; or it is a new task that the creature has never performed before.</div>
@@ -1559,11 +1597,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>Giants Story Seeds</div>
 
-<h4>A Cavernous Cage</h4>
+<h4>a Cavernous Cage</h4>
 
 <div>A giant named Morag has been driven from his home deep in the mountains by a group of diabolists. He has wandered into the area near the covenant and started practicing the traditional trade of his people: robbery. His first act has been to ambush and capture a local knight, whom he now holds hostage in a cave — the entrance is sealed with a boulder so heavy, even Morag needs a stout lever to dislodge it. If the characters simply slay the giant, they may never be able to free his captive. On the other hand, Morag craves revenge against the diabolists and could be persuaded to join forces with the characters to destroy them. Use the Character Guide for “ A Typical Giant” for Morag’s stats.</div>
 
-<h4>An Unquenchable Thirst</h4>
+<h4>an Unquenchable Thirst</h4>
 
 <div>Recently, some nearby humans stole one of Barcas’s sheep, and after punishing the miscreants he discovered their wineskin and acquired a taste for alcohol. Now Barcas is robbing and pillaging his way toward</div>
 <div>civilization, guzzling wine and ale by the gallon wherever he uncovers it. Perhaps the covenant is caught in his path, or nearby mundanes ask the magi for help. If Barcas can be plied with enough ale and kept talking (that is, bragging), he will eventually let slip that he has one “insignificant” weakness. Alternately, Barcas can be humiliated into departing if a character manages to defeat him in a wrestling match.</div>
@@ -1614,7 +1652,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Decree of the Atlantean 1 Point, Init: Qik+1, Animal R: Water-way, D: Conc, T: Ind The character may summon a creature of water within the same water-way (see Chapter 4: Characters, New and Modified Virtues, Atlantean Magic), and order it to perform a task. Dolphins are particularly eager to please Atlanteans and always attempt to obey a summons, even at considerable risk to themselves. Other water creatures will only obey a summons if a Presence + Leadership roll against an Ease Factor of 6 + Creature Size is successfully made. The power must also Penetrate the Magic Resistance of a Magical creature to be effective. The character can attempt to summon either a specific individual, or a type of creature, in which case the closest of that type responds. Of course, if the water creature is distant it may take a considerable period of time for it to swim to the character’s location. ReAn 10 (Base 2, +3 Water-way, +1 Conc): Greater Power (10 levels, 30 levels of Penetration, +2 Init)</div>
 <div>Murmur of the Deep 0 points, Init: Qik+1, Imaginem R: Water-way, D: Conc, T: Ind The character can hear from the vantage of any point in the same Water-way (see Chapter 4: Characters, New and Modified Virtues, Atlantean Magic). InIm 5 (Base 1, +3 Water-way, +1 Concentration): Greater Power (5 levels, –1 cost, 15 levels of Penetration, 15 xp in Concentration, +2 Init)</div>
 
-<h4>Men Born to Atlanteans</h4>
+<h4>Men Born To Atlanteans</h4>
 
 <div>Sometimes a child is born to an exiled Atlantean. Such a character can be represented by the Minor Supernatural Virtue: Magical Blood (see Chapter 4: Characters). A few magi have studied the magic of exiled Atlanteans; a magus with this heritage has the Minor Hermetic Virtue: Atlantean Magic (see Chapter 4: Characters). One way this Virtue could be used in a saga is as the basis of a Hermetic Mystery Cult.</div>
 <div>Flame Dancers</div>
@@ -1636,7 +1674,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Endurance of the Flame Dancer 1 point, Init (Qik – 2), Corpus R: Per, D: Sun, T: Ind The character feels as though he is unwounded and without fatigue until the sun rises or sets. (See Endurance of the Berserkers, ArM5 page 134.)</div>
 <div>ReCo 20 (base 10, +2 Sun): Personal Power (20 levels, –1 Might cost)</div>
 <div>Let the Bonfire Burn 0 points (+10 Might), Init (Qik – 3), Ignem R: Touch, D: Mom, T: Ind The character sets fire to an individual target that is slightly inflammable, like damp wood, up to the size of a house. CrIg 25 (base 5, +1 Touch, +1 Mom, +2 size): Greater Power (25 levels, –3 Might cost, +2 Might)</div>
-<div>Forgotten Gods</div>
+
+<h4>Forgotten Gods</h4>
+
 <div>As the Dominion began to spread throughout Mythic Europe, many of the powerful beasts and spirits once worshiped as gods or feared as monsters began to retreat into Magic auras and the Magic Realm. Over time, many of them were forgotten, or their places taken by angels, faeries, and demons associated with the supernatural aspects of the world that had once been considered magical. They eventually ceased to exist at all in the mundane world. In the 13th century, a few of these Forgotten Gods may still remain hidden deep within the Magic Realm, sleeping away the ages until their time comes again. Another way for the Forgotten Gods to survive within the waxing Divine realm is to take a living form — to become a human or animal or some other thing that can interact with the world. From within this new body, this magical force of nature can continue to influence the world as it once did, and experience life outside of the natural constraints imposed by Magic. Many members of the Cult of Mercury believe that Mercere was the god Mercury</div>
 <div>reborn — though even among them there is disagreement as to his true nature: some think that Mercere was a man born with the blood of the gods, a sort of Mercurial demigod; while others believe he was an aspect of the god Mercury that took a human form. The former description matches the beliefs of the Cult of Heroes, while the latter suggests he was a Forgotten God. Of course, no one knows for sure which (or indeed if either) of these legends is true. Forgotten Gods typically have some sort of focus — a type of magic or a part of the natural world over which they have influence. As characters, they should take a Greater Power that describes this influence. For example, if a goddess were associated with cats, she might have a power that would allow her to summon them or convince them to do her bidding.</div>
 
@@ -1768,9 +1808,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Planning for Drowning</h4>
 
 <div>A character drowning at sea is very unlikely to be returned to the world of the living, but characters can improve their chances of becoming Drowned Men, rather than merely dead men. This is a complex task, however, that requires a significant period of time, and so cannot normally be completed while the character is actually in the process of drowning. The first step is for the character to contact a magical water entity of significant Might (greater than Magical Might 35 (Aquam)). The second step is to negotiate with the magical creature; typically, the creature will require a quest to be completed or the payment of a treasure. Thirdly, the character must surrender himself to the water, trusting that the magical creature will return him to the world of the living. In order to contact a powerful magical water creature, the characters needs to attract the creature’s attention. This can be accomplished by making an offering at a particular time and place, by casting a spectacular, high-magnitude spell within the creature’s habitat, or perhaps by negotiating an introduction via a lesser creature, among other ways. To determine whether a character knows how to contact a suitable creature, an Intelligence + Magic Lore Roll is made against an Ease Factor of 12.</div>
-<div>Determine Contact Method: Int + Magic Lore + Stress die vs Ease Factor of 12</div>
+
+<h4>Determine Contact Method: Int + Magic Lore + Stress Die Vs Ease Factor of 12</h4>
+
 <div>Once he has contacted a suitable water entity, the character must negotiate and convince the creature that it should grant him power — almost all powerful water creatures have the ability to save a man from drowning should they choose to do so, and those few that do not can arrange for other creatures to perform the rescue, if they so desire. Ideally, the negotiation between the character and the creature should be roleplayed, but the troupe may abstract it by making an Intelligence + Bargain Roll for the character, against an Ease Factor of 6 + (the creature’s Might) / 5. Magic creatures normally have no inherent reason to offer power, and so in return may require that the character perform a task. For example, preventing fishermen from depleting the creature’s lake, slaying a rival creature, or recovering a stolen possession from a remote isle. Alternatively, the creature could request a reciprocal sacrifice of power — represented by the character adopting a Flaw. The creature’s attitude to negotiation is, of course, influenced — positively, or negatively — by the method used to contact it.</div>
-<div>Negotiation for Power: Int + Bargain + Stress Die vs Ease Factor of 6 + Might / 5</div>
+
+<h4>Negotiation for Power: Int + Bargain + Stress Die Vs Ease Factor of 6 + Might / 5</h4>
+
 <div>After a successful negotiation, the final step is for the character to drown himself — trusting in his agreement with the sea creature. The creature is unlikely to be fooled, and may be violently insulted, by a character who enacts “drowning” while under the influence of protective magic (for example, Lungs of the Fish; ArM5, page 122). If the creature saves the character, then he is transformed and acquires the Major Supernatural Virtue: Transformed (Being). The drowning and rescue of the character could conceivably precede the completion of the task set by the creature. This will depend upon exactly what was negotiated between the magus and the creature.</div>
 
 <h4>Burned and Buried Men</h4>
@@ -1799,7 +1843,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Magic can affect either a revenant’s body (through the Form of Corpus) or the animating spirit (usually through Mentem or Vim). Destruction of the body does not harm the spirit, though the spirit may lack any power to affect the physical world once its body is destroyed. Lay to Rest the Haunting Spirit can affect the animating spirit, provided the spirit is subject to the Form of Mentem. Magic can force the</div>
 <div>spirit out of the body, and if this happens (or if the body is destroyed) the spirit cannot reenter the corpse or possess a new one unless it has specific powers allowing it to do so. Revenants are difficult to harm with weapons. In particular, they cannot be Incapacitated; treat Incapacitating wounds as Heavy wounds instead. Perdo Corpus spells designed to target the living often have no effect on revenants, as their bodies are already dead. Spells that specifically break bones or destroy limbs do not hinder the them as much as they do living people, but may cause Wound Penalties at the storyguide’s discretion. For example, a broken leg might affect a revenant as if it were a Light wound. Perdo Corpus spells can, of course, be designed specifically to target the unquiet dead. Different legends speak of special methods by which heroes can destroy the walking dead. In certain Icelandic sagas, a draug (revenant) could be destroyed by cutting off its head and placing it between its thighs. In a tale from Yorkshire, revenants could be destroyed by driving stakes through their hearts. A character who knows the correct method should make a regular melee attack. If the attack would have caused an Incapacitating or fatal wound before taking into account the revenant’s Improved Soak Quality, and if the attack was with the correct weapon (for instance, a wooden stake if that is the way to destroy this particular revenant), then the revenant’s animating spirit is destroyed and any vis in the corpse is left behind. Learning the method for destroying a revenant may require a story, or if the storyguide prefers she can assign it an Ease Factor of 9 on an Intelligence + Magic Lore roll. Medieval tales and illustrations depict both corpse-like walking dead and animated skeletons. The word “zombie” is of New World (Haitian) origin and would not be used by characters in Mythic Europe.</div>
 
-<h4>Animating Corpses with Magic</h4>
+<h4>Animating Corpses With Magic</h4>
 
 <div>Wizards can animate corpses using Rego Corpus spells (or certain non-Hermetic powers). Such corpses use the same statistics as a revenant, with the following changes: It has the No Fatigue and Improved Soak Qualities listed in the character guide, but no other Qualities, Virtues, or powers of its own. A corpse animated by a spell has no Might score or Confidence score. Its Brawl skill is nominally 3, though as an optional rule the troupe may wish to assign a Brawl</div>
 
@@ -1829,6 +1873,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter Seven</h1>
+
+
+<h2>Magic Spirits</h2>
 
 <div>Spirits make up an important part of the magical world, both as natives of the Magic Realm and as the unseen inhabitants of the earth. However, because spirits are by their nature insensible to most physical beings, and have a limited ability to interact with them anyway, they are largely ignored by the inhabitants of Mythic Europe, magi included. Of those few Hermetic magi whose interest lies with the spiritual world, many are descendants of Ancient Greek traditions, and so much of the common terminology of the spirits is derived from the Greek language. However, magi and wizards alike from all over Mythic Europe are aware of the Invisible World, and use their magic to placate, coerce, and exploit the spirits.</div>
 <div>Spirits as Characters</div>
@@ -1930,7 +1977,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>An apprentice and one of the grogs are sent out to collect vis from a usually reliable source located in a system of caves nearby the covenant. Once they enter the caverns, they begin to hear strange pleading calls to them, crying out their names and weeping — little do they realize that the sounds are created by a bored zwergenstimme imago who wants only to “play” with them. They follow, but soon</div>
 <div>become lost as the echoing voice leads them further into the maze of tunnels. When they try to turn back, part of the ceiling collapses, trapping them in an isolated chamber with no escape.</div>
 
-<h4>A Self-Important Spirit</h4>
+<h4>a Self-important Spirit</h4>
 
 <div>A particularly arrogant magus with the Mistaken Identity Flaw has unknowingly generated a spirit of emotion — that of his own sense of self-importance. The eidolon thinks that it is improving the lot of its “twin” by interfering in his affairs and raising his profile, but in actual fact it is merely antagonizing his allies with its arrogant manner.</div>
 
@@ -1943,7 +1990,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Magic Might: 5 – 30 (Mentem) Typical Powers: Possession, Mastery of (specific emotion)</div>
 <div>Humans who come into contact with strong magic sometimes unconsciously create spirits that embody their emotions or memories. Some magi have discovered that a person who is experiencing a strong emotion, or else has a strong memory of emotional importance to them, can serve as an Arcane Connection to an eidolon of that emotion, which can be used to summon that spirit to the service of the magus (see Magic and Spirits, below). Further, a person who visits the Magic Realm, particularly the Sphere of Mentem, might leave behind these eidolons, and occasionally these spirits can return to earth. A Major Personality Flaw can generate a spirit with a Magic Might of 30. Minor Personality Flaws attract a spirit of Might 20. Otherwise, the spirit has a Might equal to (5 x Personality Trait). Negative Personality Traits cannot be used to summon a spirit of that emotion, but can summon a spirit of the opposite emotion. Note that the spirit of wrath would be a very powerful Daimon indeed; more-common eidolons are the spirits of a person’s wrath, rather than the tutelary spirit of the emotion as a whole. Those who can see spirits report that eidolons appear in human form, a simulacrum of the spirit’s “owner,” but expressing a caricature of the emotion on its face.</div>
 
-<h4>The Spirit of Self-Importance</h4>
+<h4>The Spirit of Self-importance</h4>
 
 <div>Magic Might: 10 (Mentem) Season: Summer Characteristics: Int 0, Per +1, Pre +3, Com +2, Str +1, Sta +2, Dex +1, Qik +1 Confidence Score: 2 (6 points) Virtues and Flaws: Magic Spirit; Self Confident; Meddler (Minor) Magical Qualities and Inferiorities: Greater Power (Gift of Self Assurance), Greater Power (The Preening Peacock); Lesser Power (Donning the Corporeal Veil), Minor Virtue: Improved Characteristics x3 Personality Traits: Proud +3*, Envious +2 Abilities: Carouse 3 (inflating self importance), Charm 4 (enemies), Craft Stories 3 (about self), Etiquette 4 (making self look better), Folk Ken 4 (the character that originated it), Guile 4 (exaggeration), Intrigue 4 (setting allies against each other), Leadership 4 (those of lower social status), Penetration 3 (Mentem) Powers: Gift of Self Assurance, 1 point, Init +2, Mentem: the spirit donates a Confidence point from its own store to assist any single action of its target. This action, if it succeeds, must make the character seem more competent in the eyes of others; this power doesn’t work if the affected character is alone. CrMe 10 (base 4; +1 Touch, +1 Conc): Greater Power (10 levels, –1 Might cost, +3 Init, 10xp in Penetration) The Preening Peacock, 1 point, Init +0, Imaginem: the Presence of the touched target is temporarily raised to be one point higher than the highest Presence among the target’s companions. This power lasts until the target looks foolish in front of his peers, such as by failing in an important task. It can only be used once on any given being. MuIm 15 (base 3, +1 Touch, +1 Sun, +1 complexity): Greater Power (15 levels, –1 Might cost, +2 Init, 20xp in Penetration) Donning the Corporeal Veil, 5 points, Init – 2, Corpus: the spirit manifests with the physical Characteristics given above. See Common Powers for more details. Vis: 2 pawns of Mentem, as an immaterial corpse Appearance: This spiritual copy looks like the person’s idealized perception of himself; straighter, taller, more handsome, and in better clothing.</div>
 <div>Spirits of Place, Genii Loci</div>
@@ -2030,7 +2077,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Mount Etna</div>
 <div>A powerful and violent spirit of fire, Adranus, slumbers beneath a mountain on the Mediterranean island of Sicily. It has developed an antipathy towards the local peoples, since they long ago ceased worshipping it as a god. Nevertheless, it is satisfied when mortals stay away from its slopes and live in a state of respectful fear, but should they become too bold, disrespectful, or forgetful, the genius loci will become irritated and its sleep will be disturbed. Its wrath gradually builds up until the need to vent its fury is overwhelming, at which point the volcano erupts with spectacular and devastating force. Those few who venture onto the blasted and rocky slopes of the mountain have been known to go insane. In ancient times, Adranus was worshiped by the primitive inhabitants of Sicily as a god</div>
 <div>of fire. When the Romans rose to prominence it was cast out by Vulcan, their god of fire and forge, but has since returned, and wreaks occasional and spectacular violent retribution on those who no longer either honor or fear it. A gateway to the Underworld was believed by the ancients to be situated beneath Etna. When using the Manifestation power, Adranus usually possesses one or more Sicilian eagles, the only creatures who will brave the mountain’s heights. The volcano last erupted in 1194, and, if your saga follows real history, will next erupt in 1222.</div>
-<div>Adranus, the Spirit of Mount Etna</div>
+
+<h4>Adranus, the Spirit of Mount Etna</h4>
+
 <div>Magic Might: 50 (Ignem) Season: Winter Characteristics: Int +3, Per +3, Pre +2, Com</div>
 
 <div sidebars>
@@ -2062,7 +2111,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Regio, 15 points, Init –32, Vim: by permanently spending Might, the spirit can add levels to the regio around the volcano’s crater. (Ritual Power x 3) Ruler of Lava, variable points, Init –2 – Might cost, Terram: duplicates any non-Ritual spell pertaining to lava no greater than 50th level, at a cost of 1 Might point per magnitude of the effect. (Focus Power x2) Ruler of Smoke, variable points, Init –2 – Might cost, Auram: duplicates any non-Ritual spell pertaining to smoke no greater than 50th level, at a cost of 1 Might point per magnitude of the effect. (Focus Power x2) Vis: 10 pawns of Ignem vis; 5 pawns per year can also be harvested from the crater at the volcano’s summit. Appearance: Mount Etna is a conical and blasted peak that rises ten thousand feet above the eastern end of the island of Sicily.</div>
 <div>The Rhinefalls</div>
 <div>Passage along the upper stretches of the Rhine, one of Europe’s great rivers, is blocked by a mighty waterfall that is the home of the river’s genius loci. Long ago the Rhine was tempestuous and unnavigable, until the ancient races of dwarfs and giants tamed it. At this spot, a group of giants hurled a mighty rock into the river, pinioning the spirit there. Thus the river was tamed, making it safe for boating. Ever since, the river spirit has only been able to exercise the full extent of its powers at the waterfalls, which only the most foolhardy of boatsmen attempt to pass. The river spirit can, however, sense along the whole of its length, and it resents those who presume to traffic up and down it, paying it no heed. It longs to be released from the falls so that it may be free to exert its full power over its whole domain. The spirit may be assuaged by sacrificing items of mundane wealth to the waters. It is rumored that a mighty treasure, the Rhinegold, lies somewhere at the bottom of the Rhine. For more details, see Guardians of the Forests: The Rhine Tribunal, page 41.</div>
-<div>Rhenus, the Spirit of the Rhine</div>
+
+<h4>Rhenus, the Spirit of the Rhine</h4>
+
 <div>Magic Might: 50 (Aquam) Season: Winter Characteristics: Int +5, Per +5, Pre +5, Com +4, Str +3, Sta +3, Dex +3, Qik +3 Confidence Score: 1 (3 points)</div>
 <div>Virtues and Flaws: Magic Spirit, Daimon; Ways of the Rivers; Great Communication, Great Intelligence x2, Great Presence x2, Great Perception x2, Improved Characteristics x14; Greater Malediction (Bound); Avaricious Magical Qualities and Inferiorities: Focus Power x4, Greater Power x2, Ritual Power x6; Lesser Power; Minor Virtue x20; Reduced Abilities x7 Personality Traits: Desires Release +6, Lust for Wealth +2 Reputations: Ancient and Harmless Myth 2 (Local) Abilities: Bargain 8 (treasure), Magic Lore 10 (ancient legends), Rhine Lore 12 (upper Rhine) Powers: Control Human, 2 points, Init +3, Mentem (Greater Power) Crafter of Water, variable points, Init +3 – Might cost, Aquam: Duplicates any nonRitual Creo Aquam or Rego Aquam spell no greater than 50th level at a cost of 1 Might point per magnitude of the effect. (Focus Power x 2) Grant Greater Malediction, 10 points, Init –17, Vim: curses a person to suffer a great misfortune on their next trip along or across the Rhine; see Grant (Major Flaw) for more details. (Ritual Power x 2) Grant Puissance in Profession: Boating, 4 points, Init +0, Corpus: see Grant Puissance in (Ability) for more details. (Lesser Power) Oath-Swearing, 10 points, Init –7, Vim (Ritual Power) Presence, 0 points, constant, Imaginem (Greater Power) Regio, 15 points, Init –27, Vim: by permanently spending Might, the spirit can add levels to the regio around the top of the island in the center of the waterfall. (Ritual Power x 3) Master of Water, variable points, Init +3 – Might cost, Aquam: duplicates any nonRitual Muto Aquam or Perdo Aquam spell no greater than 50th level at a cost of 1 Might point per magnitude of the effect. (Focus Power x 2) Vis: 10 pawns of Aquam vis; 5 pawns per year can also be harvested by performing sacrifices of wealth to the spirit. Appearance: The river Rhine plunges down eighty feet in an almighty torrent over a set of cataracts at its upper stretches, south of the Black Forest. A rocky island is perched perilously at the center of the falls, and houses the spirit’s regio.</div>
 <div>The Desert of al-Meraya</div>
@@ -2096,7 +2147,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>from trade, since the parching influence of the desert generally causes most agriculture on their lands to fail. The spirit may manifest itself as any desert creature.</div>
 
-<h4>al-Meraya</h4>
+<h4>Al-meraya</h4>
 
 <div>Magic Might: 40 (Terram) Season: Winter Characteristics: Int +2, Per +4, Pre +2, Com +1, Str 0, Sta +3, Dex –1, Qik +1 Confidence Score: 1 (3 points) Virtues and Flaws: Magic Spirit, Daimon; Ways of the Deserts; Great Perception x1, Improved Characteristics x4; Greedy Magical Qualities and Inferiorities: Focus Power x10, Greater Power x4, Ritual Power x3; Lesser Power; Minor Virtue x5; Reduced Abilities x17 Personality Traits: Thirsty +5, Desire to Expand +2 Reputations: Uninhabitable Desert 3 (Local) Abilities: Iberia Lore 6 (deserts), Magic Lore 4 (Muslim lands), Survival 8 (Deserts) Powers: Control Human, 2 points, Init +1, Mentem (Greater Power) Eidolon, 1 point, Init +5, Imaginem: the spirit can create the illusion of an oasis. (Greater Power) Grant Dowsing, 5 points, Init –9, Vim: see Grant (Minor Virtue) for more details. (Ritual Power) Grant Puissance in Survival, 4 points, Init –2, Corpus: see Grant Puissance in (Ability) for more details. (Lesser Power) Guide, 3 points, Init +4, Mentem (Greater Power) Healing, 2 points, Init –9, Animal or Corpus (Ritual Power x 2) Manifestation, 4 or more points, Init +1 – Might cost, Animal (Focus Power x 2) Master of Earth, variable points, Init +1 – Might cost, Terram: duplicates any non-Ritual Muto Terram or Perdo Terram spell no greater than 40th level at a cost of 1 Might point per magnitude of the effect. (Focus Power x 2) Master of Plants, variable points, Init +1 – Might cost, Herbam: duplicates any non-Ritual Muto Herbam or Perdo Herbam spell no greater than 40th level at a cost of 1 Might point per magnitude of the effect. (Focus Power x 2) Master of Water, variable points, Init +1 – Might cost, Aquam: duplicates any nonRitual Muto Aquam or Perdo Aquam</div>
 <div>spell no greater than 40th level at a cost of 1 Might point per magnitude of the effect. (Focus Power x 2) Presence, 0 points, constant, Imaginem (Greater Power) Ruler of Sandstorms, variable points, Init +1 – Might cost, Auram: duplicates any nonRitual spell pertaining to sandstorms no greater than 40th level, at a cost of 1 Might point per magnitude of the effect. (Focus Power x 2) Vis: 8 pawns of Terram vis; 4 pawns per year can also be harvested from deep inside the desert. Appearance: This desert is located about a dozen miles to the north of the Moorish port city of al-Meraya (Almeria), in the southeast of Iberia. It is a forbidding landscape of sandy, rocky soil, thinly dotted with scrub plants and cacti. By day it is oppressively hot, by night, unpleasantly cold.</div>
@@ -2189,7 +2240,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The covenant busybody learns of the properties of the extraordinary Looking Glass of Intellego vis and “borrows” it to watch the business of the other covenant members. The busybody witnesses someone commit a crime and is torn between exposing the wrongdoer (and so also exposing his own thievery) and letting the crime go unpunished. Should the busybody come forward and identify the criminal, but not his own misdeeds, his story rings untrue; he fails the test of the Frosty Breath of the Spoken Lie, and becomes a suspect in the crime.</div>
 
-<h4>A Frozen Find</h4>
+<h4>a Frozen Find</h4>
 
 <div>A local noble has discovered the source of the extraordinary Icicle of Perdo vis and has several pawns in his cellar, which keeps one small room at freezing temperatures. He enjoys showing off to his visitors by serving them chilled drinks on the hottest days of the summer. Do the magi attempt to barter for the vis, which the noble does not part with cheaply, or do they just take the vis?</div>
 
@@ -2303,10 +2354,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The vis described above is more valuable than the typical forms of vis characters encounter. A vis source that provides extraordinary or dedicated vis should rarely produce more than a few such pawns per year. In transactions involving special vis, the vis is proportionally more valuable than normal vis. To determine the trade value of extraordinary or dedicated vis, divide its cost in Build Points by 5. If an extraordinary</div>
 <div>pawn of vis would require 20 build points, it is worth four times as much as a normal pawn of vis, which only requires 5 build Points.</div>
-<div>Lesser Enchantment Vis Source Cost: 5 Build Points + 0-2 Build Points per magnitude of the magical effect of the vis per pawn of vis per year</div>
-<div>Spell-like Vis Source Cost: 5 Build Points + 1-3 Build Points per magnitude of the magical effect of the vis per pawn of vis per year</div>
-<div>Dedicated Vis Source Cost: 7.5 Build Points per pawn of vis per year</div>
-<div>Vis Stocks Cost: Vis Source Cost in Build Points divided by 5 per 5 pawns of vis</div>
+
+<h4>Lesser Enchantment Vis Source Cost: 5 Build Points + 0-2 Build Points Per Magnitude of the Magical Effect of the Vis Per Pawn of Vis Per Year</h4>
+
+
+<h4>Spell-like Vis Source Cost: 5 Build Points + 1-3 Build Points Per Magnitude of the Magical Effect of the Vis Per Pawn of Vis Per Year</h4>
+
+
+<h4>Dedicated Vis Source Cost: 7.5 Build Points Per Pawn of Vis Per Year</h4>
+
+
+<h4>Vis Stocks Cost: Vis Source Cost in Build Points Divided By 5 Per 5 Pawns of Vis</h4>
+
 <div>The build points for extraordinary vis are variable depending on the special powers of the vis. Vis that mimics Ritual spells is more valuable than vis that simply mimics a normal spell, and vis that provides merely cosmetic or annoying effects should cost little or no more than normal vis.</div>
 
 <h4>Insubstantial Vis</h4>
@@ -2320,7 +2379,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>An Herb or Object of Virtue typically contains 1 or 2 pawns of vis. Without Enrichment, this, and any Shape and Material Bonus, is the only feature of such things. Anyone with the Magic Lore Ability can Enrich a Thing of Virtue, activating its hidden powers; the knowledge of what powers a Thing of Virtue might possess is covered by this Ability. To determine what powers a Thing of Virtue might have, make an Intelligence + Magic Lore roll against an Ease Factor of 9. If successful, the character knows the magical powers that can be granted by the Thing of Virtue, and the method by which to Enrich it. Some Things of Virtue may have more than one possible Virtue; when Enriching such items, the magician must decide which power he wishes to activate. Once made, this decision cannot be undone. Enrichment does not require a laboratory,</div>
 <div>but a magical procedure is necessary; see the descriptions below for example Enrichments. Not all vis can be Enriched, only that which derives from an Animal, Herb, or Object of Virtue. Enrichment enchants the raw vis in the thing, and it cannot be henceforth used as vis or extracted from the object. This requires a season of uninterrupted magical operation and a sufficiently high Enrichment Total:</div>
-<div>Enrichment Total: Intelligence + Magic Lore + aura</div>
+
+<h4>Enrichment Total: Intelligence + Magic Lore + Aura</h4>
+
 
 <h4>Enrichment Level: 9</h4>
 
@@ -2532,19 +2593,19 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>surroundings, whereas dry things are fixed and structured. Hotness causes matter to separate and seek those of its own kind, but coldness promotes mixing of matter and coagulation. The world is formed of four regions of elemental matter, with the self-defining dry elements forming the innermost layer of earth and the outermost layer of fire. The two cold elements sink to the center of the earth whereas the two hot ones seek to separate and rise, leaving the final order, from the center, as earth, water, air, and fire. Beyond the region of fire is the Lunar Sphere, which separates the material and the celestial realms. More details on this issue can be found in Art & Academe.</div>
 <div>New Elementals Spells and Spell Guidelines</div>
 
-<h4>Creo (elemental Form)</h4>
+<h4>Creo (Elemental Form)</h4>
 
 <div>Level 25: Create an elemental from a base amount of elemental matter (Ritual)</div>
 
-<h4>Muto (elemental Form)</h4>
+<h4>Muto (Elemental Form)</h4>
 
 <div>General: Convert part of an elemental’s body into another type of matter of the same element (soil to dust, wind to smoke, etc.), reducing the elemental’s Might pool by the level of the spell +10. If the elemental is not destroyed by this effect, when the duration ends it can restore this Might by re-absorbing the matter.</div>
 
-<h4>Rego (elemental Form)</h4>
+<h4>Rego (Elemental Form)</h4>
 
 <div>Level 5: Completely control an elemental</div>
 
-<h4>Perdo (elemental Form)</h4>
+<h4>Perdo (Elemental Form)</h4>
 
 <div>General: Destroy sufficient matter to reduce an elemental’s Might Score by the level of the spell +10</div>
 
@@ -2681,6 +2742,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Magic Might: 15 (Ignem) Season: Spring Characteristics: Cun 0, Per –2, Pre +3, Com +1, Str –4, Sta 0, Dex +5, Qik +2 Size: 0 Virtues and Flaws: Magic Thing; Ways of the Forest Fire; Poor Memory, Short Attention Span, Simple Minded. Magical Qualities and Inferiorities: Greater Power (Burn), Greater Power (Fascination), Ritual Power (Enliven the Gross Fire); Great Dexterity, Improved Recovery x 2*, Improved Soak x 2, Minor Virtue (Lightning Reflexes)  * Recovers Might points in one quarter of the time, which for an elemental means 3 weeks rather than a season. For a Might 15 elemental this is approximately 2 Might point every 3 days. Personality Traits: Forest Fire +3* Combat: Burn Power*: Init +3, Attack +12, Defense n/a, Damage +(Might Pool)  * Includes Way of the Forest Fire Soak: +4</div>
 <div>Wound Penalties: –1 & 1 Might point (1– 5), –3 & 3 Might points (6–10), –5 & 5 Might points (11–15), Incapacitated & 5 Might points (16–20), Dead & all Might points (21+) Abilities: Athletics 3 (leaping between fuel sources), Brawl 3 (Burn Power), Charm 3 (small animals), Penetration 3 (Fascination Power) Powers: Burn, 0 points, Init +0, Ignem: see above for details Fascination, 3 points, Init +6, Mentem: see above for details Enliven the Gross Fire, 6 points, Init –10, Ignem: See Chapter 4: Common Powers for more details. Vis: 3 pawns of Ignem, in body. Notes: Born of a lightning strike hitting a magically tainted tree (perhaps a vis source), this elemental has the frightening power to spawn more fire elementals, which it does if fought with water.</div>
 </div sidebars>
+
+
+<h2>Book of Mundane Beasts</h2>
 
 <div>The beasts of Mythic Europe are not quite the same as normal animals in the real world. The ferocity of wild animals, in particular, is exaggerated for dramatic purposes. In Mythic Europe, it is not uncommon for beasts such as wolves to attack humans.</div>
 <div>Beast Statistics</div>

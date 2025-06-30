@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -5,6 +9,9 @@ Ars Magica Open License Logo ©2024 Trident, Inc. The Ars Magica Open License Lo
 
 Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.
 
+
+
+<h2>Beyond the Expected</h2>
 
 <div></div>
 <div>Welcome to Magi of Hermes. This book presents fifteen unique magi of the Order of Hermes, along with their magical creations, to be used in your saga.</div>
@@ -73,7 +80,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Alexander has developed the following new spells.</div>
 <div>Animal Spells</div>
 
-<h4>Recruiting A Tiny Phalanx</h4>
+<h4>Recruiting a Tiny Phalanx</h4>
 
 <div>Cr(Re)An 30 R: Touch, D: Sun, T: Group This spell allows Alexander to create a swarm of scorpions. The swarm, combined, has the mass of a human being. The spell has a Rego requisite, which allows Alexander to command the swarm to do things other than chase beetles and run from larger creatures. In dangerous areas, he often casts two Circles of Beast Warding, one slightly larger than the other, around the area where his party is going to camp. He then pours scorpions into the ring this creates, and orders them to attack anyone else that crosses the ring, casting the spell multiple times if he feels it is necessary. This technique also has the advantage that if he botches the spell, and creates a swarm of enraged and uncontrollable scorpions, he need only wait safe behind his inner Circle of Beast Warding for them to disappear. Scorpion venom is painful, but individual stings are rarely fatal for healthy people. In areas where scorpions are common, the allergy that causes their sting to be fatal may be taken as a Minor Flaw. An attacking swarm</div>
 <div>of scorpions does +10 damage automatically each round, but this can be Soaked normally. (Base 5, +1 Touch, +2 Sun, +1 Group, +1 Rego requisite)</div>
@@ -114,7 +121,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>MuCo(An) 25 R: Per, D: Sun, T: Ind Alexander uses this spell to transform into an Arabian camel. This allows him to travel through the arid regions of Northern Africa more easily than if he had human shape. In this form he has the innate abilities of a camel, which includes the ability to detect the direction and distance of water for many miles, by scent. He has a belt made of camel leather that acts as a focus for this spell, enabling him to dispel it at will. (Base 10, +2 Sun, +1 for size change)</div>
 
-<h4>The Shadow on the Sand</h4>
+<h4>The Shadow On the Sand</h4>
 
 <div>MuCo(An) 30 R: Per, D: Sun, T: Ind The ability to take the shape of a vulture allows Alexander to forage for food, and travel swiftly over areas that do not interest him. Vultures have exceptionally keen eyesight, so he is able to observe distant events on the ground in this form. Vultures are also considered birds of ill-omen, and he has occasionally used this shape to unnerve mundanes. Alexander has a strand of vulture feathers that he uses as a physical prop to allow this spell to be canceled at will. (Base 20, +2 Sun)</div>
 
@@ -126,11 +133,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>MuCo(An) 40 R: Touch, D: Sun, T: Ind This spell transforms Alexander, or someone he touches, into a crocodile. Crocodiles are fearsome foes in combat around water, and the stealth of the crocodile makes grogs that have experience with the form into useful amphibious or aquatic scouts. Alexander has a crocodile skin dagger scabbard, which he uses to cancel the spell at will. (Base 20, +1 Touch, +2 Sun. Crocodiles are treated as fish when selecting a base level for this spell, +1 great Size change)</div>
 
-<h4>A Punishment for Brigands</h4>
+<h4>a Punishment for Brigands</h4>
 
 <div>MuCo(An) 40 R: Voice, D: Sun, T: Ind This spell transforms a human into a mouse. While in mouse form, the victim of this spell may be affected by Circle of Beast Warding, which prevents him or her from fleeing if cast swiftly enough. This allows the mouse to be gathered into a bag and transferred to a place of confinement, or casually destroyed. (Base 10, +2 Voice +2 Sun, +2 Group)</div>
 
-<h4>A Source of Tremendous Pride</h4>
+<h4>a Source of Tremendous Pride</h4>
 
 <div>MuCo(An) 45 R: Voice, D: Sun, T: Group Used to transform the covenant’s ser</div>
 <div>vants into a pride of lions. Medieval bestiaries recognize three varieties of lion. Male lions of the straight-maned type, which this spell produces, are lazier than female ones, and this has led to the formation of a small cadre of female warriors in the covenant, who are skilled in unarmed combat. A few carry bone weapons. Alexander sometimes uses a tail spur he carries in his trinket pouch as a physical prop to allow this spell to be canceled at will. (Base 10, +2 Voice +2 Sun +2 Group +1 for size change)</div>
@@ -146,11 +153,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>MuIg(An) 30 This is a spell Alexander designed to avenge a personal slight. This spell transforms a large campfire into a bootlace, glove, thong, lanyard, belt, or similar leather product, for Moon Duration. When the spell’s duration expires, the campfire continues burning as a natural fire, if it has sufficient fuel and air. A person wearing the item suffers +5 Damage in the first round, and in</div>
 <div>each subsequent round provided the fire has sufficient fuel to continue burning. Alexander appears to have used this spell to burn all of his rival’s favorite clothes, by incinerating the contents of a closet. Rumors that the rival’s ship was lost at sea with all hands have never been proven. (Base 10, +1 Touch, +3 Moon, requisite free)</div>
 
-<h4>A Time For Slumber</h4>
+<h4>a Time for Slumber</h4>
 
 <div>PeIg 5 R: Touch, D: Ring, T: Circle When this spell is cast around a camp, it dims the blinding light of the desert sun. This allows grogs and animals to sleep more easily. Alexander uses it in conjunction with A Place of Recuperation when on expedition. (Base 2, +1 Touch, +2 Ring)</div>
 
-<h4>A Place of Recuperation</h4>
+<h4>a Place of Recuperation</h4>
 
 <div>PeIg 15 R: Touch, D: Ring, T: Circle When this spell is cast around a camp, it lowers the temperature within the site to that of a mild summer’s day. Alexander uses it, in conjunction with A Time For Slumber, to allow his expedition to rest during the hottest part of the day during desert travel. (Base 4, +1 Touch, +2 Ring)</div>
 <div>Imaginem Spells</div>
@@ -174,6 +181,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>MuTe(Aq) Level 30 This spell allows Alexander to turn large volumes of sand into water, which rapidly dissipates in the desert heat. Alexander uses this spell to excavate sites that have become sand-bound, and to disorient foes by making the ground they are standing on into a deep waterhole. This spell can affect one hundred cubic yards of sand. Alexander can alter the shape of the space affected with a Finesse Roll. (Base 3, +2 Voice, +2 Sun, +2 Part, +1 large target)</div>
 
 <h1>Chapter Two</h1>
+
+
+<h2>Aurulentus of Jerbiton</h2>
 
 <div>Concept: This seventh son of a seventh son is deeply concerned with his family, and develops many spell effects concerned with health, fertility, and care for children as a result.</div>
 <div>This is the story of Aurulentus of Jerbiton, an unusual magus as he comes from a family of mages. Aurulentus is a seventh son, an auspicious fate. But not only that, his father was also a seventh son, as was his grandfather. In fact, Aurulentus is the fifth continuous generation of seventh sons. A prophecy was once made to his ancestors that the seventh son in the seventh generation would become a powerful magus and be able to reshape magic. Ever since, the family has used numerous means to ensure that in every generation seven sons are born and raised with the prophecy in mind. It is a story of many generations of hope and struggle, differing views and planning. Aurulentus can expect to witness the heralded powerful magus: his grandson would be the sought-after seventh son in the seventh generation. Over the course of his life, Aurulentus specializes in Corpus magic and uses his special affinity with fertility to accomplish a noteworthy feat: he develops a Longevity Ritual that does not render him infertile and tries to extend this feat to other people’s Longevity Rituals.</div>
@@ -234,7 +244,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Bestow the Blessing of Apollon</h4>
 
 <div>CrCo 50 R: Touch, D: Year, T: Room, Ritual All targets within the room gain a +18 bonus to Recovery rolls to recover from injuries or diseases, as long as they have been under the influence of this spell for the whole of the recovery interval. The recovery interval is counted from the time that the spell is cast or from the time the subject enters the room — whichever is later. Any previous time is ignored. This spell was invented by Aurulentus as a proof of concept. It is no longer used, as it is too expensive in terms of vis and causes Warping. Instead, an Enchanted Item has been made with similar effects (see New Items: Bed of Rapid Convalescence). (Base 15, +1 Touch, +4 Year, +2 Room)</div>
-<div>Incantation of the Warriors Made Whole</div>
+
+<h4>Incantation of the Warriors Made Whole</h4>
+
 <div>CrCo 50 R: Touch, D: Mom, T: Room, Ritual Heals all damage to all human bodies in the room at the conclusion of the ritual. The targets must have been present in the room for the entire length of the ritual to benefit from the spell. The spell can only heal wounds, not such damage as missing limbs, or diseases and damage from poisons. This improved version of the Incantation of the Body Made Whole was commissioned by a Tremere magus who wanted to save vis while healing a large group of wounded people. To use this during (or better, after) a battle, a tent may be used instead of a room. Using Target: Room rather than Group means that this spell can heal more wounded, if one can get all of them into a single room. (Base 35, +1 Touch, +2 Room)</div>
 
 <h4>Blessing of Artemis’ Fertility</h4>
@@ -268,7 +280,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 <div>tal differences between these two groups, he was able to gather further insights for his breakthrough. (Base 10, +1 Touch)</div>
-<div>Verifying the Presence of Artemis’ Blessing</div>
+
+<h4>Verifying the Presence of Artemis’ Blessing</h4>
+
 <div>InCo 15 R: Touch, D: Sun, T: Ind The caster is immediately aware of a conception in the target during the spell duration. Aurulentus observed grogs with and without Longevity Rituals during intercourse with this spell to explore the differences between the two groups. His research was unsuccessful, as he was not able to witness the actual creation of life with this spell. (Base 4, +1 Touch, +2 Sun)</div>
 
 <h4>Ease the Suffering of Childbirth</h4>
@@ -279,7 +293,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>ReCo 30 R: Voice, D: Sun, T: Ind Holds the target completely motionless for the duration of the spell. In addition, the spell closes the eyes of the target and keeps them firmly shut, so that he is unable to see for the duration of the spell. Chur is a troublesome grog of the covenant. A lesser version of this spell was used to stop him when he was doing mischief. Aurulentus soon realized that a more-powerful version would have many uses: as a combat spell, as a spell to act without witnesses, and as a spell to stop nosy mundanes. It was once used on a friendly grog who came under the influ</div>
 <div>ence of a mind control spell to stop him from attacking his group without harming him. (Base 5, +2 Voice, +2 Sun, +1 close eyes)</div>
-<div>House Arrest of the Unruly Child</div>
+
+<h4>House Arrest of the Unruly Child</h4>
+
 <div>ReCo 30 R: Touch, D: Ring, T: Circle Creates a circle which (if the spell penetrates) no human being may pass. Aurulentus uses this spell to either keep children away from important rooms such as his lab or his bedroom, or to keep children inside a room. (Base 15, +1 Touch, +2 Ring)</div>
 
 <h4>It’s Raining Men</h4>
@@ -339,21 +355,21 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>InIm 8 Pen +0, constant effect R: Touch, D: Sun, T: Ind Listens to the baby in the crib. When the baby starts to scream, the second effect is triggered. (Base 1, +1 Touch, +2 Sun, +1 level 2 uses/day, +3 levels environmental trigger)</div>
 
-<h4>Rocking into Sound Sleep</h4>
+<h4>Rocking Into Sound Sleep</h4>
 
 <div>ReHe 17 Pen +0, 24 uses/day R: Per, D: Conc, T: Ind Once triggered by the first effect, this effect will rock the crib slightly, hopefully resulting in a content and sleepy baby. Once the baby’s crying stops, the crib stops rocking. (Base 3, +1 Conc, +5 levels item maintains concentration, +5 levels 24 uses/day, +3 levels triggered effect)</div>
 <div>Guardian of Decency</div>
 <div>A silver necklace with three small beryl stones attached to it. The invested item detects if the wearer is touched by a man and then removes any indecent emotions from him. Aurulentus created this item after he found out that a boy from a neighboring village had aggressively pursued one of his daughters.</div>
 
-<h4>Who Touches my Daughter?</h4>
+<h4>Who Touches My Daughter?</h4>
 
 <div>InCo 19 Pen +0, constant effect R: Touch, D: Sun, T: Ind Detects if the wearer is touched by a man, and then triggers the second effect. (Base 4, +1 Touch, +2 Sun, +1 level 2 uses/day, +3 levels environmental trigger)</div>
 
-<h4>Dare Not Touch my Daughter!</h4>
+<h4>Dare Not Touch My Daughter!</h4>
 
 <div>PeMe 30 Pen +0, 3/day R: Voice, D: Sun, T: Ind Once triggered by the first effect, this effect renders the target completely bereft of lust — he will no longer feel indecent passions towards the wearer of the necklace, or indeed, any woman. (Base 5, +2 Voice, +2 Sun, +2 levels for 3 uses/day, +3 levels triggered effect)</div>
 
-<h4>A Guardian’s Voice</h4>
+<h4>a Guardian’s Voice</h4>
 
 <div>CrIm 11 Pen +0, unlimited uses/day R: Per, D: Mom, T: Ind Emits a quiet, but audible humming, so that the effect Dare Not Touch my Daughter! can use the Range: Voice. (Base 1, +10 levels for unlimited uses/day)</div>
 <div>Nappy without Nuisance</div>
@@ -376,6 +392,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>ReAu(Ig) 24 Pen +0, constant effect R: Touch, D: Sun, T: Ind This sturdy and nondescript travelling cloak protects the wearer from rain and keeps him comfortably warm by keeping bodily warmth inside the cloak. Aurulentus invented the cloak as an invested item after his wife caught a cold from walking in the rain to visit him. (Base 4, +1 Touch, +2 Sun, +1 Ig requisite, +1 level 2 uses/day, +3 levels environmental trigger)</div>
 
 <h1>Chapter Three</h1>
+
+
+<h2>Conscientia of Bonisagus</h2>
 
 <div>Concept: This “lab rat” develops effects to order for other magi, to gather resources for her own research project that has yet to bear fruit.</div>
 <div>Discovered at an early age in a rural village outside Carcassone, Conscientia of Bonisagus was a Hermetic prodigy. Snatched up by a Tytalus at an early age, Conscientia was able to grasp the Hermetic Arts with an amazing speed. Complex formulas were child’s play, yet even the most basic of spells fizzled at her fingertips. With her parens infuriated by her inability to reliably harness the Hermetic forces, Conscientia’s studies were hard and grueling. Eventually she was spotted by a Bonisagus who saw her true potential, and Conscientia was taken back to Durenmar, where her talents could be put to better use. During her training, Conscientia would spend her minute amount of free time in the lab, exploring Hermetic theory in her own ways. She assisted her new master in many high level experiments, the last of which saw a terrible disaster that left the lab destroyed and her parens in Twilight. Although she completed her gauntlet, Conscientia has kept working in that same lab, waiting for her master to return. Conscientia spends her spare time working on requests, developing Lab Texts and casting tablets for barter with other magi for the superior equipment and supplies that she needs to continue her own work. Often, she gives her patron an overly long estimate for an item’s creation, and then announces that she has “finished early” to help bolster her reputation as a miracle worker. Sometimes she instead uses the excess time to continue her own research into the spell her parens was developing (details of which are left to the Storyguide’s discretion).</div>
@@ -433,7 +452,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Conjure From the Mist</h4>
 
 <div>MuAu(Te) 40 R: Voice, D: Sun, T: Part Developed as an all-purpose utility spell, Conjure From the Mist turns a large section of air into stone, in the shape of the user’s choice. More-complicated shapes require Finesse rolls as normal, but items such as stairs, bridges, walls, spikes and other obstacles are possible. (Base 4, +2 Sun, +1 Part, +2 Voice, +2 size, +1 Intricate)</div>
-<div>Be Rid the Tell Tale Smoke</div>
+
+<h4>Be Rid the Tell Tale Smoke</h4>
+
 <div>PeAu 20 R: Touch, D: Ring, T: Circle Conscientia learned this spell from her parens, who developed it after overhearing grogs complaining about a how a campfire’s smoke always gives away their position. This spell simply destroys all smoke within the circle. Great for setting up camp on the sly, or keeping the laboratory smoke-free. (Base 5, +2 Ring, +1 Touch)</div>
 <div>Corpus Spells</div>
 
@@ -639,6 +660,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Four</h1>
 
+
+<h2>Gwidion of Verditius</h2>
+
 <div>Concept: A master at magically enhancing plants, his greatest creation may be the living tree that serves as his home.</div>
 <div>Gwidion Griffith of Veriditius stands a towering four foot nothing, with thick curly brown hair, brown crows-footed eyes, and a lean frame. Gwidion has one more feature that truly sets him apart from other magi, he’s tan. With skin weathered and wrinkled from a life lived with his hands in the dirt and his face in the sun, Gwidion commonly dresses as a farmer. Wearing a wide-brimmed straw hat, plain tunic and breeches, and simple sandals on his feet, Gwidion could almost be mistaken for a common peasant. However, the tall rune-engraved staff and large overthe-shoulder satchel betray Gwidion’s status as a magus. Gwidion can usually be found with dirt and sap on his hands and knees, a long blade of grass in his mouth, and a smile upon his face. Gwidion was once considered one of the bright rising stars within his guild and house, but a violent disagreement with his master at Tribunal led him to earn the enmity of his guild when he voted against them on vis harvesting rights. Only a few years out of gauntlet, Gwidion left Durenmar in disgust and took to wandering in the deep woods and Welsh farmlands of his youth.</div>
 <div>Gwidion at Gauntlet</div>
@@ -693,7 +717,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>CrHe 4 R: Touch, D: Ring, T: Circle This spell ensures that all plants within the circle grow well. It has the same effect as The Bountiful Feast (ArM5, page 135), but is based on Ring Duration and Circle Target. (Base 1, +1 Touch, +2 Ring)</div>
 
-<h4>Ladder Of Ivy</h4>
+<h4>Ladder of Ivy</h4>
 
 <div>CrHe 15 R: Voice, D:Sun, T:Individual This spell creates a sturdy ladder of ivy that the magus or others can use to scale any wall or (low) cliff. The ivy withers at sunrise or sunset, and can reach up about twenty paces. (Base 3, +2 Voice, +2 Sun)</div>
 
@@ -712,7 +736,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Razor Thorns</h4>
 
 <div>MuHe(Te) 25 R: Voice, D: Diameter, T: Group This spell causes razor-sharp thorns to spring out of every plant or plant-made product in an area within the range of the caster’s voice. These thorns deal +10 damage to up to a standard group of people (up to ten). The thorns eventually retreat, but they remain for roughly two minutes and can still act as a viable deterrent as the thorns are still just as sharp as a knife. (Base 4, +2 Voice, +1 Diameter, +2 Group)</div>
-<div>Blades of Grass, Leaves of Cutting</div>
+
+<h4>Blades of Grass, Leaves of Cutting</h4>
+
 <div>MuHe 30 R: Voice, D: Sun, T: Group This spell makes all the grass and leaves of a group of plants as sharp as a sword’s blade; this can make an area utterly impassable for even the most armored of individuals. (Base 4, +2 Voice, +2 Sun, +2 Group)</div>
 
 <h4>Awaken Consciousness of Plant</h4>
@@ -757,7 +783,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>PeIg 20 R: Touch, D: Sun, T: Part This spell cools the bark of a tree, the wood of a cart, or even the planks of a house so that it is cool to the touch. This a good effect to help dispel the heat of the night and keep the magus cool during the hotter seasons. (Base 4, +1 Touch, +2 Sun, +1 Part)</div>
 <div>Imaginem Spells</div>
-<div>Sight of the Blossom, Ears of the Oak</div>
+
+<h4>Sight of the Blossom, Ears of the Oak</h4>
+
 <div>InIm 30 R: Arcane Connection, D: Sun, T: Group While using this spell, the magus can see and hear what’s happening in a distant place if he possesses some sort of Arcane Connection to either the location or the person he’s scrying upon. Gwidion normally uses leaves or flower buds from trees and bushes all around his forest to help keep an eye on what’s going on when he’s not there. (Base 2, +4 Arcane Connection, +2 Sun, +2 Group)</div>
 <div>Terram Spells</div>
 
@@ -765,7 +793,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>ReTe 15 R: Voice, D: Momentary, T: Part This spell instantly tills an amount of soil equal to that of 1000 cubic paces, making it perfect for planting crops or just soft enough to lie down upon comfortably. (Base 2, +2 Voice, +1 Part, +2 Size)</div>
 
-<h4>Mold the Earth within Sight</h4>
+<h4>Mold the Earth Within Sight</h4>
 
 <div>ReTe 30 R: Sight, D: Momentary, T: Part Using this spell, the magus can shape an amount of earth equal to the mass of a hundred men into any form that he likes, although truly complicated forms may require a Finesse check. This spell was originally invented to help build quick walls or boundaries (even hasty circles), but its applications could be broader. This spell only works on dirt, rock, and stone; other more-exotic forms of Terram (metal, diamonds, gemstones, etc.) are unaffected. (Base 2, +3 Sight, +1 Part, +1 Size, +1 Elaborate, +2 stone)</div>
 <div>Enchanted Items</div>
@@ -773,7 +801,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Staff of Silent Forest Stride</div>
 <div>All plants that are touched by this lesser enchanted item make no sound when they are pushed side, stepped on, or brushed up against. Lesser Enchanted Item, 3 pawns Perdo vis to invest.</div>
 
-<h4>Silent forest</h4>
+<h4>Silent Forest</h4>
 
 <div>PeIm(He) 25 Pen +0, constant effect R: Voice, D: Diameter, T: Part This effect destroys all sound species that a plant could make for the duration of the spell, but it does not affect any sound species produced by the magus. (Base 1, +2 Voice, +1 Diameter, +1 Part, +1 Size, Unlimited uses +10 lvls)</div>
 <div>Stone Disk of Warmth of Wood</div>
@@ -948,6 +976,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Five</h1>
 
+
+<h2>Hugh of Flambeau</h2>
+
 <div>Concept: A magus who relishes physical combat, and who has developed many spells and enchanted items to make him a more formidable opponent.</div>
 <div>Hugh Hostis of Flambeau was late to begin his apprenticeship; he was already fourteen years old when his master discovered him on the streets of the city, being used as a heavy by a local street gang, intimidating people with his Gift. The magus of House Flambeau took the boy in, and after taming him, taught him magic. Hugh was trained in the School of Ramius, a Flambeau style of combat that emphasizes mundane attacks and magical defenses, and he spent nearly as much time drilling in combat with the grogs as he did in the laboratory. He has become an excellent soldier, easily the match of many experienced grogs especially as a brawler, but has been struck around the head so many times that he has permanently damaged his hearing. Hugh has a natural talent for combining magic and combat. His mother told him that the blood of the valkyries — supernatural warrior women of the Northern lands — flowed in his veins, and that they provide him with armor whenever he needs it. Hugh never holds back in combat; he is always with the warriors in the front line, sometimes acting as leader and/or vanguard of the fighting force. Since his Mythic Blood rarely leaves him fatigued, he often casts defensive spells on his fellow soldiers to make them better warriors. The grogs respect his fighting ability but fear his recklessness and his temper. His favored tactic is to strike a supernatural target in battle with a weapon then follow up with a spell, using the blood on the blade as an Arcane Connection to enhance Penetration. After nearly a half-century of service, Hugh has become a prominent member of the tribunal, taking it upon himself to hunt down Marched magi with a group of loyal grogs and impose the punishment of the</div>
 <div>Order. Two decades after his apprenticeship Hugh came to the attention of the Legion of Mithras (see The Mysteries, Revised Edition, pages 118–122), a Mystery cult devoted to the defense of the Order from outside threats. He was initiated and has achieved the second rank, called the Bride. He has made excursions beyond the bounds of the Order’s territories to investigate rumors of hostile magicians, and slain several hedge wizards as a consequence. He personally does not feel that any of the magicians he has faced posed a serious threat to the Order, but he is a loyal soldier and does what he is told.</div>
@@ -986,7 +1017,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>New Spells</div>
 <div>Hugh has developed the new spells that are listed here.</div>
 <div>Corpus</div>
-<div>Assume the Stature of the Giants of Eld</div>
+
+<h4>Assume the Stature of the Giants of Eld</h4>
+
 <div>MuCo 10 R: Per, D: Diam, T: Ind Adds +3 to the caster’s normal Size, turning him into a veritable giant. The caster’s clothing, armor, and weapons are also increased in size in proportion. Characteristics are not affected by the size change, but the caster’s wound ranges change accordingly: at Size +3, the caster’s wounds have eight-point increments (1–8 points for a Light Wound, 9–16 for a Medium Wound, and so forth). Casting requisites of Animal, Herbam, and Terram are usually required to affect all the target’s equipment. A size modifier is required for this spell since the final size is ten times the mass of a base target for Corpus. (Base 3, +1 Diam, +1 size, +1 to increase equipment as well)</div>
 
 <h4>Avalanche of Flesh and Steel</h4>
@@ -1046,7 +1079,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This enchanted gauntlet is shaped like the caestus used by a gladiator in Roman times; a tough leather glove buckled around the wrist, but with no fingers. The leather is</div>
 <div>plated with iron, particularly over the knuckles where it forms spikes and heavy plates. The gauntlet was opened with 10 pawns of vis (a small item of base metal), and currently has five pawns-worth of effects.</div>
 
-<h4>Night-Time Thunder</h4>
+<h4>Night-time Thunder</h4>
 
 <div>ReMe 20 Pen +12, 12/day R: Touch, D: Diam, T: Ind This effect is triggered when the wearer of the gauntlet strikes a being with his thumb between his ring and little fingers. The target falls asleep, and cannot be naturally awakened until the effect’s duration has expired. (Effect: Base 4, +1 Touch, +1 Diam; Modifications +4 12/day, +6 Penetration)</div>
 
@@ -1057,7 +1090,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Hugh has enchanted a long-hafted bearded axe as his talisman. He calls this Troll’s Wife, in deference to a Northern tradition to name an axe after a fearsome monster. Only the</div>
 <div>haft has been enchanted, allowing the blade to be unimpeded by Magic Resistance. The weapon is beautifully made: the head is made of steel with an iron edge, and inlaid silver depicts mythological scenes of heroes slaying dragons and giants. The haft is made of holly wood, perfectly sized to Hugh’s height and reach, and bound in bands of brass. It is carved with horses, eagles, and wolves. Near the axe head are six inlaid discs, three of amber and three of bloodstone. This weapon was made personally for Hugh at great expense, and is of excellent quality (see City & Guild, pages 69–70), granting a +3 to Attack and Defense rolls when using it. The weapon otherwise has the statistics of a pole axe. Troll’s Wife was opened with 12 pawns of vis (the highest cost component is the tiny semi-precious gems near the axe-head), and currently has no room left for further effects as Hugh has not chosen to increase its space just yet.</div>
 <div>Attunements +3 Corpus (amber) +4 blood and wounds (bloodstone) +4 demons and angels (brass, from Houses of Hermes: Mystery Cults, page 137) +7 harm or repel faeries (iron)</div>
-<div>Wood that Neither Bends Nor Breaks</div>
+
+<h4>Wood That Neither Bends Nor Breaks</h4>
+
 <div>MuHe(Te) 14 Pen n/a, constant effect R: Per, D: Sun, T: Ind The haft of the axe becomes as hard as iron, and is virtually unbreakable by mundane means. (Effect: base 4, +2 Sun; Modifications +1 2/day, +3 environmental trigger)</div>
 
 <h4>Fell the Faerie</h4>
@@ -1065,13 +1100,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>PeVi 23 Pen 20, 6/day R: Touch, D: Mom, T: Ind This effect is triggered when the wielder of the axe says “ferrum et fraxinus” (“iron</div>
 <div>and ash”) when striking a creature with the haft; but it only affects entities with Faerie Might. If the effect penetrates, the creature loses 15 Might. (Effect: Base 5, +1 Touch; Modifications +10 Penetration, +3 6/day)</div>
 
-<h4>Hew the Hell-Beast</h4>
+<h4>Hew the Hell-beast</h4>
 
 <div>PeVi 23 Pen 20, 6/day R: Touch, D: Mom, T: Ind This effect is triggered when the wielder of the axe says “os et orichalcum” (“bone and brass”) when striking a creature with the haft; but it only affects entities with Infernal Might. If the effect penetrates, the creature loses 15 Might. (Effect: Base 5, +1 Touch; Modifications +10 Penetration, +3 6/day)</div>
-<div>Sharpening the Wizard’s Blade of Vim</div>
+
+<h4>Sharpening the Wizard’s Blade of Vim</h4>
+
 <div>MuVi 28 Pen n/a, 24/day R: Touch, D: Mom, T: Ind This effect is automatically triggered when the wielder says the word “acuere” (“be sharpened!”) before triggering another enchantment in the talisman that has a unmodified level (that is, excluding Uses per Day, Penetration, and so forth) of 10 or less. The Penetration total of the target effect is increased by 10, which is a total change of effect. This effect can only increase the Penetration of an effect in the item, or the Penetration of the item itself. Hugh invested this effect because when he first created many of the effects in his talisman he was unable to give them a particularly high Penetration total. This effect makes up for that deficiency, even though it adds an extra round to the activation of these effects. It is more economical in terms of enchantment costs than reinvesting the effects he has currently. (Effect: Base 15, +1 Touch; Modifications: +5 24/day, +3 linked trigger)</div>
 
 <h1>Chapter Six</h1>
+
+
+<h2>Julia of Ex Miscellanea</h2>
 
 <div>Concept: This weaver’s faerie blood lets her produce enchanted cloth and clothing of the highest caliber, though she rejects her heritage and as a result is tormented by her fey ancestor — a spider prince.</div>
 <div>Julia Textrix of Ex Miscellanea is a maga from the Rusticani tradition (Houses of Hermes: Societates, pages 130–133), magi who excel in the combination of mundane crafts and arcane magic. She was born at the covenant of Florum in the Normandy Tribunal (see The Lion and the Lily, page 96), and is a member of the de Spinnen family who all bear a peculiar variety of Faerie Blood, that of a faerie spider. An encounter with her faerie ancestor at an early age left her with a deadly fear of the creature, and, by extension, all spiders. Consequently she would not be educated at Florum, and instead was apprenticed to one of the covenant’s associates from whom she learned the art of magical weaving. Her faerie blood allows her to convert her own body weight of raw fibers into finished cloth every day. Her tradition-specific Virtue of Craft Magic allows her advantages to spellcasting while practicing some mundane craft; see Houses of Hermes: Societates, pages 131–132 for more details. All her spells are affected by her Side Effect Virtue, in that they do not end instantly when the duration ends, but instead gradually fade away. This is barely noticeable for Momentary and Diameter Duration spells, but it takes about an hour for her Duration: Sun spells, whereas Duration: Moon and Year spells diminish over the course of a day. This fading period is also extended by her Enduring Magic; a spell that has actually lasted four Moon durations takes four days to fade away to nothing. Many of Julia’s spells employ Rego Craft Magic, for more details see Covenants, page 49. Julia is somewhat of a loner, preferring not to join a covenant but instead selling the products of her magical craft to any who will buy them. Her fabulous cloth is highly</div>
@@ -1142,10 +1182,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>The Wizard’s Spindle</h4>
 
 <div>ReAn 4 R: Touch, D: Mom, T: Group The caster converts up to 10 fleeces into wool. The wool is cleaned, carded, and spun in a single round. This requires a Finesse roll against an Ease Factor of 12, since it replicates more than a week’s work completed in an instant. Failure to achieve this Ease Factor leaves the wool hopelessly tangled and useless. (Base 1, +1 Touch, +2 Group)</div>
-<div>Dressing the Human Form in Wool</div>
+
+<h4>Dressing the Human Form in Wool</h4>
+
 <div>ReAn 5 R: Touch, D: Mom, T: Ind This spell crafts a single woolen garment from either raw fleeces or from spun wool. This spell is suitable for producing a cotte, cyclas, ganache, bliaut, cappa, or chausses (see the Clothing of the Thirteenth Century insert). A Finesse roll is necessary to determine the success of the craft magic; the Ease Factor is 12 if raw fleece is employed, or 9 if the base material is spun wool. The clothes produced are of standard quality; increase the Ease Factor for particularly fine or complex craft. If the Finesse roll fails, the caster is left with a useless mess of wool. Creating a fabric of a different color than the raw material requires a supply of appropriate dye, but does not change the Ease Factor. Julia typically uses this spell to manufacture clothes out of the magical cloth that she makes (see Enchanted Items, later). She does not have a spell that directly creates mundane clothing of wool due to the difficulty (it would be a similar spell to Sturdy Mantle of the Traveler, earlier). Instead, it is much easier to simply create fleeces (see Shearing the Unseen Flock, later) and then craft</div>
 <div>them into clothing with this spell. This spell employs the Level 3 Rego Animal guideline on page 50 of Covenants: “treat and process items made of animal products.” (Base 2, +1 Touch, +1 complexity)</div>
-<div>Ward Against Faeries Which Creep and Crawl</div>
+
+<h4>Ward Against Faeries Which Creep and Crawl</h4>
+
 <div>ReAn 20 R: Touch, D: Ring, T: Circle No faerie animal whose Faerie Might is equal or less to the level of the spell can affect the targeted Group as long as they remain within the ring. Julia commonly employs this spell every night along with a Circle of Beast Warding — after carefully sweeping the area to ensure that no spiders become trapped in the ring with her. (As ward guideline)</div>
 
 <h4>Constraint of the Strangling Vestments</h4>
@@ -1176,7 +1220,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Weaver’s Trap of Threads</h4>
 
 <div>CrHe 20 R: Voice, D: Sun, T: Group A huge net of thick threads grows in the indicated area, filling a space 5 paces by 5 paces by 6 feet high. With supports the nets can hang vertically, forming a wall, otherwise they act just like a fishing net. Everyone caught in the area is captured within the nets. Getting free requires a Strength stress roll against an Ease Factor of 9; or else someone who is not trapped may use an edged weapon to free a victim, which takes three rounds. Fire is exceptionally effective against the nets, but risks burning anyone caught within. The nets are not sticky, and cannot trap anyone who stumbles into them. This spell is a deliberate reference to the better-known spell Weaver’s Trap of Webs, but the thought of emulating a spider is abhorrent to the arachnophobic Julia. Consequently, her version of this spell is less potent, as linen threads are less strong than spider’s silk. (Base 2, +2 Voice, +2 Sun, +2 Group)</div>
-<div>The Clothier’s Craft Done in an Instant</div>
+
+<h4>The Clothier’s Craft Done in an Instant</h4>
+
 <div>ReHe 4 R: Touch, D: Mom, T: Ind Given an amount of linen or cotton cloth, the caster forms it into a garment according to her specifications. Typical garments made with this spell are the chainse or braies (see the Clothing of the Thirteenth Century insert) which are traditionally made of linen. A Finesse roll is necessary to determine the success of the craft magic; the Ease Factor is 9 for clothes of standard quality since it represents a day’s work done in an instant. If the Finesse roll fails the caster is left with a useless pile of scraps of cloth. Creating a fabric of a different color than the raw material requires a supply of appropriate dye, but does not change the Ease Factor. Julia typically uses this spell to manufacture clothes out of the magical cloth that she makes (see Enchanted Items). If starting with raw flax or cotton fibers, this spell would have needed to use the level 5 Rego Herbam guideline “treat and process items made of plant products” given in Covenants, page 51. Julia has no need for this version, since her Faerie Blood allows her to effect the transformation from fiber to cloth anyway. (Base 3, +1 Touch)</div>
 
 <h4>The Mended Tear</h4>
@@ -1239,7 +1285,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Talisman: Forfex Princeps</div>
 <div>The “Prince of Shears” is Julia’s talisman. These clothier’s shears are two feet long and constructed from iron. Inlaid onto the blades are intricate filigrees of gold, copper, and lead. The invested item was initially prepared with ten pawns of Vim vis and currently has no enchantment space remaining.</div>
 <div>Attunements +2 Shaping Fabric (cloth shears) +7 Harm/Repel Faeries (iron) +4 Deftness (copper) +4 Wards (lead)</div>
-<div>Snip the Thread of a Faerie’s Might</div>
+
+<h4>Snip the Thread of a Faerie’s Might</h4>
+
 <div>PeVi 25 Pen 20, 24/day R: Voice, D: Mom, T: Ind Weakens a faerie. If the effect penetrates the Faerie’s Might then it loses 10 points of Might. (Base 0, +2 Voice; +10 Pen 30, +5 24/day)</div>
 
 <h4>Sever Wood and Bone</h4>
@@ -1256,6 +1304,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>PeTe 12 Pen 0, 3/day R: Touch, D: Mom, T: Ind The shears can cut through any mineral substance that they can close around — metal, glass, or stone. (Base 3, +1 Touch, +2 affect metal; +2 3/day)</div>
 
 <h1>Chapter Seven</h1>
+
+
+<h2>Lambert of Merinita</h2>
 
 <div>Concept: This trader of goods and materials uses his magic to support his mercantile activities and his family, and overcome the social handicap of his Gift.</div>
 <div>Lambert of Merinita was born into a merchant family, and a love of haggling and business was instilled in him at a very young age. The effects that Lambert’s Gift had on people prevented him from achieving any real success as a youth, despite his charisma and enthusiasm. Lambert cared greatly for his family and maintained close contact with them throughout his apprenticeship and beyond, and he was married and had several children before finishing apprenticeship. The obligations and joys of providing for his family have dominated his life. Lambert’s family makes its living by purchasing goods and materials and transporting them to where they can be sold at a profit. Lambert aids this business throughout his life by using his magic to find the most advantageous materials for purchase, and to transport these materials safely and quickly. Lambert focuses his magic around the Art of Mentem, Faerie Magic, and the mercantile activities of his family. Lambert is driven to haggle and make deals whenever he can, although his efforts in this field meet with mixed results. He is practiced in the art of bargaining, and becomes more so as he ages. He is also a skilled communicator with a formidable presence, yet The Gift makes it difficult for people to trust him; some (both human and faerie) who have forged agreements with Lambert often suspect that they have been poorly dealt with even if they can’t think of any reason why they should feel so. Magi, on the other hand, are protected from the effects of Lambert’s Gift, and so cutting deals with other members of the Order is a source of great joy for Lambert.</div>
@@ -1411,6 +1462,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Eight</h1>
 
+
+<h2>Maris of Tytalus</h2>
+
 <div>Concept: A magus who lives at sea, constantly testing his magic against the raw fury of the elements, and searching beneath its waters for ancient magical sites.</div>
 <div>Maris of Tytalus has lived in solitude for most of his Hermetic life, sailing the Paregro Mare from his island sanctuary of Slvolder located in the Oresund Straight. Maris felt cheated by the covenant lifestyle the Order encouraged, and the intentional and unintentional assistance it provided. As a Calliclean Tytalus, he felt the assistance provided by the Nomos undermined the great conflict. To grow as a magus, Maris felt he needed a rival that wasn’t as flexible, fragile, or arbitrary as Nomi. As soon as he was able, Maris decided to leave the Nomos for a more worthy adversary, Natura. Looking to test himself against the worst nature could throw at him, Maris vowed never to accept aid from another individual until he had dominated his rival, Natura. Maris now</div>
 <div>lives alone on the Baltic Sea, fending for himself without friend or teacher. When Maris is ashore, he spends most of his time in his lab, developing ways of easing his life on the ocean and overcoming the challenges Natura presents him with. While on the seas, Maris gathers supplies, tends to underwater gardens, and trawls the seas for ancient magical sites long lost under the waves where other magi are unable, or unwilling, to explore.</div>
@@ -1456,11 +1510,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>InAq 25 R: Touch, D: Sun, T: Ind As Eyes of the Bat, but senses the displacement of water to see in the ocean’s depths. Since this spell isn’t bound by the limitations of sight, it is often preferred when scouring the ocean depths where light does not reach. (Base 4, +1 Touch, +2 Sun, +2 Size)</div>
 
-<h4>Captured by Höðr’s Shackles</h4>
+<h4>Captured By Höðr’s Shackles</h4>
 
 <div>ReAq 20 R: Voice, D: Sun, T: Part Instantaneously, a submerged target is imprisoned in a thick casing of ice. Due to ice’s natural buoyancy, Maris often uses this spell to float something of value to the surface. If used against an opponent, the ice suffocates an individual, as well as causing +3 damage per round from cold. Note that the spell does not create ice; it only works on targets already immersed in water. (Base 3, +2 Voice, +1 Part, +1 Size)</div>
 
-<h4>Swallowed by the Mist</h4>
+<h4>Swallowed By the Mist</h4>
 
 <div>ReAq 20 R: Voice, D: Mom, T: Part This spell turns the targeted section of water to mist, causing swimmers and ships alike to plummet to the ground while the mist rises up, and then the sea crashes down around them. Successfully targeting this attack requires a Perception + Finesse roll against an Ease Factor of 9 (6 if the target is smaller than a rowboat, as there is more leeway in the transformed area). Observers of this spell will often just see a large cloud of mist rise around the target, and the ship will simply be gone. (Base 3, + 2 Voice, +1 Part, +2 Size)</div>
 <div>Herbam Spells</div>
@@ -1599,6 +1653,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Nine</h1>
 
+
+<h2>Marcus of Criamon</h2>
+
 <div>Concept: This giant-blooded magus seeks to create living beings by combining the features of two or more existing creatures, with the minotaur as his final goal.</div>
 <div>Marcus Tauros of Criamon’s immense size has always been a source of great embarrassment to him, and he hates to draw attention to himself. He was mercilessly (and often brutally) teased as a child, and was supremely grateful to his master, both for taking him away from those who feared his Gift, and for and teaching him a way to make himself better. He still gets very angry when others draw attention to his height, even in a non-derogatory manner. His master was an anatomist and taught him much about the workings of the body, and cultivated his natural aptitude with the various organs. When Marcus casts a spell, his Warped magic causes his internal organs to glow so brightly they can be seen through his skin. Which organ is affected is determined by the Form of the spell used: Animal & Auram — liver; Aquam & Imaginem — brain; Corpus & Vim — heart; Herbam & Terram — spleen; Ignem & Mentem — gallbladder. During his initiation into the mysteries of House Criamon, he received a vision of his past life as a Minoan priest on the island of Crete, and saw himself create the monstrous minotaur from a man and a sacred bull. He has devoted his learning to recreating that act, believing that if he can successfully call across the Wheel of Time to his former life, he can improve his perceived deficiencies in body and mind, and make a better self. When he completes this research, it is likely that he will overcome his Low Self-Esteem Flaw and gain a Confidence Score of 1. His single-mindedness in pursuing his obsession has meant that he has neglected many of the typical significators of Hermetic maturity, such as a familiar or apprentice, and he only began his talisman after forty years as a magus.</div>
 <div>Marcus at Gauntlet</div>
@@ -1674,14 +1731,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>too close to the sun. As if in compensation for the flawed spell, the second season of invention resulted in a breakthrough. (base 25, +1 Touch, +2 Sun)</div>
 <div>Corpus Spells</div>
 
-<h4>A Limb Bereft</h4>
+<h4>a Limb Bereft</h4>
 
 <div>Cr(Re)Co 30 R: Touch, D: Sun, T: Part Creates a human leg that is animated and able to move by hopping. Through a quirk in the experimentation process, the leg has an inclination to kick anything it comes near; while there is little danger of serious damage, it is a grisly distraction. If its chosen target decides not to attack the limb directly, he takes a –3 penalty to all rolls and 2 extra botch dice. Marcus was intrigued to discover that human limbs cannot be created as animate (unlike animal organs) and required a Rego requisite to provide motion. This spell did not provide him with any breakthrough, however. (base 5, +1 Touch, +2 Sun, +1 Part, +1 Rego requisite)</div>
 
-<h4>Eyes from the Wizard Torn</h4>
+<h4>Eyes From the Wizard Torn</h4>
 
 <div>Mu(In, Re)Co(Im) 15 R: Per, D: Conc, T: Part This macabre variation on Image from the Wizard Torn and Prying Eyes actually removes the caster’s eyes and has them fly to the location of interest where they transmit the information that they see. At the end of the spell, the caster’s eyes are restored to their proper place. This spell did not result in a breakthrough, although Marcus has found it useful. The Rego requisite is required to allow the eyes to fly, but does not incur additional magnitudes. (base 3, +1 Conc, +1 Part, +1 Intellego requisite, +1 Imaginem requisite)</div>
-<div>Spirit of the Bull of Minos</div>
+
+<h4>Spirit of the Bull of Minos</h4>
+
 <div>MuCo(An) 20 R: Touch, D: Year, T: Ind, Ritual During the casting of this ritual spell, the target’s heart is cut out and replaced with the heart of a bull. The surgery causes no damage as long as the spell is cast correctly, and it grants the target the Reserves of Strength Virtue throughout the duration of the spell. At the end of the year, the caster can replace the original heart of the target with no ill effects if it has been preserved sufficiently well. If this is not done, the target dies. This spell results from an Insight (see Ancient Magic, pages 8–9) Marcus received after investigating the catacombs under the ruined palace of Knossos. There he found ritual objects belonging to the Minoan Cult of the Bull who practiced a magic similar to that he was trying to achieve. His ability to read the memories of a sacrificial knife (thanks to the third station of the Path of Seeming, see Houses of Hermes: Mystery Cults, pages 64–65) gave him the requisite insight to allow him to invent this non-standard spell. He has created an enchanted item called a Canopic Jar to preserve the heart of his experimental subjects (see Enchantments, below). (base 2, +1 Touch, +4 Year; level 20 due to ritual effect)</div>
 <div>Vim Spells</div>
 
@@ -1698,19 +1757,19 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Marcus has also created some spells that do not constitute part of his research.</div>
 <div>Corpus Spells</div>
 
-<h4>Bushy Tail of the Branch-Dancer</h4>
+<h4>Bushy Tail of the Branch-dancer</h4>
 
 <div>MuCo(An) 5 R: Touch, D: Sun, T: Ind The target gains the long tail of a squirrel, giving him a +3 to all rolls to keep his balance. (base 2, +1 Touch, +2 Sun, requisite free)</div>
 
-<h4>Slime of the Muck-Dweller</h4>
+<h4>Slime of the Muck-dweller</h4>
 
 <div>MuCo(An) 5 R: Touch, D: Sun, T: Ind The target gains the slippery, slimy skin of an eel, which gives him a +6 bonus to his Defense Total against grappling attacks (base 2, +1 Touch, +2 Sun, requisite free)</div>
 
-<h4>Sure-Footedness of the Crag-Leaper</h4>
+<h4>Sure-footedness of the Crag-leaper</h4>
 
 <div>MuCo(An) 5 R: Touch, D: Sun, T: Ind The target gains the hooves of a mountain goat, giving him a +3 to all rolls to climb and descend steep cliffs and precipitous crags. (base 2, +1 Touch, +2 Sun, requisite free)</div>
 
-<h4>Webbed Toes of the Pond-Dweller</h4>
+<h4>Webbed Toes of the Pond-dweller</h4>
 
 <div>MuCo(An) 5 R: Touch, D: Sun, T: Ind The target gains the feet of a frog, giving him a +3 to rolls to swim in still or slowly moving water. (base 2, +1 Touch, +2 Sun, requisite free)</div>
 
@@ -1727,14 +1786,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Labyrinth of the Open Mind</div>
 <div>Marcus has enchanted the floor to his laboratory to assist in his magical investigations. It is made from two types of wood, one pale and the other stained dark. The complex pattern produced at Marcus’ exacting instructions forms a labyrinth, and Marcus’ sanctum has been arranged so that items of furniture and pieces of laboratory equipment are located in mystically significant locations. Each “path” of the interlaced design is enchanted with a different effect, all of which are designed to provide magical enhancements to his laboratory activities (see Covenants, page 121 for details of Magic Items for Laboratories). The floor was prepared with 10 pawns of Vim vis (a huge item made of wood). It has been enchanted with three effects that occupy 9 pawns’ worth of space.</div>
 
-<h4>Path to Serendipitous Discovery</h4>
+<h4>Path To Serendipitous Discovery</h4>
 
 <div>CrVi 24 R: Touch, D: Sun, T: Room Pen 0, constant effect Everything in Marcus’ sanctum is tainted slightly with magic. This gives him a +2 laboratory specialization in Experimentation, but unfortunately has the unintended side effect of increasing its Warping Score by 1. (base 3, +1 Touch, +2 Sun, +2 Room; +1 2/day, +3 environmental trigger)</div>
 
-<h4>Path to Enlightened Operations</h4>
+<h4>Path To Enlightened Operations</h4>
 
 <div>ReAn 20 R: Touch, D: Conc, T: Room Pen 0, unlimited uses per day Items made of animal products — like most of Marcus’ custom-built laboratory equipment — are supported in the air wherever they are released, and maintained there until plucked free. If left floating, Marcus’ tools slowly move, aligning themselves into propitious arrangements that actually enhance the activity in question. This enchantment gives Marcus’s laboratory a +1 General Quality. (base 1, +1 Touch, +1 Conc, +2 Room; +10 unlimited/day, +5 item maintains concentration)</div>
-<div>Path of Shadows Beneath the Skin</div>
+
+<h4>Path of Shadows Beneath the Skin</h4>
+
 <div>InCo(An) 40 R: Touch, D: Conc, T: Vision Pen 0, 1/day This effect grants the target the ability to see the internal organs of humans or animals as a magical sense. This greatly enhances laboratory operations employing Corpus or Animal (or, indeed, both), granting a +2 laboratory specialization in both Arts. (base 5, +1 Conc, +4 Vision, +1 Animal requisite; +5 item maintains concentration)</div>
 <div>Canopic Jar</div>
 <div>This jar takes the form of a rotund human figure about 18 inches tall made of alabaster. The lid of the jar is carved into the shape of the figure’s head; of Marcus’ four copies, one has the head of a hawk, one a lion, one</div>
@@ -1769,11 +1830,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Animal: 1 – goat; 2 – pig; 3 – hare; 4 – chicken; 4 – donkey; 5 – dog; 6 – lizard; 7 – toad; 8 – cow; 9 – rat; 10 – beetle.</div>
 <div>All limbs are re-scaled in size to match that of the replaced limb. Anything held in a transformed hand is dropped, and a transformed leg becomes inappropriate to the current footwear and may trip up the wearer. If the head is transformed, the target cannot speak but retains his intelligence. Up to 10 people can be simultaneously affected; if there are fewer than 10 individuals, then some targets may experience a change in more than one limb. The effect is triggered by pointing the bull-head at a group and making a circling gesture while speaking the command word. Marcus had only intended to cause changes in land animals, but his experimentation caused the anomalous result of a chicken. (base 10, +2 Voice, +2 Sun, +2 Group)</div>
 
-<h4>Return to the Earth</h4>
+<h4>Return To the Earth</h4>
 
 <div>MuTe 20 R: Voice, D: Mom, T: Ind Pen 10, 24/day A metal or stone object targeted by this effect is momentarily transformed into sand. This is sufficient to destroy most handheld weapons, as they become metal grains around the feet of the wielder. But if the object remains undisturbed, it is unaffected when it becomes metal again moments later. The effect can target any single object that can be carried in one hand, such as a sword. The effect is triggered by pointing the butt of the staff at the target in a short jabbing motion while speaking the command word. (base 2, +2 Voice, +2 affect metal; +5 Penetration, +5 24/day)</div>
 
 <h1>Chapter Ten</h1>
+
+
+<h2>Persephone of Tytalus</h2>
 
 <div>Concept: Driven by vengeance against her pater, she and her disfigured sister use magic to enhance their network of agents, giving them a great deal of mundane influence.</div>
 <div>Marie-Philipe and Marie-Helene were sisters from a village near a covenant. When a magus of House Tytalus chose the younger — Marie-Helene — to become his apprentice, she begged for her sister to join them as well but the magus refused; he had no interest in wasting his time on a non-Gifted girl, even if she did exhibit some latent magical ability. A short while later a catastrophic fire ravaged the family home. Marie-Philipe survived although she was horribly scarred. Marie-Helene was convinced that her master was responsible for the fire, intending to rid his apprentice of a distraction to her magical development. Marie-Helene hid her sister away and cared for her, escaping at night to bring her food and share her lessons in Hermetic magic. Unfortunately, without either The Gift or having been opened to the Arts, Marie-Philipe was unable to replicate the simplest spells. When Marie-Helene passed her Gauntlet, she took the name “Persephone of Tytalus,” and her sister adopted the moniker “Kore.” The pair swore to get vengeance on Persephone’s master, and that he would have a spectacular, fiery end. This has nothing to do with the House tradition of beloved rivals; this is revenge, pure and simple. Persephone is rarely found without Kore nearby, although the elder sister tends to keep to the shadows to hide her scarred face. Persephone maintains a network of agents (see sidebar) although most are not aware that they work for her; she contacts them either through an intermediary or in disguise. Her agents are principally spies, gathering information that Kore sorts through for useful intelligence about their targets. Many of her spells and enchantments revolve around ways in which she can use her agents more</div>
@@ -1929,11 +1993,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Signet of Hallam</div>
 <div>This Invested item effects a specific disguise ­ — one impersonating Lord Richard of Hallam — that is commonly used by Persephone, Kore, or one of the maga’s trusted agents. The ring is made with two trigger words, one of which is used by male characters, and the other by female characters to initiate all of the same effects and also change the sexual characteristics of the target to those of a male. When the trigger word is said, each effect is initiated in the order presented below, one per round. Lord Richard of Hallam was a close friend of Persephone’s covenant, whose collusion proved very useful in a number of her schemes. When Richard died unexpectedly the covenant lost a powerful ally, so Persephone used her spells to take the place of the minor lord. After manufacturing an excuse for his prolonged absence, she took the time to make this item so that anyone could play</div>
 <div>the role of the lord. She has gradually improved the efficacy of the ring over time, and has been handsomely compensated by her covenant. Hallam’s widow Joanna is aware of the subterfuge and is glad of it, since the second husband her family would match her with is a bore and an idiot. The covenant is careful not to use the role of Lord Richard to meddle in mundane politics, but merely to defend their own interests in the region. Persephone has not been so conscientious when she takes over the disguise, though. After a problem involving a churchman with the Magic Sensitivity Ability, she added an effect to hide the various magical transformations. The item is a signet ring made of gold, with the seal made from onyx. It was opened with 12 pawns of vis, and has been invested with 11 pawns’ worth of effects.</div>
-<div>Face of Lord Richard of Hallam</div>
+
+<h4>Face of Lord Richard of Hallam</h4>
+
 <div>MuCo 16 R: Touch, D: Conc, T: Part Pen 0, 2/day This spell works just like Disguise of the New Visage, except that the effect can only duplicate the face of a single person — that of Lord Richard of Hallam. He has black hair and green eyes, and is clean shaven. The effect can be canceled at will, but can only be activated twice per day. This effect is triggered when the wearer of the ring rubs it and says either trigger word “vir Hallamus” or “mulier Hallamae.” (Base 3, +1 Touch, +1 Conc, +1 Part; +1 2/day, +5 item maintains concentration)</div>
-<div>Voice of Lord Richard of Hallam</div>
+
+<h4>Voice of Lord Richard of Hallam</h4>
+
 <div>MuIm 9 R: Touch, D: Conc, T: Ind Pen 0, 2/day This spell works just like Voice of the Leucrota, except that the effect can only duplicate the voice of a single person — that of Lord Richard of Hallam. He has a deep voice with a distinctive Norman accent. The effect can be canceled at will, but can only be activated twice per day. This effect is triggered when the wearer of the ring rubs it and says either trigger word “vir Hallamus” or “mulier Hallamae.” (Base 1, +1 Touch, +1 Conc; +1 2/day, +5 item maintains concentration)</div>
-<div>Clothes of Lord Richard of Hallam</div>
+
+<h4>Clothes of Lord Richard of Hallam</h4>
+
 <div>MuAn(He) 16 R: Touch, D: Conc, T: Group Pen 0, 2/day This spell works just like Remake the Tailor’s Craft, except that the effect can only change the target’s clothes into those of a specific description: woolen doublet and hose of black with red ornamentation, a white linen shirt, leather riding boots and a riding cape. The outfit comes with a stylish felt hat bearing a red feather, and gloves. The effect can be canceled at will, but can only be activated twice per day. This effect is triggered when the wearer of the ring rubs it and says either trigger word “vir Hallamus” or “mulier Hallamae.” (Base 2, +1 Touch, +1 Conc, +2 Group; +1 2/day, +5 item maintains concentration)</div>
 
 <h4>Body of the Virile Male</h4>
@@ -1968,7 +2038,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Repulse the Unwanted Attention</h4>
 
 <div>ReCo 30 R: Per, D: Conc, T: Ind Pen 0, 24/day The ring confers a personal ward against people on the wearer of the ring. Only those without Magic Resistance are affected. If she is simply walking through a crowd the people are nudged aside to allow her to pass. Warded individuals cannot act across a ward in any manner, therefore if she is attacked, her opponents’ blows always go wide, causing them to miss. She is not protected from thrown weapons or missiles, though. The effect is triggered by holding the hand wearing the ring in front of the body, palm facing outward. (Base 15, +1 Conc; +5 item maintains concentration, +5 24/day)</div>
-<div>Watchful Eye of the Caring Sister</div>
+
+<h4>Watchful Eye of the Caring Sister</h4>
+
 <div>InCo 25 R: Arc, D: Mom, T: Ind Pen 0, unlimited uses Reveals the general state of health of anyone to whom the item’s user has an Arcane Connection. Naturally, Persephone uses this effect to check on the status of her sister when the two are apart. The effect is triggered by turning the ring three times clockwise on the finger. (Base 4, +4 Arc; +10 unlimited uses)</div>
 
 <h4>Opening the Intangible Tunnel</h4>
@@ -2018,17 +2090,19 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>ReAn(He) 5 R: Voice, D: Mom, T: Group The targets’ clothes seek out and bind themselves to the nearest other object, moving or not. If the members of a group are standing sufficiently close, this spell binds them together. The magic lasts just long enough for the clothes to bind themselves into knots, and then dissipates allowing the targets to free themselves by undoing or cutting the knotted cloth. While all of a target’s surface clothing will writhe and seek out something to bind to, there is no guarantee that all of it can. If the clothes are close-fitting, or there is not enough slack in the garment, the cloth will simply flail for a moment and then fall dormant. If there is sufficient cloth but there is nothing within its reach, the target may still become bound up as his clothes wrap and tie themselves around his limbs. Affected targets suffer a –3 penalty to all subsequent rolls for physical actions, but can free themselves by either dedicating a round to cutting or tearing the clothing, or by spending two rounds working to untie the knots. Storyguides may wish to give other options to particularly large, strong, or dexterous characters. Until members of the target group have freed themselves, successive castings of this spell have no further effect. (Base 1, +2 Voice, +2 Group)</div>
 
-<h4>A Day’s Worth of Spinning</h4>
+<h4>a Day’s Worth of Spinning</h4>
 
 <div>ReAn 10 R:Touch, D: Mom, T: Group One of the first spells taught to Petalichus by his mater, this spell cleans, cards, and spins a whole fleece, or a bale of cotton or flax, into thread in a matter of moments. If dye is available when the spell is cast, the thread can be dyed as the caster directs. A Herbam casting requisite is required for plant-based cloth. This is an Average task for a mundane spinner, so the caster must make a Perception + Finesse (precision) + stress die roll against</div>
 <div>an Ease Factor of 12 (Craft Ease Factor 9 + 3 for using Craft Magic). Failing the roll results in a badly spun fleece, probably with flecks of dirt still clinging to the thread. A botched roll ruins the fleece outright, though this may not be immediately apparent. See Covenants, page 49 for more on Rego Craft Magic. (Base 3, +1 Touch, +2 Group)</div>
 
-<h4>A Day’s Worth of Weaving</h4>
+<h4>a Day’s Worth of Weaving</h4>
 
 <div>ReAn 10 R:Touch, D: Mom, T: Group This spell is exceptionally good at making simple cloth, but casters may find it difficult to create cloth of any great quality or highly patterned tapestries. The table below lists the base Ease Factors for weaving bolts of cloth in a single casting. Treat each bolt of cloth as being two paces in length by one pace wide. Successive castings can extend the current bolt of cloth rather than creating a new item. Members of Petalichus’ lineage have traditionally used this spell in practicing their Finesse. The caster makes a Perception + Finesse (precision) + stress die and compares the result against the table below.</div>
 <div>Cloth Bolt’s Level Craft Magic Quality  Ease Factor Shoddy Trivial 6 Standard Simple 9 Superior Average 15 Excellent Hard 18</div>
 <div>It is a harder task to create patterned cloth. A simple repeating pattern adds +3 to the Ease Factor, while an image or words woven into the cloth adds +6. See City & Guild, page 67 for more on item quality. A Herbam casting requisite is required for work involving cotton or linen. (Base 3, +1 Touch, +2 Group)</div>
-<div>The Even Hand of The Determined Weaver</div>
+
+<h4>The Even Hand of the Determined Weaver</h4>
+
 <div>Re(Cr)An 5 R: Touch, D: Mom, T: Part Like The Weaver’s Subtle Art (below), this spell makes a lasting change to a tapestry or other item made from cloth (whether made from wool, cotton, silk, or linen). Any geometric shape or regular line in or on the item, or even the shape of the item it</div>
 <div>self, can be made even and precise. The Creo requisite ensures that the lines and shapes affected by this spell are perfect examples of their type. This spell is used to enhance items, especially when making Excellent-quality wares, or Items of Quality as per the Verditius House Mystery detailed in Houses of Hermes: Mystery Cults, page 124. The application of this spell alone is not enough to raise the true quality of an item (it cannot be made more hardy or more richly colored, for instance), but it is enough to aid spells that require certain mathematical resonances. The individual changes made by the spell may stand out and draw the eye of those interested in the piece. Those looking at the work should make a Perception + Awareness + simple die roll against an Ease Factor of 9. On a success they notice the precision of the affected areas. Those who have the ability may substitute their Weaver craft ability for Awareness when making the check. A Herbam casting requisite is required for tapestries that include plant-based cloth or yarn. (Base 1, +1 Touch, +1 Part, +1 for size, +1 for Creo requisite)</div>
 
@@ -2050,7 +2124,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>ReCo 20 R: Touch, D: Ring, T: Arcane Circle A variant on a warding theme, this spell cast with an Arcane Circle target both imprisons people within its bounds and prevents them from crossing into the Arcane Circle. The Arcane Circle target is usable by those who know the Hermetic Geometry Mystery, and allows the caster to draw a circle at his location while calculating and casting against a sympathetically identical circle in a remote location (see The Mysteries Revised Edition, page 95). Those with Resistance (through Parma or Might) are not confined or restricted unless this spell Penetrates that resistance. Arcane Connections to a named target may be used in order to increase the Penetration as normal, though the increased Penetration is only valid against that named target. As the base effect for warding spells is Touch, Ring, Circle, the Arcane Circle target raises the level of the spell by one magnitude as it is more complex than its mundane equivalent, but no modifier is required for either Touch or Ring. (base 15, +1 Arcane Circle)</div>
 <div>Imaginem Spells</div>
-<div>To See As Though a Plethron Distant</div>
+
+<h4>To See As Though a Plethron Distant</h4>
+
 <div>InIm 25 R: Sight, D: Conc, T: Special This spell allows the caster to see and hear his surroundings as though he was standing in another place he can naturally see. The spell does not enhance the caster’s natural sight or hearing. The caster has some freedom to move his vantage point, but cannot move into any place that he cannot naturally see from his physical location. Moving the viewpoint requires a Simple Stamina + Concentration Roll vs. Ease Factor 6.</div>
 <div>The “plethron” of the spell title is a Greek measurement roughly equivalent to 100 feet, although the spell’s range allows for a potentially greater distance. Petalichus and his brother Cononites have investigated this spell, as Petalichus had anticipated that he would be able to use it to gain sight of new viable targets. This proved not to be the case. William Bonisagi theorized that the species, recreated as they are, bear insufficient connection to the things they represent to support casting spells against them. By being so far removed, the magus would essentially be attempting to cast his spells on mere apparitions. However, using this spell to aid with Hermetic Geometry spells (those using Arcane Line, Arcane Circle, and Arcane Ring) reduces the Distance Level by 1 if the caster can now see his target. This is cumulative with other spells or devices that may also reduce the Distance Level (see The Worldly Halysis later). The Target is based on Room, but is more complex as it allows unbounded spaces to be targeted. Any area comparable to Room can be targeted. (Base 2, +3 Sight, +1 Concentration, +3 Special target based on Room +1)</div>
 <div>Mentem Spells</div>
@@ -2060,13 +2136,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>CrMe 30 R: Line, D: Conc, T: Room Targeted on a distant room using the Arcane Line Range, this spell induces anger in all affected targets. A stress roll using an appropriate Personality Trait (like Calm or Restrained) against an Ease Factor of 9 is required to keep the anger under control. Aggressive traits (like Argumentative, Intolerant, or Angry) work against the roll. A failure inclines the target to aggressive action against anyone or anything that could appear or feel threatening. Petalichus knows the effect The Gift has on mundanes, and recognizes that the fear and distrust it fosters in them can easily be triggered into something more dangerous. Petalichus uses this spell to heighten tensions and use them against his enemies from a position of safety. (Base 4, +3 Line, +1 Concentration, +2 Room)</div>
 <div>Magi of Hermes Vim Spells</div>
 
-<h4>A Day’s Grace</h4>
+<h4>a Day’s Grace</h4>
 
 <div>ReVi 30 R: Touch D: Hours T: Individual Using this spell, the caster is able to suppress one other spell he casts at the same time as this spell for a Duration counted in Celestial Hours (see The Mysteries Revised Edition, page 49). The suppressed spell can have a level up to 25 and may be Spontaneous, Ceremonial or Formulaic. Ritual spells are too complex to be suppressed by this spell although should a version of this spell be designed as a Ritual that should be possible. Spells with Circle and/or Ring Duration (including Arcane Circle and Arcane Ring) are also suppressed but fail if the circle inscribed during casting is broken before the spell is released (Arcane Circles and Rings are still visible to those with Second Sight, and may be broken by them before the spell is released). Sight-Ranged spells must be targeted</div>
 <div>during the initial casting. Once the spell has been cast, the target will still be affected by it whether or not that target is still visible to the caster or not, though only where that target remains in the same location until the spell is triggered. (base 15, +1 Touch, +2 Hours equivalent of Sun)</div>
 <div>Sample Rotes</div>
 <div>Petalichus has invented the following effects as Rotes, the simple magical effects available to students of Hermetic Numerology. See The Mysteries Revised Edition, page 92 for details on casting.</div>
-<div>Sense the Weight of Divine Power</div>
+
+<h4>Sense the Weight of Divine Power</h4>
+
 <div>InVi 3 R: Touch, D: Mom, T: Ind This rote (designed using the Hermetic Numerology Mystery Virtue) is a simple effect to tell the caster what strength of Divine aura he is currently standing in.</div>
 <div>Petalichus has three other rotes that each perform the same effect for one of the other three Realms. (Base 2, +1 Touch)</div>
 
@@ -2077,7 +2155,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>The Unseen Arm</h4>
 
 <div>ReTe 5 R: Voice, D: Conc, T: Ind As the spell listed in ArM5, page 155.</div>
-<div>Recollection of Memories Never Quite Lived</div>
+
+<h4>Recollection of Memories Never Quite Lived</h4>
+
 <div>MuMe 4 R: Eye, D: Sun, T: Ind As the spell listed in ArM5, page 149.</div>
 <div>Enchanted Items</div>
 <div>Petalichus created the following items.</div>
@@ -2108,7 +2188,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Come No Further</h4>
 
 <div>CrMe 45 Pen +12, Constant Effect Expires: 70 Years R: Sight, D: Sun, T: Room This constant effect causes all those who pass in front of or approach the tapestry to feel distinctly uneasy in its presence. Those affected by the spell must succeed in a Brave (or other appropriate) personality trait stress roll against an Ease Factor of 9 in order to touch the tapestry. The effect has a Penetration of +12, sufficient perhaps to warn off apprentices or inexperienced magi. (Effect: base 4, +3 Sight, +2 Sun, +2 Room; Modifications: +1 2/day, +3 environmental trigger, +6 penetration)</div>
-<div>The Weight of All Perdition Be Upon You</div>
+
+<h4>The Weight of All Perdition Be Upon You</h4>
+
 <div>Cr(Pe)Me(Co) 35 R: Touch, D: Mom, T: Ind Pen +20, Unlimited use Expires: 70 Years On touching the tapestry, the target feels a scalding pain in whatever part of his body came into contact with it. The pain does no damage and fades over the next few seconds, but it feels like a deep burn and the memory lingers. Alongside the pain, the target hears a thousand demonic voices crying out for his soul inside his mind in some unholy language. The affected target must succeed in a Brave Personality Trait against an Ease Factor of 9 in order to pass the tapestry. If the target has previously been affected by the Come No Further effect, he receives a –3 penalty to the roll. (base 4, +1 Touch, +2 requisites; +10 unlimited/day, +10 penetration)</div>
 <div>The Light of Fell Disease</div>
 <div>PeCo 30 R: Touch, D: Mom, T: Room Pen: +0 Byzantine politics can be as swift and brutal as any in Venice or Rome, and on more than one occasion Petalichus has resorted to baser measures to dispose of those who might stand in his way. This enchanted candle (created as a charged device with one charge per candle), when lit, unleashes the deadly disease Variola (Small Pox), affecting all in the same room as the candle. This version of the device has no Penetration, so cannot affect any potential targets with Magic Resistance. And as the Duration is Momentary, the disease is not communicable (however, in their weakened state, victims may become infected with further plagues and these may be passed on to others). All those affected by the effect must make a Stamina + Living Conditions Modifier + Wound Penalty + stress die roll against an Ease Factor of 9. Failing the roll means the target has contracted the disease. Each week that the target is attended to by a physician, he makes a Stamina + Medicine + (the worse of the Fatigue or Wound Penalty) + stress die roll against an Ease Factor of 9 to remain stable, or 15 to improve. If the target’s condition worsens, he loses a</div>
@@ -2135,7 +2217,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Petalichus took a greatstaff in the shape of a distaff as his talisman, to represent his heritage. But the staff is full of mathematical resonances, from being carved and shaped with four sides rather than rounded smooth, to the complex ratios between the positioning of symbols and inscriptions up its shaft. These symbols are picked out in white against the deep black polish of the staff.</div>
 <div>Attunements +4 control things at a distance (staff) +4 destroy things at a distance (staff)</div>
 
-<h4>The Invisible Eye Revealed (variant)</h4>
+<h4>The Invisible Eye Revealed (Variant)</h4>
 
 <div>InVi 29 R: Per, D: Sun, T: Touch Pen: +0, Constant Effect</div>
 <div>This effect operates as per the spell of the same name (ArM5, page 157) with the exception that it has a constant effect, detecting scrying spells of up to level 30 (the base level of this effect is 15). Note that all scrying attempts are detected, whether they breach Petalichus’ Parma Magica or not. As Petalichus enchanted this effect into his talisman, he feels the effect of the spell each time he takes up or carries his staff. (base 15, +2 Sun; +4 constant effect)</div>
@@ -2287,7 +2369,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Eyes of the Acolyte</h4>
 
 <div>InIg 8 Pen +0, constant effect R: Personal, D: Constant, T: Ind This effect detects any fires in the laboratory larger than a lantern flame that are not in the fireplace or the product of the Facade of Pentecost power. (Effect: Base 2, +2 Sun; Modifications +1 level 2 uses per day +3 levels environmental trigger)</div>
-<div>Laboratory that has Learned from Experience</div>
+
+<h4>Laboratory That Has Learned From Experience</h4>
+
 <div>PeIg 23 Pen +0, 24/day R: Per, D: Mom, T: Ind This effect is triggered by the Eyes of the Acolyte power. The Laboratory of Ranulf automatically extinguishes any fires that are detected by Eyes of the Acolyte. This effect is only capable of extinguishing fires that do +20 damage or less per round. This power can act to dispel Creo Ignem spells with Durations longer than Momentary, such as Coat of Flame, but it is not sufficiently quick to counter a spell as it is being cast. On those occasions where Ranulf desires to have fires in his laboratory that are larger than a lantern flame, not in the fireplace, or not the product of the Facade of Pentecost power, he exhausts the 24 daily uses of this effect. (Effect: Base 4, +3 more intense fires; Modifications +5 levels 24 uses per day +3 levels linked trigger)</div>
 
 <h4>Facade of Pentecost</h4>
@@ -2428,7 +2512,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>MuAu 30 R:Touch, D: Sun, T: Individual This spell gives an existing rainbow the hardness of good stone or iron. It is still colorful and you can see through it; only the hardness is changed. With rainbows like these you can build bridges into the sky that can be used by creatures other than gnomes. (Base 10, +3 Sight, +2 Sun, –1 for only one property change)</div>
 <div>Corpus Spells</div>
 
-<h4>High Tree or Small Boulder</h4>
+<h4>High Tree Or Small Boulder</h4>
 
 <div>MuCo 20 R: Voice, D:Sun, T: Individual The spell’s target either grows to three paces tall or shrinks to only a half pace in height, but his mass isn’t affected. As a result, the target is either a thin giant who cannot control his body parts normally, or he is a tiny, fat dwarf who rather rolls than walks. (Base 3, +2 Voice, +2 Sun, +1 because this spell allows growth and shrinking)</div>
 
@@ -2554,7 +2638,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>MuIm(Ig,Me) 45 R: Voice, D: Fire, T: Individual This Glamour spell (see page 101 in Houses of Hermes: Mystery Cults) turns a normal fire into a human servant. He has a simple intellect and is good for only simple tasks, but has no possibility of learning or free will. The servant must eat a lot of wood or other flammable materials, otherwise the fire will burn out, ending the spell. As long as the servant eats enough, however, the spell continues. This spell has a minor side effect from experimentation that makes the servant sing instead of speaking normally. (Base 10, +2 Voice, +3 Fire, +1 Mentem requisite, +1 moving parts)</div>
 
-<h4>Hiding the Ill-Bred Bard</h4>
+<h4>Hiding the Ill-bred Bard</h4>
 
 <div>PeIm 15 R: Personal, D: Sun, T: Individual Destroys the magus’ image species and makes him invisible except for his shadow. (Base 4, +2 Sun, +1 changing image)</div>
 
@@ -2593,7 +2677,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Bottomless Bag</div>
 <div>A bag made from dragon leather. It is a lesser enchanted device made with experimentation in one season, using 4 pawns of vis in total.</div>
 
-<h4>Bag without Bottom</h4>
+<h4>Bag Without Bottom</h4>
 
 <div>MuIm 30 Pen +9, +2/day, constant effect R: Personal D: Sun T: Room The Glamour enchantment (see page 101 in Houses of Hermes: Mystery Cults) inside this bag makes the space inside it far bigger than it should be. More than 200 liters would fit into it, but because the weight isn’t reduced there is still a limit on the wielder. You could put a whole human body inside this bag, if you could bear its weight. If you’re searching for something inside it, you could be forced to crawl into it. (Base 10, +2 Sun, +2 Room; +1 2/day, +3 environmental trigger for total of 34 levels)</div>
 <div>Talisman: The Eternally Changing Lyre</div>
@@ -2628,7 +2712,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>New Virtues and Flaws</div>
 
-<h4>New Virtue: See In Darkness</h4>
+<h4>New Virtue: See in Darkness</h4>
 
 <div>Minor, Supernatural You can see in complete darkness much the same as those with Strong Faerie Blood. Other than that, your eyesight is not more acute than ordinary people’s, and you do not see farther than normal people would see in daylight.</div>
 
@@ -2677,7 +2761,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Chastise the Unruly Antagonist</h4>
 
 <div>PeCo 10 R: Eye, D: Conc, T: Ind The target is overcome by intense pain. If the target tries to engage in activities that require concentration while under the effect of this spell, a successful Concentration roll against an Ease Factor of 9 is required (ArM5, page 82). The dreadful effect of punishment lasts as long as the caster concentrates. In Tolides’ version of this spell, it appears as if the victim is wrapped in bands of darkness that tear at his flesh. (Base 4, +1 Eye, +1 Conc)</div>
-<div>Retreat Into the Shell of Shadow</div>
+
+<h4>Retreat Into the Shell of Shadow</h4>
+
 <div>ReCo 15 R: Per, D: Mom, T: Ind The caster instantly transports himself to any location he can see, not more than 50 paces distant. A puff of black, quickly dis</div>
 <div>solving vapor is all that is left behind once the caster vanishes and reappears at the destination. If the initial point or endpoint of the leap is Warded, or if the caster’s magic is resisted, that resistance must be overcome much the same as when targeting a Warded area (see Aegis of the Hearth, ArM5, page 161). Tolides developed this spell to retreat into the shadow of a dark corner. If the endpoint of the transportation is exposed to unclouded daylight, Tolides must make a Concentration roll against an Ease Factor of 9 to gracefully reach his destination. A failure usually means that he tumbles and falls, is disorientated, or is enfeebled, whereas a botch calls for more-dramatic results to reflect his malediction. Note that this quirk is not a flaw of the spell, but an effect of Tolides’ Susceptibility to Sunlight. (Base 15)</div>
 
@@ -2738,7 +2824,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Tolides has created the following items.</div>
 <div>Arrows of Defeat</div>
 <div>Tolides created a set of enchanted arrows for a shady noble who had reason to fear his opponent’s cavalry’s strength in battle, and was pleased to learn about an effective means to counter this threat on the field. The arrows have been specifically designed to cover long distances, instead of featuring armor piercing or superior damage qualities. In the hands of an expert archer, and aimed at the ground right in front of the foremost rider, even a single well-placed arrow deals considerable damage to a small galloping army that is not quick enough to avoid the pit that seems to come from nowhere. The Lab Total used for this enchantment is 40, and thus yields six charges that Tolides distributes among six identical arrows with one charge each. As a set of charged items, the enchantment did not cost him any vis.</div>
-<div>Gaping Maw of the Bottomless Pit</div>
+
+<h4>Gaping Maw of the Bottomless Pit</h4>
+
 <div>PeTe 10 R: Touch, D: Mom, T: Part The magical effect of the enchanted arrows is equivalent to the spell Pit of Gaping</div>
 <div>Earth (ArM5, page 155), but operates at Range Touch instead of Voice. Consequently, each arrow, being a carrier for the spell, must be aimed and fired to reach its target, because the arrows themselves do not have any supernatural flight qualities. After leaving the string of the bow used to propel it forward, and upon touching solid, earthen ground, each of the enchanted arrows destroys earth as described for Pit of Gaping Earth.</div>
 <div>As a typical trait of one of Tolides’ creations, black vapor eerily emerges from the bottom of the created pit and dissolves harmlessly into the surrounding environment. (Base 3, +1 Touch, +1 Part, +1 size, free cosmetic effect)</div>
@@ -2830,7 +2918,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Task Complexity	 Finesse Roll Clean instrument	 Trivial 3+ Re-tune a crwth Simple 6+ Re-string a fiddle	 Easy 9+ Straighten a bow	 Average 12+ Re-glue a frame Hard 15+</div>
 <div>Casting requisites are required for nonHerbam components. (Base 5, +1 Touch, +2 Complexity)</div>
 <div>Ignem Spells</div>
-<div>Let This Fire Sing You to Sleep</div>
+
+<h4>Let This Fire Sing You To Sleep</h4>
+
 <div>MuIg(Im) 25 R: Voice, D: Sun, T: Part This spell affects a single fire, turning the very tips of the flames into pleasing music. The caster decides the kind of music he wishes to hear (a ballad, a whirly jig, etc.), and the spell accommodates. The music of the flames always incorporates a signature refrain, as though a sigil, with each casting. But the mood of that same refrain is adapted to the needs of the song. The flames play the same music all the while the fire burns, getting louder as the fire burns brighter, hotter, or larger, though the random nature of fire and differences in fuel mean that no two castings ever produce exactly the same performance. The spell ends when the flame is extinguished, its original source is fully destroyed or, for particularly long-burning fires, when the spell’s Sun Duration naturally expires. This spell cannot affect a fire that is already larger than a campfire or a fire in a hearth (essentially, any fire doing +5 damage), but a fire that grows larger than this retains the magic. Yestin originally designed this spell so that his fire, whether on the road or in his sanctum, could gently sing him to sleep. But the more he explored this new spell, the more he found new uses for it. It wasn’t just music that the flames could produce, but also speech (though limited in the range of words and voice to little more than those the caster imagines as he casts the spell) or other natural and unnatural sounds. These sounds always adopt the rhythm of the spell’s original melody, though. If left to sing (or talk) of its own volition, with no guidance from the caster, the fire sounds as</div>
 
 <div sidebars>
@@ -2841,7 +2931,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>though it is forming words, but this is an illusion; the sounds form true words by accident if at all. Yestin has used this spell in his sanctum to experiment with different harmonies, and has on occasion established choirs of candles each quietly singing a different refrain or a different note. The effect can be mesmerizing. A Finesse Stress roll (Mastery of the spell reduces this to a simple roll) determines how pleasant the sound is, but the size of the fire determines how loud it is.</div>
 <div>Size of Fire Equivalent Sound A candle flame A whisper A burning torch A conversation A campfire A song or heated discussion</div>
 <div>This spell has the side effect of reducing the intensity of the target fire by 1 as flame is turned to sound. (Base 4, +2 Voice, +2 Sun, +1 Part)</div>
-<div>Let the Sun Not Bother Me This Day</div>
+
+<h4>Let the Sun Not Bother Me This Day</h4>
+
 <div>PeIg 10 R: Per, D: Sun, T: Ind This spell cools the caster to a comfortable level, no matter how hot the sun is or how long he stays out in it. As Yestin puts it, “the day becomes as pleasant as a spring afternoon, and loses the wrath of summer’s heat”. The target is still affected by the light of the sun, but its warmth is regulated. All other sources of heat affect the caster naturally. This spell ends either when it reaches its natural duration, when the caster moves into a fully enclosed room (or cavern system or basement), or in the event of an eclipse; it ends when he goes anywhere that sunlight cannot reach him. Petalichus the Weaver of Verditius bought a copy of this spell from Yestin when the bard travelled to the Tribunal of Thebes one year. The Verditius claimed to be interested “from a research point of view.” Unknown to Yestin, Petalichus ultimately used the spell in a long-running feud with Solar Magnus of Tytalus, a feud that ended in Stonehenge with the death of Solar Magnus. (Base 4, +2 Sun)</div>
 <div>Imaginem Spells</div>
 
@@ -2862,10 +2954,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Orpheus’ Ballad</h4>
 
 <div>CrMe 20 R: Voice, D: Mom, T: Group The spell creates a momentary flash of intense unnatural fear, despair, and woe in the minds of the assailants, attacking their estimation (Art & Academe, page 32). Each target in turn, starting from the target closest to the caster, attempts a Brave Personality Roll against an Ease Factor of 9 or flees the scene. This roll is modified by –1 for each other member of the group who fails his roll; the more who flee, the less resolve the others have. The magic of the spell is carried on the caster’s own scream, and extends out as far as the caster’s voice would normally carry at a high volume (in excess of 50 paces). The magic of the spell affects the group of individuals in front of and closest to the caster. The individuals must still constitute a group as per ArM5, page 113. Yestin devised the spell after he was set upon by brigands along the road from Winchester to the Isle of Oxney near Rye. He was lucky to escape their clutches after their first meeting, and ensured that he was prepared for their next. The spell is named for all the grief suffered by Orpheus, who lost so much on leaving the underworld. (Base 4, +2 Voice, +2 Group)</div>
-<div>To Sing of Good Meat and Drink</div>
+
+<h4>To Sing of Good Meat and Drink</h4>
+
 <div>CrMe 25 R: Voice, D: Conc, T: Room Yestin invented this spell in order to reward innkeepers and taverners who showed generosity to him as he explored Stonehenge and beyond. He often weaves this spell into his evening’s performance, using his Performance Magic to hide the casting within his music. It has the effect of making those in the room somewhat thirsty and hungry. Those with a Compulsion (Personality Flaw) for eating and/or drinking are powerless to resist and must eat or drink as soon as they can. Others need to make a Personality Check against an Ease Factor of 6 to resist the temptation, assuming they wish to resist it. The effect is largely gentle and is designed to go unnoticed, beyond the takings over the bar seeing a marked increase. Yestin always uses forceless casting to ensure the spell has no Penetration, and so will not affect magi. (Base 4, +2 Voice, +1 Conc, +2 Room)</div>
 
-<h4>Lay Your Burdens on Me</h4>
+<h4>Lay Your Burdens On Me</h4>
 
 <div>ReMe 20 R: Eye, D: Sun, T: Ind This spell brings the target’s secrets bubbling to the top of his consciousness, playing on his mind and making him more inclined to disclose them. For the purposes of this spell, secrets are those things that gnaw at the target’s conscience in the face of questioning — those things that the target would normally strive to keep hidden because of guilt or shame or fear. Secrets kept for noble reasons are not affected by this spell, which was a conscious design decision made by Yestin. This spell does not make the target susceptible to questioning on other matters, and so cannot be used to assist directed interrogation. At the end of the spell’s duration, the target must make a personality roll against an Ease Factor of 6. If the target succeeds, she maintains control over her secret and keeps it hidden. The troupe should agree which Personality trait the target uses in the roll. For each subsequent day that the spell is cast on the target, the Ease Factor increases by 1. Virtues and Flaws may modify</div>
 <div>the roll and/or the Ease Factor, with the Storyguide’s agreement. If the personality check fails, the target falls prey to his conscience and seeks someone to confide in. That person may not necessarily be the caster of the spell, and will most likely be someone the target feels he can trust. The Infernal and the Dominion have a strong impact on this spell, dealing as they do with the moral aspects of human life. If the target spends time in the Dominion, the light of the Lord helps to release the truth and the level of the aura is subtracted from the target’s roll. The aura’s Temper (see Realms of Power: The Divine, page 38) also has an effect with Brave, Wise, Strong, or Just Tempers, increasing the aura’s effect by 1. If the target spends the duration of the spell within an Infernal aura, the corrupting influence of the aura reinforces the target’s resolve to keep the secret. The level of the aura is added to the target’s roll. The Storyguide may impose a further bonus to the roll based on any Tarnish or Corruption of the Infernal aura (see Realms of Power: The Infernal, page 13). Yestin invented this spell as a means to more easily solve those mysteries that the spirit Taliesin led him into; mysteries often solved by knowing what those involved wished to hide. (Base 5, +1 Eye, +2 Sun)</div>
@@ -2876,7 +2970,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>InTe(Vi) 25 R: Touch, D: Mom, T: Ind The caster sleeps with the target object beneath his pillow, and his dreams then inform him of all mundane properties of that object. The magic is of Momentary Duration, but the sleeping mind is more able to assimilate the huge amount of information that might be called up, weaving it into the caster’s dreams throughout the night. Note that this spell does not allow the caster to actually talk with the object or divine any secrets that the object may store in whatever passes for its intelligence. This spell uses Terram in its all-encompassing form referencing all solid objects, and requires casting requisites appropriate for the target object.</div>
 <div>The Vim requisite allows the spell to inform the caster of any active or any recent magical effects on the object. This spell is restricted to effects originating from the Magic Realm. Enchantments inherent to the object are not learned beyond a knowledge that some form of enchantment exists. Yestin’s version of this spell sees him conversing with the object within his dreams, wherein the object adopts a persona (or rather, Yestin’s dream ascribes a personality to the object). Multiple castings of this spell on multiple objects are possible, though the caster’s pillow as well as his dreams may become a little crowded. The quirkiness of the spell effect is due to experimentation. Yestin had intended for a more conventional spell, but he found towards the end of his experiments that the spell’s incantation wasn’t complete until the caster fell asleep. His Laboratory Text for this spell carries the same flaw. It’s possible that practitioners and researchers of Dream Magic may be interested in Yestin’s text for this spell, as it may further their own magical aims. (Base 15, +1 Touch, +1 Vim Requisite)</div>
 
-<h4>The Well-Trodden Path</h4>
+<h4>The Well-trodden Path</h4>
 
 <div>ReTe 10 R: Touch, D: Conc, T: Part As the caster walks, this spell shifts the earth underfoot allowing him to travel over rutted paths and uneven roads as though they were flat and even. The earth returns to its prior position after the target of the spell has passed. The spell ends when the caster comes to a stop, such as to rest, or crosses terrain unaffected by this spell, such as a wooden bridge or a ford. This spell has little effect on soft or muddy paths, as the earth must still be able to bear the target’s weight. The spell is potent enough to move stones and cobbles in the road. A traveler using this spell does not suffer undue delay for traveling over poor roads. Traveling at speed to cover more ground in the day still costs the stated Long-Term Fatigue level. City & Guild, page 85, provides more detail on travel speeds. Targets affected by this spell use speeds close to the top end of the applicable travel speeds. (Base 2, +1 Touch, +1 Conc, +1 Part, +1 stone)</div>
 
@@ -2884,19 +2978,25 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>ReTe 25 R: Touch, D: Sun, T: Group This spell conjures a group of seats from the ground, centered on the point the user touches. The number of chairs the spell produces can be controlled by the caster, summoning up to ten. The chairs rise from the ground and each molds itself to the nearest person as he sits back. Each chair is always at least passably comfortable, but notably more so when cast in a meadow with lush grass. Each chair sinks slowly back into the ground, leaving no trace, as the spell nears the end of its duration. The spell only works on sand or soil, a limitation Yestin aims to fix some time in the future. Yestin decided that, to better capture an audience and draw them into the music, there was nothing like a little peripheral magic to increase anticipation. Yestin has never been shy about using his magic. Yestin’s sigil manifesting in this spell can occasionally take his audience by surprise, as at first nothing seems to happen … and then the chairs spring from the ground. (Base 3, +1 Touch, +2 Sun, +2 Group, +1 Complexity)</div>
 <div>Vim Spells</div>
-<div>A Song of All These Faerie Places</div>
+
+<h4>a Song of All These Faerie Places</h4>
+
 <div>In(Cr)Vi(Im) 25 R: Touch, D: Conc, T: Group When the caster stands at a place where the boundary between levels of a faerie regio can be crossed easily, he is able to sing a song or play music that describes the scene on the other side of the regio boundary. As the song sings of each feature on the other side of the boundary, they become clearer in the visual illusion. They then fade slightly as the song moves onto the next feature. For example, where the first line of the song describes the lush grass, in the higher level the grass becomes visible through the boundary, bright and clear. As the next line describes the dry stone wall surrounding the meadow, the wall appears in the illusion but the grass becomes more misty and distant. Those able to see the illusion are also able to pass through from one regio level to</div>
 <div>the next, as they can see the necessary method. If crossing the regio boundary requires other conditions (help from a resident or a particular date, for example), the spell does not work. As the caster must be standing exactly at the point where the regio layers meet and form a boundary, this spell can rarely be used to actually discern the location of that boundary. (Base 3, +1 Touch, +1 Conc, +2 Group, +1 Creo requisite, +1 Imaginem requisite)</div>
-<div>A Song of All These Infernal Places</div>
+
+<h4>a Song of All These Infernal Places</h4>
+
 <div>In(Cr)Vi(Im) 25 R: Touch, D: Conc, T: Group As A Song of All These Faerie Places but affecting Infernal regio boundaries. (Base 3, +1 Touch, +1 Conc, +2 Group, +1 Creo requisite, +1 Imaginem requisite)</div>
-<div>A Song of All These Magical Places</div>
+
+<h4>a Song of All These Magical Places</h4>
+
 <div>In(Cr)Vi(Im) 25 R: Touch, D: Conc, T: Group As A Song of All These Faerie Places but affecting Magic regio boundaries. (Base 3, +1 Touch, +1 Conc, +2 Group, +1 Creo requisite, +1 Imaginem requisite)</div>
 <div>Enchanted Items</div>
 <div>Yestin has created the following items.</div>
 <div>Cloak of Wilderness Refuge</div>
 <div>As Yestin aged, he began to enjoy sleeping out under the stars less and less. It wasn’t so much the effort of carrying a tent around with him that he objected to, but rather having to put it up. This lesser enchanted woollen cloak is the result.</div>
 
-<h4>An Instant Roof</h4>
+<h4>an Instant Roof</h4>
 
 <div>MuAn 15 R: Per, D: Conc, T: Ind Pen +0, 1/day When triggered, the cloak expands and reforms into a large tent complete with tentpoles (formed from the polished bone toggle used to fasten the cloak) to keep it rigid. The tent is large enough to allow three to camp inside in relative comfort. The effect is triggered and canceled by a train of tonguetwisting words in Welsh. (Base 5, +1 Conc; +5 item maintains concentration)</div>
 <div>Song Stones</div>
@@ -2909,7 +3009,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Spear of Lleu</div>
 <div>With his advancing years, Yestin became less trusting of his brothers across the Order and took to employing a bodyguard to whom he entrusted this spear. He commissioned the Spear of Lleu from a Verditius working on the Isle of Oxney, a man rumored to have visited the forge of Wayland Smith himself.</div>
 
-<h4>Neither Rock nor Steel</h4>
+<h4>Neither Rock Nor Steel</h4>
 
 <div>PeTe 26 R: Touch, D: Mom, T: Part Pen +22, 1/day This Perdo Terram effect is able to destroy rock or metal on contact, and is what gives the weapon its name. According to legend, Lleu Llaw Gyffes, seeking revenge on Gronw Pebr for attempting to kill him with a spear, allowed Gronw to hold a great rock between him and Lleu’s spear. But so hard did Lleu throw his spear that it tore through the rock and killed Gronw where he stood. The effect is triggered by being plunged into metal armor. The target armor is instantly weakened, rusting and fracturing in the blink of an eye, and the spear pierces the armor and ignores its contribution to Soak. Against subsequent attacks, the armor has its Soak bonus reduced to half. The Target for this spell is Part, allowing it to affect a quantity of material equivalent to Individual, even where the whole is larger than a standard Individual — a great giant’s stone armor for instance. (Base 3, +1 Touch, +1 Part, +2 Base Metal; +11 Penetration)</div>
 
@@ -2919,12 +3019,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Talisman: Crwth of Yestin</div>
 <div>Yestin’s talisman is his crwth and bow, a form of welsh harp played either with a bow or by plucking the strings. It was inevitable that his treasured crwth would become his talisman. A gift from his mater, the crwth has been with him since before his Gauntlet and its music has been a constant companion. Its attunements are as per the lyre and rowan wood. These are all Yestin currently knows of, but he is keen to find out whether the crwth contains more magical sympathies that are currently hidden from him. He may one day seek out a specialist in the field so he can further attune his talisman.</div>
 <div>Attunements +3 create sounds +5 affect music +4 protection against malicious magic +1 Vim</div>
-<div>A Song to Banish the Darkness</div>
+
+<h4>a Song To Banish the Darkness</h4>
+
 <div>ReVi 41 R: Touch, D: Conc, T: Room Pen +22, 1/day When so instructed, the crwth plays a warding melody that fills the room and prevents creatures of the Infernal from entering. The effective level of the ward is 20, and it uses a Penetration of 22. Creatures within the room when the melody plays are not expelled from the room, but nor can they willingly leave.</div>
 <div>The song is incidental to the effect, and Yestin is able to quiet the song by concentrating. This does not end the effect, and the music can be restarted again by concentrating. The crwth maintains concentration on the effect, and “sings the song” independently of any other music it produces. (Base 20, –1 Conc, +2 Room; +5 item maintains concentration, +11 Penetration)</div>
-<div>A Song to Banish the Impish</div>
+
+<h4>a Song To Banish the Impish</h4>
+
 <div>ReVi 41 R: Touch, D: Conc, T: Room Pen +22, 1/day As A Song to Banish the Darkness, but works on creatures aligned to the Faerie Realm. (Base 20, –1 Conc, +2 Room; +5 levels item maintains concentration, +11 Penetration)</div>
-<div>A Song to Banish the Mystical</div>
+
+<h4>a Song To Banish the Mystical</h4>
+
 <div>ReVi 41 R: Touch, D: Conc, T: Room Pen +22, 1/day As A Song to Banish the Darkness, but works on creatures aligned to the Magic Realm. (Base 20, –1 Conc, +2 Room; +5 item maintains concentration, +11 penetration)</div>
 
 <h4>Your Voice and Mine</h4>

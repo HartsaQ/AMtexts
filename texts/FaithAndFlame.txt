@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -18,12 +22,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>This book is primarily designed for troupes whose saga is based in the Provençal Tribunal, but sagas set in neighboring Normandy in particular may be drawn into the conflict and stories of the region, perhaps even migrating to the southern lands permanently in the wake of the havoc</div>
 <div>wreaked by the Albigensian Crusade. Magi from more distant Tribunals may visit the Languedoc region as part of their official duties, during quests for Mystery initiations or in search of the magical treasures of fallen covenants and ruined Diedne enclaves. These chapters provide background and details most characters would be expected to know about their region—but many of the overarching saga themes, story seeds, and game statistics throughout are intended for storyguides only and reading though this supplement without prior discussion may seriously affect your enjoyment as a player. This sourcebook is a guide and reflects only one possible vision of the Provençal Tribunal in 1220. Any or all of the Hermetic elements presented here can be omitted or adapted to suit your saga. Likewise, although care has been taken to accurately present the complicated history, politics and geography of the region, this is not a history text. Your troupe must decide how closely to follow history and which additional resources help create the most rewarding stories.</div>
-<div>A Note on History and Myth</div>
+
+<h3>A Note on History and Myth</h3>
+
 <div>Much of the history presented here draws on real historical events, but allows the rich myths of southern France, the exaggerations of the troubadour songs, and the imagination of Basque storytellers to take precedence. Some liberties have been taken to enhance story potential. This is a land of dragons, where witches lurk in village covens, shepherds command the winds and herbs, and the legacy of Rome lies buried just beneath the bustle of daily life. Many mythic sites spring from more contemporary legends, while others have been woven from fantasy to make the tapestry more vivid.</div>
 </div sidebars>
 
 
 <h1>Chapter Two</h1>
+
+
+<h2>History & Culture</h2>
 
 <div>The weight of centuries of scholarship, culture, and romance lies heavy upon the Tribunal. From the ghosts of Roman glory to the strange magics of the Dark Ages, the echoes of a glorious past reach out to the turmoil of the present.</div>
 
@@ -311,6 +320,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Three</h1>
 
+
+<h2>Hermetic Culture</h2>
+
 <div>Unlike their northern neighbors, the magi of Provençal have lived easily until recently, generally remaining apart or hidden from settled mundane society in the southern wilderness and the bastions of the Pyrenees. The feudal society dominating the north exists here in a softer form, with emphasis placed more on paratge, the individual bonds and mutual responsibility between nobles, rather than the more hierarchical feudal culture of the north where it is harder for magi to hide from liege lord relationships. The Albigensian Crusade has now fragmented the structure and culture of the south while changing the entire mundane political landscape. Whether the Hermetic magi will retain their existing traditions or become more influenced by their more aggressive northern sodales, who ape feudalism even in Hermetic society (see The Lion & the Lily) remains to be seen. This book presents a Provençal Tribunal of just over a hundred magi. Not all the individual magi or apprentices in each covenant have been described, leaving room for player magi to have lived or been apprenticed in one of the existing covenants. Other covenants exist, one of which may belong to the player characters.</div>
 
 <h3>Founding a New Covenant</h3>
@@ -331,7 +343,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>In order to be considered a resident of the Tribunal, magi must have attended one of the last three Tribunals, or be granted the status by a vote at their first Tribunal. Magi Gauntleted in the Tribunal are automatically considered residents until three Tribunals have passed with them absent from the Tribunal meeting. If immigrants establish a covenant between Tribunals, the magi must either register with both the Redcaps and Praeco or with their closest neighbor; if they want to register with a neighbor, a Redcap leads them if they do not know the closest neighbor’s site. Magi who have registered as resident in the Tribunal are considered residents until they claim residency in another Tribunal or attend and vote at another Tribunal’s gathering. Magi claiming residency in a different Tribunal must register their departure from Provençal with either the Provençal Redcaps</div>
 <div>or the Praeco prior to voting in another Tribunal’s gathering, or they are found in violation of the Peripheral Code.</div>
-<div>The Covenants of the Provençal Tribunal</div>
+
+<h3>The Covenants of the Provençal Tribunal</h3>
+
 <div>The Provençal Tribunal has three main power centers. In the west, the Mercurian magi of Aedes Mercurii and the Mithraian magi of Castra Solis dispute the true legacy of Val Negra and House Flambeau. In the east, the chapterhouses that compose the multi-site Coenobium attempt to prevent new covenants from forming. Nevertheless, the Tribunal has many covenants, and some, like Tolosa Paratge and Bellaquin, are of considerable age and prestige. The Crusade, and disagreements over what the Order’s response to it should be, have led to a deeply divided Tribunal. Each of the more influential covenants in the Tribunal is briefly summarized below, along with any strong opinions that other covenants hold about them, and how their members are likely to react to new covenants established in the region.</div>
 <div>Aedes Mercurii (18 Votes)</div>
 <div>This collection of pagan magi split off</div>
@@ -438,7 +452,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 <div>wield considerable personal influence and secret power. The revitalization of the Mercurian religion began in the mountains of the Pyrenees at Val Negra and was led by Priamitus of Mercere, supported by Apromor of Flambeau. The group had its heyday in the early 900s, and soon after trickles of its secret knowledge began to spread, and other newer Mystery cults with magic derived from theirs began to form. By the time of the Schism War, the Cult of Mercury had fractured into many smaller and more disparate groups, each with their own take on the former cult. They focus on recovering the 37 Great Rites used by the ancient Mercurian priesthood and keeping the old Roman ways alive within the Order of Hermes. A few of them also know how to cast nonHermetic Mercurian rituals (see Houses of Hermes: True Lineages, pages 76–77), and do so occasionally as part of their pagan religious traditions, though only the most fanatically loyal cult members are ever included in these ceremonies. The Mercurians are rigorously isolationist with regards to mundane society, and have no desire to be involved with either Cathars or Church, holding that magi have no business interfering in mundane matters. They are arch-conservatives, and while they dream of a return of the glory that was Rome, they aim to keep the Order as disengaged from the mundane world as possible. They despise the Mithraian faction in House Flambeau, whom they see as falsely taking the title of domus magna for Castra Solis when Aedes Mercurii is clearly the true heir to the lost covenant of Val Negra.</div>
-<div>The Knights of the Green Stone</div>
+
+<h3>The Knights of the Green Stone</h3>
+
 <div>A small chapter of these chivalrous magi (described in The Mysteries Revised Edition, pages 131–132) thrives among the Ostal des Exiles in the Toulousain, with members in other covenants. (Chapter 4: Toulouse; Ostal des Exiles) They are led by Gilbert of Flambeau and have strong links with Rhine and Normandy magi of the cult. If you are not using the Knights of the Green Stone in your saga, you can safely ignore them.</div>
 
 <h3>The Matres & Matrones</h3>
@@ -462,7 +478,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>is involved and likely at the center of it. Alazais of Mercere, the Chief Redcap of the Tribunal and First Consul of the Coenobium in Arelat, is also rumored to be a member, as is Mariola of Tolosa Paratge, and Beatrice of Guernicus (who may well soon become Presiding Quaesitor) has suspected sympathies with it. The three levels of Initiation into the Matres and Matrones each require a great deal of service to the cult and the community, as well as a deep understanding of the cult’s lore, before the Initiate is allowed to progress. Few Initiates attain the highest rank, since the different tiers of Initiation are not only based on the worthiness of the Initiate but on other factors such as age and life experience, and advancing through the Mystery Cult is a saga-spanning journey. For most, the second level might be perceived as the highest level, as many of the cultists never choose to advance further. Characters initiated into the first level are referred to privately as Sisters, and fo</div>
 <div>cus on interacting with the people of their communities, especially with non-magi. They must possess Organization Lore: Matres and Matrones 1, but there are no other requirements apart from the sacrifices inherent in the Initiation scripts. At this stage, women may be invited to initiate Venus’s Blessing, The Feminine Gift (see New Virtues on page 29), or The Gentle Gift, and must take an oath to protect other women from harm. Initiates into the second level are called Mothers (Matres) and take responsibility for the organization and spread of the cult and initiating new members. To qualify for this stage, the character must have a score of at least 3 in Organization Lore: Matres and Matrones, and have either given birth to a child or taken an apprentice. They may initiate Good Teacher or either the Minor or Major version of Feminine Sympathy (see sidebar), and tend to become as Driven as the cult’s founder. The recipients of the final level of initiation are the Matrons (Matrones), dedicated to advancing the cult’s goals among magical organizations and with representatives of the supernatural realms. Any potential Matron must have a score of 6 in Organization Lore: Matres and Matrones, a Feminine Sympathy Trait of at least +3, must have raised a child or apprentice to maturity, and must be of an age to have undergone menopause. They learn either Intuition, Dark Magic (see sidebar), or Chthonic Magic (see Realms of Power: The Infernal, pages 123–124).</div>
-<div>An Ex Miscellanea Tradition: The Gorgiastic Cathars</div>
+
+<h3>An Ex Miscellanea Tradition: The Gorgiastic Cathars</h3>
+
 <div>The Cathars hold a wide spectrum of beliefs, and argue and fragment on doctrinal issues. On the whole most Cathars are very open about their beliefs — they are not gnostic, that is they do not claim that special knowledge is needed for salvation. Among the many differing interpretations of the Cathar faith preached, there is a small mystery cult of theurgists, whose teachings ultimately derive from the Teachings of Criamon the Founder. They identify themselves as members of the Cathar Church, observe the Consolamentum, and honor the Perfecti, yet are in fact heretics even as far as most Cathars are concerned. As they are a Mystery Initiatory tradition and associated with the Magic Realm not the Divine, they have remained largely undetected, and they choose not to enter theological disputes with their “less enlightened” coreligionists. As such few Cathars recognize them as anything but brethren. The origin of the Gorgiastic Cathars lies in the tenth century, with a renegade Criamon of deep religious devotion named Anaïs of Toulouse. Exposed to the early Christian documents circulated by Cathar scholars, she reinterpreted the traditional mystery of House Criamon (Houses of Hermes: Mystery Cults). In her teachings the false creation of Lucifer has been molded by the intervention of the Divine toward harmony, but escaping to the sphairos remains the key to salvation. The path is not through the Enigma as understood by the House, however; to a Gorgiastic Cathar the hypostasis (Criamon’s refuge outside time) is in fact a subtle trap, not part of the solution to escaping the cycles of time. Anaïs replaced the notion of reincarnation common among Criamon with that of transmigration; even at death, the soul does not escape the world and time, but is immediately reborn elsewhere. As such, the Criamon and Gorgiastic Cathars agree on the eternal recurrence of cycles of time, and of endless lives within time, but disagree on the escape route. To Anaïs nothing within time and space (immanent) can achieve escape (transcendence) without</div>
 
 <div sidebars>
@@ -482,7 +500,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>followers entered House Ex Miscellanea in 975; today only a handful remain, the majority in the Provençal Tribunal. They do not practice Enigmatic Wisdom, but have their own Organization Lore: Gorgiastic Cathars which doubles as a Theology ability for their strange belief system. Gorgiastic Cathars as an Ex Miscellanea Tradition receive the Major Hermetic Flaw: Twilight Prone, the General Major Virtue Ghostly Warder (referred to as their ‘Genius’, a tutelary spirit), and the Minor Hermetic Virtue: Quiet Magic.</div>
 
 <div sidebars>
-<div>Potential Parentes of the Provençal Tribunal</div>
+
+<h3>Potential Parentes of the Provençal Tribunal</h3>
+
 <div>For players who want their characters to have completed their apprenticeship in the Tribunal, the following magi would make suitable parentes for the characters.</div>
 <div>Bjornaer</div>
 <div>Bubulcus and Elornis One-Leg of the Coenobium</div>
@@ -521,6 +541,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>reputedly because of a falling out with the Flambeau Primus, Garus. Given the recent upheavals, it is likely that the dominating theme at council will remain interference with mundanes and the effects of the Albigensian crusade on the Tribunal. Those most affected by the crusade, the Hermetic faidits and refugees from other covenants affected by de Montfort’s forces, will demand license to defend themselves or enforce what they see as their right to reclaim their magical power. They seek the approval and backing of Garus and the milites of Castra Solis, even overt magical aid against the crusaders. The aloof conservative faction, led by the Mercurians of Aedes Mercuriae and supported by those southern covenants removed from mundane society and thus unaffected by the crusade (Ara Maxima Nova, Stella Durus, Miniata Sophia) will argue for not interfering and waiting out the current struggle, relying on their isolation to ensure their safety. If the Tribunal decides to formally intervene against the crusaders and the Church, the Pyrenean led group may boycott any future discussions in 1227 and even attempt to secede from the Tribunal entirely. Meeting the requirement of four covenants, they may petition to declare themselves an independent new regional Tribunal at the next Grand Tribunal, scheduled for 1228. An issue also in many senior magi’s minds is the growing power of the Coenobium, long respected as a source of stability and a paragon of cooperation amongst magi. The Jerbiton-and-Mercere controlled collective has greatly increased its influence, unopposed in the turmoil created by the recent destruction of several covenants by the crusaders. Its increasingly expanding hegemony makes even former allies uneasy. Tolosa Paratge’s internal war may also be raised, if any magi feel the situation should be resolved by the Tribunal and bring a case.</div>
 
 <h1>Chapter Four</h1>
+
+
+<h2>The County of Toulouse</h2>
 
 <div>The County of Toulouse lies in the center of the Tribunal, situated in a shallow depression between the heights of the Pyrenees and the highlands of Provence. It is a land of castles, with the ranges of hills and rocky outcrops that rise above the plain topped by scattered fortifications. The towns and villages are built of either wattle, daub, and wood, or in the famous local brick that ranges in color from vivid pinks to bright reds. At dawn and sunset the “red towns” of the region glow with the sunlight’s reflection on the brick houses, and the beauty of the scene is much remarked upon by northern visitors. Toulouse is a dusty land of orchards, vineyards and farms, crisscrossed by wide drovers’ trails (sometimes a mile across). Vast flocks of cattle, sheep, and goats are driven to their summer pastures in the Pyrenees in late spring, and back to the lowland pastures in early autumn.</div>
 
@@ -687,7 +710,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>are treated with wary respect by both sides, but neither exactly encourage visits, being wrapped up in their own conflicts. When it becomes clear however that a valuable text was borrowed before the conflict started, and is now somewhere at Tolosa Paratge, the characters are sent to fetch it back. Can they help bring peace to the troubled covenant, or will they be drawn into the conflicts?</div>
 </div sidebars>
 
-<div>Faith & Flame The Toulouse Hinterland</div>
+
+<h3>Faith & Flame The Toulouse Hinterland</h3>
+
 <div>The towns around Toulouse stand in golden fields of wheat, with rocky sheep pastures dotted with plants on low hills. Many of the towns have emulated Toulouse in casting off feudal duties and electing capitouls to pass laws and run the towns in the interest of the artisans and burghers. There are many small castles dotted around the region, some held by Crusaders, or those loyal to the Crusade, some by southern lords still sheltering Cathars and faidits (knights dispossessed by the crusade, and now landless and lord-less).</div>
 <div>Termes</div>
 <div>One of the strongest castles taken by de Montfort, the news has arrived that the sons of its defender, Oliver and Bernard of Termes, are returning with their men in the spring of 1220. This is very much in the current pattern of the dispossessed southern lords taking back their former lands either through papal intervention or by military strength. Termes is considered one of the three great castles of the region in terms of the strength of its fortifications, along with Cabaret (Lastours) and Minerve.</div>
@@ -723,7 +748,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>1215 the papal legate had all seven burned in the market place anyway. Orthodoxy was no protection during the crusade, as the Lord of Morlhon found when he was dispossessed by the agents of the Church his family had served so faithfully. Pons de Morlhon has become a companion of the</div>
 
 <div sidebars>
-<div>Story Seed: The Traitors of Lolmie</div>
+
+<h3>Story Seed: The Traitors of Lolmie</h3>
+
 <div>The garrison at Lolmie saved their own lives by delivering Baudouin to the crusaders. With his dying breath he cursed his brother’s bones to lie unburied forever, and cursed all the traitors of Lolmie to early graves. Many of the men have since died, in what appear to be inexplicable accidents, and the remainder are terrified and come to the covenant seeking help in lifting Baudouin’s curse. Victims of the curse suffer an additional four botch dice until they seek forgiveness. The curse is as a unique Invocation/ Cursing effect of level 60, powered by</div>
 <div>the dying man’s fury at the betrayal and terrible curse and his death agonies. The Range is special, and effects those who had sworn fealty to Baudouin and subsequently betrayed him, the Duration is until the sin of treachery is confessed and forgiven, and the Target is Group plus an additional magnitude to effect all thirty members of the garrison. (Base 5, +4 as Communion, +4 as Forsaken, +2 Group; see Realms of Power: the Divine Revised Edition, pages 50 and 68, and Realms of Power: the Infernal, page 103) Whether the curse effect is actually Divine or Infernal is best decided by the storyguide.</div>
 
@@ -731,7 +758,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Cahors Black is not just a very fine wine; a few flasks, when properly made, contain a potent source of Spell-like vis (see Realms of Power: Magic, page 121). A moneylender who runs the risk of being ruined by an unwise loan to a local noble offers the wine, which he has realized has extraordinary properties, to any person who can enforce his mortgage agreement and recover his money, or payments from</div>
 <div>the noble. The noble lives in Toulouse, and claims that the payment agreement is illegal (as it now is in that city) and that the debt is canceled. In 1201 existing agreements were honored as the law abolished them, but this agreement was made after mortgages were made illegal. It may take a ruling of the capitouls or the bishop to resolve — is even this special vis really worth it?</div>
-<div>Story Seed: The Ghost of Na Geralda</div>
+
+<h3>Story Seed: The Ghost of Na Geralda</h3>
+
 <div>Lavaur is still haunted by a well known ghost, that of the beautiful and learned noblewoman Na Geralda who was murdered by the crusaders. Her spirit can manifest physically, and is dressed in fashionable noble dress, with no obvious signs of the trauma that led to her horrific death. She attempts to seduce suitable candidates into a fin amor, only revealing her ghostly state some way into the courtship, and then pleading with her lover to give her bones a proper</div>
 <div>burial. None so far have dared, and if refused she appears as a hideous mutilated corpse showing the horrible scars of her murder, and terrifies her unfaithful lover. The crusaders are aware that the death of Na Geralda was an atrocity, and wish her bones and memory to remain undisturbed so any who do try to lay the ghost to rest face the anger of Gui de Lucy and his men. The crusaders can not see the ghost (no one is sure why) and they do not believe the stories.</div>
 </div sidebars>
@@ -801,7 +830,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Fanjeaux is a hilltop town with a small castle, and was the center of Dominic’s campaign of preaching against the Cathars while he lived here from 1206 to 1215. Dominic founded the nunnery of St. Marie in the village Prouille just below the town as a refuge for women converted from Catharism and young women seeking a Church vocation. Dominic’s personal sanctity was respected even by the Cathars, all the more so after he drove off a demon here that appeared as an immense cat with flaming eyes and a long, prehensile tongue. Whether this corrupted beast (Realms of Power: the Infernal, page 77) will ever return is unknown, but it may still lurk in the region. When the crusaders came here in 1209 the inhabitants fled, and now no one dares shelter Cathars within the town, once a stronghold of the heresy. Indeed Cathars approaching the town are met with violence and threats, and swiftly denounced to the Church and crusaders. Yet</div>
 
 <div sidebars>
-<div>Story Seed: The Daughters of Na Loba</div>
+
+<h3>Story Seed: The Daughters of Na Loba</h3>
+
 <div>While they await the return of Cabaret, Na Loba’s three daughters still have a strong claim to the three castles of Lastours. Having effectively been freed of their Trencavel overlords, the daughters do not wait passively for husbands and suitors, but instead use their dark charms and seductive allure to attempt to entrap good husbands. Only the stupidest of</div>
 <div>peasants believes the whispered stories that they are really werewolves. Anyone voicing the story soon vanishes, victim of the undoubted vindictiveness of the three heiresses and of Na Loba, who is still a formidable politician and mistress of intrigue. They are currently traveling around the country, seeking powerful allies to reclaim their birthright.</div>
 
@@ -884,14 +915,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>These demons arrived during the interdict of 1208 and linger in the wild lands of interior Gascony. A demon generally descends upon a community, possessing its more prominent members. Through their victims, they encourage the rest of the village to sin, eventually enveloping the town in an Infernal aura. Each demon favors a particular deadly sin (two, in the case of Cenodoxus Superbia), and if it can ensure its host dies unrepentant, the victim returns as a minor demonic creature or</div>
 <div>ghost. Three demons remain active in the area, while the demon of Greed has moved to the bridge of St. Thibery. The demons of Gluttony and Wrath travel amid the Crusaders in Narbonnais and Toulousain, spreading their vices among the Crusaders and defenders alike. What happens when these demons take notice of the covenant and attempt to corrupt companions or magi? If one escapes, will all six descend upon the covenant, possessing grogs and covenfolk to infiltrate it?</div>
-<div>Story Seed: The Way of Secrets</div>
+
+<h3>Story Seed: The Way of Secrets</h3>
+
 <div>Once a pagan mystery path, the route to Santiago de Compostela reflected a trip to the end of the world, where the sun died and the scallop became the symbol for rebirth from the sea. This original purpose was incorporated into stories of St. James rescuing a knight from the ocean. The pre-Roman path may offer insights into Diedne magic or links to Atlantis. Book Five of the Liber Peregrinationis offers advice for pilgrims, detailing recommended stopping places, relics for veneration, sanctuaries to visit, and the scams and bad food to avoid. While providing valuable insights into a piligrim’s life and describing Santiago de Compostela and</div>
 <div>its cathedral, the text acts as a mystery script, possibly providing the path for Initiation into fertility magic secrets, or a method for amplifying a Hermetic longevity ritual’s efficacy. At the time, the text’s author remains unclear, and it demonstrates a great deal of Basque influence. Perhaps the authoring magus still lives in secrecy or hermitage—in the Pyrenees of either Provence or Iberia. He must be found to decipher the Initiation encoded within the manuscript. For most, a complete copy of the five books of the Liber Peregrinationis serves as a tractatus of Area Lore: Iberia, Area Lore: Provence, Artes Liberales (Music), Divine Lore, and Theology with a quality of 8.</div>
 </div sidebars>
 
 
 <div sidebars>
-<div>Cenodoxus Superbia, Lord of Pride and Envy</div>
+
+<h3>Cenodoxus Superbia, Lord of Pride and Envy</h3>
+
 <div>Order: Lord of the Vessels of Iniquity Infernal Might: 40 (Vim) Characteristics: Int +2, Per +2, Pre +1, Com +2, Str +3, Sta +4, Dex +3, Qik +3 Size: +0 Confidence: 2 (7) Virtues and Flaws: Improved Characteristics, Self-Confident; Overconfident Personality Traits: Depraved +6, Hateful +6, Subtle +5, Cunning +4, Deceptive +4, Vessel of Iniquity Demon +3 Reputation: Subtle & Effective 5 (Infernal) Hierarchy: 5 Combat: Fist: Init +3, Attack +7, Defense +7, Damage +3 Dagger: Init +3, Attack +10, Defense +8, Damage +6 Soak: +4 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Bargain 7 (setting rates for assistance), Brawl 4 (dagger), Charm 7 (first encounters), Folk Ken 7 (humans), Guile 7 (craftsmen), Intrigue 7 (subtly spreading gossip) Powers: Form of Wickedness, 4 points, Init 0, Mentem. This Power is a special variant of the Coagulation Power, and it replaces that Power for this order of demons. The demon assumes a physical form with no shape, dimension, or other accidents of form; while composed of matter, it is pure sin made visible to mankind. Indescribable, this form provokes an extreme response in viewers who indulge in the sin of envy until they drop from exhaustion. (See Realms of Power: Infernal, page 39) Form of Man, 0 point, Init 0, Corpus. After taking physical form, the demon may shapeshift into any human form, which it may dissolve at will. Obsession, 1-3 points, Init –5, Vim. The demon can impose the Obsession Trait of Pride or Envy. (Realms of Power: The Infernal, pages 31-32) Contagious Obsession, 1 point per victim, Init 0, Mentem. Any person who succumbs to the Obsession (Envy) Power of a Vessel of Iniquity becomes a carrier of that Power, and can pass it on to anyone who becomes a victim of their sin.</div>
 <div>Obsession is resolved in the usual way, except that if the target fails his personality roll, he becomes contagious. Any other person who suffers as a result of his new personality trait must himself make a resistance roll against the initial Obsession Personality Trait or succumb and become a carrier. The total number of people potentially affected is limited by the number of Might points the demon expended to fuel the power. Grant the Master’s Potential, 10 points, Init –17, Vim. Cenodoxus grants the equivalent of the Great Characteristic virtue to the target, raising the appropriate Characteristic associated with the target’s chosen craft to +3, or by +1, whichever is better (See ArM5, page 30). The demon usually grants the Virtue temporarily, subtracting the cost from its Might Pool. It can choose to bestow the Virtue permanently, which reduces the demon’s Might Score as well. If temporary, the Might points are only restored when the Virtue is withdrawn. The demon may do this at anytime by simply choosing to, but it also often occurs when a prohibition placed at the time of the gifting is broken. The prohibition is often just a time limit, like a year and a day or “until this project is complete.” Targets receiving the Virtue permanently also gain the Flaw Tainted with Evil. No Hermetic equivalent. R: Touch, D: Mom, T: Individual, Ritual Grant the Master’s Insight, 5 points, Init -7, Vim. The Lord of Pride and Envy grants the equivalent of the Puissant (Ability) Virtue to the target, providing a bonus to the appropriate craft ability of 2 (see ArM5, page 48). This power provides its bonus in addition to any bonus the target may have from other Virtues, including Puissant (Ability). (For example, a smith with Craft: Smithing) 3, Puissant Craft: Smithing and this benefit would have a total of 3+2+2.) The demon usually grants the Virtue temporarily, subtracting the cost from its Might Pool. It can choose to bestow the Virtue permanently, which reduces the demon’s Might Score as well. If temporary, the Might points are only restored when the Virtue is withdrawn. The demon may do this at anytime by simply choosing to, but it also often occurs</div>
 <div>when a prohibition placed at the time of the gifting is broken. The prohibition is often just a time limit, like a year and a day or “until this project is complete.” Targets receiving the Virtue permanently also gain the Flaw Tainted with Evil. No Hermetic equivalent. R: Touch, D: Momentary, T: Individual, Ritual Shroud the Stench of the Pit, variable points, Init +3, Vim. The demon can conceal the Infernal nature of any other supernatural power or aura, making it appear to be Magical or Faerie instead. It may also be used to remove all stench of the supernatural, making things appear wholly mundane. This power can shield a creature or effect from the Sense Holiness/ Unholiness ability. This Power costs Might Points equal to the original cost of the Power being concealed, or Might Points equal to the magnitude of the Infernal effect if it does not cost Might Points. This Power lasts for as long as the Power it is masking. Weakness: Protected Group (meek people) Vis: There are eight pawns of Vim vis in the demon’s tongue and eyes. Appearance: Cenodoxus manifests as a handsome and well, but appropriately, dressed man or woman, depending on whom he targets. He always has a dagger adorning his outfit, and carries quality tools associated with his target’s chosen craft or profession.</div>
@@ -946,7 +981,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Hundreds of dolmens litter the fens and marshes of the Médoc, each with a Faerie aura of 1 to 5. Most of them serve as homes for the faeries that call the region</div>
 
 <div sidebars>
-<div>Julian/Julia, the Tempter of the Way of St. James</div>
+
+<h3>Julian/Julia, the Tempter of the Way of St. James</h3>
+
 <div>Order: Tempters (Incubi/Succubi) Infernal Might: 15 (Vim) Characteristics: Int +1, Per +2, Pre +3, Com +2, Str +2 , Sta +3, Dex +2, Qik +2 Size: +0 Virtues and Flaws: Improved Characteristics x2, Puissant Charm, Puissant Guile; Weak-willed Personality Traits: Selfish +5, Deceptive +4, Lustful +4, Tempter Demon +3, Cowardly +2 Hierarchy: 3 Reputation: The Despoiler of the Pious 3 (Infernal), Clever 1 (Pilgrimage Hostels) Combat: Club: Init +3, Attack +7, Defense +6, Damage +5 Fist: Init +2, Attack +4, Defense +4, Damage +2 Soak: +3 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Awareness 3 (humans), Brawl 2 (club), Charm 7+2 (first encounters), Concentration 3 (maintaining concentration), Folk Ken 7 (humans), Guile 7+2 (seduction), Penetration 3 (Hag Ride) Powers: Coagulation, 2 point, Init –1, Corpus. The demon can obtain a material form, which it may dissolve at will. Obsession, 1-3 points, Init –5, Vim. The demon can impose the Obsession Trait of Betraying Lust. (Realms of Power: The Infernal, pages 31–32)</div>
 <div>Harness the Wind, 1 point, Init 0, Corpus. This Power allows the demon to fly from one place to any other. The Power lasts until the journey’s end, or dawn. Most demons do not bother to do this; they instead discorporate and generate a fresh body at the new location. Sexual demons can do this, instead of using this Power, but lose their cargo when they do. Hag Ride, 1 point, Init 0, Corpus. The demon may “ride” a victim for an evening. This Power causes the victim to lie, fully conscious but unable to struggle, while assaulted by the demon. If the demon is in spiritual form, the victim can see ghost-like glimpses of his assailant. Being ridden by these demons causes the loss of a long-term Fatigue level, and prevents the recovery of any other Fatigue levels during the night. Sometimes a victim is ridden on consecutive evenings, and loses additional Fatigue level each evening. Some powerful sexual demons can cause wounds or can kill with a single ride. Others ride victims in their dreams. The target regains the power to move at dawn. Mutable Gender, 0 point, Init 0, Corpus. The demon can change the shape of its manifestation at will, to whatever male or female human form it desires. Julian almost always takes the mien of a raven-haired roguish man in his early twenties wearing pilgrim’s garb, unless another form would be more appropriate to the situation. Weakness: Protected Group (people who</div>
 <div>have already lost love once) Vis: Three pawns of Vim vis reside in the demon’s belt buckle. Appearance: Appearing as a vibrant and cheerful man or woman in his or her early 20’s, the demon tempter is always finely, but suggestively, dressed. He favors rich blues and deep brown colors, and appears greatly interested in the victim’s insights and experiences.</div>
@@ -965,7 +1002,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>First married at the age of 12, Isabella of Angoulême was once the Queen of England, the widow of King John and the mother of both fourteen yearold King Henry III and eleven year-old Richard, High Sheriff of Berkshire and future Holy Roman Emperor. Eleanor of Aquitane approved of her, and the English people called her “Messalina,” “The Helen of Gaul,” and a “siren,” although her beauty infatuated them. She married Hugh without waiting to receive the consent of the king’s council in England, a required procedure for a former queen of England. Traditionally, the council not only chose the queen dowager’s second husband, but decided whether she should be allowed to marry at all. Isabella’s defi</div>
 <div>ance caused the council to confiscate her dower lands and stop the payment of her pension. Isabella and her husband retaliated by threatening to keep the ten yearold Princess Joan, King Henry’s sister and the promised wife of King Alexander II of Scotland, in France—perhaps hidden away in Castle Rudel under the watchful eye of the Lord of Blaye. Isabella will have another nine children with Hugh over the next fourteen years, and her notorious beauty never fades. Does faerie blood run in her veins, or has Isabella struck a bargain with Oriande la Fée, and if so, at what price? Does she conspire with Ducaru of Stella Durus (see Chapter 7: Narbonnais) to secure her legacy and bloodline with his machinations?</div>
-<div>Story Seed: The Hero’s True Panopoly</div>
+
+<h3>Story Seed: The Hero’s True Panopoly</h3>
+
 <div>Notably absent from the crypt in Blaye are both Roland’s legendary relicladen sword, Durendal, and Roland’s fabled Olifant, a signal horn carved from the horn of a unicorn and sundered by the force of Roland’s dying act of sounding it. The fate of these objects is a mystery. The horn purportedly rests across the estuary in Bordeaux, in the basilica of Saint Seurin. Durendal’s resting place is much more uncertain. Stories claim the sword’s golden hilt holds a tooth of Saint Peter, the blood of Saint Basil, a lock of hair of Saint Denis, and a piece of the raiment of the Blessed Virgin Mary, making it a puissant weapon against demons and powerful protection against harmful magics. The Confraternity</div>
 <div>of Roland claims Wayland Smith and Verditius forged the blade, which might make it a breakthrough of Divine and Magical synthesis. The tale of Roland claims the dying knight used it to cut La Brèche de Roland in the Pyrenees while trying to break the blade in order to deny it to the Basques overrunning his host (even though Roland’s Breach is nearly 100 miles to the east!) When the weapon remained unharmed, he flung it away, and it was found stuck in a cliff wall beneath the abbey in Rocamadour, 200 miles away—perhaps drawn to the many relics contained within the abbey, including a wooden Black Madonna carved by Saint Amadour. Although a sword remains in the cliff in 1220, it is also said that Charlemagne</div>
 <div>claimed Durendal in the aftermath of the battle, and that the Verditius magus Roscius later stole it away to Verdi. Roland is thought to have received church burial, but if he did not and his ghost was somehow summoned, he could confirm the provenance of the weapon wedged in the rock face or answer questions regarding its origins. The ghost Pyrene’s (see Chapter 6, The Pyrenees) close association to the mountains means she likely witnessed the battle where Roland fell. If she can be convinced to travel to Rocamadour, or if the alleged sword is brought to her, she could validate its authenticity. If the weapon in the cliff is Durendal, then what has the Confraternity of Roland brought inside Verdi?</div>
@@ -1047,7 +1086,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Rebuilt in the mid-tenth century by Basques and Viking settlers, Bayonne is a major shipbuilding port and whaling center in Aquitaine. Construction of its great cathedral of St. Mary of Bayonne began in 1213 and still continues, while the completed crypts now house the relics of the city’s patron saint, Leon de Carentan, beheaded</div>
 
 <div sidebars>
-<div>Story Seed: Scourge of the Way</div>
+
+<h3>Story Seed: Scourge of the Way</h3>
+
 <div>Drakes and worms have begun plaguing the pilgrims attempting to travel the Way of St. James. They are particularly terrible near Ostabat. The knightly orders of the region can handle an occasional small “dragon,” but these numbers threaten to overwhelm them. They seek out the</div>
 <div>covenant and ask to establish a temporary relationship while “crusading” against the creatures. A group of questing Verditius and vacationing Jerbiton both agree to the knights’ terms as well, and suggest an amicable competition and friendly wager between the hunting parties.</div>
 
@@ -1256,13 +1297,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Six</h1>
 
+
+<h2>The Pyrenees and the Hispanic March</h2>
+
 <div>While the Hispanic March might be considered part of Iberia, portions of the kingdom of Castille and Navarre, as well as the kingdom of Aragon and the county of Barcelona stretch up into the Pyrenees to brush up against Provence. Lonely metal crosses planted on mountainsides and places where the spring melt flows north or south demarcate the border. Much like the patchwork of Narbonnais, these domains and their peoples are intimately tied not only to</div>
 <div>each other, but also their immediate neighbors with relationships stretching back generations. Noble ladies of the region married the king of England and the counts of Burgundy and Toulouse, while King Pedro II of Aragon wedded Marie of Montpelier. The rulers of these lands participated in the Reconquista as much as the Albigensian Crusade, and cared deeply about both outcomes.</div>
 
 <h3>Domains of the Hispanic March</h3>
 
 <div>The Marca Hispanica consists of two primary regions, both divided into two portions. In the west, the kingdoms of Castile and Navarre hold the border. In the central foothills and the east, the crown of Aragon rules over the kingdom of Aragon and the county of Barcelona. Nestled within the bo</div>
-<div>The Pyrenees and the Hispanic March</div>
 <div>som of the Pyrenees lies the tiny realm of Andorra, the last true marcher county established by Charlemagne. These are busy, complicated realms, and this material only touches upon the portions which share the border of the Pyrenees with Provence. It is intended to provide additional context for mundane and political interactions and should not be considered a complete resource.</div>
 
 <h3>Kingdoms of Castile and Navarre</h3>
@@ -1298,7 +1341,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This collection of valleys and hills has changed fealty between Gascony and Navarre many times in the last two hundred years. It currently pledges allegiance to Navarre but has no noble ruler. A sheriff oversees the towns and hamlets, collecting taxes and enforcing the king’s law. The people of Lower Navarre remain very involved in the industry surrounding the Way of St. James, which passes through the fabled Roncevaux Pass after leaving the popular mustering point of Ostabat. The region is also known for its pink sandstone, rare wild ponies known as pottok, and Irouleguy wines—produced by the monks of the Abbey of Roncevaux. Numerous dolmens dotting the countryside suggest that the ancient race of giants known as jentilak once occupied these hills.</div>
 <div>Viscounty of Soule</div>
 <div>Soule shares the Oloron river as its northern border with the county of Béarn in Gascony. Its capital is Mauléon, governed by Ramon Guillem IV, who became the viscount in 1217. Lower Navarre forms its western boundary, and the valleys of Barétous and Salazar form its eastern and southern borders. Its primarily Basque population rarely speaks anything but Euskara and occasionally Occitan. Riddled with sinkholes and caves, the limestone hills of Soule serve as lairs for a few drakes and worms, said to be the progeny of Sugaar, and for countless lamia, who purportedly teach their mystic secrets to the Basque folk witches.</div>
-<div>Kingdom of Aragon and the County of Barcelona</div>
+
+<h3>Kingdom of Aragon and the County of Barcelona</h3>
+
 <div>The kingdom of Aragon and the county of Barcelona belong to the crown of Aragon and the region is collectively called Catalonia. Once ruled by Pedro II the Catholic, Simon de Montfort’s forces killed the king at the Battle of Muret in 1213. His 12 year-old son, James I, currently resides in the political heart of Aragon, the city of Zaragoza. Nobles loyal to him plot to secure his ascension to power with a marriage to Eleanor, daughter of Alphonso VIII of Castile. Planned for</div>
 <div>the prince’s 13th birthday in 1221, the marriage is intended to strengthen Aragon until James reaches majority in 1223. Sancho of Barcelona, James’ uncle and the count of Roussillon and Cerdagne, as well as Sancho’s son, Nuno Sanche, lord of Roussillon, Vallespir, Conflent and Cerdagne, act as regents of Aragon. They are further discussed in Chapter 7: Narbonnais. Obviously, several of these counties lie in Narbonnais and their lords are also lords of Aragon, further demonstrating the entangled relationships between the nobles of the region.</div>
 <div>County of Besalu</div>
@@ -1368,10 +1413,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The count of Ager, Urgell’s cousin, claims Aurembiaix cannot inherit the county and threatens to take control of the county by force upon the countess’ death. If your saga follows history, Guerau IV de Cabrera seizes Urgell in the winter of 1220 and Aurembiaix flees into exile, attempting to find a way to recover her birthright. She</div>
 <div>might become a Companion within a covenant, or act as a potential patron. In 1228, James I took an interest in her and had her marriage annulled on grounds of consanguinity. She then became James’ concubine and he confirmed her rights of inheritance in exchange for the town of Lleida.</div>
-<div>Story Seed: Looking for a Lord</div>
+
+<h3>Story Seed: Looking for a Lord</h3>
+
 <div>A covenant established in one of Pallars’ many valleys or ruined keeps would have little concern regarding mundane interference both for their remote nature and for the limited governance — at least for a while. This situation remains unchanged until Roger II succeeds as count</div>
 <div>in 1234, becoming much more involved in regional politics and potentially taking an interest in any pet administrators or pretenders. In the interim, however, the covenant might see some competition for vis sites from the Basque sorginak or Dama’s cult.</div>
-<div>Story Seed: Who Watches the Watchtower?</div>
+
+<h3>Story Seed: Who Watches the Watchtower?</h3>
+
 <div>A partially ruined tower sits atop Mount Urkulu, offering an excellent view to the north and south, and of the route through the Roncevaux Pass. Built by the Romans, many claim it is a Mercurian site, and it serves as a watchtower, allowing the sheriff’s garrison to protect travelers. Men</div>
 <div>stationed there quickly depart on Fridays, however, as an active coven of sorginak hold akelarre within its walls—often summoning a wild aker for instruction or service or using their ecstatic magic (see Sorginak, later in this chapter) to answer questions or avenge slights.</div>
 
@@ -1389,7 +1438,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Located in the Andorran parish of Ordino, the renewed covenant of Bellaquin is paradoxically isolated yet deeply involved in mundane and Hermetic affairs. A mere generation ago, they enjoyed the peak of Summer from the Chateau d’Penne in Tarn, perched high above the Aveyron river, a day’s march north northeast from Toulouse. A legend amongst magi and mundanes, they wielded great influence in the Order and among nobles. Undone by their own decadence and intrigues, a combination of mundane forces — possibly orchestrated by other magi — resulted in the destruction of their original location. However, taking the advice of certain archmagi, Bellaquin had prepared for such a disaster. With hidden emergency reserves and a secured, alternate location, the attack’s survivors took what they could, destroyed what they could not, and abandoned the site to their mundane proxies. Now, twenty years later and located in Andorra, Bellaquin has reached an even greater peak than before, but on a different scale. However, it is greatly transformed and many consider it a different covenant. They</div>
 
 <div sidebars>
-<div>Story Seed & Vis Site: The Cairn of Pyrene</div>
+
+<h3>Story Seed & Vis Site: The Cairn of Pyrene</h3>
+
 <div>In a drunken indiscretion, Heracles seduced the nymph, Pyrene, while he enjoyed the hospitality of her father’s court. He then continued on his task to steal Geryon’s cattle. Pyrene bore a serpent as a result of the union and ran into the forest to tell her story to the trees. Drawn by her sobbing, wild animals tore her apart. When he returned, Heracles found her dismembered body. Overwhelmed with grief, he gathered her body and built a cairn of stones, demanding that the surrounding area preserve her name. The very hillsides responded, piling stones upon stones and thus creating the Pyrenees Mountains. Somewhere, deep in the range, lies the secret tomb of Pyrene.</div>
 <div>Several magical animals supposedly lurk in the vicinity and her ghost haunts the region. On the night of her death, the spectre appears before the cairn, weeping until sunrise. Dew collects a shallow depression of the large boulder where the spirit sits, and the liquid contains 4 pawns of Mentem vis. This place has a Magic aura of 4 and links to a larger regio network stretching throughout the mountains. What does the tortured ghost of Pyrene know of Heracles? What happened to the serpent she bore? Is it a voivre (Realms of Power: Faerie, page 101)? Can characters convince Pyrene to reveal and share the regio network created with the Pyrenees’ birth?</div>
 
@@ -1410,7 +1461,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Originally founded in 1016, Bellaquin’s current location was established in</div>
 <div>1202. Now functioning as a large house built within a lacunae in the village and region of Ordino in Andorra, they endeavor to create a different sort of covenant, one more subtle but still engaged in mundane affairs. Enjoying a Magic aura of 3 and maintaining an 8th magnitude Aegis of the Hearth, Bellaquin enjoys a local reputation as a helpful group of wealthy outsiders who frequently bring trade from distant merchants. Amongst the Order, they encourage a reputation for casual indifference and occasionally unhealthy, stubborn tendencies. Every magus at Bellaquin has customized his laboratory to some degree, and a vacant lab currently serves as storage space. Vis-rich, Bellaquin holds nearly 100 pawns, and their vis sources supply an average of 30 pawns per year. They keep a fortified manor on the outskirts of town, at the beginning of a road leading up the mountain which overlooks most of Andorra. Their grogs participate in local militia patrols and volunteer in the village’s defense.</div>
-<div>Faith & Flame Culture and Traditions</div>
+
+<h3>Faith & Flame Culture and Traditions</h3>
+
 <div>Still deeply involved in mundane affairs, Bellaquin now employs far more subtle tactics. Instead of conspicuously consorting with powerful nobility, Bellaquin works through mercantile channels, utilizing an influential network on both sides of the Pyrenees and ranging as far as Germany and Italy. No actual trade occurs on the covenant grounds, but it lies at the heart of a financial machine. Bellaquin offers banking services to both mundanes and magi. They do not engage in money lending as the Italian bankers do, but provide the service of transferring funds between distant locations, similar to the Templars. Using Hermetic magic, they can easily transport funds or other resources to a prearranged location at established times, and with some extra effort to nearly any location.</div>
 
 <h3>Magi</h3>
@@ -1600,7 +1653,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 <div>near Christmas leaving toys and treats for children. While reclusive and shy, the giants actually thrive with companionship based on a begrudging yet deep friendship. An ancient race, they adopt a mentor role in relationships. Exceptional blacksmiths and farmers, they refuse to learn more advanced crafts or Academic Abilities. A jentil would make an interesting option for a Faerie Friend, Supernatural Warder, or in an extreme example a Faerie Familiar. The cyclops-like tartalo, which also hunt in the Pyrenees, are sometimes thought to be degenerate jentilak with bestial temperament and man-eating habits. The laminak (singular: lamia) are the river fae of the Pyrenees. Consummate builders and craftsmen, they combine many of the traits of brownies and tritons. Known for their textile-spinning skills and building acumen, laminak reputedly instruct sorginak and build bridges, churches and homes for those who agree to their bargains. These deals often involve meals, marriage, even a student’s soul. However, stories claim if a petitioner steals a lamia’s golden comb, the lamia has no choice but to serve. Aker are goatmen who lurk near the meadows pocketing the hills and valleys of the Pyrenees. Sorginak often summon them to harass enemies or teach the secrets of the weather and land or the healing properties of local plants, or even to celebrate akelarre alongside a coven. Demons occasionally masquerade as Aker, attempting to corrupt sorginak by offering to teach Infernal abilities. (See Guardians of the Forests, page 50, and use statistics for the bockman.).</div>
-<div>New & Modified Virtues & Flaws</div>
+
+<h3>New & Modified Virtues & Flaws</h3>
+
 <div>The following Virtues & Flaws are presented with Basque characters in mind, but may apply to characters in different sagas. Those applicable only to sorginak hedgewitches are presented elsewhere.</div>
 <div>Faerie Blood: Jentil</div>
 <div>Minor or Major Supernatural Virtue You claim descent from the race of giants who once ruled the lands of the Basque Country. Though now defeated and virtually ex</div>
@@ -1649,7 +1704,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Initiations</h3>
 
 <div>The sorginak reputedly practice wicked initiations and unclean magic. Most sorginak Initiation Scripts contain pagan elements, but there exist a few “clean” variations for many of the basic Favored Abilities. The Inner Mysteries have their basis in a more sinister nature, and no effort has been made to revise them as they are kept secret from non-sorginak. These include the Goetic Arts of Summoning and Command, Ecstatic Magic, a modified version of Chthonic Magic, and their own version of Ceremony. Details of these Virtues and Arts are discussed below. Initiations take place at an akelarre, and follow the usual rules.</div>
-<div>New & Modified Virtues & Flaws</div>
+
+<h3>New & Modified Virtues & Flaws</h3>
+
 <div>The following new Virtues and Flaws are available for sorginak characters, some during character creation and others only from Initiations (see Initiations, above). These can be used as ideas for other witches as well.</div>
 <div>Chthonic Sorginak Magic</div>
 <div>Major, Supernatural This grants a variant of the Supernatural Ability of Chthonic Magic beginning at a score of 1. Similar to the Hermetic Virtue, this magic, said to spring from instruction by Mari, grants the sorgina the ability to tap into sinister powers. The sorgina is attuned to both the Magic and Infernal realms. She gains botch dice from neither, and enjoys the benefits of both. She can use Infernal vis without penalty, and adds her Chthonic</div>
@@ -1750,7 +1807,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Certain lineages of sorginak do not experience the Witch’s Moon. While part of their lore, their magic changed (or was corrupted), and these covens instead experience Ecstatic Catharsis. Similar to the Trollsynir (as experienced by gruagachan), the process gradually physically transforms the sorgina into one of the laminak. Ecstatic Magic makes resisting Catharsis more difficult, but increases the chances to benefit from it. Some call these witches “True Sorginak.” Whenever a sorgina receives two or more Warping Points from a magical botch or other event, she may undergo Catharsis. While experiencing Catharsis, the sorgina suffers a sort of seizure, falling to the ground and convulsing in ecstasy, as the magics affect her body. The sorgina has one opportunity to avoid the experience.</div>
 <div>Catharsis Avoidance Total:</div>
-<div>Stamina + Concentration + Premonitions + stress die vs.  Warping Score + Number of Warping Points Gained + Ecstatic Magic + local aura</div>
+
+<h4>Stamina + Concentration + Premonitions + Stress Die Vs. Warping Score + Number of Warping Points Gained + Ecstatic Magic + Local Aura</h4>
+
 <div>If successful, she spends a few minutes bringing her ecstasy under control.</div>
 <div>Avoidance Time: 40 Rounds minus (Avoidance Success + Second Sight)</div>
 <div>If she fails, she undergoes Catharsis. If she botches, she cannot Assimilate Catharsis and suffers Debasement. A sorgina may choose not to resist Catharsis, instead embracing it willingly, attempting to quickly Assimilate it. Regardless, the sorgina now attempts Assimilation.</div>
@@ -1770,7 +1829,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 
-<h4>Second Sight) hours, see later.</h4>
+<h4>Second Sight) Hours, See Later.</h4>
 
 <div>If successful, the sorgina Assimilates Catharsis, achieving Epiphany. Unsuccessful Assimilation results in Debasement. Either way, Catharsis is accompanied by an ecstatic reaction. The sorgina is incapacitated with intense sensation and cannot comprehend the world around her. This leaves her vulnerable until she manages to control her ecstasy. The time necessary to control the sensations is not based upon Assimilation success or failure. Rather, ecstasy lasts one hour per point of her Warping Score. She may attempt to gather her wits by force of will, by spending a point of Confidence and using Second Sight to discern reality. Rolling a Stress Die + Perception + Second Sight, subtract that many hours from the recovery time. If the result is 0 or less, the sorgina regains control instantly. She is not confused, and is not forced to make any Concentration rolls. If the attempt botches, multiply the time by (1 + the number of botches). Cathartic Ecstasy lasting extremely long periods of time can have detrimental effects, such as Long-Term Fatigue and deprivation. Once the sorgina reaches a Warping Score of 10, she becomes one of the laminak and is no longer human. Laminak are river fae who live near the edge of settlements, unable to step on hallowed ground, but performing tasks such as plowing and bridge building in the night. Seven sorginak laminak supposedly directly serve Mari. Once fully transformed into laminak, the storyguide assumes control of the character. Suggestions for Epiphany and Debasement are as follows.</div>
 <div>Epiphany</div>
@@ -1787,6 +1846,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Minor, Hermetic The magus uses non-Hermetic methods to cast Hermetic spells. While he still needs to employ obvious ritual actions, these are not the same words and gestures taught as part of Magic Theory within the Order, and other magi who are unfamiliar with the magus’ tradition find it very hard to recognize which spell he is casting. Any attempt to determine the Form of his magical effect (ArM5, page 83) is made against an Ease Factor of 15, without the magnitude of the effect being subtracted from this Ease Factor as normal. If the character has any Supernatural Abilities, then he uses the same methods to cast his Hermetic magic as he does to use his non-Hermetic magic. The magus cannot choose to use the standard Hermetic methods instead of those of his native tradition, but can choose to reduce or forgo words and gestures in the usual fashion (ArM5, page 83).</div>
 
 <h1>Chapter Seven</h1>
+
+
+<h2>Narbonnais</h2>
 
 <div>The region once known as “Gallia Narbonensis,” or “Septimania,” and now locally called Narbonnais, has been settled by the remnants of the Roman Empire for over a thousand years, witnessing many conflicts, and watching the intrigues of countless nobles. This is where Hannibal marched on Rome, where the Imperial legions began their conquest of Gaul, and where Charlemagne halted the advance of the Moorish armies into Europe. In the thirteenth century, Narbonnais plays host to the struggles of the count of Toulouse, the ascension of the king of Aragon, the interests of the king of France, and the atrocities of the Albigensian Crusade. Two active covenants operate in Narbonnais, Ara Maxima Nova and Stella Durus.</div>
 
@@ -1810,7 +1872,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Covenants of Narbonnais</h3>
 
 <div>Current Covenants: Ara Maxima Nova, Stella Durus Ruined, Abandoned, or Lost Covenants: Himinis’ Forge, Uxellodunum, Two Diedne covenants in the Massif Central whose names and locations are lost.</div>
-<div>Vis Site: The Ancient Wine Press</div>
+
+<h3>Vis Site: The Ancient Wine Press</h3>
+
 <div>Cut into the living stone near a vineyard, this large rectangular trough produces 4 pawns of Herbam in the pomace of the must—the solid portion of seeds, skins, and stems—if the grapes of the first harvest are stomped barefoot. Repeating the process with the last harvest yields 6 pawns of vis, but they are vis Infesta. In centuries past, an angry mob</div>
 <div>believed they discovered a pagan ritual being performed, and killed the young women thought to be participating. In truth, the women had been working on the last batch of grapes when fauns seduced them. The maids were caught just after lying with the faeries. Unconvinced by their pleas, the crowd stoned the girls to death.</div>
 </div sidebars>
@@ -1833,7 +1897,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This used to be a hereditary office of the count of Toulouse referring to the rulership of the region, but Raimond VI was dispossessed of the duchy during the Albigensian</div>
 
 <div sidebars>
-<div>Old Man of the Bridge: The Tempter of St. Thibery</div>
+
+<h3>Old Man of the Bridge: The Tempter of St. Thibery</h3>
+
 <div>Order: Tempters (tenetores) Infernal Might: 15 (Vim) Characteristics: Int +1, Per +2, Pre –1, Com +2, Str +3, Sta +2, Dex +1, Qik +3 Size: +0 Virtues and Flaws: Puissant Charm, Puissant Guile; Weak-willed Personality Traits: Greedy +5, Selfish +5, Deceptive +3, Tricky +3, Tempter Demon +3, Cowardly +2 Hierarchy: 0 Combat: Fist: Init +3, Attack +3, Defense +5, Damage +3 Walking Stick (club): Init +4, Attack +6, Defense +7, Damage +6 Soak: +2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Awareness 3 (humans), Brawl 2 (club), Charm 4+2 (first encounters), Concentration 3 (maintaining concentration), Folk Ken 3 (humans), Guile 5+2 (reducing risks), Penetration 1 (Rushing Wages of Greed) Powers: Coagulation, 2 points, Init –1, Corpus. The demon can obtain a material form, which it may dissolve at will.</div>
 <div>Obsession, 1–3 points, Init –5, Vim. The demon can impose the Obsession Trait of Greed. (Realms of Power: The Infernal, pages 31–32) Envisioning, 1/5 points, Init +0, Mentem. The demon may appear in the dreams of a sleeping target (which costs 1 point), or make the target experience a waking dream or vision (in which case it costs 5 points). The demon twists the dream, causing the target to imagine life in terrible poverty with extreme needs. This causes the victim to make a Brave Personality roll against an Ease Factor of 9, or suffer natural abject terror and lose a long term Fatigue level. Change Form, 0 point, Init 0, Corpus. The demon can change the shape of its manifestation at will, to whatever human or animal form it desires. The Old Man of the Bridge may shift into a raven or cause his bundle of firewood to disappear. Trove Just Beyond Reach, 4 points, Init +1, Imaginem. The Old Man creates a phantasm of a cracked strongbox spilling silver and gold coins into the riverbed and lying in plain view of the bridge. The waters around it look deep enough to leap into safely, but clear and very calm. CrIm 20 R:</div>
 <div>Sight, D: Sun, T: Individual. (Base 3, +3 Sight, +2 Sun) Rushing Wages of Greed, 8 points, Init –1, Aquam. The Old Man creates an area of swiftly flowing, churning water with a strong undertow. Escaping the area requires Swim rolls with a –6 penalty, or the swimmer suffers deprivation from drowning (ArM5, page 180). ReAq 40 R: Sight, D: Conc, T: Part. (Base 5, +3 Sight, +1 Conc + 1 Part +2 Size) Weakness: Compulsive (The demon can do nothing until it has finished counting coins thrown on the ground and placing them in its purse) Vis: There are three pawns of Vim vis, in the demon’s money purse. Appearance: The demon manifests as a wizened old man in peasant’s garb, carrying a large bundle of firewood sticks tied to its back. It moves with the assistance of a cane and carries a lantern. It attempts to convince travelers to dive into the river while it watches their possessions—asking for half of what the victim recovers and using its powers to amplify greedy feelings. As the dupe leaps into the river, the demon uses Rushing Wages of Greed, possibly drowning the individual.</div>
@@ -1897,7 +1963,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Roussillon derived its name from Ruscino, a small fortified place where Gaulish chieftains met to consider Hannibal’s request for a conference. Although a very agricultural region, it is known for its vineyards and woad production. Woad is processed to create a light blue indigo dye used in clothing. The viscount even has a few small iron mines at the foot of the Pyrenees, and a small gold mine near Saint-Jean-Pla-de-Corts, but it does not produce much. When Viscount Gerard II died without heirs in 1172, rulership passed to Alphonso II of Aragon by a prior agreement with Gerard II and his nobles. Alphonso then made his brother Sancho the viscount. Sancho, supported by his son, Nuno, acts as regent for and occasionally conspires against James, who currently lives in Zaragoza. As this is part of the border with Catalan, many fortifications have been built throughout the region. Controlling the head of the Tet valley, the Castle Rodes sits on a high granite spur. The southern port town of Collioure serves as a departure point for many crusaders, including the Knights Templar, who built a castle overlooking the bay in 1207.</div>
 <div>Perpignan</div>
 <div>The capital of the county, Perpignan was founded in the ninth century and became a partially self-governing commune in 1197. The traditional industries are wine, olive oil, cork, wool, leather, and iron. It is built along the banks of the Tet river, the largest waterway in Roussillon. High, thick walls surround the city, and the viscount maintains a compound including a chapel, hospital and castle, the Chateau de Rous</div>
-<div>Story Seed: The Wolves of the Massif Central</div>
+
+<h3>Story Seed: The Wolves of the Massif Central</h3>
+
 <div>The wolves hunting in the wilds of the Massif Central are not mere beasts, but a small tribe of shapeshifting werewolves who prey on unfortunate travelers. They make their home in an ancient, Gaulish cave shrine with a Magic aura of 3. Can the</div>
 <div>hunters be tamed and their lair transformed into a covenant? The lack of neighbors means such a community could develop in seclusion from the bloody Albigensian Crusade, but may face difficulties acquiring necessary specialists and rarer supplies.</div>
 </div sidebars>
@@ -1943,7 +2011,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Arles, Montpellier, and Narbonne hold yeshivas, or Jewish religious schools, as described in Realms of Power: The Divine Revised Edition (pages 129–130), interpreting and recording Talmudic thought. Several respected rabbinical authorities and kabbalist mystics studied in Narbonne, including Moses ha-Darshan in the 11th century and Moses ben Joseph ben Merwan ha-Levi, who many considered one of the foremost Jewish mystics of his age, in the 12th. Referred to</div>
 <div>as Hachmei Provence, or “the wise of Provence,” these yeshivas helped establish the literary styles and pedigree which still endure as a scholastic standard within the Jewish religious community.</div>
-<div>Knights of the Order of Aubrac</div>
+
+<h3>Knights of the Order of Aubrac</h3>
+
 <div>A small group of knights dedicated to guarding pilgrims traveling southwest along the Way of St. James to Compostela, and</div>
 <div>southeast toward Rome, was established in Aubrac at the Dômerie d’Aubrac in the 11th century and adopted the rule of St. Augustine in 1162. It maintains a number of satellite hospitals, called “commanderies,” in the communes of Bozouls, Millau, Nazac, and Rodez. The Order of Aubrac maintains a competitive rivalry with the Hospitallers, who would like to absorb them, but have been unsuccessful thus far.</div>
 
@@ -2005,7 +2075,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The third son of a minor Norman lord who was fostered with his uncle, a petty</div>
 
 <div sidebars>
-<div>The Jinn Corsair, Howling Knife of the Dunes</div>
+
+<h3>The Jinn Corsair, Howling Knife of the Dunes</h3>
+
 <div>Faerie Might: 20 (Vim) Characteristics: Int +0, Per +2, Pre +1, Com +1, Str +2, Sta +3, Dex +1, Qik +1 Size: +0 Virtues and Flaws: Narrowly Cognizant, Passes for Human; External Vis (scimitar, grants Puissant Single Weapon), Greater Power, Increased Faerie Might (Major); Faerie Sight, Faerie Speech, Feast of the Fae, Improved Characteristics x3, Infiltrator (Branded Criminal), Lesser Power x3, Positive Folktales, Pretentious, Puissant Single Weapon; Fury (failure in chosen mission), Sovereign Ward (person it has agreed to serve); Overconfident, Pious (Islam), Role Requires Suffering, Traditional Ward (Name: Howling Knife of the Dunes) Personality Traits: Brave +3, Jinn +3, Bargaining +2 Reputations: Capable Bodyguard 3 (Sahir), Creature for Hire 2 (Maghreb Pirates) Combat: Scimitar: Init +3, Attack +12, Defense +9, Damage +8 Fist: Init +1, Attack +6, Defense +6, Damage +2 Soak: +6 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Pretenses: Area Lore: Mediterranean Coasts 3 (places to come ashore),</div>
 <div>Artes Liberales 1 (astronomy), Athletics 3 (climbing), Awareness 5 (identifying threats), Bargaining 3 (establishing terms), Brawl 4 (fist), Faerie Speech 5 (issuing threats), Folk Ken 3 (humans), Leadership 2 (pirates), Profession: Navigator 1 (staying on course), Profession: Sailor 4 (pirate), Single Weapon 5+2 (scimitar), Survival 1 (desert) Powers: Sirocco’s Form, 5 points, Init –4, Auram. The Jinn Corsair transforms into a swirling cyclone of gritty desert wind. He may carry one person inside this wind. CrAu 50 R: Per, D: Until, T: Ind, (Base 30, +4 Until): Greater Power (50 levels) Sense the Living Treasure, 3 points, Init –7, Corpus. The Jinn Corsair concentrates and senses the location of the person linked to an arcane connection in his possession. The longer he concentrates, the better he knows the distance and direction to the target. InCo 20 R: Arc, D: Conc, T: Ind. (Base 3, +4 Arc, +1 Conc): Lesser Power (20 levels, 1 intricacy point on cost.) Scimitar of Blazing Fury, 3 points, Init –8, Ignem. The Jinn Corsair coats his weapon in searing white flame, adding +10 damage to attacks made with the weapon. CrIg 20 R: Touch, D: Diam, T: Ind. (Base 10, +1 Touch, +1 Diam): Lesser Power (20 levels, 1 intricacy point spent on cost.) Conceal the Precious Charge, 3 points, Init</div>
 <div>–5, Imaginem. The Jinn Corsair can make a target he touches undetectable by normal sight, regardless of what it does. However, the target still casts a shadow. PeIm 15 R: Touch, D: Diam, T: Ind. (Base 4, +1 Touch, +1 Diam, +1 changing image): Lesser Power (15 levels, 2 intricacy points spent on initiative) Equipment: Scimitar, clothes, any reasonable equipment necessary for his current activities. Encumbrance: 0 (0) Vis: There is one pawn each of Auram, Corpus, Ignem and Imaginem vis in the Jinn’s scimitar, for four total pawns. The scimitar has no encumbrance and its possessor gains the Puissant Single Weapon Minor Virtue. Appearance: Dressed like a male Maghrebi pirate with a grinning and handsome countenance, the Jinn has a branded scar on his left cheek. His clothing is made of rich fabrics and he bears a well crafted scimitar. Turned in the morning light, this blade seems to be fashioned of glass.</div>
@@ -2020,7 +2092,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Jean Marie enjoys a pleasant semiretirement at the covenant. He keeps busy, acting as a senior advisor for and managing a portion of a mundane shipping company</div>
 
 <div sidebars>
-<div>Story Seed: Vis from the Stream</div>
+
+<h3>Story Seed: Vis from the Stream</h3>
+
 <div>Marcella’s project has been ongoing for years. The potential ramifications of her research could significantly change the economy of the Order as vis becomes much more abundant in locations tied to ancient nature spirits. Marcella isn’t looking to kill the genii loci or Daimons, but skim vis from spirits, finding a way to “bleed” them, creating a renewable resource. The situation at Toulouse would probably provide insight, but she refuses to risk herself in such a volatile location. She has not yet determined a way to link an urban population to a Daimon, or how to invoke an Aspect for collection without alerting the Daimon, or how to draw vis from a spirit’s locus without disturbing it. She is experimenting with various ideas that address these concerns, but keeps her progress a tightly held secret. The next</div>
 <div>steps in Marcella’s research might include: • A ritual incorporating aspects of Wizard’s Communion and requiring the participation of magi with high scores in Muto and Rego techniques and elemental Forms. Guided by Marcella, success might forge a persistent link to the magic spirit of the Aude, allowing the Bonisagus to harvest in a manner similar to distilling Vim vis but with a greater yield. Unfortunately, this success might be tempered by the Daimon’s awareness and loathing of the connection. • An extended negotiation with the spirit over the course of a collaborative ritual led by Marcella, where an Aspect of the Daimon undergoes the equivalent of a willing sacrifice which somehow strengthens its bond with</div>
 <div>the locus of the town over time while providing the magi with vis through a short-term loss of Might. • A ritual which results in the ceremonial murder of the spirit of the Aude River, yielding a single bolus of vis determined by the storyguide. The consequences of this action eventually lead to the silting of the waterway and the decline of Narbonne as a port. • Searching for and attempting to recover the Roman watermill complex of Barbegal. This would bring her into conflict with the Coenobium’s political aims. To avoid this complication, she is willing to trade texts and connections in exchange for discreet investigation by a third party, like the player characters.</div>
@@ -2118,6 +2192,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h1>Chapter Eight</h1>
 
 
+<h2>Arelat</h2>
+
+
 <div sidebars>
 <div>The eastern march of the Provençal Tribunal was the site of the first Roman settlements outside Italy. The medieval culture of the Church and the towns of the so-called Kingdom of Arelat and Provence overlie a tapestry of ancient Roman and Gallic ruins. Encompassing the area of the Kingdom of Lower Burgundy, it is bounded by the Rhone in the west except for the small County of Viviers, the town of Beaucaire, and the area of Lyonnais appended across the river. It stretches east along the Mediter</div>
 <div>ranean coastline toward the Maritime Alps just past Nice. Over the last millennium the area was beset with repeated waves of barbarians: Franks, Lombards, and Saracens, only to be finally conquered by the armies of Charles Martel. In the 13th century it is more peaceful, and is a blossoming heart of the troubadour culture that is to spread throughout southern Europe. The area’s indistinct northeastern boundary lies just beyond the monastery of Grand Chartreuse somewhere near the</div>
@@ -2140,7 +2217,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Arelat Covenants</h3>
 
 <div>Current Covenants: The Coenobium Rhodanien Secret Covenants: Fraxinetum Redux Ruined, Abandoned, or Lost Covenants: Barbegal, The Birds of Camargue, Castra Peccaius, Elisii Campi, Fraxinetum, Glanum (I and II), Telo Martius, Turris Masci, Portus Cottiae, Portus Termini, Yf</div>
-<div>Saga Seed: The Rise & Rise of the Coenobium</div>
+
+<h3>Saga Seed: The Rise & Rise of the Coenobium</h3>
+
 <div>Considered by its members to be an exemplar of Hermetic cooperation, some other magi of the Tribunal believe the Coenobium to be an increasingly despotic power bloc. The multi-site covenant controls nearly all of the area’s significant magical resources and dominates the local hedge magicians (see later for further details).</div>
 <div>Some fear the Coenobium will attempt to dominate the disorganized Tribunal in the wake of the recent Albigensian Crusade. Perhaps they will do so in a less aggressive manner than the raiders under Sayyid, but some wonder if the might of the right is worse than that of the initial wrong that forged them. Whose side will the characters choose?</div>
 
@@ -2166,7 +2245,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>115 115</h3>
 
-<div>The Hermetic Toll and the Price of Hospitality</div>
+
+<h3>The Hermetic Toll and the Price of Hospitality</h3>
+
 <div>All magi openly visiting Avignon are asked to stop here and announce their intentions and length of stay, in line with the rules of Hospitality promulgated by House Jerbiton. The various Redcaps of the Tribunal, encouraged by Alazais, have made it known that a silver florin containing a pawn of vis should be donated as a gesture of good will. This vis is used to help support the non-Jerbiton Hermetic specialists retained by the covenant. Magi conceding to this local custom receive a consul to guide and assist them during their stay. The consul is responsible for the magus’s conduct while in the town, leading some visiting magi resent the imposition of a potentially meddle</div>
 <div>some minder in their private affairs. Those magi declining the offer of hospitality and its complementary responsibilities are held to be in poor taste and watched closely by the covenfolk. Disruptive guests openly flaunting their presence or using magic to affect mundanes within the city draw the attention of the ex-hoplite Xiphos or the covenant’s nonHermetic allies. Although the Coenobium may stop short of declaring Wizard’s War on a recalcitrant visitor, they seek to subtly disrupt and obstruct the offending magus thereafter, including manufacturing charges at Tribunal. Although seemingly peaceful on the surface, the Coenobium’s long and patient reach is inexhaustible when seeking redress.</div>
 
@@ -2244,7 +2325,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The stronghold of Baux was razed in 1162 at the end of a long conflict known as the Baussenque Wars between its scions and the Catalan counts of Provence. Hugh III, son of Bertrand, is the current Seigneur of Baux but spends most of his time elsewhere, preferring the bustle of Marseilles, which he holds as viscount on behalf of the Holy Roman Emperor. His relatives include the Prince of Orange and many of the minor nobility of Provence. One of his younger cousins, Marcus, is well known amongst the family as the wizard Balthazar, a somewhat notorious member of the Coenobium. Beneath the plateau of Les Baux lies the infamous Val d’Enfer, a rocky valley associated with a weak Infernal aura of 2, known for the many sinister caves that line the gorge. These caves provide entrances to a Tartaran regio. The regio is the lair of the lesser demons of pride and ambition that have spurred on the Baussenque lords</div>
 
 <div sidebars>
-<div>Story Seeds: Beaucaire & Tarascon, cont’d</div>
+
+<h3>Story Seeds: Beaucaire & Tarascon, cont’d</h3>
+
 <div>Characters may seek to access the watery labyrinth by following the descriptions and clues in Gervais’ text. The encyclopedia contains the equivalent of 4 tractati of Quality 6, on Provençal Lore (history), Faerie Lore, Infernal Lore, and Magic Lore, and can be used to research the Drac and its lair. See Art & Academe, page 26 for details on additional uses of encyclopedias.</div>
 <div>To Pay the Ferryman</div>
 <div>The main crossing between the two towns is by ferry. The guildsmen of Beaucaire guard the right to cross fiercely, usually charging steeply for any transit. This is at the instigation of Aucassin of Tytalus, who controls several agents within the boatsman’s guild in both Beaucaire and Arles whom he uses as informers and enforcers. So far, he has allowed Redcaps to pass unmolested, but recently one of his thugs humiliated a messenger entrusted with a private message to one of the Coenobium’s magi. The Coenobium asks the characters to investigate whether the utricularii need to learn the benefits of cooperating with their agenda.</div>
@@ -2329,7 +2412,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>turn late morning with an incredible tale of hidden treasure. Despite attempts to dissuade them, the accompanying grogs wish to investigate; but is the returned youth a Faerie or Infernal impostor seeking to lead them to their doom?</div>
 <div>Story Seed: The Golden Fleece of Provence?</div>
 <div>Shepherds sometimes come across strands of the goat’s golden wool snagged in bushes on the hillsides. Such wool is recognized by Hermetic magi as Imaginem-flavored Accrued vis (see Realms of Power: Faerie, page 19). Characters may be tasked with finding this wool by one of the more aesthetically minded magi of the Coenobium if they petition for membership of the Coenobium or wish to access its resources.</div>
-<div>Salt for Life, Life for Salt…</div>
+
+<h3>Salt for Life, Life for Salt…</h3>
+
 <div>Salt preserves, salt protects and salt pays — in the 13th century salt is a valuable magical and mundane commodity worth fighting over. The ruins of the abandoned Hermetic settlement of Castra Peccaius lie on the eastern bank of the Petit Rhone, just across from the future site of Aigues Mortes. Although the settlement has been abandoned for three centuries, the covenfolk of the Coenobium still travel here regularly to harvest a prized vis source from a particularly brackish pond just within the ruins. The magi of the Coenobium nominally lease this land from the nearby Abbey of Psalmody through their mundane dependents. In a few years time, if your saga follows history, the monks will sell the land to King Louis to establish the</div>
 <div>embarkation point for his Crusade. This build up of mundane forces may threaten the Order’s ability to access to this unusual vis source without disturbing the king’s army, as corrupt local commanders move to secure harvest rights over the nearby salt pans to enrich themselves.</div>
 <div>The Salt that Preserves</div>
@@ -2363,7 +2448,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Nestled beneath the slopes of Mount Faron, this town was known in ancient writings for its dye-making from the earliest Phoenician settlements in the area. Its beaches are one of the few sources of the rare murex shellfish vital for producing imperial (true) purple, and the oak groves on the hillsides above maintain the kermes beetle that produces an almost as valuable crimson dye when crushed.</div>
 
 <div sidebars>
-<div>Story Seed: The Green Magi in the Trees</div>
+
+<h3>Story Seed: The Green Magi in the Trees</h3>
+
 <div>Visitors who spend the night sleeping beneath the boughs of Yf report dreaming of green robed magi who disappear into the shadows whispering threats of vengeance. The Diedne of Yf used this site for their pagan rituals, but unlike their fellows further north, it was the Moors sponsored by Fraxinetum rather</div>
 <div>than the local Flambeau who spilled their blood amidst the groves. Characters who investigate the area looking to speak with pre-Schism War ghosts or uncover clues about their non-Hermetic secrets arouse the suspicion of the Chief Quaesitor elect and her Mercurian allies if they attempt to settle at the site.</div>
 </div sidebars>
@@ -2432,7 +2519,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Originally this structure was nothing more than a circular arched monument dedicated to the defeat of the Gaulish tribes at the hands of the imperial legions. It once marked the boundary of Roman Italy on the Via Julia Augusta. This Trophy of Augustus later became a fortress and redoubt to protect the inhabitants in times of attack. By tradition, it still marks the easternmost limit of the Provençal Tribunal, although the town of Turbia is currently under the influence of the nearby Republic of Genoa and considered politically and linguistically part of mundane Liguria.</div>
 
 <div sidebars>
-<div>The Ghosts of the Garagai Gorge</div>
+
+<h3>The Ghosts of the Garagai Gorge</h3>
+
 <div>The ghosts of the murdered chieftains are not actually Infernal spirits despite the prevailing aura, but rather specters aligned to the Magic realm — Teutonic counterparts to the ghostly soldiers of House Tremere (see Houses of Hermes: True Lineages, pages 126–127). Questioning the slain victims may provide an insight into the secrets of the lost tradition of Martha, the Syrian sibyl in the legends, who may have been from</div>
 <div>a lineage akin to the Canaanite Necromancers (see Ancient Magic, pages 30–39 for more details on Canaanite Necromancy). Even prior to the mass sacrifice, the chasm was said to be home to prophetic spirits that rose from the depths that may still be invoked by local masques or magi using necromantic magic. These older pagan spirits are best represented by Spirits of Deceit (see Realms of Power: the Infernal, page 38).</div>
 
@@ -2474,7 +2563,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The victorious magi continued a policy of mutual cooperation and nepotism to their advantage, gradually gaining control of or influence over the majority of magical and mundane resources within the County of Provence. They justify the use of this hegemony as a means of ensuring their own pursuits are not compromised by being caught unprepared by Hermetic aggression a second time. Although not a direct threat to any of the other covenants of Provençal,</div>
 
 <div sidebars>
-<div>The Lost Chapters of Portus Cottiae</div>
 <div>An ostracized Mercurian magus from the Greater Alps originally founded this fallen covenant in the Cottian Alps. Established in 821 by Julius Donnus of Flambeau just outside Briancon, near the border of the Roman Tribunal, it was intended to serve as an alternative home to Harco for the revived Cult of Mercury. The main site commanded the descent from the Col de Montgenevre pass for travelers coming from the Piedmont in the east. Built in the Roman style of a Greater Alps covenant, it controlled the trade routes along the upper Durance valley. At its height it had established chapter houses maintained by officers known as a mansionarii at Gap, Chorges, Embrun, and a border-post at Oulx on the Redcap route following the old Via Domitia through the mountains down the valley of the Dora Riparia into the western Piedmont. Portus Cottiae was one of the first of the former Lotharingian covenants to fall to the Saracen raiders in 906 when Berber mountaineers overran its divided turb and forced the geographically separated magi to flee south along the Durance. The surviving maga, Anaïs of Jerbiton, retreated to the relative safety of Avignon, becoming one of the most strident voices calling for the Hermetic hegemony that resulted in the Coenobium.</div>
 <div>Story Seeds: Reopening the Lost Gates</div>
 <div>The main site of Portus Cottiae and the three chapter locations may be suitable covenant locations for young magi wishing to found a new covenant or chapter of the Coenobium (see later), but each</div>
@@ -2520,11 +2608,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Alazais of Mercere, Chief Redcap and First Consul of the Coenobium</div>
 <div>Age: 59 (Apparent Age: 27) Personality Traits: Ambitious +6, Wily +3, Patient +2</div>
 <div>Claiming descent from Helen of Troy, the First Consul and Chief Redcap wears a tragic mask once favored by classical actors. She never removes her mask except in the presence of magi or her lover, an unGifted folk witch ally of the Coenobium for whom</div>
-<div>Notes on Urban Magic and the Island of Barthelasse As the majority of the Coenobium’s holdings lie within the urban communes of the Rhone valley, overt magic use is more limited than at most covenants. The townhouses and business fronts of the covenant are strategically located in or near the various small lacunae or areas of non-Divine auras within the towns. An exception is the ever-shifting midstream island of Barthelasse, extending upstream from the arches of the Pont</div>
+
+<h3>Notes on Urban Magic and the Island of Barthelasse As the majority of the Coenobium’s holdings lie within the urban communes of the Rhone valley, overt magic use is more limited than at most covenants. The townhouses and business fronts of the covenant are strategically located in or near the various small lacunae or areas of non-Divine auras within the towns. An exception is the ever-shifting midstream island of Barthelasse, extending upstream from the arches of the Pont</h3>
+
 <div>St Benezet. It is effectively a large lacuna with a Magic aura of 2, rising to 3 at its northern tip. Beneath the lightly wooded island lies the council rooms and guest quarters of the covenant, covered by the main Aegis of the Hearth that is renewed at the summer instead of winter solstice, unlike most other covenants. Further details of lacunae and using magic in urban settings within the Dominion are found in Houses of Hermes: Societates, pages 57–60.</div>
 
 <div sidebars>
-<div>Is the Coenobium in Good Taste?</div>
+
+<h3>Is the Coenobium in Good Taste?</h3>
+
 <div>The Jerbiton and affiliated magi of the Coenobium consider that they strive to live tastefully, according to the philosophy of their House (see Houses of Hermes: Societates, pages 44–51), but to other Jerbiton their pragmatic approach of magically dominating the nobility, mundane resources, and hedge wizards of their hinterland may seem ugly. The Coenobium consuls counter that their highly organized management of their magical and mundane resources allows them the opportunity to live more</div>
 <div>tastefully by freeing up their time to engage in leisure, intrigue, travel, and the practice of good etiquette. By generously offering hospitality to specialist magi who perform the less tasteful tasks of running a covenant such as defense, magical research, and the maintenance of their mundane resources, they hope to encourage their sodales to learn from their example and move away from the traditions of the more unpleasant Founders that dominate much of the Order’s contemporary culture.</div>
 </div sidebars>
@@ -2592,6 +2684,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The chosen patron is expected to familiarize the visitor with these expectations of courtesy and is responsible for the actions of the visitor during their stay. In addition, the patron is required to protect the guest from harm or inconvenience and present them with a symbolic gift on their departure. Although it carries more responsibility than tangible benefit, patrons are highly regarded by the other members of the Coenobium for their sacrifice. They may call upon other members of the covenant to support them in their duties or otherwise ask for a season of service to be waived in return for their time and effort.</div>
 
 <h1>Chapter Nine</h1>
+
+
+<h2>The Lost Covenant of Val-Negra</h2>
 
 <div>Symbol: A wagon wheel with spokes made of seven swords</div>
 <div>One of the oldest covenants of the Order of Hermes, Val-Negra was once a paragon of power and influence on par with Durenmar. It was the most populous covenant in the Order’s history, having 33 members at its peak. Ravaged by politics and devastated in the Schism War, its legend is familiar to every Hermetic magus, yet much remains mystery. Even its exact location and the means of entry are forgotten. Some believe Val-Negra still exists in self-imposed isolation, deliberately hiding from the rest of the Order. Others say it’s slowly fading into myth because of the mystical nature of Mount Perditu’s regio, or has been absorbed by the Magic Realm. But a few say the potential remains for bold magi to seek out and revive Val-Negra.</div>
@@ -2690,7 +2785,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>nem. As per the spell of the same name, creating a dozen fiery ribbons that fan out in a sixty-degree arc and inflict +10 Damage. CrIg 25 R: Voice, D: Mom, T: Group. (Base 5, +2 Voice, +2 Group): Greater Power (25 levels); Improved Power (+3 Init, –3 Might cost, Spell Mastery 3 (Fast Cast, Multi-Cast, Penetration)) Aura of the Avenger, 0 points, Init 0, Ignem. Swaths the Adulteration with a fiery aura, which will burn whatever it touches and inflicts +10 damage to others (the Adulteration being immune to fire). CrIg20 R: Touch, D: Conc, T: Ind. (Base 10, +1 Touch, +1 Conc); Greater Power (20 levels); Improved Power (–2 Might cost, +2 Init) Aura of Enlightenment, 0 points, Init –1, Ignem. The Adulteration can glow as bright as direct sunlight on a clear day. CrIg10 R: Per, D: Conc, T: Ind. (Base 5, +1 Conc): Greater Power (10 levels); Improved Power (-1 Might cost) Authority of Ignem, 1–10 points, (Ignem), Init 0 (Might points spent). The spirit can recreate any non-ritual Ignem effects no greater than 50th level at a cost of 1 Might point per magnitude of the effect. (Te)Ig 50 R: varies, D: varies, T: varies: Focus Power x4 Ball of Abysmal Flame, 0 points, Init 0, Ignem. Another favorite of the Founder, shooting a ball of flame that inflicts +30 damage to a single target. CrIg 35 R: Voice, D: Mom, T: Group. (Base 25, +2 Voice): Greater Power (35 levels); Improved Power (+4 Init, -4 Might cost, Spell Mastery 3 (Fast Cast, Multi-Cast, Penetration)) Eidolon, 0 points, Init –2, Imaginem. Creates an illusionary form visible and audible to material beings. The spirit can create a single form. The image can move and speak as directed, and lasts until the spirit has no further use for it. CrIm15 R: Touch, D: Conc, T: Ind. (Base 2, +1 Touch, +1 Conc, +2 move at</div>
 </div sidebars>
 
-<div>Faith & Flame The Aerie Clan</div>
+
+<h3>Faith & Flame The Aerie Clan</h3>
+
 <div>For generations, the Aerie have dwelled at Val-Negra. Their peaceful isolation was disrupted by outsiders seeking to plunder the magic of the mountain. Their tales speak of repelling foes ranging from Roman wizards to Carthaginian sorcerers. They were eventually subjugated by a cabal of Sahirs. The wizard Delendar liberated the Aerie and seized Val-Negra. Ever since, they’ve served him and his heirs with dedication. This included the Primi of House Flambeau until the relocation of the domus magna. Now they await the day when a (living) magus will return to claim that inheritance, a day that may never come. Aerie culture is centered around serving as covenfolk. They have forgotten any other way of life, and carry on as if Val-Negra were thriving and active. Aerie folk have names derived from classical Latin, and use that language for any writing if they are literate.</div>
 
 <h3>Lifecycle of the Aerie</h3>
@@ -2713,8 +2810,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 
+<h2>Recent Releases The Contested Isle: The Hibernian Tribunal</h2>
+
+
 <div sidebars>
-<div>Recent Releases The Contested Isle: The Hibernian Tribunal</div>
 <div>The magi of Hibernia respect the land and its supernatural inhabitants, granting much of the Tribunal’s area to hedge traditions and allowing supernatural creatures a vote at Tribunal. Now, magi from elsewhere in the Order have come to “reform” the Peripheral Code, laying siege to and taking one of the Irish covenants. If the native magi could just stop fighting each other, they would resist. As English lords push further into the island, and the Church struggles with attempts to make it fit continental ideals, the Order of Hermes faces its own conflict. The traces of past conflicts are everywhere: the faerie Tuatha De Danaan, the magic Fir Bolg and Formorach, and saints as prone to curse as bless. Demons, however, are nowhere to be seen, as constant fighting convulses the Emerald Isle. It is, as ever in Ireland, a time for heroes.</div>
 
 <h3>Transforming Mythic Europe</h3>

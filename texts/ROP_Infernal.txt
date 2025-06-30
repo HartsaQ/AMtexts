@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -5,6 +9,9 @@ Ars Magica Open License Logo ©2024 Trident, Inc. The Ars Magica Open License Lo
 
 Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.
 
+
+
+<h2>Introduction</h2>
 
 
 <h3></h3>
@@ -100,6 +107,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter One</h1>
+
+
+<h2>The Infernal Realm</h2>
 
 
 <h3></h3>
@@ -221,20 +231,28 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>When an Infernal aura resides within a stronger aura, it is usually temporary in nature. The dominant supernatural aura exerts its influence over the area and erodes the weaker Infernal aura unless it is maintained by an active presence of evil. An Infernal aura does not erode if it is equal in strength to the dominant aura, and at night, when all Infernal auras increase by one point in strength, the Infernal aura becomes the dominant aura, and assumes all the usual effects of an Infernal aura. For Infernal auras that are weaker than the dominant aura, it takes a number of years equal to the strength of</div>
 <div>the Infernal aura for it to lose one point of strength due to the effect of the stronger aura within which it resides. Thus, in a Dominion aura of 4 or above, an Infernal aura of 3 is eroded to an aura of strength 2 in three years. Two years later it will be an aura of strength 1, and a further year will see it gone entirely.</div>
 <div>This diminishing of an Infernal aura only occurs if the aura remains dormant and neglected. Infernal auras within stronger auras do not fade if actively maintained by the presence of manifested evil, for example, the presence of a demon or a powerful Infernal enchantment. A successful corruption roll (see below) also prevents the degradation of a weak Infernal aura.</div>
-<div>The Formation of an Infernal Aura</div>
+
+<h4>The Formation of an Infernal Aura</h4>
+
 <div>Infernal auras most commonly result from the unconscious efforts of mankind. It is rare that someone deliberately sets forth to create an unhallowed aura, but instead they tend to arise spontaneously from the sinful actions of evil people. Nevertheless, those learned in the ways of the Infernal know that evil acts attract evil, and can contribute to the formation or strengthening of an Infernal aura.</div>
 <div>When a major sin is committed, one which imperils the soul of the sinner (see Chapter 2: Sin and Redemption), there is a chance that an Infernal aura will result, or that a current Infernal aura will increase. The storyguide should make a corruption roll, which is harder if the area has a pre-existing aura. The strength of the current strongest aura is added to the Ease Factor of the corruption roll, even if the strongest aura is of Infernal origin.</div>
-<div>Corruption Roll: stress die + temporary</div>
 
-<h4>Infernal aura strength</h4>
+<h4>Corruption Roll: Stress Die + Temporary</h4>
 
-<div>Ease Factor (to maintain Infernal aura):</div>
 
-<h4>3 + dominant aura strength</h4>
+<h4>Infernal Aura Strength</h4>
 
-<div>Ease Factor (to increase Infernal aura):</div>
 
-<h4>6 + dominant aura strength</h4>
+<h4>Ease Factor (To Maintain Infernal Aura):</h4>
+
+
+<h4>3 + Dominant Aura Strength</h4>
+
+
+<h4>Ease Factor (To Increase Infernal Aura):</h4>
+
+
+<h4>6 + Dominant Aura Strength</h4>
 
 <div>If the corruption roll exceeds the Ease Factor to maintain an Infernal aura,</div>
 
@@ -270,7 +288,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>All uses of Supernatural Powers are affected by the modifiers described in ArM5, page 183. Open wounds tend to become infected and begin to suppurate in areas of concentrated evil. Anyone entering an Infernal aura with unhealed wounds and remaining for at least a day, or anyone suffering a wound while within the aura, suffers a penalty to the recovery roll for those wounds equal to the aura strength. Similarly, diseases and injuries due to deprivation suffer the same penalty to recovery rolls; furthermore, diseases never improve if tended in an Infernal aura — treat all Improvement results on the Recovery Table as Stable results. Normal healing resumes upon departing the aura, but at least one Recovery roll is penalized by the Infernal aura.</div>
 <div>Note that all humans — even those affiliated to the Infernal realm — suffer these effects.</div>
 
-<h4>Magical Reactions to the Infernal</h4>
+<h4>Magical Reactions To the Infernal</h4>
 
 <div>Creatures who belong to the Magic realm (that is, have a Magic Might) usually recognize Infernal auras for what they are — the illusion of false promises — and tend to avoid these places. However,</div>
 <div>•</div>
@@ -280,18 +298,20 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>In a town house, a man in a fit of rage kills his entire family. Each of the six murders occasions a corruption roll, unmodified stress dice (because there is no temporary Infernal aura) that come up as 12, 4, 6, 9, 4 and 3. The Ease Factor to create a new Infernal aura in a Dominion aura of strength 3 is 9, which means that the scene of the bloody murders immediately acquires an Infernal aura of 2 (one for each of the successful corruption rolls). The house is shunned and left abandoned.</div>
 <div>A little over two years later, a diabolist discovers the aura, which after two years of neglect has decayed to strength 1. He decides to make the forsaken house into his new lair. He performs a corruption rite in it, committing a heinous sin, and must roll a stress die +1 (temporary Infernal aura) versus an Ease Factor of 6 (3 + Dominion 3) to prevent further decay of the Infernal</div>
 <div>aura, or 9 (6 + Dominion 3) to increase the current aura strength. After several attempts that fail to reach the higher Ease Factor, he sacrifices a black goat, giving him a +6 to the roll, causing the total to exceed 9; the aura therefore rises to 2. The next rite also succeeds without a sacrifice (made on a stress die + 2), and the aura rises again to 3. The Infernal aura is still not dominant during the day (and thus does not add to any uses of the Infernalist’s Powers); however, it exceeds the Dominion at night, and so it will no longer be eroded by the Dominion. Once the next corruption rite succeeds, the Infernal aura will be the strongest one in the locality. After that, attempts to increase the Infernal aura are made on an unmodified stress die, because there is no longer a temporary Infernal aura present, and this roll must exceed an Ease Factor of (6 + Infernal aura).</div>
-<div>Example of Creating an Infernal Aura</div>
+
+<h3>Example of Creating an Infernal Aura</h3>
+
 </div sidebars>
 
 <div>those affiliated to the Magic realm are perhaps most at risk from Infernal auras. Whereas Magical Powers are actually inhibited by an Infernal aura, the nature of Hell is to deceive, and a practitioner of magic within such an aura may well feel a false surge in power, and believe that her magic was more powerful than it actually was. A magus successfully casting a formulaic spell but incurring fatigue loss due to the aura penalty does not notice this loss immediately unless he makes a Perception + Magic Theory roll against an Ease Factor of (9 + aura strength). Instead, the fatigue becomes apparent at a later time when a physical action is attempted. Some demons who inhabit Infernal auras use their control over delusion to provide the appearance of additional power (see Chapter 6: Demons as Deceivers, Enervators). The overt expression of a strong Infernal aura can have a seductive effect on magi who do not recognize it for what it is, and resident demons may whisper to them the promise of greater power.</div>
 
-<h4>Divine Reactions to the Infernal</h4>
+<h4>Divine Reactions To the Infernal</h4>
 
 <div>Beings who belong or are affiliated to the Divine realm most commonly feel disgust if they draw upon the source of their power while within an Infernal aura. Their senses are more attuned to the signs of corruption, and they may see objects spotted with blood, suffer a foul taste in their mouths, or hear the faint cries of tortured souls that indicate the filthy nature of the place into which they have strayed. Any character whose faith is strong and is affiliated to the Divine realm receives a +3 bonus to all Perception rolls that would reveal the corrupt nature of the aura. However, this insight may not always be a positive matter, as such characters are more likely to be affected by the horror of the sin about them.</div>
 <div>While the unveiling of manifest evil may be a harrowing experience, those whose faith is firm can feel it forming a shield against the corruption of an Infernal aura. Those with True Faith are able to see through the falsehood around them and transcend such petty concerns, knowing</div>
 <div>that the power of God far surpasses the power about them. While still affected by the general effects of an Infernal aura listed above, characters with a Faith Score of at least 1 are immune to the additional effects imposed by different varieties of Infernal aura (see below).</div>
 
-<h4>Faerie Reactions to the Infernal</h4>
+<h4>Faerie Reactions To the Infernal</h4>
 
 <div>Of all the supernatural powers, Infernal auras are most harsh to those belonging or affiliated to the Faerie realm. The Infernal realm is perplexing to faeries. The fae are naturally amoral; they obey no moral code, so deviance from proper behavior is meaningless to them. When they act in a morally ambiguous manner, faeries do so out of malice and spite, not to serve some greater agenda. Demons, on the other hand, embody the very concept of immorality, that is, they deliberately pervert good and correct behavior in an effort to drive beings away from salvation. Since faeries derive their behavior from human imaginations, hopes, and fears, they are usually terrified by the unadulterated, inhuman evil that radiates from the Infernal realm; it is quite beyond their understanding.</div>
 <div>Faeries are exceptionally unlikely to linger in Infernal auras; even the cruelest of the dark fae cannot match the malevolence of demons. The expression of Faerie-derived Supernatural Powers is often weak and ineffectual in Infernal auras.</div>
@@ -302,7 +322,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Tarnishes are represented by assigning a sinful Personality Trait to the aura, and everyone within the aura suffers a modifier to Personality Traits equal to the strength of the aura. Thus, in an Infernal aura of 3 tarnished with Gluttony, a character with Greedy +1 acts as if she had a trait of Greedy +4, and a character with Temperate +2 effectively has Temperate –1. These unnatural emotions and feelings are subtle, and there is no reason for the character to suspect the influence of the supernatural. However, the player should be informed of the changes to his character’s Personality Traits, so that he can adopt appropriate behavior for his character. Specifically, characters feel inclined to commit sins that they had previously not considered. Indulging in a sin that matches the tarnish of an aura is automatically a ritualized act of that sin, and thus inflicts a Warping Point and provides a Confidence Point (see Chapter 2: Sin and Redemption).</div>
 
 <div sidebars>
-<div>Example Tarnished Aura: Das Goldene Kalb</div>
+
+<h3>Example Tarnished Aura: Das Goldene Kalb</h3>
+
 <div>In the town of Lübeck in northern Germany there is an upmarket tavern called Das Goldene Kalb. Somewhat less well-known is its secondary business — upstairs are a number of discreet and opulent chambers, where the lusts and perversions of certain select and wealthy clients are catered for by a number of courtesans. The tavern is owned by a member of House Jerbiton. Subtle magics greatly assist this enterprise and make it into a very profitable endeavor. For example, rich visitors who sample the wine often find their desires strangely heightened. The owner’s third and most delicate business is crime and extortion — he has gathered blackmail information on numerous well-respected citizens (and magi, for that matter). Naturally, local churchmen are well-bribed and Quaesitors kept away from this establishment. The upstairs rooms of Das Goldene Kalb have an Infernal aura of strength 3, tarnished with Lust.</div>
 </div sidebars>
 
@@ -406,7 +428,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>In 13th century Jerusalem, the pyres have gone, but Hinnom has become the common cesspool of Jerusalem, into which its sewage enters to be carried off by the waters of the river Kidron, as well as a trap where all its solid filth is collected. In the heat of the sun, one might be forgiven for mistaking this place for Hell itself based on the smell alone. The whole valley has an Infernal aura of 3, which is corrupted with Malevolence. However, this is just the lowest level of one of the most powerful Tartaran regiones in Mythic Europe. There are two higher levels, with aura strengths of 5 and 8.</div>
 <div>On both of the higher levels of the regio, the fires of the valley burn still. On the middle level of strength 5, the floor of the valley is thick with the fat that has dripped from the burning corpses, and it has collected amongst the city’s effluent, the piles of ash, and charred bones. Piles of refuse reach several stories high, and many of these have fires burning within them, which may erupt from within at unpredictable moments. On the uppermost level the fires are all around, and the fat and sewage has been burnt off the bones to form a thick poisonous smoke that fills the regio layer, and which has effects identical to the Creo Auram spell Wreaths of Foul Smoke. The top layer of the regio contains temples to the Devil and to the most powerful demons, and Infernalists may make unholy pilgrimages to this place to proclaim their allegiances to Hell and learn from the many demons who make the Vale of Hinnom their home.</div>
 <div>Situated in the valley of Hinnom is Aceldama (“the field of blood”), the point where Judas Iscariot hanged himself. The field was later bought by the chief priests of Jerusalem with Judas’s discarded 30 pieces of silver. Aceldama is a portal directly to the highest level of the regio, for those willing to re-enact Judas’s suicide in a mock hanging.</div>
-<div>Example Infernal Regio: The Vale of Hinnom</div>
+
+<h3>Example Infernal Regio: The Vale of Hinnom</h3>
+
 </div sidebars>
 
 <div>Realms of Power Causes of Infernal Warping</div>
@@ -475,6 +499,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h1>Chapter Two</h1>
 
 
+<h2>Sin and Temptation</h2>
+
+
 <div sidebars>
 <div>In a world where demons might be hiding under any stone, and the Dominion protects the homes of God’s people against their infernal designs, sin is a recognizable phenomenon that actually stains the transgressor’s soul. In order to play characters who sin, and describe the plots of tempters who entice people to do evil, players must first understand exactly what sin means in Mythic Europe.</div>
 
@@ -497,7 +524,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <div sidebars>
-<div>Trait Negative Traits Opposes Positive Traits</div>
+
+<h4>Trait Negative Traits Opposes Positive Traits</h4>
+
 <div>Proud Arrogant, Haughty, Rebellious, Suspicious, Vain</div>
 <div>Loyal Dedicated, Faithful, Humble, Reliable, Trusting</div>
 <div>Wrathful Angry, Desperate, Spiteful, Vengeful, Violent</div>
@@ -555,7 +584,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The formula for determining the results of infernal influence is a simple die + Presence + Leadership, and the results of this roll determine the value of the new Personality Trait gained by the target, according to the following chart. This trait can correspond to any sinful trait, and may even approximate virtuous qualities (a Violent character might seem</div>
 <div>Brave, for example). The score is given as an absolute value; traits gained through influence can be virtuous traits with negative scores, like Brave –2 or Loyal –3.</div>
 
-<h4>Infernal Influence: simple die +</h4>
+<h4>Infernal Influence: Simple Die +</h4>
 
 
 <h4>Presence + Leadership</h4>
@@ -577,7 +606,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Infernal auras are often places of powerful emotions, charged with human desire and passion. Infernalists can draw these emotions out of an Infernal aura, so that everyone who visits the site is infected with this feeling. This is called tarnishing, and the result is a tarnished aura.</div>
 <div>Tarnishing an Infernal aura essentially gives it a sinful Personality Trait, and thus it is a form of infernal influence. The character either spends a season within the aura, during which time he indulges in sinful acts (this is a form of personal influence), or performs a brief ceremony within the aura to invoke his will and bring about the trait directly (ceremonial influence). Unlike influencing a person, tarnishing an aura requires a stress die, and botching a roll to tarnish an aura usually gives the infernalist Warping points or fatigue.</div>
-<div>Tarnishing an aura: stress die +</div>
+
+<h4>Tarnishing an Aura: Stress Die +</h4>
+
 
 <h4>Presence + Leadership</h4>
 
@@ -603,6 +634,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter Three</h1>
+
+
+<h2>The Devil and the Origin</h2>
 
 <div>And when We said to the angels: Make obeisance to Adam; they made obeisance, but Iblis refused. He said: Why should I make obeisance to him whom You have created of dust?</div>
 <div>— Qur’an 17:61</div>
@@ -662,6 +696,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Four</h1>
 
+
+<h2>The Infernal Legions</h2>
+
 <div>The whole earth has been corrupted through the works of Azazel: to him ascribe all sin.</div>
 <div>— I Enoch 10:12</div>
 <div>This chapter describes the nature of demonic existence, the capabilities and weaknesses of such creatures, and their goals and schemes on earth. Any creature with an Infernal Might score may be properly called a demon, although a distinction is usually made between “true demons,” which have made a rational choice for evil, and “Infernal creatures” such as Corrupt Beasts, who, devoid of intellect, were made evil rather than choosing to be that way.</div>
@@ -679,14 +716,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>be angels working in Hell at the com</div>
 <div>mand of God, although those who study demonic lore are divided as to</div>
 <div>whether these beings truly serve God or the Devil. There are no functional differences between any of these groups.</div>
-<div>The Spiritual Form of a Demon</div>
+
+<h3>The Spiritual Form of a Demon</h3>
+
 <div>When demons fell from the grace of God, they were cast into the mundane world and their formerly pure angelic bodies were infused with mortality. No longer were they solely beings of spirit — eternal and unchanging. Instead, they became beings with a foot in both the spiritual and the material world, and suffered the perils of a mortal form. It is thus possible for a demon to die, something impossible for the angelic race from which they originated. The same rules apply to all the terrestrial demons, who have the same duality of spirit and matter as the celestial demons.</div>
 <div>However, demons have several advantages over most of the inhabitants of the world. All demons (except infernal ghosts, see below) may adopt either a spiritual or a physical form; in the former</div>
 <div>they are divorced from the effects of time, but they require the latter to interact with the physical world. The spiritual form of demons is so thin and rarefied that it cannot normally be perceived by mankind. It is not just that demons cannot be seen; they are not sensible to vision, hearing, smell, touch, or taste, although Supernatural Abilities such as Second Sight are able to perceive them. Some animals naturally possess this ability, and react strongly to the presence of demons.</div>
 <div>The spiritual form of a demon may be likened to invisible smoke, or an odor (though by analogy only; they are not affected by the Form of Auram). It lacks strength to exert force on any physical object; thus, demons cannot manipulate matter while in this form. Objects moving into the same space that a demon occupies push the demon aside, but physical barriers are no hindrance to them. Being composed of spiritual substance rather than elemental matter, spiritual demons are not affected by the centripetal force with keeps dense objects attached to the ground; thus their usual mode of transport is flight, and spiritual demons may travel ten times faster than a human. Spiritual demons cannot acquire wounds by any non-supernatural means, although they do suffer from any wound penalties they have accumulated from magic, or while in physical form (see The Physical Form of a Demon, below). Spiritual demons are restricted to interacting with the things and beings around them through the use of their Powers.</div>
 <div>While spiritual, demons are not affected by the passage of time. They do not age, but neither do they recover from injuries they have sustained. They must assume a solid form and wait out the appropriate amount of time if they wish to get rid of physical damage. However, demons in either form are able to regain Might Points. Demons in their spiritual form possess all five modes of sensation of other physical beings, but are also able to sense spiritual beings as if they had the Second Sight Ability, using their Perception + Awareness total. A demon in spiritual form can only be slain be effects that deplete its Infernal Might (such as Perdo Vim spells); once its Might is entirely dissipated it is dead, gone forever.</div>
 <div>Its soul enters Hell as one of the damned, never to return to earth.</div>
-<div>The Physical Form of a Demon</div>
+
+<h3>The Physical Form of a Demon</h3>
+
 <div>The majority of demons (celestial and terrestrial demons alike, but not infernal ghosts) can coagulate their substance into a solid form through the manifestation of a Power common to all demons. In this form they are as material and substantial as any other object. This allows the demon to interact with other matter, but also makes it vulnerable to that matter; in this form it can hurt, but also be hurt. Demons assume this form to eat, drink, and fornicate with mankind, all things in which some of them take a great deal of pleasure. This form is also often better than the spiritual form for the temptation of mankind. Only while in this form is a demon is subject to time, and so they must assume this form to heal wounds. While physical, demons do not suffer from natural aging, and thus do not die of old age. However, a demon is susceptible to unnatural forms of aging such as spells or Supernatural Powers. The matter that makes up the physical body of the demon does not belong to it, but instead is merely “borrowed” from the universe; demons do not therefore generate Arcane Connections of any sort from these bodies.</div>
 <div>Demons can usually only create a single physical body of fixed appearance. Only if they have a Power that enables them to manifest a different form, or shapechange their current one, may they appear differently from the form described.</div>
 <div>Demons in physical form can be slain. If attacked physically, with weapons or damage-causing spells, while in its physical form, then they may be killed like any supernatural being, and it is the demon that dies, not just its physical form. The demonic soul heads straight for Hell like all damned souls, to be tortured there for eternity. In this situation, a corpse is left behind, which often contains vis (typically a pawn for every magnitude of Infernal Might). A demon’s</div>
@@ -725,7 +766,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div sidebars>
 <div>The Infernal Mights of the nine demonic orders, and the frequency of different ranks within those orders, are as follows:</div>
-<div>Order Might Range Masters Lords Dukes Princes</div>
+
+<h4>Order Might Range Masters Lords Dukes Princes</h4>
+
 <div>Tempters 5-20 unusual very unusual impossible impossible</div>
 <div>Accusers 5-20 unusual unusual impossible impossible</div>
 <div>Furies 5-20 uncommon unusual very unusual impossible</div>
@@ -736,7 +779,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Spirits of Deceit 5-30 common common uncommon unusual</div>
 <div>False Gods 5-30 common common common uncommon</div>
 <div>The additional Might granted by the titles is given by the following table:</div>
-<div>Rank Additional Infernal Might Equivalent Reputation Score</div>
+
+<h4>Rank Additional Infernal Might Equivalent Reputation Score</h4>
+
 <div>Master +5 3</div>
 <div>Lord +10 5</div>
 <div>Duke +15 7</div>
@@ -754,19 +799,23 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Demons have lost the state of pure intelligence possessed by the angels, and instead are shackled by their intellect, and forced to resort to reason rather than wisdom. Demons therefore tend to have physical Characteristics (Strength, Stamina, Dexterity, and Quickness) which are higher than their mental ones (Intelligence, Perception, Presence, and Communication). The more powerful a demon, the more the more disproportionate its physical Characteristics are to its mental ones, and powerful demons are not necessarily smarter than their weaker cohorts. Demons have a number of Characteristic points with which to buy physical Characteristics equal to their Infernal Might. Negative points may also be taken to gain an equal number of positive points, but the minimum value for any physical Characteristic is equal to the</div>
 <div>demon’s (Infernal Might / 5) – 10. There is no maximum Characteristic score for a demon, and no Virtue or Flaw is needed for extreme Characteristics. Use the Art Advancement Table (ArM5, page 32) to determine the cost of Characteristics above +3. Non-physical Characteristics are normally bought with up to 7 points, although particularly powerful demons have more than 7 points to spend in these four Characteristics.</div>
 
-<h4>Demon Physical Characteristics points:</h4>
+<h4>Demon Physical Characteristics Points:</h4>
 
 
 <h4>Infernal Might</h4>
 
 
-<h4>Demon Mental Characteristics points:</h4>
+<h4>Demon Mental Characteristics Points:</h4>
 
-<div>0 – 7 (possibly more for powerful</div>
 
-<h4>demons)</h4>
+<h4>0 – 7 (Possibly More for Powerful</h4>
 
-<div>Demon Minimum Physical Characteristic Score: (Infernal Might /</div>
+
+<h4>Demons)</h4>
+
+
+<h4>Demon Minimum Physical Characteristic Score: (infernal Might /</h4>
+
 
 <h4>5) – 10</h4>
 
@@ -871,11 +920,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>A demon’s Might Pool usually refreshes at a constant rate such that that</div>
 <div>all Might is restored in a day; i.e., at a rate of Infernal Might / 24 points per hour. In an Infernal aura or regione, however, Infernal creatures recover spent Might Points more quickly, at the following faster rate:</div>
-<div>Number of hours to restore all Might in</div>
-<div>Infernal aura: 24 – (2 x Infernal Aura)</div>
-<div>Might Points restored per hour in Infernal aura: Infernal Might / number</div>
 
-<h4>of hours</h4>
+<h4>Number of Hours To Restore All Might in</h4>
+
+
+<h4>Infernal Aura: 24 – (2 X Infernal Aura)</h4>
+
+
+<h4>Might Points Restored Per Hour in Infernal Aura: Infernal Might / Number</h4>
+
+
+<h4>of Hours</h4>
 
 <div>Thus, a demon with an Infernal Might of 25 resting in an Infernal aura of 6 regains 25 points in 12 hours (approximately two points an hour), which is twice as fast as usual.</div>
 <div>A demon cannot regenerate any Might at all in a Divine aura. In all other auras they refresh their Might at the usual rate.</div>
@@ -1258,21 +1313,21 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>There are three major ways in which demons seek to ensnare humans in the interests of Hell. They seek to destroy, to deceive, and to corrupt.</div>
 
-<h4>Demons as Destroyers</h4>
+<h4>Demons As Destroyers</h4>
 
 <div>The simplest and least complicated way of winning souls for Hell is to torment them during their lives. The demons who act in the role of Destroyers have a number of modi operandi. Some seek to simply kill humans before they have a chance to repent of their sins and achieve salvation. However, this is an ineffective strategy, for a demon who kills indiscriminately may well dispatch souls who are in a state of grace. Only an unrepented mortal sin damns a soul forever; venial sins entail only a stay in purgatory before entering paradise. Such concerns are beyond the weak demons who pursue these strategies, drawn mainly from the orders of Furies and Tempters.</div>
 <div>Nevertheless, the death of a loved one can have a profound effect on those left behind, and meaningless and random deaths from natural disasters can go a long way toward making communities question the motives of a loving God who allows demons to cause these calamities, and thereby win more souls for Hell in the longer term. Such is the goal of the Aerial Powers, who inflict natural disasters in just such a random fashion.</div>
 <div>An alternative tactic used by more subtle Destroyers is to destroy everything that mankind values — their homes, their families, their self-respect. This is a favored tactic of the Vessels of Iniquity, who most often ensure that in the end, their victims have the final choice whether to submit to sin, because only a willing choice for the evil action damns a soul.</div>
 <div>Destroyers are those demons who have the least control over their basic instincts and passions, and are usually of simple motive. They are occasionally used by more powerful demons who employ them for strong-arm tactics, but they need to be kept on a tight rein. Destroyers are favored targets for infernalists to summon and control, and they use them for terror and violent revenge.</div>
 
-<h4>Demons as Deceivers</h4>
+<h4>Demons As Deceivers</h4>
 
 <div>The Deceivers are those demons who aim to corrupt mankind through falsehood. Lies and trickery are effective ways to drive a human to sin. Naturally, the master Deceivers are the Spirits of Deceit, whose most common tactic is to warp the worldview of a person to such an extent that he believes that corruption and vice are a way to salvation. This can take a long time.</div>
 <div>The order of Deluders are more about the simple, short-term delusion that provokes someone to sin, and then the maintenance of the belief that his actions were just. By manipulating the pride of a sinner, Deluders seek to ensure that he never regrets his actions, and does not seek repentance. The Watchers, who are among the most powerful Deluders, take a longer view; they seek to re-educate mankind into believing that the profane is mundane and commonplace.</div>
 <div>The third order of demons acting as Deceivers is the Accusers. They use their Powers to root out the innermost guilty secrets of their chosen victim, then use that knowledge to make the victim fall even deeper into sin. They deceive their targets through misdirection, making them concentrate on their own selfish need for personal contentment, while ignoring the true path to salvation.</div>
 <div>Deceivers are creatures of strategy and planning, when they can reign in their impulsiveness. They must be subtle and slow, and tend to be effective at simulating prudence and fortitude (normally through Confidence expenditure), although failures to be wise or patient are usually the downfall of their plans.</div>
 
-<h4>Demons as Corrupters</h4>
+<h4>Demons As Corrupters</h4>
 
 <div>The Corrupters are those demons who directly tempt mankind into sin</div>
 <div>ning. This can be as subtle a task as that of the Deceivers, for the choice to the evil path must be made without supernatural coercion. The Corrupters operate by making sin the easier, more attractive road; some might say that their task is more than half done, given the natural inclination towards evil possessed by mankind.</div>
@@ -1290,6 +1345,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter Five</h1>
+
+
+<h2>Demons as Corrupters</h2>
 
 
 <h4>Adramelech, King of Fire</h4>
@@ -1315,7 +1373,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Adramelech is a mighty demon, one of the most powerful in Hell. He is of ancient origin; he was among those who fell with Satan, and first lit the fires of Hell in an attempt to mimic the glorious light of Heaven. In olden times he was worshiped by the men of Tyre and Carthage</div>
 <div>as a god called Moloch. His devout worshipers sacrificed babies to him, for he has a special hatred of children. The infants were killed by placing them on the outstretched hands of Adramelech’s immense bronze idols, so that they fell into the fire which was lit below the statues. In modern times, he is seen on earth only upon the instigation of some diabolist. If anyone has the temerity to attack him physically, he can produce fire hot enough to melt steel and scorch flesh. He is not a particularly subtle demon, but he is not to be taken lightly.</div>
 
-<h4>Baal-Peor, Lord of Filth</h4>
+<h4>Baal-peor, Lord of Filth</h4>
 
 <div>Order: False Gods Infernal Might: 30 (Corpus) Characteristics: Int +1, Per +2, Pre –5,</div>
 <div>Com +1, Str +4, Sta +5, Dex +1, Qik +1 Size: +2 Confidence Score: 3 (9 points) Virtues and Flaws: Oversensitive (coitus),</div>
@@ -1635,6 +1693,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h1>Chapter Six</h1>
 
 
+<h2>Demons as Deceivers</h2>
+
+
 <h4>Andrew, an Infernal Ghost</h4>
 
 <div>Order: Accusers Infernal Might: 10 (Mentem) Characteristics: Int 0, Per +2, Pre –2,</div>
@@ -1793,7 +1854,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>See Chapter 4: Infernal Legions, Deluders. Weakness: Ordering Vis: 7 pawns of Mentem Appearance: His natural form is that of</div>
 <div>a Watcher, although by using his Unholy Power of Phantasm (see Chapter 10: The Maleficia: Phantasm) he usually takes the form of an aged man who leans on a gnarled staff carved with many watching eyes. Like all Watchers he is mute, but communicates directly with the minds of his targets while pretending to speak by moving his mouth in the appropriate manner.</div>
 <div>Forcas is well known among natural magicians and other educated hedge wizards; he devotes his time to teaching them rhetoric, logic, and mathematics, as well as the Unholy Powers he knows. Like many Deluders, he claims to be an airy spirit (aligned to the Magic realm, rather than the Infernal realm), and seemingly teaches his lore out of goodwill. He usually acquires a famulus (see Chapter 5: Demons as Corrupters, Famuli) for any of his students who have magical abilities, so that the famulus can hide his Infernal nature. He can render people invisible, and can restore lost property. However, he claims to his students that he teaches them to become invisible, whereas in reality it is Forcas who enacts the illusion, hidden from sight in his discorporate form.</div>
-<div>Miser’s Pot, Bane of the Hoarder</div>
+
+<h4>Miser’s Pot, Bane of the Hoarder</h4>
+
 <div>Order: Accusers Infernal Might: 5 (Terram) Characteristics: Int +1, Per +1, Pre n/a,</div>
 <div>Com 0, Str +1, Sta 0, Dex +1, Qik +2 Size: –2 Personality Traits: Loquacious +3 Reputations: None Hierarchy: 0 Combat: Dodge: Init +2, Attack n/a, Defense +5,</div>
 <div>Damage n/a Soak: +18 (made of solid brass, no vital</div>
@@ -1922,6 +1985,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Premnemosyne is currently active in a small town in the Rhineland, ruled by a nobleman under diabolic influence. She spreads folktales about a hero who will come to cast him down, so that people are tempted to wait for a savior who will never come.</div>
 
 <h1>Chapter Seven</h1>
+
+
+<h2>Demons as Destroyers</h2>
 
 
 <h4>Architectus, Demon Builder</h4>
@@ -2096,7 +2162,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>of Iniquity, his natural form is indescribable; it is hatred given solid form. Any who see it are driven to indulge in the desecration of those things they hold most sacred and spiritual. When appearing as a human, Golab takes the form of an obese member of the clergy, usually one from a group known in the region for hypocrisy or other moral failings.</div>
 <div>Golab is the self-declared adversary of the seraphim. He specializes in sedition against God, which he achieves through the emotion of hatred. He delights in causing riots on holy days, causing pilgrims to stampede innocents, and inciting his victims to murder the clergy.</div>
 
-<h4>Gourmand the Sweet-Toothed</h4>
+<h4>Gourmand the Sweet-toothed</h4>
 
 <div>Order: Vessel of Iniquity Infernal Might: 15 (Imaginem) Characteristics: Int +1, Per +3, Pre 0, Com</div>
 <div>+0, Str +3, Sta 0, Dex +3, Qik +2 Size: +1 Confidence Score: 1 (3 points) Virtues and Flaws: Appears to have the</div>
@@ -2190,7 +2256,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Maggots, Mahonin appears as a twisted mockery of a tailless monkey, with the iridescent wings of a greenbottle.</div>
 <div>Mahonin is a demon who deludes his victims into believing that all kinds of inedible objects are luxurious food items. His hosts may be seen consuming filth from the night soil like it is the most delicious soup, or eating broken glass with relish while blood pours down their faces. Forcing his energumen to consume fennel seeds usually drives this demon away.</div>
 
-<h4>Morrighu, the Screech-Hag</h4>
+<h4>Morrighu, the Screech-hag</h4>
 
 <div>Order: Aerial Powers</div>
 
@@ -2276,7 +2342,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>is the indescribable visual embodiment of rebellion, which provokes those who witness its unveiling to</div>
 <div>react violently against civic restraint and perform acts of rebellion and anarchy. Naonhaithya can also take the form of an immense man, with the head of an eagle and two pairs of wings.</div>
 <div>Naonhaithya represents rebellion and irreverence in Zoroastrian belief; he is one of the seven daevas who oppose the seven spentas (Zoroastrian spirits of goodness). Wherever he goes, this filthy spirit spreads anarchy and the corruption of good rulership.</div>
-<div>Rahab, Prince of the Primordial Sea</div>
+
+<h4>Rahab, Prince of the Primordial Sea</h4>
+
 <div>Order: Lord of the Aerial Powers Infernal Might: 35 (Aquam) Characteristics: Int +1, Per +2, Pre +2, Com</div>
 <div>0, Str +4, Sta +4, Dex +3, Qik +2 Size: +3 Confidence Score: 2 (6 points) Virtues and Flaws: Lesser Immunity to</div>
 <div>Drowning, Ways of the Ocean Personality Traits: Hatred for Jews +6,</div>
@@ -2391,6 +2459,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h1>Chapter Eight</h1>
 
 
+<h2>Corrupted Beast</h2>
+
+
 <h4>Corrupted Beasts</h4>
 
 <div>Corrupted beasts can become so in a number of different ways. Some are mundane beasts corrupted directly by the power of a demon, while others are born corrupted after a coupling between a demon and a beast. Creatures that dwell in an Infernal aura become corrupted by the very nature of the area; this may only become apparent in the offspring of animals moving into a weak Infernal aura, but is a result of Infernal Warping in stronger auras. Certain Infernal auras (see Chapter 1: The Infernal Realm, Infernal Auras) may corrupt a creature overnight. Finally, some diabolists and Infernalists have the power to create corrupted beasts, either intentionally or as an unintended side effect of their Powers.</div>
@@ -2407,7 +2478,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The beast has a weakness similar to those of demons. Choose an appropriate limitation from the list given in Chapter 4: The Infernal Legions, Demonic Weaknesses. Corrupted beasts cannot, however, have the Ordering or Compulsion weaknesses.</div>
 
 <div sidebars>
-<div>Virtues & Flaws for Corrupted Beasts</div>
+
+<h3>Virtues & Flaws for Corrupted Beasts</h3>
+
 <div>Compulsory Flaw: Corrupted Beast Virtues: Greater Immunity, Greater</div>
 <div>Infernal Power, Ferocity, Lesser Immunity, Lesser Infernal Power Optional Flaws: Horrifying Appearance, Demonic Weakness, Lesser Malediction</div>
 </div sidebars>
@@ -2448,7 +2521,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>bonus equal to magnitude. A given Power is only appropriate for this Virtue if it does not require a Penetration Total; if the Power would have to exceed the Magic Resistance of a target to operate (even if a given target might lack such), then it must be a Greater Infernal Power instead. Corrupted beasts may have this Virtue more than once, each for a different Power, and Infernal Might increases for each Power acquired.</div>
 
-<h4>Two-Headed Hound</h4>
+<h4>Two-headed Hound</h4>
 
 <div>Infernal Might: 10 (Animal) Characteristics: Cun 0, Per +2, Pre –6,</div>
 <div>Com 0, Str 0, Sta +2, Dex +1, Qik +2 Size: 0 Ferocity Score: 1 (3 points) Virtues and Flaws: Greater Infernal</div>
@@ -2480,6 +2553,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This horse is one of three created by an Infernalist magus in a tribunal at the fringes of the Order by repeated applications of a tainted version of Steed of Vengeance (MuAn 35). There were many failures before he successfully created these three corrupted beasts. Because the untainted version of the spell is wellknown, he is able to use the steeds in front of other magi with impunity.</div>
 
 <h1>Chapter Nine</h1>
+
+
+<h2>Infernal Characters</h2>
 
 <div>Almost as frightening as the creatures aligned with the Infernal realm are those mortals who follow the Devil, by choice or by chance, for they gain many new Supernatural Powers that they may use in Hell’s service, though they may also inherit supernatural hindrances associated with their Infernal allegiance. They also learn new skills that aid them in practicing evil,</div>
 <div>and over time they may even themselves become creatures of the Infernal realm.</div>
@@ -2688,7 +2764,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Major, Supernatural The character has the ability to curse her enemies, making dire predictions about their future, which tend to come</div>
 <div>true. This gives her the Supernatural Ability Hex at 1, described in more detail under New Abilities, below.</div>
 
-<h4>Immune to Disease</h4>
+<h4>Immune To Disease</h4>
 
 <div>Major, Supernatural, Tainted The character is marked as the property of a very powerful demon, and the lesser demons that cause most diseases refuse to harm him. Even characters who</div>
 <div>turn against their masters retain this protection, because the mark is indelible, and disease demons are not usually very bright. A few diseases, for example, those sent as scourges by God, affect the character normally.</div>
@@ -2744,7 +2820,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Major, Unholy Power This Virtue gives the character the Supernatural Ability of Malediction at 1.</div>
 <div>See Chapter 10: The Maleficia for more information on this Unholy Power.</div>
 
-<h4>Mentored by Demons</h4>
+<h4>Mentored By Demons</h4>
 
 <div>Minor, General, Tainted A character mentored by demons learns faster than is possible for those studying with human teachers, but demons only teach those Abilities that suit their plans for the character. Characters trained by demons may exceed the maximum skill level for a given age provided by the character creation rules. Students of demons may also have Abilities that are usually restricted to opportune backgrounds. People mentored by demons do not recognize the supernatural nature of their teachers — many consider their exceptional skills an expression of their innate superiority to others. This attitude is particularly common in children afflicted with Pride. Mentored characters have an additional 50 experience points to spend on any Ability. Characters may purchase this Virtue multiple times, and gain 50 further experience points each time. Characters trained to this extreme know that their teachers are supernatural figures, but often have the Manufactured Ignorance Flaw.</div>
 
@@ -2963,7 +3039,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This Ability is used in conjunction with another Infernal Supernatural Ability or an Infernal Method and Power to produce a greater effect. The character must gather a group together and determine what effect they are going to enact. Since Ceremony increases the potency of Infernal power, at least one of the participants must possess the required Supernatural Ability (this character is called the focus character), and if it is a Power, whatever Method the character would normally use to activate it must be performed by each member of the group. Because of this, all of the participants are considered to be the caster when evaluating the effect.</div>
 <div>The group may appoint a character to be their leader. The leader’s Ceremony score determines how many others may contribute to the effect. Additional characters may still participate, but their scores are not counted in the total and they are not treated as the caster. Characters with a Hierarchy Score greater than that of all the others in the group must always lead; they cannot participate unless led by a character with still higher rank.</div>
 <div>Alternatively, a group may gather without a leader. In this case, the group generates a group modifier by determining the sum of all their Ceremony scores and subtracting the total number of participants, which for Infernal ceremonies must always number 13 (12 participants and the focus character). This group modifier is applied to the focus character’s total, and might be positive or negative depending upon how skilled the members of this group are at working together.</div>
-<div>Group Modifier: Total Ceremony scores – 13</div>
+
+<h4>Group Modifier: Total Ceremony Scores – 13</h4>
+
 <div>Whether or not there is a leader, all participants then add their scores in the appropriate (Characteristic + Ability) or (Characteristic + Method) to the focus character’s total. If a participating character does not have the relevant Ability or Method, only his score in the Characteristic is added. After this bonus</div>
 <div>has been applied, the focus character resolves the effect as normal.</div>
 <div>Note that if every character in a coven has a score of at least 1 in Ceremony, it is always better for them to gather without a leader, but that since Ceremony is a Supernatural Ability, a group of thirteen who all possess it is very rare. More commonly, two or three infernalists with the Ability trick others into joining them in the unholy ritual.</div>
@@ -3031,9 +3109,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>generation +9</div>
 <div>lifetime +12</div>
 <div>When you have framed the hex appropriately, roll Intelligence + Hex + aura bonus + delay modifier and compare this to the Ease Factor on the Hex Effects chart. The severity of these effects is comparable to the effects of botching a roll with a specific number of 0s on the botch dice, as noted in the chart. If you should botch the Hex roll, the hex may still happen, but with unpredictable and unintended results, possibly affecting the hexing character or someone close to her instead. Or, she may suffer Warping Points, fatigue loss, or other unfortunate effects.</div>
-<div>Hex: stress die + Intelligence + Hex +</div>
 
-<h4>aura bonus + modifiers</h4>
+<h4>Hex: Stress Die + Intelligence + Hex +</h4>
+
+
+<h4>Aura Bonus + Modifiers</h4>
 
 <div>A potential victim can avoid the effects of a hex by seeking out supernatural protection of some sort, usually from the Divine. If a character receives absolution in a religious ceremony, all hexes that have targeted him are permanently undone. Characters can also remove hexes with other supernatural effects, such as a Perdo Vim spell, a faerie blessing, or a holy miracle. Treat the hex as having a spell level equal to the number of botch dice it approximates multiplied by 10, so that a serious hex is a level 20 effect, and a critical hex is level 40.</div>
 <div>Hex is often a False Power (see False Powers, above) associated with the Magical or Faerie realms. That is, it often uses the Magical or Faerie column of the realm interaction chart, but appears as an Unholy Power when subjected to Divine or Infernal methods of investigation. Purely Infernal versions of the Power also exist, as do Magical or Faerie versions that are not touched by the Infernal. Such “pure” versions of Hex are rare, however, as demons love to taint this Power.</div>
@@ -3089,9 +3169,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Sense Passions*</h4>
 
 <div>The character can sense the personality and desires of an intelligent being by recognizing and identifying the different shades of tarnish on its soul. A Perception + Sense Passions roll against an Ease Factor of 9 lets her sense the most powerful emotion currently being experienced by the person, and a roll against an Ease Factor of 15 allows her to identify the character’s most dominant Personality Trait. The effect must penetrate the target’s Magic Resistance if it has any kind of supernatural protection, and since this is a Supernatural Ability, it is affected by auras.</div>
-<div>Sense Passions: stress die + Perception</div>
 
-<h4>+ Sense Passions + aura</h4>
+<h4>Sense Passions: Stress Die + Perception</h4>
+
+
+<h4>+ Sense Passions + Aura</h4>
 
 <div>Through careful examination, the character can also recognize passions in people within the general area, allowing her to hone in on the most powerful source of emotion within sight, usually the character with the highest (or lowest) Personality Trait. This requires a 12 or better on the Sense Passions roll.</div>
 <div>The character can also tell when an aura has a tarnish (or temper, see Realms</div>
@@ -3127,17 +3209,25 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Stamina + Concentration + Confidence</h4>
 
 
-<h4>Score + stress dievs.</h4>
+<h4>Score + Stress Dievs.</h4>
 
-<div>Warping Score + Number of Warping Points gained + Hierarchy Score + local</div>
-<div>aura + stress die (no botch)</div>
+
+<h4>Warping Score + Number of Warping Points Gained + Hierarchy Score + Local</h4>
+
+
+<h4>Aura + Stress Die (No Botch)</h4>
+
 <div>If he is successful, after two minutes the infernalist manages to control the malign supernatural forces attacking him and does not suffer any long-term ills. If not, these forces take control of him, wrenching him away from consciousness and temporarily tearing his mind and body into pieces. For the duration, it is as if he is in Hell, wracked by intense pain and terrifying emotion. Perhaps he sees horrific images, relives guilty memories, or is simply mercilessly abused.</div>
 <div>This physical and spiritual torture can last for only a few minutes, or for many years, depending upon the character’s Warping Score (use the table for the duration of Wizard’s Twilight, ArM5, page 88). During this time he may become a spirit, or even vanish completely. His body might remain where it is, be entirely silent or continually scream out in agony, or be possessed by a demon for the duration.</div>
 <div>When the Vituperation is over, the character returns and must make an Aging roll, but adds his modified Warping Score to his total. Longevity rituals and other effects that extend the character’s life do not figure into this formula, since they do not function during this period of supernatural abuse. However, if the vituperation lasts a season or less, the character may apply the modifier for his living conditions in the previous year (ArM5, page 170), since this factors into his overall health.</div>
-<div>Aging Roll: stress die (no botch) + (age</div>
-<div>/ 10, rounded up) – living conditions</div>
 
-<h4>modifier + Warping Score</h4>
+<h4>Aging Roll: Stress Die (No Botch) + (Age</h4>
+
+
+<h4>/ 10, Rounded Up) – Living Conditions</h4>
+
+
+<h4>Modifier + Warping Score</h4>
 
 <div>Once this ordeal is over, the character’s Confidence Score may be increased by one, if it is less than either his Warping Score or his Decrepitude. This represents how the terrifying experience hardens the character’s resolve and increases his</div>
 <div>self-reliance. The character also gains the same number of Confidence Points as he did Warping Points, though not if he botched the avoidance roll. For these reasons, an infernalist might choose to accept Vituperation without rolling to avoid it, in order to strengthen his will.</div>
@@ -3184,7 +3274,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Tainted Characters</h3>
 
 <div>Demons may meddle with the creation of children to draw them under the demons’ influence. The attention of the demon taints the child, which may make it appear to have inherited some of the demon’s properties. The ill-educated, including the tainted person, might ascribe these properties to demonic blood. Demons often tell tainted people that they share a blood kinship, as a form of emotional manipulation. Tainted children grow into tools, which demons employ in their schemes.</div>
-<div>The Infernal Sources of Tainted Children</div>
+
+<h3>The Infernal Sources of Tainted Children</h3>
+
 <div>Demons choose which children to taint, drawing them from four sources. Demons sometimes arrange for evil women to be impregnated by evil men, carrying semen from one to another. Some demons possess human bodies and create children using the natural capabilities of those bodies. Some children are marked through acts of great evil. Others have the misfortune to be near evil adults who have attracted the attention of the demons. These children are all tainted in a similar way.</div>
 <div>Demons who harvest the semen of the wicked and manipulate it so that it produces tainted children usually do so by taking an alluring female form, then seducing a wicked man. The demon then switches genders, and uses this semen to impregnate a woman. The seed, carried and sustained within the body of the demon, is polluted by its influence. Fuller details of this process are found in Chapter 5: Demons as Corrupters, Incubi and Succubae. Incubi are servile demons, and are often ordered to ensure a child’s conception by a more powerful demon that acts as the child’s parent.</div>
 <div>Possessed people are under the domination of a demon. Their bodies are often distorted to express the spiritual nature of the creature. If a possessed person commits rape, or finds a willing partner, he may parent a child that inherits some of his physical attributes at the time of conception. These attributes, drawn from a distorted body, contain reflections of the nature of the demon.</div>
@@ -3337,11 +3429,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Ten</h1>
 
+
+<h2>The Maleficia</h2>
+
 <div>The evil powers that most infernalists practice are called the maleficia (plural, roughly “evil crafts”). This term refers to Infernal effects that resemble Hermetic spells, which require two Supernatural Abilities to cast: a Method, which describes what the infernalist must do to bring about the effect and also determines which Characteristic applies to his total, and a Power, which describes the sorts of effects that this activity produces. These combine together in a formula very similar to that of Hermetic magic.</div>
 
-<h4>Maleficium: stress die + Characteristic</h4>
+<h4>Maleficium: Stress Die + Characteristic</h4>
 
-<div>+ Method + Power + aura bonus</div>
+
+<h4>+ Method + Power + Aura Bonus</h4>
+
 <div>When a character wishes to cast a maleficium, he must first describe his intended effect. This includes choosing a Method and a Power, and deciding the effect’s Range, Duration, and Target. Maleficia use the same parameters as Hermetic magic, defaulting to Range Personal, Duration Momentary, and Target Individual, and these are modified in the same way. A given effect is compared to the guidelines that follow to determine the target level, and the player adds up his character’s scores and rolls a stress die. If this total is greater than or equal to the target level, the effect spontaneously manifests as intended.</div>
 <div>If the total is short of the maleficium’s Target Level — or worse, if the character should botch — very bad things happen. Hell maliciously wreaks its havoc upon the would-be infernalist. Treat a failed roll as one botch for each ten levels or fraction thereof that the infernalist is lacking. This is very similar to botching a Hermetic spell, and</div>
 <div>the severity of the negative effects varies depending upon the severity of the botch. The character also receives one Warping Point for each botch or ten levels short, and if a character gains two or more Warping Points from this, he must check for Vituperation (see Chapter 9: Infernal Characters: Vituperation).</div>
@@ -3418,10 +3515,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Infernal powers cannot create anything real, they can only twist, corrupt, and destroy. Consumption is thus the capability to draw upon the life and health of living beings and turn it to evil purposes. Through Debauchery, an infernalist can transform flesh and blood, changing the shape of his body and spirit; Incantation makes it possible for him to steal life from others, healing and restoring himself at their expense.</div>
 <div>Failure tends to negatively affect the infernalist, as Hell deforms the body and mind. He might find himself trapped in an inferior shape, deformed or mutilated, or he might even suffer Vituperation.</div>
 
-<h4>These shall give their power</h4>
+<h4>These Shall Give Their Power</h4>
 
 
-<h4>and strength unto the beast</h4>
+<h4>And Strength Unto the Beast</h4>
 
 <div>Debauchery, Consumption, Level 20 R: Touch, D: Mom, T: Ind The infernalist performs a ritual of corrupting the body, involving at least one other person, that permanently increases the target’s Strength score by 1, though</div>
 
@@ -3429,7 +3526,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>When these guidelines refer to a victim, they usually mean a second living target within range of the effect. This is usually a person, though it can affect an animal by adding an additional magnitude to the effect, or a plant by adding two magnitudes — plants usually simply wither and die when affected by these powers. The victim can even be the caster, as he is always within range. If the victim has Magic Resistance, the effect must penetrate it to have any effect on the target.</div>
 <div>Effects that give the target a numerical bonus usually manifest as physical changes to the target’s body, making him look stronger, stouter, or healthier. In some cases, these changes may look exceedingly unnatural and cause the target to appear deformed or inhuman.</div>
 
-<h4>Debauchery/Consumption</h4>
+<h4>Debauchery/consumption</h4>
 
 <div>General: Add the magnitude of the effect to the</div>
 <div>target’s Damage and Soak, and also add it to his Load. • Subtract the magnitude of the effect from Load, and also from his Damage and Soak. • Add the magnitude of the effect to the target’s Initiative, Attack, and Defense, but subtract it from all of his Fatigue rolls. • Add the magnitude of the effect to all Fatigue rolls, but subtract it from Initiative, Attack, and Defense. • Give a target a bonus to Recovery rolls, and a victim a penalty, equal to ([the magnitude of the effect + 2] x 3). Level 1: Temporarily increase one of a target’s</div>
@@ -3443,7 +3540,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>rarily exchange bodies. • Cause a woman to become pregnant by a man. • Bring a plant to maturity overnight, causing another plant to wither. Level 20: Bring an animal to maturity overnight,</div>
 <div>aging another animal by the same amount. • Bring a person to maturity overnight, aging another person by the same number of years.</div>
 
-<h4>Incantation/Consumption</h4>
+<h4>Incantation/consumption</h4>
 
 <div>General: Give a target a bonus to rolls for a par</div>
 <div>ticular Ability equal to the magnitude of the effect. This also penalizes a victim’s rolls by the same amount. • Give a target a bonus and a victim a penalty to Aging rolls equal to (the magnitude of the effect – 5); this must be cast with either Year or Forsaken duration. Level 5: Animate a corpse.</div>
@@ -3461,13 +3558,19 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>to no more than 0, and also permanently decreases the victim’s Strength score by 1, to no less than –1.</div>
 <div>(Base 5: +1 Touch, +2 victim)</div>
-<div>A golden cup, full of abominations</div>
+
+<h4>a Golden Cup, Full of Abominations</h4>
+
 <div>Debauchery, Consumption, Level 25 R: Voice, D: Mom, T: Ind Through this insidious effect, often involving a lewd song or dance, the infernalist impregnates a woman with material taken from a man, both of whom must be within range. Whether this seed bears fruit depends on the normal circumstances.</div>
 <div>(Base 15: +2 Voice)</div>
-<div>Break the body, bend the will / One can injure, one can kill</div>
+
+<h4>Break the Body, Bend the Will / One Can Injure, One Can Kill</h4>
+
 <div>Incantation, Consumption, Level 30 R: Sight, D: Mom, T: Ind This maleficium instantly heals a Light Wound of any living thing within range, cursing a person within sight with the same sort of injury. It essentially steals the health of the victim to restore the target. If the victim or target has any sort of Magic Resistance, the infernalist must penetrate its defenses for this to have any effect.</div>
 <div>(Base 15: +3 Sight)</div>
-<div>Cast away your mortal soul / And keep it safe in mortal bowl</div>
+
+<h4>Cast Away Your Mortal Soul / and Keep It Safe in Mortal Bowl</h4>
+
 <div>Incantation, Consumption, Level 50 R: Voice, D: Mom, T: Ind To cast this maleficium, the character must perform an Infernal ritual that corrupts a vessel — an object that contains infernal vis, which must be within range of his voice — and permanently transfers his soul into the object. This causes it to become a fixed Arcane Connection to him, and for as long as it remains whole and undamaged, he cannot die. Any time he would suffer a fatal wound or fail to survive an aging crisis, he gains a Warping Point and automatically experiences Vituperation instead. Afterward, his spirit returns to his body, unless the body has been completely destroyed, in which case he probably becomes a ghost. If the object that hides his soul is ever broken or used for vis, he dies immediately.</div>
 <div>(Base 40: +2 Voice)</div>
 
@@ -3479,7 +3582,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>When these guidelines refer to a supernatural creature, it means a specific entity with a Magical, Faerie, or Infernal Might score. Diablerie cannot affect the Divine.</div>
 
-<h4>Debauchery/Diablerie</h4>
+<h4>Debauchery/diablerie</h4>
 
 <div>General: Dispel magic, infernal, or faerie effects</div>
 <div>of level less than (this effect level – 10). • Prevent a supernatural creature with Might less than (the level of the effect – 10) from crossing a clearly defined circle or affecting those on the other side of the boundary with its Powers, unless the caster explicitly allows the effect to pass. • Protect a target against all supernatural creatures with Might of (the level of the effect – 10) and their Powers. Level 3: See through a supernatural creature’s</div>
@@ -3492,7 +3595,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>additional magnitude increases it by one, to a maximum of 5. Level 25: Create an Infernal regio at level 1.</div>
 <div>Each additional magnitude increases it by one, to a maximum of 5.</div>
 
-<h4>Incantation/Diablerie</h4>
+<h4>Incantation/diablerie</h4>
 
 <div>General: Give a person, object, or area Magic</div>
 <div>Resistance equal to the level of the effect + 5, which does not add to other forms of resistance. • Restore a demon’s Might Pool by the level of the effect + 10, as long as it penetrates its Magic Resistance. Level 3: Force an invisible supernatural creature</div>
@@ -3513,21 +3616,27 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>in exchange. These Infernal blessings are lost forever if the infernalist should somehow redeem himself or seek forgiveness from God, and are treated as if the character had the Vengeful Powers Flaw (see above) — using them for anything that is not sinful always carries with it negative consequences.</div>
 <div>Failure with Diablerie effects might summon the wrong demon, remove the caster’s protection against it, or free a demon from an enchantment to act as it wishes. They might also give the caster appropriate Flaws or take away some of his experience points.</div>
-<div>And he causeth all to receive a mark</div>
+
+<h4>And He Causeth All To Receive a Mark</h4>
+
 <div>Debauchery/Diablerie, Level 25 R: Sight, D: Sun, T: Ind The character causes an object to become a temporary Arcane Connection to any supernatural creature she can see for the duration of this effect. This also taints the object slightly, making it feel unholy to people who can sense the Infernal realm.</div>
 <div>(Base 4: +3 Sight, +2 Sun)</div>
-<div>The image of the beast should speak</div>
+
+<h4>The Image of the Beast Should Speak</h4>
+
 <div>Debauchery/Diablerie, Level 35 R: Arc, D: Conc, T: Ind During the maleficium casting, the character must draw a circle upon the ground and stand outside of it. When it is finished, she can summon the image of a demon to which she has an Arcane Connection, which can also see, hear, and speak to her if it chooses. This creates a mystic conduit between the two of them that lasts for as long as she concentrates, so that the demon can affect her with its Powers as if it were touching her. If the demon does not wish to be disturbed, the character might anger it with this effect, and possibly suffer its wrath.</div>
 <div>(Base 10: +4 Arc, +1 Conc)</div>
-<div>And the dragon gave him his power</div>
+
+<h4>And the Dragon Gave Him His Power</h4>
+
 <div>Incantation/Diablerie, Level 40 R: Touch, D: Forsaken, T: Ind This maleficium allows the character to draw upon the powers of the Infernal to allow someone she is touching to receive the effects of a Minor Virtue, one with which she is familiar enough that she can describe what it does. This Infernal bless</div>
 <div>ing can potentially last forever, so long as the target does not seek absolution, but only appropriate General or Supernatural Virtues may be given in this way, and then only if they do not somehow depend upon the character’s background. Virtues like Educated or Privileged Upbringing are not acceptable. Furthermore, if the Virtue is supernatural, it is an Infernal Power.</div>
 <div>(Base 15, +1 Touch, +4 Forsaken)</div>
 
-<h4>The cage of every unclean</h4>
+<h4>The Cage of Every Unclean</h4>
 
 
-<h4>and hateful bird</h4>
+<h4>And Hateful Bird</h4>
 
 <div>Incantation/Diablerie, Level 50 R: Voice, D: Forsaken, T: Ind The character commands a supernatural creature within the sound of her voice to serve her completely and obey her every command, which it must do for as long as the effect lasts, assuming she overcomes its Magic Resistance. If it ever receives absolution, it is free from her control.</div>
 <div>(Base 20, +2 Voice, +4 Forsaken)</div>
@@ -3538,19 +3647,21 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Effusion cannot produce anything living; it targets base materials or insubstantial forces, but nothing else — though these forces and materials can themselves affect living things. In fact, Effusion cannot actually create anything; it can fan a fire or cause a target to become so hot that</div>
 <div>it spontaneously combusts, but it doesn’t create flames from nothing. It can summon an object to the infernalist’s hand, but this object must already exist in the world. Infernalists might use these Powers to create winds or gather clouds, but this is done simply by controlling the air that is all around them, and they cannot actually create air.</div>
 <div>Failures involving Effusion usually involve losing control over the elements, causing them to behave chaotically, with unwanted effects that are detrimental to the caster or maliciously destructive to the infernalist’s belongings.</div>
-<div>The stone prepared, his gift to grant With foulest craft he does enchant</div>
+
+<h4>The Stone Prepared, His Gift To Grant With Foulest Craft He Does Enchant</h4>
+
 <div>Incantation/Effusion, General</div>
 <div>R: Touch, D: Year, T: Ind The character casts this spell upon an object or substance, essentially opening it for a form of Infernal enchantment. During this process, he casts a second maleficium, of less than or equal level to this effect, which is absorbed by the object and held for the duration of the effect. If the object is broken or consumed during that year, any maleficia that have been imbued into it are released as if they had been cast by the person who activated it.</div>
 <div>This maleficium can be performed multiple times, allowing the character to enchant a target with several different “charges,” and each time he does this it refreshes the duration of the enchantment.</div>
 <div>(Base effect: +1 Touch, +4 Year)</div>
 
-<h4>Darkness has power over all</h4>
+<h4>Darkness Has Power Over All</h4>
 
 
-<h4>things general / Weather and</h4>
+<h4>Things General / Weather and</h4>
 
 
-<h4>wind and all courses variable</h4>
+<h4>Wind and All Courses Variable</h4>
 
 <div>Debauchery/Effusion, Level 20 R: Sight, D: Conc, T: Ind This effect gathers severe winds, powerful enough to lift a person through the air and carry him through the sky at high speed. The character must concentrate upon these winds in order to control them, and she cannot do this if they fly out of her sight. Most infernalists cast this effect on themselves, winging through the night to reach their evil gatherings, though it is said that they must not speak the name of Christ while aloft, or they will lose their support and immediately fall to the ground.</div>
 <div>(Base 4: +3 Sight, +1 Conc)</div>
@@ -3558,7 +3669,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>Unnatural effects, such as phenomena summoned in a form outside their natural context, usually add two additional magnitudes to the level.</div>
 
-<h4>Debauchery/Effusion</h4>
+<h4>Debauchery/effusion</h4>
 
 <div>General: Soften an object, giving it a penalty to</div>
 <div>Damage or Protection equal to the effect’s magnitude. • Make flames hotter or smoke more corrosive, adding the level of this effect to its Damage rating. Level 1: Ignite something extremely flammable,</div>
@@ -3571,7 +3682,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>like flesh. Level 15: Ward a target against all forms</div>
 <div>of natural phenomena (fire, wind, rain, lightning).</div>
 
-<h4>Incantation/Effusion</h4>
+<h4>Incantation/effusion</h4>
 
 <div>General: Harden an object, giving it a bonus to</div>
 <div>Damage or Protection equal to the effect’s magnitude. • Prepare an object to accept a maleficium of this effect’s level or lower; the infernalist casts the maleficium at the object, and it holds the effect in stasis for the duration, activating it when the object is destroyed. • Move an object quickly in any direction the caster pleases, with enough force to cause damage equal to the effect’s level. Level 1: Decrease the severity of natural phe</div>
@@ -3591,10 +3702,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 </div sidebars>
 
-<div>Roll, you clouds, and thunder cry And strike with flames from empty sky</div>
+
+<h4>Roll, You Clouds, and Thunder Cry and Strike With Flames From Empty Sky</h4>
+
 <div>Debauchery/Effusion, Level 25 The character summons a powerful thunderstorm from a clear sky, with galeforce winds and lightning strikes. It takes only a few minutes to gather while she concentrates. She has no control over the storm, though when she stops concentrating it begins to dissipate, and a few minutes later the weather displays no sign that there ever was a storm.</div>
 <div>(Base 3: +3 Sight, +1 Conc, +2 Group)</div>
-<div>I conjure this, by foul decree In its same likeness unto me</div>
+
+<h4>I Conjure This, By Foul Decree in Its Same Likeness Unto Me</h4>
+
 <div>Incantation/Effusion, Level 25 R: Arc, D: Mom, T: Ind The character stretches out his hand and summons to it any object he can see or to which he has an Arcane Connection. The item appears instantly in his grasp, so that if it is a weapon or tool, he can immediately put it to use.</div>
 <div>(Base 5: +4 Arc)</div>
 
@@ -3605,38 +3720,44 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Some maledictions are almost the opposite of Infernal blessings (described above under Diablerie). These Infernal curses usually have a Forsaken Duration, so that they remain active until the victim can somehow dispel them, usually through a Divine agency or another Infernal Power.</div>
 <div>When a Malediction effect penalizes a character’s rolls, it manifests as an aura of bad luck and ill feeling around him. All sorts of superficial effects might accompany the maleficium: mirrors break, dogs howl, and flies and vermin appear when the victim passes. These cosmetic side effects may give him some idea of what is happening, and serve to make the effects less mechanical.</div>
 <div>Malediction failures might damage the caster instead, or harm someone close to him.</div>
-<div>As the vessels of a potter shall</div>
 
-<h4>they be broken to shivers</h4>
+<h4>As the Vessels of a Potter Shall</h4>
+
+
+<h4>They Be Broken To Shivers</h4>
 
 <div>Debauchery/Malediction, Level 15 R: Voice, D: Mom, T: Ind The caster concentrates his power upon a target, and causes it a Medium Wound, severe enough to cripple a limb until it is healed.</div>
 <div>(Base 5, +2 Voice)</div>
 
-<h4>The student must be forced</h4>
+<h4>The Student Must Be Forced</h4>
 
-<div>to learn / and thus the</div>
 
-<h4>worm begins to turn</h4>
+<h4>To Learn / and Thus the</h4>
+
+
+<h4>Worm Begins To Turn</h4>
 
 <div>Incantation/Malediction, Level 20</div>
 <div>R: Touch, D: Sun, T: Ind For the duration of this effect, the target suffers a –1 penalty to all die rolls, and an additional botch die whenever a zero is rolled.</div>
 <div>(Base effect: +1 Touch, +2 Sun)</div>
 
-<h4>Therefore shall all her</h4>
+<h4>Therefore Shall All Her</h4>
 
 
-<h4>plagues come in one day</h4>
+<h4>Plagues Come in One Day</h4>
 
 <div>Debauchery/Malediction, Level 30 R: Voice, D: Cursed/Momentary, T: Ind</div>
 <div>The infernalist focuses her will upon a living person and warns him that he will die if he does a specific uncommon thing, such as “if you come within ten feet of me” or “if you eat a pear.” If the effect penetrates his Magic Resistance, he is affected by the malediction and if he should ever disobey her instruction he instantly falls over dead.</div>
 <div>The infernalist may also cast the effect so that it targets another person within range, perhaps someone very close to the person she is cursing. There can be no doubt in the mind of any witnesses that she is casting an evil curse, and whether it comes to pass or not it clearly identifies her as a witch.</div>
 <div>(Base 20: +2 Voice, +2 Cursed)</div>
-<div>By evening ash and morning dew I send your charms away from you</div>
+
+<h4>By Evening Ash and Morning Dew I Send Your Charms Away From You</h4>
+
 <div>Incantation/Malediction, Level 50 R: Voice, D: Sun, T: Ind The infernalist utters a terrible curse at a victim, and causes him to lose the benefits of one of his Major Virtues for</div>
 
 <div sidebars>
 
-<h4>Debauchery/Malediction</h4>
+<h4>Debauchery/malediction</h4>
 
 <div>Level 3: Hamper targets without actually injur</div>
 <div>ing them, making them walk badly or blurring their senses for the duration. • Cause a target the loss of a Fatigue level. Level 4: Inflict a Light Wound, also causing</div>
@@ -3646,7 +3767,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Level 15: Inflict an Incapacitating Wound, also</div>
 <div>causing grievous harm to a body and a Decrepitude Point. Level 20: Strike a person or animal dead.</div>
 
-<h4>Incantation/Malediction</h4>
+<h4>Incantation/malediction</h4>
 
 <div>General: Give a target a penalty on all die rolls</div>
 <div>equal to the magnitude of the effect, as well as that many additional botch dice any time the target rolls a 0. • Give a target a penalty equal to twice the magnitude of the effect to all rolls of a specific type (an Ability, Aging rolls, Recovery rolls, Personality Traits, etc.), and the same</div>
@@ -3666,18 +3787,26 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Phantasms are easily undone by the Divine and expressions of God’s power. If a phantasm is somehow affected by the Divine, it is immediately dispelled, and phantasms cannot affect Divine things when they are cast. Phantasms cannot survive in the Dominion.</div>
 <div>In addition, an infernalist’s phantasms are always vulnerable to an additional type of material, chosen when the Phantasm Ability is first learned. See the examples of the sorts of weaknesses demons have (Chapter 4: The Infernal Legions); these are the sorts of flaws to which an infernalist’s phantasms are susceptible. Should a phantasm with this weakness ever come into contact with that material, it is immediately dispelled.</div>
 <div>Failure might produce the wrong sort of target, or somehow injure the caster. Perhaps the phantasm seems to have a mind of its own, or even behaves aggressively.</div>
-<div>For they are the spirits of</div>
 
-<h4>devils, working miracles</h4>
+<h4>For They Are the Spirits of</h4>
+
+
+<h4>Devils, Working Miracles</h4>
 
 <div>Incantation/Phantasm, Level 10 R: Per, D: Conc, T: Ind The character can see through Infernal deception for the duration, see</div>
 <div>ing evil creatures as they truly are in much the same way that characters with Second Sight can see through magical and faerie illusions. This does not protect him from phantasms, though he can recognize them as such. When this effect is cast, note its Penetration, as demons and other creatures with a false appearance may be able to resist it.</div>
 <div>(Base 5, +1 Conc)</div>
-<div>Summon shapes of lustful need And swiftly form a ghostly steed</div>
+
+<h4>Summon Shapes of Lustful Need and Swiftly Form a Ghostly Steed</h4>
+
 <div>Debauchery/Phantasm, Level 20 R: Touch, D: Sun, T: Ind This simple maleficium conjures a phantasmal horse, complete with tack and harness if you wish, which lasts until sunrise or sunset. It can carry the character’s weight and run as quickly as a real horse, though it cannot enter the Dominion, and is similarly limited in another way, depending upon the infernalist’s weakness. For example, perhaps it cannot cross running water, or cannot touch an innocent.</div>
 <div>(Base 5: +1 Touch, +2 Sun)</div>
-<div>I saw three unclean spirits, like frogs,</div>
-<div>out of the mouth of the dragon</div>
+
+<h4>I Saw Three Unclean Spirits, Like Frogs,</h4>
+
+
+<h4>Out of the Mouth of the Dragon</h4>
+
 <div>Incantation/Phantasm, Level 20</div>
 
 <div sidebars>
@@ -3685,7 +3814,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Changing an animate target (something that can move under its own power) into an inanimate object is also more difficult, and requires two additional magnitudes. Over time, however, the target begins to regain its mobility unless the infernalist regularly concentrates on the effect. For example, a person may be changed into a stone, but if ignored for a few days that stone may begin to move and resemble a person, as its essential nature begins to reassert itself over the phantasm.</div>
 <div>The final form of a target changed into a phantasm usually has recognizable properties in common with its true shape. For example, a person transformed into an animal might be extremely expressive and possibly retain other human qualities such as the ability to speak or walk upright. Size modifiers also apply to the effect level if there is a significant difference between the original shape and the new shape.</div>
 
-<h4>Debauchery/Phantasm</h4>
+<h4>Debauchery/phantasm</h4>
 
 <div>General: Create a dangerous phantasm, like</div>
 <div>fire or poison, that does +(base level of the spell) Damage upon contact. Level 2: Change a target to give it a minor abil</div>
@@ -3695,7 +3824,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>into a phantasm. • Make a target completely undetectable. Level 10: Create a phantasm with Infernal</div>
 <div>Might 5, or change a target into a phantasm with Infernal Might 5. Each 5 points of additional Might increases the effect magnitude by one. • Separate a target’s spirit from his body, as if he were in a waking dream.</div>
 
-<h4>Incantation/Phantasm</h4>
+<h4>Incantation/phantasm</h4>
 
 <div>Level 2: Smell or taste at a distance. Level 3: Become able to perceive spirits. • Hear sounds at a distance. Level 4: See at a distance. Level 5: See through Infernal illusions. Level 20: Gain an ominous vision of an event</div>
 <div>that happened within a day in the past, or that is likely to happen within a day in the future. Level 25: Gain an ominous vision of an event</div>
@@ -3710,7 +3839,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>R: Per, D: Mom, T: Ind The character sits in a meditative state and concentrates his thoughts upon the demonic spirits that watch over the different hours. He should have a question in mind that applies to events of the last or next day (such as “How did this sword get bloodied?” or “What does the weather bode for tomorrow?”). He then receives a vision that cryptically answers the question through dark imagery and malice, in which he might be abused or mocked by spirits that delight in seeing him suffer for the knowledge he seeks.</div>
 <div>These demons cannot actually see the future, but they do perceive most of what goes on in the world, and can often make very shrewd guesses about events that have not yet happened. If they cannot answer a question, they probably fabricate something and take great pleasure in watching the character try to make sense of their deceit. Thus, very specific questions tend to produce more accurate results than vague ones.</div>
 <div>(Base 20)</div>
-<div>To stir the spirit, heart and fear A shadow phantom hunts in here</div>
+
+<h4>To Stir the Spirit, Heart and Fear a Shadow Phantom Hunts in Here</h4>
+
 <div>Debauchery/Incantation, Level 40 R: Arc, D: Conc, T: Ind</div>
 <div>The infernalist sends a phantasmal creature into the thoughts of a person to whom she has an Arcane Connection. The creature is usually a wild beast or a hobgoblin. The phantasm can behave as she directs, distracting the target’s concentration by making imaginary sounds and so on. The target can see and hear the phantasm inside his mind, or feel it poking his side or sitting on him, and he can interact with it directly by focusing his thoughts upon it. Infernalists often use this effect to send the semblance of a demon into a sleeping person’s dreams.</div>
 <div>The phantasm is a being of nightmare and imagination, but it has its own identity outside of the person and can leave his mind, though it has no substance. It can take the person with it if he chooses to go, leaving his body behind and traveling with the phantasm in spirit form, usually riding on its back. In this ghostly state, the target can see and hear what goes on around him in the physical world, but cannot interact with it in any way. When the effect ends, he returns immediately to his body, waking as if from a nightmare.</div>
@@ -3720,28 +3851,38 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Psychomachia is the Infernal Power over the mind and emotions, allowing the caster to influence and even control people and other living things. Incantation allows the caster to read and control hearts and minds directly, and with Debauchery the caster can change the target’s personality: not simply making him sin, but making him want to sin.</div>
 <div>Failure usually leaves the caster muddled, or inflames his own passions rather than those of others. It might also aggravate the target, or otherwise affect it in a way other than how he intended.</div>
-<div>Babylon the great is fallen, and is</div>
 
-<h4>become the habitation of devils</h4>
+<h4>Babylon the Great Is Fallen, and Is</h4>
+
+
+<h4>Become the Habitation of Devils</h4>
 
 <div>Debauchery/Psychomachia, Level 15 R: Touch, D: Sun, T: Ind The caster tarnishes an Infernal aura with a trait of your choice at +3.</div>
 <div>(Base effect: +1 Touch, +2 Sun)</div>
 
-<h4>And the men had repented</h4>
+<h4>And the Men Had Repented</h4>
 
 
-<h4>not of their deeds</h4>
+<h4>Not of Their Deeds</h4>
 
 <div>Incantation/Psychomachia, Level 10 R: Eye, D: Conc, T: Ind The caster can recognize whether a person is more evil or good by sensing his most powerful emotion. He looks him in the eye as he casts the maleficium, and becomes aware of his dominant Personality Trait, or another emotion by which he is currently influenced.</div>
 <div>(Base 4, +1 Eye, +1 Conc)</div>
-<div>They shall make the whore desolate</div>
-<div>and naked, and shall eat her flesh</div>
+
+<h4>They Shall Make the Whore Desolate</h4>
+
+
+<h4>And Naked, and Shall Eat Her Flesh</h4>
+
 <div>Debauchery/Psychomachia, Level 45 R: Voice, D: Sun, T: Group Everyone in a group of people is seized with a powerful emotion, specified as part of the spell, which is usually sinful in nature. They each gain an appropriate Personality Trait at +3 for the duration of the effect. Until it wears off, these people become much more receptive to sins associated with the trait, and may in fact behave completely out of character in pursuit of their desires.</div>
 <div>(Base 15: +2 Voice, +2 Sun, +2 Sin)</div>
-<div>I will make them of the synagogue</div>
-<div>of Satan; I will make them</div>
 
-<h4>worship before thy feet</h4>
+<h4>I Will Make Them of the Synagogue</h4>
+
+
+<h4>of Satan; I Will Make Them</h4>
+
+
+<h4>Worship Before Thy Feet</h4>
 
 <div>Incantation/Psychomachia, Level 50 R: Voice, D: Sun, T: Group The caster speaks a simple command to a group of people, which they must obey for the duration of the effect. Examples: “Attack anyone who comes through here,” “Journey to the covenant of Semita Errabunda and capture the woman Isabelle who lives there,” or “Bow down and worship this idol until the legate arrives.”</div>
 <div>(Base 20: +2 Voice, +2 Sun, +2 Group)</div>
@@ -3763,7 +3904,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div sidebars>
 
-<h4>Debauchery/Psychomachia</h4>
+<h4>Debauchery/psychomachia</h4>
 
 <div>General: Tarnish an Infernal aura with a value</div>
 <div>equal to (the magnitude of the effect + 3), +6 maximum. Level 2: Make a minor change to a target’s emo</div>
@@ -3775,7 +3916,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>• Give a target a temporary Personality Trait at +2. • Give a target 2 Warping Points, possibly triggering Vituperation or Twilight. • Drive a target insane for the duration of the effect. Level 15: Increase or decrease a character’s</div>
 <div>Personality Trait by one step, to a maximum of +6 or –6. • Give a target a temporary Personality Trait at +3. • Cause a target to gain a Confidence Point, so long as he has fewer than his (Confidence Score x 5). • Give a target 3 Warping Points. Level 20: Give a target 4 Warping Points. Level 25: Give a target 5 Warping Points.</div>
 
-<h4>Incantation/Psychomachia</h4>
+<h4>Incantation/psychomachia</h4>
 
 <div>Level 2: Sense whether a supernatural effect is</div>
 <div>Divine or Infernal, but without distinguishing between them. Level 3: Form words in a target’s mind. • Sense if an aura is tarnished, and identify it.</div>
@@ -3818,6 +3959,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Eleven</h1>
 
+
+<h2>Ars Goetia</h2>
+
 <div>When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations.</div>
 <div>There shall not be found among you [any one] that maketh his son or his daughter to pass through the fire, [or] that useth divination, [or] an observer of times, or an enchanter, or a witch,</div>
 <div>Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer.</div>
@@ -3836,26 +3980,34 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>To begin, the character must draw a circle upon the ground. Many sorcerers light candles along the sides of their circles, to make it easier to see if the border is unbroken. Other special preparations, such as incense, ritual chanting, or drawing additional shapes inside the circle (a five-pointed star is common), or words around the perimeter, may help him focus his mind on the effect, reducing the dif</div>
 <div>ficulty of maintaining his concentration once he has summoned the spirit. This is usually a bonus of +1 to +3 to his Stamina + Concentration rolls, with the higher bonuses requiring more time and specialized materials.</div>
 <div>To summon a specific spirit, the sorcerer must have an Arcane Connection to it (for demons, this almost always means that he has memorized its True Name). The Summoning Total is based on his Presence and his score in the Summoning Art, and also incorporates his knowledge of the spirit’s supernatural realm. The Penetration Total is also incorporated into this formula, including the increased Penetration Modifier for having an Arcane Connection.</div>
-<div>Summoning Total: stress die + Presence</div>
-<div>+ Summoning + (Realm) Lore + aura +</div>
 
-<h4>(Penetration x Penetration Modifier)</h4>
+<h4>Summoning Total: Stress Die + Presence</h4>
+
+
+<h4>+ Summoning + (Realm) Lore + Aura +</h4>
+
+
+<h4>(penetration X Penetration Modifier)</h4>
 
 <div>If the sorcerer is summoning a demon, add his (Hierarchy Score x 5) to the Summoning Total, and the storyguide adds the demon’s (Hierarchy Score x 5) to the Target Level.</div>
 
 <h4>Demon Summoning: Summoning Total</h4>
 
-<div>+ (sorcerer’s Hierarchy Score x 5) vs.</div>
 
-<h4>Target Level + (demon’s Hierarchy</h4>
+<h4>+ (Sorcerer’s Hierarchy Score X 5) Vs.</h4>
 
 
-<h4>Score x 5)</h4>
+<h4>Target Level + (Demon’s Hierarchy</h4>
+
+
+<h4>Score X 5)</h4>
 
 <div>The character can instead summon a non-specific spirit from the surrounding area, by throwing his sorcery like a net into the ocean and pulling in whatever he catches. This is called scouring. He draws upon his knowledge of the area to call a spirit to him, with very little control over what sort of spirit responds. He usually attracts a spirit affiliated with</div>
 <div>the same realm as his Summoning Power, with Might approximately equal to half his Summoning Total, though he is more likely to summon a spirit that is nearby than one that is farther away. If used in a supernatural aura, he probably summons a spirit associated with that aura’s realm.</div>
 <div>Scouring the Dominion or areas with no supernatural aura has a tendency to turn up demons with disturbing frequency, as low-ranking ones are fairly common in these places. They may not necessarily appear as demons, for many of them can hide their true form. Thus, it is usually unwise to scour an area without some idea of what sort of creature will be summoned.</div>
-<div>Scouring Total: stress die + Presence + Summoning + (Area) Lore + aura +</div>
+
+<h4>Scouring Total: Stress Die + Presence + Summoning + (Area) Lore + Aura +</h4>
+
 
 <h4>Penetration</h4>
 
@@ -3866,10 +4018,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>While the spirit remains in the circle, it cannot affect the sorcerer or anything else outside the perimeter with its Powers. Often an angry spirit waits invisibly within a hastily drawn ring until it erodes or collects enough dust to break the line, and then exacts its revenge upon the sorcerer or anyone else nearby upon being freed. The sorcerer can also lower his ward briefly by concentrating, in order to allow an effect through, much in the same way that a magus can allow an effect to pass his Parma Magica.</div>
 <div>A botch on the Summoning roll might summon a different spirit than the one he intended, or summon a demon pretending to be his target. It could also mean that the circle or summoning ritual is flawed, so that while the spirit is summoned, there is nothing preventing it from attacking. Or, the summoning might simply cause the sorcerer to gain Warping Points and perhaps force a check for Vituperation.</div>
 
-<h4>Summoning or Scouring Target Level:</h4>
+<h4>Summoning Or Scouring Target Level:</h4>
 
 
-<h4>spirit’s Might x 2</h4>
+<h4>Spirit’s Might X 2</h4>
 
 <div>Once he has summoned a spirit, the sorcerer has many interesting options concerning what to do with it. The most common activity is to bargain with it. He offers it something it wants in exchange for its assistance, and it decides whether or not to help him. It is best to roleplay this process, but if a mechanic is needed, a contested Communication + Bargain roll is appropriate, modified by any appropriate Reputations. Spirits may be highly offended if they are disturbed to no worthwhile purpose, so it is wise for a sorcerer to prepare something worthwhile in trade before beginning a summoning.</div>
 <div>A sorcerer may also use this opportunity to affect the spirit with his other Powers, such as Ablating, Binding, or Commanding, each of which is described below. These Arts are more effective on a spirit that is held in a summoning circle, and if the spirit is free it will probably depart rather than submit to the effect, unless it has agreed to it as part of a bargain or trade.</div>
@@ -3888,15 +4040,21 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>he almost certainly gains an enemy for life (and perhaps beyond). Spirits never agree to this sort of effect as part of a bargain.</div>
 <div>During the ablation, the sorcerer must endure powerful forces as they are drawn into his body, and knowledge of the spirit’s supernatural realm improves his ability to adapt to them. If you botch the stress roll, the character will almost certainly suffer Vituperation.</div>
-<div>Ablation Total: stress die + Stamina + Ablating + (Realm) Lore + aura + (Penetration x Penetration Multiplier)</div>
-<div>To achieve results, the Ablation Total must exceed the spirit’s Might Score if it is held within a summoning circle, or exceed double its Might Score if not. If ablating a demon, you may add the character’s (Hierarchy Score x 5) to the Ablation Total, and the storyguide should also add the demon’s (Hierarchy Score x 5) to the Target Level.</div>
-<div>Ablation Target Level: spirit’s Might, or</div>
 
-<h4>spirit’s Might x 2</h4>
+<h4>Ablation Total: Stress Die + Stamina + Ablating + (Realm) Lore + Aura + (Penetration X Penetration Multiplier)</h4>
+
+<div>To achieve results, the Ablation Total must exceed the spirit’s Might Score if it is held within a summoning circle, or exceed double its Might Score if not. If ablating a demon, you may add the character’s (Hierarchy Score x 5) to the Ablation Total, and the storyguide should also add the demon’s (Hierarchy Score x 5) to the Target Level.</div>
+
+<h4>Ablation Target Level: Spirit’s Might, Or</h4>
+
+
+<h4>Spirit’s Might X 2</h4>
 
 <div>Note the amount by which the Ablation Total exceeds the Target Level. The storyguide subtracts this amount from the spirit’s Might Score, permanently</div>
 <div>weakening it, and the character receives a number of Ablation Points equal to this number divided by five, rounded down. If this total is greater than the spirit’s Might Score, use the Might Score instead.</div>
-<div>Ablation Points: (Ablation Total – Ablation Target Level) / 5, or spirit’s</div>
+
+<h4>Ablation Points: (ablation Total – Ablation Target Level) / 5, Or Spirit’s</h4>
+
 
 <h4>Might / 5</h4>
 
@@ -3948,8 +4106,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Binding</h3>
 
 <div>Binding is the Goetic Art of changing a spirit so that it becomes part of a person or thing. The sorcerer forces the spirit into the target, changing it to conform to its new size, shape, and nature. This requires a cunning mind, and knowledge of the spirit’s realm is also helpful. Botching this sort of effect may damage the spirit, or ruin the target, or perhaps cause the spirit to join with another target instead.</div>
-<div>Binding Total: stress die + Intelligence</div>
-<div>+ Binding + (Realm) Lore + aura + (Penetration x Penetration Multiplier)</div>
+
+<h4>Binding Total: Stress Die + Intelligence</h4>
+
+
+<h4>+ Binding + (Realm) Lore + Aura + (Penetration X Penetration Multiplier)</h4>
+
 <div>To succeed at binding a spirit within a summoning circle, the sorcerer must exceed its Might Score on his Binding Total, though if the spirit is accommodating and allows the effect without resisting, he must simply avoid botching. If it is not in a summoning circle, he must double its Might Score, or merely exceed its Might if it does not resist. If binding a demon, he may add his (Hierarchy Score x 5) to his Binding Total, and the storyguide should also add the demon’s (Hierarchy Score x 5) to the Target Level.</div>
 <div>Binding Target Level: spirit’s Might If the binding is successful, the spirit cannot leave the target, though unlike the effects of a demon’s Possession Power, the spirit may regain Might and activate any of its Powers while it is bound. It is also aware of its surroundings; it can use the binding target’s senses to hear or see what</div>
 <div>is said in its presence or feel when the target is touched. Most spirits can even communicate with the target; if bound to a person, they can usually spend a Might Point to speak directly into his thoughts. However, they essentially become part of the target, and while there they cannot be detected.</div>
@@ -3965,7 +4127,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Commanding</h3>
 
 <div>With the Commanding Art, the sorcerer may issue a command to a spirit, which it must obey. This requires him to draw upon his skill at communicating his desires, and also draws upon his knowledge of the spirit’s realm. If the roll botches, this may release the spirit from his control, anger it, or weaken him.</div>
-<div>Commanding Total: stress die + Communication + Commanding + (Realm) Lore + aura + (Penetration x</div>
+
+<h4>Commanding Total: Stress Die + Communication + Commanding + (Realm) Lore + Aura + (Penetration X</h4>
+
 
 <h4>Penetration Modifier)</h4>
 
@@ -3974,7 +4138,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Commanding Target Level:</h4>
 
 
-<h4>spirit’s Might</h4>
+<h4>Spirit’s Might</h4>
 
 <div>The spirit only remains under the sorcerer’s influence until it has completed its task, at which point it is free to return to the place from which it was summoned. However, there is usually a brief window of time before the spirit departs, enough time for the sorcerer to elaborate upon this task if he is present; a command such as “Kill a pig and bring it to me” can be followed up with a related command such as “Roast this pig for me” without releasing the spirit from its service.</div>
 <div>A command has force for only a short while, however, only until midday or midnight, and all commands must be reissued at those times if the task is not yet finished. Again, there is a short period of a few minutes before the spirit departs in which the sorcerer may reinforce the command if he is present. Thus, open-ended commands such as “Guard this door” only remain in effect for a short while without the sorcerer’s periodic involvement.</div>
@@ -4056,6 +4220,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Twelve</h1>
 
+
+<h2>Black Magic</h2>
+
 <div>Magic that is concerned with the Infernal realm is often called nigromancy (sometimes confused with “necromancy”), meaning “black magic.” Hermetic magi usually refer to it as “diabolism,” as it is essentially magic that deals with devils, and “dark magic” is another common title. All of these terms essentially describe magic that deals with demons in some way, though it is important to note that metaphysically, black magic is still part of the Magic realm, even though it is often tainted by the Infernal. That is, it is still Hermetic magic, not an Infernal Power.</div>
 <div>Dealing with demons is prohibited by the Order of Hermes. Demonstrating any sort of Infernal Power is usually considered evidence that a magus has dealt with demons and thus imperiled his soul, which is expressly forbidden by the Hermetic Oath. Spells that summon or empower demons are also considered reprehensible. As with any Hermetic crimes, close friends might believe in mitigating circumstances, especially if the magus works very hard to only use his evil Powers for good or claims to be innocent of any wrongdoing, but since Infernal Powers are known to allow people to lie easily without possibility of discovery, this is not a very credible defense in any sort of official inquiry. Any magus who knowingly possesses an Infernal Power should take the Dark Secret Flaw, since the Order will almost certainly hunt down and destroy him if that fact becomes generally known.</div>
 <div>Of course, magi can also practice black magic without any Infernal Powers at all, simply by targeting demons with their Arts. This also breaks the Code, as it is still literally “dealing with demons,” though the Order rarely acts against magi</div>
@@ -4088,10 +4255,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This spell is known to exist among infernalist magi, and is only mentioned to students of the Infernal so that they may know what to expect.</div>
 <div>(Base effect, +2 Voice, +2 Sun)</div>
 
-<h4>Plucking the Hair from</h4>
+<h4>Plucking the Hair From</h4>
 
 
-<h4>the Billy Goat’s Chin</h4>
+<h4>The Billy Goat’s Chin</h4>
 
 <div>CrVi 20 R: Voice, D: Sun, T: Ind This spell creates a temporary Arcane Connection to a specific demon within range of the caster’s voice, allowing him to penetrate its Magic Resistance more easily with additional spells. This connection is intangible, a sort of conduit rather than a physical object, and so it cannot be fixed in the laboratory and does not itself convey any Penetration bonus. Thus, forcing a demon to teach the magus its True Name is even better.</div>
 <div>(Base 4, +2 Voice, +2 Sun)</div>
@@ -4106,7 +4273,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>(Base 5, +4 Arc, +1 Conc)</div>
 
 <div sidebars>
-<div>Story Hook: A Dish Served Very Cold</div>
+
+<h3>Story Hook: A Dish Served Very Cold</h3>
+
 <div>The characters come across an ancient circle created by Circular Ward Against Demons, perhaps in a long-abandoned covenant. The circle seems to be empty, and it is possible that the characters do not even see it inscribed on the floor. The circle contains a demon, who is currently in spiritual form, and thus invisible to mortal sight. The demon has been here for a long time, and is eager for escape and revenge.</div>
 
 <h3>Apotropaic Guidelines</h3>
@@ -4132,7 +4301,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Early Punishment for</h4>
 
 
-<h4>the Sinful Witch</h4>
+<h4>The Sinful Witch</h4>
 
 <div>MuVi(Ig) Gen R: Voice, D: Mom, T: Ind This spell destroys an Infernal effect upon an infernalist’s person in a brief flash of white flame, as long as the effect has a level lower than this spell’s level + 5 + a stress die (no botch). The flames inflict points of damage  equal to half the level of the destroyed effect. If the Infernal Power does not have a level, then its effective level is (5 x Supernatural Ability score) or (5 x Might Points expended) instead. Infernal Powers with a constant effect that require no Might expenditure cannot be affected by this spell. This is primarily used against infernalists who have woven protective enchantments around themselves with their evil Powers.</div>
 <div>(Base effect, +2 Voice, +1 requisite)</div>
@@ -4165,7 +4334,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Rego Vim</h4>
 
 
-<h4>Adjuration of the Hell-Sworn Spirit</h4>
+<h4>Adjuration of the Hell-sworn Spirit</h4>
 
 <div>ReVi Gen R: Arc, D: Mom, T: Ind This spell summons a demon with Might no greater than the spell’s level. It creates a magical conduit between the magus and the demon using the demon’s True Name (which is essential for this spell), and the demon is compelled to travel almost instantly to the magus’s location through that conduit. If the magus</div>
 <div>has prepared an arcane circle, such as in the spell Ward Against Demons, he can force the demon to appear within it.</div>
@@ -4275,6 +4444,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter Thirteen</h1>
+
+
+<h2>Infernal Traditions</h2>
 
 <div>So when you recite the Qur’an, seek refuge with Allah from the accursed Shaitan,</div>
 <div>Surely he has no authority over those who believe and rely on their Lord.</div>
@@ -4486,7 +4658,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Many peasant folk tales describe how the dead walk again among the living, in service to their Infernal masters or to commit greater sins than those they practiced in life. These tales might originate from the acts of this tradition, whose members believe that their status in Hell during life carries over to their status in Hell after death. That is, they imagine that they can become Infernal ghosts when they</div>
 
 <div sidebars>
-<div>Story Hook: Snake in the Grass</div>
+
+<h3>Story Hook: Snake in the Grass</h3>
+
 <div>The parish priest of a church near the covenant is replaced with a man clearly more educated and charismatic than the previous incumbent. The new priest is friendly and an inspiring teacher, and has a liberal attitude towards magic that might win him friends amongst the magi. The spiritual guidance he offers his flock is surprisingly libertine, subtly suggesting that whatever feels good is right, although he is never overt in his heresy, and in the main sticks to Church doctrine. The priest is actually a Dark Gnostic. He keeps snakes in a basket in the basement of his church, one of which is a Spirit of Deceit in disguise. This demon is gradually corrupting the parish with its Obsession, and the priest is reinforcing those beliefs with his teaching. The corruption is a slow process, but will pay off in the long term with a whole parish of corrupted worshipers.</div>
 </div sidebars>
 
@@ -4584,7 +4758,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 </div sidebars>
 
-<div>The Infernal Infernal Societas: The Ordo Vagorum</div>
+
+<h3>The Infernal Infernal Societas: The Ordo Vagorum</h3>
+
 <div>Favored Abilities: Consumption, Corruption, Debauchery, Psychomachia</div>
 <div>The Church faces a major social and disciplinary problem in the 13th century caused by burgeoning intellectualism and the rise of universities. These institutions have produced a veritable army of tonsured clerks who have been spoiled for manual labor by too much education, but who, after being discharged from school and failing to find a benefice instead of returning to the peasant class take to the degrading life of strolling players and jongleurs while still claiming the alms and privileges of canon law that are due to the clergy.</div>
 <div>Of course this is sinful behavior; it is pardonable, but still wrong, yet the vagantes (“vagabonds”) who do it rarely seek forgiveness. Criticized by the religious hierarchy for their un-Christian ways, many of these student-beggars have formed their own religious order, the Ordo Vagorum (“the Order of Vagrants”), with their own rules, councils, canons, and creed, everything in mockery of the regular clergy. Most of these vagantes are harmless buffoons, rascals, and satirists who delight in making fun of the organization that thinks so little of them, and publish songs and poems that lampoon the liturgy in burlesque to entertain the common folk. This sort of entry-level infernalist easily takes to hedonism and pleasures of the flesh, and answers to the term “Goliard,” a title whose origin is already muddled by myth, but is generally believed to refer to a tenth-century hedonist known as Bishop Golias.</div>
@@ -4599,7 +4775,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>If it is true, as is often said among the Mercere, that Golias was a Redcap who lived with the infernalists at Fudarus, it may be too late to prevent the House from becoming corrupted. If these infernalist Redcaps are a localized phenomenon, the senior Redcaps might be willing to out them and see them Marched, but if they have spread throughout the Order it may be in the best interests of the House to keep them secret and deal with them internally, since their discovery by the other Houses would throw their organization into turmoil. They have seen how magi treat others accused of such crimes, such as the Tytalus diabolists and especially the Diedne, and they might believe that this scandal would lead to their disgrace, disbandment, and possibly even execution. They cannot allow this to happen,</div>
 <div>so instead they might begin to distance themselves from the Goliards, perhaps quietly suggesting that they be allowed to join House Jerbiton instead.</div>
 <div>Suppose that local members of House Mercere are aware of the problem and have already begun to deal with it, when the characters inadvertently stumble into the middle of everything. They somehow discover that a Redcap who visits their covenant is an infernalist — perhaps while he performs a bawdy song, a character who is sensitive to the Infernal feels the presence of evil powers. Assuming this realization leads to them telling someone in House Mercere’s organization, how will they react when the other Redcaps in the area approach them and beg them to ignore their wayward sibling’s crimes for the good of the Order?</div>
-<div>Story Hook: A House of Ill-Repute</div>
+
+<h3>Story Hook: A House of Ill-Repute</h3>
+
 </div sidebars>
 
 <div>Realms of Power Infernal Societas: The Witches of Thessaly</div>
@@ -4642,6 +4820,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>A baby is born to one of the Daughters of Erictho nine months after she participates in the rites of drawing down the moon, and it is found to have been blessed with The Gift. She leaves the child with one of her Thessalian sisters, a maga in the Order of Hermes, with the hope that it will be raised as a Hermetic wizard. However, the child’s Gift is False, a result of the diabolic machinations that led to the witch’s pregnancy, and the child will grow up with a form of unholy magic. The demons hope to manipulate the young apprentice into infernalism over time, and so gain an agent among the local wizards. This background might be combined with the rules for tainted characters (see Chapter 9: Infernal Characters) to create an interesting character concept for a starting magus.</div>
 </div sidebars>
+
+
+<h2>Contributors</h2>
 
 <div>Erik Dahl writes code, music, and, of course, Ars Magica supplements in the land of Davis, California. There he has a happy home that he shares with his lovely wife, which makes it kind of a stretch for him to write about evil, corruption, pain, misery, and all the fun gaming material contained in this book. So, while reading, please instead pretend that he is a tortured soul chained to a fiery desk, whipped mercilessly by his unfeeling line editor, surrounded by a ring of demons that alternately berate and scorn him for the last book he had anything to do with, every day ruing that he ever signed his name to that Infernal contract.</div>
 <div>Dedication: For my brother-in-law Thomas, the most delightfully evil man I know.</div>

@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -126,6 +130,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>THE BLACK MONKS OF GLASTONBURY</div>
 </div sidebars>
 
+
+<h2>2New Spell: Aegis of the Hearth</h2>
+
 <div>are fighters, as training for war forms an important part of their lives.</div>
 <div>Monks, druids, and rangers are not part of Mythic Europe. The OGL monk draws on oriental traditions rather than western ones. Western monks should never have the monk class — they are devoted to study, manual labor, and divine worship, not leaping around and kicking ass. Similarly, druids and rangers draw on the powers of nature in a way that does not fit into the worldview of the middle ages.</div>
 <div>Bards and sorcerers may be used to represent hedge magic traditions, if you want to make them as powerful as Hermetic magi. This is a slight departure from Ars Magica’s setting, but not one that will cause major problems.</div>
@@ -141,7 +148,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Further, anyone casting a spell within the area suffers a penalty to caster level equal to the level of the Aegis. Again, those who took part in the ritual are not affected.</div>
 <div>The ritual creates a number of tokens equal to the caster level of the spell, which may be given to other spellcasters so as to render them immune to the Aegis’ effects, as well. It is unusual for a covenant to give an outside spellcaster one of these tokens, however.</div>
 <div>XP Cost: 40 XP per spell level (most Hermetic magi use vis to supply the XP)</div>
-<div>2New Spell: Aegis of the Hearth</div>
 </div sidebars>
 
 <div>or two people would play their wizards in a given session, while everyone else would play their companions or followers.</div>
@@ -308,6 +314,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Map: Glastonbury Abbey</div>
 </div sidebars>
 
+
+<h2>2Glastonbury Abbey & Village</h2>
+
 <div>check against a DC of 5 means that the character has heard the story anyway. 1</div>
 <div>Normal animals are indeed struck down if they enter the graveyard or chapel. Magical animals, and people entering the chapel with an animal, are merely knocked out, losing all fatigue levels, the first time. A person so affected also feels a strong sense of divine disapproval. On the second attempt, a single body level is also lost. On the third attempt, two body levels are lost, and so on. Magic Resistance does not defend against this, nor does any other form of defense.</div>
 <div>Any character who makes a Church or Legend Lore roll against an Ease Factor of three knows about the protection on the graveyard.</div>
@@ -348,6 +357,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>THE BLACK MONKS OF GLASTONBURY</div>
 </div sidebars>
+
+
+<h2>2New Wondrous Item: Binding Tomb</h2>
 
 <div>include some of the stones with which Satan tempted Jesus in the wilderness, asking him to turn them into bread, and the false bodies of St. David, St. Dunstan, and St. Patrick. The false bodies of these saints have infernal power because they were consciously faked in an attempt to derogate from the dignity of other churches.</div>
 <div>In OGL games, anyone touching an infernal relic gains the benefits of protection from good. The stones with which Satan tempted Jesus also act as a permanent desecrate spell. Also, the bodies have Spell Resistance 22, and Damage Reduction 10/+1. 1</div>
@@ -541,6 +553,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 
+<h2>1William of St. Vigor: OGL Stats</h2>
+
+
 <div sidebars>
 <div>CHAPTER FIVE: THE MONKS</div>
 <div>2nd-Level Aristocrat/9th-Level Diabolist CR 19; SZ M (humanoid); HD 2d8+8 + 9d12+36; 127 hp; Init +8 (+4 Improved Initiative, +4 Dex); Spd 30 ft; AC 17 (+4 Dex, +3 dodge); Atk melee +12/+7 (1d4+2, dagger); Face 5 ft. x 5 ft.; Reach 5 ft.; SA Bestow Curse, Spell-like Abilities, Spells; SQ Ability Bonus, Armor Class Bonus, Compromised Soul, Diabolical Gifts, Hidden Alignment, Save Bonus, Weakness to Holy Items; AL NE; SV Fort +18, Ref +18, Will +22; Str 14, Dex 18, Con 18, Int 20, Wis 20, Cha 36</div>
@@ -564,8 +579,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>gestion 4th level — phantasmal killer, scrying Possessions: Any mundane equipment he</div>
 <div>wants.</div>
 <div>The diabolist prestige class is described in Chapter Ten.</div>
-<div>1William of St. Vigor: OGL Stats</div>
 </div sidebars>
+
+
+<h2>1William of St. Vigor: Ars Magica Stats</h2>
 
 
 <div sidebars>
@@ -588,7 +605,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>unlimited uses per day. (ArM4 page 144) Fires of Lust CrMe 15, unlimited uses per</div>
 <div>day. The target feels strong lustful emotions towards any individual, human or otherwise, designated by the diabolist. Decrepitude: 0 Equipment: Anything mundane he wants. Encumbrance: –0</div>
 <div>All of William’s exceptional talents and his powers are Diabolical Gifts. Thus, they do not affect those in a state of grace. See the rules for diabolists in Chapter Nine.</div>
-<div>1William of St. Vigor: Ars Magica Stats</div>
 </div sidebars>
 
 <div>leads the monks to violate their vows, while the laity are tempted into envy and hostility toward the Church. People hostile to the Church do not often repent and confess, and thus die damned.</div>
@@ -608,6 +624,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>CHAPTER FIVE: THE MONKS</div>
 </div sidebars>
+
+
+<h2>1Prior Eustace: OGL Stats</h2>
 
 
 <div sidebars>
@@ -650,6 +669,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 
+<h2>1Prior Eustace: Ars Magica Stats</h2>
+
+
 <div sidebars>
 <div>THE BLACK MONKS OF GLASTONBURY</div>
 <div>Characteristics: Int +5, Per +5, Pre +5, Com</div>
@@ -688,6 +710,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>CHAPTER FIVE: THE MONKS</div>
 </div sidebars>
 
+
+<h2>2Richard the Sacristan: OGL Stats</h2>
+
 <div>As he believed that there was nothing wrong with controlling these servants of the power of the universe, and that the Gifts they brought were pure, he quickly became a diabolist. The sins he commits to purchase Diabolical Gifts and curses are most often sins of blasphemy and idolatry, as he has convinced himself that these are not sins at all.</div>
 <div>Richard’s Theology</div>
 <div>Magi and educated companions may well be drawn into discussions of Richard’s heretical beliefs, so they are sketched here.</div>
@@ -711,6 +736,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>THE BLACK MONKS OF GLASTONBURY</div>
 </div sidebars>
 
+
+<h2>1Richard the Sacristan: Ars Magica Stats</h2>
+
 <div>while their spirits formed air and fire. As people advanced, they learned to eat the things that remained, and their spirits went on to higher things, forming the stars and heavenly bodies.</div>
 <div>For those whose consciousness can survive, death makes them stronger. However, your power is limited by the power that you attained in life, so an early death is a bad thing. The demons and angels are the spirits of powerful</div>
 <div>men who were not strong enough to become gods. They can be bound to serve the living, and that is a sign of great power in the magician who does so.</div>
@@ -728,7 +756,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Conjuration (gifts) 8, Disputatio (theology) 4 +9, Glastonbury Lore (clergy) 4, Lectio (theology) 4 +9, Occult Lore (demons) 8, Philosophiae (natural) 6, Scribe Latin (theology) 5, Speak Latin (ritual) 8, Theology (heretical) 8 +9 Powers: None Decrepitude: 0 Equipment: Monk’s habit, books, parch</div>
 <div>ment, ink. Access to many of Glastonbury’s resources if he needs them. Encumbrance: –0</div>
 <div>Richard’s Intelligence has a natural value of +5, although it is not naturally Mythic. The boost to his Communication is a Diabolical Gift, however. See the rules for diabolists in Chapter Nine</div>
-<div>1Richard the Sacristan: Ars Magica Stats</div>
 </div sidebars>
 
 <div>now rules with him. The final battle prophesied in Revelation is the battle between Jesus and Enoch for control of the universe. It might never happen, though, because greater men might arise.</div>
@@ -984,6 +1011,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>THE BLACK MONKS OF GLASTONBURY</div>
 </div sidebars>
 
+
+<h2>2New Wondrous Item: Beonna’s Bone</h2>
+
 <div>pawns’ worth of powers. In addition, the staff grants a +5 bonus to the lab total of any magus enchanting it in any way. Only one such staff can be cut from the tree per year. Appropriate Intéllego Herbam or Vim spells of level 15 or higher will tell magi about the vis source and the special properties of the branches. 2</div>
 <div>For OGL rules for vis, see Chapter Two.</div>
 <div>Any rod, staff, or wand made from the special branches of the tree may be enchanted for 75% of the normal gold and XP cost. All prerequisites must be met as normal, however.</div>
@@ -1072,6 +1102,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The faeries (apart from Gwyn himself) may only leave the regio if someone takes them out. They retain their appearance and their abilities, and can</div>
 </div sidebars>
 
+
+<h2>2New Feat: Free Expression [General]</h2>
+
 <div>ence. A faerie forced to return does not simply vanish, but rather uses all his powers to return to the Tor as quickly as possible.</div>
 <div>If a faerie leaves without Gwyn’s permission, he will be angry with her, and will keep her in his realm in some menial form if she is forced to return. If she had permission, and Gwyn is still well-disposed to her, he may lead her out again.</div>
 <div>If any non-living item is removed from the regio by a mortal, it becomes a valueless imitation of its original form. This even applies to gifts from the fay. However, if the item was magical, it retains its magical properties, even though it appears worthless. Thus, if Gwyn gave a character a golden crown that defended her from all swords, the crown might become a few twigs twisted together on leaving the regio, but it would still protect its wearer from swords.</div>
@@ -1090,6 +1123,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Prerequisites: None</div>
 <div>Benefit: In the realms of faerie, a character with this feat can use artistic skills, such as Perform and some Craft skills, to modify the nature of the world. The character describes a new way for the faerie realm to be, and checks the skill against a DC of 20 (or higher, for major changes). If the roll succeeds, the faerie realm changes to match the character’s description.</div>
 </div sidebars>
+
+
+<h2>2Gwynn ap Nudd: OGL Stats</h2>
 
 <div>History</div>
 <div>Gwyn does not really have a history, and his grasp of the passage of time is rather limited. As far as he is concerned, he and his realm have been in Glastonbury forever, and while he knows that the abbey and the church were not always there, he cannot say how long they have been present.</div>
@@ -1113,6 +1149,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>THE BLACK MONKS OF GLASTONBURY</div>
 </div sidebars>
 
+
+<h2>1Gwynn ap Nudd: Ars Magica Stats</h2>
+
 <div>aura around the Tor for a brief time, Gwyn ap Nudd could imprison any of the diabolists, even William of St. Vigor, in such a way that escape was impossible.</div>
 <div>Of course, a powerful faerie lord living in a regio is just the sort of thing that magi tend to mess with, so there is the potential for many stories unconnected with the corruption of the abbey.</div>
 <div>Story Seed: Abduction</div>
@@ -1132,7 +1171,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>ficiary of this power is warded by Magic Resistance of 100 against any force from outside Gwyn’s realm. The protection can only be granted within Gwyn’s realm, and lasts until the beneficiary leaves it. Gwyn is normally under the influence of this power himself. Note that it provides no defense against Gwyn or his faerie servants. Transformation MuCo (Aq/An/Au/He/</div>
 <div>Ig/Te) 40, 1 point: Gwyn can take any form he wants, at will. The might cost applies every time he changes form, including when he reverts to his natural form. Equipment: Castle, faerie realm, faerie</div>
 <div>servants Encumbrance: –0 Vis: 20 Rego, in heart.</div>
-<div>1Gwynn ap Nudd: Ars Magica Stats</div>
 </div sidebars>
 
 <div>turn, is able to manipulate the nature of Gwyn’s realm and thus can come up with new things for the faeries to do. This is a good way to introduce the characters to Gwyn’s court.</div>
@@ -1151,6 +1189,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>THE BLACK MONKS OF GLASTONBURY</div>
 </div sidebars>
+
+
+<h2>2Class Table: The Diabolist</h2>
 
 <div>CHAPTER NINE: 2DIABOLIST PRESTIGE CLASS</div>
 <div>Diabolists have made a deal with the forces of Hell, promising their souls in return for temporal power. The power is real enough, but so is their final damnation.</div>
@@ -1247,6 +1288,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>CHAPTER TEN: DIABOLISM FOR ARS MAGICA</div>
 </div sidebars>
 
+
+<h2>1Demonic Gifts</h2>
+
 <div>a +6 bonus to Brawling by taking two +3 bonuses. On the other hand, a diabolist would get full benefit from a bonus to Dexterity, a bonus to Brawling, and a demonic Knack with brawling. The normal rule that virtues do not stack applies.</div>
 <div>To perform the ritual, the diabolist rolls a stress die + Intelligence + Occult Lore + Conjuration + Speak Latin + Temple Bonus + Infernal Aura + Sacrifice Bonus.</div>
 <div>If this total exceeds the Ease Factor as indicated in the table below, the Gift is received. A Lesser Gift can last for up to a month, while a Greater Gift will last indefinitely.</div>
@@ -1287,6 +1331,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>CHAPTER TEN: DIABOLISM FOR ARS MAGICA</div>
 </div sidebars>
+
+
+<h2>1Diabolic Curses</h2>
 
 <div>victim while he is in a Dominion aura of 5 or higher, but it will return as soon as he leaves.</div>
 <div>Dispelling a diabolical curse requires a Perdo Vim effect with a level of at least twice the curser’s roll.</div>
@@ -1413,6 +1460,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>THE BLACK MONKS OF GLASTONBURY</div>
 </div sidebars>
+
+
+<h2>1 1</h2>
 
 <div>APPENDIX II: BIBLIOGRAPHY</div>
 <div>Ashe, G. Avalonian Quest. London: Methuen, 1982.</div>

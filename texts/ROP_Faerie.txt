@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -47,7 +51,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3></h3>
 
 <div>Faeries are spirits with bodies made of incidental matter, held together with a type of spiritual energy called glamour, and moved with stolen vitality. The bodies of faeries are constructed as temporary vessels for interacting with humans, out of symbolically significant matter. Each interacts with humans through a role, which is a series of symbols that the faerie cannot change, and rules that the faerie cannot break. The intricate mystical rules a faerie must follow are called its glamour, and define its nature and its supernatural powers. The faerie’s glamour also defines how the faerie must appear to humans, and how it seeks vitality. Faeries are drawn, instinctively, to the mutable lives and passionate emotions of humans. Faeries can borrow these capacities from people. This human energy, called vitality by magi who study these things, allows faeries to feel, grow, learn, and age. Many faeries do not know why they are drawn to humans: they lack a quality that Hermetic magi call cognizance.</div>
-<div>Cognizance: Understanding the Need for Humans</div>
+
+<h3>Cognizance: Understanding the Need for Humans</h3>
+
 <div>All faeries require human vitality, and seek it instinctively. This instinct to seek humans, and catch their attention — to bask in their aliveness — is what separates faeries from creatures aligned to the other Realms. Different types of faerie are aware of this need to varying degrees. And faeries can be divided into broad classes based</div>
 <div>on their understanding of the relationship between their glamour, role, and need for human vitality. Examples of the following strata are found in Chapter 4: Faerie Bestiary, and each has its own Virtue, described in Chapter 3: Faerie Characters.</div>
 
@@ -75,7 +81,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Highly Cognizant Faeries</h4>
 
 <div>Highly cognizant faeries are those that may seek out creative humans, because they are aware that these humans provide opportunities for self-redefinition. If they wish to, these faeries can develop new powers by tricking or bargaining with humans. With sufficient human vitality they can change roles, allowing them to become a completely different sort of faerie. Highly cognizant faeries are little concerned by the loss of their bodies, creating and dissipating them as required. Highly cognizant faeries are rare.</div>
-<div>Glamour: Rules Instead of a Soul</div>
+
+<h3>Glamour: Rules Instead of a Soul</h3>
+
 <div>Glamour, the term that players are most likely to have heard in relation to faerie magic, is not used outside of a small piece of Scotland in Mythic Europe. It’s a mispronunciation of the word “grammar.” Faeries emerge from, and change the world through, a set of rules concerning the appropriate placement of symbolic things in relation to each other. Each role has a particular set of rules: its own grammar. Faeries cannot break their glamour. A faerie who ceases to fulfill its role simply fades away, or perhaps retreats into Arcadia until it re-emerges, in some other form, to participate again in the game of grammar. Etiquette and symbolism are vital to faeries because doing things in the correct way, fulfilling a role in a story, holds the faerie’s body and psyche together.</div>
 <div>Faeries become more powerful when they participate in stories. A story, to a human, is series of events that will entertain others when recounted after they are complete. To a faerie, a story occurs when symbolic objects and events are placed in sequences that shake vitality free from humans. A faerie need only be an incidental character in a story to harvest some vitality from the human participant. Faeries are fascinated by stories because faeries are living story elements.</div>
 
@@ -101,7 +109,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Faeries pretend to have human Abilities, but instead simulate them with minor magi</div>
 <div>cal powers called Pretenses. Pretenses do not cost Might, and faeries use them without Concentration — they are an expression of glamour. Players use the mechanics for Abilities when using Pretenses, but faeries cannot learn Abilities through experience as humans do. They instead develop the power to mimic superior human models, causing their Pretense scores to rise through the methods described in Chapter 3: Faerie Characters. If the faerie is deliberately using a Pretense to accomplish things no human could, then any character who is a master of the simulated Ability notices this immediately. Other characters may notice, or not, depending on their level of credulity. A character who has mastered an Ability, which is represented by a score of 6 or more, may notice that the faerie is using subtle magic instead of that Ability, even if it stays within human possibility. This requires a Perception + Awareness check of 12 – the Ability score the faerie is pretending to have. The fata, for example, are faeries who inconspicuously join the sessions of weaving and gossip among elderly ladies in some villages. These women, who are mistresses of the craft of weaving, might notice that the fata’s fingers are not making all of the movements required to weave cloth, and are not moving fast enough to create it in such volume. It’s rude to point this out, because it tells the fata she is playing her role badly and scares her away, but they watch what they say in her presence.</div>
-<div>The Open Body is Vulnerable to Glamour</div>
+
+<h4>The Open Body Is Vulnerable To Glamour</h4>
+
 <div>Any opening of the body allows faeries to attempt to influence the character of a human. Parts of the person can spill out and be taken by the faeries, but also, faeries can slide their glamour into the person and enthrall him. These links can be purged by contact with Traditional or Sovereign Wards, which are described in greater depth in Chapter 3: Faerie Characters. By speaking, the character lays himself open to fairy dominance, because the faerie has the right to reply. And when the faerie’s words enter the character’s head, they can carry a piece of glamour. Humans can also change the faerie with their eloquence, and Free Expression Virtue. This is why faeries so often paralyze the tongue of their victims, or forbid them to speak. Speaking to a faerie creates an Arcane Connection to that faerie with a Penetration multiplier of 2 that endures until the conversation ends. If a character eats the food of a faerie, the character becomes the guest of the faerie, and, like medieval guests, cannot leave the court without permission. By eating the host’s glamorous food, the guest takes a fragment of the host’s power into his body. This makes him part of faerie society — a servant of the one whose food he ate. This also creates an Arcane Connection to the glamour the character carries, with a Penetration mul</div>
 
 <div sidebars>
@@ -114,7 +124,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>tiplier of 2 that continues until the character is permitted to leave. Wounds bring the character closer to the faeries that guard the border of mortality, or who are themselves the dead. When a character is wounded, he is effectively leaking the vitality that fairies crave, and this may make them act in ways uncharacteristic of their roles. A character whose blood is taken or tasted by a faerie has an Arcane Connection to that Faerie with a Penetration multiplier of 3 until the wound heals.</div>
 <div>Sex with a faerie can create Arcane Connections, and allow the body of the victim to be controlled by the faerie. While carrying a faerie’s child, a human mother sometimes develops supernatural powers; but the faerie father can usually find her, and often wishes to steal the baby away. Intercourse with a faerie creates an Arcane Connection to that faerie with a Penetration multiplier of 4 during the intercourse. Pregnancy creates an Arcane Connection between the parents with a Penetration multiplier of 5 until it ends.</div>
-<div>Vitality: Energy to Act and Change</div>
+
+<h3>Vitality: Energy to Act and Change</h3>
+
 <div>Some humans have more vitality than others do. Faeries subconsciously sense this greater supply of nourishment, and seek it out. Humans are more vital when their emotions are roused. Some humans have the ability to find new ways to feed vitality directly to faeries, and other humans can follow the feeding methods that creative individuals establish. Humans are more vital when they are about to enter or leave a stage of life. Humans also carry vitality in the physical structures of their bodies, so some faeries eat people, or suck their vitality away with their blood.</div>
 
 <h3>Stories Guide Humans and Faeries</h3>
@@ -126,7 +138,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Some faeries, through repeated, similar interactions with humans, develop a preference for a particular expression of vitality. This faerie’s presence and behavior then enter local folklore. Stories about the faerie are told to younger members of the community, so they know how to interact with their strange neighbor. If the story spreads to other places, new faeries are drawn to the story and the human vitality it promises. In this way, new species of faeries, demonstrating minor regional variations, can spring up in the wake of a quick-moving story that captures the imagination of those who hear it.</div>
 
 <div sidebars>
-<div>Where Are the Rules for Faeries Feeding on Vitality?</div>
+
+<h3>Where Are the Rules for Faeries Feeding on Vitality?</h3>
+
 <div>There is no numerical system for vitality. Faeries do not gain a number of vitality points when watching a story conclude, and then spend a number of vitality points per year to survive, or to gain new powers. Faeries can survive indefinitely without vitality; they just never want to. Faeries always want more vitality, re</div>
 <div>gardless of how much they already have. They are chronically addicted to people, as part of their Essential Nature. This is what differentiates faeries from magical spirits, who care about humans if it suits their nature or purposes, but do not incessantly desire human attention.</div>
 </div sidebars>
@@ -140,7 +154,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Traditional Offerings Feed Faeries</h4>
 
 <div>Traditional offerings are the pivotal elements in simple tales. Each bowl of porridge left on the doorstep, tiny suit of clothes on the mantel, or pot of cream in the dairy also expresses a little hope or fear, which faeries can feed upon. Pagan gods were, some magi conjecture, fed with a similar mechanism, although on a far larger scale. Violent faeries are fed by the traditional wards that protect against them. There is little difference, metaphysically, between a brownie given milk on the doorstep and a vampire given a tribute of garlic over every windowsill, although the vampire and brownie lack the cognizance to realize this.</div>
-<div>Certain Types of Theft Feed Faeries</div>
+
+<h4>Certain Types of Theft Feed Faeries</h4>
+
 <div>Some faeries can consume the vitality out of particular objects, even if they are not offered as part of a traditional transaction. These faeries are likely to be thieves, because they do not see ownership in human terms. Individual faeries may draw strength from various objects, but the things they steal all seem to possess a natural vitality. Faeries have been found that are able to feed on milk, ale, wine, leavened bread, moldy cheeses, and gemstones. (Most gemstones, in Mythic Europe, reproduce sexually deep beneath the surface of the Earth, after all.) It may be that some faeries can naturally feed on the vitality of these items, or that these are the offerings of forgotten traditions. Faeries lack human concepts of ownership, and may see a human going to the effort of baking bread, milking a cow, or mining a stone, and then leaving it unowned, as a form of offering.</div>
 
 <h3>Spirits of the Borders</h3>
@@ -164,7 +180,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 <div>tion with generations of future heroes. Each will defeat the faerie, and in so doing, feed it attention and violent passion.</div>
-<div>What Are Faeries Like When Not Seeking Vitality?</div>
+
+<h3>What Are Faeries Like When Not Seeking Vitality?</h3>
+
 <div>Magi don’t agree on what faeries are like when they are not interacting with humans. The key problem for researchers is that faeries will provide confirmatory evidence for any theory, if it will lead to further research. Faeries treat attempts to understand their nature as a form of traditional offering, and try to complete stories around the researcher’s dream of enlightenment or glory. Many theories about faeries are popular, though, and different theories may be true for different faeries, or even for the same faerie depending on whether it’s in Arcadia and the mundane world. These possibilities include:</div>
 <div>• Faeries have permanent identities and a complex society in Arcadia, hidden behind a defensive façade of stories. • Faeries act freely when humans are not watching, but select a role suited to their audience when a human is encountered. • Faeries act freely when unobserved, but are forced into a role that suits an observer. • Faeries continue to play their role in whatever story they were last involved with, until they find a new audience. If the story concludes, it begins again, repeating endlessly until a human intervenes. • Faeries don’t do anything when people aren’t watching. They just wait for human observers. Humans that repeatedly visit a group of faeries may not realize that the faeries lose motivation in their absence. When the faeries restart the story, they may skip events so that, to the human, the narrative seems to have progressed. • Faeries don’t even remain physically incarnate when people aren’t watching. It is impossible to find the same faeries repeatedly. When humans appear, a faerie present will adopt whichever available role is most prominent and likely to</div>
 <div>allow a harvest of vitality, and so often switches characters. • Faeries cease to hold their roles when people cease to observe them, even for an instant, and new faeries seize each role as human attention returns.</div>
@@ -226,7 +244,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Regiones (see ArM5, page 189) are very common in Faerie areas. They are caused by an affront or injury to the glamour of the presiding faerie in a regio.</div>
 
-<h4>Finding A Regio Entrance</h4>
+<h4>Finding a Regio Entrance</h4>
 
 <div>Faerie regiones are often far easier to enter than the regiones of the other Realms. Magi who study Faerie suggest that this is because the faeries desire humans to seek them. A character almost always enters the regio by performing an action, and a character who has successfully perceived the correct action can explain it to others, but cannot perform the action on their behalf. For many regiones, the action is simply walking through a symbolic doorway, but it may include defeating a particular menace or solving a riddle. Characters may find the entrance to a faerie regio in several ways. A character with Faerie Sight, Second Sight, or Magic Sensitivity can, at an appropriate place, read how to enter the next level of a faerie regio with a Perception + Awareness roll against an Ease Factor of (5 + twice the difference between the current aura and the next level). Characters seeking regiones sometimes gain one of these Virtues temporarily by using folk charms. If the faerie that claims the region wants the characters to enter, they can. The faerie may send a minion to make the entrance obvious, by guarding it for example, or may make it seem that the character can find his own way in. For example, a mother who can hear the cry of her stolen child, guiding her</div>
 <div>into the regio, may well be listening to a faerie imitating her baby. A person who has learned the symbolic action required to enter, either from a human who has perceived it or from a faerie guide, may perform it. A person with an Arcane Connection to something in the regio, and the ability to sense Arcane Connections, can automatically find the entrance by following the connection, but will not necessarily know the required action Regio entrances can be seen with Intellego Vim spells, like Piercing the Faerie Veil (ArM 5, page 158). A character whose True Love is within the regio can always find the entrance, and although he will not necessarily know the method of entry, faeries, either serving the regio’s principal or stealing some of the vitality from the story, will give it to the character, although this may involve some other trial. A character who has found an entrance, but does not know the action required to open it, may use Faerie Lore to guess it, based on the motif of the local faeries. This requires an Intelligence + Faerie Lore  roll against an Ease Factor of 15. This target is reduced if the story the faeries are telling reduces the range of likely actions, so that the magus is simply weighing their suitability. For example, if the magus is told that before a particular door will open he must either blow a horn or draw a sword, and if he chooses incorrectly he will be cast out, then the Faerie Lore roll has a target of only 3. This choice is common in folklore, and the magus understands clearly what each tool symbolizes, so he knows he needs to blow the horn to open the door. Also note that if a regio leads to Faerieland, then the principal faerie of the regio is often the threshold faerie. Entrances to Faerieland from a faerie regio are treated as regio levels with an aura of 10, unless a trod runs through the regio. Then the rules for trods, given in Chapter 2: The Realm of Faerie, apply.</div>
@@ -246,7 +264,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>When two powerful faeries clash over a site, they play a game of symbols that may result in the glamour of one infecting the other. This makes the victorious faerie the principal faerie of a site, dominant over the other, but not to such a degree that the lesser faerie is drawn into the immediate orbit of its superior. This, too, creates regiones: the humans see their real world as interpreted by the increasingly powerful faeries that they encounter, which are progressively more-potent lieutenants of the principal faerie. Each level of the regio corresponds to a discrete series of tests that the human must face. If the experience were written as memoir, each chapter in the book would represent one regio level in the magus’ quest. Jerbiton magi often report that a prin</div>
 <div>cipal faerie prefers to have two lieutenants, with each of the three supervising one level of a regio. Merinita magi dispute this. They suggest that complex regiones are rare, and that the faeries are just responding to the observing magi, giving them encounters that have the five-act structure of a play by Seneca because Jerbitons enjoy that structure. Regardless of whether this structure is indigenous to the faeries for mystical reasons, used by the fairies because humans respond emotionally to trinities, or provoked by humans, it is common. In the five-act structure, humans are motivated to visit the faeries by something outside the regio. Though those who criticize this structure note that the provocation of human action is often a servant of the principal faerie. In the next two encounters, the human quester draws closer to the final confrontation, gathering information and equipment while being exposed to the motif of the regio, and two variations on a moral or theme. In the highest level of the regio, the human has a final confrontation after which his success or failure is obvious, and he leaves the regio. The human then returns to real life, either stronger or weaker for the story’s outcome.</div>
-<div>Some Regiones Are The Past Made Present</div>
+
+<h4>Some Regiones Are the Past Made Present</h4>
+
 <div>Many humans see faeries as linked to the past. This is particularly apparent in areas where the dominant group displaced another tribe to gain its land. In part, this is because when one nation invades another, they often bring alien supernatural forces that subdue the indigenous faeries. In areas where invasion occurred, some faeries, rather than flee or accept secondary status, instead enter exile and recreate the lands and customs of the displaced tribe, so that their stories can continue undisturbed.</div>
 
 <h3>Time in Faerie Regiones</h3>
@@ -299,7 +319,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The Faerie Realm is ever-present in the sub-lunar world, and yet just out of reach. It is described in folk tales as being “just over the next hill,” or “beyond the ninth wave,” or “between the beating of the heart and the breath,” and so forth; all are metaphors for its simultaneous closeness and distance. The mundanity of the world repels Faerie just as humanity attracts it. As a result, humans can only reach the Faerie Realm if they can reject (albeit temporarily) the routine of their banal life and accept the fantastic and fabulous as the rules through which the world works. Every time a mortal becomes lost in a story, entranced by a sunset, or is overcome by celebration, he can be touched by the Faerie</div>
 <div>Realm; and sometimes it only takes a small nudge to push him the rest of the way into the Realm of Enchantment. Scholars of Faerie refer to the simultaneous attraction and repulsion of Faerie for the mundane world as the Threshold. In certain places, at certain times, the attraction is greater than the repulsion, and Threshold comes closer. For example, the unfettering of the human mind through artwork designed to invoke wonder can attract the Threshold closer, as can an individual who is on the verge of a personal life change. Finally, the Threshold can be crossed with supernatural assistance; some faeries can assist the passage into Faerie, as can practitioners of Faerie Magic. Those learned in the ways of the faeries (i.e. who have Faerie Lore) can deliberately attract a Threshold by manufacturing the right set of conditions, but some visitors to the Faerie Realm get there entirely by chance. The Faerie Realm can be entered anywhere, even in regions under the Dominion, if the conditions are right. Practically, however, unless one is in a powerful Faerie aura it is exceptionally difficult to access the Faerie Realm unless many factors align perfectly to attract a Threshold. To enter the Faerie Realm, the characters — through circumstance or action — must accumulate a number of Threshold points equal to the Threshold strength:</div>
-<div>Threshold Strength: (13 – aura modifier) x 3</div>
+
+<h4>Threshold Strength: (13 – Aura Modifier) X 3</h4>
+
 <div>The aura modifier is the strength of the local aura, multiplied according to the Realm Interaction Table (ArM5, page 183) as if this was a Faerie Power in action. For example, in a Faerie aura of 3 the Threshold strength is 30 (13 – Faerie 3) x 3, whereas in a Dominion aura of 3 the Threshold strength is 75 (13 – (–4 x Dominion 3)) x 3. Thresholds are closest to the world in Faerie regiones: add the aura modifier for any base Faerie aura to the aura modifier of the regio before determining the Threshold strength, but ignore the existence of any aura other than a Faerie one. Thus, a Faerie regio of aura 5 that overlays a Faerie aura of 2 has an aura modifier of 7 (for a Threshold strength of 15), but if the regio instead exists over a Dominion of 3, the aura modifier is still 5 (for a Threshold strength of 24). Note that the mechanics for entering the Faerie Realm are wholly different from those for entering a regio — Abilities such as Second Sight or Intellego Vim spells do not help at all.</div>
 
 <h3>Sources of Threshold Points</h3>
@@ -363,7 +385,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Arcadian Mysteries</h4>
 
 <div>There are members of House Merinita who possess the Mystery Virtue of Arcadian Travel (see Houses of Hermes: Mystery Cults, page 92). They must construct an appropriate charm (a physical object or a performance) to enact this ability, requiring either a Dexterity + Ability roll (for an object) or a Communication + Ability roll (for a performance) against an Ease Factor of 18. Making the charm takes at least 10 minutes. If the charm is successful, the magus gains his Arcadian Travel Total in Threshold points:</div>
-<div>Arcadian Travel Total: stress die + Perception + (Ability used to make the charm) + aura</div>
+
+<h4>Arcadian Travel Total: Stress Die + Perception + (Ability Used To Make the Charm) + Aura</h4>
+
 <div>The magus can take a number of people with him by using this charm that is equal to his Faerie Magic score, so long as they all participate in the activation of the charm. This variety of charm is only available to those with the Mystery Virtue of Arcadian Travel.</div>
 
 <h3>The Guardian of the Threshold</h3>
@@ -400,7 +424,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The imagery of the Faerie Realm as a road, and adventures therein as journeys, is a pervasive metaphor. After all, stories them</div>
 
 <div sidebars>
-<div>The Power of God in the Faerie Realm</div>
+
+<h3>The Power of God in the Faerie Realm</h3>
+
 <div>As the home (and perhaps source) of all things fay, the beings found in the Faerie Realm are subject to the same restrictions as those found in the mundane realm. Faeries with traditional or sovereign wards (see Chapter 3: Faerie Characters) involving religious symbols are affected by them just as strongly on their home turf. The power of God permeates the Faerie Realm just as it does all creation, so characters with True Faith, miraculous powers, or relics find these things just as potent as they are elsewhere.</div>
 </div sidebars>
 
@@ -420,8 +446,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Characters are not bound to obey the laws of the Faerie Realm in the same way that its inhabitants are, but if they deny the fantasy of what they are experiencing in favor of a mundane solution, they exert less control over the outcome than those who revel in the experience. Vitality is the power of stories that nourishes faeries (See Chapter 1: Nature of Faerie). While they are in the Faerie Realm, humans can spend some of their vitality by partaking in stories, and receive in fair exchange a measure of control over those stories. Characters adventuring in the Faerie Realm accumulate fable points when they ac</div>
 <div>cept the glamour of the realm as reality and play along in the story they are experiencing (and writing!) — that is, whenever they spend vitality. These fable points contribute to a fable score that represents the control that the character has over the Faerie Realm itself through the vitality he has spent. The first fable point gained by a character is immediately converted into a fable score of 1. Further points can be used to increase one’s fable score further, or to exert influence over Faerie. To increase one’s fable score requires the expenditure of a number of fable points equal to the current score plus one. Thus, if a character’s fable score is 5, it takes 6 fable points to increase the score by 1 point. To influence the glamour of the Faerie Realm, a fable point can be spent to gain a bonus to one roll equal to the character’s current fable score:</div>
-<div>Fable Point Expenditure: +(fable score) to one roll</div>
-<div>Increase Fable Score: fable points equal to 1 + (current fable score)</div>
+
+<h4>Fable Point Expenditure: +(fable Score) To One Roll</h4>
+
+
+<h4>Increase Fable Score: Fable Points Equal To 1 + (Current Fable Score)</h4>
+
 <div>Fable points can also be spent on enacting more-substantial changes to the story; see Creativity in the Faerie Realm, later. In addition to influencing Faerie, the fable score reflects how much faerie has influenced the character. See Becoming Faerie Through Fable, later. A human character cannot have a fable score unless he is in the Faerie Realm — all fable points and fable score disappears upon leaving Faerie. And if a character returns to Faerie he begins with no fable points or fable score, regardless of whatever total he achieved on a previous visit.</div>
 
 <h4>Gaining Fable Points</h4>
@@ -444,7 +474,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Crafting an Offer</h4>
 
 <div>Offers are usually made verbally, using either the Charm or Profession: Storyteller Ability. Performance artists may use other professional Abilities, and a crafter may work her hopes into an object, and offer it instead. Crafted offers take the same amount of time to make as a mundane object, and thus this is not a favored option while in Faerie, except for simple crafts like whittling. Although some items can be prepared before entering the Faerie Realm and finished in a fraction of the usual time. An offer constructed with insufficient skill always fails, because the faerie cannot comprehend its value.</div>
-<div>Offer Total: Communication + Charm or (Profession) Ability or (Craft) Ability + Offer Modifier + Promise Modifier + Change Modifier + stress die</div>
+
+<h4>Offer Total: Communication + Charm Or (Profession) Ability Or (Craft) Ability + Offer Modifier + Promise Modifier + Change Modifier + Stress Die</h4>
+
 <div>Making an offer requires the expenditure of a fable point and a Long Term Fatigue Level; along with the promise (see later), these sacrifices provide the vitality needed to enact a change to the whole realm of Faerie. The cost of fable points and fatigue are incurred whether or not the offer is accepted, but the character is not bound to his promise if the offer is not comprehended. The Ease Factor required to make a change using creativity does not depend on the extent of the change. Instead, it depends on the size of the obstacle that the change allows the human protagonist to overcome. The more that a change simplifies the completion of the story, the greater the compensation the principal faerie’s glamour demands for the vitality the human refuses to express when overcoming the obstacle. The table given here classifies threats by the degree of harm they are likely to cause the individual human, if not overcome by the intended change. Faeries tell stories that suit the humans available, and scale the level of challenge so that it forces the human into an optimal emotional state. The ruggedness</div>
 <div>of individual humans varies, which means that a peasant with a fine singing voice may find a sprite a deadly threat, while a minstrel supported by a cadre of Merinita magi and their grogs might find a giant trivial.</div>
 <div>Ease Factor: 6 Threat Level: Trivial Effect: A threat of this level causes discomfort and inconvenience, but rarely causes wounds.</div>
@@ -489,7 +521,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Change Modifier: –3 Desired Change: Change the motif of a faerie so that the characters gain a substantial advantage. This may be expressed by changing the motif of the faerie to another, strongly related motif.</div>
 <div>Change Modifier:  –6 Desired Change: Change the motif of a faerie comprehensively. This may be expressed by changing the motif of the faerie to another, tenuously related motif.</div>
 
-<h4>An Example of Using Creativity</h4>
+<h4>an Example of Using Creativity</h4>
 
 <div>The characters are in the woods of the Queen of Winter, and are trekking to her palace. A closing blizzard is a Serious threat (Ease Factor 12). One of the player characters is a minstrel with a Communication + Profession score of 8 and the Free Expression Virtue, which provides him with a base Offer Total of 11, before the stress die and bonuses. He knows that he can use his art to change the way the story is progressing, but pauses to consider his options, and ask his magi for advice. He can:</div>
 <div>• Have one of the nearby trees change into a hut, to hide from the storm (+3 changes a single object, –6 requires only mundane actions), for –3 on his roll and few repercussions; • Sing the ground around him into spring (0 changes environment, –6 requires only mundane</div>
@@ -512,7 +544,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 <div>might decide to spend a season studying in Arcadia on the assumption that a miniscule amount of time might pass in the real world. However, this never works. The very essence of the Faerie Realm is story, and adventure will quite literally come knocking on the character’s door. Furthermore, the resolution of even the tiniest of nuisances ends the story and the character finds himself back in the mundane world.</div>
-<div>Warping and the Passage of Time</div>
+
+<h3>Warping and the Passage of Time</h3>
+
 <div>None leave the Faerie Realm unscathed. Those characters who reveled in the stories they played out may have been assisted by the vitality they accumulated (in terms of fable points), but this vitality means that they are more likely to suffer permanent effects from the adventure in terms of Warping points. Further, these characters may discover that they have been away much longer than they believed; and that weeks, months, or even years have passed when they thought it was merely days. Conversely, characters who stubbornly resist the lure of the story have a more-difficult time resolving the issues to effect a return home (since they do not accumulate fable points to spend), but by avoiding the story they have resisted the transformative effect of the Faerie Realm’s glamour, and escape with little or no Warping. Additionally, by rejecting Faerie it rejects them in return, and the whole experience in Faerie may take less time than they believed. Once the story is over and the characters</div>
 <div>are ready to return home, convert any remaining fable points into fable score, if possible. The final fable score determines the speed by which time passes in the mortal world:</div>
 <div>Fable 1 Faerie Score Day Lasts ... 0 1 hour 1 12 hours 2 1 day 3 3 days 4 1 week 5 1 month 6 1 season 7+ 1 year</div>
@@ -531,7 +565,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>• Time passes at the rate determined by the rescuers. • As above, but the rescued person ages the number of years difference. • Time passes at the rate determined by the rescued character. • The rescued character disappears upon reaching the mundane world, only to reappear years later after the appropriate time has passed. • The rescued person is replaced by an exact faerie replica. • Nothing untoward appears to happen at all.</div>
 </div sidebars>
 
-<div>Realms of Power: Faerie Spinning Tales in the Faerie Realm</div>
+
+<h3>Realms of Power: Faerie Spinning Tales in the Faerie Realm</h3>
+
 <div>Stories that take place in the Faerie Realm are fairy tales in a way that tales involving faeries in the mundane world are not. In worldly stories, it isn’t possible for a peasant to become a prince, but in Faerie this is not only possible, but expected. Advice on running faerie stories in general can be found in Chapter 7: Telling Faerie Stories, but when using these ideas for adventures in the Faerie Realm you can be less inhibited. Here the fabulous is commonplace and marvels can be bought for two a penny. Due to this loosening of the bounds of the credible and the banal, stories spun in the Faerie Realm should be more vivid than would normally be entertained, and perhaps more bizarre. One way to make a clear separation between faerie stories in the mundane world and those in the Faerie Realm is through audience participation.</div>
 
 <h3>Audience Participation</h3>
@@ -539,12 +575,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Fairy stories are not static things. Every storyteller worth her salt embellishes a tale as she spins it, making it truly hers. The story is thus invested with the teller’s own creativity, and has appeal even to those who have heard it before. In this vein, stories that take place in the Faerie Realm need not be fixed and immutable. While the story has defined dramatis personae and acts, the playing out of those acts by player characters can often take an unexpected turn, and in the Realm of Stories itself, this should be even more true. Allowing the characters to change the stories that they are experiencing through the expenditure of fable points (see Creativity in the Faerie Realm, earlier) puts some of the power into the hands of the players. Another effective way to make the players invest in the tales of the Faerie Realm is to offer some of the control of the plot to them directly. This can be done in two principle ways. Playerdriven stories are those in which the players decide even the gross elements of the scenery and the characters they meet, although the storyguide still controls the underlying plot. Alternatively, player-influenced stories</div>
 <div>allow a player to change the events that affect his character without changing the flow of the story too dramatically.</div>
 
-<h4>Player-Driven Stories</h4>
+<h4>Player-driven Stories</h4>
 
 <div>An effective way to introduce the wonder and malleability of a story set in Faerie is to place the reins of the adventure initially in the hands of the players. Imagine this: a group of characters have a reason to enter the Faerie Realm. They perform a rite to attract the Threshold and step onto the Path of Chance. They encounter the Guardian, and negotiate the onwards journey. The storyguide then announces to her players: “leaving the Guardian behind, you proceed deeper into the Faerie Realm. Before you lies the landscape of Arcadia. What does it look like?” Suddenly, the control of the story is in the hands of the players. After initial confusion (mirrored by the confusion of their characters, no doubt), they begin to describe the scenery before them. The storyguide should ask more questions to clarify the scene before them, looking for ways to integrate one of her story elements, and ensuring that the scene is properly populated with potential storyguide characters, if appropriate. The scene’s contents are described by the players, but their role is determined by the storyguide. The players might describe a snow scene complete with the Queen of Winter, but the storyguide determines whether the queen will be a protagonist, antagonist, or simply background color in the story. This technique may only really works the first time that a group of players experience Arcadia. After the first visit — indeed,</div>
 <div>after the first few scenes of the first visit— this technique quickly loses its focus, and the storyguide will need to exert some control over the story to ensure that it includes the elements she has planned. However, some troupes may take to the freeform nature of this technique, and decide to continue with player-driven stories rather than adopting a more traditional style of gaming.</div>
 
-<h4>Player-Influenced Stories</h4>
+<h4>Player-influenced Stories</h4>
 
 <div>An alternative to the player-driven stories, but still not returning wholly to the storyguide-driven stories of the mundane world, are those stories in which players influence the outcome of certain events in a way that enhances the enjoyment for all without abandoning the point of the story itself. This can be done by issuing each player with a generic plot device that he can use once during the adventure in the Faerie Realm. A plot device should be encapsulated in a succinct phrase or proverb, such as “misery loves company” or “never judge a book by its cover,” and given in secret to the player. At any point in the game, the player can elect to influence the plot by employing his device, which he should do by revealing the device to the storyguide and briefly outlining how the device can be used to change the current situation. A plot device is applied to the player’s own character, and can change the situation for that character only; although storyguide characters and perhaps any pooled characters may be indirectly affected. A plot device cannot directly influence another player’s character. The storyguide should try find a way to integrate the</div>
 
@@ -560,7 +596,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>suggestions of the player into the scene, but is not obliged to do so and can always veto the use of a plot device if it does not seem appropriate. If the plot device is refused by the storyguide, then the player can attempt to use it later on in the story. Example: In the court of the King of Summer, Mark’s character accidentally insults the king, and is condemned to imprisonment awaiting judgment. Richard (another player) employs his “misery loves company” plot device, and suggests to the storyguide that his magus is condemned along with the offending character, as Richard feels that the two characters together may be able to make an escape. Their storyguide agrees, and the king deems that since the magus laughed at the insult, he will suffer the same fate as the slanderer. Note that Mark couldn’t have used the same plot device to drag Richard’s magus into the same fate as his own character, because plot devices do not work on another player’s character. Plot devices should not be tailored to the specifics of the story. That is, the successful resolution of a story should not be dependent on a player employing the plot device assigned to him. Plot devices are assigned to players, not characters. If you are using the troupe-style play of Ars Magica Fifth Edition, then the player should use his plot device on his magus or companion character rather than any grog character he is currently</div>
 <div>running. However, this is not a hard and fast rule, and the plot device should be employed where it will improve the game the most. Successfully employing a plot device is worth the reward of a bonus Confidence point at the end of the story, and also earns the character to whom it was applied a fable point.</div>
 
-<h4>Pitfalls in Player-Run Stories</h4>
+<h4>Pitfalls in Player-run Stories</h4>
 
 <div>Player-driven or player-influenced stories are an effective storytelling technique, but the storyguide must be careful not to allow her players to dominate the story. She must be prepared to veto any player input that threatens to unbalance the game or wreck her plotlines. However, this power of veto should be used sparingly, else why bother with player input in the first place? Remember that player-driven elements cannot determine the role of any given element, only its description, so a player cannot create a plot-breaking device. A player-influenced device is similarly limited in that it can affect only a single scene (and only the player’s own character), so there are no “get out of jail free” devices that bypass the challenge presented by the story. Another pitfall to avoid is familiarity. If the characters are (un)lucky enough to make</div>
 <div>another trip to the Faerie Realm, change the rules. If you used player-driven plots before, use player-influenced ones this time. Faerie in general — and Arcadia in particular — should never be predictable.</div>
@@ -581,9 +617,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>which the heroes (i.e. the characters) acquire the Drum, in that he knows where it is hidden. But since he is under Arduinna’s power, he can’t tell anyone. Finally, the Wounded River (a strange combination, but it came up at random and Andrea liked the idea of a river of blood) is where the drum is hidden, but Andrea also decides to link it to Arduinna, in that she bathes there every day to refresh her Might. From starting with a handful of elements, Andrea has invented a story in a matter of minutes that has the feel of a faerie tale. She doesn’t know the details yet, but the framework is there already. Since she already knows that the characters will be entering Arcadia using a river as a geographical boundary, she decides that this will become the Wounded River once they cross the Threshold, making it the first story element to be encountered. They will then encounter a Transference act that takes them either to Arduinna (initiating a Reconnaissance) or Lofanneth (initiating a Receipt).</div>
 </div sidebars>
 
-<div>Realms of Power: Faerie The Path of Chance</div>
+
+<h3>Realms of Power: Faerie The Path of Chance</h3>
+
 <div>Arcadia is the most common destination of mundanes entering the Faerie Realm because any of the conditions that attract a Threshold can lead to the Path of Chance. Trods — which are by far the most common routes into Faerie — almost all lead to Arcadia, as do extemporized works of artistic endeavor.</div>
-<div>Typical Arcadian Guardians of the Threshold</div>
+
+<h4>Typical Arcadian Guardians of the Threshold</h4>
+
 <div>Arcadian Guardians of the Threshold are most commonly animals or humans, although the other types of guardians do occur. It is common for the Guardians who block the Path of Chance to place some form of blessing or prohibition on characters who choose to continue on the path. Some examples follow.</div>
 <div>• 	 A woman, unbelievably old, is wrapped in a warm woolen shawl. Those who accept her invitation for a meal in the safety of her hut miss the Threshold. Those who politely decline are given a friendly warning not to eat any food they’re offered. • 	 A terrapin who has fallen onto his back pleads with the characters to restore him to the safety of his pool, which he says is just around a nearby thicket. In reality, that path leads them back to the mundane world. He may curse the characters who pass him by, promising them misfortune near water. • 	 A sibyl with a book under one arm containing her prophecies. She warns them to return to whence they came for she has foreseen a dire fate for them. If they inquire of this fate but are resolved to continue, the doom she utters is sure to come about. • 	 A goose stands at the fork in a path. She states that one path leads to safety (without revealing that this equates to the mundane world), but the other leads to excitement and peril. Should they choose the latter, she’ll grant them a gift to aid them against the dangers they will face. • 	 A thicket of wild roses, the color of sunset. The tangle is almost impassable, and those who attempt it are sure to be pricked by the poisonous thorns, and yet make it through to Faerie. • 	 A sphinx who declares that none shall pass unless they can tell her a riddle she cannot answer. Those who succeed are punished for their cleverness.</div>
 
@@ -607,7 +647,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>It might seem surprising that biblical stories could be part of adventures set in the Faerie Realm. However, they fit all the requirements for Elysian stories, in that they are told often and they provoke an emotional response in the listener. The</div>
 <div>Old Testament, in particular, is filled with highly appropriate stories. Although many of the characters in these stories are suspected to have possessed Divine Powers, in Elysium they have Faerie Powers. Remember that these characters are not actually the prophets and kings of history, just faeries who are playing their roles. No-one has ever recounted an attempt to embark on an Elysian story taking the role of Christ, these being too blasphemous for most characters to consider.</div>
 <div>• 	 Lot’s escape from Sodom and Gomorrah (Genesis 18–19) • 	 Jael and Sisera (Judges 5–6) • 	 Samson and Delilah (Judges 13–16) • 	 David and Goliath (I Samuel 17) • 	 King Jereboam and the Prophet (I Kings 13) • 	 The Testing of Job (Job, passim) • 	 The Conversion of Saul (Acts 9)</div>
-<div>Legends of Ancient Greece and Dead Rome</div>
+
+<h4>Legends of Ancient Greece and Dead Rome</h4>
+
 <div>The transmission of ancient Greek legends to the medieval period is far from complete, and only educated men are familiar with them. And even then, such stories are only commonly encountered as counter-examples to a good, Christian life. The later history of Rome — that is, outside of the legendary period and into the history books — also provides a wealth of stories.</div>
 <div>• 	 The Sorrows and Labors of Hercules • 	 The Sack of Troy • 	 Theseus in the Underworld • 	 Prometheus, Epimetheus, and Pandora • 	 The Flight of Icarus • 	 Romulus and Remus</div>
 
@@ -621,7 +663,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The medieval fascination with the romances of King Arthur and his court has yet to reach its peak, and yet many stories are already well known in parts of Mythic Europe, particularly France and England. Sir Lancelot has yet to make an appearance in his familiar form, and the legend of the Grail Quest has not been fully realized, but many familiar elements are already in place. The chasons de geste of French-speaking lands and the Märchen of German lands constitute the principle cycles of non-Arthurian epics, which together with local folk tales constitute a rich heritage of storytelling in Mythic Europe.</div>
 <div>• 	 Perceval • 	 Gawain • 	 The Song of Roland • 	 Reynard the Fox • 	 Huon of Bordeaux • 	 Maugis d’Aigremont • 	 Herzog Ernst</div>
 
-<h4>A Thousand and One Nights</h4>
+<h4>a Thousand and One Nights</h4>
 
 <div>Professional storytellers, or rawis, are a popular part of the culture of Islamic lands, and talented amateurs love to get their hand in wherever they can. The opposition from Islam regarding falsehood and deception has lead to elaborate circumlocutions: “It is said — but only Allah knows the truth — that ...” has become a clichéd, but necessary, way to open a story.</div>
 <div>• 	 The Story of Es-Sindibad of the Sea and Es-Sindibad of the Land • 	 The Story of the City of Brass • 	 Prince Camaralzaman and the Princess Badoura • ‘	 Antar, slave, warrior, and poet • 	 Rustem, slayer of dragons and demons</div>
@@ -630,12 +672,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>It is unusual — although not impossible — for a group of characters to stumble onto</div>
 <div>the Path of Destiny by mistake; accidentally crossing the Threshold is much more likely to lead to Arcadia or Eudokia. Getting to Elysium requires a certain amount of forethought, since all the conditions affecting Threshold points must be specifically aligned toward the story the characters desire. The timing of the journey should coincide with an auspicious time (such as the feast-day of a god, the anniversary of a hero, etc.). Any Faerie auras should arise from an appropriate location, artistic endeavors employed should be in praise or commemoration of the target story, and so forth. Not all these elements must be present, but all sources of Threshold points that are inappropriate actually subtract from the total, rather than adding to it.</div>
-<div>Typical Elysian Guardians of the Threshold</div>
+
+<h4>Typical Elysian Guardians of the Threshold</h4>
+
 <div>Elysian Guardians of the Threshold are most commonly of the kerberos type, taking the form of horrible monsters or seemingly dangerous challenges. An important function of the Elysian Guardian is to confer a symbol of the role of hero; this is usually accompanied by a boon (which is often a Virtue with a Charm, see Chapter 5: Touches of Faerie) and a prohibition.</div>
 <div>• 	 A three-headed dog, the original Kerberos. He is chained to a post, but the characters cannot squeeze past. He can be put to sleep with honey cakes. After passing the creature the characters see a patch of</div>
 <div>blue flowers, the only thing within reach that the monster has left untouched. This herb can repel monsters. • 	 A knight blocks the road; his armor is enameled in red, and his helm obscures his face. He demands single combat with a champion, else none shall pass. The Red Knight’s combat scores are identical to those of the character, but any wounds he inflict heal like Fatigue levels after the fight. If the character wins, the knight cedes his sword, but admonishes his opponent to never refuse an honorable battle. • 	 The baying of hounds and drumming of hooves heralds a large host ahead; a person is bound to be reminded of the Wild Hunt. If he continues, he is confronted merely by a strong wind. • 	 An ibis, who looks at the characters with a cocked head and asks them if their hearts are pure enough to proceed. He weighs each heart against a feather plucked from his plumage. Ask each player whether her character’s heart is pure. Those who fail do not receive their heart back, and can experience no emotions while in Faerie (although this may be a boon depending upon what they are fated to face).</div>
 
-<h4>Identification as the Hero</h4>
+<h4>Identification As the Hero</h4>
 
 <div>An important aspect of embarking on this road is that of identification. The character or characters, as soon as they pass the Guardian of the Threshold, must declare</div>
 
@@ -703,7 +747,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>A character typically embarks upon the Forked Path if he strays into a Faerie Aura while on the verge of some major life change. The character might be about to experience dramatically altered circumstances — such when he’s about to be married — or else he may be experiencing a personal threshold — such as adolescence, menopause, or senescence. Consequently, experiences in Eudokia tend to be solo affairs, although characters undergoing a similar change occasionally have such ad</div>
 <div>ventures together. An example might be a groom and the rest of his stag party, or a cohort of Hermetic apprentices about to take their Gauntlet.</div>
-<div>Typical Eudokian Guardians of the Threshold</div>
+
+<h4>Typical Eudokian Guardians of the Threshold</h4>
+
 <div>The Guardians of the Forked Path are most often physical barriers rather than animate faeries. It is particularly rare to meet kerberoi in Eudokia, since this world is less about adventure and more about personal discovery. Most Eudokian Guardians seek to scare off the wanderers.</div>
 <div>• 	 A square-sided pillar blocks the path at a fork. One face points to the left hand path and says “Past me lies adventure and death,” while the other faces the right hand path and reads “Past me lies peace and happiness.” The right hand path leads out of Faerie. • 	 A pile of stones surrounds a stake that bears the skull of a horse. Runes are engraved in blood on both the stake and the skull. One must walk past this ominous sign to enter Faerie. • 	 The Guardian is the road itself. Looking to the left, the characters can see a fair filled with bustling customers, hawking merchants, and entertainers. To the right is a quiet glade with a still pool, the very essence of tranquility. The glade of course is actually in the mundane world.</div>
 
@@ -728,7 +774,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Characters who embark on a Eudokian journey often return with a blessing or a malediction. Since a journey on the Forked Path is precipitated by a life-changing event, the boon or bane granted by the fae pertains to that event, either on a personal or a community level. Every choice made by the character should be recorded, and a tally made of the number of choices that bring the character closer to the theme of the story (“correct choices”) and further away (“incorrect choices”). Note that a correct choice has no moral designation. A story themed around Infidelity played out for a bridegroom has correct choices that lead to cheating and philandering. It might indicate that he is not ready for marriage, if he makes more “correct” choices in this quest. If the number of good choices outweigh the bad, then the overall experience has been positive. The character should adjust an appropriate Personality Trait by one point accordingly. Otherwise, the experience has been negative; again, adjust a Personality Trait to reflect the character’s new outlook. If the character made more correct choices than incorrect choices, then he acquires a Virtue. If all the choices he made were correct, then the Virtue is Major, else it is Minor. All Virtues acquired in this manner are balanced by the Lesser Charm Flaw (for a Minor Virtue) or the Greater Charm Flaw (for a Major Virtue). The Virtue (and its Flaw) may be permanent or it may fade over time, depending on the desires of the troupe. In the latter case, the Virtue vanishes when its governing charm is uncovered, copied, or stolen. See Chapter 5: Touches of Faerie for more details on how Charms affect Virtues. However, if the character made more incorrect choices than correct choices, then he acquires a Flaw. If all the choices took him further away from the goal, then this Flaw is Major, else it is a Minor Flaw. These Flaws are not balanced with a Virtue, but they fade with time; the character bears the Flaw for an amount of time equal to the time that passed while the character was in Faerie.</div>
 
 <div sidebars>
-<div>Example Story Themes, and Virtues & Flaws</div>
+
+<h3>Example Story Themes, and Virtues & Flaws</h3>
+
 <div>Theme: Courage Situation: Eve of Battle Virtue: Tough Flaw: Fear</div>
 <div>Theme: Fertility Situation: Marriage Virtue: Benediction (unusually fecund) Flaw: Malediction (sterility)</div>
 <div>Theme: Magic Situation: End of Hermetic Apprenticeship Virtue: Cautious Sorcerer Flaw: Careless Sorcerer</div>
@@ -777,12 +825,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Forking Path: Have the characters stopped to think as to why the princess is imprisoned? Perhaps there is a very good reason. Alternatively, this could be a test of obedience — is it not a father’s right to dispose of his children as he sees fit?</div>
 
-<h4>The Task-Setting Ogre</h4>
+<h4>The Task-setting Ogre</h4>
 
 <div>A hideous giant, vastly bigger and/or more powerful than the characters, who forces them to perform seemingly impossible tasks under threat of violence. Such tasks might include: sorting barley from wheat in a mixed vat; cutting down a forest in a single day; filling a bucket with a sieve; eating more than a wildfire can consume; or catching a magical horse. Alternatively, the ogre could be any fierce monster, such as a dragon or a manticore.</div>
 <div>Path of Chance: The duty of the captive is to escape from bondage, coupled with possibly slaying his imprisoner. Path of Destiny: Each task must be completed, perhaps with the assistance of the ogre’s daughter. The quester can thus escape from bondage. Forking Path: Are the characters so arrogant that they cannot admit that some tasks are meant to be impossible?</div>
 
-<h4>The Mouse-Groom</h4>
+<h4>The Mouse-groom</h4>
 
 <div>A tiny mouse, easily overlooked. He can talk, and takes a fancy to a female character, courting her with gifts and poetry. Alternatively, the mouse could be a different animal (such as a cat or frog), or a monster. Or the mouse could be a bride rather than a groom.</div>
 <div>Path of Chance: The Mouse-Groom is a distraction, nothing more. His devotion</div>
@@ -800,7 +848,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Path of Chance: The vampire is a ravaging monster who eats corpses and craves</div>
 
 <div sidebars>
-<div>Further Ideas for Actor Story Elements</div>
+
+<h3>Further Ideas for Actor Story Elements</h3>
+
 <div>Other ideas include:</div>
 <div>• The Cruel Stepmother • The Queen of Otters • The Green Knight • The Boy Made from Iron • The Evil Twin (or the Foolish Twin)</div>
 </div sidebars>
@@ -844,7 +894,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Path of Chance: Suspicion over the safety of the soup might cause the characters to miss out on the magical powers it grants, or else save them from a horrible curse. Path of Destiny: The soup is served to her dinner guests by a crone, who gives her son the choicest portion with the meat of three white snakes. When eaten, they grant supernatural strength and resilience. The questers must ensure that they receive the magical portion, not the witch’s son. Forking Path: It’s all a matter of trust. What looks foul and unappetizing might be beneficial, but again it might also be exactly as it appears — disease-ridden swamp water.</div>
 
 <div sidebars>
-<div>Further Ideas for Prop Story Elements</div>
+
+<h3>Further Ideas for Prop Story Elements</h3>
+
 <div>Some more ideas include:</div>
 <div>• The Soul in the Egg • The Magic Ring • The Self-Filling Purse • The Horn that Furnishes Soldiers • The Helm of Invisibility • The Word That Opens All Locks</div>
 </div sidebars>
@@ -854,7 +906,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The scenery should not be neglected as a story element. In the Faerie Realm, the scenery can be a villain as readily as any mustachio-twirling blackguard.</div>
 
-<h4>The Market at the Crossroads</h4>
+<h4>The Market At the Crossroads</h4>
 
 <div>Rough-built stalls line both sides of the two intersecting roads. Each stall displays the wares of the vendors, from the mundane to the fantastic. The market may be thronging with browsing customers, or else it might be eerily empty. The stalls, vendors, and other customers are all equally part of the scenery, although the characters may meet one or more actor story elements here, or they could be here to obtain a prop element.</div>
 <div>Path of Chance: An opportunity to spend one’s hard-earned cash, but let the buyer beware! Faerie vendors rarely require silver in exchange for their goods; and that which is purchased is not always what it seems. Path of Destiny: The characters must obtain a specific item. Are they able to locate the vendor, and are they willing to pay the price demanded of them? Forking Path: The dilemma of the market is that the vendor wants the highest price he can get for his wares, while the buyer wants it as cheaply as possible. A fair deal leaves both satisfied. But an unfair deal will leave the buyer bilked or the vendor cheated.</div>
@@ -886,7 +938,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Path of Chance: A forest can hide all sorts of ne’er-do-wells, mysterious hermits, magical trees, and fierce beasts. Path of Destiny: The traditional abode of the hag, the Ironwood is filled with her wolfish children. Forking Path: They say there is nothing to fear except fear itself. How true is that when one is lost among demonic-looking shadows and sharp-fanged critters?</div>
 
 <div sidebars>
-<div>Further Ideas for Scenery Story Elements</div>
+
+<h3>Further Ideas for Scenery Story Elements</h3>
+
 <div>Consider these ideas, as well:</div>
 <div>• Spring • Autumn • Beneath the Sea • In the Kingdom of Death</div>
 </div sidebars>
@@ -905,11 +959,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Choose a descriptor and an object from the following two lists; or else roll two simple dice, once for each list.</div>
 
-<h4>DESCRIPTORS</h4>
+<h4>Descriptors</h4>
 
 <div>Second	 1 on 2 on 3 on 4 on 5 on 6 on 7 on 8 on 9 on 10 on Die First Die First Die First Die First Die First Die First Die First Die First Die First Die First Die 1 Green Iron Twin Howling Maker of Winged Sharp Farthest Fatal Sleepy 2 Shiny Glass Huge Fiery King of Spiny Dull Best Straight Obnoxious 3 Dirty Golden Minute Singing Servant of	 Leafy Icy Darkest Wrong Naughty 4 White Ruby Newborn Furious Slayer of Donkey-eared	 Warm Brightest Blind Grieving 5 Striped Fur Ancient Sleeping Eater of Wounded Unyielding	 Highest Final Obedient 6 Variegated Woven Flawed Drunken Child of Hairy Soft Deepest Eldest Curious 7 Black Emerald Perfect Smelly Sibling of Slimy Harsh Tallest Youngest Cunning 8 Murky Wooden Broken Dreaded Parent of Strange Gentle Smallest Beautiful Impossible 9 Blue Stone Empty Passionate	 Cousin of Scrawny Sour Fiercest Repulsive Motionless 10 Invisible Makeshift Flat Dying Protector of	 Corpulent	 Floral Bravest Terrible Stormy</div>
 
-<h4>OBJECTS</h4>
+<h4>Objects</h4>
 
 <div>Second	 1 on 2 on 3 on 4 on 5 on 6 on 7 on 8 on 9 on 10 on Die First Die First Die First Die First Die First Die First Die First Die First Die First Die First Die 1 Queen Fox Eagle Drum Knife Acorn Child Mason Summer Fort 2 Serf Mouse Salmon Bed Loaf Apple Page Weaver Autumn Wall 3 Lady Weasel Robin Lute Key Willow Maiden Magistrate	 Lake Shack 4 King Lion Frog Mirror Book Rose Soldier Counselor	 Sea Manor 5 Prince Bear Ant Cauldron Sword May Blossom	 Hermit Orchard-Keeper	River Bridge 6 Beggar Wolf Swan Shawm Shield Hazelnut Crone Smith Dawn Ditch 7 Scholar Stag Bull Bottle Hammer Water Lily	 Holy Woman	 Dancer Shore Hill 8 Priest Goat Bat Coin Chalice Seaweed Infant Flautist Battlefield Forest 9 Merchant Ox Owl Gaming Piece	 Needle Thistle Father Shepherdess	 Harbor Desert 10 Death Badger Partridge Candle Cloak Burdock Waif Knight Crossroads	 Marsh</div>
 </div sidebars>
@@ -928,14 +982,20 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Players designing faerie characters should negotiate the aspects of their design with the other members of their troupe, because even faeries designed within the guidelines given in this chapter may reduce the enjoyment of the game by other members of the troupe. The enjoyment of the other players is representative of the attention and emotional attachment of</div>
 <div>their characters, which is of prime importance to a friendly faerie basking in their vitality.</div>
-<div>Player Character Faeries Are Designed to Suit Game Play</div>
+
+<h3>Player Character Faeries Are Designed to Suit Game Play</h3>
+
 <div>Faeries display a continuum of power, from mere shadows on nursery walls to the ancient gods of the Greeks and Norse. When designing a faerie character, a player is selecting a faerie that is approximately as powerful as a companion or magus. Within</div>
 <div>the Mythic European setting, these levels of power are unrecognized.</div>
-<div>Maximum Number of Virtues and Pretenses</div>
+
+<h4>Maximum Number of Virtues and Pretenses</h4>
+
 <div>Faeries designed instead as player characters use values from the following formula.</div>
 <div>Replaces Virtues/Flaws Companion Up to 10 points of Virtues balanced by Flaws. Magus 1 free, then up to 20 points of Virtues paid for with Flaws at 2 Virtues per Flaw.</div>
 <div>The character has a number of Pretense points figured as follows:</div>
-<div>Pretense Points: 15* x (average age of magus player characters – 5) + 120 points</div>
+
+<h4>Pretense Points: 15* X (Average Age of Magus Player Characters – 5) + 120 Points</h4>
+
 <div>* 	 This multiplier may be changed by the Pretentious or Ostentatious Virtues, or Aloof Flaw, described in the section on Pretenses at this chapter’s end.</div>
 <div>If the character’s physical form has any inherent Abilities, you must purchase Pretenses for those first. For example, a human being typically begins with Living Language 5 and 45 points in specific Abilities associated with early childhood. Animals often have a set of required Abilities that represent instinctive behavior for the species. In Chapter 4: Faerie Bestiary, faeries designed for use as player characters assume that the magi in the campaign are 21 years old, which gives 360 points of Pretences.</div>
 
@@ -1052,7 +1112,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Huge Major Virtue, General (faeries only) The character is far larger than usual. Its Size score is increased, its Characteristics are adjusted, and its Body levels change, as detailed in the inserts accompanying this section.</div>
 <div>Little Major Flaw, General (faeries only) The character is far smaller than usual. Its Size score is decreased, its Characteristics are adjusted, and its Body levels change, as detailed in the inserts accompanying this section.</div>
 
-<h4>Virtues For Physical Forms</h4>
+<h4>Virtues for Physical Forms</h4>
 
 <div>Characters must take a Virtue that defines the usual form of the faerie. There is no free Virtue that defines physical form, because all faerie forms have abilities beyond those of mortals, such as regeneration. Players are re</div>
 <div>minded that faeries can also take Virtues that suit humans. Many faeries that are drawn to stories in which humans enjoy the thrill of combat have Tough forms, for example.</div>
@@ -1140,7 +1200,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>If a faerie has this taboo, and a character knows its name, the character can force the faerie to leave it alone. Many powerful faeries prefer to go by titles and roles when in the presence of humans for this reason. Conversely, in many areas people misbelieve that a person loses one year of life when he says the word “fairy,” because it is a failed attempt at naming a specific faerie. People often use slightly flattering euphemisms for faeries, as well — they call them “the good neighbors,” for example.</div>
 
-<h4>Payment or Thanks</h4>
+<h4>Payment Or Thanks</h4>
 
 <div>Some faeries must leave human service if paid or thanked. They do this because, for that particular faerie, payment or thanks</div>
 <div>means that the continuing relationship between the human and the faerie has reached its point of emotional equilibrium. Everything that one owes the other is in balance. Some refuse payment because masters pay servants — the offer is a claim that the human is the faerie’s lord and master. So the faerie departs, seeking humans that suit it better. Other faeries leave because they have been made complete by the payment — their story is over. A brownie that was once an unbaptized child left to die of exposure, is made complete when offered clothes. It moves on to a new role. Note that such a faerie has probably been accepting bowls of rich cream for years, but does not see this as payment because it does not complete the faerie’s role. A few faeries, once released from service by thanks, return to their destructive natures and attack their previous employers. Examples — like jinn released from bottles who offer three wishes followed by death, and Yallery Brown, who was released from under a stone, did work in gratitude, and then tormented his master to death after receiving thanks — demonstrate that it is important not to sever the relationship with certain faeries.</div>
@@ -1186,7 +1246,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This Virtue grants the character 25 levels to spend on a power, and may be taken multiple times to allow for effects of higher level. Personal Powers have a Might Point cost equal to (the magnitude of the effect / 2), and an initiative score equal to the char</div>
 
 <div sidebars>
-<div>An Exemplary Catalog of Faerie Powers</div>
+
+<h3>An Exemplary Catalog of Faerie Powers</h3>
+
 <div>Faerie powers that could be simulated by Hermetic magic are designed using the Virtues given in this section and summarized in the adjoining table. Each Virtue gives a number of spell levels, a Might cost, and an Initiative score for the powers it permits. There are many other powers, collected from folklore, that are designed on a less-structured basis, but if they merely imply that faeries have targets or ranges that are inaccessible to Hermetic magi, they use these rules to help guide their cost. Faeries gain one use of a power each time they spend its cost in Might. Penetration for a Faerie Power is calculated as shown on page 191 of ArM5: Might Score – (5 x Might Point cost) + Penetration bonus. This means that to increase a power’s Penetration Total, you must decrease the power’s cost, increase the character’s Might Score, or improve the character’s Penetration score. Wound and Fatigue penalties do not apply to powers unless the character has the Role Requires Suffering Flaw, described in the Flaws for Physical Forms section above, although some faeries pretend that they are inconvenienced by wounds so that their story can be finished with a heroic victory by a human. A character whose Might pool has reached zero can no longer activate any powers unless it has a cost of zero. Powers that have already been activated continue until their duration expires. If they’re constant-effect powers with a non-zero cost, they cease at the next sunrise or sunset unless the character has regenerated sufficient Might points in the intervening period to reactivate them.</div>
 <div>Faeries that are in an area dominated by another Realm cannot use powers with range greater than Touch unless they have an Arcane Connection to the target, or have been invited in. See the Gaining Admittance section in Chapter 1: Nature of Faerie for more detail. Faeries find it easy to create Arcane Connections to humans by tricking them into breaking taboos, particularly the taboo against speaking to faeries.</div>
 
@@ -1341,7 +1403,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Faerie Instructor Minor Virtue, Supernatural Some faeries have the ability to take human Abilities when striking bargains. If the faerie has this Virtue, these Abilities can be stored, then given to favored humans. The faerie imparts the Ability by trading it for the Ability that the student currently has. It does this either by giving the human a prop and claiming it is a magic item, which allows the faerie to easily trade the Abilities back when the story is over, or by pretending to teach the human. Human teachers know that faeries are faking, because their training is too swift to be natural, and too similar to mystery initiation to be effective. It focuses on the trainee reaching an appropriate mental state, rather than the repetitive practice required for real learning.</div>
 <div>Faerie Trainer Free Virtue, Supernatural The character has one or more human Abilities, rather than Pretenses, and so it may train humans using conventional methods. The faerie can develop these abilities further using human methods, or can convert them to Pretenses and increase them as a faerie would. Once an Ability has been advanced as a Pretense, the maximum level at which the faerie can train humans has been reached.</div>
 
-<h4>Player-Defined Pretenses</h4>
+<h4>Player-defined Pretenses</h4>
 
 <div>Some faeries have pretenses that correspond to their story role, rather than specific human abilities. These player-defined pretenses must be negotiated with the troupe. The faeries in the Bestiary chapter do not have unusual pretenses because there is insufficient space to detail the limitations that would arise from the negotiation of each pretense.</div>
 
@@ -1400,7 +1462,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>At the troupe’s discretion, the faerie’s player, rather than the artist’s player, may make these dice rolls, given their vital importance.</div>
 
 <div sidebars>
-<div>Why Isn’t My Faerie a Genius At Every Ability?</div>
+
+<h3>Why Isn’t My Faerie a Genius At Every Ability?</h3>
+
 <div>Faeries live forever, and so they can theoretically accumulate enormous experience. Starting faeries do not have enormous experience. There are several reasons for this: A faerie character that is the center of a story is not gaining vitality from that story. Even the pagan gods used to send heroes out to do impossible things, so that they would be supporting characters in stories. Being more skilled than humans makes a faerie unable to feed on their Ability-earning experiences. The faeries selected as player characters are, arbitrarily, those drawn toward stories with magi, which implies a certain level of power and ability compared to magi. Faeries often lose Pretenses. Incognizant faeries lose their Pretenses if they lose their role. They have the basic Pretenses of their new role instead, even if both roles are the same type of faerie. Fairies that are narrowly cognizant lose some of their Pretenses when they complete their role and move to another. Highly cognizant faer</div>
 <div>ies often lose and regain Pretenses as they change roles. Faeries want vitality, and they want to enjoy themselves. They do not require their Pretenses for their professions, which they lack, or to extend their lives, which are limitless. Shedding Pretenses, and becoming someone else in a new story, is amusing. Like a roleplayer who decides to retire a character once it has ceased to present novel challenges, some faeries just give up their Pretenses, knowing they can earn them back in other stories. The Divine casts down faeries that become too powerful, because it has granted dominion over the Earth to humans. It is difficult for faeries to judge what “too powerful” is, because it seems to vary over time and place. And some magi suggest that once faeries become mighty enough, they cease to feed on human vitality. They head out into Deep Arcadia and are lost. The faeries humans see are a perpetually renewed batch of recently-generated faeries.</div>
 
@@ -1473,7 +1537,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>*** 	Lamashtu’s breasts ooze a poison that does +10 Damage. She smears this on her claws and talons if she anticipates battle.</div>
 
 <div sidebars>
-<div>Story Seed: The Battle of Child Eaters</div>
+
+<h3>Story Seed: The Battle of Child Eaters</h3>
+
 <div>A Seeker has found an ancient tablet that makes reference to a “demoness” called Lamashtu, rival of the Faerie gods of Babylon. Now that her story has been rediscovered — and retold to the grogs by a companion with Free Expression — a faerie near the covenant has taken her form. Can the characters find a way of calming Lamashtu, or destroying her story? Once Lamashtu becomes active, another faerie becomes involved in the affairs of the magi. Lamia is an ancient,</div>
 <div>and yet more modern, telling of Lamashtu’s story. Lamia is insane and does evil things because of her madness, but she gladly acts as an ally for the characters against another spirit trying to steal her biography. Lamia can become rational if steadily supplied with magically created eyeballs. As her mind returns, Lamia realizes what a monster she has become, and what terrible things she has done. If coaxed to destroy Lamashtu by a suitably skilled artist, Lamia may be able to change role.</div>
 </div sidebars>
@@ -1525,7 +1591,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Personality Traits: Playful +3, Lonely +1</div>
 <div>Pretenses: Charm 6 (children), Guile 6 (children), Faerie Speech 5 (children)</div>
 
-<h4>Powers: n/a</h4>
+<h4>Powers: N/a</h4>
 
 <div>Equipment: Phantasmal toys</div>
 <div>Vis: 1 Mentem, The skull of a tiny baby</div>
@@ -1536,7 +1602,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The children stolen by faeries often share a few distinctive features. Single parents are usually raising them, in a household that</div>
 <div>contains no other relatives. The children are left unattended, if only for a few minutes, and stolen while an adult is not watching. Babies are usually kidnapped before baptism; older children are generally tempted to stray into faerie areas instead of being stolen. Children who survive being stolen have a Touch of Faerie, as described in Chapter 5. Many types of faerie are unable to reproduce. The most human–like — the kings and queens of the courts of faeries — yearn for children and steal them from humans. Each king or queen has a distinctive set of powers, based on the demesne of which her or she is ruler. Many are neglectful parents, and the children they steal often die for lack of milk, warmth, or shelter. Sometimes the death of a child generates a dependent role: a minor courtier that is the heir of the noble. Scholars differ on whether this is the spirit of the dead child, or just a faerie pretending to be. Many faeries that steal children leave behind an enchanted stick or statue that seems to be a sickly version of the child. It simulates death, allowing the faerie time to steal the child away. But, more importantly, it may severe the bonds of longing that could otherwise allow the family and child to find each other again.</div>
-<div>The Man in Black with a Sack on His Back</div>
+
+<h4>The Man in Black With a Sack On His Back</h4>
+
 <div>The Man in Black with a Sack on His Back is not designed as a player character.</div>
 <div>Faerie Might: 10 (Herbam)</div>
 <div>Characteristics: Int 0, Per +3, Pre 0, Com 0, Str –2, Sta +2, Dex 0, Qik +1</div>
@@ -1564,7 +1632,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Vis: 2 Herbam in a tattered old sack.</div>
 <div>Appearance: The Man in Black with a Sack on His Back always appears foreign, and seems to be able to blend into darkness. He often takes the form of a scarecrow. He carries a sack, or sometimes a backpack, and he puts naughty boys and girls in it, and carries them away. People are not entirely sure what he does with them, but eating is a distinct possibility.</div>
 <div>The Man in Black with a Sack on His Back is found in a surprisingly large area of Mythic Europe. In most areas he is a nursery terror, but in others he steals children. He is a dark mirror image of the pleasanter Yuletide faeries, who carry presents for good children.</div>
-<div>Faeries that Prey on New Mothers</div>
+
+<h4>Faeries That Prey On New Mothers</h4>
+
 <div>Most fairies interested in the threshold of birth want to seize the vitality that flows</div>
 <div>forth from the newborn child, but some faeries prefer, instead, to steal nurturing from the new mother.</div>
 <div>Changeling (Gerontified Faerie): Some faeries steal a child so that there is a place in a mortal household for a changeling. A changeling is a faerie who has become so withered and unhealthy that it is exchanged for a mortal baby. The changeling appears, using illusions, to be the stolen child, but it becomes needy, sickly, and forever hungry. The nurturing given by the mortal mother rejuvenates the faerie, allowing it to resume a younger version of its form. The stolen child is usually not killed or neglected, so there may still be some sort of connection between the life of the child, and the usefulness of the life the changeling has stolen.</div>
@@ -1675,7 +1745,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Children that are just about to come into the state of reason, generally defined in Mythic Europe as occurring around the age of seven, develop the ability to feel wonder. They have not been jaded by experience, so their wonder is a source of pure, and easily evoked, vitality. Children repeatedly influenced by faeries at this tender age are often marked for life, which provides the faerie with regular attention.</div>
 
-<h4>Guides to Adventure?</h4>
+<h4>Guides To Adventure?</h4>
 
 <div>Child stealers for this life stage are similar to those for babies, except that they must gain the assent of the child before it can be stolen. This assent can be verbal, but can also be expressed by actions, like running away with the faerie, or lifting the latch to the faerie so that it can take the child away. Children who are lured away are sometimes replaced with changelings. The one difference is that many child stealers for this age group are willing to bring the children back, once they have completed a story. This can seem charming to the child, but any adult would notice that the guide is continually putting the child in dangerous situations. If the child dies, then the guide feels miserable, but the story must go on. The guide simply befriends a new child, and sends it on the same adventure, recruiting as many children as the story requires for conclusion. Some guides return the bodies of dead children, others simply don’t bother. Most guides provide children with a method of rapid travel. This is sometimes a spell made up of nonsense words, that works through the power of the faerie. Other faeries give the child a magical device, often a piece of clothing or furniture, which allows travel. The most popular choice is carrying the child. Some faeries allow humans to ride them, on their backs if in animal form, or on their shoulders if human shaped. Others put the child in a container and carry that.</div>
 
@@ -1702,7 +1772,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Virtues and Flaws: Greater Faerie Power, Cognizant Within Role, Faerie Sight, Faerie Speech, Humanoid Faerie, Increased Faerie Might, Lesser Faerie Powers, Observant, Restricted Might (winter), Sovereign Ward (folk charms), Small Frame</div>
 <div>Personality Traits: Shy +3</div>
 
-<h4>Combat: n/a</h4>
+<h4>Combat: N/a</h4>
 
 <div>Soak: 0</div>
 <div>Wound Penalties –1 (1-4), –3 (5-8), –5 (912), Incapacitated (13–16), Dead (17+)</div>
@@ -1726,7 +1796,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>A few faeries rape humans, colonizing their bodies with faerie babies. When the baby is about to be born, the mother is often drawn to the home of the father to deliver the child. Some try to kill the woman, but many faeries, like the scarlet-robed stranger in the lai of Sir Degare, provide a patrimony for their sons. In this case, his father leaves Degare a pair of magical gloves and a sword with a broken point that later allows him to recognize his son. These faeries are often knights, and use the statistics in the Courtly Faerie section. Many of these stories have an ending that many players find shocking: the woman forgives her attacker, and is reconciled with him as his wife. The same is true in stories like Sir Gawain and the Green Knight, where the mortal hero rapes a faerie queen, who curses him at the beginning of the story and is, in some versions, married happily to him by the story’s end. Many faeries use their sexual attractiveness to lure mortals to their doom.</div>
 
 <div sidebars>
-<div>Happily Ever After is Just a Pleasant Sort of Death</div>
+
+<h3>Happily Ever After is Just a Pleasant Sort of Death</h3>
+
 <div>Players struck by the portrayal of nymphs in other roleplaying games may not understand how a character could object to an immortal life filled with sex. Characters in Mythic Europe have an afterlife, so they are in an important sense already immortal. They have greater ambitions than finally finding someone who will sleep with them regularly. Just</div>
 <div>as unnamed babies become faeries that try to kill other babies before baptism, so nymphs, who are on the verge of becoming young women, are incomplete adults, and make the people they trap similarly eternally adolescent. An eternal life in which nothing significant ever happens is identical to the classical Hades.</div>
 </div sidebars>
@@ -1780,7 +1852,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Virtues and Flaws: 2x Greater Faerie Powers; External Vis (minor), Faerie Sight, Faerie Speech, Human Form, 3x Improved Characteristic, Increased Faerie Might; Sovereign Ward (sunlight); Incognizant, Non-combatant. Traditional Ward (folk charms, religious charms)</div>
 <div>Personality Traits: Predatory +4</div>
 
-<h4>Combat: n/a</h4>
+<h4>Combat: N/a</h4>
 
 <div>Soak: +1</div>
 <div>Wound Penalties: –1 (1-5), –3 (6-10), –5 (11-15), Incapacitated (16-20) Dead (21+)</div>
@@ -1801,7 +1873,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Glanconer Variants</h4>
 
 <div>Kelpies: Some glanconers are kelpies — faerie horses that drown their victims. Before the drowning, glanconers get a cunningly worded consent to take the human’s life. Questions like “Do you want to be with me forever?” or “Will you do anything for our love?” are examples of the creature seeking consent.</div>
-<div>Faerie Spouses Trapped by a Trinket</div>
+
+<h4>Faerie Spouses Trapped By a Trinket</h4>
+
 <div>Some men find a spouse at the edge of the wilderness. These faeries visit the land of humans, and can be trapped here if made incomplete. The faerie bride is made incomplete by the theft of the thing that she most prizes, or that represents her dual nature. It is usual for the lady to leave when she finds her skin again, or when the husband breaks a taboo, such as striking his wife, or yelling at her.</div>
 <div>Selkies: Faeries that are made into mortal wives by the theft of the seal skin that allows them to change into their aquatic shape. Bird Women: Faeries who are forced to become spouses when their cloaks of feathers are stolen away. Nymphs: These faeries become wives when their headscarves are stolen.</div>
 <div>Faerie spouses, in their trapped form, have the statistics of human women, although their personality traits are unusual. Their children have strong faerie blood, which makes itself obvious. The children</div>
@@ -1865,7 +1939,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Some faeries allow young people to rise to the top of their professions, and gain the glory and status due an elder within their community. These faeries are relatively rare,</div>
 <div>but they focus their attention on player characters disproportionately. People happy to rest comfortably within the mediocrity of their professions rarely encounter these spirits, but player characters are often outside the community, and strive to be exceptional. These humans are perfect audiences for faeries that guard the borders of mastery.</div>
-<div>Creatures Designed to Die in Combat</div>
+
+<h4>Creatures Designed To Die in Combat</h4>
+
 <div>Many faeries expect humans to kill them. The faeries gain vitality from this process, but for the story to be complete, they must not use the same role until sufficient time has passed for their actions to constitute a new story. So, a faerie knight known for doing battle every midsummer’s day may die in combat once a year, but the giant from Jack and the Beanstalk cannot return to Jack’s country in its original form. Perhaps it returns as the giant’s wife, or son, or brother, or chooses to go to a different kingdom, and tell the beanstalk story again with a new boy.</div>
 
 <h4>Fachan</h4>
@@ -2256,7 +2332,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Divisions of Time</h3>
 
 <div>Faeries are encountered at the borders of the year and seasons. These faeries may lead static lives, trapped in a single repeating day, or may lead circular existences, as part of a mystical clockwork. Faeries associated with divisions of time are some of the most human-seeming faeries: many of them use the statistics for courtly faeries given in the preceding section.</div>
-<div>Summer and Winter: Fertile and Infertile</div>
+
+<h4>Summer and Winter: Fertile and Infertile</h4>
+
 <div>Mythic Europeans live in an agrarian society. They live and die by the strength of their harvests, and this concern draws faeries. The courts of summer and winter, in many areas, fight battles on the Equinoxes. Summer defeats winter, and then later in the year, is in turn defeated. The members of each court are dressed as appropriate for their season. The faeries of winter often seem harsh, while the faeries of summer are happy, and it is easy for the untutored to mistake these two sides for good and evil. Players may be forced to intervene if the seasonal battles are disrupted. This is because the faeries involved believe they are vital for agriculture, so their roles force them to destroy crops with unseasonal frost or droughts.</div>
 
 <h4>Cailleach Bheur (Cally Berry)</h4>
@@ -2288,7 +2366,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Appearance: The Cailleach Bheur has blueblack skin, like a corpse, and is hideously ugly. In some areas she turns to stone during the summer months.</div>
 <div>In some areas, single creatures represent summer and winter. In many parts of Ireland and Scotland, for example, the winter is represented by the blue hag, the Cailleach Bheur. The blue hag is the guardian of the</div>
 <div>streams and wells, and the protectress of wolves, goats, deer, cattle, and many other animals. She washes her plaid at a particular spot until it is pure white, then spreads it over the land until summer, when her power passes to a rival. In ancient times this was often the goddess Brigid, but in other areas she keeps the summer as her prisoner. The Cailleach Bheur’s glamour extends to much of the land, so she is aware of many important things happening in distant places. This ability makes her unsuitable as a player character in most sagas, but makes her a valuable ally to magi.</div>
-<div>Spring and Autumn: Sowing and Reaping</div>
+
+<h4>Spring and Autumn: Sowing and Reaping</h4>
+
 <div>Spring is a time of natural vitality, and faeries seek out the pleasure this gives to humans. The faeries of the spring are lighthearted, and heartening. Some seem to be able to feed from the natural magic of the world, and not be interested in humans at all. The season of harvests is both a season for joy and happiness that draws faeries, and of banefires to keep curses away.</div>
 
 <h4>Południca</h4>
@@ -2760,7 +2840,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Hemicynes: These peaceful, dogheaded people are said to come from the far north. They appear in western European folklore. They may be magical creatures of which the koerakoonlased are faerie variants, or the converse.</div>
 <div>Naval Koerakoonlased: The hero Kalevipoeg tried to sail to the Underworld, and discovered an island filled with koerakoonlased, but these creatures were peaceful farmers and did not have human slaves. After Kalevipoeg destroyed their crops they became fishers, but no naval attacks by koerakoonlased have been reported.</div>
 
-<h4>The Entrances to the Earth</h4>
+<h4>The Entrances To the Earth</h4>
 
 <div>Mythic Europeans have a mixed relationship with caves. They are useful, for shelter and for storage of goods, but they are also dangerous places, on the verge of a different world. In parts of Italy, people use caves to store wine and cheese, and when they are ready, the grotto becomes a tavern. In Roman times, many of these taverns were guarded by statues of Cerberus, the guardian of the gate of Hades. Caves are like tombs: revels within them may lead to contact with creatures that guard the border of the deep earth, or the land of the dead.</div>
 
@@ -2946,13 +3026,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>includes gigantic gold pieces, a pearl crown that she wears, and a ring of gold about her tail. Wivere: An odd French dragon, whose name unhelpfully means “serpent,” which lacks wings and legs. It is notable because its Sovereign Ward is that it cannot harm naked people.</div>
 
 <div sidebars>
-<div>Story Seed: The Mother of Vis Sources</div>
+
+<h3>Story Seed: The Mother of Vis Sources</h3>
+
 <div>Serpents with gemstones in their faces, that lack the transformation power of the vouivre’s eye, are found in the forest of Luchon, at the foot of the Pyrenees in France. Characters harvesting the vis from these serpents do not realise that they are the children of a vouivre. When she bathes, one of her surviving children informs her that they have been decimated by magicians, and she seeks ven</div>
 <div>geance. This calls all of the hedge wizards of the area together, because they want to take advantage of the vouivre’s distraction by attempting to open the doors of her subterranean lair and take the treasures there. Terrible questions, after this dispute is settled, remain. Will any remaining serpents grow into vouivres? And what manner of creature was their father?</div>
 </div sidebars>
 
 
 <h1>Chapter Five</h1>
+
+
+<h2>Touches of Faerie</h2>
 
 <div>This chapter details a number of ways in which characters can be affected by the power of the Faerie realm. Those humans who have an intense experience with Faerie are often left changed, and manifest Virtues and Flaws in ways different than other mortals. And some characters acquire special sympathy with the Faerie realm that allows them to perform different types of Faerie hedge magic. The most obvious expression of a touch of glamour in a mortal’s life, though, is the Faerie Blood Virtue, and more information on this versatile Virtue is given here. Children who have been replaced with a changeling may similarly inherit fay qualities from their time with the Good Neighbors; these qualities may develop in a manner similar to Faerie Blood, but can also manifest in different ways, as well. Many characters in Mythic Europe have an interest in Faerie without actually being associated with the Faerie realm. They may be aligned with another realm, like magi, or perhaps they are unaffiliated with any realm at all. This chapter also includes a few ways that characters who are not especially faerie-oriented can still harness the power of the fae. Finally, the ways in which characters exposed to faerie powers tend to suffer Warping is discussed.</div>
 
@@ -2980,7 +3065,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Another way for characters to develop Sympathy Traits, at least temporarily, is through the process known as sympathetic influence. This is when a character goes out of his way to associate with the subject over a period of time, or conducts a special faerie ceremony designed to inspire a sympathetic connection. If successful, this influence tem</div>
 <div>porarily grants the character an appropriate Sympathy Trait. To begin, the character must identify a particular Sympathy Trait that he wishes to encourage. This might be related to another Trait that the character already possesses, or a Trait that the character does not have yet but would like to develop. Some Personality Traits are particularly conducive to Sympathy Traits, such as those that describe how the character feels about something else, such as “Like Strawberries” (Fruit or Taste) or “Afraid of Snakes” (Fear or Snakes). There are also Minor Personality Flaws that lend themselves well to Sympathy Traits. If the character does not have any appropriate Personality Traits, he cannot benefit from sympathetic influence. After a Trait has been identified, the character then engages in either ceremonial influence or practical influence. For ceremonial influence, the character performs a faerie ritual that takes him about ten minutes, and requires a leader with a Faerie Lore score of at least 1. This costs every character who participates in the ceremony a Confidence Point, and the effects last for only a short time without reinforcement, perhaps a week at most. For practical influence, during his free time between other seasonal work or study, the character must encourage the Trait, associating himself with the subject as much as possible. After a season the Trait will develop, and remain for as long as a year. Once the influence has been enacted, the player of the influencing character should make a roll: a simple die + Presence + Leadership. The results are applied to the following chart, which shows the value of the Sympathy Trait that the participating characters temporarily receive.</div>
-<div>Sympathetic Influence: simple die + Presence + Leadership</div>
+
+<h4>Sympathetic Influence: Simple Die + Presence + Leadership</h4>
+
 <div>Note that if the character already has an appropriate Sympathy Trait, it may be applied as a specialty to Leadership for this roll. This makes it slightly easier to increase an existing Trait with a low value for a short time than to develop a new one, as a +1 Trait might be temporarily increased to +2 or +3 through sympathetic influence. However, adding the Sympathy Trait also requires the player to roll a stress die and risk botching. Also note that unlike the influence associated with other realms of power, it is possible to affect an unwilling subject with practical influence, as long as that person has a Personality Trait or Flaw that is appropriate to the desired sympathy.</div>
 
 <div sidebars>
@@ -2995,7 +3082,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Tinted Auras</h3>
 
 <div>It is also possible to change a Faerie aura so that it resonates especially well with certain Personality Traits, so that everything in the aura is influenced by those Traits. This is called tinting the aura, and auras that have one or more Traits are called tinted auras. In a tinted aura, every character is strangely drawn to things that are associated with the tint, and repelled by things that are not. These manifest as temporary Personality Traits for all characters in the area, as long as they remain in the aura, with a score equal to the influencing character’s Sympathy Trait. For example, in an aura tinted with a Children +3 Sympathy Trait, all characters would receive something like a “Drawn to Children” +3 Personality Trait. Tinting an aura is done in a manner similar to sympathetic influence. Using practical or ceremonial influence, the influencing character performs a ceremony or spends a season within the aura, after which time the aura receives the tint. However, the value of the new Personality Trait cannot exceed the value of the influencing character’s Sympathy Trait, or the level of the Faerie aura. Once enacted, the tint becomes a special property of the aura, and does not need to penetrate Magic Resistance. Tinting uses a stress die instead of a simple die. Botches on this roll can lead to Warping or to other negative results for the characters who are involved, perhaps tinting the aura in a way other than they actually intended.</div>
-<div>Tinting an Aura: stress die + Presence + Concentration</div>
+
+<h4>Tinting an Aura: Stress Die + Presence + Concentration</h4>
+
 <div>An aura can be tinted multiple times, so that some Faerie auras become a mishmash of different likes and dislikes. This causes a feeling of conflict in everyone the area, as a Faerie aura’s tinting of Light +3 and Darkness +3 might pull a person towards both Light and Darkness at the same time. Many faeries like these circumstances, since they are often</div>
 <div>drawn to the boundaries that form between different tints. Tinting generally fades over time, with all Personality Trait scores reduced by one every day (for ceremonial tinting) or every season (for practical tinting). After three days, a +6 tinting brought about by ceremonial means will be only +3, and after a year a +4 tinting from practical influence</div>
 <div>will fade away completely. However, some faerie powers and faerie rites allow for semipermanent tints, and some faerie auras may have inherent tinting. A common application of tinting is for a character to use it to bestow a common Personality Trait to everyone in an aura, and then to use sympathetic influence to change it into a temporary Sympathy Trait. In this way, a character can give a Sympathy Trait to a subject that does not have an appropriate Personality Trait to influence.</div>
@@ -3014,13 +3103,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>* Limited by aura and Sympathy Trait.</div>
 </div sidebars>
 
-<div>Realms of Power: Faerie Sympathetic Magic</div>
+
+<h3>Realms of Power: Faerie Sympathetic Magic</h3>
+
 <div>Some characters draw upon the faerie realm through Sympathy Traits and charms. Sympathy can be used in the Hermetic laboratory, with Hermetic spells, or to fashion small models that can be used to undermine faeries and their powers.</div>
 
 <h3>Folk Charms</h3>
 
 <div>Any character with knowledge of Faerie Lore and possessing a Sympathy Trait can fashion a folk charm, even if the Sympathy Trait is temporary. (See Sympathy, earlier.) This is a form of craft work, and it takes the character a normal amount of time to create the object that acts as the focus of the charm. No special skill is necessary, but the power of the charm is dependent upon this object, and if it is ever taken from the character or damaged, the charm is no longer effective. (See Charms, earlier.) A folk charm can end the duration of any faerie effect, as long as the charm is somehow appropriate to the circumstances. The character must apply the charm to either the affected target, or to the being that cast the spell originally, and beat the level of the effect on (a stress die + Intelligence + Faerie Lore + aura modifier). Note that an applicable Sympathy Trait can act as a specialization to increase the character’s Faerie Lore if he possesses that Ability. If the folk charm is applied to a target with Magic Resistance, the effect must penetrate, though he can add the value of his highest applicable Sympathy Trait to his Penetration score.</div>
-<div>Folk Charm: stress die + Intelligence + Faerie Lore + aura</div>
+
+<h4>Folk Charm: Stress Die + Intelligence + Faerie Lore + Aura</h4>
+
 <div>Activating a folk charm costs a Fatigue level and gives the character a point of Warping. If the character is immune to Warping or cannot expend Fatigue, he cannot activate the charm.</div>
 
 <h3>Hermetic Charms</h3>
@@ -3092,7 +3185,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Faerie Blood and the Soul</h3>
 
 <div>If faeries are the embodiment of stories, as some believe, then how can they produce children with mortal beings? More importantly, do these children possess souls, since one of their parents did not? All these questions have vexed those knowledgeable in fay things, particularly those who bear Faerie Blood themselves. The fact that at least some faeries are rational beings — even if their logic is alien to mankind — has lead some to believe that faeries do have souls. The concept of faeries as living stories is the most popular of theories among the cognoscenti, but not the only one (see</div>
-<div>Faerie Powers for the Faerie Blooded</div>
+
+<h3>Faerie Powers for the Faerie Blooded</h3>
+
 <div>At the option of the storyguide, a human character with Faerie Blood may have Virtues and Flaws normally only permitted to faerie characters. If this option is taken, only those Virtues from the following list can be taken, and the Virtue points taken must be paid for with Flaws taken from this list as well. Details of these Virtues and Flaws can be found in Chapter 3: Faerie Characters.</div>
 <div>Major Virtues: Focus Power, Greater Power Minor Virtues: Faerie Speech, Improved Powers, Lesser Power Major Flaws: Monstrous Appearance, Sovereign Ward Minor Flaws: Reduced Power, Slow Power, Traditional Ward</div>
 <div>For all powers granted by these Virtues, calculate the Might cost as normal, but instead of spending Might points, the character instead loses 1 Fatigue level for every 5 points (or fraction) of the cost. For the purposes of calculating the Penetration Total of powers, assume that the character has a Might Score of zero, although in reality he has no Might Score at all. Only characters with Strong Faerie Blood should be allowed to take Major Virtues from this list. Those with Faerie Blood are restricted to just the Minor Virtues; but both types of character can buy their Virtues with Major or Minor Flaws from the above lists.</div>
@@ -3246,7 +3341,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Minor, Supernatural See Chapter 6: Faerie Wizardry for a full description of this Faerie Power. Choosing this Virtue gives the character Conjure with an initial score of 1.</div>
 
-<h4>Curse-Throwing</h4>
+<h4>Curse-throwing</h4>
 
 <div>Major, Supernatural Characters with this Virtue are able to cure diseases and remove curses by transferring them to another person. Choosing this Virtue confers the Supernatural Ability Curse-Throwing 1.</div>
 
@@ -3292,7 +3387,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Major or Minor, Supernatural The character receives a positive Sympathy Trait. As a Major Virtue, this has an initial score of +3; as a Minor Virtue it is +1. This Trait may be increased with experience points, up to a maximum score of (the initial value + the character’s Warping Score). For example, a character with Warping Score 1 and the Major Virtue</div>
 <div>could begin with a +4 Trait. Players with this Virtue may freely increase their character’s Warping Score during character creation, though they should have some idea of what in the character’s past caused this Warping to occur. This Virtue may be taken more than once. See Sympathy, earlier, for more information about Sympathy Traits.</div>
 
-<h4>Familiarity with the Fae</h4>
+<h4>Familiarity With the Fae</h4>
 
 <div>Minor, Supernatural You have a natural understanding of faerie ways, perhaps due to spending time among them. You get a +2 to all rolls involving social interaction with faeries. You also gain the effects of the Common Sense Virtue, but only when the situation pertains to faeries. You may purchase Faerie Lore at character generation, even if normally unable to take Arcane Abilities.</div>
 
@@ -3421,10 +3516,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>This Ability is used in conjunction with another Faerie Supernatural Ability to produce a greater effect. To use it, the character must gather a group together and determine what they are going to do. Since it increases the potency of faerie effects, at least one of the participants must possess the Ability (this character is called the focus character); if it is a Power, whatever Method the character would use to enact a rite must be performed</div>
 <div>by each member of the group. Because of this, all of the participants are considered to be the caster when evaluating the effect. Any number of people can participate in a ceremony. The group generates a group modifier by adding up all of their Ceremony scores and subtracting the total number of participants. This group modifier is applied to the focus character’s total, and might be positive or negative depending on how many people have joined the ceremony and how skilled they are at performing it together.</div>
-<div>Group Modifier: total Ceremony scores – number of participants</div>
+
+<h4>Group Modifier: Total Ceremony Scores – Number of Participants</h4>
+
 <div>All participants also add their scores in the appropriate (Characteristic + Ability) or (Characteristic + Method) to the focus character’s total. If a character does not have the relevant Ability or Method, only the Characteristic is added. After this bonus has been applied, the focus character rolls the die and resolves the effect as normal. (As there are several versions of this Ability associated with different realms, you should list this as Faerie Ceremony on the character sheet if it is necessary to distinguish them.) Specialties: With a certain Ability, in particular circumstances, with a specific person. (Supernatural)</div>
 
-<h4>Curse-Throwing</h4>
+<h4>Curse-throwing</h4>
 
 <div>This Supernatural Ability is usually aligned to the Faerie Realm, but can be potentially aligned to any supernatural realm.</div>
 
@@ -3464,8 +3561,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>It enables the character to heal diseases, remove curses, and dispel detrimental magical effects, but only by transferring (or “throwing”) their effects to another person. CurseThrowing cannot affect Flaws; specifically, someone with the Lesser or Greater Malediction Flaw is beyond the power of CurseThrowing, unless it is a Flaw imposed by a faerie or magician with a limited duration. However, any other curse laid by a supernatural power is potentially within the remit of this Ability; note that curses laid directly by God (such as leprosy) are normally represented by permanent Flaws, and thus exempt. Only harmful effects can be transferred with this Ability, and the storyguide is the arbiter in cases where spells are not directly detrimental. Barrenness is a common affliction treated by this power; if transferred to a man or male animal then impotence is inflicted instead. Other curses transferred to inappropriate targets are changed in a similar manner. To throw a curse, the afflicted person must be physically present, and the recipient of the curse must be represented either in person or by an Arcane Connection. Afflictions can be passed from humans to animals or vice versa, but this is harder than transferring within the same species. CurseThrowers sometimes transfer the curse to themselves, but such altruism is rare. To throw a curse, the character must perform an elaborate ritual that involves the crafting of a charm that transfers the curse. This charm is a combination of a physical object and a chant. The object is repeatedly touched to the target and the recipient (or the Arcane Connection), while the chant is repeated over and over. The ritual typically takes an hour for every 5 points (or fraction) of the</div>
 <div>Ease Factor (see below). At the end of this time, the character generates a Casting Total, which must equal or exceed the Ease Factor listed below. If either the sufferer or the intended recipient of the curse has Magic Resistance, the Penetration Total must exceed it, else the curse stays where it is. A botched Curse-Throwing roll swaps the recipient of the curse to the caster.</div>
-<div>Curse-Throwing Casting Total: Presence + Curse-Throwing + Aura + stress die</div>
-<div>Penetration Total: Casting Total – Ease Factor + Penetration Bonus (see ArM5, page 84)</div>
+
+<h4>Curse-throwing Casting Total: Presence + Curse-throwing + Aura + Stress Die</h4>
+
+
+<h4>Penetration Total: Casting Total – Ease Factor + Penetration Bonus (See Arm5, Page 84)</h4>
+
 <div>Ease Factor: 9 Curse: Minor Disease or Affliction*</div>
 <div>Ease Factor: 12 Curse: Serious Disease or Affliction*</div>
 <div>Ease Factor: 15 Curse: Major Disease or Affliction*</div>
@@ -3490,7 +3591,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>home), for a total of 14. However, unbeknown to the characters, the barrenness was caused by the curse of a local witch. Her Hex Ability score was 5, thus the Ease Factor was actually 17 (12 + Hex 5). Since Aelfred’s player succeeds in an Intelligence + Faerie Lore roll, the storyguide informs him that Aelfred suspects that his Curse-Throwing should have worked if the barrenness was natural. Aelfred counsels the mother and daughter to investigate whether they have any enemies with supernatural powers.</div>
 </div sidebars>
 
-<div>Realms of Power: Faerie Faerie Doctors</div>
+
+<h3>Realms of Power: Faerie Faerie Doctors</h3>
+
 <div>If humans are to dwell in regions haunted by the fae — such as the rural areas that provide the food of nations — then they must learn to come to an amicable relationship with their good neighbors. In lands historically connected to Saxon cultures (principally England, Frisia, and Saxony), a faerie doctor may act as an intermediary between the humans and the fae, leaving the region blessed indeed. Also called a lybman (who practiced lyb-craeft — magical healing and surgery), the faerie doctor is a human who speaks to the faeries on behalf of the peasants, explaining their concerns and wishes. Likewise, the local faeries know that the faerie doctor supports their flow of vitality by reinforcing the tales and lore of their kind within his region of influence. The faerie doctor takes it upon himself to keep the memory of the local fae alive through stories, and to ensure that their homes are not violated. Should a dispute between humans and faeries arise, the faerie doctor attempts to mediate, ensuring that there are no misunderstandings on either side; but he must try to remain a neutral party. In addition to his job as mediator and storyteller, the faerie doctor also administers directly to his human charges through use of faerie-granted supernatural powers, such as the removal of blights, banes, and diseases through his Curse-Throwing power (see above). Faerie doctors are also adept at locating water and lost things through dowsing.</div>
 <div>The faerie doctor is trained from birth by a relative, often an uncle, for the calling tends to run in families. Faerie doctors are almost exclusively male, although women can be taught the art if no other relative can be found. The apprentice is taught the lore of the faeries, and has direct and personal contact with all the Good Folk in the local region. As the boy enters puberty, he acquires a companion from among the fae, a friend who provides him with unique insights into faerie-kind and warns him if he is about to make a social faux pas. These faeries usually have a high cognizance, and this proves useful in explaining the actions of other fae. Apart from this, the faerie friend can take any form — it may be a willowy nymph, a talking animal, a wizened dwarf, or any number of other types of faerie. Upon acquiring his companion, the faerie doctor’s apprenticeship is complete. He either takes over his mentor’s practice, goes into partnership with him, or moves to a new area to strike out on his own. Faerie doctors often accompany their oath to not take sides in conflicts between humans and faeries with other oaths that reflect their status as having a foot in both realms. The most common oaths are to never cut one’s hair, never grow a beard, wear women’s clothes, and remain celibate. Such oaths represent the distance the faerie doctor must keep from the rest of humanity to maintain his close connection with the fae. Unsurprisingly, a faerie doctor may clash with the priesthood who see his “clients” as demons or evil spirits;</div>
 <div>however, the faerie doctor is rarely pagan himself. He simply realizes the true place of the fae in the daily lives of those who are under his care.</div>
@@ -3552,14 +3655,21 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>When a character who is strongly aligned to the Faerie realm gains 2 or more Warping Points at once, he experiences the phenomenon known as Faerie Calling. This is when the attention of the Faerie realm is drawn to the character, and faerie spirits from outside</div>
 <div>the mortal world enter his being and attempt to coerce or force some of his vitality from him — the faeries come calling, so to speak, and do not leave until they are properly appeased. This experience is confusing and potentially frightening for the subject, like a daydream or a waking nightmare. Before proceeding, it is important to first resolve the scene in which the character suffered Warping. Until the Faerie Calling has been addressed, the character becomes dazed and delusional, and has great difficulty responding to his environment or communicating with others. It might be best to simply treat the character as if he were Incapacitated, though if the character is in mortal peril, the storyguide can allow him to stumble to safety or strike desperately at his opponent. More complicated actions should require a Perception + Awareness roll against an Ease Factor of (3 x (Warping Score + number of Warping Point gained)) to comprehend what is going on around him. For the most part, the character should be out of the action.</div>
-<div>Act During Faerie Calling: stress die + Perception + Awareness vs. ((Warping Score + Warping Points gained) x 3)</div>
+
+<h4>Act During Faerie Calling: Stress Die + Perception + Awareness Vs. ((warping Score + Warping Points Gained) X 3)</h4>
+
 <div>Once the immediate scene has finished, the storyguide should ask the player to leave while she determines the circumstances of the Calling, and assigns parts to the other players, assuming they wish to play out the event. They will act as the faeries in the character’s mind who drive the dream scenario forward, picking at his hopes and fears from inside. The targeted player should leave the room briefly while they discuss it. With the help of the other players, the storyguide must decide on the scene’s setting and its conflict. The setting describes where the character believes himself to be, and the conflict describes what the character must do to leave the dream.</div>
 <div>The setting is usually a place of transition, literally or figuratively, and it can either be drawn from the subject’s memories or located somewhere the character has never been. It might be an important event of his past, or what seems to be an ominous vision of the future. It could even be the same moment in the present. The character’s Sympathy Traits typically figure prominently in the dream, and the mood of the setting depends upon the character’s Faerie Rank — if negative, the setting is antagonistic and his Traits are against him; if positive, the dream is pleasant and his Traits will help him. The players will take on roles that are appropriate to this setting and mood. The conflict should describe what the character can do to leave the Calling and return to consciousness. This could center on a specific act, such as a child who needs to be rescued, a monster who must be defeated, or a carriage ripe for robbing. Often the conflict centers on resolving the transition depicted by the setting, perhaps by moving from one place to another, or by changing himself or someone else. Some example conflicts might include: leaving a forest, growing old, or marrying a prince. Different players might try to convince the character to do one thing or another in the dream. When the players have worked out how they want the scene to go, invite the player back and describe the setting. Through the course of the story, the character will still have all of his powers and possessions, and can do whatever he could do outside of the dream, though it might seem like he should not be able to do so. His appearance might change to be appropriate to the setting, so that he seems to be a child or an animal or perhaps a cloud of dust, but this does not alter his abilities or his faculties. Allow everyone to experience the scene and contribute something to the setting, but if the players have not resolved the conflict after a certain amount of time, say about</div>
 <div>fifteen minutes of play, have the player of the affected character make a stress roll + Perception + Concentration. If this total exceeds the character’s ((Warping Score – Faerie Rank) x 3), the character has a positive experience. Otherwise, he has a negative experience.</div>
-<div>Resolve the Faerie Calling: stress die + Perception + Concentration vs. (Warping Score – Faerie Rank) x 3</div>
+
+<h4>Resolve the Faerie Calling: Stress Die + Perception + Concentration Vs. (Warping Score – Faerie Rank) X 3</h4>
+
 <div>After a positive Faerie Calling, the character gains a new Sympathy Trait with a value of +1, or increases one of his Sympathy Traits that is particularly appropriate to the scene by 1. A negative experience gives the character a negative Sympathy Trait at –1, or reduces one of his appropriate Sympathy Traits by 1. When a character with Faerie Rank of 10 or more has a positive experience, or when a character with Faerie Rank of –10 or more has a negative experience, he does not return from the Faerie Calling once the scene is resolved. Masters of Faerie Lore imagine that this is because the person is so filled with the power of the Faerie realm that he is transformed into a faerie being, and so makes his way into Faerieland to remain forever. His body and his most treasured possessions slowly fade from the mortal realm, perhaps leaving behind a few material remains appropriate to his Sympathy Traits, such as a pile of leaves, a mound of ashes, or a puddle of water. Only characters with Faerie Rank are affected by the Calling, and only if they do not also belong to a magical tradition associated with another realm. The Divine, Infernal, and Magic realms all take precedence over the Faerie realm in this respect; upon gaining Warping Points, a magus experiences Wizard’s Twilight, a holy character experiences Divine Ascent (see Realms of Power: The Divine, page 63), and an infernalist must undergo Vituperation (see Realms of Power: The Infernal, page 95).</div>
 
 <h1>Chapter Six</h1>
+
+
+<h2>Faerie Wizardry</h2>
 
 <div>Characters with Faerie Sympathy (represented by positive or negative Sympathy Traits) can learn to perform two different types of hedge wizardry: faerie rites and faerie bargaining. These characters are called faerie wizards, or sometimes faerie hedge wizards. They may join certain groups (called traditions) that teach their members the Supernatural Abilities and Arts they use to produce these effects; all of these traditions and the faerie powers they practice are described in more detail in this chapter.</div>
 
@@ -3571,8 +3681,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Faerie rites require the character to possess three things: a Faerie Method, a Faerie Power, and faerie sympathy with the target, represented with an appropriate Sympathy Trait. The Method describes what the character must do to perform the rite, the Power describes the effect of the rite, and the Sympathy Trait describes the qualities the target must possess. If the character has an appropriate Sympathy Trait, and has met the activation conditions of the Faerie Method, he rolls a stress die and adds the result to the following formula: the Characteristic associated with the</div>
 <div>Faerie Method + the character’s score in the Faerie Method Ability + the character’s score in the Faerie Power Ability + the aura modifier for a Faerie effect. The result is the level of effect produced by the rite, though this cannot exceed the value of (the sum of the character’s applicable Sympathy Traits x 5). For example, a character with two applicable Sympathy Traits — one at +2 and the other at +1 — has a Sympathy Trait total of +3, and cannot produce an effect greater than level 15.</div>
-<div>Rite Casting Total: stress die + Characteristic + Method + Power + aura modifier</div>
-<div>Maximum Rite Level: (Sympathy Traits x 5)</div>
+
+<h4>Rite Casting Total: Stress Die + Characteristic + Method + Power + Aura Modifier</h4>
+
+
+<h4>Maximum Rite Level: (sympathy Traits X 5)</h4>
+
 <div>It is possible to use negative Sympathy Traits to perform a rite, since they mean that the character has a powerful relationship with the faerie realm, albeit a negative one. When calculating the maximum level of a faerie rite, you should treat negative Sympathy Traits as if they were positive. Thus, a character with two applicable Sympathy Traits, at +1 and –4, could produce an effect of up to Level 25. When performing a faerie rite, a roll of 1 on the stress die gives the character an experience point in all of the applicable Sympathy Traits used in the ceremony, and a botch removes an experience point from each of them, just as when using Sympathy Traits as specializations. Negative Sympathy Traits also add additional botch dice, as usual. Characters have access to a wide variety of Ranges, Durations, and Targets associated with the Faerie realm when performing faerie rites. These are listed in the sidebar below. They can also use any of the standard Hermetic parameters, and players are also encouraged to invent others that seem appropriate to the effects produced by the rites, since there are many other limitations on these effects (especially the requirement</div>
 <div>for applicable Sympathy Traits). Ritual-level rites take fifteen minutes for each magnitude of the effect, just as in Hermetic magic, but do not require vis. However, it is impossible to produce a permanent effect with a faerie rite, the way it is done with Hermetic spells; rituals with Momentary duration simply end, and the targets immediately return to their natural and unaffected state. The only circumstances that have lasting effects are when the rite involves a natural (or supernatural) process, such as aging, healing, or Warping. For example, an effect that forces a character to age temporarily subjects that character to the same physical conditions that winter causes each year, and if the player fails the roll the character suffers the natural consequences.</div>
 
@@ -3612,7 +3726,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>a target to accept the effects of the rite through some sort of a performance, such as a song, dance, story, or another art form. This is represented through the use of an Ability, making a roll against an Ease Factor of (the magnitude of the intended effect x 3). If the character succeeds at this task, he may then perform the rite in the following round, but with the level of the effect fixed at the intended magnitude. Or, he may begin another performance, making another roll and increasing the magnitude of the effect he is trying to produce by one. The</div>
 
 <div sidebars>
-<div>Faerie Ranges, Durations, and Targets (cont’d)</div>
+
+<h3>Faerie Ranges, Durations, and Targets (cont’d)</h3>
+
 <div>lasts for as long as the target does not fulfill some common physical condition, such as sleeping or speaking. It is equivalent in level to Sun duration, but cannot last longer than a month. Season (Duration): This duration is held until the start of the next equinox or solstice, and lasts only until the following equinox or solstice. It is the same level as Moon, but requires a ritual. Aura (Duration): The spell lasts for as long as the target remains within a supernatural aura. If the target leaves the aura or the physical world entirely (dies or goes to Arcadia, for example) the spell ends. This does allow moving from one aura to another, so long as the two auras overlap — as long as the target never leaves a supernatural aura of some kind. It is equivalent to Year, and always requires a ritual effect. Faerie (Duration): Either the target or the caster must have Faerie Might, and must be in Mythic Europe; the spell fails the instant this condition is not met, including dying or traveling to the Faerie Realm. This is the same level as Year, and thus requires a ritual to cast. Hidden (Duration): The spell lasts as long as the caster or target (or a significant part of the caster or target) is hidden — buried in the earth, placed inside a box, covered with a curtain or disguised by a costume — by anything, even another spell, so long as the effect with the Hidden duration does not itself hide the target. If anyone other than the caster discovers it, the spell ends immediately. This is the same level as Year, and a ritual effect.</div>
 <div>If (Condition) (Duration): This effect triggers if the target fulfills a specific condition, which can be common and even impossible to avoid such as eating or sleeping. It has an additional Duration that determines how long the triggered spell lasts after it takes effect. To determine the level, you should add four magnitudes to the level based on the Duration that the spell has when it takes effect, and it must be cast as a ritual. The spell expires without triggering if the caster dies, or if a year passes. Symbol (Duration): The effect lasts as long as a symbol fashioned at the time of casting does (and the symbol must be a physical object, so that a poem or song, for example, must be written down). To fashion a symbol, the character must have at least 3 points of Sympathy Traits that are applicable to the target. These are cumulative with the other Symbol parameters, so that a rite that includes Range, Duration, and Target: Symbol requires at least nine points of Sympathy Traits. If the symbol is broken, erased, falls apart, dies, or is otherwise damaged, the spell ends. If the target changes so that any of the qualities of the symbol no longer apply, the spell is interrupted, but the effects will return once these qualities are true again — unlike the Until (Condition) Duration, this effect can outlive the caster. It is the same level as Year, and requires a ritual to cast. Medium (Target): The effect is held by a medium for the duration of the effect and passed on to an applicable target as soon as it comes within range. When the target is removed from the medium,</div>
 <div>the effect is interrupted, but as long as the duration continues, the medium can affect another target that comes into range of the effect. For example, a R: Touch rite might target a person, but use an animal as a medium, so that the caster must touch the animal; Then when the animal touches another person, the spell is cast on that person. The caster must have an applicable Sympathy Trait for the medium as well as the target, and it must be within range of the caster when the rite is performed. This is the same level as Part. Passion (Target): The effect targets a group of people through their passions, affecting only those inclined towards a particular emotion or desire, which is integrated into the spell. Each character within the targeted area must roll a simple die and add or subtract any appropriate Personality Traits. Anyone with a total of 6 or higher is affected. This is the same level of Target as Group, and is similarly modified by the size of the affected area. Symbol (Target): The caster affects all targets represented by a symbol within range of the spell. To fashion a symbol, the character must have at least 3 points of Sympathy Traits that are applicable to the target. These are cumulative with the other Symbol parameters, so that a rite that includes Range, Duration, and Target: Symbol requires at least 9 points of Sympathy Traits. The effect is calculated at the same level as Boundary, though it is essentially a large Group, and modifiers according to the size of the target apply. It must be cast as a ritual.</div>
@@ -3753,7 +3869,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Curse of the Festering Bruise Evocation/Woe 20 R: Touch, D: Moon, T: Medium This rite is cast on a weapon of some kind — typically an arrowhead or a knife — and targets the person struck by it. One of this target’s wounds (probably the one caused by the weapon) heals as an Incapacitating wound for the duration of the effect. This means that the target must make a Recovery roll at sunrise and sunset, with the normal risk of death or a worsened condition, but is not actually incapacitated. Once the immediate danger has passed, the wound will remain a Heavy wound until the rite’s duration ends, at which time it reverts to the level of wound it was previously. (Base 3, +1 Touch, +3 Moon, +1 Medium)</div>
 <div>Touch of the Merciless Lover Empathy/Woe 25 R: Touch, D: Hour+1, T: Ind The caster brushes against the target, and the target immediately wastes away and dies. When the effect’s duration ends, the target is restored to life, waking in exactly the same physical state as before the spell took effect, assuming no additional damage has been dealt to his body. However, if the corpse is buried or hanged, the target will likely suffocate upon reawakening. If it is destroyed during the interim, the target might still return but as a faerie ghost or spirit. While under the effects of this rite, the target may undergo something similar to the Faerie Calling, returning to life with a Faerie Sympathy Trait that is appropriate to the experience. (Base 10, +1 Touch, +2 Hour+1)</div>
 <div>Gaze of Gray Years Enchantment/Woe 30 R: Eye, D: Held, T: Ind The caster performs a work of grim and chilling significance, and then concentrates until he can look his target directly in the eye to release the effect. That person, who must be at least 35 years of age, must immediately make an Aging roll. As an additional effect, this rite includes a curse that gives the target a +15 penalty to this roll. This is generally powerful enough to cause the target to gain a Decrepitude Point and suffer an Aging crisis, and since this is a natural consequence of age, these effects are not undone when the duration ends. (Base 15, +1 Eye, +1 Held, +1 additional effect)</div>
-<div>Realms of Power: Faerie Faerie Bargaining</div>
+
+<h3>Realms of Power: Faerie Faerie Bargaining</h3>
+
 <div>There is a branch of faerie hedge wizardry that is concerned primarily with bargains made between mortals and fay. It has only begun to develop in the last century or so, originating in ancient and forbidden arts that allowed people to summon and command spirits such as angels and devils. In 1220 AD, it is likely to be found in the eastern parts of Mythic Europe, though it is not impossible that it has spread to other parts of the world with travelers who have more association with the Faerie realms than their homelands. The study of this fascinating and rare form of knowledge has not yet become known in academic circles, but if it were the scholars might be inclined to call it Ars Fabulosa, or “the fantastic art.”</div>
 
 <h3>Ars Fabulosa</h3>
@@ -3765,9 +3883,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Summoning is the mystic art of calling out faeries from the surrounding area and holding them in attendance in order to bargain with them. To some it may appear as if this art actually creates a faerie, or transforms a mundane object into a faerie, but most summoners believe that the faerie comes from somewhere nearby and manifests in an appropriate shape. And since it is possible to summon faeries who have assumed a specific role, most summoners also believe that the other faeries that appear must exist before the summoning as well. To summon a faerie, a summoner must</div>
 <div>have an appropriate Sympathy Trait, positive or negative, to represent a connection to that type of faerie. If the summoner has several applicable Sympathy Traits, their scores are added together; if the values are negative, treat them as positive. The sum of these Traits, multiplied by 5, determines the maximum Might Score that the character can summon. The summoner’s Faerie Rank also boosts or penalizes his Summoning Total. The summoner must then mentally prepare himself for a few minutes and expend a Fatigue level (if he cannot expend Fatigue, he cannot perform the summoning). The player decides the strength of the faerie he will attempt to summon, which cannot exceed the maximum Might Score determined by his applicable Sympathy Traits, and makes a roll: a stress die + Presence + Summoning + his Faerie Rank + the aura modifier.</div>
-<div>Summoning Total: stress die + Presence + Summoning + Faerie Rank + aura Maximum Might</div>
 
-<h4>Score: (Sympathy Traits x 5)</h4>
+<h4>Summoning Total: Stress Die + Presence + Summoning + Faerie Rank + Aura Maximum Might</h4>
+
+
+<h4>Score: (sympathy Traits X 5)</h4>
 
 
 <div sidebars>
@@ -3785,8 +3905,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Bonding</h3>
 
 <div>It is possible to establish enough supernatural rapport with a faerie that the summoner can create a mystic bond between him and it, through which he can channel its powers and use them as his own. It relies upon the summoner’s Communication and Faerie Rank as well as his score in Bonding, and the maximum Might Score he can affect is again limited by his Sympathy Traits, just as in Summoning. It also requires him to spend a Fatigue level to activate the effect, and the affected faerie must be within range of his voice when the bond is first formed.</div>
-<div>Bonding Total: stress die + Communication + Bonding + Faerie Rank + aura</div>
-<div>Maximum Might Score: (Sympathy Traits x 5)</div>
+
+<h4>Bonding Total: Stress Die + Communication + Bonding + Faerie Rank + Aura</h4>
+
+
+<h4>Maximum Might Score: (sympathy Traits X 5)</h4>
+
 <div>The Bonding Total must exceed the faerie’s Might to succeed, and must penetrate its Magic Resistance (though as usual the summoner can add his highest applicable Sympathy Trait to his Penetration score). If the faerie is held by a successful Summoning (one that penetrated its Magic</div>
 
 <div sidebars>
@@ -3815,16 +3939,24 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>bargaining session immediately. If after a certain period of time the players cannot come to an agreement, say after a few minutes, you can quickly resolve the bargaining session with a contested Communication + Bargain roll, modified by the character’s Faerie Rank. Note that applicable Sympathy Traits may also apply as a specialization to this Ability. Summoners generally bring beer, milk, gemstones, or other vitality-rich items with them when they travel, to offer in bargains; careful choice of Sympathy traits can make it likely that such items will be acceptable. Typical requests they might make of faeries include: service, such as fighting with the summoner against an enemy, using its powers to bless the summoner, or allowing the summoner to affect it with his other bargaining powers; permission to travel through lands owned by the faerie, or to harvest vis or other resources from it; a pact of non-aggression with the summoner and his community or his traveling companions; or the promise to owe the summoner a favor, to come and give aid when next called upon. Most faeries try to avoid long-term commitments, as they restrict their ability to gain vitality. Incognizant or narrowly cognizant faeries may, however, accept long-term commitments that suit them perfectly. They still expect substantial compensation from the summoner, however.</div>
 </div sidebars>
 
-<div>Captivating Total: stress die + Perception + Captivating + Faerie Rank + aura</div>
-<div>Maximum Might Score: (Sympathy Traits x 5)</div>
+
+<h4>Captivating Total: Stress Die + Perception + Captivating + Faerie Rank + Aura</h4>
+
+
+<h4>Maximum Might Score: (sympathy Traits X 5)</h4>
+
 <div>The Captivating Total must exceed the faerie’s Might to succeed, and must penetrate its Magic Resistance (though as usual the summoner can add his highest applicable Sympathy Trait to his Penetration score). If the faerie is held by a successful Summoning (one that penetrated its Magic Resistance), treat the effect level as 0 when calculating the Penetration Total, otherwise the effect level is the faerie’s Might Score. For example, to change places with a Faerie Might 20 faerie, the summoner would need a Captivating Total + Penetration bonus of 40, or 20 if the faerie were held by a successful Summoning. If the effect penetrates, the summoner and the faerie immediately switch places. Perhaps the easiest way to do this is to have the players trade character sheets. The summoner can do whatever it likes with the faerie, and the faerie has complete control over the summoner. They do not trade their memories, but they do effectively trade minds, so that either character can cast spells on itself to learn about that character’s past actions. The only limitation is that the exchange does not affect either character’s Personality Traits or Confidence Points (and Faith Points, if the summoner has True Faith), and the summoner also takes his Sympathy Traits with him. Either party can try to cancel the exchange at will, which faeries usually do when the terms of their bargain with the summoner expire. If the other does not wish to relinquish control, they have an emotional struggle for dominance. Both players should choose a Personality Trait that they agree is appropriate to the circumstances and what the character is currently doing — for example, if the summoner’s body is sleeping, the faerie’s Slothful Trait might best apply, while the summoner might use his Impatient Trait. If the character has no appropriate Personality Traits, treat this as a Trait with a score of 0. If the summoner character has Sympathy Traits appropriate to the faerie he is captivating, that player adds them to his total. Both players then add a stress die roll, and compare the results. If one of them has a higher total than</div>
 <div>the other, that player may decide whether or not to end the exchange. Captivating is a powerful, continuous effect that warps the summoner over time, giving his body 1 Warping Point every season, and another one every year. However, because the summoner’s body is controlled by the faerie, and the faerie is controlled by the summoner, both of them are immune to Faerie Calling for as long as the exchange lasts. It is a risky but effective route to immortality, and a compelling way for a summoner to experience Faerie without giving up his essential humanity. It is said that if the faerie dies while its body is controlled by the summoner, the exchange becomes permanent. Whether or not this is so has yet to be proven, however; others fear that in fact the faerie returns to its body and it is the summoner who dies. Most summoners prefer to ensure that the faerie inhabiting their body remains safe and undamaged for the duration.</div>
 
 <h3>Dismissing</h3>
 
 <div>Summoners who have studied the art of Dismissing have the power to undo supernatural effects made by beings with Might, and to free these beings from other effects that bind them. To do this, the summoner must expend a Fatigue level, and must speak with the being in question. As with the other Arts, he cannot affect a greater Might Score or effect Level than his Sympathy Traits allow.</div>
-<div>Dismissing Total: stress die + Intelligence + Dismissing + Faerie Rank + aura</div>
-<div>Maximum Might Score or Effect Level: (Sympathy Traits x 5)</div>
+
+<h4>Dismissing Total: Stress Die + Intelligence + Dismissing + Faerie Rank + Aura</h4>
+
+
+<h4>Maximum Might Score Or Effect Level: (sympathy Traits X 5)</h4>
+
 <div>Dismissing has three uses:</div>
 <div>• 	 The summoner can cancel any effect produced by the powers of a being with a Might Score, by exceeding the level of the effect on his Dismissing Total and penetrating the being’s Magic Resistance. The summoner can also deflect the use of a being’s power before it takes effect, if he beats the being’s Initiative Total on a Quickness + Finesse stress roll. (If the summoner has Finesse, he</div>
 <div>can add his highest applicable Sympathy Trait to his score.) Just as magi can fast-cast spells, a summoner can try to dismiss multiple effects in one round, but he suffers a cumulative –6 penalty for each one. • 	 Dismissing can end the duration of any effects that target a being with a Might Score, if he penetrates that being’s Magic Resistance and exceeds the level of the cancelled effect on his Dismissing Total. • 	 The summoner can release a being with a Might Score from the terms of an agreement that has supernatural force, such as a bargain made between a summoner and a faerie. To do this, the summoner must exceed the creature’s Might Score on his Dismissing Total, and must penetrate its Magic Resistance. Many believe that through this process the summoner takes the debt upon himself, freeing the being from its obligation.</div>
@@ -3888,16 +4020,26 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Dissecting Stories</h3>
 
 <div>Faeries are very diverse, which helps to hide the fact that they play few roles in stories. The following lists include characters from popular, modern fairy tales, to demonstrate each role. Faeries often:</div>
-<div>Create the problem that forces the player characters to act ...</div>
+
+<h4>Create the Problem That Forces the Player Characters To Act ...</h4>
+
 <div>• 	 The Witch in Rapunzel steals a child from a family with a magical pact that involves eating fairy food, and keeps her in a tower. Rapunzel develops magical powers, including tears that can permanently heal injuries and hair that grows at an alarming rate. She is likely a potent source of Corpus or Creo vis. • 	 The insulted faerie in Sleeping Beauty curses her to prick her finger, suffering a wound, and then dying. This is commuted to just sending her entire community into a regio to sleep for a hundred years.</div>
 <div>• 	 The magician in The Glass Coffin enchants the lands, turns the princes into animals, and seals the princess in a glass coffin when she refuses to marry him. • 	 The dwarf in Snow White, Rose Red curses a prince to take bear shape by stealing his money. • 	 Eris, in The Illiad, pitches the entire world into war, because she thinks it amusing.</div>
-<div>Are servants of player characters ...</div>
+
+<h4>Are Servants of Player Characters ...</h4>
+
 <div>• 	 The djinni from Aladdin and the Wonderful Lamp grants wishes. • 	 Dick Whittington’s Cat and Puss in Boots both help their masters become undeservedly rich. • 	 Snow White’s dwarfs make things for her. • 	 Any brownie or house goblin does chores. • 	 Dwarfs act as squires to great warriors in Arthurian tales.</div>
-<div>Grant a useful item, or can teach a useful skill, after the characters are tested ...</div>
+
+<h4>Grant a Useful Item, Or Can Teach a Useful Skill, After the Characters Are Tested ...</h4>
+
 <div>• 	 Cinderella’s helper (whether a godmother, ghost of her mother, or magical birds) provides her with, at least, one dress and set of shoes. • 	 The elves in the Shoemaker and the Elves make shoes. • 	 Dwarfs make the weapons of deserving heroes and gods in Norse mythology. • 	 A Lady of the Lake is the guardian of Excalibur and gives it to Arthur, while another guards three magic shields, which she gives to Lancelot.</div>
-<div>Allow the characters to travel to complete the story ...</div>
+
+<h4>Allow the Characters To Travel To Complete the Story ...</h4>
+
 <div>• 	 Djinni from Aladdin and the Wonderful Lamp allow him to fly through the world. • 	 Cinderella’s helper (godmother, ghost of her mother, or magical birds) provides her with a coach. • 	 The stag in The Glass Coffin carries the tailor to where he can break the curse. • 	 The valkyries in Norse myth carry the dead to their conclusion. • 	 Some pixies create dust that allows others to fly.</div>
-<div>Embody a threat that must be overcome ...</div>
+
+<h4>Embody a Threat That Must Be Overcome ...</h4>
+
 <div>• 	 Many faeries want to eat the heroes, like the giant in Jack the Giant Killer, the witch in Hansel and Gretel, the troll in the Three Billy Goats Gruff, the wolf in Red Riding</div>
 
 <div sidebars>
@@ -3924,13 +4066,21 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 <div>Hood or the Three Little Pigs, or just about any other story. • 	 Others want to capture the heroes. The Snow Queen steals Kay, and imprisons him. Calypso, in The Odyssey, wants to keep Odysseus from ever becoming famous or going home.</div>
-<div>Are the thing that must be aided ...</div>
+
+<h4>Are the Thing That Must Be Aided ...</h4>
+
 <div>• 	 Any number of cursed princes, like the Beast from Beauty and the Beast, the frog in Frog Prince, the prince in The Hut in the Forest, and the bear in Snow White and Rose Red. • 	 Any number of princesses that must be saved from monsters or evil knights. • 	 The animals in The Hut in the Forest. • 	 The lion with the thorn in his paw in Aesop’s Fables.</div>
-<div>Are the givers of final rewards ...</div>
+
+<h4>Are the Givers of Final Rewards ...</h4>
+
 <div>• 	 The welcome fairies in Sleeping Beauty. • 	 Any marriageable prince, or king with a daughter. • 	 Any faerie that rewards the good daughter and punishes the evil one. • 	 The cailleach that grants sovereignty of Ireland after testing the courage of a man.</div>
-<div>Play several of these roles at various parts of the story ...</div>
+
+<h4>Play Several of These Roles At Various Parts of the Story ...</h4>
+
 <div>• 	 Rumplestiltzkin provides service, and the chance to marry a prince, but becomes a threat. • 	 The Beast from Beauty and the Beast is initially a threat, then needs to be helped, and gives rewards. • 	 The Frog Prince serves the princess (by getting back her lost ball), then becomes a moral test, needs to be helped, and grants rewards.</div>
-<div>Are the heroes of stories (though this is more uncommon) ...</div>
+
+<h4>Are the Heroes of Stories (Though This Is More Uncommon) ...</h4>
+
 <div>• 	 The Little Mermaid deliberately reverses traditional stories, with the mermaid losing her voice, then her life, in love for a mortal. • 	 The Bremen Town Musicians. • 	 The Gingerbread Man.</div>
 <div>Plundering stories by dissecting the roles of the faeries, however, misses much of their pilferable magic. Faerie tales are awash with small details that seem perfect when read,</div>
 <div>and can be reused in stories. When Charles Perrault changed Cinderella’s slippers to glass, to represent the lightness of her step and the supernatural expensiveness of her shoes, he created a resonant image. Collections of fairy tales are filled with similarly perfect moments, items, and plot twists, all ready for a storyteller to take up and use.</div>
@@ -4009,7 +4159,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The Princess is either the object of the hero’s quest or a prize acquired along the way. The role of Princess can be filled by any person or object, not just a young female royal. Examples: The magical apple that cures the illness of hero’s grandmother.</div>
 
-<h4>The Task-Setter</h4>
+<h4>The Task-setter</h4>
 
 <div>The Task-Setter poses challenges for the hero to pass, and should he succeed, he will win the princess. The task-setter is distinct from the donor (whose tasks result in a magical gift or helper) and the villain (whose tasks are to oppose the hero, not keep the prize from him). Examples: The Sphinx faced by Oedipus; a king who demands the hero proves himself before winning his daughter’s hand; the dragon who guards the Golden Fleece.</div>
 

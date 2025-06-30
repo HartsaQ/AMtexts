@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -245,7 +249,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The description of a base covenant in ArM5, page 71 provides for about one grog (fighter) per magus and about two other servants of various trades or professions. The servants are likely to include clerks and cabin-boys to fetch and carry for the magus. These are not detailed here and you should consider the Urchin statistics in Apprentices, page 30 for any young cabin-boys in the fleet. Of the named grogs described nearby, you can assume that each of the covenant’s six magi have one on board their ship with them. Players may like to decide among themselves which of these grogs they claim.</div>
 
 <div sidebars>
-<div>Young Feeble Feeble is so called by the turb on account of his stammering and his morbid fear of dogs.</div>
+
+<h3>Young Feeble Feeble is so called by the turb on account of his stammering and his morbid fear of dogs.</h3>
+
 <div>Characteristics: Int –1, Per 0, Pre 0, Com –1, Str 0, Sta 0, Dex +3, Qik +2 Size: 0 Age: 25 (25) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Puissant Great Weapon, Warrior; Afflicted Tongue (stammer), Fear (dogs) Personality Traits: Brave +3, Bashful +2, Confused +1 Combat: Dodge: Init –1, Attack n/a, Defense +6, Damage n/a Fist: Init –1, Attack +7, Defense +6, Damage +0 Kick: Init –1, Attack +7, Defense +5, Damage +3 Bludgeon: Init +0, Attack +10, Defense +7, Damage +2 Long spear: Init +2, Attack +14, Defense +11, Damage +7 Soak: +4 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)</div>
 <div>Abilities: Area Lore: Hampshire 3 (taverns), Athletics 3 (running), Awareness 3 (in combat), Brawl 4 (Bludgeon), Carouse 3 (drinking), Organization Lore: Covenant of the Northern Seas 1 (personalities), English 5 (rude words), Etiquette 2 (magi), Fishing 3 (rod and line), Folk Ken 1 (peasants), Great Weapon 5+2 (longspear), Guile 2 (avoiding duties), French 4 (Norman), Survival 2 (for a short period), Swim 2 (long distances) Equipment: Pack; Partial Metal Scale Armor; Long spear, Fishing hooks and line. Encumbrance: 3 (3) Appearance: If there is a way to tie or buckle something wrong and still be wearing it, Feeble finds a way. He bears a look of surprised confusion whenever spoken to and his first instinct is to look for someone to answer for him. This is of course in part because of his bashfulness over his stammer.</div>
 <div>Feeble by name, but not necessarily by capability. He is highly-proficient with the spear and his task is usually to close off an enemy’s lines of attack or retreat. He lacks imagination and so when given a task he is happy to continue in that task until told to stop, including during combat.</div>
@@ -266,18 +272,24 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>A thief and a rogue, Silence is more used to subtlety and stealth than open brawling. He is often employed on tasks where his skills of stealth and legerdemain come in useful. He can often be seen, on his own, practicing his athletic and climbing prowess, sprinting, and throwing knives at targets.</div>
 <div>Characteristics: Int 0, Per +1, Pre –2, Com –2, Str 0, Sta 0, Dex +5, Qik +3 Size: 0 Age: 26 (26) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Great Dexterity × 2; Covenant Upbringing, Master of None* * From the Grogs supplement Personality Traits: Brave +3, Disciplined +2, Self-Interest +1, Honorable –1 Combat: Dodge: Init +2, Attack n/a, Defense +6, Damage n/a Fist: Init +2, Attack +8, Defense +6, Damage +0 Kick: Init +1, Attack +8, Defense +5, Damage +3 Dagger: Init +2, Attack +11, Defense +7, Damage +3 Throwing Knife: Init +2, Attack +10, Defense +7, Damage +2 Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Athletics 4 (acrobatics), Awareness 3 (search), Brawl 3 (dagger), Organization Lore: Covenant of the Northern Seas 1 (people), Disguise 2 (peasants), English 3 (slang), Folk Ken 2 (grogs), Latin 2 (overheard speech), Legerdemain 4 (pilfering), French 5 (Norman), Stealth 5 (urban areas), Swim 2 (stay afloat), Thrown Weapon 3 (throwing knife) Equipment: Dark clothes and short traveling cloak; Pack; Rope; Quilted Armor; Dagger; Throwing knives Encumbrance: 1 (1) Appearance: Fit and wiry.</div>
 <div>Silence prefers to use his throwing knives in combat. If these don’t slow his opponent enough, he is always mindful of finding an exit and coming back more prepared. He works well with Fang, with the brawler grappling an opponent to the ground and then Silence coming in with a well-placed dagger.</div>
-<div>Shadow Shadow is well-named as he has vowed never to willingly leave his magus’ side. This serious-minded man has trained all his life to be the best possible shield grog he can manage.</div>
+
+<h3>Shadow Shadow is well-named as he has vowed never to willingly leave his magus’ side. This serious-minded man has trained all his life to be the best possible shield grog he can manage.</h3>
+
 <div>Characteristics: Int 0, Per 0, Pre 0, Com 0, Str +2, Sta +1, Dex 0, Qik +4 Size: 0 Age: 25 (25) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Improved Characteristics, Great Quickness, Warrior; Covenant Upbringing, Susceptible to Warping*, Unlucky* * From the Grogs supplement Personality Traits: Brave +3, Loyal +3, Overconfident +3 Combat: Dodge: Init +3, Attack n/a, Defense +8, Damage n/a Fist: Init +3, Attack +4, Defense +8, Damage +2 Kick: Init +2, Attack +4, Defense +7, Damage +5 Dagger: Init +3, Attack +7, Defense +9, Damage +5 Longsword & Rectangular shield: Init +5, Attack +10, Defense +15, Damage +8 Soak: +10 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5</div>
 <div>(11–15), Incapacitated (16–20), Dead (21+) Abilities: Athletics 2 (contortions), Awareness 5 (bodyguarding), Brawl 4 (Dagger), Organization Lore: Covenant of the Northern Seas 1 (people), English 5, Folk Ken 3 (townsfolk), Latin 3 (hermetic usage), Leadership 4 (intimidation), French 4 (Norman), Single Weapon 5 (longsword), Swim 2 (stay afloat) Equipment: Rectangular Shield, Full Chain Mail, Traveling Pack, Longsword, Dagger, iron helmet Encumbrance: 1 (3) Appearance: Erect, neatly turned out, with everything clean and polished. Beneath the brim of his iron helmet his eyes watch for any threat to his magus and he is often seen holding people at arm’s length until given permission to approach his magus, even those people the magus knows. He carries a large rectangular shield that some have quipped is very nearly a field pavise.</div>
 <div>Unless ordered otherwise, Shadow remains with his magus while in combat, standing off a safe distance and placing himself between his magus and harm. For this reason, he is unlikely to join a combat group and never presses a combat advantage; doing so might leave an opening through which he master might be harmed. Shadow considers himself armored enough to take whatever punishment comes his way.</div>
-<div>Fang Fang is a brawler and likes to get in close and grapple. He has a tendency to bite his opponents, claiming it takes the fight out of them, though even his closest friends state it is his foul odor responsible for that. Fang has a weakness for drink and indulges whenever he is given the opportunity, which almost always ends in him becoming embroiled in one fight or another.</div>
+
+<h3>Fang Fang is a brawler and likes to get in close and grapple. He has a tendency to bite his opponents, claiming it takes the fight out of them, though even his closest friends state it is his foul odor responsible for that. Fang has a weakness for drink and indulges whenever he is given the opportunity, which almost always ends in him becoming embroiled in one fight or another.</h3>
+
 <div>Characteristics: Int –2, Per +1, Pre –1, Com –2, Str +1, Sta +2, Dex +3, Qik +2 Size: 0 Age: 28 (28) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Puissant Brawl, Tough, Warrior; Careless with Great Weapon*, Social Handicap (Unpleasant odor), Weakness (Drinking) * From the Grogs supplement</div>
 <div>Personality Traits: Brave +3, Loyal +2, Subtle –2 Combat: Dodge: Init +1, Attack n/a, Defense +9, Damage n/a Bite: Init +2, Attack +11, Defense +10, Damage +1 Fist: Init +1, Attack +10, Defense +9, Damage +1 Grappling: Init +2, Attack +10, Defense +9, Damage +1 Kick: Init +0, Attack +10, Defense +8,</div>
 <div>Damage +4 Axe & heater shield: Init +2, Attack +13, Defense +11, Damage +7 Soak: +7 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11– 15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Area 2 (brewers), Athletics 2 (climbing), Awareness 3 (in combat), Brawl 5+2 (Bite), Carouse 4 (drinking), Charm 3 (when drunk), Chirurgy 3 (cauterization), Organization Lore: Covenant of the Northern Seas 2 (personalities), English 5 (talking about fighting), Folk Ken 1 (magi), Great Weapon 3 (long spear), Guile 3 (lying to magi), Music 2 (drinking songs), Ride 1 (pack horse), Single Weapon 5 (heater shield), Survival 1 (on rivers), Swim 2 (underwater maneuvering) Equipment: Heater shield; Pack; Partial Metal Reinforced Leather Armor; Ax Encumbrance: 1 (2) Appearance: Bearded, hunched, and reeking. His armor is loose and filthy, possibly more use for carrying chunks of bread and cheese inside for when he gets hungry. He does have an ax and a shield, but frequently forgets them and so is just as often seen without them as with.</div>
 <div>Fang enjoys grappling and brawling, which makes for an effective means of subduing enemies rather than hacking at them indiscriminately.</div>
 </div sidebars>
 
-<div>Through The Aegis Specialists and Other Covenfolk</div>
+
+<h3>Through The Aegis Specialists and Other Covenfolk</h3>
+
 <div>A ship cannot function without her crew, so use these statistics for the crewmembers, regardless of which ship in the fleet you need them for.</div>
 <div>Ship’s Captain</div>
 <div>Given their importance, each ship’s captain is bought as a Specialist from the Covenant’s Build Points. These individuals are described below alongside their ships, but a standard statistics block is provided nearby. Each sea captain costs 5 Build Points.</div>
@@ -346,7 +358,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Story Seed: The First Contract</h3>
 
 <div>The covenant has been engaged to take a small cargo of tin from Southampton to Riga. Two nights into the journey, a stowaway is discovered trying to pilfer food. This young girl is no urchin; she is clearly the daughter of someone important. As the magi learn more, it seems that she is fleeing a marriage to an elderly knight arranged by her father for monetary gain. Her sweetheart has already fled her father’s abuses and she is going to Riga to be with him. Can the magi allow themselves to be dragged into this tale of love and loss? What do they do when they discover that this long-lost lover in Riga has himself a new woman? And how do they deal with the angered father now that he has discovered on whose ship she stole away?</div>
-<div>Story Seed: The First Act of Piracy</div>
+
+<h3>Story Seed: The First Act of Piracy</h3>
+
 <div>Having heard of a valuable cargo of silver and other treasures on its way to Denmark, the covenant resolves to take it. When they board the ship, however they find little treasure but a handful of monks on their way to save a village from the curse of devilry and witchcraft. The treasure on board is the sacred relics and paraphernalia that they carry with them. Do the magi take the treasure and leave the monks and the villagers to their fate, or do they take the virtuous path?</div>
 </div sidebars>
 
@@ -391,7 +405,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Hilde’s laboratory is constantly damp as the Marie de Bayonne has been modified so that the hull remains sound despite the opening from Hilde’s laboratory to the sea. This opening allows Hilde to leave her laboratory directly into the sea in her shark heartbeast, but the water does slosh into the lab during choppy seas, despite an enchantment that keeps the ocean at bay. The ceiling is strung with fish in various states of decomposition, seaweed, and driftwood. Names Added to Sanctum Marker: Carles Magnus Characteristics: Size +0 (0), Refinement +1, General Quality –1, Upkeep +1, Safety +0, Warping +0, Health +0, Aesthetics +1 Virtues & Flaws: Mobile, Highly Organized, Lesser Feature (Running Water), Extensive Stores, Specimens; Cramped, Lesser Focus (Running Water), Unstable Specializations: Experimentation +2; Animal +1, Aquam +3 These enhancements cost 30 Build Points.</div>
 <div>Captain</div>
 <div>The Marie de Bayonne is captained by Taupin le Ribaut, a gray-bearded tyrant who runs a decent God-fearing ship. He’s a fair captain, but woe betide those who fall short of his standards. His Personality Traits are Merciless +3, Pious +2, Loyal to Hilde +1.</div>
-<div>The Black Bark: Andrew of Jerbiton</div>
+
+<h3>The Black Bark: Andrew of Jerbiton</h3>
+
 <div>The Black Bark is a large hulk with 6 Damage Levels. Its hull has been painted pitch black to reflect its name, which immediately provides the ship with a certain presence. There is no mistaking the Black Bark when she rounds into port.</div>
 <div>Andrew’s Laboratory</div>
 <div>The laboratory on the Black Bark has the statistics for the standard shipboard laboratory detailed above.</div>
@@ -407,7 +423,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Laurens is captained by a Breton by the name of Tiessot. He has a tendency to walk the ship at night, when things are calm</div>
 
 <div sidebars>
-<div>The Long Bone of Saint Epiphanius</div>
+
+<h3>The Long Bone of Saint Epiphanius</h3>
+
 <div>Saint Epiphanius (died 403) was the bishop of Salamis on the eastern coast of Cyprus and a noted polemicist warning against the dangers of heresy in all its forms. He lived into his eighties and was noted for his mastery of many languages. Carles has acquired the thigh of Epiphanius, which has a Faith Score of 3 and the following miraculous power:</div>
 <div>Babel Rejoined</div>
 <div>InMe 40 Pen +8, 2/day R: Touch, D: Sun, T: Hearing Those in the same structure as the long bone of Epiphanius understand the spoken words of all others within the structure regardless of the languages that any of them speak. To benefit, targets must at least nominally be members of either the western or eastern Churches. Jewish and Islamic characters do not benefit, neither do heretics, pagans, or those aligned with the Infernal. The power is activated by invoking Saint Epiphanius in the presence of the bone, something widely-known by the crew. (Effect: Base 5, +1 Touch, +2 Sun, +3 Hearing; Modifications: +1 for 2/ day, +4 for +8 penetration) This relic costs 35 Build Points.</div>
@@ -487,7 +505,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Mark the Fleet ReHe 11 Pen +0, 12/day R: Touch, D: Momentary, T: Individual Moves the token placed upon the chart to the location indicated by the Finding the Fleet effect. (Effect: Base 3, +1 Touch; Modifications: +4 for 12/day, +3 triggered by Finding the Fleet)</div>
 
 <div sidebars>
-<div>Story Seed: The Fall of the Mercantile Families</div>
+
+<h3>Story Seed: The Fall of the Mercantile Families</h3>
+
 <div>When a series of sustained pirate attacks along the Rhine coast threatens to bring down several prominent mercantile trading families, the Northern Seas must act to protect its monetary interests. When it becomes clear that the covenant of Waddenzee is responsible, the covenant has some hard decisions to make. On their own, they may not be strong enough to oppose Waddenzee, but can they find aid from other covenants similarly affected and similarly intimidated? Perhaps the covenant could instead persuade these separate families to band together and coordinate their activities and their wealth for the protection of all.</div>
 </div sidebars>
 
@@ -625,7 +645,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>With few resources to call upon, it does not take long for the covenant to feel their lack of magical power take hold. Carles and Hilde find it difficult to recreate their longevity rituals, which comes as a warning to the younger magi. The covenant must decide whether it is to become truly self-sufficient and find a way to provide for themselves, or it must find allies prepared to help them in areas where they cannot yet help themselves.</div>
 <div>The Hermetic Tourney</div>
 <div>As with any covenant of the Normandy Tribunal, the Northern Seas is expected to take part in the tourney; the magical competition with both resources and pride at stake that takes place at the conclusion of each Tribunal gathering. As a young covenant, Carles is under no illusion about their prospects, but he would like the covenant to win at least one event, if only for one year, before the covenant breaks away to found its own Tribunal. The covenant’s grogs seem rather keen to take on the melee, and the covenant may look to Tibor to take on the certamen tournament.</div>
-<div>The Northern Seas as an NPC Covenant</div>
+
+<h3>The Northern Seas as an NPC Covenant</h3>
+
 <div>The magi of the Northern Seas can fulfill many roles in existing sagas, from allies to adversaries, suppliers to customers, and perhaps even more.</div>
 <div>Allies</div>
 <div>Those who provide support to the Northern Seas could stand to benefit. There are several reasons to do this, of course. If Carles succeeds in having the oceans deemed fit territories for new Tribunals then the wealth of the oceans is ripe for exploitation for those who arrive early. In supporting Carles now, his knowledge and support later</div>
@@ -676,7 +698,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <div sidebars>
-<div>Joia du Lua of House Jerbiton</div>
+
+<h3>Joia du Lua of House Jerbiton</h3>
+
 <div>Characteristics: Int +1, Per –1, Pre +5, Com +2, Str –2, Sta 0, Dex +1, Qik 0 Size: –1 Age: 68 (50) Decrepitude: 0 Warping Score: 5 (6) Confidence: 1 (3) Virtues and Flaws: The Gift; Hermetic Maga; Gentle Gift; Affinity with Charm, Educated, Venus’ Blessing, Free Expression*, Great Presence (2), Social Contacts (Troubadours), Privileged Upbringing; Deficient Technique Perdo, Envied Beauty; Ability Block (Martial), Higher Purpose (Save Toulouse from the French), Loose Magic, Small Frame. * House Virtue Personality Traits: Patriotic+3, Romantic +3, Vain +2 Reputations: Beautiful Chatelaine 4 (nobles), Patroness of Troubadours 3 (troubadours), Cultured 2 (magi) Combat: Dodge: Init +0, Attack n/a, Defense +0, Damage n/a Fist: Init +0, Attack +1, Defense 0, Damage -2 Gardening Trowel: Init –1; Attack +2; Defense –1; Damage –1 Soak: 0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –5 (9– 12), Incapacitated (13–16), Dead (17+) Abilities: Area Lore: County of Toulouse 3 (nobles), Artes Liberales 4 (astronomy), Awareness 1 (alertness), Charm 4 (17) (troubadours), Code of Hermes 1 (7) (interpreting interfering with mundanes), Concentration 1 (maintaining spells), Craft: Gardener 4 (flowers), Craft: Winemaking 2 (7) (black wines), Etiquette 4 (Toulouse courtly manners), Finesse 1 (creating flowers), Folk Ken 1 (6) (covenfolk), Guile 2 (2) (answering questions), Hunt 1 (hawking), Intrigue 2 (2) (romantic liaisons), Latin 5 (Hermetic usage), Leadership 2 (2) (magi), Magic Lore 1 (magical plants), Magic Theory 6 (5) (Mentem), Music 1 (4) (flute), Occitan 5 (poetry), Organization Lore: Jardin 2 (history), Organization Lore: Order of Hermes 1 (7) (magi of Provencal), Parma Magica 2 (4) (Mentem), Penetration 1 (Herbam), Philosophiae 1 (natural philosophy), Profession: Scribe 1 (copying), Profession: Viticulturist (care of vines) 2 (5), Ride 1 (horses), Teaching 4 (11) (apprentices). Arts: Cr 7, In 5, Mu 5, Pe 7, Re 11, An 5, Aq 5, Au 6, Co 9, He 19, Ig 6, Im 9, Me 11, Te 5, Vi 11 Twilight Scars: Flowers grow wherever she sleeps; she exudes a faint smell of summer flowers; spring blossom always appears in hair.</div>
 <div>Equipment: Iron gardening trowel (talisman), clothes suited to occasion. Encumbrance: 0(0) Appearance: A very petite woman, her physical charms remain obvious despite her years. Her hair is always flecked with spring blossoms. Spells Known: Soothe the Ferocious Bear (ReAn 10) +16 Gentle Touch of the Purified Body (CrCo 20) +16 Disguise of the New Visage (MuCo 15) +15, Mastery 1 (Fast Casting) Rise of the Feathery Body (ReCo 10) +20 Endurance of the Berserkers (ReCo 15) +20 The Healthy Vine (CrHe 5) +31 The Well Tended Vine (CrHe 5) +31 Create the Flowers of the Moon (CrHe 15) +26 Trap of the Entwining Vines (CrHe 15) +26 Converse with Plant and Tree (InHe 25) +24 Coils of the Entangling Plants (ReHe 20) +30 Ward against the Faeries of the Wood (ReHe25) +30 The Treacherous Spear (ReHe25) +30 Freeing the Striding Tree (ReHe 30) +30 Prison of Flames (MuIg 20) +11 Aura of Ennobled Presence (MuIm 10) +14 Sight of the Transparent Motive (InMe 10) +16 Frosty Breath of the Spoken Lie (InMe 20) +16 Calm the Motion of the Heart (PeMe 15) +9 Enchantment of Detachment (PeMe 15) +9 Loss of But a Moment’s Memory (PeMe 15) +9 Confusion of the Numbed Will (ReMe 15) +22 The Call to Slumber (ReMe 10) +22 Aura of Rightful Authority (ReMe 20) +22 Cool the Lover’s Ardor (ReMe 20) +22 Detect the Gift (InVi 20) +16 The Invisible Eye Revealed (InVi 15) +16 Piercing the Magical Veil (InVi 20) +16 Watching Ward (ReVi 30) +22</div>
 <div>She is currently under a longevity ritual that provides –6 to Aging Rolls.</div>
@@ -698,7 +722,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Magi</h3>
 
 <div>There are currently six magi on the Council of Jardin, listed here in order of precedence as established by the Charter (see later).</div>
-<div>Joia du Lua of House Jerbiton</div>
+
+<h3>Joia du Lua of House Jerbiton</h3>
+
 <div>Joia du Lua poses as chatelaine, and is a renowned patron of troubadours and advocate of Occitanian culture. It was she who, inspired by the songs of the troubadours, found a way to recreate the mythical Garden of Love, and in her attempt to protect the South she has allowed many to quest for their Heart’s Desire within the regio (see later). On occasion this has led to disaster, as the quester has returned changed terribly by their experiences within, or not returned at all. The magi have taken action to cover up these incidents, or selectively change the memories of the victims of the garden. Joia’s passionate support of Occitan culture extends to political support for Count Raimond, and a so far passive opposition to the claims of the French monarchy, the de Montfort family, and the crusaders. She thinks nothing of sheltering faidits, those dispossessed by the fighting, as long as they share her patriotism for the County of Toulouse. Her hostility to the French extended to poor treatment directed at Beatriz, her French-born apprentice, and sooner or later she will bring the attention of hostile armies upon the covenant, just as befell Bellaquin in 1202 or Lariander in 1209. Joia inspires many lovers in fin amor, but has never consummated any of her romances. To do so would be a breach of the noble ideals of romantic love. Nonetheless her beauty, based more upon her enchanting personality than physical looks, is such that vain women detest her, and for this reason she has the Envied Beauty Flaw (see Houses of Hermes: Societates, page 56). Joia’s magic manifests her sigil of the delicate perfume of summer flowers.</div>
 
 <h3>Lexora of House Bjornaer</h3>
@@ -712,7 +738,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>In the late twelfth century House Criamon embarked upon a remarkable experiment, an attempt to teach a fool wisdom. Xenophanes is a very unusual magus, in that he is not very bright. In fact, he is fairly stupid, lacking common sense, and, while highly educated, simple minded. He rushes in where angels fear to tread, and is very confident in his own abilities, because he knows no better. A capable magus, his lack of understanding of much that happens around him is potentially dangerous. Not all in House Criamon approved of the</div>
 <div>experiment (see Miniatia Sophia, later) but the Cave of Twisting Shadows, where the boy was apprenticed, regards the experiment as a major development in the pursuit of The Enigma. A gentle soul who loves tending the garden in the pale light of the moon while Hypatia, his cat familiar, prowls around, Xenophanes has little understanding of the internal politics of the covenant. He is, however, very attached to the local Cathars, and has written a book on their beliefs and ideas. As such, he is sympathetic to the Gorgiastic Cathars of Toulouse, but he has not yet decided to renounce his House and join them, as every time he comes close he talks to Father Augustine and becomes too confused to leave the Church and make the leap of faith of fully</div>
-<div>Joia du Lua of House Jerbiton (Cont’d) Story Seeds for Joia</div>
+
+<h3>Joia du Lua of House Jerbiton (Cont’d) Story Seeds for Joia</h3>
+
 <div>Despite Lexora’s ambitions for leadership, in many senses Joia is Jardin: she created the covenant in its present form, completely changing the legacy of Humbert and Androcles. Almost every Jardin story involves Joia’s presence or schemes.</div>
 <div>Story Seed: The Jealous Trobairitz</div>
 <div>Titbores is a prominent female troubadour, a trobairitz, who writes vulgar and often satirical poems about the chatelaines who sponsor and support her male troubadour colleagues, but who have shown little regard for her verse output. Her actual identity is currently unknown, though it is clear she must be someone of social prominence or well connected to the troubadour movement of the County of Toulouse, even if she may get some of her observations from the barbed gossip of her male associates. Whoever Titbores is, she has recently developed a particularly unpleasant grudge against Joia, and the characters hear bawdy songs sung by minstrels in taverns that originate from her poetry, songs that comment extremely unflatteringly on Joia’s supposed warts (on the face and elsewhere) and her being a hagged old crone, who only manages to maintain her influence by witchcraft and sorcery, and who is “poisonous as the warty toad, yet lacks the rough charm thereof”. Joia is incensed and tries to narrow down a list of influential Occitan women to find out who this slanderous woman is and why she has begun her campaign against her. The campaign is all the more worrying because Joia does use sorcery to maintain her beauty.</div>
@@ -750,7 +778,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Beatriz is a broken husk of a maga. After serving her apprenticeship here at the covenant under Joia, she chose to remain despite the fact that the two women despise each other. In 1209 she witnessed the terrible massacre at Beziers, and was one of the very few to escape. In the face of the crusade she felt helpless. A few years ago Beatriz made the fateful decision to quest for her Heart’s Desire. The</div>
 
 <div sidebars>
-<div>Lexora of House Bjornaer (Cont’d) Sensory Magic</div>
+
+<h3>Lexora of House Bjornaer (Cont’d) Sensory Magic</h3>
+
 <div>Sound and Spectacle are Targets derived from the Sensory Magic Mystery of House Bjornaer. Magi who have not been Initiated into that Mystery cannot create or cast spells that use them. A Sound Target affects anyone who can hear the caster, while a Spectacle Target affects anyone who can see her.</div>
 <div>Lexora, in Lioness Form</div>
 <div>Characteristics: Int +1, Per +0, Pre +1, Com 0, Str +6, Sta +3, Dex +2, Qik +1 Size: +2 Decrepitude: 0 Warping Score: 4 (10) Confidence: 2 (5) Virtues and Flaws: The Gift; Hermetic Maga; Animal Ken, Ferocity (selfdefense), Heartbeast (Lioness)*, Improved Characteristics (×2), Puissant Brawl, Reserves of Strength, Self-Confident, Sensory Magic, Subtle Magic, Tough, Unbound Tongue, Wilderness Sense; Pagan, Proud, Weak Magic Resistance (when in human form); Weak Enchanter, Weakness (submission) Qualities: Aggressive, Ambush Predator, Crafty, Good Jumper, Hardy, Imposing Appearance, Large Claws, Large Teeth, Tough Hide, Vocal. Combat: Claws: Init +1, Attack +15, Defense +12, Damage +10 Bite: Init +1, Attack +13, Defense +9, Damage +9 Soak: +8 (Tough Hide gives Lexora +2 Protection) Fatigue Levels: OK, 0/0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+) Abilities: Animal Ken 1 (predators), Area Lore: County of Toulouse 1 (7) (wilds), Artes Liberales 2 (grammar), Athletics 5 (pouncing), Awareness 2 (smell), Brawl 5+2 (1) (claws), Code of Hermes 1 (7) (Certamen), Hunt 4 (deer), Finesse 1 (tar</div>
@@ -1029,7 +1059,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Garden of Love</h3>
 
 <div>The Garden of Love is a powerful Faerie regio, shaped by the dreams of the magi, the plans of Joia, and hard work and mundane craftsmanship. Its deeper levels are dangerous, and sometimes frightening, and the magi rarely go there. Even Joia knows little of its mysteries or inhabitants.</div>
-<div>The Summer Garden (Regio, Faerie Aura 5)</div>
+
+<h3>The Summer Garden (Regio, Faerie Aura 5)</h3>
+
 <div>Crossing over into the regio takes characters to a level 5 Faerie aura. While still apparently on the ridge, it now appears that they are in a fabulous walled garden that mirrors the fortress just left behind in general layout. Where the library stands in the mundane world is a great pool of water. The location</div>
 <div>of the tower holds a maze of dark and rustling hedges, and overhead the sun blazes upon a beautiful summer garden filled with avenues of shady trees, statues of classical goddesses, and beautiful flowers and shrubs. Troubadours favored by Joia are occasionally invited to recite and sing for selected guests here at some of Joia’s famous entertainments, and magic is openly used by her to dazzle the guests senses and fill their hearts with joy. The bower still exists, but in a mirrored position, and now it is deeper, and more mysterious.</div>
 <div>The Pool</div>
@@ -1037,7 +1069,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Maze</div>
 <div>The maze is a proper maze, not a labyrinth, and leads to the next level of the regio. Hedge mazes have only just come into fashion, and this maze, created by Xenophanes with exquisite topiary, guards the entrance to the dangerous Night Garden. While the Garden of Love’s outer Summer regio is a place of joy and idleness, the Night Garden contains the secrets of the heart, and only those Joia considers ready for the quest to find their Heart’s Desire (and some unfortunate grogs and covenfolk sent to gather vis) are ever allowed to enter. The center of the maze is a tree with beautiful shining fruit, but there is</div>
 <div>no mundane way to reach it, and even if the fruit were somehow attained it is a deadly poison. The way to pass on to the next level is simply to become lost within the maze.</div>
-<div>The Night Garden (Regio, Faerie Aura 7)</div>
+
+<h3>The Night Garden (Regio, Faerie Aura 7)</h3>
+
 <div>Overhead a full moon stands high in a balmy summer night sky. A gentle breeze seems to whisper soft secrets, and caress the skin; all around the garden rustles with life, but furtive, secret life. Dark eerie shadows are cast by the trees — the night garden is a frightening place. Emerging from the maze, the walls seem distant, further away than in the previous level, and it is impossible to see far, so tangled and wild are the briars and trees. All around is lush vegetation, and paths that wind among great moss-covered rocks, through grassy clearings filled with bluebells, and by tiny brooks that flow nowhere and end in deep, perhaps bottomless, pools. Wandering through the Night Garden brings one to all kinds of exotic flowers, plants and strange sights. None of these are created or tended by the magi, who avoid entering this level of the regio as far as possible. Magical monsters and strange beings live here, and they can be deadly, although they are shy and rarely encountered. These beings are often allegorical representations of the personality flaws, fears and problems that separate the quester from her Heart’s Desire, but very few are self aware enough to realize this. Because the inhabitants vary so much, taking on forms appropriate to the</div>
 <div>quester, they are not detailed here, but several must be overcome by anyone questing for their Heart’s Desire, and the storyguide should create appropriate challenges.</div>
 <div>The Lake</div>
@@ -1145,7 +1179,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Animal Soothe Pains of the Beast CrAn20 True Rest of the Injured Brute CrAn20 The Wizard’s Mount CrAn35 Opening the Tome of the Animal’s Mind InAn25 Beast of Outlandish Size MuAn15 Disguise of the Putrid Aroma ReAn5 Soothe the Ferocious Bear ReAn10 Viper’s Gaze ReAn15 The Gentle Beast ReAn25 Mastering the Unruly Beast ReAn25 Commanding the Harnessed Beast ReAn30</div>
 
 <div sidebars>
-<div>Story Seed: Heresy in the Library?</div>
+
+<h3>Story Seed: Heresy in the Library?</h3>
+
 <div>Xenophanes has contributed just three books to the library, but if the Church authorities or a hostile magi were to examine them problems could arise. One, The Simple Christians, is a very basic primer on Cathar Theology. It is not an endorsement, but it is sympathetic, and it also discusses the beliefs of the Gorgiastic Cathar tradition within Ex Miscellanea, and so could be used as evidence that the Order is sheltering heretics within its ranks. The second book is just as explosive: a simple tractatus on Vim, it equates The Gift with shards of the Divine broken by the Fall and yearning for return to Heaven, and escape from the cycles of time. Church scholars, unless Gifted and possessing Magic Theory, would have difficulty making sense of it, but they would certainly believe it heretical and call upon Xenophanes to recant his errors, and this would bring the entire covenant under severe scrutiny. His third text is, fortunately, uncontroversial. So low is the regard that Xenophanes’ intelligence is held that no one at the covenant has yet read them and noticed the potential problem, but when a scholarly papal legate visits, the situation quickly gets out of hand, and the magi must find some way to stop him examining these books further. Even worse, visitors from other covenants copied the books, and they are starting to circulate through the Order. Can the copies be recovered and destroyed in time?</div>
 </div sidebars>
 
@@ -1302,7 +1338,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>History</h3>
 
 <div>The history of Didyma is inextricably entwined with the history of the Branchidae.</div>
-<div>The Branchidae of House Ex Miscellanea</div>
+
+<h3>The Branchidae of House Ex Miscellanea</h3>
+
 <div>The Branchidae are a pagan Ex Miscellanea tradition. It is a literal lineage composed of Gifted blood descendants of the tradition’s founder Branchos, who died around 900 BC. Since Branchos, the Branchidae have maintained temples and interpreted the oracle at Didyma. As political control of the region has changed over the centuries the nature of the oracle cult has also changed: at times it has been controlled by officials in Miletos, or even abandoned altogether. In the late 300s AD imperial edicts of the Christian Roman Empire closed the temple, outlawed the cult, and built a large church, a monastery, and a fortress at the site. However, in the 8th century earthquakes irreparably damaged the church and fortress. These were abandoned, which ended four</div>
 <div>centuries of Christian occupation. Secretly, local still-pagan, Gifted descendants of the Branchidae (who had preserved the cult secrets) re-occupied the site. These hedge wizards were discovered in 990, just before the Schism War, by the magus Cletus of the Lineage of Pralix. Cletus converted the Branchidae to the Order of Hermes, and gathered numerous prophecies that helped Greek magi to avoid the worst of the Schism conflict. The matriarch Soteria (the grand-parens, and great-great-grand-mother, of the current Branchidae patriarch Alexander) was the first Branchidae convert to the Order of Hermes.</div>
 <div>The Founder Branchos</div>
@@ -1409,7 +1447,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <div sidebars>
-<div>Alexander of House Ex Miscellanea (Cont’d)</div>
+
+<h3>Alexander of House Ex Miscellanea (Cont’d)</h3>
+
 <div>Talisman powers: Tongue of Beasts InAn 35 Pen: +0, Unlimited uses R: Voice, D: Diameter, T: Individual The caster can communicate fluently with any animal. (Base 10, +2 Voice, +1 Diameter; +10 Unlimited uses)</div>
 <div>Sticks to Snakes MuHe(An) 30 Pen: +0, 24/day R: Touch, D: Sun, T: Individual Transforms a stick into a writhing snake. The snake is Size –4, has a Soak of +2, and attacks with fangs (Init +3, Attack +11, Defense +10, Damage –7). The snake is venomous so any wound it causes may be poisoned; Ease Factor 6, Light Wound (ArM5, page 180). (Base 10, +1 Touch, +2 Sun; +5 24 uses per day)</div>
 <div>Grasping the Snake MuHe(An) 25 Pen: +0, 24/day R: Personal, D: Sun, T: Individual A version of Sticks to Snakes that transforms the talisman into a writhing snake. This snake has the same statistics as Sticks to Snakes, and (as it is the talisman) has Alexander’s Form Magic Resistance scores. (Base 10, +2 Sun; +5 24 uses per day)</div>
@@ -1486,7 +1526,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Companions associated with the covenant include: Callista, the covenant’s representative</div>
 
 <div sidebars>
-<div>Ariane of House Jerbiton (Cont’d) Palm of Hearing</div>
+
+<h3>Ariane of House Jerbiton (Cont’d) Palm of Hearing</h3>
+
 <div>InIm 10 R: Touch, D: Diameter, T: Hearing The caster can hear from the perspective of the target. This spell must Penetrate in order to sense creatures with Magic Resistance. Ariane has learned this spell to cast down an Intangible Tunnel. (Base 1, +1 Touch, +1 Diameter, +3 Hearing)</div>
 <div>Palm of Seeing</div>
 <div>InIm 15 R: Touch, D: Diameter, T: Vision The caster can see from the perspective of the target. This spell must Penetrate in order to sense creatures with Magic Resistance. Ariane has learned this spell to cast down an Intangible Tunnel. (Base 1, +1 Touch, +1 Diameter, +4 Vision)</div>
@@ -1531,7 +1573,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Niketas is the politically powerful met</div>
 
 <div sidebars>
-<div>William of Normandy: House Flambeau (Cont’d)</div>
+
+<h3>William of Normandy: House Flambeau (Cont’d)</h3>
+
 <div>Talisman attunements: +7 protect the wearer, +7 repel faeries.</div>
 <div>Talisman powers: The Light Pours Out of Me CrIg 15 Pen: +0, 24/day R: Personal, D: Diameter, T: Individual Brilliant, incandescent light streams out of the armor. The light only illuminates; it does not cause damage. (Base 5, +1 Diameter; +5 24 uses)</div>
 <div>Iron Ward ReVi 23 Pen: +16, Unlimited R: Personal, D: Diameter, T: Individual Wards against faerie creatures of Might 15 or less. (Base effect, +1 Diameter; +10 unlimited uses, +8 Penetration)</div>
@@ -1585,7 +1629,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Ella the Oracle</h3>
 
 <div>Characteristics: Int +1, Per +2(1), Pre +1, Com +2(1), Str 0, Sta 0, Dex +1, Qik +1(1) Size: 0 Age: 44 (43) Decrepitude: 0 (3) Warping Score: 1 (6) Confidence: 1 (3) Virtues and Flaws: Custos; Improved Characteristics, Intuition, Lightning Reflexes, Premonitions, Protection (Apollo Didyma), Second Sight, Tough; Greater Malediction (vis addicted), Envious; Fear (snakes)*, Oversensitive (accusations of free-loading), Visions * due to Warping Personality Traits: Envious +6 Reputations: Oracle 3 (local) Combat: Dodge: Init +1, Attack na, Defense +6, Damage na Soak: +3 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –2 (6–10), –3 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Miletos 3 (Didyma), Athletics 2 (running), Awareness 3 (movement), Brawl 4 (dodge), Charm 3 (pagans), Etiquette 2 (Didyma), Faerie Lore 3 (Olympians), Folk Ken 4 (covenfolk), Guile 4 (covenfolk), Intrigue 4 (Didyma), Leadership 2 (covenfolk), Living Language: Romaic Greek 5 (archaic), Organization Lore: Didyma 4 (history), Organization Lore: Order of Hermes 1 (future), Premonitions 7 (Didyma), Second Sight 7 (faeries) Equipment: Hooded stola of a pagan priestess. Encumbrance: 0 (0) Vis: None. Appearance: Ella is a pampered middleaged woman with a shaved scalp that shows off her shapely head.</div>
-<div>Magarethe: Archon and Servant of Ariane</div>
+
+<h3>Magarethe: Archon and Servant of Ariane</h3>
+
 <div>Characteristics: Int +1, Per +1(1), Pre 0, Com +1, Str –2(2), Sta –1(1), Dex +1, Qik –1(1) Size: 0 Age: 60 (60) Decrepitude: 2 (0) Warping Score: 4 (3) Virtues and Flaws: Custos; Common Sense, Premonitions; Blind, Incomprehensible*, Offensive to Animals*. * Due to Warping Personality Traits: Loyal +3 Reputations: Wise Custos 3 (local) Combat: Fist: Init –1, Attack +1, Defense –1, Damage –2 Soak: –1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –2 (6–10), –3 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Constantinople 4 (secrets), Area Lore: Miletos 3 (Didyma), Awareness 6 (hearing), Charm 4 (men), Dead Language: Latin 2 (Hermetic usage), Etiquette 3 (Hermetic), Folk Ken 5 (magi), Guile 4 (magi), Intrigue 6 (covenant), Leadership 4 (covenfolk), Living Language: French 1 (Norman), Living Language: Romaic Greek 5 (cursing), Music 3 (singing), Organization Lore: Didyma 4 (relationships), Premonitions 7 (Ariane), Profession: Servant 5 (Ariane), Stealth 3 (urban), Teaching 2 (covenfolk) Equipment: simple tunic/robe. Encumbrance: 0 (0) Vis: None. Appearance: Magarethe is an old but agile woman now bent by years, whose eyes were burnt out in Constantinople 35 years ago, in order to serve Ariane. Magarethe is very loyal to Ariane and also respected among the covenfolk. As a result, she is the current leader of the covenfolk. She has a lot of Warping due to the vicissitudes of a life-time of service to magi.</div>
 
 <h3>Marcel the Mercenary</h3>
@@ -1748,10 +1794,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Theban covenants must have specific purpose (see The Sundered Eagle, page 27); Didyma’s is to make and interpret prophecies. Historically, the covenant helped the Tribunal to avoid much damage during the Schism War, and magi embarking upon important ventures still sometimes travel to Didyma for a prophecy.</div>
 
 <div sidebars>
-<div>Agamenoth: Prince of the Moving Earth</div>
+
+<h3>Agamenoth: Prince of the Moving Earth</h3>
+
 <div>Order: Aerial Power Infernal Might: 40 (Terram) Characteristics: Int +1, Per 0, Pre +3, Com 0, Str +10, Sta +4, Dex +1, Qik –1 Size: +5 Confidence Score: 1(3) Virtues and Flaws: None Personality Traits: Fury +6 Reputations: Demon Prince of Earthquakes 3 (infernal) Hierarchy: +8 Combat: Fist: Init –1, Attack +12, Defense +10, Damage +10 Soak: +20 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–10), –3 (11–20), –5 (21–30), Incapacitated (31–40), Dead (41+) Abilities: Athletics 5 (leap), Brawl 10 (fist) Powers: Coagulation, 3 points, Init –1, Terram: Agamenoth can form a physical body (see Realms of Power: Infernal page 31). His preferred physical forms are a giant earth elemental, with black-cracked skin that stinks of sulfur (statistics given), or a deep black seam of coal several hundred paces wide and long. Envisioning, 1 point, Init 0, Mentem: Agamenoth can appear in the dreams of a character (see Realms of Power: Infernal page 32). Lord of Moving Earth, variable, Init –1, Terram: Agamenoth can duplicate any named Hermetic Creo, Muto, or Rego Terram non-ritual spell from ArM5. The Might Cost is the magnitude of the spell. Move Through Earth, 0 points, constant, Terram: Agamenoth can move through earth (or stone) without penalty. Obsession, 1 point, Init –5, Vim: Whenever a character sins in his presence, Agamenoth can infect the character with the Personality Trait: Fury +1; see Realms of Power: Infernal page 31. Whenever a botch is rolled for a char</div>
 <div>acter with this trait, roll an additional number of botch die equal to the value of the Personality Trait. If these die botch, the character enters a furious rage (see Fury, ArM5 page 54). Recalcitrance, 0 points, Init, Constant: for any Hermetic Rego effect, including wards (and equivalent supernatural powers of any realm), Agamenoth is treated as if his Might is 60. Stir the Sulfurous Earth, 10 points, Init –1, Terram: By using this power Agamenoth causes an earthquake, which also releases a stench of sulfur. The earthquakes triggered by Agamenoth cause extreme shaking within an area one mile in diameter, for a simple die worth of rounds. During each round of shaking, characters within the area must make a Dex + Athletics roll against an Ease Factor of 6 to avoiding falling over. For each vulnerable structure within the area (stone buildings, etc), make a single stress roll against an Ease Factor equal to the number of rounds of shaking, and add +3 to the Ease Factor for buildings more than 2 stories tall. Structures that fail this roll collapse. Characters inside collapsing structures take +15 damage due to falling masonry and may be trapped underneath the rubble. Outside the area, the earthquake can be felt for a distance of 100 leagues (300 miles) but causes no real damage. Agamenoth must Penetrate the the Magic Resistance of the area that suffers damage, so Aegis of the Hearth normally protects a site. Equipment: None. Weakness:  Abhors water (causes no damage, but Agamenoth must flee water or spend a Confidence Point to remain in its presence for a diameter). Vis: 8 pawns of Terram in skin. Appearance: Agamenoth appears either as a gigantic black mound of earth and rock with sulfur leaking from cracks in the surface as it forms limbs and heads as needed, or as pitch black seam of coal.</div>
-<div>Story Seed: The Children of Olympos</div>
+
+<h3>Story Seed: The Children of Olympos</h3>
+
 <div>The Children of Olympos is a Theban league that seeks to forge close relationships between magi and faerie gods (see The Sundered Eagle, page 125). Obviously, with an oracle and pagan temples, Didyma is of great interest to the league. League members frequently arrive at the covenant seeking to worship or contact the faerie gods. This pilgrimage may be a part of the league’s Mystery Initiation scripts. Herakles sympathizes with The Children of Olympos, although he is not a member, largely because he already considers himself to be a faerie god. The league would dearly like to recruit Herakles. Ariane is also sympathetic to the league and perhaps interested in joining.</div>
 </div sidebars>
 
@@ -1894,6 +1944,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>• Some Theban magi, especially pagans, visit Didyma regularly to receive prophecies. • Pagan characters, including members of the league of the Children of Olympos, may visit the ancient temples for religious or Mystery Cult purposes. • Pious Christian characters may wish to destroy the pagan cult at Didyma. • The player characters may be allied to either Nestor or Aristocles the Wanderer, who are estranged members of the Branchidae family and seek to either control or destroy the covenant, respectively. • Didyma may seek help from the player characters to locate and slay the demon Agamenoth, or demon-hunting characters may learn of his presence some other way and travel to Didyma to slay him on their own initiative. • The Sacred Way is a source of faeries which could interest Merinita magi. • Didyma is a good base for magi hunting monsters in the region, and William and Herakles would be good, knowledgeable hunting companions. • Didyma, and the ports of Panormos and Miletos, are potential launching points for magi seeking to cross the Mediterranean, headed for North Africa. Crusading magi might also use Didyma as a staging point. • Quaesitor characters might investigate the extent of the mundane interference that entangles Didyma. • Theban Tribunal officials may travel to Didyma to meet and influence Nikola, who is a member of the Tribunal’s Council of Magistrates.</div>
 
 <h1>Chapter Five</h1>
+
+
+<h2>The Covenant of Longmist</h2>
 
 
 <div sidebars>
@@ -2344,7 +2397,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Split into two halves, this wooden shield trimmed with a sharpened iron edge was clearly designed for a very large man. It was once a faerie weapon that passed on the skill to use it to its wielder. If it could be magically mended, the wielder would generate a Single Weapon Defense Total as though he had a Single Weapon skill of 10. It is displayed in Longmist’s great hall and costs 10 Build Points.</div>
 
 <div sidebars>
-<div>Story Seed: A Service for a Service</div>
+
+<h3>Story Seed: A Service for a Service</h3>
+
 <div>Ruadan’s Túatha may protect the covenant and its Cathach, but they demand service in return. These things may be simple, such as confronting a dangerous presence in their underground home, or more subtle, such as bringing them the tears of a mother bereft of her child. Ruadan leaves no option for the magi of Longmist: if the service is refused, then the bargain that protects the Cathach is broken.</div>
 </div sidebars>
 
@@ -2383,7 +2438,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>218 Build Points have been spent on Arcane Abilities, such as Finesse, Magic Theory, Parma Magica, and Penetration. The library also contains texts on each of the Realms as well as texts concerning the Sihr Ability of the Corrguineach. One of these books was given to the covenant by Brea Mac Boru, the druid killed during Dara’s reckless summonings. A number of these volumes have been written in Gaelic, and one of these, the Lebor Feasa Runda,</div>
 
 <div sidebars>
-<div>The Blade that Slew the Wolf</div>
+
+<h3>The Blade that Slew the Wolf</h3>
+
 <div>This great sparra, a traditional Irish ax, is the weapon that slew Ualgrimm, giving Longmist its Cathach. Its laboratory texts are now lost. The sparra stands five feet tall, and has a long gently curved haft of rowan wood, and a narrow protruding iron head, which is etched with Irish knotwork and Hermetic symbols inlaid with silver. It has seen the ministrations of a skilled Verditius, which has improved its combat statistics. Hannewalt of Tytalus created the sparra and his sigil expresses in these effects through an arc of mist that trails the head when it is swung. Bran is currently the only man able to wield the sparra to good effect, but he is not routinely armed with it. The sparra has the following combat statistics:</div>
 <div>Ability  Init Atk Dfn Dam Str Load Great Sparra Great +1 +10 0 +11 +12</div>
 <div>Death with Each Blow PeAn 38 Pen +40, 6/day R: Touch, D: Momentary, T: Individual If the effect penetrates a beast’s Magic Resistance, it is instantly struck with a Medium wound in addition to any wound that the ax blow itself causes. (Base 10, +1 Touch; +3 6/day, +20 for +40 Penetration)</div>
@@ -2413,7 +2470,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>guide on using Rego to move and manipulate the Hermetic Forms. (21BP) Lugh-éccnaid, Adducam de Naturalis Mutata, Rego Tractatus, Quality 11. On making natural changes to a Form, notably Mentem. (11BP) Ualgrimm of Bjornaer, Anathomen Lupus, Animal Summa, Level 11, Quality 9. A detailed anatomy of the lupine form, taken as the spoils of victory when the author was slain by the covenant. (20BP) Ualgrimm of Bjornaer, Centum Bestiæ, Animal Tractatus, Quality 8. A bestiary of mundane and magical animals, taken as the spoils of victory when the author was slain by the covenant. (8BP) Aecor of Bjornaer, Aquas ex Aquilonis Maria, Aquam Summa, Level 14, Quality 10. Requires fresh seawater to be present every week during which this book is studied, otherwise the text fades and the work cannot be used. (24BP) Marcus Pluviam of Bonisagus, Praecipitatio, Aquam Tractatus, Quality 9. Ponders</div>
 
 <div sidebars>
-<div>Shape and Material Bonuses for the Boibel Loth</div>
+
+<h3>Shape and Material Bonuses for the Boibel Loth</h3>
+
 <div>The Boibel Loth is an ancient writing system consisting of sixteen characters. In addition to their function in written language, each of the characters has mystical associations, which in their inscribed form contribute Shape and Material bonuses toward magical projects. A minor breakthrough (Houses of Hermes: True Lineages, page 26) is needed to rediscover this old magic and grant access to the power of the Boibel Loth. Doing so allows the magus to incorporate the symbols into their enchantments and also to design them into rituals, where they provide a bonus to the casting total. They can also be used in Charm Magic as distinct Charms. See Houses of Hermes: Mystery Cults, page 96 for more detail.</div>
 <div>Name  Equivalent  Bonuses  Boibel  B   +5 Inception       +3 Sun  Loth  L   +5 Fire  Forann  F   +5 Spring  Salia  S   +5 Moon       +3 Witches  Neiagadon N   +5 Water  Daibhaith D   +5 Door       +3 Travel or Passage  Teilmon T   +5 Growth       +3 Gain  Cailep  C   +5 Women  Moiria  M   +5 Autumn  Gath  G   +5 Balance and Even      Handedness  Riuben  R   +5 Winter       +3 Decay  Acab  A   +5 Birth       +3 New Life  Ose  O   +5 Youth       +3 Initiation  Ura  U   +5 Maturity       +3 Consummation  Esu  E   +5 Aging and Old Age  Jaichim I   +5 Death</div>
 </div sidebars>
@@ -2551,7 +2610,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Longmist has been distant from the Tribunal for a lifetime and more. Those within the covenant may see the time as right to rejoin Hermetic society, and embrace trade and exchange. Such a course may bring dangers, as magi take advantage of the covenant’s naivety. Eochaid, The Cailleach, and Dara specifically all have views at odds with both Lugh and Conchobor. Given his responsibilities, Mícheál is expected to uphold Longmist’s isolation, which sets up an important conflict. Conchobor, under the influence of Ruadan, wants the covenant to distance itself from all forms of Hermetic contact. He is likely to become a significant antagonist in such stories. The Cailleach, if she is to repair the</div>
 
 <div sidebars>
-<div>Covenant Finances The covenant, at present, costs more to run than the income it generates as it has an income of 80 Mythic Pounds per year but is currently spending 84 ½ Mythic Pounds across the same period. The largest cost by far is for the Hermetic laboratories maintained by the magi. In particular, Lugh’s laboratory represents the biggest draw on the covenant’s coffers. The expenditure in Mythic Pounds breaks down as follows:</div>
+
+<h3>Covenant Finances The covenant, at present, costs more to run than the income it generates as it has an income of 80 Mythic Pounds per year but is currently spending 84 ½ Mythic Pounds across the same period. The largest cost by far is for the Hermetic laboratories maintained by the magi. In particular, Lugh’s laboratory represents the biggest draw on the covenant’s coffers. The expenditure in Mythic Pounds breaks down as follows:</h3>
+
 <div>Expenditure  Base Cost Reduction Total Buildings  8  0  8 Consumables 16  –3  13 Laboratories  44 ½  0  44 ½ Tithes  0  0  0 Wages  16  0  16 Weapons and Armor 1  –1  0 Writing Materials 7  –4  3 Total      84 ½</div>
 <div>The cost of the weapons and armor includes all in use by the current grogs and their captain and a further six sets of basic equipment in the stores. There is enough wealth already at the covenant to mask the shortfall, as has been done for several years. To anyone taking a closer look at the finances however, the situation becomes obvious. There are things that can be done. An additional source of income could be secured, which may mean the magi venturing out into the world to find opportunities. Alternatively, the excessive amount spent on laboratories could be curtailed, although this would first need to be agreed by Lugh. Lastly, the covenant could employ  craftsmen to provision the laboratories, such as glass-blowers and silversmiths, bring stonemasons and builders to the covenant, or start brewing its own ale again under a master brewer; all of these provide significant cost reductions and make the covenant more self-reliant. The cost, of course, is that the covenant gives up some of its isolation. More on covenant wealth can be found in Covenants, chapter five.</div>
 
@@ -2889,7 +2950,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>City of Dortmund</h3>
 
 <div>The previous generation of Tremere are suspected of having been instrumental in Dortmund’s evolution from insignificant village to Free Imperial City. Just how influential they were has never been determined by any mundane or magical agency. The trade and craft guilds of Dortmund have had dealings with Collem Leonis in the past through the Tremere as intermediaries. Even though the magi used magic to sweeten their part of the deal, this also benefited the city. Any attempt to increase the income of Collem Leonis is sure to cross paths with a guild in Dortmund. See the section The Covenant in Play later for more story ideas.</div>
-<div>Covenants of the Order of Hermes</div>
+
+<h3>Covenants of the Order of Hermes</h3>
+
 <div>Collem Leonis was founded after the Peripheral Code ruling of 780 giving existing</div>
 <div>covenants the right to veto the founding of a new covenant, but was unopposed. As of 1220 the covenant has yet to make use of this right. In the few years that have passed since they took over, the young magi of Collem Leonis have formed a few relations with other magi and covenants, in connection with ongoing projects and issues. As of 1220, they have no significant links to Oculus Septentrionalis, Waddenzee, or Triamore.</div>
 <div>Crintera</div>
@@ -3023,7 +3086,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Story Seed: Apprentice’s Lofty Cave</h3>
 
 <div>The covenant chronicles mention that Franka of Bjornaer, having obtained only preliminary permission from the Council, collected a set of texts suitable for apprentices in order to optimize the learning process. She secretly intended to make this project only useful to Bjornaer apprentices with Heartbeasts compatible with her own, which was an owl. Her personal diary entries point toward one of the peaks defined as off-limits to all other than Bjornaer magi. Getting to the cave is challenging, as it is accessible only by flying and has an entrance no larger than a large bird. The founding maga Adler, who in her Final Twilight centuries ago took the form of her eagle Heartbeast as a Great Beast, takes a strong interest in this peak. She appears as a very large (Size –1) and near-perfect specimen of an eagle, with only Cunning but a Perception of +5, and a Magic Might of 30. If Houses of Hermes: Mystery Cults is available refer to page 41 for the Eagle of Virtue . Adler makes things difficult for characters climbing the mountain, especially if they are not Bjornaer magi, but she stays hidden, using appropriate powers to cause trouble, unless a Bjornaer maga seeks her out with appropriate respect.</div>
-<div>Story Seed: Sins of the Predecessor</div>
+
+<h3>Story Seed: Sins of the Predecessor</h3>
+
 <div>At the last moment, Joachim repented, and went to the cave to set things right. He planned to bind the demon, destroy the Goetic books, and bring the Hermetic books back to the covenant. Joachim believed that he could bind the demon into a gold ring, then drop the ring into a lake, ensuring that the demon would never be found. Unfortunately for Joachim, he did not realize that the demon could use all of its powers while bound, and the demon, in a rage, killed him. He collapsed, in the cave, still gripping the ring. Holding an item with a bound demon gives a person or object the Magic Resistance of the demon, so Joachim’s corpse currently has Magic Resistance, one reason why it has not been found. The demon can communicate from the ring, and use its powers to help its wearer while it tries to corrupt him. It cannot, however, leave the ring, or communicate over a long distance, and it has been forced to wait. Someone from the area stumbles upon the cave while hunting, and finds the ring. The demon goads him into dreadful actions, which the player characters must deal with. Following his trail leads back to the cave, which contains the books and letters to Joachim from Ruprecht, concerning the purchase of the books. Erich the spy (see earlier) knows more about Ruprecht, but may be reluctant to share the information.</div>
 </div sidebars>
 
@@ -3082,18 +3147,24 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Story Seed: The Church Lands</h3>
 
 <div>Count Adolph of Mark is losing in an open conflict with the Archbishop’s forces near Dortmund, and he enlists the help of Collem Leonis. Negotiating a truce is a viable solution, but Count Adolph vastly prefers to negotiate from a position of power, so any magical aid to his troops is most welcome. Archbishop Engelbert I demands lands near Dortmund, but this is a threat to the further prosperity of the free city, and it weakens the Count of Mark considerably in this area. Not only has he recently granted the city a free charter, he stands to lose much potential trade with the city should the archbishopric annex this land. The archbishop is willing to settle for an insignificant valley with untamed land bordering the county of Berg, in the southern part of the county of Mark. Count Adolph is seriously considering accepting this deal, but is it a coincidence that this land is due south of Collem Leonis’ domain? The area is to be granted to a monastic order who will tame and cultivate the land and build an abbey. The archbishop sends his trusted lieutenant Max von Beiderbecke to finalize the deal with his full authority — perhaps the magi can manipulate him? He may want power, or need supernatural help with a family problem, a mysterious illness, or a dangerous creature. For further challenges the council or burghers in Dortmund offer the count of Mark a tidy sum to add the disputed area to the lands of the free imperial city of Dortmund. This increases the power of the city, and perhaps the archbishop would be reluctant to annex lands under imperial protection?</div>
-<div>Story Seed: The Enemy of My Enemy</div>
+
+<h3>Story Seed: The Enemy of My Enemy</h3>
+
 <div>The magi learn of a sinister plot against the archbishop by his cousin Count Frederick of Isenberg, but their main informant, Erich the spy, also knows that Frederick is connected with the diabolist organization in Cologne he discovered years before. No matter how aggressive the archbishop, it surely cannot be good to allow a diabolist to assassinate him. As the archbishop sets off to confront Frederick with charges of corruption at an abbey in Essen, do the magi dare act? Do they save their enemy and prolong his struggles against the count of Mark, possibly threatening the covenant’s existence? Or do they allow a diabolist nobleman to murder his own cousin and eliminate a powerful enemy, and risk even darker plots in the future?</div>
 
 <h3>Story Seed: Old Alliances</h3>
 
 <div>Ferra calls the younger magi to the council chamber after receiving a letter from a Redcap, and tells them they must uphold old agreements. There are several possibilities for what is demanded under the terms of these contracts. Known Wilderist hardliner Urgen chooses to make the hills into a textbook example of preservationist actions. The moderate Harmonist Prima Falke asks the resident Bjornaer magus to work more closely with the mundane relations in order to showcase her strategy. A message arrives from Waddenzee announcing that a raiding party to the coast of Norway discovered a unique creature they were asked long ago to keep a look-out for. Whatever the case may be, the young generation needs to work together and muster the resources of Collem Leonis in order to keep their part of agreements so old that barely anybody remembers the reasons or the favors done which must now be repaid.</div>
-<div>Story Seed: The Army of King Gorm</div>
+
+<h3>Story Seed: The Army of King Gorm</h3>
+
 <div>Following a hunting season of unusually abundant magical and faerie game, which was easy to catch and in retrospect seems to have been fleeing a greater threat, Gorm the mighty Norse warrior arrives through the portal with his army. This is a powerful faerie lord playing the part of a king of the northmen who tells the magi of Collem Leonis that he is here to make good on his promises. After the initial confusion it seems a previous generation of Collem Leonis magi made a deal with Gorm by which he promised to help them for a year and a day in a battle which is by now long gone and also forgotten — although not by him. He asks Collem Leonis to name their enemy and shows a formidable knowledge of the current political situation. He assumes that the archbishop of Cologne is to be stopped in his campaign of conquest, and will not take no for an answer. However he knows nothing of magi or the Order of Hermes, and believes any magus he meets speaks for Collem Leonis. A diplomatic solution is better for the covenant than actually fighting with Gorm’s army, and a clever negotiator can convince the faerie to help in less overt and militaristic ways. This seed is appropriate for player magi based in any of the Rhine Tribunal’s covenants, as visitors can witness this situation. Will they retreat at once to avoid getting caught up in this mess, do they stay on to see whether Collem Leonis uses this opportunity, or even try to control Gorm’s army to their own ends? Magi hostile to Collem Leonis are in a prime position to remove one of their own enemies while framing Collem Leonis for the whole affair. Gorm can alter the appearance of his followers to look less like Norse warriors from several centuries ago and more like current, local forces, and he wears any heraldry they ask him to, acting out any identity they choose. Cunning plans, deception, and show of force may deter any enemies or rivals who are currently engaging in plots or campaigns that the covenant would like to disrupt without taking direct action themselves.</div>
 </div sidebars>
 
 <div>tion. Too much emphasis on their home allows other forces to monopolize the area, and the covenant may be left with nothing. The uncontrolled portals tie the covenant in to the unexplored frontier of Scandinavia, good for exploring the lands, searching for the Order of Odin or other traditions, hunting for vis or magical beasts, and researching the regiones themselves. In the local area the expansion of the mundane population creates potential for more interaction with the nobility, the church, and the guilds of bustling towns. At the same time, the forgotten covenant steps from the mists of time into a struggle to claim a place and a purpose among the current Rhine covenants, most of which are much younger but more powerful.</div>
-<div>Player Character Roles at Collem Leonis</div>
+
+<h3>Player Character Roles at Collem Leonis</h3>
+
 <div>All the young magi at Collem Leonis are appropriate as player characters, but Ferra is best kept as a troupe-controlled advisor. She is deliberately designed to intervene little, but readily offer advice as a kind grandmother would, to ensure the young generation play the most active parts in stories. In a saga the players may as well create their own magi, perhaps taking elements from the four presented to tailor them to the themes and hooks of Collem Leonis, create backgrounds to tie them together with the history and Hermetic environment, and ensure they have the abilities to handle events unfurling around the covenant. At a minimum, interest in and interaction with both the portals to Nordic lands and the growing cities and workings of nobility and clergy are essential for Collem Leonis to be used as designed.</div>
 <div>Suggested Storylines</div>
 <div>In the early years of Collem Leonis’ rebirth the magi are most likely busy reclaiming lost resources, developing income sources, and working on relations with the other covenants. While proactive research of the mystical portals is likely, any great threats should be decades away, due largely to the sacrifice of Scipio of Flambeau. Note that investigating</div>
@@ -3102,7 +3173,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The lost resources have been grouped together depending on how and when they were lost, and how they can be recovered.</div>
 
 <div sidebars>
-<div>Moving Collem Leonis to Other Tribunals</div>
+
+<h3>Moving Collem Leonis to Other Tribunals</h3>
+
 <div>While the portals could link any part of Mythic Europe to any other, part of the theme of the covenant is interaction with other covenants in the same Tribunal that have an interest in the same unknown region, so it works best in a frontier Tribunal. Novgorod has plenty of frontier, to the east as well as Scandinavia. The Levant and Thebes have the middle east as frontier, although none of the covenants described in The Sundered Eagle have these interests. The Roman, Iberian, and Provencal Tribunals are close enough to the northern parts of Africa to classify as frontiers as well. Leaving the Rhine Tribunal means the ties to Gilds no longer apply, and all Gild related Virtues are void, meaning the magi need a slight re-design due to having less training.</div>
 
 <h3>Lindorm of Jotunheim</h3>
@@ -3118,11 +3191,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>With the next Tribunal as soon as 1221, and the one held in advance of the Grand Tribunal in 1228, Collem Leonis is sure to be involved in Hermetic politics whether the magi want to be or not. Old enmities or poorly maintained alliances result in at least personal confrontations or even legal action, when aggrieved magi attempt to hold Collem Leonis’ magi responsible for the actions of their parens. The burning issues in these years include Prima Murion of Bonisagus’ desire for action against the Order of Odin, Daria la Gris of Triamore’s plot for forming the Lotharingian Tribunal, and the growing rift between the Harmonist and Wilderist factions of House Bjornaer.</div>
 <div>Mystical Portals</div>
 <div>The portals constantly affect the daily life of the magi. Because predicting events is difficult and imprecise, the magi should perpetually plan for emergencies or defensive measures. Minor portal openings or careful forays into the regiones occur frequently, but the really big events are best saved for a more established covenant, so the magi have a fighting chance.</div>
-<div>Collem Leonis as a Background Covenant</div>
+
+<h3>Collem Leonis as a Background Covenant</h3>
+
 <div>If playing a saga where Collem Leonis suddenly appears on stage as an old covenant reborn the player magi have ample opportunity to interact with them. A Spring covenant — even if it is Second Spring — lacks resources, expertise, and manpower. This opens up missions of trade and diplomacy. There may also be old forgotten lore there to interest other magi. Old alliances and enmities are rekindled, but their new council means new negotiations. Collem Leonis’ mundane relations are of interest to Triamore especially, given its proximity. Finally the older generations’ research into the Nordic lands is of interest to Heorot, Waddenzee, and Oculus Septentrionalis, while at the same time interfering with their spheres of interest. Collem Leonis can also draw other covenants into its story as it follows the lines described earlier, and the player characters can be drawn in as allies, enemies, or even as visitors who just happen to be present when something interesting happens.</div>
 
 <div sidebars>
-<div>Story Seed: The Ravens Fly Again</div>
+
+<h3>Story Seed: The Ravens Fly Again</h3>
+
 <div>Scouts observe a large flock of ravens that seem to appear out of nowhere over the woods moving toward Dortmund, and disappear just as the first raven crosses the edge of the city. In a saga set in Collem Leonis the player magi have a chance to do research or ask the old resident maga. Ferra claims from the first moment that this is a bad omen, that it has happened before, and it spelled great disaster. It was over a century ago, so she can offer no more detail, but the Collem Leonis chronicles can. Outside magi are less privileged. While they may recognize the ravens as an ill omen, only a visit to Collem Leonis yields advance warning before disaster strikes. Successful research indicates that this is a warning of an imminent attack of a lindorm who seeks magical resources to consume and hoard. The most recent occurrence was actually quite recent, while Ferra was in Twilight, and Scipio of the previous generation went to stop it. Since no lindorm attacked he must have been successful, but he did not return. The swarming ravens mark the birth of the beast from the very earth, and their movements predict the path of its coming rampage. How long before the beast attacks the old texts cannot say, so perhaps the magi should mount a pre-emptive strike and kill the worm before it is fully grown? This means venturing into its domain inside the Magical regio and facing great danger. The old texts claim it is drawn to valuable magical resources, but is unclear if this is vis, Gifted children, a regio entrance, or something else entirely. Scouts sent to observe it may try to judge how much time will pass before the lindorm bursts forth from the portal, provided they have some knowledge of magical beasts. The magi may have anywhere from a single season to several years to prepare, as appropriate for the saga. Magi from outside Collem Leonis are unlikely to know of the lindorm before it enters the mundane realm, but once it does stories about interaction with the magi of Collem Leonis are appropriate. With little change to the story the ravens can as easily show a path to a location other than Dortmund, be it one of the neighboring covenants or a major mundane settlement of interest to one of them. Even once it is on the move, the lindorm may stop along the way to consume vis found at sites or in animals caught, and burrow down to digest it, even for months at a time, allowing the magi more time for preparation as the lindorm grows ever larger. The lindorm has skin impervious to swords and spears save for its softer underbelly, can crush even the mightiest warriors with its sheer weight or rend then with its fangs, spews lethal venom, has corrosive blood, and is large enough to encircle a castle. Having this monster lay siege to the covenant seriously hampers daily activities, and if it follows the path of the ravens to Dortmund the collateral damage and unwanted attention is hard to remedy.</div>
 </div sidebars>
 

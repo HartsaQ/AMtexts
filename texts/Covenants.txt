@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -8,6 +12,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter One</h1>
+
+
+<h2>Introduction</h2>
 
 
 <div sidebars>
@@ -37,7 +44,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>them. An exchange of vis represented by the physical exchange of tokens is more meaningful than simply altering some numbers on a sheet, and is less prone to fraud!</div>
 <div>Write down a simple calendar of all the events which occur every year, and when they occur. This might include making Aging rolls at the winter solstice, the annual casting of the Aegis of the Hearth ritual, council meetings, and the regular gathering of vis from vis sources.</div>
 <div>Maintain a history or logbook of the covenant, written from the perspective of the characters, perhaps in the form of journal entries or letters. After each session, ask for a volunteer to write up that session’s events, so that the load is spread evenly.</div>
-<div>Some Tips for a Smoothly Run Covenant</div>
+
+<h3>Some Tips for a Smoothly Run Covenant</h3>
+
 </div sidebars>
 
 
@@ -118,7 +127,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>Power Level Build Points</h4>
 
-<div>Maximum Level of Lab Text / Effect in Enchanted Device</div>
+
+<h4>Maximum Level of Lab Text / Effect in Enchanted Device</h4>
+
 
 <h4>Minimum Age of Covenant</h4>
 
@@ -130,6 +141,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter Two</h1>
+
+
+<h2>Boons & Hooks</h2>
 
 
 <div sidebars>
@@ -180,7 +194,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Players familiar with other roleplaying games are sometimes tempted to select the Boons that give their characters the greatest power, or capacity to kill. It is easy to juggle the possible combinations of Boons and Hooks to create covenants powerful enough to massacre thousands. Troupes should select those combinations only if they are interested in stories about the consequences of unbridled power. Ars Magica offers a richer palette of stories than this.</div>
 <div>Rather than optimizing a covenant’s battle strength, troupes should select those Boons and Hooksthat favor the sorts of stories the troupe enjoys. Young magi are already very powerful. The Storyguide isn’t going to assault the player characters with waves of increasingly powerful monsters unless that’s what the players want. Players more familiar with games in which the characters kill and loot should consider what their characters wanted to do after they became rich and powerful.</div>
-<div>“Castle on the Hill by the Faerie Wood”</div>
+
+<h4>“castle On the Hill By the Faerie Wood”</h4>
+
 <div>A lot of Ars Magica’s flavor is lost if the players select a generic covenant like the prototypical castle on a hill</div>
 <div>by a faerie wood. The broad array of options this chapter provides, and its many examples, encourage players to experiment. While new players may be most comfortable with sagas set in a bland, tidy Middle Ages, this chapter encourages troupes with a little more experience to explore the intricacy and foreignness of Mythic Europe. Telling stories in Mythic Europe should be like a trip to a foreign country: to enjoy it fully, you need to embrace and take pleasure in how different it is.</div>
 
@@ -218,7 +234,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Unnatural Law: Within the covenant’s aura, a series of natural laws are suspended. For example, in the Covenant of the Castle of Fees, glass is as durable and hard as iron, and is used as a building material and armament. In the Covenant of the Solemn Scholars, children are able to fly until they lose their virginity.</div>
 <div>This Boon is suitable for covenants that want to play against genre. For example, there is a covenant powered by wonderful machines copied from the works of Heron of Alexandria. These steam rotators permit the covenant to manufacture many other wondrous devices, which fail to work if taken from the covenant. It also allows the troupe to strongly contrast the home of the magi to the mundane world.</div>
 <div>Vast Aura: The covenant’s aura fills an enormous area, perhaps up to five miles across. Belinda, a Redcap who has gone further east than any other, says that at the very fringes of the Order lies just such a vast aura, and that therein lies a magical city. Wise old magi rule it. They claim their ancestors knew Trianoma, but had not heard of the Order before Belinda’s visit. Belinda has not returned: the Unnatural Law of the place permits outsiders to stay for only a single night, and only then at the cost of falling in love with a local, glimpsed in the avenues of palm fronds. No visitor may ever return,</div>
-<div>Conversion from the Ars Magica Rules</div>
+
+<h3>Conversion from the Ars Magica Rules</h3>
+
 <div>Converting existing covenants to this new set of rules is straightforward. All of the Boons and Hooks provided in Ars Magica Fifth Edition have been included in this chapter, except Buildings and Fortifications. All have retained their original names. Versions of each of the covenant situations from Ars Magica are also included. “Converting” existing covenants requires nothing more than applying the new rules and definitions here for the Boons and Hooks of the same names.</div>
 <div>The Buildings and Fortifications Boons have been replaced, to allow added detail. To convert their existing covenant to these rules, troupes should select the Boons and Hooks that best describe the covenant they have already created for their stories, and not be concerned if they do not balance. The new Fortifications Boons and Hooks have absorbed many possible explanations for the Buildings Hook, like gatehouses and great keeps. The remaining buildings, which inspire awe but are not necessarily military in function, have been termed Edifices.</div>
 </div sidebars>
@@ -358,7 +376,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>castles may take another large structure (anything suiting the Edifice Boon, for example) in lieu of a keep. Most masters of a courtyard castle plan, in the worst case, to fall back to their strongest tower, usually the gatehouse.</div>
 <div>A gatehouse keep is a large building, usually three stories high, that serves as both gatehouse and keep for the castle. Its lowest level is given over to storage and the entry to the bailey. The middle level is used for living space, equipment for the drawbridge and portcullis, and murder holes. The lord and his family dwell on the uppermost level.</div>
 <div>A chemise is not a keep. Rather, it is a curved wall closely surrounding a square tower. It is a way of giving many of the benefits of a round keep to a square one, without requiring demolition and reconstruction. Sometimes access to the tower is from the top of the chemise, by a drawn walkway.</div>
-<div>Keep Alternatives for Castles with Curtain Walls</div>
+
+<h3>Keep Alternatives for Castles with Curtain Walls</h3>
+
 <div>A barbican, for game purposes, is a series of works that limit access to the gatehouse by an invader, including walls and yards that channel invaders into a narrow space overlooked by archers. It includes barriers like portcullises, drawbridges and fall-away causeways. It also includes murder holes, pit traps, and whatever other fiendish devices the magi can come up with to kill invaders. A covenant with the Curtain Walls and Mural Towers Boon may take as many of these devices as they like. Standard Castles (that is, those without the Curtain Walls and Mural Towers Boon) may take barbicans as Edifices.</div>
 <div>A moat is a body of water at least twenty feet wide and six feet deep that surrounds the covenant. The key function of a moat is to prevent enemies from mining under the covenant’s walls. The walls can rise either directly from</div>
 <div>the moat, or from a berm, a small circuit of land that separates the moat and the castle. If the moat flows swiftly from a natural body of water, like a stream or lake, then its water is fresh. Otherwise, a moat is a stagnant ditch that is probably an open sewer. Many castles do not have moats, and instead use ditches. A covenant with the Curtain Walls and Mural Towers Boon may have a moat without additional cost. Other covenants may buy moats as Important Buildings.</div>
@@ -832,7 +852,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The covenant has few resources, and some enemies, and has to work hard just to survive. Stories are likely to concern very mundane issues, such as food supplies, at least until the poverty crisis is resolved.</div>
 <div>Hooks: Poverty (Major), Contested Resource (Minor)</div>
 <div>Boons: Aura x2 (Minor), Regio (Minor), Seclusion (Minor)</div>
-<div>Summertime (and the living is easy, relatively speaking)</div>
+
+<h4>Summertime (And the Living Is Easy, Relatively Speaking)</h4>
+
 <div>This is a classic Summer covenant. Set amidst cropland and supported by serfs, it has a castle it can’t quite explain and a few faeries it has annoyed, but no major problems, when the saga begins.</div>
 <div>Hooks: Castle (Major), Faerie Court (Minor)</div>
 <div>Free: Criminals , Faux Feudalism Boons: Curtain Walls and Mural Towers: Octagonal Keep (Major), Informants (Minor)</div>
@@ -924,11 +946,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>requires Castle Suffrage: Residents, Minor Superiors: Residents, Major Superiors: Residents, Minor</div>
 <div>Tribunal Border: External, Major Undemocratic Tribunal: External, Minor Ungarrisoned Castle: Surroundings, Minor Unsafe: External, Minor Unsubtle Predecessor: External, Minor Uncontrolled Portal: Site, Minor Unhealthy Environment: Site, Minor Urban: Site, Major Urban: Site, Minor Vis salary: Resources, Minor War Zone: External, Major Warping to a Pattern: Site, Minor Weak Aura: Site, Minor Wooden: Buildings, Minor, requires</div>
 <div>Castle</div>
-<div>Table of Boons and Hooks (Continued)</div>
+
+<h3>Table of Boons and Hooks (Continued)</h3>
+
 </div sidebars>
 
 
 <h1>Chapter Three</h1>
+
+
+<h2>Governance</h2>
 
 
 <div sidebars>
@@ -973,7 +1000,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>None of the styles of governance in themselves require any specific Boons or Hooks. However, some Boons and Hooks are particularly appropriate for different governance methods. Governance	 Boons Hooks Anarchy Ungoverned Divided Loyalty, Fractured Council, Customs</div>
 <div>Autocracy Autocracy (Covenfolk), Gerontocracy House Covenant, Superiors, Vis Salary Bureaucracy	 — Literate, Guild, Center of Excellence</div>
 <div>Democracy Democracy (Covenfolk), Vis Grant Fractured Council, Suffrage Hierarchy Faux Feudalism, Theocratic, Hidden Resources Superiors, Vis Salary</div>
-<div>Titles for the Leader of a Covenant</div>
+
+<h3>Titles for the Leader of a Covenant</h3>
+
 <div>princeps (first, chief), pontifex (high priest), imperator (commanderin-chief), rector (guidesman, governor), aedilis (aedile), dictator, disceptator (chairman), interpres (spokesman), ductor (leader)</div>
 
 <h3>Typical Offices and Their Titles</h3>
@@ -1054,7 +1083,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Alternatively, the covenant may claim all vis for itself, and once the demands of the covenant itself have been met, the remainder (or a portion of the remainder) is divided up between the members of the covenant. The mechanics of this division must be indicated in the charter, along with who is responsible for the division. Harsher still, a charter may dictate that all vis belongs to the covenant as a whole, with individual members forced to petition the council for shares according to their needs. If individuals need to work to acquire a share of vis, then the Vis Salary Hook is appropriate to this covenant. On the other side of the coin, a covenant may divide up surplus vis each year between its members, represented by the Vis Grant Boon.</div>
 <div>It should be decided whether the rules for the allocation of vis apply equally to vis from renewable sources and vis earned on adventures. Most charters allow magi to keep whatever vis they find, unless it proves to be a renewable source, in which case it belongs to the covenant. Any alternative method encourages magi to be secretive about the vis they find, and allows for cheating.</div>
 <div>The monies owed by the covenant may be treated in the same way as vis, but most magi at least pretend to be less interested in money than vis, and allow the covenant to deal with all financial matters. There may be a facility in the charter for a magus to request that the covenant purchase an expensive item specifically for his use, in which case it needs</div>
-<div>Example Criteria for a Legal Meeting</div>
+
+<h4>Example Criteria for a Legal Meeting</h4>
+
 <div>A quorum of a particular proportion of the magi must be present. The leader must be present. A certain number of officers must be present. A certain number of votes must be present.</div>
 
 <h4>Example Methods of Casting Votes</h4>
@@ -1064,7 +1095,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Example Methods of Vote Allocation</h4>
 
 <div>Every magus gets one vote. Every magus gets a number of votes dependent on her status. The covenant leader can break ties with a casting vote. Each officer gets an extra vote when the issue covers her purview. Each officer gets the casting vote when the issue covers her purview.</div>
-<div>Example Methods of Adjudicating a Result</div>
+
+<h4>Example Methods of Adjudicating a Result</h4>
+
 <div>Majority by Vote: Votes for (”aye” votes) and against (”nay” votes) the</div>
 <div>•</div>
 <div>• •</div>
@@ -1115,13 +1148,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>until a magus comes back into line with the charter. The covenant can withhold any resource that it holds in common. If it tries to deny access to a resource that belongs to an individual magus, however,</div>
 <div>The covenant is governed by a ruling council, consisting of every magus of the covenant. One member is designated the disceptator, who is the declared leader of the covenant and responsible for representing the covenant to the Order and the world. A new disceptator is chosen by a majority vote of the full council following the death or disappearance (for not less than a year) of the previous incumbent; the post is held until death or disappearance. The covenant council holds four regular assemblies per year, on the first day of each stellar season. All members of the council must make every effort to attend these meetings, which do not have a quorum unless over half of the members of the council are present. The covenant’s disceptator must be present at every regular assembly. Matters for discussion must be given to the disceptator at least three days before the assembly; further issues may only be</div>
 <div>raised if seconded by another member of the council and with the permission of the disceptator. All matters are categorized into Issues of Significance, Issues of Consequence, and Ordinary Issues. Any issue that affects the membership, governance, or magical resources of the covenant is an Issue of Significance; any other issue may be declared an Issue of Significance by the disceptator. All issues which are not Issues of Significance are Ordinary Issues, but any member of the council can request that an Ordinary Issue is made an Issue of Consequence instead. Issues of Significance require a Majority by Member to be passed, Issues of Consequence require a Majority by Vote, Ordinary Issues simply require two votes in favor. A meeting without a quorum is only empowered to enact Ordinary Issues. In all issues, in the case of a tie, the disceptator has the casting vote.</div>
-<div>Example of a Complex Method of Governance</div>
+
+<h3>Example of a Complex Method of Governance</h3>
+
 
 <h3>The Carrot and the Stick</h3>
 
 <div>It is not necessary for a covenant to choose between the carrot (rewards) and the stick (obligations) to motivate its magi to improve the covenant and ensure its smooth running. The following sample rule mixes both approaches.</div>
 <div>A standard share is determined to be an equal portion of one-half of the covenant’s vis stores on the day following the Winter Solstice, or its pecuniary equivalent. A Standard Service consists of one season’s work at low personal risk; one month’s work at moderate personal risk; or one day’s work at high personal risk. The definition of risk is determined by a vote of the Council. Every magus who has performed one Standard Service to the covenant in the preceding eight seasons is entitled to one share each year, allocated on the day following the Winter Solstice. A magus may earn up to one extra share per year by performing an Additional Service equivalent to a Standard Service. A magus who is delinquent in his Standard Service does not receive a share, and is not eligible for Additional Service until his missing Standard Services have been made up.</div>
-<div>Obligations and the Code of Hermes</div>
+
+<h3>Obligations and the Code of Hermes</h3>
+
 <div>A covenant must be careful to weigh the obligations it places onto its members, for the Oath of Hermes states that a magus “shall not deprive or attempt to deprive another magus of his magical power,” and demanding two or more seasons of work each year from a magus could indeed be seen as an attempt to deprive him of his magical power by inhibiting his ability to study. However, numerous cases published at Tribunal have determined that when a magus takes the Oath of Covenant, he is fully aware of the contract to which he is agreeing, and always has the choice not to join that covenant. Several Tribunals have adopted the policy that a charter may demand of its members what it wishes, but cannot change those demands without the agreement of those affected; that is, the covenant cannot alter the obligation imposed on any magus against his will without committing a High Crime.</div>
 </div sidebars>
 
@@ -1148,13 +1185,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Calculating Prevailing Loyalty</h3>
 
 <div>To calculate a covenant’s Prevailing Loyalty, first calculate the Base Loyalty, determined by summing the Gift Modifiers of the covenant’s magi (see the nearby table) and dividing by the total number of magi.</div>
-<div>Base Loyalty: Total of Gift Modifiers / Number of</div>
+
+<h4>Base Loyalty: Total of Gift Modifiers / Number of</h4>
+
 
 <h4>Magi</h4>
 
 <div>Make a note of this Base Loyalty, for if the membership of the covenant changes, adjustments must be made to Base Loyalty without affecting any later loyalty points modifications due to player actions.</div>
 <div>Once the Base Loyalty is known, the total loyalty points are calculated by applying modifiers to the Base Loyalty according to the environment of the covenant, the covenfolks’ treatment by the magi, and the actions of the members of the council. Total loyalty points are converted into a Prevailing Loyalty score using the Abilities: To Buy column of the Advancement Table  (see ArM5, page 31), converting negative loyalty points into a negative Prevailing Loyalty.</div>
-<div>Modifying Loyalty Due to Covenant Situation</div>
+
+<h3>Modifying Loyalty Due to Covenant Situation</h3>
+
 <div>Loyalty points are gained and lost for the equipment and provender given to the covenfolk, however, all of these things eat into the resources of the covenant. The covenant might offer better wages (see Chapter 5: Wealth) than is normal, or continue to care for retired members of their turb, in the manner of the Romans, by providing a pension. If the covenfolk have to work with inferior equipment this</div>
 
 <h3>Gift Modifiers to Base Loyalty</h3>
@@ -1176,7 +1217,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Not all covenants have newly recruited covenfolk; many have existed long enough for the employees of the magi to become used to the feelings of distrust that result from The Gift. Some covenants have lasted so long that several genera</div>
 <div>tions of covenfolk have grown up behind their walls. Furthermore, some older covenants sponsor new covenants by supplying servants and grogs for them from their own population.</div>
 <div>An established covenant usually has sufficient loyalty points through Familiarity (see below) to give them a Prevailing Loyalty of zero. The effect of The Gift on the occasional new recruit is diluted by the Familiarity felt by the rest of the covenant, but if a substantial number of new covenfolk join the covenant, reduce the number of loyalty points by the proportion of the total covenfolk they make up. Similarly, if a new magus should join the covenant, the covenfolk will not be comfortable with his Gift, and while the situational loyalty points remain the same, the Prevailing Loyalty will drop due to recalculation of the Base Loyalty.</div>
-<div>Decreasing Loyalty Due to Actions and Events</div>
+
+<h3>Decreasing Loyalty Due to Actions and Events</h3>
+
 <div>Unfortunately for magi, there are a number of ways loyalty points can be lost. The actions of the magi are the most serious determinants of faithfulness overall, but any event that adversely affects the covenant is likely to be blamed on them, and result in a dip in Prevailing Loyalty. The following sections and the accompanying table describe five categories of Loyalty Point loss: attitude, punishments, wounds, local events, and reputations.</div>
 
 <h4>Attitude</h4>
@@ -1218,7 +1261,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>If the ruling council of the covenant includes members who are not magi, then the covenfolk are more likely to have a higher morale, for they can deal with the unGifted members instead. Each unGifted member of the Council contributes zero points to the calculation of Base Loyalty, so the average loyalty points of all members of the ruling council will be lower. This effect can be seen in the example of Semita Errabunda; because Victor is on the ruling Council (as a member of the Order, even though he has no Gift), the covenant has a Base Loyalty of –38; without him, it would have –45 (–225 / 5). If Semita Errabunda should decide to include one of its companions on their council, they would have a Base Loyalty of –32 (–225 / 7).</div>
 <div>Including mundanes on the Council of Members must be more than a token gesture for it to affect Base Loyalty; their votes must be the equal of the Gifted members (or at least some of the Gifted members) in order to count.</div>
-<div>Penalty Attitude Punishment Wound Local Event</div>
+
+<h4>Penalty Attitude Punishment Wound Local Event</h4>
+
 <div>–1 Rudeness Minor Humiliation Superficial Minor Hardship</div>
 <div>–3 Obliviousness Public Humiliation Light Severe Hardship</div>
 <div>–6 Maliciousness Restraint Medium Tragic Event</div>
@@ -1264,7 +1309,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Reputation</h4>
 
 <div>When a covenant develops a bad Reputation and the covenfolk are aware of it, they may reconsider their employment. The covenant loses five Loyalty Loints for every point of each such Reputation.</div>
-<div>Increasing Loyalty Due to Actions and Events</div>
+
+<h3>Increasing Loyalty Due to Actions and Events</h3>
+
 <div>Fortunately for magi, covenants can gain as well as lose loyalty points by actions and events, increasing their Prevailing Loyalty. The five sections below — familiarity, altruism, rewards, local events, and reputation — describe the ways this can happen.</div>
 
 <h4>Familiarity</h4>
@@ -1300,14 +1347,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Should the covenant recruit more covenfolk, the effects of Familiarity will be reduced, because the new covenfolk will not be habituated to the magi’s Gifts. If the number of covenfolk is doubled through recruitment, the 38 loyalty points from familiarity are diluted by one-half to 19, which, when added to the Base Loyalty (–38) and the special</div>
 <div>ist bonus (18), gives a net total of –1 loyalty points, which yields a Prevailing Loyalty of zero.</div>
 <div>What would happen if they recruited a new magus with the Blatant Gift instead of all those new covenfolk? In that case, the Base Loyalty would be recalculated to –(225 + 105) / 7 = –47. The covenant would retain its accumulated 38 loyalty points from familiarity, and 18 from specialists, so they would have a total of nine loyalty points, translating to a Prevailing Loyalty score of one. The addition of this new magus would shake the resolve of the covenfolk, but not so much that they would start to display disloyalty.</div>
-<div>Example of the Effects on Loyalty of Changing Membership</div>
+
+<h3>Example of the Effects on Loyalty of Changing Membership</h3>
+
 </div sidebars>
 
 
 <div sidebars>
 <div>Loyalty Point loss, but a corresponding increase in overall discipline as covenfolk attempt to avoid future punishment. Conversely, an over-indulgent council that lavishes their staff with money or drink might improve their sense of devotion, but damage their tendency to carry out their orders.</div>
 <div>If appropriate, Prevailing Discipline may be tracked in an identical way to Prevailing Loyalty. Each action that would normally affect loyalty points should be judged according to the effects that it has on both Loyalty and Discipline, and applied where appropriate. Maintaining Prevailing Discipline requires all specialists managing the covenfolk to use Leadership rather than their Profession Ability to maintain order. If Prevailing Discipline is tracked separately from Prevailing Loyalty, then it may modify rolls related to the duties of the covenfolk. For example, Prevailing Discipline may adjust the Awareness of grogs on watch. However, keeping track of Discipline Points separately from loyalty points is more complicated, and should only be considered where the two are dramatically different.</div>
-<div>Instant Loyalty of the Rebellious Turb</div>
+
+<h3>Instant Loyalty of the Rebellious Turb</h3>
+
 <div>CrMe 50 R: Voice, D: Year, T: Group, Ritual</div>
 <div>Often cast at a midwinter gathering of the covenant under the pretense of a celebration, this ritual spell warps the perceptions of up to 100 people, granting them a ”Loyal to Covenant” score of +4. This Personality Trait overrides the regular rules for Prevailing Loyalty; it is not affected by living conditions or magus actions. The spell inflicts one Warping Point immediately when it first affects a character, five Warping Points over the course of the year, and five additional Warping Points for every subsequent year the character remains under its effects. After a year under the effects of this spell, each covenfolk affected will therefore have a Warping Score of 1, and acquire either the Simple-Minded or Short Attention Span Flaw as his first Minor Flaw.</div>
 <div>(Base 4, +2 Voice, +4 Year, +2 Group, +2 Size)</div>
@@ -1434,7 +1485,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>–1, Str +2, Sta +2, Dex +2, Qik –1 Size: 0 Age: 29 (29) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Craftsman; Great</div>
 <div>Characteristics, Puissant Craft: Blacksmith, Second Sight; Disfigured (by tattoos), Generous (Minor), Missing Eye Personality Traits: Generous +2, Brave</div>
 <div>+2, Loyal +2 Reputations: None Combat:</div>
-<div>Grog Creation as an Introduction to Ars Magica</div>
+
+<h3>Grog Creation as an Introduction to Ars Magica</h3>
+
 <div>The process of designing grogs provides an excellent introduction to Ars Magica character generation for those not familiar with the game, who have not yet mastered the intricacies of the system. Players creating grogs benefit from an encouragement to experiment, to try out ideas, and to “push the envelope” a bit. This allows them to get their feet wet before they spend the effort to design a full magus, and prevents them from feeling committed to a magus character  with obvious failings arising from misunderstandings about the game system. Grogs are both simpler and more “disposable,” allowing one to feel safe in making mistakes.</div>
 <div>Covenfolk also provide the storyguide with a sideline in walk-on roles, especially in sagas where there is only one alpha storyguide running adventures, with no full-time character in the saga.</div>
 </div sidebars>
@@ -1450,7 +1503,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>and other tools, heavy leather apron Encumbrance: 0 (2) Customization Notes: The blacksmith</div>
 <div>reflects a folk-tradition of iron-working as a mystical ability, with a sacrifice of power (one eye) in return for a special affinity for iron, and the Sight. He can also be used as a model for other physically strong craftsmen or farmers, replacing Second Sight and Missing Eye with other choices, and shuffling Abilities.</div>
 
-<h4>Craftsman or Craftswoman</h4>
+<h4>Craftsman Or Craftswoman</h4>
 
 <div>Characteristics: Int 0, Per +1, Pre –1,</div>
 <div>Com 0, Str 0, Sta +2, Dex +2, Qik +1 Size: 0 Age: 20 (20) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Craftsman; Light</div>
@@ -1635,7 +1688,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>bakery Encumbrance: 0 (0) Customization Notes: This returned</div>
 <div>changeling — who bakes bread and cakes faerie-style, to the bemusement of his fellows in the covenant.— can have his Virtues and Flaws swapped freely. If dropping his Faerie Upbringing, however, move the related XP to another Ability.</div>
 
-<h4>Spouse with a Secret (Skinchanger)</h4>
+<h4>Spouse With a Secret (Skinchanger)</h4>
 
 <div>Characteristics: Int 0, Per +1, Pre +1,</div>
 <div>Com 0, Str 0, Sta +1, Dex 0, Qik +1 Size: –1 Age: 18 (18) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Keen</div>
@@ -1673,7 +1726,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Rego Craft Magic</h3>
 
-<div>Craft Task Craft Ease Factor Minimum Rego Craft Ease Factor</div>
+
+<h4>Craft Task Craft Ease Factor Minimum Rego Craft Ease Factor</h4>
+
 <div>Trivial 0 3</div>
 <div>Simple 3 6</div>
 <div>Easy 6 9</div>
@@ -1725,7 +1780,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>New Spells</h4>
 
 
-<h4>A Spell to Milk Cattle</h4>
+<h4>a Spell To Milk Cattle</h4>
 
 <div>ReAn 15 R: Touch, D: Conc, T: Group While you wait, the cows are magically milked without further handling, transferring their milk into nearby milkpails. The magus’s Perception + Finesse roll substitutes for an Animal Handling roll by a competent farmer; the spell gathers the milk, but if the roll is failed, the cattle may be spooked.</div>
 <div>Milking cattle is normally Simple (3) if the cattle are accustomed to the process and the milking hand, so the basic Finesse Ease Factor is at least 6, higher if anything disturbs the cows. Cows are initially be disconcerted at being milked by invisible hands, and need soothing (The Gentle Herd is ideal for this task). Unless magically calmed, the Finesse roll is Very Hard (15+) the first time cows are milked by magic, but this Ease Factor reducing over time and successful milking to 12, then 9, until the cows become accustomed to the process (6).</div>
@@ -1742,7 +1797,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>InHe 15 R: Voice, D: Mom, T: Group The magus learns whether wood is suitable for use in carpentry, with an indication of the treatment needed (e.g. “unseasoned — season it”, or “old, brittle, and dry — discard it”).</div>
 <div>(Base 3, +2 Voice, +2 Group)</div>
 
-<h4>A Spell to Kill Weeds</h4>
+<h4>a Spell To Kill Weeds</h4>
 
 <div>PeHe 20 R: Touch, D: Mom, T: Group The magus touches a weed, and it and all similar plants within a 15-pace range — up to 10 cubic paces of plant material — are weeded out.</div>
 <div>(Base 5, +1 Touch, +2 Group)</div>
@@ -1921,7 +1976,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>request for transport. Finally, there is the circle-of-transport, activated from within the covenant, which transports those seen by the grogs into the covenant. (Visiting magi may resist the effect and remain outside. In such cases, servants are typically sent out to welcome them into external accommodations, outside the Aegis.)</div>
 <div>The enchantment is a Rego Corpus 45 effect, and transports targets seen up to 500 paces into the covenant, or deposits them outside upon departure.</div>
 <div>(Base 20, +3 Sight, +2 Group, +5 levels for 24 uses)</div>
-<div>Fantastical Device: The Remote Entrance Portal</div>
+
+<h3>Fantastical Device: The Remote Entrance Portal</h3>
+
 </div sidebars>
 
 
@@ -1974,6 +2031,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h1>Chapter Five</h1>
 
 
+<h2>Wealth & Poverty</h2>
+
+
 <div sidebars>
 <div>It is a very rare covenant that has no need for money. Just the same as any manor house, fortress, or monastery, there are a large number of people to be fed, housed, and protected, and only a limited amount (and limited types) of resources in the immediate vicinity. Indeed, magi are accustomed to living like nobility, with a need for precious lab equipment and materials, and expensive parchments and inks, that would be a burden for even a rich nobleman. Therefore, almost all covenants require a source of income, so that they may trade for needed goods. In this chapter you will find some straightforward rules for running of your covenant’s finances, and suggestions for sources of income.</div>
 <div>These rules may be summarized by a very simple rule of thumb: Round any major income or expenditure to the nearest pound, and disregard smaller amounts (shillings and pence). While it is important to have a sense of the overall state of the covenant’s finances, you probably don’t want to get bogged down in the minutiae of smaller items of expenditure, such as how many jugs of ale the grogs drank last night or how many candles are used in a season. A lot of money is spent in many ways during the course of a typical covenant year, and accounting for all of it precisely would be a daunting task. Thus, for the sake of simplicity, you will only find prices for broad categories of expenditure and major items in this chapter, quoted in whole pounds.</div>
@@ -2019,7 +2079,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Source of Income Categories</h3>
 
-<div>Source of Income Relevant Hook or Boon Typical Annual Income (pounds)</div>
+
+<h4>Source of Income Relevant Hook Or Boon Typical Annual Income (Pounds)</h4>
+
 <div>(None) Poverty Hook (Major) 0</div>
 <div>Lesser Poverty Hook (Minor) 40</div>
 <div>Typical n/a 100</div>
@@ -2028,7 +2090,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Income Modification</h3>
 
-<div>Effect Income Multiplier Stress Die Result</div>
+
+<h4>Effect Income Multiplier Stress Die Result</h4>
+
 <div>Slump x 0.5 botch</div>
 <div>Contraction x 0.8 0</div>
 <div>Stagnation x 0.95 2</div>
@@ -2234,7 +2298,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>A copy of this spell resides at the Great Library of Durenmar, but it is infamous for causing inflationary trou</div>
 <div>bles. Given the recent rulings in many Tribunals, a covenant of ten magi would only be permitted to distribute 20 pounds of such silver per year, so that it would take 100 years to exhaust the silver created by even a single casting of the spell. Therefore, while there is nothing to stop a magus from learning this spell in the Great Library, he would surely earn the instant suspicion and attention of the Quaesitores if he did so.</div>
 <div>(Base 15, +1 Touch, +2 size, +1 complexity)</div>
-<div>The Riches That are Rightfully Mine(d)</div>
+
+<h3>The Riches That are Rightfully Mine(d)</h3>
+
 </div sidebars>
 
 
@@ -2243,7 +2309,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Greater: A Greek navy of several dozen ships, with expert crew, for hire.</div>
 <div>Legendary: Several hundred elite Ghulam bodyguards.</div>
 
-<h4>Toll-Gathering</h4>
+<h4>Toll-gathering</h4>
 
 <div>Those who find themselves in a strategically important location, such as by a bridge, ford, ferry, mountain pass, city gate, or waystation, usually seek to profit from it, by imposing a toll on passing travelers and merchants. To do this legitimately requires either that one owns the facility in question, or has permission from the feudal overlord to collect tolls, although this is a privilege that the greater nobility like to reserve for themselves. In places where it is possible to easily bypass the toll station (such as on a road), it must be patrolled, and all toll stations require a certain measure of force, so that non-payers can be refused entry.</div>
 <div>Pros: You ask people for money and they give it to you!</div>
@@ -2344,8 +2410,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Teamsters: People who are employed to procure provisions and supplies from elsewhere and transport them to the covenant, typically one or more market buyers and a team of wagoners or hauliers. Some covenants are served by traveling merchants, in which case the teamsters do not belong to the covenant. However, they still need to be paid and accounted for, since it is more expensive to buy wares on your doorstep than to travel to market and buy them there — either way, the covenant has to bear the haulage costs.</div>
 <div>You may employ as many or as few of each type of covenfolk as you like, except that there is a minimum required number of servants and teamsters. There is also a limit to the number of laborers and craftsmen that can be usefully employed (see the Cost Saving section below).</div>
 <div>To determine the minimum number of servants and teamsters for your covenant, proceed as follows: Total up the points of inhabitants (see insert), including everyone except laborers, servants, and teamsters. For every ten points of this total, you need two servants. Add the points for these servants to the total. Now, subtract twice the number of laborers. For every ten points of this total, you need one teamster. Finally, re-compute the total points of inhabitants, including all laborers, servants, and teamsters.</div>
-<div>Number of Servants Required: 2 for every 10 points of (all inhabitants, excluding laborers, servants, and teamsters)</div>
-<div>Number of Teamsters Required: 1 for every 10 points of (all inhabitants, excluding laborers and teamsters – [2 * number of laborers])</div>
+
+<h4>Number of Servants Required: 2 for Every 10 Points of (All Inhabitants, Excluding Laborers, Servants, and Teamsters)</h4>
+
+
+<h4>Number of Teamsters Required: 1 for Every 10 Points of (All Inhabitants, Excluding Laborers and Teamsters – [2 * Number of Laborers])</h4>
+
 
 <h3>Yearly Expenditure Categories</h3>
 
@@ -2391,18 +2461,22 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Buildings</h4>
 
 <div>The covenant’s buildings need to be properly maintained, decorated, and furnished to prevent them from falling into disrepair. For example, damaged roofing and stonework has to be patched up, old furniture needs to be replaced, and there are often plenty of minor repair jobs for a carpenter to do.</div>
-<div>Buildings Cost: 1 pound for every 10 points of</div>
 
-<h4>inhabitants</h4>
+<h4>Buildings Cost: 1 Pound for Every 10 Points of</h4>
+
+
+<h4>Inhabitants</h4>
 
 <div>Add two pounds for any relevant Minor Fortifications Boon, and five pounds for any relevant Major Fortifications Boon (see Chapter 2: Boons and Hooks, Fortification). Only Boons that add to the size, magnificence, or quantity of the covenant’s buildings or fortifications count.</div>
 
 <h4>Consumables</h4>
 
 <div>There are a whole host of minor tools, equipment, and consumables that are necessary for the smooth running of a covenant, which need to be replenished and repaired, including candles, carts, clothing, fuel, kitchen utensils, barrels, brooms, and so on. Special materials required for books and laboratories are accounted for separately.</div>
-<div>Consumables Cost: 2 pounds for every 10 points of</div>
 
-<h4>inhabitants</h4>
+<h4>Consumables Cost: 2 Pounds for Every 10 Points of</h4>
+
+
+<h4>Inhabitants</h4>
 
 
 <h4>Inflation</h4>
@@ -2414,15 +2488,19 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Laboratories</h4>
 
 <div>Unsurprisingly, magi are willing to spend a significant portion of their money on their own laboratories. To maintain a laboratory at its existing level requires a steady supply of replacement equipment (especially glassware) and precious ingredients, as well as more basic items, such as fuel for heating and candles for lighting. The cost for each laboratory depends on its Upkeep score (see Chapter 9: Laboratory). For example, a standard laboratory (with an Upkeep of 0) costs one pound per year of typical use.</div>
-<div>Laboratories Cost: 1 pound per 10 points of laboratories</div>
+
+<h4>Laboratories Cost: 1 Pound Per 10 Points of Laboratories</h4>
+
 
 <h4>Provisions</h4>
 
 <div>With many dozens of mouths to feed, one of the covenant’s major items</div>
 <div>of expenditure — often the largest of all — is the purchase of foodstuffs. A typical covenant consumes grains, meat, fish, vegetables, cheese, spices, salt, ale, and wines, and needs fodder for its horses.</div>
-<div>Provisions Cost: 5 pounds for every 10 points of</div>
 
-<h4>inhabitants</h4>
+<h4>Provisions Cost: 5 Pounds for Every 10 Points of</h4>
+
+
+<h4>Inhabitants</h4>
 
 
 <h4>Tithes</h4>
@@ -2438,9 +2516,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>get one penny per week, enough to buy a dozen mugs of ale. Although magi do not get paid wages per se, they nevertheless often have some kind of allowance for discretionary personal spending. This caters for minor purchases such as clothing, jewelry, and the like, which need not be accounted for separately. The “wages” for horses can be assumed to be spent on the extra food that they require.</div>
 <div>You may adjust these wage costs as appropriate for your covenant, but bear in mind that the more you pay them, the happier the covenfolk will be (and viceversa). The standard wage costs listed here make no adjustment to Loyalty; if you increase (or reduce) them, you may gain the benefits (or penalties) to Loyalty outlined in Chapter 4: Governance, Prevailing Loyalty.</div>
-<div>Wages Cost: 2 pounds for every 10 points of</div>
 
-<h4>inhabitants</h4>
+<h4>Wages Cost: 2 Pounds for Every 10 Points of</h4>
+
+
+<h4>Inhabitants</h4>
 
 <div>The formula equates to one penny per point of inhabitants, per week. Add one pound per each penny that is paid daily to any professional soldiers in the covenant’s service. For example, for the Veteran Fighters and Crossbowmen Boons, add one or nine pounds per soldier, respectively.</div>
 
@@ -2448,17 +2528,21 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Almost all covenants have a turb of warriors, who are outfitted with weaponry and armor, and some have an additional store of weapons, or even an arsenal. This equipment needs to be regularly cleaned, repaired, and (every so often) replaced.</div>
 <div>However, for a small turb with modest outfitting, this cost is likely to amount to only a couple of pounds per year.</div>
-<div>Weapons and Armor Cost: 1 pound for every 320 points of</div>
 
-<h4>weapons and armor</h4>
+<h4>Weapons and Armor Cost: 1 Pound for Every 320 Points of</h4>
+
+
+<h4>Weapons and Armor</h4>
 
 
 <h4>Writing Materials</h4>
 
 <div>Writing is a costly business, since parchment and inks are expensive. As a rule of thumb, one pound provides enough materials to write four books, without embellishment. Typically, a magus uses such a quantity in one year. For example, two seasons of lab work (in which a lab text is produced), one season of book writing, plus diaries, accounts, records, letters, and so on, would amount to this much. Writing costs can be reduced for magi who are absent from the covenant or undertake little lab work or scribing, however. Specialist craftsmen (scribes, binders, and illuminators) allow better quality books to be produced, but add to the production costs (see Chapter 7: Library). Precious materials used for resonant bonuses on books are more expensive still, but are counted as sundry expenses (see below), on a case-by-case basis.</div>
-<div>Writing Materials Cost: 1 pound for every magus, scribe,</div>
 
-<h4>bookbinder, and illuminator</h4>
+<h4>Writing Materials Cost: 1 Pound for Every Magus, Scribe,</h4>
+
+
+<h4>Bookbinder, and Illuminator</h4>
 
 
 <h3>Cost Saving</h3>
@@ -2506,7 +2590,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Magic can also be employed to save money; many of the options here are similar to those for magically improved income, except that product of the magic is consumed instead of traded for profit. For example, the fertility of the covenant’s own lands may be improved, or the magi might magically create tools or lab equipment instead of purchasing them. See Chapter 4: Covenfolk, Magical Alternatives to Covenfolk for examples of relevant magical devices and spells. A magical item might reduce the Consumables costs, for example, an oven which requires no fuel. Alternatively, it might save on labor, for example, a broom that sweeps by itself. In the former case, one or more pounds is saved directly; in the latter case, you can achieve the same results with fewer covenfolk (thus saving money indirectly). The minimum required numbers of servants and teamsters may thus be reduced.</div>
 <div>Magical items can also perform the work of laborers and craftsmen, and may be treated as such for the purposes of cost saving. For example, the Motivated Plough (see Chapter 4: Covenfolk, Lesser Enchanted Devices) does the equivalent of about three laborers’ work, and thus saves three pounds per year. As a very simple rule of thumb, each magnitude of effect in such items can save one pound per year. Each casting of a Ritual spell may save approximately five pounds per magnitude, although this depends on the nature of the effect (and the discretion of the storyguide). Although Ritual spells may make dramatic improvements, such</div>
-<div>Buildings + Consumables + Provisions + Wages</div>
+
+<h4>Buildings + Consumables + Provisions + Wages</h4>
+
 <div>1 pound per point of inhabitants Extra buildings and fortifications: 2 pounds per each relevant Minor Fortifications Boon; 5 pounds per each relevant major Fortifications Boon Paid soldiers: 1 pound per penny paid daily</div>
 
 <h4>Inflation</h4>
@@ -2593,7 +2679,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>The Finances of Semita Errabunda</h3>
 
-<div>Category of Expenditure Amount Cost Saving Limits Cost Saving Total</div>
+
+<h4>Category of Expenditure Amount Cost Saving Limits Cost Saving Total</h4>
+
 <div>Buildings 16 (8 per craft) –16 0</div>
 <div>Consumables 32 (6 per craft) –24 8</div>
 <div>Inflation 0 0</div>
@@ -2707,6 +2795,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h1>Chapter Six</h1>
 
 
+<h2>Vis Sources</h2>
+
+
 <div sidebars>
 <div>This chapter contains 45 vis sources, three for each Hermetic Art, ready for use in your saga, or to serve as inspiration for your own creations. None of the sources specify the amount of vis available, because that is dependent on how much vis you want in your saga (see ArM5, page 218). Just as sagas can be divided into low, moderate, and high vis sagas, so too can sources be divided between low, moderate, and high yield. The table in the insert gives some rough numbers; a source with a high yield should give about as much vis as an individual magus receives in a year. Remember that most sources yield only one type of vis, so most covenants want a wide range of sources.</div>
 <div>The size of the source should be determined by the significance of the story involved in finding it, and how much you like the source in question. A high-yield source is more important in the saga than a low-yield one, so you should attach a high yield to the sources with the best attached stories. Obviously, this is also entirely dependent on the interests of your troupe, and thus not specified below.</div>
@@ -2718,7 +2809,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Apples of Hesperides</h3>
 
 
-<h4>by Stuart Kenny</h4>
+<h4>By Stuart Kenny</h4>
 
 <div>Years ago, a stranger visiting the covenant told a story about an apple tree that was a wedding present to Hera, queen of the gods, and of Hercules who labored to steal the apples from it. The stranger then offered a single apple seed in trade for one of the covenant’s most valuable books, claiming that the seed was descended from that very tree. Why he was believed none can say, but the deal was struck and the seed was planted.</div>
 <div>Now the tree produces six golden apples each year, although, heeding the stranger’s advice, three of these are not harvested. If three apples are not allowed to rot where they fall to nourish the roots, then a stress die is rolled with as many botch dice as there are missing apples. For each botch, the tree forever produces one fewer apple per year.</div>
@@ -2728,14 +2819,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Crone’s Blood</h3>
 
 
-<h4>by Richard Love</h4>
+<h4>By Richard Love</h4>
 
 <div>The Crone is an elderly woman who lives in a village near the covenant.</div>
 <div>Despite her considerable age, she has not passed through menopause and her menstrual blood contains Creo vis. The Crone’s cycle is, however, slower than normal and she menstruates only once every two lunar cycles. This is a side effect of the particular Unaging Virtue that the Crone has.</div>
 <div>The Crone is respected in her village; many of the villagers are, in fact, her descendants. She is often consulted by the villagers on matters of herbs, medicine, and minor magic. The Crone is not Gifted, but due to her age she has come to know something about magic. She is not quite sure what vis is, and hence does not know exactly why the magi want her blood, but she is aware that it is valuable to them. The Crone is also aware that her blood represents a powerful Arcane Connection to herself, which the magi could use to her detriment.</div>
 <div>The Crone may be convinced to swap her blood for magical services that benefit the village, but she is not be willing to trade with hostile magi. In the event of the Crone’s death it may be discovered that one of her female descendants has the same affliction.</div>
-<div>A Foul Gift from a Festering Meadow</div>
-<div>by Gary N. Mengle and Sean Mitchell</div>
+
+<h3>A Foul Gift from a Festering Meadow</h3>
+
+
+<h4>By Gary N. Mengle and Sean Mitchell</h4>
+
 <div>In the woods there is a meadow from which comes the sweet, pungent smell of the decay of rotting flesh. In the summer, this sickly odor is enough to make almost anyone ill; even in winter there remains a bit of the awful stench. A Stamina roll against an Ease Factor of 6 to avoid retching should be made by anyone who remains in the meadow for more than a few moments. The number of carcasses</div>
 
 <h3>Vis Source Yields</h3>
@@ -2753,7 +2848,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>The Lens of Wisdom</h3>
 
-<div>by Gary N. Mengle and Sean Mitchell</div>
+
+<h4>By Gary N. Mengle and Sean Mitchell</h4>
+
 <div>This crystal lens of astonishing workmanship, a hand-span in diameter and bound in a hoop of brass, has a most curious property. When the light of the sun at noon on the summer solstice is focused through the lens upon a blank parchment, indecipherable patterns burn themselves upon the page. It may be that these are the glyphs of some unknown writing, but thus far neither mundane scholarship nor magical investigation has revealed their nature or origin. One page can be prepared each year, and each contains Intellego vis. If the vis is removed from the page, the writing also fades.</div>
 <div>The brass circle that holds the lens has the remains of a mounting bracket of some sort still attached. It may be that there was originally a stand or tripod on which the device rested, but if so, this has now been lost.</div>
 <div>It is thought by some Hermetic scholars that the glyphs contain the key to lost secrets, and that if they could be deciphered a vast source of wisdom might be unlocked. If this proves correct, it could result in conflict among scholars vying for control of the lens. Even the most underhanded methods of obtaining the lens might be undertaken by those convinced of its great value.</div>
@@ -2761,14 +2858,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Waystones</h3>
 
 
-<h4>by David Chart</h4>
+<h4>By David Chart</h4>
 
 <div>A group of ancient standing stones stand near the covenant. Each stone is taller than a grown man, and from each stone it is possible to see at least one other. When the stones are first encountered there are four of them, forming a path that can be followed from either end. If someone follows the path alone, going away from the covenant, starting at dawn on the Autumnal Equinox, he finds an additional stone at the end of the route, and his shoes contain Intellego vis. This process can be repeated each year, and, indeed, the covenant records might show that there were originally only two or three stones, allowing the magi to learn the method by which new stones can be found. It seems likely that the stones lead somewhere, but it is far from clear where.</div>
 
 <h3>The Tree of Truth</h3>
 
 
-<h4>by Andrew Reimer</h4>
+<h4>By Andrew Reimer</h4>
 
 <div>A tree has been found in a forest not too far from the covenant that bears a fruit not familiar in the local landscape. Villagers tend to avoid the tree because its fruit is quite bitter, but the steward of the local lord has stumbled upon another use for it. Before dispensing any judgments on local disputes, the steward eats a piece of the fruit, as he finds it helps him to clear his mind and see the truth of any situation. The steward has, in fact, been gaining a reputation beyond the local town for his wise judgments. If called upon to settle disputes in other areas, he prepares a supply of the fruit to take with him and has even gone as far as having his wife preserve a supply for the off-season. No others yet know of his secret.</div>
 <div>Indeed, the fruit of this tree does have magical properties and Intellego vis can be extracted from it. Several questions remain, though. Could this tree be in some way related to the Biblical “tree of the knowledge of good and evil” as described in the creation story? If so, what possible effect might the use of the tree have on the mortal soul?</div>
@@ -2776,25 +2873,31 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <div sidebars>
-<div>Covenants Muto</div>
+
+<h3>Covenants Muto</h3>
+
 
 <h3>The Chrysalis of Rebirth</h3>
 
-<div>by Gary N. Mengle and Sean Mitchell</div>
+
+<h4>By Gary N. Mengle and Sean Mitchell</h4>
+
 <div>Some distance away from the covenant, there is a field of wildflowers of many vibrant colors. Each year, caterpillars nest in and feed upon these flowers. The butterflies that these caterpillars turn into burst free from their cocoons at dawn on a single day, the twentieth of July, and on that day the field is ablaze with a dazzling riot of color, the sort of natural beauty that would tempt the heart of a poet.</div>
 <div>Awe-inspiring though this may be, the butterflies do not contain vis, nor do they have any particular virtue other than their odd habit of all hatching at the same time. However, some intact cocoons can be found each year from which no butterfly hatched. These each contain a pawn of Muto vis, and exhibit an odd, almost metallic luster. These must be harvested before the sun sets on the day of the hatching, for after that time their power dissipates if not collected, and finding the unspent cocoons in a field full of them is no small task; many hands may be required. It may be possible to instruct grogs or covenfolk to collect all the cocoons, burst or whole, for later sorting at the covenant’s convenience.</div>
 
 <h3>Covenant Workshop</h3>
 
 
-<h4>by Nick Simmonds</h4>
+<h4>By Nick Simmonds</h4>
 
 <div>This covenant has a mundane workshop wherein talented grogs shape items that require an expert’s touch, yet are too common to bother the magi with. Ironically, performing such work in the presence of a magical aura has caused the magi to pay inordinate attention to these items. The sawdust, metal filings, and other detritus that builds up here can be collected and used as a source of Muto vis. A normal year’s work results in a certain amount of vis, although collecting more than half of that requires the magi to be in the workshop so much that the grogs begin asking for quick spells to assist them in tricky or time-consuming tasks. As spells don’t leave the same scrap</div>
 <div>behind as normal handiwork, this results in much less vis available overall for the next year. The magi may refuse to assist the grogs, but consistent refusal to spend a moment assisting in such vital covenant tasks when the magi don’t have to go out of their way may foster resentment among the grogs and result in the covenant’s loss of necessary skilled workers.</div>
 <div>Subtle use of spontaneous Perdo magic around the covenant may increase the amount of maintenance work needed, and thus indirectly affect the amount of vis that collects in the workshop, but wise magi would be rightfully nervous about using magic to harm their own covenant; spending spare moments over the course of a year breaking things adds a stress die to the total vis available here, but a botch means that something disastrous has happened which harms the day-to-day workings of the covenant, makes the manipulation obvious to the staff, or both.</div>
-<div>First Freeze of the Winter Spirits</div>
 
-<h4>by Andrew Reimer</h4>
+<h3>First Freeze of the Winter Spirits</h3>
+
+
+<h4>By Andrew Reimer</h4>
 
 <div>With the approach of each winter, the spirits of Snow and Wind descend from their high places to bring about the change of seasons. Before moving further into the occupied lowlands, they first stop and frolic in the cold waters of certain mountain lakes, celebrating the coming of another winter during which they reign.</div>
 <div>An isolated lake lies nestled in a col near the top of a mountain. This lake is in fact the favored spot for Snow and Wind to celebrate the coming change of seasons, and is the first of all the lakes to freeze over each year. Upon the eve of the first snowfall, a localized snow storm with high winds overtakes the col for several hours. During this time, the entire lake freezes over. Any water that is collected at the point of turning into ice is a source of Muto vis, as it embodies both the change of water to ice and autumn to winter.</div>
@@ -2806,7 +2909,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Circle of Destroying Angel Mushrooms</h3>
 
 
-<h4>by John Post</h4>
+<h4>By John Post</h4>
 
 <div>Deep in the heart of a cold and sinister wood, an Unseelie faerie lord holds court on the last day of winter. The lord hosts a great melancholy feast marking the end of the Unseelie faeries’ period of ascendancy, and a mortal is brought to dance for the dark lord. The mortal is compelled to dance past the point of exhaustion to his eventual death. Although the dance occurs in a Faerie regio, it leaves footprints in the mundane world.</div>
 <div>In late spring, destroying angel mushrooms appear where the doomed dancer’s footsteps landed. These tall, pure white mushrooms have slightly convex caps, which become flatter as they mature. The mushrooms are deadly poisonous; one bite easily kills a man, and they contain Perdo vis. Once harvested, the mushrooms do not reappear until the next year.</div>
@@ -2815,7 +2918,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Heirloom</h3>
 
 
-<h4>by Sheila Thomas</h4>
+<h4>By Sheila Thomas</h4>
 
 <div>One of the covenant’s washer-women has a piece of pumice stone that she uses to remove particularly stubborn stains. She does not like to lend it, as she has never had anything so effective. The stone contains a little Perdo vis. It is highly unlikely that the magi take any interest in their laundry or that they are</div>
 </div sidebars>
@@ -2829,7 +2932,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Stone of Death</h3>
 
 
-<h4>by Paul Tevis</h4>
+<h4>By Paul Tevis</h4>
 
 <div>The ancients knew much about how the heavens affect the earth. They were great astronomers, and they wrote much about how the stars and planets influence human events. Although the Christian Church has declared that astrology is anathema to the doctrine of free will, many magi heed the words of Hermes Trismegistus: “As above, so below.”</div>
 <div>The Stone of Death is of an unknown age, but it is undoubtedly ancient. The stone measures two paces long and half a pace wide, and it protrudes no more than knee-high from the ground. Its major axis is aligned with setting sun on the winter solstice.</div>
@@ -2842,14 +2945,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Honey of Kings</h3>
 
 
-<h4>by Paul Tevis</h4>
+<h4>By Paul Tevis</h4>
 
 <div>Pliny the Elder writes in his Natural History that bees are the most remarkable creatures. Bees, who make both honey and wax, are the only animal created specifically to serve humanity. They live in communities, they elect their own government, and they possess their own set of morals. Of particular interest to Pliny is the king-bee, of whom he says, “The obedience which his subjects manifest in his presence is quite surprising. When he goes forth, the whole swarm attends him, throngs about him, surrounds him, protects him, and will not allow him to be seen. At other times, when the swarm is at work within, the king is seen to visit the works, and appears to be giving his encouragement, being himself the only one that is exempt from work: around him are certain other bees which act as bodyguards and lictors, the careful guardians of his authority.”</div>
 <div>In some places, where certain flowers grow, bees make a special honey to feed to their king. When the proper flowers are in bloom, this honey takes on magical powers. If the king can be convinced to bring it forth from the hive and to make obeisance to a magus, the honey is transformed into Rego vis.</div>
 
 <h3>The King Enthroned Forever</h3>
 
-<div>by Gary N. Mengle and Sean Mitchell</div>
+
+<h4>By Gary N. Mengle and Sean Mitchell</h4>
+
 <div>A rock outcropping on the coast was carved long ago by unknown hands into the image of a seated man of regal bearing, facing ever outward to the open sea. His beard is long and there is wisdom in his deep-set eyes. The weathered image is five times the height of a man, and can be seen clearly by ships passing along the coast. Each winter, a jagged, gleam</div>
 <div>ing ring of ice forms upon his brow. This winter crown contains Rego vis.</div>
 <div>The locals say that the image is of a king of ancient days, who watches over his people still, and who will rise again when the time is right. They say that he watches the sea, waiting for a sign that he is needed once more, but they cannot agree on exactly what he is waiting for. The local parish priest believes the icy crown resembles a crown of thorns, and the image to be that of Christ, who will return at the end of the world to judge mankind and establish the kingdom of God on Earth.</div>
@@ -2857,7 +2962,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Parliament of Ghosts</h3>
 
 
-<h4>by Jeff Kyer</h4>
+<h4>By Jeff Kyer</h4>
 
 <div>In the depths of the forest lies a small meadow surrounded by ancient cedar trees. Throughout the area are numerous small barrows and the occasional piece of ancient statuary. Few travel this way, and even hunters and shepherds avoid the area — it has a well-earned reputation for being haunted. The clearing and its surroundings have a Magic aura of 3. Long ago, this was a pagan graveyard. The dead here are not under the auspices of the Church and their spirits linger on, haunting the surrounding forest. Once a year, these “villagers” return in strength to hold their moot. just as they did in life. Mootnight changes from year to year, being the first full moon after the Spring Equinox. Mortals brave enough visit on that night are invited to sit in judgment over the conflicts between the restless dead. Some cases are quite strange, such as that of the woman who remarried — and whose husbands both claim her as wife. Other ghosts bring up mundane concerns, such as the well-being of their descendants, or demands for vengeance on those plundering their graves. A mortal lawgiver who is just and wise — as well as brave! — is rewarded by the ghosts with Rego vis (in the form of corroded copper pennies), long-lost treasure, or even secrets that only the dead may know. The foolish or weak-willed are haunted or driven mad by the angry ghosts.</div>
 </div sidebars>
@@ -2869,7 +2974,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Faerie Furries</h3>
 
 
-<h4>by Sheila Thomas</h4>
+<h4>By Sheila Thomas</h4>
 
 <div>There is a sallow tree, so old that no-one living can recall a time when it did not look like the oldest tree in the world. It grows at the edge of a patch of ancient woodland and not far from a small pool of still, clear water in the corner of a flower-studded water meadow that lies beside the lazily-curving middle stretches of a sizable river not too far from the covenant. Although of venerable age, the tree is still vigorous, and some say this is because the fay care for it. Every spring it is covered in large yellow catkins. Before the catkins develop, they appear as fat, furry little silver-gray buds. By the light of a new moon, a few of these take on the appearance of tiny little kittens. Locals say these are fairy cats and fear to go anywhere near then, lest the fay come to defend their property.</div>
 <div>If gathered by moonlight while they look like kittens, each little kitten-bud contains one pawn of Animal vis; once cut from the tree, they look like normal pussy willow buds but retain their vis. If it suits the storyguide, small trickster fay harass collectors from the moment they take the first kitten-bud.</div>
@@ -2877,15 +2982,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Golden Geese</h3>
 
 
-<h4>by Stuart Kenny</h4>
+<h4>By Stuart Kenny</h4>
 
 <div>The covenant maintains a large and rather special flock of geese. For as long as anyone can remember, sometime each spring one of the yearlings of the flock begins to lay golden eggs. To magi the bird is more valuable than the gold, for the goose contains Animal vis. However, the bird needs to be identified quickly: each golden egg laid after the first reduces the goose’s vis by one pawn. Once all the vis is consumed, the goose is completely normal, producing nothing but mundane eggs.</div>
 <div>Naturally, only the most trusted and alert covenfolk are assigned to care for the geese. Beyond the usual care and protection of the flock, the geese must also be penned in small groups each spring until the golden egg layer is identified. Once the first egg is laid it is a simple Intellego Vim effect to identify the correct bird for</div>
 <div>slaughter, but the size of the flock has so far precluded checking every bird. There appears to be no way to detect the golden goose until after the first egg has been laid.</div>
 <div>Traditionally, the covenfolk who finds the golden egg is allowed to keep it, as long as the correct bird is identified. This leads to enthusiastic egg hunts and great vigilance against thieves. (Note: The amount of gold in the egg, like the yield of vis, should be set to suit your saga.)</div>
-<div>The Treasure of the Thieving Magpies</div>
 
-<h4>by Ulrich Willmünder</h4>
+<h3>The Treasure of the Thieving Magpies</h3>
+
+
+<h4>By Ulrich Willmünder</h4>
 
 <div>Over the course of centuries, attrition and erosion have worn down a onceproud mountain, and have produced a large field of rubble on the lower slopes below a ridge called the Devil’s Chimney. Below the field of rubble lies a dark and wild magical forest, inhabited, among other animals, by a large flock of magpies.</div>
 <div>Every spring, the melting snow reveals some new rubble broken down from the mountain and the Devil’s Chimney. Among this rubble a number of pure white, slightly glowing crystals can be found, which contain a pawn of Terram vis each. The vis could be easily harvested each spring — if it were not for the magpies.</div>
@@ -2899,7 +3006,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Purest Stream</h3>
 
 
-<h4>by Paul Tevis</h4>
+<h4>By Paul Tevis</h4>
 
 <div>High in the mountains, fed from melting snow, lies a stream of crystal clarity. As it rushes down the mountainside, it collects neither dirt nor leaf. The village at the base of the mountain enjoys considerable fame for the beer that the villag</div>
 <div>ers brew from its sparkling water.</div>
@@ -2914,13 +3021,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>St. Swithin’s Soupbowl</h3>
 
 
-<h4>by Matt Sprengeler</h4>
+<h4>By Matt Sprengeler</h4>
 
 <div>The tale of St. Swithin’s burial is known by churchmen throughout Christendom. The holy scholar wished to be laid to rest in a modest grave, but when he died, well-meaning folk instead interred him in a splendid tomb within Winchester cathedral. A downpour struck, and it rained for forty days and forty nights until the saint’s body was moved to a more humble resting place. Even now, the people of Winchester say that rain on St. Swithin’s Day (July 15) is a portent of more rain to come.</div>
 <div>So it is with the lonely stone column called St. Swithin’s Soupbowl. As tall as a man, it stands atop a bare hill, sporting no decoration save rust-colored lichen. The column is crowned by an ancient stone bowl that seems to be of a piece with it. In truth, the bowl was set there centuries ago by fierce Viking raiders who originally carried it off from southern England, and may have carried it to anywhere in Europe. Whether Swithin himself ever touched it is unknown, but if it should be filled with water by sunrise of his day, the liquid within becomes Aquam vis by sunset. Filling the bowl with regular water results in some vis, but if rain falls overnight and fills the vessel, it produces twice as much. Moving the bowl from this spot breaks the vis-producing effect.</div>
-<div>The Water of the Waterless Valley</div>
 
-<h4>by Ulrich Willmünder</h4>
+<h3>The Water of the Waterless Valley</h3>
+
+
+<h4>By Ulrich Willmünder</h4>
 
 <div>High up in the mountains lies an unusually fertile vale called the Waterless Valley. While it does rain or snow there occasionally, there is no brook and no pond that holds water, and no glacier ends here, melting its ice, to water the valley. Even though the valley reaches up to more than 9.000 feet, access from the main valley to the south is relatively easy, and, despite the lack of water, it is used to graze goats.</div>
 <div>Legend says that for one day in spring, when the snow melts and the weather is warm for the first time, a small river flows through the valley, providing enough water to last the valley for a whole summer. No one remembers actually seeing this river though.</div>
@@ -2931,7 +3040,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>The Lightning-Bringer</h3>
 
-<div>by Gary N. Mengle and Sean Mitchell</div>
+
+<h4>By Gary N. Mengle and Sean Mitchell</h4>
+
 <div>A cunningly wrought device once rested on the top floor of the tallest tower of an ancient covenant — the LightningBringer. Invented almost a century ago by a Tremere Archimagus, it was his greatest achievement. The Lightning-Bringer consists of a number of copper spheres of varying diameters, connected by thin, spiral rods of gold to several dozen glass vessels. The whole device is highly magical even when not in operation.</div>
 <div>On the night of each new moon, the device calls up a powerful thunderstorm,</div>
 <div>and attracts to itself the lightning from the tempest, accumulating it as Auram vis. The glass vessels, about a quart in capacity, are specially enchanted and can store the vis indefinitely. They can be detached for storage and replaced with spare containers.</div>
@@ -2940,7 +3051,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Peak of Storms</h3>
 
 
-<h4>by Paul Tevis</h4>
+<h4>By Paul Tevis</h4>
 
 <div>The Peak of Storms is never visible, as the top of the mountain is always hidden by clouds. In winter, a cold wind blows down its slopes, threatening to freeze an unwary traveler solid. During the spring and summer, thunderstorms form around the mountain. On Midsummer’s Day, a great storm cloud takes shape over the peak, and at noon a tremendous thunderclap splits the air. It is said that any child born that day in the valley below will have the power to speak with the four winds.</div>
 <div>Climbing the mountain is treacherous. In winter, it is almost impossible, as snow covers the upper slopes and the frigid winds blow with great intensity. In the summer it is easier, but not without danger. The more serious threat comes from the fogs that hide the peak. A climber may become lost and stumble into one of the ravines that dot the slopes. During a summer storm, the ascent is almost as dangerous as in the winter.</div>
@@ -2949,7 +3060,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Reed Melody</h3>
 
 
-<h4>by Oscar Diez Martínez</h4>
+<h4>By Oscar Diez Martínez</h4>
 
 <div>Maria was a beautiful young woman who lived in a nearby village. She had</div>
 
@@ -2971,7 +3082,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Hangman’s Oak</h3>
 
 
-<h4>by Ulrich Willmünder</h4>
+<h4>By Ulrich Willmünder</h4>
 
 <div>A couple of decades ago, the smith of a village was found guilty of murdering both his wife and a wandering monk who was a witness to her murder. An enraged mob of villagers caught up with the fleeing smith and hanged him to death on the strongest oak near the village, the very same oak under which the smith had disposed of the corpses of his victims. Ever since then the oak has been known as the Hangman’s Oak, even though the village was then so small that it had hardly ever seen any crime.</div>
 <div>By 1220, however, the former village is a thriving town with prosperous merchants, a small church, and its own baron. With wealth came greed and other sins, and thus the need for regular jurisdiction. While it is still very rare for a man to be hanged in the town, it does happen about every other year. And since there already is a place named after a hanging, the culprits sentenced to death are hanged from the Hangman’s Oak.</div>
@@ -2980,7 +3091,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Lovers’ Violets</h3>
 
 
-<h4>by Nick Simmonds</h4>
+<h4>By Nick Simmonds</h4>
 
 <div>There is a hill between the covenant and the nearest town, known to be a favorite spot for lovers to hold midsummer trysts; it is within walking distance but far enough for discretion. The hill is also under a Faerie aura, which may have something to do with its bawdy reputation. During the spring and summer, a magus could hardly swing a familiar without striking a shepherd, dairy maid, noble’s son, or bar lass in flagrante delicto.</div>
 <div>This hill is thick with deep purple, almost crimson, violet blossoms. Harvested, each blossom holds a minute amount of Corpus vis. A barrowful of the plants holds about one pawn. Over the course of the year the hill might produce a large amount of vis, as the flowers blanket the ground throughout the spring and summer months. However, they are also a favorite gift from one sweetheart to another, and a substantial amount of vis may thus escape into the town each year — briefly admired, then composted. Greedily claiming all of the flowers for the covenant could sour relations with the town, but periodic harvesting of up to half the yearly yield only results in a mild reputation as wizardly voyeurs — perhaps beneficial, as it could make the magi seem more human.</div>
@@ -2993,7 +3104,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Covenants The Spring of Asclepius</h3>
 
 
-<h4>by Paul Tevis</h4>
+<h4>By Paul Tevis</h4>
 
 <div>The Romans loved to bathe, and they built great public baths and temples around natural hot springs, such as the one at Aquae Sulis. They developed complex bathing rituals, and they believed that these springs possessed healing powers. In some cases, they were right.</div>
 <div>Deep in the woods, safe from prying eyes, lies the Spring of Asclepius. A small pool of water, large enough to contain a single person, breaks through the rocky terrain. The water is quite warm, and steam rises from the water’s surface. Carved into the stone above the pool is the Latin inscription, “May the blessings of Asclepius be on those who cleanse themselves here.” Anyone recovering from a disease who spends at least an hour a day in the pool each day of the recovery period receives +3 bonus to the Recovery roll.</div>
@@ -3005,7 +3116,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Cursed Tree</h3>
 
 
-<h4>by Paul Tevis</h4>
+<h4>By Paul Tevis</h4>
 
 <div>Deep in the forest, along an old road, there is an oak tree that blooms out of season. In the spring, just as its neighbors are budding, its leaves turn golden and fall. It sits barren all summer, naked under the midsummer sun. In the fall, when all the trees around it are losing their leaves, its new covering emerges. It keeps its foliage throughout the winter, shining like a green beacon when all around is white. Some say that in the dark of winter, you can hear the tree moan under the weight of its snow-covered leaves. They say that a saint once was traveling along the road and sought rest under the tree. It was late summer, but the tree had already lost all of its leaves, so the holy man found no relief from the sun. Angry, he cursed the oak, as</div>
 <div>Christ had cursed the fig. The tree immediately sprang into bloom. From that day forward, the tree has been as it is now.</div>
@@ -3014,7 +3125,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Gargoyle’s Blossom</h3>
 
 
-<h4>by Matt Sprengeler</h4>
+<h4>By Matt Sprengeler</h4>
 
 <div>In a cavern deep below ground, a stone hand rises from the rocky floor. It seems to be the work of a cunning sculptor. Every detail is perfect — the size, the proportion, even the ragged edges of the fingernails. Most remarkable is a detail that no craftsman ever wrought with stone. The hand clutches a beautiful red rose, a plant that grows from its stony grasp even though the blossom has never seen the sun.</div>
 <div>No sculptor created this scene, and no gardener tends the rose. The hand is all that remains of a lowly faerie, an ugly mountain spirit named Tulgank. He loved a fair maid of the Seelie court; she disdained him. One day he stole a rose from a human gardener and presented it to the object of his desire, but his temerity displeased her. More powerful than he, and of higher rank, the Seelie caused Tulgank to meld forever with the floor of his home cavern. His life ended, but his love has kept the rose petals alive.</div>
@@ -3023,7 +3134,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Mallorn Dandelions</h3>
 
 
-<h4>by Nick Simmonds</h4>
+<h4>By Nick Simmonds</h4>
 
 <div>A hill just outside the covenant, within a small faerie aura, grows thick with dandelion blossoms every spring. Each year, these dandelion blooms turn to seeds, becoming white puffballs as normal, but due to their faerie nature they don’t release their seeds and don’t</div>
 <div>die down in the winter. Instead, the next spring the new blooming pushes the old seeds out all at once, and the hilltop is blanketed with a tempest of tiny white clouds. If collected, these yield Auram vis, although this generally requires someone with the capability of flight or a touch of Herbam or Auram magic to gather those seeds that float out of arm’s reach. A grog, or magus without the proper skills, is still able to pull together a small amount of vis before losing the rest of seeds in the wind.</div>
@@ -3035,7 +3146,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Firebrand’s Rantings</h3>
 
 
-<h4>by Nick Simmonds</h4>
+<h4>By Nick Simmonds</h4>
 
 <div>A nearby town has an elderly wise woman who is critical of the local mayor and his cronies. She’s right to be so, as he’s done a poor job of running the town, and he unfairly favors his friends in disputes. He’s not done badly enough to be run out by the townsfolk, but some have voiced complaints to the parish priest, thus far without result. No one feels that things are bad enough that they can’t be borne. No one, that is, except the wise woman. A childless widow, she feels that she has nothing to gain from silence, and is more than willing to harangue these men. She is kind-hearted, but she speaks her mind, and the coterie in charge of the town has made her angry. They try to avoid her, as</div>
 
@@ -3053,7 +3164,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Mithras Shrine</h3>
 
 
-<h4>by Jeff Kyer</h4>
+<h4>By Jeff Kyer</h4>
 
 <div>Built high upon a rocky hill, the spire of the Church of Saint Michael is visible for miles and it is one of the more popular churches in the region. This church stands upon a pagan holy place: an ancient cave-shrine to Mithras. Established by Roman legionaries, this mithraeum lies past several neglected catacombs beneath the church (though magi may want to make a less noticeable route to the place). The altar at the heart of the small temple is still intact and the bas-reliefs carved into the surrounding walls show the bull-slayer bringing light and life to mankind. However, these stones are covered with a thick layer of nitre that sweats from the rocks. If gathered properly, this material yields Ignem vis.</div>
 <div>During much of the week, the local aura on the hill around the church is Divine, ranging from 2–3, but the mithraeum retains a Magic aura of 3. However, on Sunday, the Divine aura rises to 4 (and even higher on feast days), submerging the magical aura completely. Eventually, this will destroy both the aura and the vis source. Magi wishing to preserve the site may want to revive some of Mithras’ rituals or somehow do away with the church overhead — without breaking the Code of Hermes. Worse, these efforts may result in Infernal influence, or backfire and raise the Divine aura higher — particularly if churchmen have been martyred by “evil wizards.”</div>
@@ -3061,7 +3172,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>St. Laurence’s Beam</h3>
 
 
-<h4>by Sheila Thomas</h4>
+<h4>By Sheila Thomas</h4>
 
 <div>At the cathedral closest to the covenant, there is a stained glass window that depicts the coming of the Holy Spirit at</div>
 <div>Pentecost in the form of tongues of fire above the head of each of the apostles. On the feast of Saint Laurence, 10th August, the light of the mid-day sun produces a brilliant beam of light by shining directly through a particular piece of golden yellow glass that forms part of the image of the halo of light around the dove representing the Holy Spirit towards the top of the window. On a fine day, the beam is stable for an hour or so before the sun moves too far. The beam of light, in this place, on this day, contains Ignem vis.</div>
@@ -3074,7 +3185,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Lake of Mirrors</h3>
 
 
-<h4>by Nicholas Peterson</h4>
+<h4>By Nicholas Peterson</h4>
 
 <div>This mountain lake is surrounded on all sides by rocky peaks, sheltering it from the outside world. Perhaps this has created a natural reservoir for Imaginem vis, or perhaps there is some unknown factor which causes the vis to pool here.</div>
 <div>The terrain around the lake blocks all but the strongest winds from reaching the water. As a result, the surface of the lake is completely still nearly all the time, and reveals a perfect reflection of the sky and hills above it. Anyone who looks at his own reflection sees himself, not as he is, but rather as a Platonic ideal of himself: his own perfect form. If the water is collected in a container, it still reflects the unnatural image, which is actually a distillation of the vis contained within. When the vis is drained from the water, it does not lose any of its clarity or stillness, but now instead reflects a dark image of anyone who gazes upon it. Magi who have tapped the waters for vis see themselves as old and decrepit, with the worst of their physical features emphasized. More than one grog has been driven screaming from the sight of the “cursed reflecting pool” left over once the magic has been worked.</div>
@@ -3082,7 +3193,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Reginald’s Rebec</h3>
 
 
-<h4>by James Hazlerig</h4>
+<h4>By James Hazlerig</h4>
 
 <div>No one knows the exact origins of the three-stringed fiddle played by the wandering minstrel Reginald, but all agree that it is a rebec of exceptional quality and beauty. Reginald inherited it from his father, also a minstrel, who gave varying</div>
 </div sidebars>
@@ -3096,7 +3207,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Sound of Silence</h3>
 
 
-<h4>by Ulrich Willmünder</h4>
+<h4>By Ulrich Willmünder</h4>
 
 <div>The mountains are well known for their extensive caves. Many of these caves have Faerie auras, and some of these caves are known to the peasants of the area as echo caves. One cave to the south side of the mountains is famed for the delay of its echoes — the cave actually repeats a whole sentence back to the caller, sometimes repeating it for hours.</div>
 <div>Magi of the Order have argued that echoes of such strength must be magical in nature, but all attempts to capture echoes containing vis have failed. Echoes are far too normal for this place to contain vis: bats and other small animals visit the cave, sounds from outside are echoed, and the occasional visitor enjoys a game of echoes.</div>
@@ -3108,14 +3219,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>The Box of Unguarded Thoughts</h3>
 
-<div>by Gary N. Mengle and Sean Mitchell</div>
+
+<h4>By Gary N. Mengle and Sean Mitchell</h4>
+
 <div>A small, intricately wrought silver coffer, whose is lid is inlaid with motherof-pearl and carved in the shape of a writhing serpent, this box collects the stray thoughts of people nearby and distills them into small silver coins of an unknown but apparently ancient minting. These coins each contain a pawn of Mentem vis. Particularly powerful or intense thoughts may even (at the storyguide’s discretion) be an Arcane Connection to those from whom they are gathered. Once the coffer has filled with coins, it can gather no more thoughts until it is emptied.</div>
 <div>The box makes an excellent personal vis source for a magus, and may be the subject of investigation, for the nature of its powers is not readily apparent, and is certainly non-Hermetic. Such a device would be keenly sought-after by curious magi, or those seeking to gain Arcane Connections to unwary enemies. It may also be possible to extract the thoughts themselves from the coins, and thereby gain insight into an enemy’s mind. This use would almost certainly be seen as a violation of the Hermetic proscription on magically spying on other magi. Indeed, mere possession of the box could be regarded by narrow-minded Quaesitors as a breach of the Code.</div>
 
 <h3>Howling of the Winds</h3>
 
 
-<h4>by Emre Arin</h4>
+<h4>By Emre Arin</h4>
 
 <div>Even before the Order’s founding, a pious warrior-noble had begun the cleansing of fay creatures in his lands in the name of his emperor and the one true God. Surely he was blessed by the Creator, because he could discern the sorcerous from the mundane with a look of his azure</div>
 <div>eyes, and feel the presence of witchery in his bones from a mile away. Clad in his armor and unfailing in his faith, he led his zealous retinue on lengthy hunts in the dark groves of his wondrous prey. One by one, all of the legendary creatures left the mundane world. Only one of them, the last of the nymphs in his lands, refused to leave her spring. Faced with stubborn defiance, the noble furiously hunted the fay down to her sacred lake. As his vengeful spear was about to plunge into the nymph’s heart, she was still facing him with her own unflinching azure eyes.</div>
@@ -3124,7 +3237,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>A Monk’s Head</h3>
 
 
-<h4>by Ulrich Willmünder</h4>
+<h4>By Ulrich Willmünder</h4>
 
 <div>Brother Paul of Bolzano was a pious canon of the Augustinian order. When he died horribly at the hands of diabolists, everyone who knew him assumed him to be a saint and martyr. But Brother Paul had not always been the friendly and pious monk everyone remembered. In his youth he had been a petty thief and had only joined the order to evade persecution. He had found his true calling in his service to God, but the sins of his youth remained to be repented.</div>
 <div>Because of Brother Paul’s background, then, he was not the pure and innocent soul the diabolists needed to complete their unholy ritual — with nasty and fatal results for them. When a group of men led</div>
@@ -3141,7 +3254,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Aetites</h3>
 
 
-<h4>by Arseny Kuznetsov</h4>
+<h4>By Arseny Kuznetsov</h4>
 
 <div>Mentioned in Pliny’s Natural Histories, these rare stones can be found in eagles’ nests. Also called eagle-stones, they look like yellowish pebbles, approximately an inch in diameter. If one is shaken carefully, a quiet rattling can be heard — it is made by a smaller pebble, held inside the larger one, not unlike a nut in a shell.</div>
 <div>The smaller stone, if removed from its “womb” undamaged, holds one pawn of Terram vis.</div>
@@ -3149,9 +3262,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Aetites are also known as “pregnant stones,” and indeed, give a +5 Material bonus to fertility if used as an element of an enchanted item or a talisman.</div>
 <div>Aetites can only be found only in regiones where small rocks and pebbles occur naturally in adequate quantities. Since eagle families nest apart from one another, there is usually only one nest in a single area.</div>
 <div>When collecting aetites, one must be careful not to chase off the eagles occupying the nest; empty nests cease to produce vis.</div>
-<div>The Cave of the Nameless Goblin</div>
 
-<h4>by Paul Tevis</h4>
+<h3>The Cave of the Nameless Goblin</h3>
+
+
+<h4>By Paul Tevis</h4>
 
 <div>The underground world is the home of the goblins, faeries who live in perpetual darkness and whose subtle magics have made them masters of the shaping of stone. Long ago, one noble house rose up against the goblin king. The rebellion was put down, and although many of the traitors were executed, the leader’s life was spared, because he was a cousin to the king. As punishment for his crime, he was stripped of his name, transformed into a stalactite, and hung from the ceiling of an isolated cave. The king decreed that his punishment would end when a stalagmite grew up to meet him.</div>
 <div>Even in his transformed state, the nameless goblin retained his power over stone. The stalagmite beneath him grew at marvelous rate. Some goblins feared he would be released, so they crept into the cave and broke off the stalagmite. When the goblin king discovered this, he forbade any goblin from entering the cave. When a maga found the cave, however, the goblins were happy to explain how she could help.</div>
@@ -3160,7 +3275,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Rock Shepherd</h3>
 
 
-<h4>by Oscar Diez Martínez</h4>
+<h4>By Oscar Diez Martínez</h4>
 
 <div>There is an entrance to a huge underground cavern on the shore of a small river. This cavern is filled with stalagmites and stalactites in strange and marvelous shapes that remind one of a garden.</div>
 <div>This rock garden is looked after by an ancient earth elemental. He was summoned a long time ago by the magi of a now-fallen covenant to keep the garden and supply the magi with strange minerals and gems.</div>
@@ -3175,7 +3290,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Auberge</h3>
 
 
-<h4>by John Scott</h4>
+<h4>By John Scott</h4>
 
 <div>On an island mid-river the ruins of a Roman villa stand. Only a few stones remain, including one on either side of a doorway. Walking through those stones at dawn, from outside to in, allows anyone to pass into the level 1 Magical regio.</div>
 <div>Inside is a slightly less ruined villa with three shabbily dressed inhabitants; an old man (the Penates: guardian of the storeroom), an old woman (the Lares: guardian of the house), and a young girl (Vesta: guardian of the fire).</div>
@@ -3192,7 +3307,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Cave of Magic</h3>
 
 
-<h4>by Paul Tevis</h4>
+<h4>By Paul Tevis</h4>
 
 <div>Legends tell of hollow hills, where faeries dwell and plot. Some of these mounds are gateways to Arcadia, while other barrows hold the bodies of ancient warriors and their restless spirits. The hollow hills are not to be entered lightly, and tales of hidden treasures have drawn more than one unlucky soul to his doom.</div>
 <div>One such hill holds a curious chamber that many magi would brave barrowwights to find. The cave is no more than three paces wide, and a full-grown man must stoop to stand within it. The low</div>
@@ -3202,7 +3317,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Housework Is A Bad Idea</h3>
 
 
-<h4>by Sheila Thomas</h4>
+<h4>By Sheila Thomas</h4>
 
 <div>A spider’s web in a dark corner of the covenant library has been gathering dust</div>
 <div>for twenty years or more. No spider has used it since it was newly spun. It happens that this point is adjacent to, or in line with, a laboratory where vis distillation goes on periodically, or else it is close to the place where the magi store the covenant’s vis supply. Over the years, the dust in the vicinity has absorbed something of the surroundings and has collected on the web so that the dusty web, when first discovered, contains Vim vis.</div>
@@ -3212,6 +3327,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter Seven</h1>
+
+
+<h2>Library</h2>
 
 
 <div sidebars>
@@ -3310,7 +3428,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>The cords are then sewn into the cover. The cover is usually made from two thin boards and it is from these boards that the codex, which means tree-trunk in Latin, takes its name. Books have only recently been bound in covers slightly larger than their pages. The boards are separated by a connecting hinge wide enough to allow for the width of the block, made of leather or a thin board. The end flyleaves are pasted down to hide the internal join. The cover is enclosed in leather or fabric, then decorated. The weight of the cover’s boards inhibits the natural tendency of parchment sheets to develop waves.</div>
 <div>Many cover decorations are practical. Spine inscriptions give the title on newer books, and also occasionally list authors. Clasps keep the pages pressed against the covers to minimize warping. Small metal plates, called bosses, protect the book from rubbing against rough surfaces, while corner pieces protect the edges of the book from damage. Hotpressed insignia mark ownership of the book. Fabric jackets, looped over the top of the book, keep dust away.</div>
-<div>Extended Suggestions on the Quality of Books</div>
+
+<h3>Extended Suggestions on the Quality of Books</h3>
+
 <div>Ars Magica contains a system for measuring the usefulness of books as study aids. It assumes that books vary in usefulness only because of the skill of the author. This section presents a more complicated system, which allows troupes to improve covenant libraries through play and construct great tools of learning.</div>
 <div>In this system, Hermetic books are mystical objects that gain their quality from several sources. The author provides the text of the book, the scribe the expression of that text, and the binder the final seal upon the text, making it a book in the mystical sense. Once the text has become a book, the materials used in the construction of the book resonate sympathetically with the text, allowing magi to study the book more easily.</div>
 <div>A book’s creators sometimes deliberately reduce its quality.  This occurs when</div>
@@ -3405,11 +3525,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>A magus casting from a tablet does not understand the spell’s workings, and so may not tinker with decisions made by the author. The Range, Duration, and Target of the spell; the exact amount and Art of raw vis consumed; and any single type of arcane connection to be used, are specified by the author at writing. The author either designs the spell for ceremonial casting or for non-ceremonial casting. Spells cast from tablets do not have Penetration bonuses unless they are built into the spell’s level by the author.</div>
 <div>Rituals may be cast from tablets. It is possible, but dangerous, for a magus with a tablet to lead a Wizard’s Communion. A botch by any member of the group causes the leader also to botch. An odd effect of casting from a tablet is that the sigil of the writer is preserved in the spell, and is visible along with the sigil of the caster.</div>
 <div>When casting from a tablet, a magus determines his casting total according to the following formula, then subtracts the spell level from the casting total and looks up the result on the table that follows.</div>
-<div>Casting Total: Stamina + Form + Technique + Aura + stress die (modified by Virtues, Flaws</div>
 
-<h4>and requisites)</h4>
+<h4>Casting Total: Stamina + Form + Technique + Aura + Stress Die (Modified By Virtues, Flaws</h4>
 
-<div>Casting Total – Spell Level Result</div>
+
+<h4>And Requisites)</h4>
+
+
+<h4>Casting Total – Spell Level Result</h4>
+
 <div>0 or more Spell cast, lose one Fatigue level.</div>
 <div>–1 to –10 Spell cast, lose two Fatigue levels.</div>
 <div>–11 o –20 Spell cast, lose three Fatigue levels.</div>
@@ -3553,7 +3677,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>These books are called “vain summae,” because these immodest people do not understand why their books, poor and weak as they are, should not sit alongside better work. These summae have qualities of (25 – level) or below.</div>
 <div>Discarded summae are usually damaged versions of the types above. They are stripped of their resonant materials before sale and usually have qualities between (18 – level) and (15 – level).</div>
 <div>A tractatus written by a legendary teacher could, theoretically, have a quality of around 17. Generally, however, an excellent tractatus has a quality of around 14, a sound tractatus approximately 11, and a vain tractatus around six. Damaged tractatus may have quality scores as low as one.</div>
-<div>Hermetic Books: Definition of Categories of Value</div>
+
+<h3>Hermetic Books: Definition of Categories of Value</h3>
+
 </div sidebars>
 
 
@@ -3563,7 +3689,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Mundane Books</h4>
 
 <div>The mundane book market is a cash market. Any magus with a spare pound can have any standard text from a stationer in a large city. Less common books still cost a pound, but it takes season for the stationer to arrange for a copy to be produced and delivered. Cheaper versions, unbound and written on paper, are also available, for half a pound. Commissioning books takes longer for covenants remarkably distant from civilization, or poorly served by the Redcaps.</div>
-<div>Books Concerning the Arts and Arcane Abilities</div>
+
+<h4>Books Concerning the Arts and Arcane Abilities</h4>
+
 <div>The Hermetic book trade is essentially a barter market. Most covenants can create so much mortal money that it isn’t valuable enough for them to use as a medium of exchange for rare items. This makes pricing books an art, subject to a lot of haggling. The value of the book for sale, and of the things that might be traded for it, can be disturbed by events. A second magus might offer a similar book at any time, lowering the first book’s value. A covenant might decide it has too much vis for one Art, and seek to trade it for others. This lowers the value of all vis of that Art, which would make a book’s seller ask for more.</div>
 
 <h4>Least Expensive Books</h4>
@@ -3608,7 +3736,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Players using these spells should remember that when using Finesse and the Art of Rego to replace skill at mundane crafts, the target scores representing levels of quality of goods increase by at least 3 points.</div>
 
-<h4>Hide to Parchment</h4>
+<h4>Hide To Parchment</h4>
 
 <div>ReAn 10 R: Touch, D: Mom, T: Group This spell stretches, shaves, and dries a stack of animal hides, as if a percamenarius had worked on them. Stretching makes hide flexible instead of leathery, while shaving makes it smooth enough for writing and thin enough for binding. Drying prevents mold from forming on the vellum, but if excessive makes it brittle.</div>
 <div>A Perception + Finesse roll is treated as a Craft: Percamenarius roll to determine the quality of the vellum created.</div>
@@ -3638,9 +3766,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Req: Rego This spell reduces an animal to its components. A dead sheep, for example, becomes a pile of unwashed wool, a hide, a collection of boned joins of meat, a stack of organs, and a skeleton. The contents of the alimentary tract vanish.</div>
 <div>(Base 30, +1 Eye, +1 destruction of alimentary contents, +0 cosmetic requisite)</div>
 
-<h4>To Aid or Replace Scribes</h4>
+<h4>To Aid Or Replace Scribes</h4>
 
-<div>The Welcome Addition of False Sunlight</div>
+
+<h4>The Welcome Addition of False Sunlight</h4>
+
 <div>CrIg 15 R: Touch, D: Ring, T: Ind This spell creates a steady, cool, smokeless light that does not flicker. Variants of this spell are enchanted into devices in many libraries. Some are handheld, while others float by their user, are embedded in the ceiling, or overlook the work desks of individual scholars.</div>
 <div>(Base 4, +1 Touch, +2 Ring)</div>
 
@@ -3673,9 +3803,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>ReAq10 R: Voice, D: Ring, T: Ind This spell controls ink so that it makes patterns on the pages that correspond to the magus’s words. This spell does not allow a magus to write faster than the core rules permit, but does allow impaired magi to write when they would otherwise require a notary. A Finesse roll makes the writing particularly precise and neat, which is usually unimportant.</div>
 <div>(Base 1, +2 Voice, +2 Ring, +1 to allow many colors of ink)</div>
 
-<h4>To Aid or Replace Illuminators</h4>
+<h4>To Aid Or Replace Illuminators</h4>
 
-<div>The First Furrow Guides the Second</div>
+
+<h4>The First Furrow Guides the Second</h4>
+
 <div>CrIm 25 R: Voice, D: Sun, T: Group Req: Intellego This spell lays the image of a book’s page over the top of a blank sheet, so that a scribe can trace the page’s contents. This creates identical copies of books. This is particularly useful when a book has lost a page, but can be made complete with a page copied from one of its sisters in another library. Used</div>
 <div>repeatedly over the course of a season, it can assist in the creation of copies of Hermetic books, allowing an unskilled magus to avoid the –3 penalty for scribing without Profession: Scribe. This spell is also known as The Principal Aide to the Forger’s Art.</div>
 <div>(Base 1, +1 changes as pages turn, +2 Voice, +2 Sun, +2 Group, +1 requisite)</div>
@@ -3685,9 +3817,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>MuTe 20 R: Voice, D: Dia, T: Ind Req: Aquam This spell transforms gold into a liquid that is applied as ink. When the spell expires, it turns back into solid metal, allowing magi to place it on a page without developing skill with gold leaf. By pouring the golden ink into molds, the magi can set it into shapes.</div>
 <div>(Base 3, +2 metal, +2 Voice, +1 Dia)</div>
 
-<h4>To Aid or Replace Bookbinders</h4>
+<h4>To Aid Or Replace Bookbinders</h4>
 
-<div>Creating an Empty Book From a Filled One</div>
+
+<h4>Creating an Empty Book From a Filled One</h4>
+
 <div>PeAn 3 R: Touch, D: Mom, T: Ind This spell creates a palimpsest (a book that has had its writing scraped away so that it can be reused) from an existing book. It does this by flaking away a thin layer from both sides of each page.</div>
 <div>An Intelligence + Finesse roll determines the skill with which the previous writing has been removed.</div>
 <div>(Base 2, +1 Touch)</div>
@@ -3715,7 +3849,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Accession is the process of preparing books for use by readers, so that they become part of the library. Two processes that comprise accession: the physical preparation of the book and the classification of the book. In Hermetic libraries, physical preparation is performed first. Sometimes, when a book is scribed for sale to a library, much of its shelf preparation is performed before its transfer, since shelf-readied books are more durable, and so travel better.</div>
 
-<h4>Shelf-Readying</h4>
+<h4>Shelf-readying</h4>
 
 <div>Shelf-readying consists of a series of steps, many of which can be performed in any order.</div>
 <div>Covering is the process of surrounding the pages of the book, to protect them from damage. Hard covers, like those that contain wooden boards, gently prevent pages from developing a wavy cross-section as they age. Pages not kept under pressure thicken on the edge furthest from the spine, so that the book develops a wedge shape. The edge can become up to three times thicker than the spine. Many covers tie or lock shut, which assists the covers to remain in place. Some books are uncovered, and instead are kept in boxes or pouches.</div>
@@ -3725,7 +3859,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>A voucher is a slip of parchment, usually kept within the book, that remains with the library if the book is removed. The voucher briefly acts as an arcane connection to the book, due to the law of contagion. In Hermetic libraries that allow lending, the vouchers are usually small envelopes, which the borrowing magus signs, then fills with either a lock of hair, which acts as an arcane connection for The Inexorable Search, or a quantity of vis, which is forfeited for poor behavior. Libraries reinsert their vouchers into the books as they are returned, so many books contain lists of signatures that chart each copy’s history.</div>
 <div>Chaining is the practice of securing the book to an iron rail that runs along the top of a series of lecterns in the library. Chaining is a security measure. The chain is often attached by a flap to the upper corner of the front cover furthest from the spine. In this position, it is less likely to tangle with adjoining chains.</div>
 
-<h4>Catalog as Proxy</h4>
+<h4>Catalog As Proxy</h4>
 
 <div>A library’s catalog — the list of books the library contains — acts as an arcane connection to the library, and allows a magus to cast spells upon the whole collection. It is a connection to each book the library contains, and to all of the books collectively. Individual books are not connected to the library of which they are part once they are removed from the library building; they are connected to the catalog instead. This provides the library with an added layer of security against magical attack and botched spells. Many libraries keep multiple copies of their catalog, since they are sometimes destroyed in lieu of the library by botched spells. Only the most recently scribed</div>
 <div>copy may act as a proxy for the library, and then only if it is accurate.</div>
@@ -3774,7 +3908,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>craftsmen, or on books of such historical significance that their owners prefer they are not repaired by human hands. For example, if one of the holographic diaries of Bonisagus is damaged, it is repaired in this way, rather than by having a scribe create a replacement page, because it preserves the handwriting of the Founder.</div>
 <div>(Base 5 [one hide], +2 treated animal product [parchment] +1 Touch)</div>
 
-<h4>A Useful Inculcator of Comments</h4>
+<h4>a Useful Inculcator of Comments</h4>
 
 <div>ReHe 4 R: Touch, D: Mom, T: Ind This spell allows librarians to add new descriptions to their catalogs, by sliding the letters on a page aside to create the space for the new entry. The spell was originally created by a magusscribe to assist in glossing books, but is</div>
 <div>Much of the magic used in libraries supports the work of the librarians, rather than researchers. These effects treat the library as an enchanted space, rather than as a collection of books. The library space has the following functions, supporting those of library users like scribes and readers. Many libraries have small magic items that allow users, or unskilled covenfolk, to do the work of librarians.</div>
@@ -3793,11 +3927,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>not effective for this purpose in newer works. That’s because the oak-gall “ink” in newer books is really a dye, and to move aside such characters, which are made of dyed parchment, would require an Animal requisite. This limitation can be ignored if magi use true inks, which are suspensions of colored material in fluid, to write their catalogs. This spell assumes an ink made of soot, gum, and vinegar, all of which lie within a single Form. A Dexterity + Finesse roll determines the quality of the text after the magus has relocated it. A result less than 6 indicates that the text has interpolated into and corrupted some other passage.</div>
 <div>(Base 3, +1 Touch)</div>
-<div>A Simple Test for the Completeness of Books</div>
+
+<h4>a Simple Test for the Completeness of Books</h4>
+
 <div>InAn 15 R: Touch, D: Mom, T: Ind Req: Herbam This spell allows the magus to check the physical condition and history of a book. It also, through the Herbam requisite, allows the magus to test the quality of the plant-based inks used in its creation.</div>
 <div>(Base 5, +1 Touch, +1 requisite)</div>
 
-<h4>Books that Scream in Pain</h4>
+<h4>Books That Scream in Pain</h4>
 
 <div>InAn 25 R: Touch, D: Mom, T: Ind Req: Herbam This spell allows the magus to check every book in a room for a physical or historical property. The name of the spell comes from the habit of an early librarian at Durenmar of making the books in the collection cry out if they were damaged, but the sigil of the caster determines the appearance of the spell’s signal. The spell’s Herbam requisite allows it to detect words in the books, provided they have a plant-based ink or binding agent, like gum arabic.</div>
 <div>(Base 5, +1 Touch, +1 requisite, +2 room)</div>
@@ -3811,17 +3947,25 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>ReAn 4 R: Touch, D: Ring, T: Circle This ward makes it impossible for those lacking Magic Resistance to remove a book from the library, because the book cannot cross a circle inscribed on the floor, or around the single doorway. It is traditional for librarians to defend these wards by placing destructive magical items near the entrances with the triggering condition “tampering with the book ward.”</div>
 <div>(Base 1, +1 Touch, + 2 Ring)</div>
-<div>Reorder the Contents of the Armarius</div>
+
+<h4>Reorder the Contents of the Armarius</h4>
+
 <div>ReAn 10 Req: Intellego, Mentem (the latter optional, raises level to 15</div>
 <div>R: Touch, D: Mom, T: Room This spell places books in a book chest or closet into a sequence. Sample sequences include the Art or Ability the books concern, the authors’ names, size through any dimension, the color of the covers, the binding material, the newness of the books, and their opening sentences. If the books are marked with acquisition or shelf location numbers, then those may also guide the sequence. With a Mentem requisite the magus can shelve books based on whether he has read them or not, how much he liked the books while reading them, how he feels about the authors, or his emotional attachment to the people who gave him the books. Books in chained libraries need to be taken off their rails for this spell to be used.</div>
 <div>(Base 1, +1 Touch, +2 Room, +1 requisite, +1 versatility)</div>
-<div>A Simple Charm for the Recovery of Misfiled Books</div>
+
+<h4>a Simple Charm for the Recovery of Misfiled Books</h4>
+
 <div>ReAn 10 R: Arc, D: Conc, T: Ind This spell makes a misplaced book fly swiftly to rest on its lectern, in an open bookcase, or to the hand of the caster. The spell requires an Arcane Connection to the book, which is usually the library catalog, although the book’s voucher can serve equally well. The book moves about as quickly as a running man, and falls to the ground if the caster’s concentration lapses before it arrives. This spell cannot cause books to pass through solid objects, so the book must have a clear path to the magus for the spell to work. Stolen books are usually kept in a chest, or behind a closed door, to prevent this spell’s use.</div>
 <div>(Base 1, +4 Arc, +1 Conc)</div>
-<div>The Demand of the Frustrated Scholar Soothed</div>
+
+<h4>The Demand of the Frustrated Scholar Soothed</h4>
+
 <div>ReAn Level 40 R: Arc, D: Mom, T: Ind This spell makes a book that is within 500 paces materialize by the hand of the caster. The spell requires an Arcane Connection to the book, which is usually the library catalog. There are higher-level versions of this spell that draw a book from up to seven leagues away.</div>
 <div>(Base 20 [movement up to 500 feet, using ReCo guidelines], +4 Arc)</div>
-<div>Determine the Location of the Absent Volume</div>
+
+<h4>Determine the Location of the Absent Volume</h4>
+
 <div>InAn 25 Req: Imaginem, Creo (the latter optional)</div>
 <div>R: Arc, D: Conc, T: Ind This spell allows the caster to determine the location of a missing book by having the magus’s sigil appear on a map. Library floor plans on tablets are often used in conjunction with this spell. With a Creo requisite, the magus can project an image of the book’s location on a mirror, and hand-held magic items using this variant are often employed in libraries that encourage visitors.</div>
 <div>(Based on The Inexorable Search, +1 requisite)</div>
@@ -3844,7 +3988,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>ReHe 15 R: Voice, D: Mom, T: Group This spell was originally developed to allow defenders to draw siege ladders over a castle’s wall. These could then be used as fuel by the beseiged, or, if soldiers clung to them, dropped from great heights. Librarians use it to rearrange wooden furniture, but it can move any group of wooden objects. Items containing this effect can, for example, be used to stack firewood, move barrels, pile grain sacks, and perform many other useful forms of labor.</div>
 <div>(Base 3, +2 Voice, +2 Group)</div>
-<div>Eternal Repetition in a Bottomless Pool</div>
+
+<h4>Eternal Repetition in a Bottomless Pool</h4>
+
 <div>CrIm 35 R: Arc, D: Sun, T: Ind</div>
 <div>This spell uses enchanted mirrors to display the text of a book to which the magus has an Arcane Connection. The magus commanding the mirror can navigate the book by vocal command. For example, “next page” and “the first bit about marsh fronds “ are both legitimate commands. The spell’s name is a vestige of the early order, when mirrors were more expensive and the spell was enchanted into clay vessels, read by pouring black ink into them.</div>
 <div>(Base 1, +4 Arc, +2 Sun, +1 clear words, +2 accepts commands, +1 extremely intricate)</div>
@@ -3898,7 +4044,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The book is the cheapest, most convenient way for magi to distribute text to students. Other alternatives are sometimes favored because the creator has a magical affinity that suits a different material, or because the material chosen is highly resonant with the text.</div>
 
-<h4>Alternatives to Books</h4>
+<h4>Alternatives To Books</h4>
 
 <div>There are so many alternatives to parchment that comprehensive notes cannot be given for all of them. Alternatives to parchment are treated, for study purposes, as if they were books. A mirror that displays writing, for example, is treated as if it were a book. Their quality scores vary on the same scale, although most works using alternative materials contain highly resonant substances, allow the magus to act as a scribe-artisan, or both.</div>
 
@@ -3917,6 +4063,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter Eight</h1>
+
+
+<h2>Sanctum</h2>
 
 
 <div sidebars>
@@ -3995,6 +4144,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h1>Chapter Nine</h1>
 
 
+<h2>Laboratories</h2>
+
+
 <div sidebars>
 <div>The laboratories of the magi are right at the very heart of the covenant, its most precious areas, where the wizards of the Order of Hermes carefully stow away their magic and secrets. The laboratory is usually the innermost part of the sanctum (see Chapter 8: Sanctum) — this chapter only discusses the laboratory itself, although some of the rules also relate more broadly to the sanctum.</div>
 <div>This chapter does not introduce a great many extra rules for the tasks one can perform in a laboratory, which are already covered in detail in the Laboratory chapter of ArM5; rather it presents a whole host of options for personalizing and specializing the lab itself. Instead of being a sterile and standardized workplace, the lab now comes alive with a flavor and sometimes even a personality of its own, becoming just as individual and unique as its owner.</div>
@@ -4041,7 +4193,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Hermetic lab work is time-consuming and demanding, and it inevitably takes its toll on a magus. Some few magi manage to lead fairly normal lives at the same time as undertaking lab work, while others, the archetypal “lab-rats,” retreat almost completely to their laboratories for entire seasons with the barest minimum of outside interaction. Most magi fall somewhere between these two extremes. Since lab work can be highly engrossing, it is very easy for magi to fall into the antisocial habits of lab-rats.</div>
 <div>The standard lab routine assumes that a magus works in the lab for ten hours a day, six days a week. On work days, this leaves precious little time — only a couple of hours — for other activities, apart from eating and sleeping. On his rest day, a magus might engage in the writing of letters or diaries, socializing, attending to household tasks, engaging in noble pastimes such as hunting, worshiping (if he is religious), or simply relaxing or meditating. Occasionally, important lab tasks that cannot be interrupted require a magus to skip one or more rest days, so that he will have about ten rest days in total in a typical season. Up to ten work days can be missed in a season (in any order) without penalty, provided that the lost time is made up by working on rest days. However, a magus who is absent from his lab for more than ten days in a season suffers the penalties to his Lab Total given in ArM5, page 103.</div>
 
-<h4>Non-Standard Laboratory Routines</h4>
+<h4>Non-standard Laboratory Routines</h4>
 
 <div>Some magi work longer hours than normal, or at odd times of the day or night, as well as sacrificing rest days, in an effort to make their seasons in the lab more productive. While this does provide some benefit (a small bonus to that season’s Lab Total), there are also a host of disadvantages. For example, tiredness due to overwork may make a magus more prone to accidents, and there may be adverse effects on his health. Staying in the lab for too long can also cause Warping.</div>
 <div>If a magus decides to work non-standard hours, choose one (or more) of the following routines each season. He may</div>
@@ -4125,14 +4277,20 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Size and Refinement Summary</h3>
 
-<div>Limit of Virtue points minus Flaw points: Size + Refinement</div>
-<div>Occupied Size: current Virtue points minus Flaw</div>
 
-<h4>points – Refinement</h4>
+<h4>Limit of Virtue Points Minus Flaw Points: Size + Refinement</h4>
 
-<div>Base Safety of lab: Refinement – occupied Size (if</div>
 
-<h4>greater than zero)</h4>
+<h4>Occupied Size: Current Virtue Points Minus Flaw</h4>
+
+
+<h4>Points – Refinement</h4>
+
+
+<h4>Base Safety of Lab: Refinement – Occupied Size (If</h4>
+
+
+<h4>Greater Than Zero)</h4>
 
 </div sidebars>
 
@@ -4282,7 +4440,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>It is suggested that labs for starting magi in a Spring covenant should begin with few or no Virtues or Flaws. Only those Virtues and Flaws that are intrinsic to the structure or location should be taken. For example, if the</div>
 <div>lab is underground, the Subterranean Flaw should be taken. At the storyguide’s option, a small number of Free Virtues and an equal number of Free Flaws may be taken, provided that the Upkeep does not increase beyond zero. If the covenant has the Wealth Boon, on the other hand, then Free Virtues that require only an increase to Upkeep may be taken without a corresponding Free Flaw, if desired. With the Poverty Hook, it is suggested that the average Upkeep score for all labs should not be higher than –2 (if Minor) or –5 (if Major).Take a sufficient number of Flaws accordingly.</div>
 <div>Labs in established covenants, on the other hand, especially Autumn or Winter covenants, might have more Virtues and Flaws, as might the labs of experienced magi. The storyguide should determine the labs of starting magi in an established covenant. For example, they might have one or more Supernatural Virtues and Flaws. For experienced magi, the Build Point total of the lab’s Virtues should be subtracted from their experience point total, instead of from the covenant’s Build Point total, under the assumption that they were responsible for the improvements. This is due to the time required to achieve the Virtues; each Minor Virtue, taking one season, costs ten points, and each Major Virtue, taking two seasons, costs 20 points, according to the rules for generating magi after apprenticeship (see ArM5, page 32).</div>
-<div>Build Point Cost for Starting Laboratories</div>
+
+<h3>Build Point Cost for Starting Laboratories</h3>
+
 </div sidebars>
 
 
@@ -4577,7 +4737,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>However, there are disadvantages to the usage of non-Ritual spells. Casting such spells on a daily or monthly basis can become tiresome, and they may have unpredictable side effects. As a rule of thumb, for each such spell that is employed regularly, either add one to the lab’s Warping Characteristic or subtract one from its Safety.</div>
 <div>For the sake of game balance, a further restriction also applies to the use of non-Ritual spells in the lab. A magus can never gain a bonus to Lab Totals (either from General Quality or a Specialization) by casting spells that use the same Arts as those in the Lab Total. For example, one</div>
 <div>might attempt to cast (repeatedly, over the course of a season) a pair of Creo Imaginem spells to make the lab brightly lit (temporarily granting the Superior Lighting Virtue) and to create illusory paintings (temporarily granting the Superior Decoration Virtue). While this can be done (albeit with a penalty of two points on Warping or Safety), this does not add to the lab’s Imaginem Specialization. A magus undertaking a season of lab work involving Imaginem might already be presumed to be doing such things, and his proficiency with that Art is already figured into the Lab Total. However, the storyguide might allow the usage of a Creo Terram spell to create a large number of brightly colored crystals (temporar</div>
-<div>The Resolute Mind of the Tireless Researcher</div>
+
+<h4>The Resolute Mind of the Tireless Researcher</h4>
+
 <div>Rego Mentam Level 20 R: Per, D:Sun, T: Ind This spell is designed for a magus to cast upon himself at the start of a day’s work in the laboratory. Andreas of House Bonisagus, frustrated at his constant lapses of concentration, and finding it difficult to maintain focus on his research, came up with this effect in an effort to make his work days more productive. The target of the spell finds his mind resolutely fixed on the task in hand, and does not waver from it. Opinion is sharply divided on the merits of this spell, with the majority of magi considering it little more than a dangerous self-delusion, which warps the mind of the magus, making him dependent and weak-willed. If this spell is used on a daily basis, a magus should select the Addled laboratory routine (see above).</div>
 <div>(Base 10, +2 Sun)</div>
 
@@ -4591,7 +4753,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Specializations: Items 2, Vis Extraction 2, Creo 1</div>
 <div>(Base 5, +1 Touch, +2 Group, +5 complexity)</div>
 
-<h4>Gleam of the Freshly-Polished Glass</h4>
+<h4>Gleam of the Freshly-polished Glass</h4>
 
 <div>Perdo Terram 25 R: Touch, D: Moon, T: Room This spell maintains the equipment and tools of a lab in a constant state of immaculate cleanliness. Dirt, dust, and grime are all removed, leaving the outfittings positively gleaming, as if they had been freshly dusted and polished. This grants the Spotless Virtue to the lab, provided that the spell is cast every lunar month. If the spell ceases, the magus must maintain this pristine condition through more mundane means, otherwise the Virtue is lost. There is just one small drawback to this spell — the lab’s Warping score increases by one point (giving a Personality Trait Spotless +1) due to the unnatural nature of this cleaning, for as long as it is active.</div>
 <div>(Base 3, +1 Touch, +3 Moon, +2 Room)</div>
@@ -4692,6 +4854,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 
+<h2>Play Aids</h2>
+
+
 <div sidebars>
 
 <h3>Appendix</h3>
@@ -4701,6 +4866,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Beginning on page 129 are ten pages of record sheets created specifically to accommodate the new rules presented throughout this book. You will find record sheets to track covenant statistics, membership, wealth, income, laboratories, libraries, books, vis, and to summarize a covenant’s annual activities.</div>
 <div>The pages of this appendix may be photocopied for your personal use, but are copyright 2005 by Trident, Inc. d/b/a Atlas Games. They are also available for PDF download from the Ars Magica web site at www.atlas-games.com/ArM5.</div>
 </div sidebars>
+
+
+<h2>The Oath of Covenant of</h2>
 
 
 <div sidebars>
@@ -4716,16 +4884,36 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>________________________</h3>
 
-<div>Being the charter of the Covenant of                                   in the              Year of Our Lord, Jesus Christ.</div>
-<div>I pledge my lifelong support and loyalty to the Covenant of                                   , and declare that the trials and</div>
-<div>fortunes of this covenant are now my own. Just as I am pledged to the Oath of Hermes, so do I pledge the covenant to</div>
-<div>the Order of Hermes and the authority of the Tribunal of                        . I swear to uphold and protect this covenant</div>
-<div>regardless of the personal price. Over all the years of my life and throughout my studies and travels, I will neither betray the</div>
-<div>covenant nor give aid to its enemies. In times of need, I will aid the covenant in whatever way I am able, and I will devote</div>
-<div>myself to its service if the need is clear. I will abide by the decisions of the ruling council of this covenant, and I will treat these</div>
-<div>decisions as if they were my own. I will treat my fellows with respect and fairness, and I will not attempt to harm them in any</div>
-<div>way. Their blood is my blood. Where the covenant stands, there do I stand; how the covenant grows, so do I grow; should</div>
-<div>the covenant fall, then do I fall. This I so swear, upon the honor of my house and its Founder.</div>
+
+<h3>Being the charter of the Covenant of                                   in the              Year of Our Lord, Jesus Christ.</h3>
+
+
+<h3>I pledge my lifelong support and loyalty to the Covenant of                                   , and declare that the trials and</h3>
+
+
+<h3>fortunes of this covenant are now my own. Just as I am pledged to the Oath of Hermes, so do I pledge the covenant to</h3>
+
+
+<h3>the Order of Hermes and the authority of the Tribunal of                        . I swear to uphold and protect this covenant</h3>
+
+
+<h3>regardless of the personal price. Over all the years of my life and throughout my studies and travels, I will neither betray the</h3>
+
+
+<h3>covenant nor give aid to its enemies. In times of need, I will aid the covenant in whatever way I am able, and I will devote</h3>
+
+
+<h3>myself to its service if the need is clear. I will abide by the decisions of the ruling council of this covenant, and I will treat these</h3>
+
+
+<h3>decisions as if they were my own. I will treat my fellows with respect and fairness, and I will not attempt to harm them in any</h3>
+
+
+<h3>way. Their blood is my blood. Where the covenant stands, there do I stand; how the covenant grows, so do I grow; should</h3>
+
+
+<h3>the covenant fall, then do I fall. This I so swear, upon the honor of my house and its Founder.</h3>
+
 
 <h3>Given under our hand,</h3>
 
@@ -4751,7 +4939,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This council lays claim to all monies generated using the resources of the covenant. This council also lays claim to all monies obtained by members of the council while acting at the behest of the council. This covenant also lays claim to any monies gifted to the Council of Members as a whole.</div>
 <div>This council lays claim to the buildings, defenses, chattels, and inhabitants of the covenant. This council also lays claim to any such buildings, defenses, chattels, and inhabitants gifted to the Council of Members as a whole.</div>
 <div>Surplus resources of the covenant will be determined at the Winter meeting of the Council of Members. Resources necessary for the continued existence of the covenant and the protection of its members’ rights are accounted for first; this includes payment for seasons of work performed on behalf of the covenant, and a stipend of vis for the casting of the Aegis of the Hearth. Contributions to all debts owed to the covenant are decided by the disceptator, and set aside. The remaining resources are deemed surplus, and shall be allocated to the settlement of requests from each member of the covenant.</div>
-<div>Rights of the Members of this Covenant</div>
+
+<h3>Rights of the Members of this Covenant</h3>
+
 <div>Each and every member of this covenant and protected guests shall be entitled to the basic rights of the covenant; to whit, full and unrestricted access to the protection and support of the covenant within the boundaries of the covenant by all the rights and benefits accorded by the Code of Hermes, the benefit of a sanctum which shall remain inviolate and the supply of materials thereof, access to the library of the covenant, and victuals appropriate to the status of a magus. These basic rights shall not be abridged except by expulsion from the Council of Members.</div>
 <div>In furtherance and additional to the basic rights, a full member of the covenant shall be entitled to the full rights of the covenant; to whit, the right to presence and a vote in the Council of Members, which he shall exercise dutifully with due prudence. Further, full and unrestricted access to the services and skills of the servants and covenfolk. Further, an equal right to all surplus provision and store necessary to conduct his studies, or the travel demanded by those studies; such rights to include (but be not limited to) vis, monies, and diverse magical and mundane resources claimed by the covenant. Where a conflict is evident between members of the council over the allotment of surplus resource, distribution is drawn by ballot; excepting that priority claims that have been advanced and agreed by the disceptator are taken into consideration prior to the ballot. These rights shall not be abridged except by decision of the council under conditions of grave concern.</div>
 <div>In furtherance and additional to the basic rights of a member of this covenant, a probationary member of the covenant is entitled the probationary rights of the covenant; to whit, a fractional share of those rights and duties offered to a full member of the covenant, such share being equal to half that offered to full members. A probationary member’s vote counts only</div>
@@ -4761,19 +4951,25 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div sidebars>
 <div>half of that of a full member, and they may only claim half the share of the surplus provision and store of the covenant’s resources afforded a full member. The services and skills of the servants and covenfolk may not be halved, but the needs of a full member of the covenant take precedence over the needs of a probationary member. Further, a probationary member of the covenant who remains true to his Oath of Covenant has the right to remain at the covenant for a total of seven seasons following the conferral of this status. Further, a probationary member of the covenant has the right to be considered for full membership of this covenant after serving a total of seven seasons as a probationary member. These rights shall not be abridged except by decision of the council under conditions of grave concern.</div>
-<div>Responsibilities of the Members of this Covenant</div>
+
+<h3>Responsibilities of the Members of this Covenant</h3>
+
 <div>Members of this covenant are obligated to obey the Oath of Hermes and the Peripheral Code, as demanded by the Oath of Covenant; failure on this account will not be tolerated by the Council of Members, and the covenant reserves the right to censure those members who are convicted in just Tribunal of an offense against the Order of Hermes.</div>
 <div>The responsibility of the members of this covenant towards its lasting success is dependent on service to the covenant. The Council of Members will declare the duties that need to be performed at the regular meetings of the covenant. Such duties include (but are not limited to) the safeguarding and harvesting of the covenant’s claimed vis sources, the safeguarding and harvesting of the covenant’s income, the wellbeing and discipline of the covenant’s employees, the maintenance of the covenant’s resources, the increase of the covenant’s resources, and the maintenance of good relations with the covenant’s allies. Duties that will not entail more than a week of service at low personal risk will be assigned by the council to its members, with no more than one being assigned to each member in each season. Such assigned duties attract no recompense or advantage to the member who discharges them, but cannot be refused without reasonable extenuation.</div>
 <div>Duties which will entail a higher investment of time or personal risk will be offered up for service by the covenant. These services will attract a remuneration which shall be commensurate with the time, risk, and potential benefit to the covenant. This remuneration is decided by the disceptator, but</div>
 <div>maintains a minimum payment which shall be, for a single season of work at low risk with a low gain, two pawns of vis, of the flavor most prevalent in the stores at the time. The disceptator may increase the remuneration to increase the attractiveness of a particular urgent task, for the Council of Members is not empowered to force a member to accept one of these duties unless failure to perform it would be in breach of this covenant, in which case the threat of censure may be employed. All payments will be made in the Spring meeting of the Council. If there is more than one claimant for the service, and each claimant refuses to share the duty, then the disceptator will assign the duty by ballot. If there is insufficient vis to meet the demands of the council, the disceptator may withhold payment for one or more years. Covenant work may be declared such retroactively.</div>
 <div>Each probationary member of the covenant is obligated to perform no fewer than one of the tasks under remuneration currently outlined by the Council of Members during his period of probation. For this mandatory service, no payment need be offered by the Council of Members.</div>
-<div>Censure of the Members of this Covenant</div>
+
+<h3>Censure of the Members of this Covenant</h3>
+
 <div>If a member should contravene the decisions of the council, by vote or by charter, then the member may be censured or expelled by a vote of the Council of Members. Censure requires the passing of a motion at a meeting of the Council of Members. The censure of a full member revokes the rights of that status, returning him to probationary status; whereupon he assumes all the duties and rights of that status. Censure must not prejudice the application of a probationary member to the position of full member of the covenant. The censure of a probationary member shall abridge the rights of the member to remain a probationary member of the covenant, and shall confer upon him instead the status of Protected Guest. The status of a Protected Guest may be withdrawn at any time by a vote of the Council of Members without need for censure.</div>
 <div>Expulsion is enacted by a unanimous vote of the remaining Council of Members. Expulsion is the only means through which a member of the covenant shall lose his basic rights; and requires that the former member ceases to draw upon those basic rights subsequent to the first full moon after expulsion was enacted. Should a magus be cast out from the Order, it is the duty and obligation of this covenant that he shall also and without delay be expelled from this covenant.</div>
 
 <h3>The Seal of Office</h3>
 
-<div>This charter was approved by                 , Quaesitor in good standing, in the            Year of Our Lord, Jesus Christ.</div>
+
+<h3>This charter was approved by                 , Quaesitor in good standing, in the            Year of Our Lord, Jesus Christ.</h3>
+
 <div>(This oath was first sworn by the magi of Arae Flaviae, in the Rhine Tribunal.)</div>
 <div>Permission granted to photocopy for personal use. © 2005 Trident, Inc. d/b/a Atlas Games. Also available as a PDF download from www.atlas-games.com/ArM5.</div>
 </div sidebars>
@@ -4834,11 +5030,21 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Type of Governance:</div>
 <div>Base Loyalty Points (Due to Magi):  Current Loyalty Points:  Prevailing Loyalty Score:</div>
 <div>Situational Modifiers for...    Living Conditions: Equipment: Money: Specialists:</div>
-<div>Specialists Year Born Job Description / Abilities Notes Loyalty Points</div>
-<div>Covenfolk Year Born Job Description / Abilities Notes Loyalty Points</div>
-<div>Companions Year Born Job Description / Abilities Notes Loyalty Points</div>
-<div>Magi Year Born Titles / Responsibilities Gift Type Notes Loyalty Points</div>
-<div>Horses & Livestock Year Born Quantity Notes Points</div>
+
+<h3>Specialists Year Born Job Description / Abilities Notes Loyalty Points</h3>
+
+
+<h3>Covenfolk Year Born Job Description / Abilities Notes Loyalty Points</h3>
+
+
+<h3>Companions Year Born Job Description / Abilities Notes Loyalty Points</h3>
+
+
+<h3>Magi Year Born Titles / Responsibilities Gift Type Notes Loyalty Points</h3>
+
+
+<h3>Horses & Livestock Year Born Quantity Notes Points</h3>
+
 </div sidebars>
 
 
@@ -4848,10 +5054,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Covenant Record Sheet</h3>
 
 <div>Page 3 of 4</div>
-<div>Lands & Possessions Location Area / Dimensions / Floors Inhabitants Notes</div>
-<div>Magic Items Creator Year Effect Arts Level R/D/T Uses Description</div>
-<div>Mundane Items Quantity Description / Notes</div>
-<div>Weapons & Armor Cost Points per Item Quantity Notes Points</div>
+
+<h3>Lands & Possessions Location Area / Dimensions / Floors Inhabitants Notes</h3>
+
+
+<h3>Magic Items Creator Year Effect Arts Level R/D/T Uses Description</h3>
+
+
+<h3>Mundane Items Quantity Description / Notes</h3>
+
+
+<h3>Weapons & Armor Cost Points per Item Quantity Notes Points</h3>
+
 </div sidebars>
 
 
@@ -4866,8 +5080,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Total Income:  Expenditure (Before Cost Savings): Cost Savings:  Total Expenditure:</div>
 <div>Points of Inhabitants:  Points of Laboratories:  Points of Weapons and Armor:</div>
-<div>Sources of Income Description Type Current Income Notes</div>
-<div>Yearly Expenditure Rule Summary Cost Saving Limit Expenditure Notes</div>
+
+<h3>Sources of Income Description Type Current Income Notes</h3>
+
+
+<h3>Yearly Expenditure Rule Summary Cost Saving Limit Expenditure Notes</h3>
+
 <div>Buildings 1 pound per 10 pts. Inhabitants 50% per craft</div>
 <div>Consumables 2 pounds per 10 pts. Inhabitants 20% per craft</div>
 <div>Inflation increases yearly</div>
@@ -4878,12 +5096,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Weapons and Armor 1 pound per 320 points Weapons and Armor</div>
 <div>50% per craft</div>
 <div>Writing Materials 1 pound per Magus and book specialist 50% per craft</div>
-<div>Cost Savings Rule Summary Name / Quantity Saving Notes</div>
+
+<h3>Cost Savings Rule Summary Name / Quantity Saving Notes</h3>
+
 <div>Laborers 1 pound per person</div>
 <div>Craftsmen (common) 1 + (Ability / 2) pounds per season</div>
 <div>Craftemsn (rare) Ability pounds per season</div>
 <div>Magic Items 1 pound per magnitude</div>
-<div>Calendar Date Council Meeting Date Vis Collection Date Other Yearly Event</div>
+
+<h3>Calendar Date Council Meeting Date Vis Collection Date Other Yearly Event</h3>
+
 <div>Winter</div>
 <div>Spring</div>
 <div>Summer</div>
@@ -4897,13 +5119,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Library Record Sheet</h3>
 
 <div>Page 1 of 3</div>
-<div>Magical Books Author / Scribe Year Type Art / Ability Level Quality Notes</div>
+
+<h3>Magical Books Author / Scribe Year Type Art / Ability Level Quality Notes</h3>
+
 </div sidebars>
 
 
 <div sidebars>
 <div>Permission granted to photocopy for personal use. © 2005 Trident, Inc. d/b/a Atlas Games. Also available as a PDF download from www.atlas-games.com/ArM5.</div>
-<div>Laboratory Texts Author / Scribe Year Arts Level R/D/T Notes</div>
+
+<h3>Laboratory Texts Author / Scribe Year Arts Level R/D/T Notes</h3>
+
 
 <h3>Library Record Sheet</h3>
 
@@ -4913,7 +5139,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div sidebars>
 <div>Permission granted to photocopy for personal use. © 2005 Trident, Inc. d/b/a Atlas Games. Also available as a PDF download from www.atlas-games.com/ArM5.</div>
-<div>Mundane Books Author / Scribe Year Type Ability Level Quality Notes</div>
+
+<h3>Mundane Books Author / Scribe Year Type Ability Level Quality Notes</h3>
+
 
 <h3>Library Record Sheet</h3>
 
@@ -4942,12 +5170,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Specializations</h3>
 
-<div>Activity Specialization Score Tech. Specialization Score Form Specialization Score</div>
+
+<h4>Activity Specialization Score Tech. Specialization Score Form Specialization Score</h4>
+
 
 <h3>Personality Traits Score Notes</h3>
 
-<div>Features Focus? Specialization Bonus Location Description</div>
-<div>Magic Items Effect Arts Level R/D/T Uses Benefit / Description</div>
+
+<h3>Features Focus? Specialization Bonus Location Description</h3>
+
+
+<h3>Magic Items Effect Arts Level R/D/T Uses Benefit / Description</h3>
+
 
 <h3>Sanctum Chambers Floor Area Description</h3>
 
@@ -4960,8 +5194,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Vis Record Sheet</h3>
 
 <div>Page 1 of 1</div>
-<div>Vis Sources Art(s) Pawns Time of Harvest Description Notes</div>
-<div>Vis Stores Pawns Physical Form Notes Total Pawns</div>
+
+<h3>Vis Sources Art(s) Pawns Time of Harvest Description Notes</h3>
+
+
+<h3>Vis Stores Pawns Physical Form Notes Total Pawns</h3>
+
 <div>Creo</div>
 <div>Intellego</div>
 <div>Muto</div>
@@ -5006,7 +5244,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Events & Adventures</h3>
 
-<div>Season / Date Event Character(s) Notes</div>
+
+<h4>Season / Date Event Character(s) Notes</h4>
+
 
 <h3>Seasonal Activities</h3>
 
@@ -5014,6 +5254,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Character Winter Spring Summer Autumn</h4>
 
 </div sidebars>
+
+
+<h2>Contributors</h2>
 
 
 <div sidebars>

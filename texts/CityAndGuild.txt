@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -5,6 +9,9 @@ Ars Magica Open License Logo ©2024 Trident, Inc. The Ars Magica Open License Lo
 
 Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.
 
+
+
+<h2>Introduction</h2>
 
 
 <h3></h3>
@@ -15,7 +22,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Unless your saga is set right on the very fringes of the civilized world, the magi and covenfolk will inevitably come into contact with urban settlements and the activities centered upon them. Even though there may be some skilled craftsmen who live and work in a covenant, sooner or later something will be needed that must be bought from outside — perhaps a flawless glass candelabrum for an enchantment or a pair of finest kidskin gloves for a maga no longer able to bear the touch of iron. Few covenants are self-sufficient in even day-to-day commodities, and covenfolk may be sent to purchase cheese from the local market or to order shipments of wine at an annual fair.</div>
 <div>This book provides background information on the urban centers of Mythic Europe, craft activities and the guilds that control them, the lives of mer</div>
 <div>chants, and the trade that is the lifeblood of towns and cities.</div>
-<div>The Hermetic Order in Mythic Europe</div>
+
+<h3>The Hermetic Order in Mythic Europe</h3>
+
 <div>It is important to remember that the Hermetic Order is a part of the fabric of Mythic Europe. Nobles and the Church are generally aware of the existence of the Order, and peasants may be aware of a local covenant. Within the town, townsmen may also be aware of a nearby covenant, particularly if the magi or grogs frequent the market; craftsmen,</div>
 <div>in specialized fields, may occasionally manufacture laboratory goods for magi; and mercantile factors may deal with the covenant’s purchasing agents, or even buy produce from the covenant. Of course, broader Mythic Europe is likely to be misinformed, and prejudiced, about the precise details of the Order of Hermes, but the Order is nonetheless an obscure rather than a secret group.</div>
 <div>This does mean that it is impractical for most covenants to shun all contact with the mundane world. Magi or covenfolk who travel to town need to make many decisions about the knowledge they reveal, the material wealth they display, and the power they demonstrate to the townsfolk. Covenants populated by very large numbers of grogs (greater than 100) may even be mistaken</div>
@@ -67,6 +76,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter One</h1>
+
+
+<h2>Towns & Cities</h2>
 
 
 <h3></h3>
@@ -655,7 +667,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>who disciplines his wife or children, nor do they hold jurisdiction over Church officials, who are tried by their own ecclesiastical courts under canon law. Commercial law and heresy are also judged under canon law, by the Church (see ArM5, page 205). The court can also dismiss a case it deems frivolous. Otherwise, the town court claims jurisdiction over the town’s inhabitants. Additionally, there is a regional hierarchy of towns; thus, if a case involves men from several towns it is heard in the court of the most important town in the region. This only applies in relatively homogenous regions, like much of England and France. In Northern Italy, for example, a large town never cedes judicial authority to its rivals and such inter-town antagonism may lead a criminal to seek sanctuary in a rival town. Very small towns may also defer to the court of a larger neighbor. In the absence of any other agreement, town courts also claim jurisdiction over supernatural beings,</div>
 
 <div sidebars>
-<div>Minor Social Status Virtue: Town Magistrate</div>
+
+<h3>Minor Social Status Virtue: Town Magistrate</h3>
+
 <div>The character has a position of judicial responsibility in the town, with a small staff of minor officials (up to five individuals). The character must be a citizen, have a score of at least 3 in the Civil and Canon Law (or Common Law) Ability, and is paid a wage or gains special privileges in return for his services. Being a magistrate occupies the character for two seasons each year, but he is free for the remaining two seasons. Academic Abilities may be bought for the character, during character generation.</div>
 
 <h3>Court Decisions</h3>
@@ -853,6 +867,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Two</h1>
 
+
+<h2>Labor</h2>
+
 <div>A normal character must work for two seasons, and gets two seasons “free.” However, he cannot leave his job for two seasons, as the free time is spread over the year. Thus, he can only undertake study that he could do in and between his job. The two seasons spent working generate Exposure experience.</div>
 <div>— Ars Magica, page 163</div>
 <div>In Ars Magica, the profit of any enterprise falls into one of six bands. Income sources first appeared in Covenants, and the names for the bands reflect the perceptions of magi. (Traders and merchants themselves, for example, certainly do not consider 100 pounds a year — the income for the “Typical” band — to be at all typical for members of their profession.)</div>
@@ -910,7 +927,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>If the couple cannot be tricked into selling the whole business, it is run into the ground as they withdraw capital recklessly. They sell assets off piecemeal, as they require more funds for their lifestyle. A consortium of merchants, with ample credit and enormous skill, might arrange to buy the business, piece by piece, for less than it is worth. This does not save the livelihoods of all of the business’s workers, and hands the business’s market share to</div>
 <div>rivals, but allows the merchants to mitigate the damage a little. This also earns a season of Labor Points.</div>
 <div>Characters who feel little compunction against killing the murderous little animal and conning its benefactors may be surprised to find that, if their conspiracy to save the business is discovered, they are seen as villains attempting to steal from a young widow. This is because, to the public mind, people who save money are sinners, and the young widow’s desire to spend all of the money she has available is virtuous. This story works less well in the handful of places where this belief is not held. The key example is Venice, where the ruling class dress humbly and have tasteful houses, because no one dares snub them for their avaricious and likely sinful behavior.</div>
-<div>Saving the Business of an Old Friend</div>
+
+<h3>Saving the Business of an Old Friend</h3>
+
 </div sidebars>
 
 <div>Stories completed swiftly sometimes do not prevent the character from working for Labor Points during a season.</div>
@@ -954,7 +973,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Guild Member Ages & Abilities</h3>
 
-<div>Age Guild Rank Craft Ability Secondary</div>
+
+<h4>Age Guild Rank Craft Ability Secondary</h4>
+
 
 <h4>Ability</h4>
 
@@ -1025,9 +1046,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Apprentices can be dismissed as easily as they can be accepted. If for some reason — any reason — the master no longer wishes to train the apprentice, he throws the youth out of his workshop. If the apprentice is part of a guild, his name is removed from the guild roster. The only thing that would prevent the master was if he entered into a contract with the youth’s parents, accepting a certain amount of coin to take the child as a guild apprentice. The master can return this sum, or claim that the youth was too inept for training and that his parents forfeit the fee. Masters can also trade apprentices to other masters, buy an apprentice from another master, or simply give them away to another master in the guild. The apprentice has absolutely no say in this matter.</div>
 <div>Guild apprenticeship ends after seven years. Some masters set a test for their apprentices before recognizing that their apprenticeship is over, requiring them to make an appren</div>
 <div>tice piece, an item of their craft made solely by themselves. The apprentice makes a Primary Characteristic + Craft Ability + stress die roll against an Ease Factor of 9. If he succeeds he has demonstrated enough expertise to advance to journeyman.</div>
-<div>Apprentice Piece: Craft Ability + Primary Characteristic + stress die</div>
 
-<h4>vs. Ease Factor 9</h4>
+<h4>Apprentice Piece: Craft Ability + Primary Characteristic + Stress Die</h4>
+
+
+<h4>Vs. Ease Factor 9</h4>
 
 <div>An apprentice piece is a shoddy product, and would never be offered for sale. It is a usable, functioning item, however, and may be used by the apprentice or given as a gift to a young peer.</div>
 <div>The unlucky few who fail when making their apprentice piece continue to serve their master for another season, at which point they may attempt another piece. If an apprentice cannot pass this test by the time he is 20 years old, he is dismissed as incompetent. He gains the bad Reputation of Incompetent 3 in the town he apprenticed in. Such unfortunates sometimes find themselves employed at a covenant, willing to work for the unsavory Gifted overseers rather than face a life of not working at all.</div>
@@ -1040,9 +1063,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The all-important aspect of a journeyman’s life is his wage. Daily wages vary considerably, dependent upon the type of craft, the length of the work contract, and the negotiating prowess of the journeyman. Age and skill do count for something, and experienced journeymen earn more than their counterparts fresh from apprenticeship. Wages are set by a contract. Contracts last from one to several years, depending on the type of good, the rapport between the master and journeyman, and the</div>
 <div>prevailing economic conditions of the town.</div>
 <div>Bargaining for a good contract is an essential skill for every journeyman. To receive a favorable contract, a journeyman’s player makes a Communication + Bargain + (Age / 10, rounded up) stress roll against a variable Ease Factor. The guild sets the maximum wage allowed a journeyman, and better rolls receive a better proportion of this amount, represented by the number of Labor Points gained. A journeyman’s contract also affects the number of Labor Points he earns in a season.</div>
-<div>Making a Contract: Communication + Bargain + (Age/10, rounded up) + a stress</div>
 
-<h4>die</h4>
+<h4>Making a Contract: Communication + Bargain + (Age/10, Rounded Up) + a Stress</h4>
+
+
+<h4>Die</h4>
 
 
 <h4>Roll Result Journeyman’s Labor Points</h4>
@@ -1071,7 +1096,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>A distraught wife shows up at the covenant asking for help. Her husband, a journeyman goldsmith, has been ill for several months. His contract, like most journeymen’s, states he must work a certain number of hours per day, six days a week, and that he does not get paid when he doesn’t work, whether through illness, religious festivals, or other mitigating circumstances. Doctors can’t relieve his illness and his health steadily deteriorates. His wife is sure</div>
 <div>that a local woman put a hex on her husband, and asks the magi to remove the disastrous spell. She could be wrong, and her husband might be healed by ritual Creo Corpus spells. But if the local woman actually did put a hex on the husband, is she a simple maker of folk charms or a more powerful sorceress operating in town? Perhaps something more nefarious is going on, and another journeyman or hostile master has paid the woman to hex the husband.</div>
-<div>Story Seed: “No Work, No Pay”</div>
+
+<h3>Story Seed: “No Work, No Pay”</h3>
+
 </div sidebars>
 
 <div>The guild rigorously controls the number of journeymen that can be employed by the masters as a whole. There may be cases where a journeyman is capable and amiable enough to find gainful employment, but the allotted number of working journeymen in the town has been filled. Unable to work in his home town, a journeyman may travel to another city to find employment. If the new town doesn’t have a guild for his vocation, he can set up shop and work accordingly. If the town has a guild and room for another journeyman, he can request membership. This requires that he make an apprenticeship piece to show his skills, just as he had to do to pass his apprenticeship. The Ease Factor for this piece should be increased from 9 to 12.</div>
@@ -1180,7 +1207,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Banco is a member of the great Roman Savelli family, as is the current Pope, Honorius III. Banco has been the Goldsmith’s Guild dean for two years, having gained the appointment due to his crafting skills, his three prosperous workshops, and the influence of his family connections. His clientele includes bishops, cardinals, and the pope himself. Banco spends much of his days meeting with guild members, overseeing his own shops, interacting with his family, and personally following his own ambitious plans.</div>
 <div>Because of his skill in making wondrous goods, Banco is interested in other enchanted items, particularly those made by Hermetic magi. He would love to learn how to make genuine magic items, and secretly sends guild members to investigate other methods of magical production. He would certainly visit nearby covenants and possibly host visiting magi, plying them with fine wine and stronger beverages to pry loose their secrets.</div>
 <div>Banco is a suitable companion character for a player.</div>
-<div>Banco, Dean of the Goldsmith’s Guild</div>
+
+<h3>Banco, Dean of the Goldsmith’s Guild</h3>
+
 </div sidebars>
 
 <div>City & Guild Craftswomen</div>
@@ -1242,12 +1271,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Service guilds for lower, more menial professions did not historically develop until the early 14th century. The guild model proves so financially successful that every group of professions wanted to copy</div>
 
 <div sidebars>
-<div>Population Guilds in 1220 Guilds in 1250 Guilds in 1300</div>
+
+<h4>Population Guilds in 1220 Guilds in 1250 Guilds in 1300</h4>
+
 <div>1,000 or less 0–1 0–2 1–3</div>
 <div>10,000 or less 0–3 3–5 5–10</div>
 <div>20,000 or less 5–10 50–200 100–300</div>
 <div>50,000 or less 5–20 50–300 100–500</div>
-<div>Number of Guilds in a Town</div>
+
+<h3>Number of Guilds in a Town</h3>
+
 </div sidebars>
 
 <div>their system of regulated labor, and the late 13th century saw a cascade of professional service groups organizing themselves into guilds, starting with the most prestigious and moving down the social scale. Though historically anachronistic, there is no reason that your 1220 saga could not include a fledgling service guild or two, especially if you deem that such groups will add to your saga. These types of guilds might organize porters, innkeepers, laundresses, bleachers, restaurateurs, link boys (who carry torches to guide travelers at night), prostitutes, maids, wet nurses, barbers, or water carriers.</div>
@@ -1267,7 +1300,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>also make the many farm implements used by medieval society: sickles, scythes, and axes. Most of these goods can be purchased directly from the craftsman, with a good blacksmith having a variety of items ready for sale. One of the most important things a blacksmith makes is wire. Hot lumps of carbonized iron are pulled through a board with a hole in it, pulling it into rods that are again pulled through smaller and smaller holes until the desired thickness is achieved. Wire is sold to armorers, who weave it into the steel links that make a suit of chainmail.</div>
 
 <div sidebars>
-<div>Story Seed: a Thief in the Night</div>
+
+<h3>Story Seed: a Thief in the Night</h3>
+
 <div>A blacksmith is plagued by a faerie, who routinely sneaks into his shop and steals one of his tools, replacing it with a replica made of clay. Because of the many sorts of punches, awls, and hammers that the smith uses, this substitution is not immediately noticed, and the smith has no idea how often the faerie visits. The theft is noticed when the blacksmith uses one of the forgeries and it breaks immediately.</div>
 <div>He asks the magi for help in dealing with these thefts, showing them the replacement tools he has found. A quick investigation shows that the unbroken tools contain a pawn of Rego vis each. This should create conflicting motives in the magi. The blacksmith is a long-standing friend of the covenant and needs their help, but the lure of vis might make the magi want the faerie to continue stealing the blacksmith’s tools. Clever magi will find a way to satisfy both desires.</div>
 </div sidebars>
@@ -1375,6 +1410,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>You should be aware that not every troupe will appreciate the inclusion of slavery in their saga, and the buying and selling of human beings could be found distasteful. Players wishing to play slave or slaver characters should consult Guardians of the Forest and use the Virtue and Flaw suggested on page 102.</div>
 
 <h1>Chapter Four</h1>
+
+
+<h2>Crafts</h2>
 
 
 <div sidebars>
@@ -1538,14 +1576,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>Workshop Total: Primary</h4>
 
-<div>Characteristic + Ability + Innovation + Raw Materials</div>
+
+<h4>Characteristic + Ability + Innovation + Raw Materials</h4>
+
 <div>Success is measured against the Craft Level of a desired seasonal activity. If the Workshop Total equals or exceeds the Craft Level, the character produces a specific amount and quality of finished goods. The exact amount of produced items depends on the trade.</div>
 
 <h3>Finished Goods</h3>
 
 <div>A character creates finished goods in a season by comparing his Workshop Total against a Craft Level, both of which are influenced by various modifiers. The standard Craft Level, which assumes adequate space, necessary materials, and no distractions, is 6. If the Workshop Total equals 6, then standard quality goods</div>
 <div>are made. If the total falls below 6, shoddy goods are produced. A workshop total above 6 allows the craftsman to make better quality goods.</div>
-<div>Craft Level for Shoddy Items: 3 Craft Level for Standard Items: 6 Craft Level for Superior Items: 12 Craft Level for Excellent Items: 15</div>
+
+<h4>Craft Level for Shoddy Items: 3 Craft Level for Standard Items: 6 Craft Level for Superior Items: 12 Craft Level for Excellent Items: 15</h4>
+
 
 <h4>Craft Level for Wondrous Items:</h4>
 
@@ -1604,7 +1646,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>craftsman would make in a season. Finally, round up to get the number of items produced. Thus, a tailor with a Craft Tailor score of 7 would produce 45 suits of clothes in a season. 7 divided by 5 is 1.4; 1.4 times 32 is 44.8, which is rounded up to 45.</div>
 <div>For some trades this is merely an abstraction useful in determining how long it takes to make a specific item. Some craftsmen make a</div>
 <div>variety of goods in a single season. For example, a blacksmith produces more items than just hoes. But, if a troupe needs to know how long it takes to produce a specific item, divide 72 (which is the number of working days in a season, derived from 12 six-day weeks) by the number of items constructed in a season. Thus, it takes about two and a half days to make a hoe (72 divided by 30 is 2.4).</div>
-<div>Standard Quality Items Constructed in a Season</div>
+
+<h4>Standard Quality Items Constructed in a Season</h4>
+
 <div>rials, magical interference, famine, war, plague, and guild politicking are typical examples (see the insert).</div>
 
 <h3>Shoddy Quality Items</h3>
@@ -1622,9 +1666,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Excellent items are generally made for a specific person or purpose.</div>
 <div>Each is a beautifully crafted work of art. They decorate cathedrals, clothe bishops, adorn papal legates, accessorize ladies, and enhance knights. They have higher bonuses in play than superior quality items, cost more to purchase, and take more skill to create.</div>
 <div>Like superior quality items, excellent items gain bonuses to one of their features. Unlike superior quality items, they are not limited to a +1 bonus or to a single, specific activity. To make an excellent item, the Workshop Total must equal or exceed the Craft Level. For every 3 points that exceed the Craft Level, add an additional +1 bonus to a feature of the item. This bonus is then applied to every activity that the item is used for. The maximum total bonus an excellent item may have is limited by its creator’s Craft Ability score divided by three, rounded up.</div>
-<div>Total Bonus Limit: Craft Ability /</div>
 
-<h4>3, rounded up</h4>
+<h4>Total Bonus Limit: Craft Ability /</h4>
+
+
+<h4>3, Rounded Up</h4>
 
 
 <div sidebars>
@@ -1690,9 +1736,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>Base Supernatural Item Craft</h4>
 
-<div>Level: 12 + Magnitude of Hermetic Effect + Modifier for</div>
 
-<h4>Number of Uses per Day</h4>
+<h4>Level: 12 + Magnitude of Hermetic Effect + Modifier for</h4>
+
+
+<h4>Number of Uses Per Day</h4>
 
 <div>To make a wondrous item the Workshop Total must be higher than the Craft Level. The Workshop Total is influenced by the type of aura the craftsman is working in and the realm from which he derives his ability. Add or subtract the appropriate modifier</div>
 <div>based on the strength of the aura and the Realms Interaction Table (ArM5, page 183). If he has a helper, add half the helper’s Craft Ability score to the Workshop Total. Unlike regular workshop activities, the crafter of a wondrous item can only have one assistant. For each point the Workshop Total is above the Craft Level, the craftsman accumulates points toward the item’s completion. Once the accumulated points equal the Craft Level, the item is finished.</div>
@@ -1801,13 +1849,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 <div>craftsman’s roll, to a maximum discount of 50%. Botching means the craftsman makes a terrible error and sells the item for next to nothing, so desperate for the sale that he loses all common sense.</div>
-<div>Selling Goods: Presence + Bargain + simple die vs. Ease</div>
+
+<h4>Selling Goods: Presence + Bargain + Simple Die Vs. Ease</h4>
+
 
 <h4>Factor 9</h4>
 
 <div>or Presence + Bargain + stress die vs. Communication + Bargain + stress</div>
 
-<h4>die</h4>
+<h4>Die</h4>
 
 <div>This die roll should never replace roleplayed interactions between craftsmen and clients. Many troupes enjoy the verbal repartee of the mar</div>
 <div>ket square, the boisterous bickering and price dickering. Use a die roll to quickly handle a sale, or to settle an argument that threatens to consume too much game time.</div>
@@ -1838,10 +1888,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>For many crafted goods, it is immaterial if they break or are damaged during a story. A cloak torn on a thorn bush is descriptively colorful, but there is no need to detail such incidentals with a die roll. The rules that follow should be applied to items that hold a certain value for a character, though not necessarily a monetary value. If the above-mentioned cloak were a supernatural item, for example, whose magical effect would be lost if it were torn, then a die roll would be called for. Also, goods and items whose destruction could affect a specific scene — like a sword breaking in the middle of a melee — should be subject to these rules.</div>
 <div>When a story event threatens to break an item, the player makes a stress check to see whether that item survives the incident intact or is damaged. To make a stress check, roll a stress die + modifiers against a 15. If the roll is successful the item has survived intact. If not, it has been damaged. If the roll botches, the item is damaged so badly that it could break.</div>
 
-<h4>Stress Check: stress die + modi</h4>
+<h4>Stress Check: Stress Die + Modi</h4>
 
 
-<h4>fiers vs. Ease Factor 15</h4>
+<h4>Fiers Vs. Ease Factor 15</h4>
 
 <div>The modifier to the stress check is usually the Ability of the character</div>
 <div>wielding the item. Thus, a veteran warrior has a better chance of preserving the edge of his sword in battle than a novice. Other modifiers depend on the situation, and the following list provides many possible example stress check modifiers.</div>
@@ -1924,6 +1974,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h1>Chapter Five</h1>
 
 
+<h2>Travel</h2>
+
+
 <div sidebars>
 <div>This chapter helps troupes to create the routes that link their covenants to cities, and gives guidance regarding the amount of time required to travel to and from other stories.</div>
 <div>Most medieval people never travel more than a few miles from the village of their birth. Those who do travel tend to do so for mercantile reasons. There are many exceptions — pilgrims, crusaders, magi — but when these people travel, they do so using infrastructure created and maintained by commerce.</div>
@@ -1991,7 +2044,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>•</div>
 <div>•</div>
 <div>An island near the mouth of the Loire was a college for Druidic priestesses, in the years before the formation of the Order. The young sun god Phaeton drowned in the Po after falling from the solar chariot, and his body has not been recovered. The Rhine is haunted by the Lorelei, a nymph that sings men to their doom. The Rhone ends at the wild and inhospitable Camargue Delta, where a ghostly horse keeps a larder of up to 100 wicked children.</div>
-<div>Area Lore: The Hinterland as a Resource</div>
+
+<h3>Area Lore: The Hinterland as a Resource</h3>
+
 <div>The Area Lore Ability is used to find people, resources, and places within a city or its hinterland. Characters who successfully roll Intelligence + Area Lore against the Ease Factors given in the Area Lore Ease Factors table know how to contact people, or find resources, but need other Abilities, like Charm or Bargain, to acquire goods cheaply, or convince people to offer assistance. Characters who spend most of their time in a city, like craftsmen, subtract 3 from Area Lore rolls to find material in the hinterland. Characters who spend most of their time in the hinterland, like local carriers or characters that live in rural covenants, subtract 3 to find things in the city.</div>
 
 <h3>Vessels</h3>
@@ -2130,7 +2185,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>for much of the Black Sea to Venice. Travel in the Baltic is constrained by the Kingdom of Denmark, and by local coalitions of merchants, although it is possible if a partner from the Baltic fronts the voyage.</div>
 <div>Most sea trade, and therefore travel, occurs in small sailing vessels for a mixture of technological and economic reasons. The ships in the northern region are clinker-built with adzes, which limits their maximum size. The ships of the southern region use twin steering boards rather than centrally mounted rudders, which, again, curbs their effective maximum size. Larger vessels can only dock in deepwater harbors, which are rare. Small ships can navigate rivers to upstream ports, like London, and they spend less time in port, waiting for cargo. Use of small ships spreads risk more effectively than using a single, large ship.</div>
 <div>Different types of ships are used in the two regions. Galleys are not currently used in the Atlantic, although there is no structural reason for this. If your saga follows real history, eventually the Genoese will send an annual fleet of galleys to Southampton and the Netherlands. Similarly, cogs are not used for Mediterranean trade, although Basque pirates in the Islamic areas of Iberia use them and, again, if your saga follows real history, the Hansa will send fleets of cogs to the Mediterranean.</div>
-<div>Adding Places to the Land Trade Map and Naval Trade Tables</div>
+
+<h4>Adding Places To the Land Trade Map and Naval Trade Tables</h4>
+
 <div>The easiest way of adding a place to the land map is to use the internet to find the direct distance, in miles, between the new site and</div>
 
 <div sidebars>
@@ -2274,6 +2331,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Six</h1>
 
+
+<h2>Fairs & Markets</h2>
+
 <div>The inhabitants of Mythic Europe do not make everything they need. Even peasants buy tools and clothes, and the nobility and towndwellers buy even more. This supports a network of markets, for local exchanges, and fairs, for trade on a national and international level. Many covenants also make extensive use of the opportunities these trading venues offer.</div>
 
 <h3>Markets</h3>
@@ -2315,7 +2375,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Story Seed: Competition</h3>
 
 <div>Permission is granted to start a market within five miles of the one where some of the covenant’s provisions are bought regularly, or where the beneficiary of the market tolls is a nobleman or religious house allied to a player character. If the new one cannot be stopped, perhaps it can be moved to a different day of the week? Some delicate political negotiations will be necessary. Alternatively, the new market may benefit a valuable ally, pulling the covenant in both directions at once.</div>
-<div>Story Seed: The Legend of Lady Godgifu</div>
+
+<h3>Story Seed: The Legend of Lady Godgifu</h3>
+
 <div>The populace of a market town not far from the covenant is suffering under a heavy tax burden imposed by the local lord. His wife has taken the side of the townsfolk against her noble husband’s heavy taxes and has been nagging him for quite a while about the matter. Exasperated, he has promised to reduce them if she is willing to ride naked on a horse through the busy marketplace. He has no doubt that she will refuse to do this.</div>
 <div>If the noblewoman knows someone at the covenant, she comes to him for help in meeting her lord’s demand without putting herself through the humiliation. If the covenant is in town, or regularly obtains supplies there, a contact tells them in confidence that they heard of the offer from the lady’s maid.</div>
 </div sidebars>
@@ -2341,7 +2403,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Some time ago, two traders fell out. One went to a cunning man and had a charm made, which he concealed in the part of the marketplace where his rival usually set out his goods. From then on, goods arrayed there have always looked rather shoddy. The first victim of</div>
 <div>the charm soon went out of business, much to the other trader’s satisfaction, but he did not live long to enjoy the benefit of eliminating his rival, succumbing to an ague a few months later. So, the charm remains without anyone knowing why no seller prospers in that position.</div>
-<div>Story Seed: A Run of Bad Luck</div>
+
+<h3>Story Seed: A Run of Bad Luck</h3>
+
 </div sidebars>
 
 <div>precious at a market. From time to time, one of the heavenly host guides a truly deserving person to where they can obtain a genuine holy relic. (See Realms of Power: The Divine, pages 44–46, for details of relics and their powers.)</div>
@@ -2444,7 +2508,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Denizens of other realms attending a mundane fair might simply be there out of curiosity, or they may be after a particular commodity — perhaps just what the magi need to build into an enchantment. The question for sellers is, do these buyers have acceptable coin, and if not, how can they pay? Supernatural creatures may have very odd requests, for example trying to purchase something that is</div>
 <div>not on sale. A rash, greedy, or gullible trader might regret agreeing to sell his nose or his good name. Magical or faerie creatures do not necessarily make such offers with malicious intent, they simply have a very different view of the world.</div>
 <div>Animals with supernatural characteristics are also likely to go to a fair once in a while. Some operate independently and simply exploit the opportunities, such as a jackdaw come to steal by application of cunning and persistence. A bird that is much more than the mundane variety may give itself away by going after something that isn’t small and shiny. Supernatural animals might be drawn together from over a wide area to meet at a great fair. Faerie versions of domesticated beasts could mingle with their ordinary counterparts to get in without attracting too much unwanted attention. Just like anybody else, they might exchange news and gossip with others of their kind, negotiate or bargain, and even fight.</div>
-<div>From Over the Hill and Far Away</div>
+
+<h3>From Over the Hill and Far Away</h3>
+
 </div sidebars>
 
 <div>county and having a special attraction like a large sale of horses, might provide the owner with over 100 pounds in profit, while a small fair for a single village might make him a few shillings. The cost to the owner for administration of a mediumsized fair is likely to be around three pounds a week, with most going to pay for staff to run the fair and its court. Once a fair has been granted to someone, the ruler may show his favor again by permitting an extension to the duration. In the past, the right accorded simply made official a fair that was already held regularly, but by 1220, in the most civilized parts of the continent, all but the most local fairs require explicit permission.</div>
@@ -2482,7 +2548,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Weights and Measures</h3>
 
 <div>The legal process of assize covers the quality, price, and measure of bread, wine, and ale on sale at the fair, and the accuracy of the weights and measures used. Someone has the duty of tasting the ales to make sure they are good enough, which is important because ale only keeps a few days yet is in such demand that up to half the local women may brew for the occasion. A standard set of vessels is kept as the legal measures for fluids, flour, grain, and so on, and a set of weights is similarly kept. There is also a bar of iron for use as a recognized standard of length. All of these may be used by all. The problem lies in the fact that such standards only apply locally, and may be quite different elsewhere, even when the same measuring words are used. Accurate measurement is unlikely, and opportunities for fraud abound. (See Chapter 8: The Goods of Europe, for details of units for quantities of goods).</div>
-<div>The Group Responsibility for Quality Control</div>
+
+<h3>The Group Responsibility for Quality Control</h3>
+
 <div>Merchants from the same region often band together at fairs, especially when trading abroad and facing foreign rules and customs of trade. Before offering anything for sale at a fair, it is usual for a merchant to open his goods for inspection by the other merchants from his home area, so that they can be sure of their quality, since their collective reputation is at stake. Groups may appoint guild wardens or inspectors to monitor activities during the fair to ensure their reputation is maintained. Any wrongdoing, such as selling goods falsely weighed, prepared, or described, may result in a merchant being fined by his peers or, for a serious offense, ostracized.</div>
 <div>Foreign merchants may be asked to prove that they have sufficient resources at hand, in coin or in trade goods, to keep themselves and their servants while away from home. It is common for a guild to ban their members from engaging in games of chance during a fair. They may also be banned from standing as pledge in court for anyone outside their own group. If any merchant fails to pay a debt, it is likely that all merchants present from the same city will be obliged to pay up at a later fair, for example paying a fee of one penny for each shilling’s worth of goods they have to sell.</div>
 
@@ -2623,6 +2691,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Seven</h1>
 
+
+<h2>Trade</h2>
+
 <div>Late last century, the commercial network of Europe began to change irrevocably. Many new mines become commercially viable, and precious metal became comparatively common. Europe’s economy began to switch from agrarian barter to one in which it is possible for people to buy and sell using money. This process, monetarization, is continuing and accelerating. It has allowed the major noblemen of Europe to cease their earlier habit of traveling about their demesnes, eating through the foodrents of their vassals, and settle their courts in major cities.</div>
 <div>The population of these cities has begun to rapidly increase. If current rates of expansion continue, in 1300 many cities will be ten times the size they are in 1220. In the West, cities of this size have been unknown since Roman times. Their demand for food, drink, fuel, building materials, and the staples of manufacturing is insatiable. The cities are omnivores that devour the product of their hinterlands, and swell to ever-increasing hunger. The cities do not just eat: they also breathe.</div>
 <div>Cities breathe silver. The agrarian nobility accept money from their vassals as rent, and then spend it in the cities on luxuries. The city’s craftsmen spend it on staples: food, drink, fuel, and materials. These are bought from rural laborers through</div>
@@ -2681,7 +2752,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Story, Major The character has two entirely separate lives, in two cities, and moves between the two as he trades. Bigamists have two spouses, and maintain two households, which they must pay for. The merchant’s annual cost of maintaining his business rises by (6 x Wealth Multiplier) Labor Points. Some bigamists mitigate this expense by pretending to be of lower status in their alternate life, which reduces the additional Labor Point cost by half (to 3 x Wealth Multiplier).</div>
 
-<h4>Employed by Company</h4>
+<h4>Employed By Company</h4>
 
 <div>Story, Minor Characters with this Flaw are salaried employees, answerable to an employer. They may be merchants who travel on behalf of a company, or administrators who are answerable to the partners. On the other hand, they are also backed up by the resources of the company. See the Companies section, above, for more detail.</div>
 
@@ -2836,7 +2907,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Merchants who refuse to take part in the mania suffer a poor Reputation. They are, by their choice, criticizing every member of their class who participates. Merchants who avoid manias tend to buy the businesses of their foolish colleagues once the mania passes, but they are often still hated for their foresight. (A character who weathers a mania earns half</div>
 <div>a season’s worth of Labor Points. A character who saves a large group of friends earns a season and a half’s worth of Labor Points, and is poised to face the Unraveling Economy story — see below — that often follows a mania.) A character who buys early in the mania and sells out at the right time earns one season’s worth of Labor Points.</div>
 
-<h4>Murder of or by Benefactor</h4>
+<h4>Murder of Or By Benefactor</h4>
 
 <div>A powerful patron of the character is found murdered, with circumstantial evidence that points toward the character’s guilt. The merchant must evade arrest while finding the culprit, and sufficient evidence to demonstrate his guilt. As an alternative: the character’s benefactor is being set up for the murder of his rival, and the character must hide him while clearing his name. If the character has the Heir Virtue, this story may lead to an immediate increase in Social Status, otherwise it grants one and a half seasons’ worth of Labor Points.</div>
 
@@ -2859,7 +2930,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>In the character’s quarter of the city, a group of youths has formed a gang. Initially they engaged in petty theft, but their tricks are becoming more dangerous, and have recently extended into minor arson and petty burglary. If matters become more serious, they draw the attention of the city’s authorities, and also the</div>
 <div>city’s crime lords. Characters may help the watch catch the children, or may hire them, and teach them to be a disciplined criminal team. (Half a season’s worth of Labor Points)</div>
 
-<h4>Superior Going to Pieces</h4>
+<h4>Superior Going To Pieces</h4>
 
 <div>Due to illness, bereavement, or age, the character’s superior is unable to effectively run the company’s business. The character may either hold the superior together, covering his mistakes in the hope that he will improve, or find a way to displace the superior. (One season’s worth of Labor Points)</div>
 
@@ -2887,7 +2958,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Local carriers make valuable covenfolk. A local trader knows the places along his route better than virtually any non-resident, has contacts in each place, and is skilled at purchasing and transporting goods.</div>
 
-<h4>Abduction or Elopement</h4>
+<h4>Abduction Or Elopement</h4>
 
 <div>The daughter of a local potentate has been kidnapped, or perhaps has eloped, with a young merchant. Local carriers, familiar as they are with the area around the city, can guess where the pair are likely to rest when traveling. Those who return the couple to the girl’s father earn his thanks, and perhaps a sum of money to keep the affair quiet, but also gain the enmity of the daughter if it was an elopement. Those who help the young merchant earn his gratitude, leaving the girl’s father none the wiser. (One season’s worth of Labor Points)</div>
 
@@ -3147,7 +3218,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Merchants are often the targets of extortion by noblemen. Many nobles seize goods, or request them at bargain prices. Some enact tolls that affect profitable new industries. In times of war, a nobleman may prohibit anyone from trading with his rival. Merchants may hire bandits to harass the servants of noblemen, or damage their property, but it is rare for individual merchants to raise armies. Town councils sometimes do this, but merchants prefer to encourage nobles to take militant action against a mutual enemy, compensating them for the trouble. (Turning aside the will of a powerful noble is worth one season’s worth of Labor Points)</div>
 
 <div sidebars>
-<div>Largesse: The Costs of Excellent Building</div>
+
+<h3>Largesse: The Costs of Excellent Building</h3>
+
 
 <h4>Construction Cost</h4>
 
@@ -3188,11 +3261,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>To learn one of the target’s Story Flaws, if known by only a few people, all of whom are loyal to the target.</div>
 <div>To learn information that will cause one of the target’s friends to conspire toward his downfall.</div>
 <div>To forge convincing evidence that makes the target appear to have a Dark Secret, like the Flaw. The target, or his friends, may determine the identity of the person who reveals the Flaw with an Intelligence + Intrigue roll of equal to the factor’s and thereby prove the secret false, but it is almost impossible to tie the factor to the revealer, or the forgery (Intelligence + Intrigue roll of 21 or more).</div>
-<div>Intrigue and the Art of Indirect Action</div>
-<div>Setting Up a Factory or Town</div>
+
+<h3>Intrigue and the Art of Indirect Action</h3>
+
+
+<h4>Setting Up a Factory Or Town</h4>
+
 <div>Some factors are sent to establish the house’s profile in a new town, or govern a small colony as it grows into a significant asset. These goals require several stories to complete. A character who succeeds in either task is likely to become Wealthy. These characters are often offered partnerships, and factorhood of more significant cities.</div>
 
-<h4>Withdrawal from a Region</h4>
+<h4>Withdrawal From a Region</h4>
 
 <div>A young factor’s first mission might be to wrap up the company’s business in an unprofitable town. The character is considered weak if he is insufficiently ruthless, and the more money the character can recover, the more his superiors approve. A character who finds a way to make the town profitable is offered its factorhood, and earns the loyalty of the company’s employees. (One and a half seasons’ worth of Labor Points)</div>
 
@@ -3242,7 +3319,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The capo selects and monitors the factors of the house. Some factors are forced on the capo: they are the children of partners. A factor can destroy the solvency of a branch, and the Reputation of the house within a city. In many cases, capos pay spies to monitor their factors. (Cleaning up after an unskilled factor earns one season’s worth of Labor Points. Dealing with an unskilled factor before he damages the house earns one and a half seasons’ worth of Labor Points, if the capo has the support of the partners.)</div>
 <div>The capo may elect to bring his company into a new industry, or a</div>
 <div>new city, by creating a new branch. Founding a branch usually requires a tremendous amount of money to be transported, for use as stake capital. A branch, at minimum, requires a fine house for the factor, warehouse space, and sufficient money to begin aggregating cargoes. It also usually includes additional amounts for sundry expenses like employing guards, hiring merchants, purchasing vehicles, and arranging monitoring agents to spy on the factor. (Half a season’s worth of Labor Points)</div>
-<div>Trade and the Order of Hermes</div>
+
+<h3>Trade and the Order of Hermes</h3>
+
 <div>Hermetic magic is an incomparable advantage to a trader. Examples follow, but most troupes will be able to find even more ways to use magic surreptitiously to advantage. There is little reason for most magi to be poor. Troupes creating, or obtaining, vast amounts of wealth using magical assistance, however, should familiarize themselves with the Inflation rules given in Covenants, Chapter 5: Wealth & Poverty.</div>
 
 <h3>Creating Wealth Using Magic</h3>
@@ -3298,13 +3377,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>After the defeat of a Muslim fleet off Ascalon, in the Levant Tribunal, in 1123, the sea was filled with corpses. They drifted, in an ever-expanding ring, until they were piled upon a distant beach like a wall of driftwood. No fish can be caught on the site of the battle, and voyages that cross the battle’s location are cursed to fail.</div>
 <div>A merchant house has begun to smuggle the skulls of the dead of Ascalon onto the ships of its rivals. Each voyage so-cursed ends tragically. If the players destroy this vile trading house, what will they do with the remaining skulls of Ascalon?</div>
 
-<h4>Espousal to the Sea</h4>
+<h4>Espousal To the Sea</h4>
 
 <div>Every year, the city of Venice holds a ritual blessing of the waters.</div>
 <div>At the end of the ceremony, the Doge — the leader of the city — removes a ring from his finger and casts it into the ocean. This is an engagement ring: it represents the city’s espousal to and dominance over the waters.</div>
 <div>Venice has many enemies. If one of them disrupts the ritual, or steals the ring from underwater, Venice’s trade collapses as the sea withdraws her dowry. Magi may be tempted to steal the ring, because it contains an amount of Rego vis that reflects Venice’s prosperity and power. Since the conquest on Constantinople, the rings have each contained 12 pawns of vis. Many covenants have investments in Venice, however, and would reward any covenant that recovers a stolen ring and returns Venice to prosperity, so magi who aspire to steal the rings must cover their involvement and deal with the affronted covenants, or face a Wizard’s March.</div>
 
-<h4>Rhine-Main-Danube Canal</h4>
+<h4>Rhine-main-danube Canal</h4>
 
 <div>The Rhine passes many populous cities and one of its tributaries, the Main, comes within a hundred miles of the Danube. The Romans used to portage goods between the two rivers, to create a trade corridor across the width of the continent. Charlemagne attempted to have a canal dug between the two rivers, but failed. In 1220, goods are still portaged, in great volume, between the two rivers. A saga could be designed around the creation and control of such a canal.</div>
 
@@ -3455,7 +3534,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Regensburg, Salzburg): Copper, Lead, Salt, Silver (particularly at Freiberg and Goslar), Wine North (Cologne, Hamburg):</div>
 <div>Brass and Brassware, Salt, Cheap Weapons South: Flax, Timber, Wine</div>
-<div>The Holy Land and Ionian Asia Minor</div>
+
+<h3>The Holy Land and Ionian Asia Minor</h3>
+
 
 <h4>Principal Ports and Cities (Beirut,</h4>
 
@@ -3485,7 +3566,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Principal Ports and Cities (Arras,</h4>
 
 <div>Brussels, Bruges, Ghent, Liege, Utrecht): Brass (Liege), Copper, Dye (Woad, Madder), Linen, Cheap Silk Cloth, Tapestry, Timber, Wool Cloth (particularly sewn into luxurious trousers from Bruges)</div>
-<div>Romania and the Byzantine Successor States in Europe and Aegean Islands</div>
+
+<h3>Romania and the Byzantine Successor States in Europe and Aegean Islands</h3>
+
 <div>Romania (Constantinople): Honey, Olive Oil, Perfumes, Salt, Raw Silk, Cheap Silk Cloth, Slaves, Spices, Wax, Wine Crete: Saffron (small quantities), Wine</div>
 
 <h3>Southern Russia, Poland, and Hungary</h3>
@@ -3494,7 +3577,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Cheap Potash, Average Pearls, Timber, Wood Poland (Poznan, Wroclaw, Cracow): Wool Hungary (Zagreb, Pecs, Belgrade,</div>
 <div>Buda, Brasso, Esztergotti, Kolozsavar, Pozsony, Szeged, Temsevar): Copper, Foodstuffs</div>
 <div>(Cattle), Gold (small quantities), Leather</div>
-<div>Places So Far as to Verge on the Mythical</div>
+
+<h3>Places So Far as to Verge on the Mythical</h3>
+
 <div>Everywhere: Gemstones (type varies</div>
 <div>by place) Iceland: Falcons India: Diamonds, Dye (Brazilwood and</div>
 <div>others), Ivory, Pepper, Other Spices Persian Gulf: Gems, Pearls, Saffron,</div>
@@ -3513,21 +3598,29 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Ale and wine are measured in gallons and shipped in tuns. Eight pints equal one gallon, which is about 1/120 of a pipe, or about 1/240 of a tun. A tun defines the weight of a ton.</div>
 <div>Cloth is measured by length, in yards, or ells. Thirty-six inches equal three feet, or one yard. An ell can be up 45 inches, but varies widely. Light cloth, like silk, has greater length to the ton than heavy fabric, like canvas.</div>
 
-<h4>16 ounces = 1 pound</h4>
+<h4>16 Ounces = 1 Pound</h4>
 
 
-<h4>= 1/2,420 ton</h4>
+<h4>= 1/2,420 Ton</h4>
 
-<div>4 pecks = 1 bushel = 1/8 quarter</div>
 
-<h4>= 1/640 ton</h4>
+<h4>4 Pecks = 1 Bushel = 1/8 Quarter</h4>
 
-<div>8 pints = 1 gallon = about 1/120</div>
 
-<h4>pipe = about 1/240 tun</h4>
+<h4>= 1/640 Ton</h4>
 
-<div>36 inches = 3 feet = 1 yard</div>
-<div>Commodity Shoddy Standard Superior Expensive Notes</div>
+
+<h4>8 Pints = 1 Gallon = About 1/120</h4>
+
+
+<h4>Pipe = About 1/240 Tun</h4>
+
+
+<h4>36 Inches = 3 Feet = 1 Yard</h4>
+
+
+<h4>Commodity Shoddy Standard Superior Expensive Notes</h4>
+
 <div>Alum * 200 400 #</div>
 <div>Brassware 150 300 600 1500</div>
 <div>Copper * * * 200</div>
@@ -3561,7 +3654,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Prices of Goods Table</h3>
 
 <div>continued on next page</div>
-<div>Commodity Shoddy Standard Superior Expensive Notes</div>
+
+<h4>Commodity Shoddy Standard Superior Expensive Notes</h4>
+
 <div>Pewterware 375 750 1,500 # Expensive pewterware is unknown; people who could afford it buy silverware instead.</div>
 <div>Pitch 1 2 4 20</div>
 <div>Potash 20 # # 400 Potash has only cheap and expensive forms.</div>
@@ -3583,6 +3678,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Wool, Raw 25 50 100 500</div>
 
 <h3>Prices of Goods Table, Continued</h3>
+
+
+<h2>Price List</h2>
 
 <div>Unlike other fantasy roleplaying games, Ars Magica has not typically concerned itself with prices for common goods. A character’s personal possessions are determined by her Social Status Virtue and the troupe’s general idea of appropriate starting items, rather than the amount of common coins she has jingling in her wallet. With a new emphasis on craftsman and merchants, however, stories may drift into the arena of personal expenses and available spending money. A fair will be more fun for a grog if he has twelve shillings to spend, for example, than if the storyguide waves her hands and says, “you have enough for a dagger and a night spent drinking.”</div>
 <div>This section details medieval money and offers a suggested price list for common goods. Prices are listed for story flavor, to help give storyguides an idea of how much an individual dagger will cost a player’s character. These prices should not be used to detail annual incomes of merchants or crafters.</div>

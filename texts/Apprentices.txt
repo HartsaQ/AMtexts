@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -8,6 +12,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter One</h1>
+
+
+<h2>Introduction</h2>
 
 <div>Welcome to Apprentices, a supplement for Ars Magica Fifth Edition. Every magus, regardless of House, begins his magical career as an apprentice, and this supplement focuses on that time in a character’s life. While power and prestige may await him, an apprentice’s life can also be tiring and unglamorous. He is surrounded by his studies — reading, writing, the seven liberal arts, the practice of spellcasting, and the intricacies of enchantments — and is regularly subjected to noisome work and tedious labor. Living within a covenant, an apprentice also plays with his friends, explores the wondrous magical and medieval world of Mythic Europe, and unavoidably gets into trouble. Apprentices also includes guidelines and stories for other child characters as well — unGifted boys and girls with different backgrounds. The sons and daughters of the covenant’s inhabitants, children are a natural manifestation of any long-running saga. Grog and companion-level child characters are the playmates, friends, enemies, and antagonists of apprentices, and can be as important as they are. Descriptions of childhood during the medieval period provide the stage for these characters, who await your troupe’s imagination to scamper through their own adventures.</div>
 
@@ -28,6 +35,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>tunates fail apprenticeship, losing their Gift but still remaining useful in the Order. Bellum is magical game that adolescent apprentices and young magi play to practice their Arcane Abilities. An Hermetic apprenticeship closes with the Gauntlet, a test to determine if an apprentice is ready to swear the Oath of Hermes and join the ranks of magi as a true magus. Other aspects of adolescence are included, those that affect both Gifted and unGifted boys and girls: growing up, getting married, and navigating the supernatural forces that await every adolescent in Mythic Europe with interest. One final caveat: situations will occur in which you and your troupe must decide how to apply the information contained in this supplement to rules found in other Ars Magica Fifth Edition products. Every character has had a childhood and the childhood rules can be used for every character in Mythic Europe, but how that specifically happens depends on the character, her location, and her role in your stories. Learned Magicians, Muspelli, diabolists, spirit votaries, and faerie doctors all had childhoods, but a volume of this size cannot address all of the issues that arise when addressing specific concerns with the panoply of non-Hermetic traditions that exist in Mythic Europe. Use Apprentices as a guide to further the enjoyment of your adventures in Mythic Europe.</div>
 
 <h1>Chapter Two</h1>
+
+
+<h2>Creating Young Characters</h2>
 
 <div>Creating characters younger than adults is similar to creating adult characters: a player starts with a concept and then selects game specific attributes to define the character in play. Example childhoods are provided for those desiring assistance. Because children interact with the game world differently from adult characters, many of these attributes — Characteristics, Virtues & Flaws, Abilities, etc. — need adjusting when applied to young characters. Like an adult character, a younger character is detailed as he exists at the moment he begins play. For example, if you are creating a 10-year-old character, that character is mechanically defined as he exists at 10, not as you would like to see him as an adult. It is fine to think that the knight’s son you are creating will eventually become a knight, but the character you are playing is not a knight at the time you are creating him. This is important. All characters change, a natural consequence of interacting with other players’ characters and the troupe’s Mythic Europe. Because he is growing, a child character initially changes more than an adult, and Apprentices will help you manage those expected changes. It is natural, although not nec</div>
 <div>essary, to foresee a desired end for a child character’s growth. While I might be creating a knight’s son as my character, I ultimately envision the character as a knight when he comes of age. Players who enjoy such forecasting can influence a character’s future development by guaranteeing predetermined Virtues and Flaws (see Inherited Virtues and Flaws later in this chapter). Discuss with your troupe how you see these Virtues and Flaws developing, and ask their assistance in steering the character along this path. Besides predetermined Virtues and Flaws, there are methods that allow your young character to change as he grows into an adult. There are also set stages that allow you to change your character if he has not developed to your liking, changing the character so he more accurately reflects your vision of him.</div>
@@ -97,10 +107,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>possessed. For example, a young squire (Minor Virtue: Son of Knight) kills a priest and becomes an outlaw (Major Flaw: Outlaw). In such cases, simply change the Social Status Virtue or Flaw. You do not need to change other Virtues and Flaws, nor do you need to re-balance the character’s total allotment of Virtues and Flaws to account for the change.</div>
 </div sidebars>
 
-<div>Apprentices Virtues That Grant Experience Points</div>
+
+<h3>Apprentices Virtues That Grant Experience Points</h3>
+
 <div>Some Virtues, like Warrior and Educated, give characters additional experience points by indicating that the character had a past that warrants such a boon. A younger character’s past is not extensive enough to account for these experiences and such Virtues are prohibited for characters created younger than 14. Both the Skilled Parens Virtue and the Weak Parens Flaw make assumptions about the parens of the character who selects them. Something about the magus is especially strong or uncharacteristically weak. If you are following a standard apprenticeship for the young character (see later), a Skilled Parens must generate a Teaching Source Quality of 18, or have a combined Communication + Teaching of 9, and needs a highest applicable Lab Total of 50. A Weak Parens can only generate a Teaching Source Quality of 8, meaning his combined Communication + Teaching must be –1, and his highest applicable Lab Total can only be 30. The Skilled Parens Virtue and Weak Parens Flaw are prohibited if the apprentice character’s sources of instruction, including parens, covenant, and library, have stats. If the parens is not detailed, perhaps an NPC without stats, then the Virtue or Flaw may be selected. A Skilled Parens has a Teaching Source Quality of 19, and teaches an apprentice Abilities and Arts 12 times (1 season for 12 years). He also has a highest applicable Lab</div>
 <div>Total of 50 and teaches the apprentice spells three times (one season for three years). A Weak Parens has a Teaching Source Quality of 8 and a highest applicable Lab Total of 30 for teaching spells.</div>
-<div>Virtues & Flaws That Affect Size</div>
+
+<h3>Virtues & Flaws That Affect Size</h3>
+
 <div>All human babies are born Size –3. A normal baby grows to Size 0 by age 14, but not everyone is normal in Mythic Europe. Some characters are smaller or larger than their peers. During the first year, a baby who will become larger or smaller than normal grows differently from other babies, and by the end of that year is noticeably different. A character with a Virtue that increases her Size applies the adjustment after 1 year, so that by her first birthday she is Size –2 (if Large) or Size –1 (if Giant-Blooded). Continue to adjust the character’s Size throughout her childhood. Characters who are smaller than normal remain stunted, and while her playmates grow in size, she does not. Continually adjust a smaller character’s Size downward, keeping in mind that a human baby cannot be smaller than Size –3. This means that smaller characters remain smaller during their childhood. A character with the Flaw Small Frame, for example, will stay Size –3 until he is 12, when he changes to Size –2. A Dwarf stays Size –3 until he is 14, when he becomes Size –2.</div>
 
 <h3>Inherited Virtues & Flaws</h3>
@@ -194,6 +208,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>years the apprentice’s parens needs a highest applicable Lab Total of 40. Thus, each year the apprentice gains 40 experience points to spend on spells. As learning spells is a Laboratory Activity, the apprentice gains 2 experience points from exposure in every season, for a total of 8 over the year. At the end of the final three years, the apprentice has gained 120 spell levels and 24 experience points. The grand total of 15 years of apprenticeship using this model is 241 experience points and 120 spell levels.</div>
 
 <h1>Chapter Three</h1>
+
+
+<h2>Infantia: Birth to Age 7</h2>
 
 <div>She urged all that was possible to divert me from marriage — that it was a bond always fatal to a philosopher; that the cries of children and the cares of a family were utterly inconsistent with the tranquility and application which study require.</div>
 <div>— Peter Abelard, Letter to Philintus</div>
@@ -322,7 +339,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Negative Characteristic and Size modifiers from age make an infant character extremely fragile. Because his Stamina is modified by age, his Soak is low, and his small</div>
 
 <div sidebars>
-<div>Turbulences and the Aegis of the Hearth</div>
+
+<h3>Turbulences and the Aegis of the Hearth</h3>
+
 <div>Because your saga probably takes place in an Hermetic covenant, you need to know how a Turbulence interacts with the covenant’s Aegis of the Hearth. Essentially, treat the Turbulence like any other magical effect. If the child incurring the Turbulence participated in the Aegis of the Hearth spell, then the Turbulence is not hindered by the Aegis. If the child didn’t participate in the Aegis, then the Turbulence is affected, and likely won’t happen. Subtract half the level of the Aegis of the Hearth spell from the roll the player makes to incur a Turbulence. There is still a chance that the Turbulence happens, but it is very slim. Magi debate whether apprentices who still suffer Turbu</div>
 <div>lences should participate in the Aegis ritual. An apprentice must be able to work magic, and her regular practicing of low-level spells and spontaneous effects would be crippled by even the weakest Aegis. Learning an Art means that the student practices it during instruction, which necessitates the casting of low-level spontaneous spells. Some magi argue that an apprentice should be given an invitation token, like a visiting magus, which can be taken away at will, allowing only specific times during which the apprentice can cast spells and practice magic. At other times, when he doesn’t have an invitation token, the apprentice can’t practice magic and can’t incur Turbulences.</div>
 </div sidebars>
@@ -363,7 +382,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>An infant character passes the day playing with a household item that her family values: perhaps the family’s only ladle, her father’s favorite shovel, or her mother’s silver necklace. Summoned for supper, the child leaves it outside and doesn’t remember leaving it behind until later, while lying in bed for the night. Fearful of the repercus</div>
 <div>sions, the infant slips out of bed and dashes off to where she last saw the item. It is gone. Did faeries take it? Another child? Or did her father or mother pick it up, meaning a wake-up whipping is waiting? The child wakes his siblings, and perhaps sympathetic adults (a nanny or other covenfolk), and a midnight hunt for the item begins.</div>
-<div>Story Seed: Who Stole the Baby?</div>
+
+<h3>Story Seed: Who Stole the Baby?</h3>
+
 <div>A Gifted baby is stolen from her cradle in the night. The family’s hue and cry brings the player characters (all grog-level villagers) in the morning, and the village elder charges the player characters with finding and returning the baby. The trail leads through the nearby woods and</div>
 <div>into the unknown hills. Is the culprit a troll intent on eating the child, an elf who forgot to leave a changeling replacement, a hedge wizard planning to sacrifice the child, or an Hermetic wizard who plans on raising and training the baby? And which fate is worse?</div>
 </div sidebars>
@@ -386,6 +407,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter Four</h1>
+
+
+<h2>Pueritia: Ages 8 to 14</h2>
 
 <div>Childhood lasts from the ages of 8 to 14, universally regarded as the age when a child enters puberty. Transitioning from infancy, childhood is characterized by concentrated social learning and prolonged forays from the family hearth into the complicated world of adults. At this stage of life, a child is able to assist the same gender parent in daily chores, either in the household or in the field or workshop. This is the age when noble boys and girls are fostered, leaving their family home to live with another noble family. Boys destined for the clergy often spend the day learning to read from the local priest or parish clerk. UnGifted child player characters are likely to be sons and daughters of covenfolk or nearby companion-level characters. Just like a son being incorporated into his father’s vocation, so too can a child mimic his father’s various adventures. At this stage in life, child characters can travel short distances by themselves, and can serve as useful messengers, servants, and errand boys. A daughter could be left unattended to weed a garden,</div>
 <div>ordered to fetch water, and stationed at home to watch younger children. Covenants provided a kinder atmosphere for Gifted children. While each individual suffers the same pangs of social revulsion engendered by a child’s Gift, overall the covenfolk know about these feelings, and many become used to the child over time. Again, proximity is the issue. A covenfolk who spends most of his life outside the immediate grounds — a wood cutter, charcoal burner, or shepherd — will never get over</div>
@@ -487,7 +511,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Simply meeting or exceeding the required Lab Total Opens the Arts of the apprentice, but destroys the Supernatural Ability. To maintain exciting Supernatural Abilities, the Lab Total must double the necessary level. Supernatural Abilities can also be converted into Hermetic Virtues, if the parens’ Lab Total is high enough. Maintain or converting is the parens’ decision. Supernatural Abilities derived from a Minor Supernatural Virtue convert into Minor Hermetic Virtues, and a Supernatural Abilities derived from Major Supernatural Virtues change into Major Hermetic Virtues. If converted, Supernatural Abilities must normally change into Hermetic Virtues that the parens possesses. This is similar to teaching the apprentice Hermetic Virtues (see later); only Hermetic Virtues possessed by the magus can be passed on, either through teaching or converting. While the parens need not know how to perform the Supernatural Ability, he must know how to perform the Hermetic Virtue. Alternatively, the parens may convert a Supernatural Virtue into an Hermetic Virtue he does not know, if the two Virtues are very</div>
 
 <div sidebars>
-<div>Story Seed: I’m Not Going Anywhere!</div>
+
+<h3>Story Seed: I’m Not Going Anywhere!</h3>
+
 <div>Magi like to think that returning to the covenant with a Gifted child in tow is easy. Storywise, it is only if you want it to be. Most likely, the child is meeting the magus for the first time and reacts negatively to his Gift. Escape, not accompaniment, is a likely first thought. An interesting initial adventure might be for the player characters to re</div>
 <div>turn to the covenant with a Gifted player character child. The child does everything possible to escape, while the other players act to contain the child without hurting her. This could be especially fun if the other player characters are grogs or companions, and do not have the necessary magical means to easily transport the child.</div>
 </div sidebars>
@@ -663,7 +689,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>ReAn 4 R: Voice, D: Conc, T: Ind This spell animates a shoe, making it caper and jig under the caster’s control. Cast on a shoe that someone is wearing, the spell causes the wearer to stumble. (Base 1, +2 Voice, +1 Conc)</div>
 
 <div sidebars>
-<div>Optional Rule: Learning Cantations in Play</div>
+
+<h3>Optional Rule: Learning Cantations in Play</h3>
+
 <div>Most magi don’t take the time to teach cantations to apprentices. It is not the most effective use of time and a younger apprentice will be limited in what she can learn. An optional rule is to let the repeated casting of a low level spontaneous spell become a formulaic spell. At some point in the apprentice’s mind, casting the same spontaneous spell over and over again</div>
 <div>eventually becomes “known,” the definition of a formulaic spell. Using this rule allows a player to spend adventure experience points on a spontaneous spell his character used in play to turn it into a formulaic. He must use the same spell repeatedly, at least as many times as the level of the spell. If this condition is met, the player can buy the spell with ex</div>
 <div>perience points earned from the adventure. The level of the spell determines its cost, at one experience point per level. If you use this rule, it should also be available to adult magi. However, adult magi can invent many cantations in a single season, and thus are unlikely to want to take advantage of the rule very often.</div>
@@ -713,6 +741,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Five</h1>
 
+
+<h2>Adolescentia: Ages 15 to 21</h2>
+
 <div>Adolescence is the third stage of life, running from 15 to 21 years of age. Poets refer to this as the age of lovers, when a boy is no longer a child, yet not quite a man. An adolescent boy is given adult responsibilities while still receiving the tolerance his youthful years deserve. At 15, a character’s Characteristics are no longer penalized for age, meaning that he often shifts into more adult roles. It is common for a 15 year old boy to join his lord’s levy and march to war, or for an apprentice to stand in for her parens rather than merely assisting him. Adventures can lose their childhood focus and become more mature. The teenage years bring all sorts of accompanying troubles. Puberty is a complicated mix of emotions, and years immediately following are fraught with anxiety, expectations, and inclusion into a new world of adult behavior. Romantic issues assume a sudden and overwhelming importance, often to the point of distraction. Time that was once</div>
 <div>spent in study or play is now interrupted by penning love poems and dreamily gazing out tower windows. An apprentice achieves his maximum usefulness to his parens during this stage of life. Besides becoming an important laboratory assistant, the apprentice can perform other tasks in place of his parens. With several years of training under his belt, the apprentice might start performing duties that would otherwise require the magus to waste time on lesser projects, or that would distract him</div>
 <div>from his work. The invitation to assist a master in the lab is an important rite of passage and a sign of great status among an apprentice’s peers, since it carries the connotation that the apprentice is no longer a child.</div>
@@ -725,10 +756,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Village girls unite to do laundry at the well, and boys unite to drive the cows to pasture. Rural adolescents may have a younger sibling in tow, charged with watching the child in addition to their work. A good many rural adolescents leave home during this time and head for town, which offers better employment opportunities, unsupervised freedom from parents, and the intoxicating lure of urban excitement. Not every adolescent goes willingly. Some are sent against their wishes by parents who hope to provide their children with a better livelihood. These adolescents are in addition to the number sent as apprentices to city guilds and those sent for institutional education. Besides working menial labor jobs, of which there are many, the vast majority of rural adolescents become</div>
 
 <div sidebars>
-<div>Story Seed: Against the Master’s Wishes</div>
+
+<h3>Story Seed: Against the Master’s Wishes</h3>
+
 <div>In many areas of Mythic Europe, peasants are forbidden to leave the land they work without the permission of their feudal master. An adolescent who leaves home for the city is actually breaking the law. A landed noble notices that several of his serfs’ sons are leaving the manor and heading to town, and asks the magi if they can help retrieve the boys.</div>
 <div>The player characters could be the fleeing apprentices, trying to outrun the noble’s pursuing posse, or agents from the covenant sent to retrieve the boys. This could be a good introductory adventure. Players make adolescent characters who then flee home, heading for the nearest city but inadvertently meeting the covenfolk and magi sent to find them.</div>
-<div>Story Seed: The Thrills of Love</div>
+
+<h3>Story Seed: The Thrills of Love</h3>
+
 <div>Romantic infatuations strike the young quickly and ferociously, generated by a single glance, a casual touch, or a scented letter. Adolescents may abandon their sense of reason to chase a pretty face, braving all sorts of dangers just to be near the one they love. This is the stuff of many medieval legends and the romance literature popular in the 13th century. Any character can suffer Cupid’s darts. Love strikes without mercy, and storyguides should feel justified in simply stating that a player’s adolescent character sees a beautiful face and instantly falls in love. Use this to propel stories, not to punish or penalize players.</div>
 <div>The obstacles to the character’s desire to be near his love should seem insurmountable. Social and cultural barriers must be crossed: reluctant fathers persuaded, jealous rivals dueled, midnight rendezvous arranged, and love letters and items of affection must be covertly passed back and forth. The social suspicion fostered by The Gift can be detrimental, although the apprentice still feels the stings of unrequited love. Obvious obstacles aside, adolescent infatuation can be additionally complicated emotionally. Perhaps the apprentice’s beloved does not return his affections, or is betrothed to another. Love affairs, secret or declared, can</div>
 <div>become unbelievably entangled. For example, a visiting Tytalus magus arrives at the covenant with his 14 year old daughter in tow. Although she isn’t Gifted, she is still the daughter of a powerful magus. To make matters worse, she is beautiful beyond measure to the (admittedly naïve) adolescent player characters. During her stay, the youths vie for her attentions, and if one of the adolescents is an apprentice, the competition should be fierce and extremely entertaining. The Tytalus’ daughter plays up the rivalry, her head full of romantic notions, encouraging her suitors and hoping to provoke them into a duel.</div>
@@ -803,7 +838,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Covenants introduced lab Virtues and Flaws, which describe laboratory merits and defects. Shared Lab is a Free Outfitting Flaw. The lab is not large enough</div>
 <div>for the resident magi working on independent projects, each of whom needs at least 500 square feet of space. –2 General Quality, –2 Safety</div>
-<div>Story Seed: Where Did the Cat Go?</div>
+
+<h3>Story Seed: Where Did the Cat Go?</h3>
+
 <div>A magus is spending a season making a magical cat his familiar, when the cat decides to go for a stroll. One of its powers is to shape-change into a person, which it does, and heads into the fields to play with the peasants.</div>
 <div>The magus orders his apprentice to bring the cat back by nightfall. The adolescent, who doesn’t know the peasants very well, asks other adolescent covenfolk to help him. Can the characters find and return the cat in time?</div>
 
@@ -826,7 +863,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>loses the match. If he is successful, however, he casts a second spell at his opponent. This spell can jostle his opponent, distract him, confuse him, or otherwise interfere with him maintaining his spell. The opponent must make a Stamina + Concentration roll to see if he can maintain his Ager Belli spell. The storyguide must decide the Ease Factor based on the second spell’s effect, using the sug</div>
 
 <div sidebars>
-<div>Story Seed: Where Are My Bat Wings?</div>
+
+<h3>Story Seed: Where Are My Bat Wings?</h3>
+
 <div>During a seasonal laboratory activity, the magus runs out of bat wings. The apprentice must travel to the far side of the forest and spend an evening catching live bats. Friends in tow, the apprentice leads a group of same-age</div>
 <div>grogs to the selected location. Anything could happen: the apprentice catches too many bats in a net and they carry him away, he catches another magus’ familiar bat, or the first bat he catches is really a faerie prince.</div>
 

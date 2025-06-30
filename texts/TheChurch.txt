@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -71,13 +75,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Trait Pious, if any. Negative scores in Pious are irrelevant here, as an impious character does not possess Devotions.) Assign a Devotion Score of 0 to a number of saints (or the Virgin) equal to a character’s positive score in the Personality Trait Pious (if any) — again treating the Minor Personality Flaw as a score of 3, and the Major Flaw as a score of 6 — and then distribute the Devotion Points among them. Further Devotions may be acquired in play, usually requiring a story or significant event related to the saint and character. Subsequent increases or decreases in the Personality Trait Pious after the game begins have no mechanical effect on Devotions, and Devotion Points are neither gained nor lost through these changes.</div>
 <div>The Benefits of Devotion</div>
 <div>The character can invoke for intercession any saint he has at least one Devotion Point in a Devotion towards, regardless of whether or not the saint is the character’s patron saint or an appropriate saint to the matter at hand. Pious characters are likely to call upon more saints with greater success, because of their established relationships with those saints. Realms of Power: The Divine, page 87, introduced the notion of invoking a saint, and the Devotion scores are used as bonuses in that process.</div>
-<div>Invoking a Saint: Communication + Charm + modifiers* + a simple die vs. 15 + a simple die</div>
+
+<h4>Invoking a Saint: Communication + Charm + Modifiers* + a Simple Die Vs. 15 + a Simple Die</h4>
+
 <div>* In this case, including the Devotion Total — that is, the score in Devotion to that saint — and the bonus from any relics of that saint (see later).</div>
 <div>If the roll is successful, the saint uses one of his or her Divine powers to help the character. If the roll fails, nothing happens, but you may attempt the roll again the next day. In addition to the sacraments, Christianity in Mythic Europe possesses a plethora of minor folk rituals and prayers, known as sacramentals. These range from prayers</div>
 <div>designed to cure toothache, to ritual blessings of crops and animals, to prayers designed to win the affections of a good husband, find lost items, or ensure peace and prosperity in a house. Many of the rites appear almost pagan to some eyes, but are in fact part of the normal Christian practice. These rites are versions of invoking a saint using the normal rules, and may involve anything from a procession of the whole parish on the saint’s day, to a simple prayer performed by a couple on moving into their new house. Dominion Lore may often provide a clue as to an appropriate saint to invoke, and even if the saint is not a patron, the specific situation of the rite means that saint counts as appropriate to the task in hand, and the –15 penalty for invoking an unknown saint is not applied (Realms of Power: The Divine, page 87). Storyguides should design appropriate Powers for saints to reflect local customs and hagiography. For example, if the village church is dedicated to Saint Jerome, the congregation may know of his Power that pacifies wild beasts. If a young woman wishes to be become pregnant, and leads a white bull on a halter through the streets of Bury Saint Edmunds with the monks in solemn possession, Saint Edmund’s power to Bestow Fertility is appropriate. Many local saints possess the power to Bless Crops or Bless Livestock, and are invoked solemnly in annual festivities.</div>
 <div>Relics & Devotion</div>
 <div>Possession of a relic associated with a specific saint gives a bonus of +2 to the Devotion Total per Faith Point in the relic for asking for that saint’s intercession, but does so no more than once a day. Even if the character lacks a Devotion towards the saint whose relic is carried, he does not incur the –15 penalty for invoking an unfamiliar saint and does gain the bonus for the relic. Only one individual may use the bonus, and he must tend or carry the relic personally. However, a relic visited in a shrine can be employed for the bonus if the custodians agree, by intense veneration lasting a day.</div>
-<div>Relic Bonus: (Faith Points in relic) x 2 bonus to Devotion Total</div>
+
+<h4>Relic Bonus: (faith Points in Relic) X 2 Bonus To Devotion Total</h4>
+
 <div>The Costs of Devotion</div>
 <div>Devotion requires the observance the saint’s day each year — so Thomas the shoemaker will be busy on the Feast of the Queen of Heaven (May 1st), and August 24th (Saint Bartholomew’s Day), and most likely November 20th (Saint Edmund’s Day). A character failing to</div>
 
@@ -91,30 +99,50 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Gaining Devotion Points</div>
 <div>A character can gain Devotion Points by various activities. It is possible to gain Devotion Points and Experience Points in the same season, and even for the same activity; Devotion Points must be spent on the appropriate Devotion, though, and may be used for no other purpose.</div>
 
-<h4>Seasons of personal devotion</h4>
+<h4>Seasons of Personal Devotion</h4>
 
 <div>Spending a season engaged in prayer and meditation at a shrine to a saint earns 5 Devotion Points. The only Experience Points gained are exposure in Church Lore or Dominion Lore or similar.</div>
-<div>Endowing a church, chapel, or monastery dedicated to the saint</div>
+
+<h4>Endowing a Church, Chapel, Or Monastery Dedicated To the Saint</h4>
+
 <div>Depending on the size of the institution created, the number of seasons involved in setting it up, and whether a story is required, the number of Devotion Points gained varies from 5 to 50; the former represents a small chapel founded without a story, the latter the building of a cathedral at the center of a saga and many stories.</div>
-<div>Participating in a guild dedicated to the saint</div>
+
+<h4>Participating in a Guild Dedicated To the Saint</h4>
+
 <div>Many professional guilds are dedicated to a saint, and annually observe the festival of that saint. Characters receive 3 Devotion Points on joining the guild, and 2 each on becoming a journeyman and a master. Not all guild members are pious, of course, and even those who are are not necessarily devoted to their guild’s saint. (See City & Guild page 41, for more on guild membership from a mundane perspective.)</div>
-<div>Visiting a site associated with the saint</div>
+
+<h4>Visiting a Site Associated With the Saint</h4>
+
 <div>This may include the tomb, a major relic, or the martyrdom site of the saint, or a site associated with a great miracle of that saint. This is worth 1 to 10 Devotion Points. If the tomb or martyrdom site is in the character’s home town, no more than 1 point may be gained. If it requires a journey that takes a season, is part of a pilgrimage (a seasonal activity explained later), or the character has to go out of his way to visit the shrine, then it is worth 5 points or more. If an entire story is based on the visit to the tomb, and it is hazardous and requires a full season’s travel, 10 Devotion Points may be gained. This is usually a one-time benefit.</div>
-<div>Sponsoring church artworks associated with the saint</div>
+
+<h4>Sponsoring Church Artworks Associated With the Saint</h4>
+
 <div>This includes things like wall paintings, altars, or windows. It should usually be part of a story, and grants a number of Devotion Points equal to the Aesthetic Quality of the final artwork. (See Art & Academe, page 123, for details on Aesthetic Quality.) Such stories usually revolve around finding an artist, and getting the artwork completed. This may also result in a positive reputation as a patron of the arts or of the Church (see Lords of Men, pages 25 and 63, for details). Only the best artwork per saint counts; multiple frescoes in churches all over the region to the same saint do not continue to increase Devotion, unless each is of higher quality than the last.</div>
-<div>Studying the hagiographies to meditate on the saint’s life</div>
+
+<h4>Studying the Hagiographies To Meditate On the Saint’s Life</h4>
+
 <div>A hagiography is a book on a specific saint’s life. A season spent studying a hagiography that is entirely about the saint to whom the character is Devoted is worth Devotion Points equal to Quality/2. More general works on the saints that cover many saints’ lives usually grant 1 Devotion Point for a season of study; but even if the book is a summa, it can grant only 1 Devotion Point per saint, no matter how many</div>
 <div>seasons are spent in study. A work by the saint counts as a hagiography for this purpose — reading Saint Augustine’s City of God grants 5 Devotion Points per season in Devotion: Saint Augustine (as the work has a Quality of 10) to readers dedicated to the saint. The normal Experience Point gain for studying a text is also received.</div>
-<div>Furthering the cultus of the saint</div>
+
+<h4>Furthering the Cultus of the Saint</h4>
+
 <div>Having a candidate approved by Rome as an official saint on the Church calendar is an example of furthering the saint’s cultus. The process for this kind of action is discussed later in this book (Chapter 3: The Diocese, Petitioning the Church). Having the saint recognized by the Church as an official saint, having one of his works formerly deemed heretical now accepted as doctrinally sound, or having a church dedicated to that saint consecrated earns Devotion Points equal to the Petitioning Ease Factor.</div>
-<div>Witnessing a genuine miracle of the saint</div>
+
+<h4>Witnessing a Genuine Miracle of the Saint</h4>
+
 <div>This can be a miracle that the character personally invoked, or one for which the character just happened to be present. The miracle is worth 5 to 10 Devotion Points, though if a miracle of the saint is used to thwart the character no benefit is gained, and he may well lose an equivalent number of Devotion Points. A 10-point gain should be restricted to cases where the character’s life was saved by the intervention. If the miracle was invoked trivially and without real need, the saint may well be angered and no Devotion Points may be gained.</div>
-<div>Sponsoring or participating in the saint’s feast day procession</div>
+
+<h4>Sponsoring Or Participating in the Saint’s Feast Day Procession</h4>
+
 <div>If participation in the procession is part of a story or somehow inconveniences the character, such as requiring a long journey, 1 Devotion Point is gained. If the saint is somehow honored through a story, more than is usual, the character gains 1 to 5</div>
 <div>additional Devotion Points depending on the cost and effort involved. For example, if the Guild of Saint Bartholomew manages to get a position ahead of the Guild of Saint Peter in the Easter Day procession, or has by far the finest decorations, an additional Devotion Point is gained. Sponsoring a procession and feast (see Lords of Men: Leisure, page 46, for more on feasting) grants the character 1 to 5 additional Devotion Points, depending on the cost and effort that goes in to the sponsorship.</div>
-<div>Pilgrimage in honor of the saint, and acquiring the pilgrimage badge</div>
+
+<h4>Pilgrimage in Honor of the Saint, and Acquiring the Pilgrimage Badge</h4>
+
 <div>Pilgrimages are outlined in detail later in this chapter.</div>
-<div>Experiencing a dream or vision from a saint</div>
+
+<h4>Experiencing a Dream Or Vision From a Saint</h4>
+
 <div>A character with Visions or Premonitions who, during a story, experiences a dream or vision from a saint to whom he is devoted gains 1 Devotion Point.</div>
 <div>False Devotion</div>
 <div>Devotion can be directed at any saint popularly acclaimed as such, whether or not he is officially recognized and canonized by the Church. It is quite common for people to be devoted to saints not yet recognized by the Church because the process of canonization has not begun, or because they are only popularly venerated locally. Canonization is not a requirement for someone to be in heaven and able to intercede, after all. Such saints can still work miracles by their Powers. It is unfortunately possible to be Devoted to, invoke, or just venerate someone who actually was a heretic, or aligned with a different realm — even the Infernal. However, this is not as dreadful a possibility as it first sounds. Dulia — proper respect granted to an entity, even a demon — is not worship, and neither is Devotion to a saint. The saint is merely asked to intercede on behalf of the character with God.</div>
@@ -138,7 +166,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>Total of Oppositional</h4>
 
-<div>Elements Values = Pilgrimage Target Level</div>
+
+<h4>Elements Values = Pilgrimage Target Level</h4>
+
 <div>Some Oppositional Elements will be shared by all the pilgrims in the group, while others will be personal to one character. Examples are below:</div>
 <div>Value: +3 Oppositional Elements: Per season spent on pilgrimage; Face natural hazards such as virulent disease (see Art & Academe, pages 45–51); Pilgrimage involves travel in a Christian land outside the character’s current home</div>
 <div>land and native land*; Per temptation faced of a sort to which the character is prone to succumb; Face another trial of faith and perseverance, as designed by the storyguide.</div>
@@ -173,7 +203,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>Experiencing Divine Ascent</div>
 <div>The rules for Divine Ascent are in Realms of Power: The Divine, page 63, but the sections relevant to monistic and contemplative mystics are briefly summarized here for convenience. When a character aligned to the Divine realm gains 2 or more (or 1 or more for monistics who have already experienced Divine Ascent) Warping Points from a single event, she experiences Divine Ascent, in much the same way Hermetic magi experience Wizard’s Twilight. Add the Warping Points to the character’s Warping Score, and then roll:</div>
-<div>Divine Ascent: Presence + Concentration (or Meditation) + Stress die vs. Warping Score + Warping Points gained + True Faith Score local aura + stress die (no botch)</div>
+
+<h4>Divine Ascent: Presence + Concentration (Or Meditation) + Stress Die Vs. Warping Score + Warping Points Gained + True Faith Score Local Aura + Stress Die (No Botch)</h4>
+
 <div>If the character succeeds, she is too tied to the mundane world to temporarily ascend to the Divine. If she fails, she experiences Divine Ascent, which takes the form of Divine Form for Contemplatives and Divine Gloom for Monistics (see later). She receives a number of additional Warping Points equal to the margin by which the test was failed.</div>
 <div>Personality Traits, Sins, and Tempers</div>
 <div>Personality traits can be assigned to two categories, Sins and Tempers, to help understand a character’s overall orientation. This table first appeared in Realms of Power: The Divine, page 40.</div>
@@ -205,9 +237,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Path Total: 27 Revelation: To discover a path to a Major Holy Method, Power or Supernatural Ability.</div>
 <div>Path Total: 30 Revelation: To discover a path to a Major Virtue, other than the above.</div>
 <div>Subtract the character’s current score in the Personality Trait Pious from the Path Total to calculate the Path Target.</div>
-<div>Path Target = Path Total – score in Personality Trait Pious</div>
+
+<h4>Path Target = Path Total – Score in Personality Trait Pious</h4>
+
 <div>A Supernatural Ability associated with the Divine gained in this manner is gained at a score of 1, and is not penalized by existing Supernatural Abilities or Arts. Perhaps surprisingly, the Virtue True Faith can never be gained by a Spiritual Path. Developing the Spiritual Path requires a series of Quest Components with a total value at least equal to the Path Total for the desired Revelation.</div>
-<div>Total Quest Component Values = Path Total</div>
+
+<h4>Total Quest Component Values = Path Total</h4>
+
 <div>Example Quest Components include, but are not limited to:</div>
 <div>Value: +1 Quest Components: The mystic sacrifices a Season serving the poor or the Church in some capacity, such as by tending the sick; ; 	 The mystic spends a season in personal devotion, gaining one Devotion Point towards a saint or the Virgin, but no</div>
 <div>experience points except exposure in Dominion Lore.</div>
@@ -235,7 +271,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 <div>who spends a season practicing the Supernatural Ability Sense Holy/Unholy would gain 8 experience points, not the usual 4. On experiencing Divine Ascent, the character may attempt to understand the experience and integrate a Revelation in a manner similar to the way Hermetic magi attempt to understand Wizard’s Twilight.</div>
-<div>Monistic Revelation Integration: Intelligence + Concentration + stress die vs. Warping Score + stress die (no botch)</div>
+
+<h4>Monistic Revelation Integration: Intelligence + Concentration + Stress Die Vs. Warping Score + Stress Die (No Botch)</h4>
+
 <div>If the test is failed, Divine Gloom occurs as normal. If the roll succeeds, the character still experiences Divine Gloom but the player may also select one of the following:</div>
 <div>•	 She may choose not to lose experience from mundane Abilities, though the character still gains the Warping Points and the experience points in her Holy Abilities; OR, •	 The character may take a new appropriate Minor Virtue if 3 or more Warping Points were gained, or Major Virtue if 5 or more Warping Points were gained — one that reflects the nature of the Revelation. The first Revelation gained is always the Virtue Second Sight; OR, •	 If the character gains 7 or more Warping Points from the experience, and succeeds in the Spiritual Integration test, this option may be selected. The character may choose either the Magic</div>
 <div>or Faerie Realm, and may subsequently substitute her Dominion Lore Ability for that (Realm) Lore Ability in any total or test. She has come to recognize the Divine within that Realm. She may choose this option again on another occasion, so that she becomes able to substitute Dominion Lore for both Faerie Lore and Magic Lore; OR, •	 Finally, having integrated both the the Magic and Faerie Realms into her cosmological understanding, the character may choose to do the same with the Infernal, seeing the Infernal as simply an agent of the Divine that is subservient to the Divine Will.</div>
@@ -332,7 +370,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>The Pope, Cardinals, & Archbishops</h4>
 
 <div>Required Virtues and Flaws: Senior Clergy; Commanding Aura, Temporal Influence. Recommended Virtues and Flaws: Monastic Vows; Vow. Recommended Minimum Ability Scores: Artes Liberales 1, Church Lore 5, Civil and Canon Law 5, Dead Language: Latin 5, Theology 3.</div>
-<div>Bishops, Abbots, Archdeacons, Deans, & Senior Curia Officials</div>
+
+<h4>Bishops, Abbots, Archdeacons, Deans, & Senior Curia Officials</h4>
+
 <div>Required Virtues and Flaws: Senior Clergy. Recommended Virtues and Flaws: Monastic Vows; Regular (for abbots),</div>
 <div>Temporal Influence, Vow. Recommended Minimum Ability Scores: Artes Liberales 1, Church Lore 3, Civil and Canon Law 3, Dead Language: Latin 5, Theology 1.</div>
 
@@ -440,7 +480,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Rank: Priest Church Lore Ease Factor: 12</div>
 <div>Rank: Bishop Ease Factor: None; bishops are elected.</div>
 <div>Whether the Examination Total is generated using the character’s Church Lore or Civil and Canon Law Ability Score depends on the rank being obtained.</div>
-<div>Ordination Examination Total: Intelligence + (Church Lore or Civil and Canon Law) + stress die</div>
+
+<h4>Ordination Examination Total: Intelligence + (Church Lore Or Civil and Canon Law) + Stress Die</h4>
+
 <div>If the character passes his examination, he is ordained by the bishop. It is usual for the bishop to ordain several people at once, so a successful candidate may need to wait a few days for other pending examinations to be conducted. A character who is ordained gains the appropriate Social Status, and a Faith Point. If the character’s Ordination Exam Total is more than double the required Ease Factor, he gains a positive Reputation of 1 for being knowledgeable in either Church Lore or Civil and Canon Law (or increases an existing positive Reputation, or decreases a negative Reputation, by 1 Reputation “experience” point, see ArM5 page 167). If the character’s Ordination Exam Total misses the required Ease Factor by less than 6, he still “passes” his examination, but gains a negative Reputation of 1 for being ignorant of either Church Lore or Civil and Canon Law (or increases an existing negative Reputation, or decreases a</div>
 <div>positive Reputation, by 1 Reputation “experience” point). If the character fails his ordination examination by more than 6, he is not ordained but he can appeal the decision (see Petitioning the Church, later). The character can also try again another season. If the character botches his ordination examination he can only try again if he successfully petitions the Church for permission (see Petitioning the Church, later).</div>
 
@@ -465,7 +507,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>Possession and Exorcism</div>
 <div>Possession by demons is a common occurrence in Mythic Europe, and exorcists have a special responsibility to help the possessed. Rules for possession are given in Realms of Power: The Infernal, page 32; the demon invests a fraction of his Infernal Might Pool in the victim (the energumen) in order to control her. To perform the exorcism rite, the exorcist must spend at least 1 Confidence (or Faith) Point and an Exorcism Total is generated (each Confidence/Faith Point adds +3, as usual). If the Exorcism Total equals or exceeds an Ease Factor equal to the number of Might Points invested in the energumen by the demon, then the demon is exorcised.</div>
-<div>Exorcism Total: Stress Die + Bonuses</div>
+
+<h4>Exorcism Total: Stress Die + Bonuses</h4>
+
 <div>Any clergyman can conduct exorcisms. Those who have been ordained as exorcists receive a +1 bonus, and using holy water and a crucifix adds a further +1 each. Exorcism is a Divine supernatural power and the Total is affected by the aura in the usual way. If the energumen has Magic Resistance, it must be Penetrated by the exorcism; Penetration is calculated as usual (see ArM5, page 184). A character must be literate in Latin to read the exorcism rite from a scroll, however an illiterate character (who has been told what to say) can still conduct the rite.</div>
 </div sidebars>
 
@@ -476,7 +520,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Major Orders</div>
 <div>Like the minor orders, the major orders all wear tonsures and clerical robes. They are also subject to canon law. The major orders are celibate.</div>
 
-<h4>Sub-Deacon</h4>
+<h4>Sub-deacon</h4>
 
 <div>When a sub-deacon is ordained he is presented with a paten (the plate on which the bread is placed during Mass), and a chalice by the bishop. He is also presented with a pitcher and a basin by the archdeacon. Sub-deacons act as parish clerks and canons. Sub-deacons also form part of the retinue of senior clergy.</div>
 
@@ -679,7 +723,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>exchanges and charge a fee for their services. These fees are strongly opposed by the papacy, which regards the practice as simony.</div>
 
-<h4>Benefices Held by Institutions</h4>
+<h4>Benefices Held By Institutions</h4>
 
 <div>It is possible and common for institutions such as monasteries and chapters of canons to hold benefices; many such institutions hold dozens of benefices. In this case, the institution collects the benefice and is responsible for arranging for a curate.</div>
 
@@ -687,7 +731,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The tithe is used to fund the benefice, to pay the rector, and to keep up church buildings. In addition, a proportion is forwarded to the bishop (or archdeacon), and another proportion is distributed to the poor of the parish as alms. Hermetic covenants are not exempt from the tithe, and are occasionally visited by the parish priest and his clerk in order to assess what the covenant’s income is. Obviously, there are many magical schemes that magi can use to avoid paying the tithe, and covenants that are hidden from the priest (perhaps within a regio) do not need to pay tithe. Nonetheless, most Christian magi would prefer to pay.</div>
 
-<h4>Papal Appointments to Benefice</h4>
+<h4>Papal Appointments To Benefice</h4>
 
 <div>A character can petition the pope for a benefice, who may order a bishop to grant one. These requests are difficult for the bishop to refuse, and in 1220 a number of benefices scattered throughout Mythic Europe are effectively controlled by the pope. If your saga follows history, then this trend develops rapidly throughout the 13th century: in 1050 Pope Leo IX controlled no benefices outside the province of Rome, whereas by the end of the 13th century the pope directly controlled over 100,000 benefices (the majority in Europe). This increase in papal power is opposed by other bishops.</div>
 <div>Rural Parishes</div>
@@ -741,13 +785,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>es that a character needs to get certain things done.</div>
 <div>The Petition Total</div>
 <div>The basic mechanic is to generate a Petition Total that is compared to an Ease Factor. If the Petition Total equals or exceeds the Ease Factor, then the request is granted by the appropriate officers of the Church.</div>
-<div>Petition Church: Petition Total vs Petition Ease Factor</div>
+
+<h4>Petition Church: Petition Total Vs Petition Ease Factor</h4>
+
 <div>The following are example Ease Factors for petitions. The list is not exhaustive, it is merely a guide.</div>
 
 <div sidebars>
 <div>Modifiers to the Petition Total</div>
 <div>The following modifiers apply to both a written and audience petition. Some of the modifiers require the troupe to judge whether something is “significant.” Rather than provide hard rules for this, it is best for the troupe’s players to use their own judgment based on the circumstances of the petition and their saga. Some of the modifiers add a bonus if the petition is supported by arguments based on Ability Scores. To determine whether the argument is successful, roll as follows:</div>
-<div>Argument Success: Int + Ability Score + stress die vs Ease Factor of 9</div>
+
+<h4>Argument Success: Int + Ability Score + Stress Die Vs Ease Factor of 9</h4>
+
 <div>If the argument is successful, the bonus is gained. If the argument botches, subtract the bonus from the Petition Total; it is a penalty instead. The storyguide may modify the Ease Factor of this test depending on the quality of the argument. Some of the modifiers require the petition to be supported by other characters (a bishop, a king, etc). Gaining the support of these individuals creates opportunities for the troupe to tell stories. Gathering this support also takes time, so in</div>
 <div>some cases it may take many years for the character to gather all the support that he needs for a successful petition. Modifiers are as follows, if the petition is supported by certain people or circumstances.</div>
 <div>Modifier: +1 Support: The testimony of a significant number of individuals, a priest or deacon*, a knight**, magical evidence***</div>
@@ -771,8 +819,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Ease Factor: 42 Petition: Call a crusade; found a religious order.</div>
 <div>There are two ways to generate a Petition Total: one involves writing letters to Church officials, and the other depends on gaining an audience with Church of</div>
 <div>ficials. Even if your character is actually using both methods, decide which method your character is mostly using and use that total.</div>
-<div>Written Petition Total: Com + Church Lore + Modifiers</div>
-<div>Audience Petition Total: Pre + Church Lore + Modifiers</div>
+
+<h4>Written Petition Total: Com + Church Lore + Modifiers</h4>
+
+
+<h4>Audience Petition Total: Pre + Church Lore + Modifiers</h4>
+
 
 <div sidebars>
 <div>Henri of Toulouse’s Petition</div>
@@ -792,8 +844,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>he does not have authority for. Whether this causes a problem or not depends on whether the character’s superiors find out, the personalities of the characters involved, and the particular circumstances.</div>
 <div>Appealing a Petition</div>
 <div>Your characters may appeal another character’s successful petition. An appeal is treated like any other petition: a Petition Total is generated, and the Ease Factor to overturn the original petition is 3 + the Petition Total of the original successful petition. If the appeal’s Petition Total is insufficient to overturn the original petition but exceeds the original Petition Total – 3, then the papacy, or the bishop’s court, will attempt to broker a compromise solution between the parties.</div>
-<div>Ease Factor to Overturn a Petition: Original Petition Total + 3</div>
-<div>Ease Factor to Open Negotiations for Compromise: Original Petition Total – 3</div>
+
+<h4>Ease Factor To Overturn a Petition: Original Petition Total + 3</h4>
+
+
+<h4>Ease Factor To Open Negotiations for Compromise: Original Petition Total – 3</h4>
+
 <div>If an appeal is not made in the same season as the original petition, then the appeal has a –3 penalty to its Petition Total. Politically active characters keep a close watch on the Ecclesiastical courts in order to rapidly appeal unfavorable decisions.</div>
 <div>Creating Game Statistics for a Church</div>
 <div>These rules allow the troupe to describe a church using Build Points, Hooks, and Boons in the same way that a covenant can be described using these terms (see ArM5, page 68-74). Describing the churches near the covenant helps indicate how the Church may have an impact on your saga.</div>
@@ -811,12 +867,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Enchanted Items</h4>
 
 <div>Some churches have enchanted items that have been donated, found, or purchased from magi. However, it is unlikely for a church to have an enchanted item that contains more than 50 levels of effects. As churches cannot create enchanted items, it costs a church more Build Points to purchase an enchanted item than it costs a covenant.</div>
-<div>Enchanted Item Cost: 1 Build Point per Level of Effect</div>
+
+<h4>Enchanted Item Cost: 1 Build Point Per Level of Effect</h4>
+
 
 <h4>Relics</h4>
 
 <div>Practically every church contains a number of relics. Even a poor church should contain at least one relic interred beneath the altar. The cost of a relic depends on the Faith Score (see the chart) and its number of powers (in addition to the standard relic powers).</div>
-<div>Relic Cost: Cost for Faith Score + 5 Build Points per Power</div>
+
+<h4>Relic Cost: Cost for Faith Score + 5 Build Points Per Power</h4>
+
 <div>Faith Score Build Point Cost</div>
 <div>1 1</div>
 <div>2 3</div>
@@ -845,7 +905,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The church is an outpost of one of the military orders, with barracks for a number of knights and men-at-arms.</div>
 
-<h4>Minor Church Boon: Anchorite/Anchoress</h4>
+<h4>Minor Church Boon: Anchorite/anchoress</h4>
 
 <div>The church has a small cell built in it, in which an anchorite (male) or anchoress (female) lives, devoting his or her life to wor</div>
 <div>ship (see Chapter 5: Women for details). The presence of the anchorite/anchoress increases the Divine aura in the church by 1.</div>
@@ -858,7 +918,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The church or monastery collects a substantial income for reciting Masses for the dead. Masses are held for the dead when a person is buried, one month later, and one year later. Wealthy characters often leave substantial endowments for hundreds or even thousands of additional Masses to be said, for the good of their soul. Reciting</div>
 <div>the chantry Masses requires four seasons of work each year by a priest — for example, four priests could each perform for one season in the year. The chantry is worth a Typical Source of Income, and this Boon may be taken multiple times.</div>
-<div>Minor Church Boon: Chapter of Canons</div>
+
+<h4>Minor Church Boon: Chapter of Canons</h4>
+
 <div>The church priests form a chapter of canons, and there are always at least half a dozen priests within the church. They collectively hold a number of benefices. This is worth a Typical Income Source.</div>
 
 <h4>Minor Church Boon: Church School</h4>
@@ -995,7 +1057,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The monastery is a complex and completely self-supporting community, at least in theory. However, by the 13th century the Benedictine houses often rule large estates gained through donations, and some abbots are also lords of manors and even have knights owning them feudal dues and military service. It is by this time common for monasteries to possess servants, and also considerable numbers of peasants who work the fields for them, giving them more time to work on copying books, prayer, and good works at best, and to spend in moral laxity and luxury at worst. Houses are very complex in their organization, and the exact titles and roles of</div>
 <div>the senior religious varies between houses, depending on local conditions. All monasteries, however, share certain roles like abbot, and other positions generally vary depending on needs. In some large monasteries, even the most minor roles are comparatively powerful. The most important roles are described here. Other posts exist depending on the circumstances of the house, and in many smaller houses the abbot or prior fills many positions in person. The power, privileges, and responsibility of each position also vary from house to house.</div>
 
-<h4>The Abbess or Abbot</h4>
+<h4>The Abbess Or Abbot</h4>
 
 <div>The abbot is effectively the house’s ruler, its spiritual father, and is responsible for the spiritual and physical welfare of all the monks. It is a position of great responsibility, and abbots are often extremely powerful, even in national politics, though this varies with the wealth and influence of their monastery. Strictly speaking, the abbot is first among equals, and while his status is as head of the monastery, he is technically a servant to all. The rule is also clear that the abbot must be fair and evenhanded, saying “Let him make no distinction of persons in the monastery. Let him not love one more than another, unless he finds them more exemplary in good works and obedience.” Although the abbot holds supreme authority, the monks should be consulted on important matters. When a decision is required, such as if the player characters make a request of the monastery, the ab</div>
 <div>bot should call all the monks before him in the chapterhouse and explain the situation, then listen to their advice. Regardless of the opinions expressed, the abbot is not bound by them; he alone takes the final decision, by which the community must abide. The abbot holds his role for life. The abbot is usually elected by the whole community of monks. Electoral disputes are common, and the pope is often called upon as final arbiter. King John of England notoriously intervened in the election of the abbot of Bury Saint Edmunds in 1210, refusing to accept the elected abbot and claiming the right to make the appointment himself. Such problems are not uncommon. Nobles at times try to influence the decision, and it often proves disruptive to the order of the monastery. Sometimes a bishop has the right to appoint, and this can be unpopular as well. It is also not uncommon for a patron or a motherhouse to claim right of veto over the election of an abbot. On election, the new abbot effectively leaves the community of monks, and is welcomed into his new house, or even a palace, where he is expected to live in considerable style. He must wine and dine not only all guests but also the local nobility, whom he often equals in status and may well be related to. Great abbots are princes of the Church, often as powerful locally as a cardinal or baron, and may command a considerable number of knights. For example, the abbot of Bury St. Edmunds, Suffolk, in England, controls well over a hundred and fifty manors and has fifty knights as vassals. The shock of</div>
@@ -1009,7 +1071,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>senior clergy, and with the nobility at a level depending on his or her family background. Details of the appropriate Social Status Virtue, Senior Clergy, are presented in Chapter 2: Diocese.</div>
 
-<h4>The Prior or Prioress</h4>
+<h4>The Prior Or Prioress</h4>
 
 <div>A prior’s role can be hard to define. Second in command to the abbot (except in a priory, where he is its head and the abbot lives at the motherhouse), he deals with many issues of administration and supervises the abbey’s dealings with the outside world. Often priors find themselves in dispute with the abbot, a situation that can lead to factions and power struggles. The prior mainly deals with relations with the nearby towns, provisioning, and administration, while the abbot deals with internal matters, as well as politics and important outside affairs. It is usual for a prior to be appointed by either the abbot, the patron, or the motherhouse, from among the best monks in the monastery. Large houses may have a sub-prior as his deputy, and even a third prior as the sub-prior’s assistant. Players should pick from the same range of Abilities for an abbot or abbess. The appropriate Social Status Virtue is Religious, unless the prior is unusually powerful and influential, when Senior Clergy may be more suitable.</div>
 
@@ -1018,7 +1080,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The terrar is the monastery’s land agent, responsible for estates and lands. Nunneries are rarely rich enough to require one. If no suitably skilled monk is available, a professional layperson is employed in this capacity. It is a demanding job, ensuring</div>
 <div>that tithes are paid, that manors are properly productive, and balancing the accounts. It is also a job that provides excellent opportunities for the avaricious to steal from the monastery, and build up a tremendous personal fortune. Relatively few monks are likely to have the relevant Abilities — Profession: Terrar, Profession: Reeve, Profession: Steward, or similar, as well as a good knowledge of Civil and Canon Law, and in some regions Common Law, as well as Leadership, Intrigue, and Folk Ken at a minimum. Therefore, very often the role of terrar — effectively the prior’s lawyer and accountant — must be given to an employee; finding an honest, educated employee who can resist temptation is very hard, however. Magi may even find themselves approached with an eye to filling the position, if they have a reputation for honesty.</div>
 
-<h4>The Cellarer or Cellaress</h4>
+<h4>The Cellarer Or Cellaress</h4>
 
 <div>The cellarer or cellaress is responsible for everything concerning provision of food and drink. She has to make sure</div>
 <div>that supplies are obtained regularly from the local market, or are sent directly to the nunnery, and may send agents to the nearest fair to obtain imported wines and other specialties if the nunnery is rich. As well as dealing with day-to-day matters in the kitchens, this role for a monastery may involve organizing the work of monks in the kitchen garden and orchard, while for a nunnery this requires supervision of laymen working for the nunnery. For a large establishment, the cellarer must deal with those who run the farms owned by the monastery, and is often responsible for collecting produce and tithes from the monastery’s farms and manors. Most abbeys include their own vineyards or brew houses, plus a mill. Locals are often expected to grind their corn at the monastery mill and pay fees, and are prosecuted for possession of querns (hand mills), as by a secular lord. The rule states that humility and obedience to the abbot are the desired traits in a cellarer, yet cellarers are often accused of corruption, and especially secret gluttony or drunkenness; in some cases this accusation may be true. However, many a cellarer has managed to bribe, intrigue, and gain influence by secretly giving extra food and drink to individuals he wishes to curry favor with; such actions, which corrupt others, are more dangerous than mere thievery. This character will benefit from Abilities such as Bargain, Folk Ken, and Profession: Cellaress. A cellaress character with Premonitions (unexpected visitors) could be entertaining.</div>
@@ -1151,7 +1213,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>Story Seeds</div>
 
-<h4>Appealing to the Bishop</h4>
+<h4>Appealing To the Bishop</h4>
 
 <div>A nun is unhappy in her nunnery and contacts someone at the covenant for help in persuading the bishop to authorize her transfer. Or, a nun is selected by the bishop for a senior role in a nunnery on the far side of the diocese, and she asks for help to avoid the transfer without bringing any disgrace or disapproval upon her.</div>
 
@@ -1502,7 +1564,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 <div>intended to exalt; take as example some of the parodies of the Mass performed by the clerical students called the Goliards, to protest the failure of the crusades and financial abuses by the Church. Visitors with excellent Ecclesiastical Latin and a good knowledge of Church Lore might well spot strange features of these services, if such exist. Whereas Benedictine services are usually thirty minutes, the Cluniac version takes a full hour, pushing back other duties. Manual labor is performed by hired servants so as to allow the monks the time to dedicate to prayer, the offices, and celebrating Masses.</div>
-<div>Chantries and Masses for the Dead</div>
+
+<h4>Chantries and Masses for the Dead</h4>
+
 <div>If there is one thing Cluny in the 13th century is most associated with in the popular mind, it is the dead. From early in the order’s history, Cluny has been associated with prayer for souls in purgatory, even, it is believed, plucking some from the very verge of being consigned to hellfire through timely intervention. The daily Masses are almost always requiem Masses, said in memory of the departed, and Cluniac monks ordained (as a majority are) as priests often officiate at funerals. In most Cluniac abbeys books of miracula — ghost stories and miracles of saints — are to be found, recounting local proofs of the eternal world. Another type of work, the mirabilia, contains stories of faeries, magical and unusual natural phenomena, signs and wonders; Cluniac abbeys in particular are associated with these miracles, which happen here more often than in most places in Mythic Europe, presumably because of the spiritual strength of the order. Ghosts are seen in dreams and visions, or appear before the monks at night to plead for prayer, and many a harrowing tale is told by the monks of how a ghost came before them to tell of the pains of purgatory, or worse still, the relentless torment of hellfire. The Cluniac wealth accumulates through the practice of saying Mass and prayers and distributing alms on behalf of the departed. Widows, widowers, bereaved families, and the deceased themselves through their wills make generous financial provision for the three things</div>
 <div>that Cluniacs suggest might speed their progress through purgatory, or help them when facing judgment. Firstly prayers should be said for their souls, and secondly Mass must be celebrated for them as frequently as possible. Finally, alms should be given in their name to the poor. As more and more Masses for the dead need to be said, special chapels called chantries are constructed where the monks can celebrate the Masses, and an endless stream of devotions on behalf of the departed are offered up. The Cluniac emphasis on the dead resulted in the order sponsoring the Festival of All Souls on November 2nd, when the dead are remembered and prayers said for souls in purgatory. Introduced around 1030, it is part of the liturgical calendar across western Mythic Europe.</div>
 
@@ -1669,7 +1733,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The monks are completed dedicated to prayer and devotions, and are forbidden to perform any manual work. A class of lay brothers who perform the farming and other required labor are needed, and they live alongside the monastery but do</div>
 <div>not take the vows. There are a few Vallumbrosan nuns, but they live in a dwelling outside the monastery, and their primary duties are to cook and do other work for the monks of the adjacent monastery.</div>
 
-<h4>Total Retreat from the World</h4>
+<h4>Total Retreat From the World</h4>
 
 <div>Vallumbrosans are a rigorously enclosed order, who never leave their monasteries under any circumstances. The only exception is that the abbots travel about on monastic business, and often can be found around the papal court. Even the lay brothers are excluded from the chapter and chapel of the full monks, who live lives of almost total seclusion. Visitors are discouraged and no guest quarters are provided, though the lay</div>
 <div>brothers will put up guests on the monks’ behalf, outside the monastery walls. Communication with friends and families is severely discouraged.</div>
@@ -1841,7 +1905,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Formed after the Third Crusade in around 1198, the Teutonic Knights are primarily a German order dedicated to protecting German pilgrims. They originated in the German hospital of Saint Mary, from whence their name derives — the Order of the Teutonic Knights of Saint Mary. The Teutons are famed for their strict military discipline, which rivals that of the Templars.</div>
 <div>Most Teutons come from the ministeriales class — the unfree knights bound to the German king. Although many of these people are wealthy and influential, they lack many freedoms and are not considered to be of noble birth. Joining the Teutons is seen as a way to gain de facto noble status. By the 13th century, the Teutons have become a staple of the crusading movement. Their focus is increasingly turning away from the recapture of Jerusalem, to instead spreading the Christian faith in the pagan lands of Eastern Europe — Prussia, Lithuania and Estonia, and Hungary. In 1211, they were granted holdings in the Transylvanian Alps by the Hungarian King Andrew II. Their relationship with the king has rapidly worsened, though. If your saga follows history, they will be expelled in 1225. Their friendship with the Holy Roman Emperor Frederick II was more fruitful, and they have been given charge of Culmerland and any territory they can capture in Prussia. They have also started to absorb other German crusading orders — the Swordbretheren and the Order of Dobrin. The Teutons retain a small charitable function, and maintain some hospitals. There is more information about the Teutonic Knights in Ancient Magic, page 35.</div>
-<div>The Order of Calatrava and Other Iberian Orders</div>
+
+<h4>The Order of Calatrava and Other Iberian Orders</h4>
+
 <div>Founded in Castile, the Order of Calatrava started its existence as the military branch of an order of Cistercian monks at the fortress of Calatrava in 1158. They received early support from King Sancho. Because of their relationship to the Cistercians, they were not subject to local Ecclesiastical authority, which quickly put them in conflict with local bishops, but also</div>
 
 <div sidebars>
@@ -1856,7 +1922,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The Order of Saint Lazarus was, at its beginning, composed entirely of lepers. Originating from the leper-hospitals in Jerusalem, the order formed in 1130 around a Burgundian knight named Wido of Cornelly, who upon contracting leprosy vowed to go to the Holy Land and serve the Templars. When his illness became debilitating, he left the Templars — who could not adequately care for him — and joined Jerusalem’s leper hospital. The Templars and Jerusalem’s Christian king supported the hospital, and by 1153 the hospital became a focus for crusading knights who had contracted leprosy but were still well enough to fight. By 1155, the order had been granted its own house by the king. The pope gave the order privileges similar to other</div>
 <div>orders in 1187, and early in the 13th century the other mainstream military orders added clauses to their rules that required leprous brothers join the Order of Saint Lazarus. In the 13th century, the Order of Saint Lazarus has its own chapterhouse and hospital in Acre, as well as a house for sisters of the order. By this time, the number of seriously ill brothers is starting to decline, as the Order of Saint Lazarus gains prestige and wealth. The order has some holdings in England and France, and on Cyprus.</div>
-<div>The Order of Saint Thomas at Acre</div>
+
+<h4>The Order of Saint Thomas At Acre</h4>
+
 <div>Formed in Acre to care for the poor and sick and bury the dead after the Third Crusade, the Order of Saint Thomas attracts mainly English pilgrims who do not speak French. By 1220, they are a relatively minor order, with few — if any — military functions, and no real monetary resources. Their priests do not live communally. The Templars own the hospital and other houses used by the Order of Saint Thomas in Acre. If your saga follows history, the order will be reformed in 1228 by the Bishop of Winchester, Peter of Roches, who turns them into a crusading order based on the Teutons. They gain papal privileges in 1258 and are granted holdings in England, where the king is their patron. Even after 1228, their role as a military order is never prominent, although knights do join and fight in the Holy Land.</div>
 <div>Templar Organization</div>
 <div>The Knights Templar are organized according to a monastic rule, making their structure similar to other monastic orders. At the top of the hierarchy sits the grand master based in Acre, the Templar headquarters since 1191.</div>
@@ -1961,16 +2029,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>for, such as commander of the knights or Commander of Tripoli and so on. With only a few exceptions, all the offices of the Templars are held by brother-knights. There are some commanders who have standing responsibilities and carry considerable responsibility and respect. The commander of the knights is the brother who is charged with authority over the brother-knights, under the marshal; he also commands associate members who are knights. The turcopolier is responsible for the mercenary cavalry recruited in the East, and also the brother-sergeants; he answers to the marshal. The gonfanier (banner-bearer) is the official charged with carrying the Templar standard into battle and is under the responsibility of the grand commander. In war time the banner is given a ten-knight guard, and the gonfanier carries a second banner, folded away, in case the first is lost. The infirmarer is the chief surgeon and doctor of the order, running the infirmary in the central chapterhouse in Acre, and is a brother-sergeant. The Templars do not run hospitals, instead requiring medical aid on the battle field. The under-marshal is a brother-sergeant who supports the marshal in his duties. At a regional and local level, the structures laid out here are replicated as much as possible. Each province chapterhouse has a master and one or more various commanders, although the names and responsibilities are dictated by local needs and culture. Provincial commanders and masters of chapterhouses and preceptories are effectively lords of the manor, with similar responsibilities to their tenants: law and justice, and keeping the peace. These commanders preside over Templar holdings in Eastern cities such as Antioch, or Western towns such as La Rochelle.</div>
 
-<h4>Brother-Knights</h4>
+<h4>Brother-knights</h4>
 
 <div>The brother-knights are the core of the Templars, and are granted the great privilege of wearing white mantles emblazoned with a red cross. Those of noble birth who enter the order give up their clothes and goods to the draper, and are issued a standard set of clothes and armor. By 1220, the Templars require a brother-knight to be of noble birth, the son of a secular knight, or the son of the daughter of a knight to be admitted to this rank. In theory, all brother-knights are equal, but those who were prominent or of high station before their admission to the order are typically promoted to a senior position within the Templar hierarchy or are at least treated with more respect. Despite this, only the great officers or commanders live in comfort or luxury. Most brotherknights live austere lives. Brother-knights are expected to have military or combat experience prior to becoming a Templar, by participating in secular conflicts. Upon joining the Templars, brother-knights are given shock-training in the art of disciplined and sustained communal warfare — in game terms, however, this is regular practice and exposure, rather than formal training (it provides no additional experience points, but does allow Templars to fight as trained groups, see the insert “Trained Group Combat”). Brother-knights, their squires, and brother-sergeants are organized into squadrons that train in the art of pitching and dismantling camps, controlling cavalry charges, responding to alarms, and assembling at fixed points. Of course, they still need to perform all their other duties and prayers. Brother-knights have to unlearn their many vices and ostentatious sins; they are forbidden tourneys, jousting, hunt</div>
 <div>ing, hawking, and wearing fur or leather gloves. They are also forbidden to shave their beards, although their hair is kept short or even shaved off altogether. They cannot wear jewelry, rings, or any ornamentation, and may not wear pointy shoes or shoelaces. Brother-knights also may not have private letters, own locks, or have ornate bridles for their horses. Disobedience on this matter sees the undue finery confiscated and the brother-knight given penances.</div>
 
-<h4>Brother-Sergeants</h4>
+<h4>Brother-sergeants</h4>
 
 <div>Brother-sergeants play a subordinate role to brother-knights, although they make the same vows and are under the same rule. Brother-sergeants are from common backgrounds and social statuses, and are recruited from a wider area. Brother-sergeants include Syrians, Greeks, and Armenians, as well as men from the West. The brother-sergeants serve as foot soldiers and support the cavalry role that the brother-knights play. There is great variation in status among brother-sergeants, who also fill the roles of administrators, artisans, and craftsmen. Brother-sergeants with special skills, or who are too old to take active military service, are given non-combat roles. The rule refers to craftsmen, brothers of the stables, artisans, scribes, notaries, blacksmiths, and cooks, as well as mason-brothers. These non-military brother-sergeants are not required to fight, although they live according to the rule, and so are often referred to as “brother-servants.”</div>
 
-<h4>Brother-Priests</h4>
+<h4>Brother-priests</h4>
 
 <div>The 1139 papal bull Omne datum optimum granted the Templars the right to have their own priests. Prior to this, the Templars were served by priests from other orders, or from outside churches, but the bull meant that the order quickly developed its own clergy. In the East, the brother-priests are not required to fight, although when attacked they are permitted to defend themselves. To become a chaplain of the order, one must have already been properly ordained</div>
 
@@ -2040,7 +2108,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Upon applying to join, the prospective brother must explain truthfully his status and give witness to his serious intent to live by the discipline of the order. The ritual that follows takes place in the local commandery, and places great emphasis on the gravity and seriousness of the process. Strictly speaking, no outsiders such as relatives are allowed. However, the local commander can make exceptions as needed, especially if the new member is particularly prestigious. The local commander or highestranking officer assembles the brothers in the chapel or hall — only full members are permitted. All present are asked if they know any reason for the applicant to be</div>
 <div>denied admittance. If there are no objections, the applicant is taken into another room by two senior brothers, where the hardships of membership are explained. He is asked if he is willing to suffer for God, and wishes to be a slave to the order for all his life. He is also asked if he owes any other allegiance, either to a wife or secular lord, or owes a debt, or has any illness. The applicant, upon answering all these questions, is returned to the chapter, and all those present acknowledge him. If the new member is a commoner, he is then required to carry out a menial task (such as cleaning the pig-sty or washing dishes), whereas a noble is kept alone in a side room, while the brothers again are asked by the commander for any objections. After the applicant completes the task, he is questioned again in great solemnity, with emphasis on the consequences of lying, and is required to swear upon the gospels. Then he then swears the vows of obedience, chastity, and poverty, and promises to conquer and defend Jerusalem. The commander gives the new member his mantle while the chaplain recites prayers, and the assembled brothers recite the paternoster. Finally, after being received with a kiss on the mouth by the commander and chaplain, the new Templar is taught the more-detailed offenses for which he can be expelled or given penances.</div>
 
-<h4>Joining as a Child</h4>
+<h4>Joining As a Child</h4>
 
 <div>Children — called novices — are often welcomed by the Templars, who need a steady supply of recruits to fight in the Holy Land or in the Reconquista, although they generally insist that children</div>
 <div>be brought up by their parents until they are old enough to bear arms. Ages of admission of children range from 11 to 14. It is up to each local commander to determine whether a child is of acceptable physical fitness and stature to be considered able to fight. The Templars also very occasionally take in orphans or children suffering from great poverty in the expectation that they will join the order when they became adults. However, they prefer to direct such children to monastic orders, or to the Hospitallers.</div>
@@ -2088,7 +2156,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Templars are keenly aware that the Muslim leaders in the Holy Land are fractious, yet capable of uniting. Similarly, Muslim leaders are aware that the Templars are ferocious fighters who never surrender, but who are also capable of reason and negotiation. Despite their willingness to make treaties and employ</div>
 <div>Muslim servants, the Templars refuse to ever make peace with Muslim leaders, even to the detriment of the local Christian lords. In the past, various grand masters have made secret side-treaties with one Muslim</div>
 <div>leader against another, as well as providing funds or other resources to aid against a common enemy. The Templars cause controversy by allowing Muslim servants and visitors to practice their faith and worship without interruption. The Templars also frequently try to intervene in internal Islamic affairs. The most notable instance was reported by the notable chronicler William of Tyre in 1173, when the grand master began negotiations with the Ismaili sect — the Assassins — to ensure that the Templars would be safe from attack. Shortly after, this deal became known to the King of Jerusalem, who had received word that the Ismailis wished to convert to Christianity. The Templars arranged for the Ismaili envoy to be killed, thus scuttling the negotiations.</div>
-<div>Templars and the Order of Hermes</div>
+
+<h4>Templars and the Order of Hermes</h4>
+
 <div>The Templars as an order have little interest in wizards or magic. Individual commanders, and the grand master, may be aware of specific Hermetic magi and covenants, but there is no formal contact or communication between the two orders. A commandery close to the troupe’s covenant may be aware of its nature, or instead may simply ignore it. The Templars are, however, starting to encroach into the wilds of Mythic Europe, specifically into areas with Magic auras; this may bring Hermetic covenants in conflict with the Poor Knights. It is entirely possible that the Templars have made loans to Hermetic covenants, or even possess Hermetic magic devices as payment or securities. Hermetic magi</div>
 
 <div sidebars>
@@ -2136,12 +2206,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Modified Templar Virtues</div>
 <div>The following virtues are modified to be Templar specific versions of the virtues that appear in Realms of Power: The Divine, page 92.</div>
 
-<h4>Brother-Knight</h4>
+<h4>Brother-knight</h4>
 
 <div>Minor, Social Status The character is a brother-knight in the Poor Knights of the Temple of Solomon, and has devoted his life to the reconquest of Jerusalem, to God, and to the</div>
 <div>Virgin Mary. He has sworn a lifelong vow of obedience, poverty, and chastity, and to obey the Templar Rule. He is answerable only to his superiors and the pope, and is from a noble family. You may take Academic and Martial Abilities during character generation. You may not take the Knight or Priest Minor Virtue, or the Landed Noble Major Virtue. The character may wear the famous symbol of the Templars, a red cross on pure white robes. This Virtue is only available to male characters.</div>
 
-<h4>Brother-Priest</h4>
+<h4>Brother-priest</h4>
 
 <div>Minor, Social Status The character is a chaplain of the Poor Knights of the Temple of Solomon,</div>
 
@@ -2151,11 +2221,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>the grand master — but within that tight discipline a Wealthy character has more time to devote to projects of personal interest, or to self-improvement. Likewise, a Poor character has many responsibilities that prevent him from studying, training, or pursuing other activities.</div>
 <div>Templar Equipment</div>
 
-<h4>Brother-Knights</h4>
+<h4>Brother-knights</h4>
 
 <div>Brother-knights all have the same equipment, clothes, weapons, and armor. Armor includes a helmet, mailed hauberk (covering the head and body down to knees), and metal leg and feet armor. This is worn over a padded jacket and hose. Brother-knights also have a sword, a shield, a lance, a dagger, a bread knife, a pocket knife, and a “Turkish” mace (a mace with a fixed metal head with spikes at the end). The Templar uniform consists of two shirts, two pairs of breeches, two pairs of hose, and a length of rope as a belt. Each brotherknight is issued with three horses and a squire, and at the commander’s discretion a brother-knight can be given an additional horse and squire. When on campaign, Templar knights also carry portable bedding, blankets, sheets, storage bags, cooking and eating utensils, and drinking flasks and cups.</div>
 
-<h4>Brother-Sergeants</h4>
+<h4>Brother-sergeants</h4>
 
 <div>The equipment and armor for brother-sergeants is less elaborate than for brother-knights. Their mantle is black</div>
 <div>with a red cross, or, for junior sergeants, brown. They are issued with an iron cap-helmet, a sleeveless coat of mail, hose with no feet protection, a sword, a shield, a dagger, and other weapons as necessary. Brother-sergeants receive only two horses.</div>
@@ -2167,14 +2237,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>which has the same implications as the Priest Minor Virtue (ArM5, page 47), except the character is answerable only to his superiors within the Templars and to the pope. You may take clerical Virtues to describe the character’s rank within the Church hierarchy. The character wears the distinctive red cross of the Templars on his black robes. This Virtue is only available to male characters.</div>
 
-<h4>Brother-Sergeant</h4>
+<h4>Brother-sergeant</h4>
 
 <div>Minor, Social Status The character is a member of the Poor Knights of the Temple of Solomon, but not a knight or a nobleman. He has</div>
 <div>sworn a lifelong vow of obedience, poverty, and chastity, but this may not be enforced as strictly for him as it would be for a brother-knight. He is answerable only to his superiors in the order and the pope. You may also take Martial Abilities during character generation. The character wears the red cross of the Templars on a black tunic. This Virtue is only available to male characters.</div>
 <div>New Templar Virtues</div>
 <div>The following are new virtues designed for Templar characters.</div>
 
-<h4>Templar Confrere or Consoeur</h4>
+<h4>Templar Confrere Or Consoeur</h4>
 
 <div>Free, Social Status The character is an associate member of the Poor Knights of the Temple of Solomon, and has taken one or two of the Templar vows. His membership is generally temporary (although it need not be), and he may possess other Social Status Virtues or Flaws to reflect his true station, such as Clerk, Knight, Landed Noble, Peasant, or even Hermetic Magus. His former outside status affects his treatment in the order — knights and nobles receive more respect than commoners. Women may also become associate members (consoeurs), although they are housed separately from the men. Associates are governed by the same rule as full members, although they have fewer rights. Some associates may hold important positions within a particular Templar commandery, especially if they possess a valuable skill.</div>
 
@@ -2224,14 +2294,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Sample Characters</div>
 <div>Storyguides may use the following character stats to bring the Knights Templar into their sagas.</div>
 
-<h4>Brother-Knight</h4>
+<h4>Brother-knight</h4>
 
 <div>Characteristics: Int +1, Per –1, Pre 0, Com 0, Str +1 (1), Sta +2, Dex +1, Qik +1 Size: 0 Age: 44 (44) Decrepitude: 0 Warping Score: 0 Confidence Score: 1 (3) Virtues and Flaws: Brother-Knight; Commander, Wealthy; Temporal Influence*; Difficult Underlings, Greedy * 	 Free with Commander Personality Traits: Wrathful +3, Envious +2, Gluttonous +2 Reputations: Influential +4 (Templars), Veteran +3 (Church and Military Orders)</div>
 <div>Combat: Mace and Shield: Init +2, Attack +11, Defense +8, Damage +9 Dagger: Init +1, Attack +7, Defense +5, Damage +4 Soak: +2 (+11 when armored) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Local 5 (politics), Area Lore: Holy Land 3 (Crusader holdings), Animal Handling 3 (horses), Athletics 3 (running), Awareness 3 (hills), Brawl 4 (with shield), Concentration 3 (sentry), Latin 2 (Church administration), Etiquette 3 (the Church), Folk Ken 3 (Templars), Intrigue 3 (military), Leadership 5 (Templars), (Living) Language 5 (during battle), Native Language 5 (large organizations), Organization Lore: Knights Templar 5 (tactics), Ride 6 (charging), Single Weapon 6 (mace and shield), Survival 3 (hills), Teaching 3 (riding) Equipment: “Turkish” mace and roundshield, dagger, Templar mantle, robes of office, ornate golden crucifix necklace, commander’s seal. Encumbrance: 0 (0) Appearance: Once a handsome man, this brother-knight is now aging, with a large bald, domed head, jutting broken nose, and craggy brows. He is still well built and muscular, which shows through his white Templar robes. He rarely wears a sword these days, but still cuts an imposing figure when fully armed. He has several horses stabled in the chapterhouse.</div>
 <div>This character is a former Templar brother-knight veteran from the Holy Land, who has climbed the ranks of the</div>
 <div>Templar hierarchy to become commander over an influential chapterhouse in Mythic Europe. In addition to governing the order’s holdings, he advises powerful nobles. His difficult underlings are ambitious Templars who seek their own aggrandizement.</div>
 
-<h4>Brother-Sergeant</h4>
+<h4>Brother-sergeant</h4>
 
 <div>Characteristics: Int +1, Per –1, Pre 0, Com +1, Str +1, Sta +2, Dex +1, Qik +1 Size: 0 Age: 19 Decrepitude: 0 Warping Score: 0 Confidence Score: 1 (3) Virtues and Flaws: Brother-Sergeant; Templar Prestige, Warrior; Fear (of fire, minor), Mentor Personality Traits: Honest +3, Honorable +2, Brave +1 Reputations: Heroic (Templars) +3 Combat: Long Sword and Shield: Init +3, Attack +10, Defense +8, Damage +7 Dagger: Init +1, Attack +7, Defense +5, Damage +4 Soak: +2 (+6 with armor) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Local 3 (farming), Animal Handling 2 (horses), Athletics 3 (in armor), Awareness 1 (battles), Bargain 2 (merchants), Brawl 4 (fists), Carouse 3 (villages), Concentration 1 (while traveling), Etiquette 1 (Templars), Folk Ken 2 (Templars), Great Weapon 3 (spear), (Native) Language 5 (compliments), Organization Lore: Knights Templar 2 (hierarchy), Ride 1 (long distance), Single Weapon 4 (long sword and shield), Stealth 1 (urban areas) Equipment: Black mantle, sword and round shield, dagger, reinforced leather armor. Encumbrance: 0 (0) Appearance: A young man who cuts a dashing figure in the black mantle and red cross of the brother-sergeants. He carries a sword, shield, and dagger.</div>
 
@@ -2243,7 +2313,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>These are the traits of a young Templar brother-sergeant who has gained significant notoriety within the order after performing a heroic deed in battle. Although he has seen combat, he is still fairly “green” and inexperienced. His Mentor is probably an older Templar, who has been impressed by his actions.</div>
 
-<h4>Brother-Priest</h4>
+<h4>Brother-priest</h4>
 
 <div>Characteristics: Int +2, Per –2, Pre +2, Com +2, Str 0, Sta 0, Dex 0, Qik +1 Size: 0 Age:  30 (30) Decrepitude: 0 Warping Score: 0 (4) Confidence Score: 1 (3) Virtues and Flaws: Brother-Priest; Magic</div>
 <div>Sensitivity, Student of the Divine; Proud, Raised from the Dead;* Lecherous (minor) * 	 From Realms of Power: The Divine, page 36. Personality Traits: Loyal +3, Proud +3 Reputations: None Combat: Fist: Init +1, Attack +1, Defense 0, Damage +1 Soak: +0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), -5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Local 4 (Templar holdings), Artes Liberales 2 (rhetoric), Awareness 2 (noticing disorder), Brawl 2 (escape), Charm 3 (nuns), Church Lore 3 (local diocese), Concentration</div>
@@ -2260,32 +2330,32 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>The Challenges of Francis</div>
 
-<h4>Challenge to the Merchants</h4>
+<h4>Challenge To the Merchants</h4>
 
 <div>Francis is from a rich merchant family, yet rids himself of all his riches and not only rejects the life of trading and spending, but refuses to handle coins at all. This is a challenge to the rising merchant classes.</div>
 
-<h4>Challenge to the Nobility</h4>
+<h4>Challenge To the Nobility</h4>
 
 <div>He recruits followers from the nobility, bidding them give their wealth to the poor and take on the role of humble servants to lepers, the sick, and the impoverished. This is a challenge to their status and traditional way of life.</div>
 
-<h4>Challenge to the Church Authorities</h4>
+<h4>Challenge To the Church Authorities</h4>
 
 <div>He sends preachers out on foot, ignoring the rule on enclosure and stability</div>
 <div>of abode, and they preach to peasants in the vernacular. This is a challenge to the complacent, long-standing Benedictine monasteries, and to the authority and control exercised by the Church itself.</div>
 
-<h4>Challenge to Society</h4>
+<h4>Challenge To Society</h4>
 
 <div>He encourages women to do the same as himself; this is a challenge to the traditional place of women in society. Also, he preaches outdoors to anyone, even the birds and animals. This is a challenge to everyone who exploits these creatures.</div>
 
-<h4>Challenge to the Theologians</h4>
+<h4>Challenge To the Theologians</h4>
 
 <div>He advocates deeply spiritual, nonintellectual prayer. This is a challenge to the scholars of the Church.</div>
 
-<h4>Challenge to the Monasteries</h4>
+<h4>Challenge To the Monasteries</h4>
 
 <div>While individual monks and nuns take vows of poverty, the abbeys, nunneries, and monasteries where they live have accumulated possessions. Many are now very rich indeed. Francis challenges them to review their situation in the light of the gospel. Can the rich and powerful abbots give their institution’s wealth to the poor? If they do not, can they still claim to be true followers of Jesus?</div>
 
-<h4>Challenge to the Laity</h4>
+<h4>Challenge To the Laity</h4>
 
 <div>The many poor among the laity have very little of their own in the way of possessions, and already live a fairly precarious existence. For them, there is still a challenge set by Francis, because he would have his followers give up any selfish desires as well as all possessions.</div>
 </div sidebars>
@@ -2354,7 +2424,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>Story Seeds</div>
 
-<h4>Who is to Blame?</h4>
+<h4>Who Is To Blame?</h4>
 
 <div>While preaching at a fair or market, or in some other place where mixed crowds gather, a friar notices a nobleman nearby. Using Meditation and Intervention, he causes the man to be beset by disturbing images that reflect his worst unconfessed sins. The blame falls on any magi present, unless they have the Gentle Gift. If there are none near enough, then it falls on any character who stands out, whether because of a Magical Air, or a physical Flaw that people tend to find disturbing. The innocent victim of the cruel lord’s wrath may be a player character or may appeal to one for help.</div>
 
@@ -2535,32 +2605,32 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 
-<h4>II. The Congregation</h4>
+<h4>Ii. the Congregation</h4>
 
 <div>Brooke, R. and C. Popular Religion in the Middle Ages: Western Europe 1000-1300. London: Thames & Hudson, 1984. Lack, K. The Cockleshell Pilgrim: A Medieval Journey to Compostela. London: SPCK, 2003. Swanson, R.N. Religion and Devotion in Europe c.1215-c.1515. Cambridge: Cambridge University Press, 1995.</div>
 
-<h4>III. The Diocese</h4>
+<h4>Iii. the Diocese</h4>
 
 <div>Abulafia, D., ed. The New Cambridge Medieval History: Vol. 5, 1198-1300. Cambridge: Cambridge University Press, 1999. Beck, H.G., Fink, K.A., Glazik, J., Iserloh, E., Wolter, H. History of the Church Vol IV: From the High Middle Ages to the Reformation. London: Burns and Oates, 1980. Brundage, J.A. Medieval Canon Law. London: Longman, 1995. Duggan, C. Twelfth Century Decretal Collections. London: Athlone Press, 1963. Greenslade, S.L. The Church and the Social Order. London: SCM Press Ltd, 1948. Pounds, N.J.R. A History of the English Parish. Cambridge: Cambridge University Press, 2000. Ryan, C., ed. The Religious Roles of the Papacy: Ideals and Realities 1150-1300. Toronto: Pontifical Institute of Medieval Studies, 1989. Sayers, J.E. Papal Government and England during the Pontificate of Honorius III (12161227). Cambridge: Cambridge University Press, 1984. Wordsworth, M.A. Notes on Medieval Services in England. London: Thomas Baker, 1898.</div>
 
-<h4>IV. The Rule</h4>
+<h4>Iv. the Rule</h4>
 
 <div>Frye, T. The Rule of Saint Benedict. NY: Liturgical Press, 1982. Lawrence, C.H. Medieval Monasticism: Forms of Religious Life in Western Europe in the Middle Ages. Harlow, UK: Longman, 2000. Burton, J. Monastic and Religious Orders in Britain, 1000-1300. Cambridge: Cambridge University Press, 1994.</div>
 
-<h4>V. The Women</h4>
+<h4>V. the Women</h4>
 
 <div>Amt, Emilie, ed. Women’s Lives in Medieval Europe: A Sourcebook. NY: Routledge, 1993. Daichman, Graciela S. Wayward Nuns in Medieval Literature. Syracuse, NY: Syracuse University Press, 1986. Flanagan, Sabina. Hildegard of Bingen (10981179) Bibliography by Subject. http:// www.hildegard.org/documents/flanagan_biblio.html Lerman, Kristina. The Life and Works of Hildegard von Bingen (1098-1179). http://www.fordham.edu/halsall/med/hildegarde.html Leyser, Henrietta. Medieval Women: A Social History of Women in England 450-1500. London: Phoenix Press, 1995. Spear, Valerie G. Leadership in Medieval English Nunneries. Woodbridge, UK: Boydell Press, 2005. Stoner, Abby. Sisters Between: Gender and the Medieval Beguines. http://userwww.sfsu. edu/~epf/1995/beguine.html Wade Labarge, Margaret. Women in Medieval Life. London: Penguin, 2001.</div>
 
-<h4>VI. The Corrupt</h4>
+<h4>Vi. the Corrupt</h4>
 
 <div>Michelet, J. Satanism & Witchcraft: A Study in Medieval Superstition. Whitefish, MT: Kessinger Publishing, 1995.</div>
 <div>Reeves, M. Joachim of Fiore and the Prophetic Future. London: Sutton Publishing, 1999. Schmitt, J. Ghosts in the Middle Ages: The Living and the Dead in Medieval Society. Chicago: Chicago University Press, 2000.</div>
 
-<h4>VII. The Knights Templar</h4>
+<h4>Vii. the Knights Templar</h4>
 
 <div>Reed, Piers Paul. The Templars. London: Phoenix Press, 1999. Barber, Malcolm. The New Knighthood: A History of the Order of the Temple. Cambridge: Canto, 1995. Nicholson, Helen. The Knights Templar: A New History. London: Sutton Publishing, 2001.</div>
 
-<h4>VIII. The Franciscans</h4>
+<h4>Viii. the Franciscans</h4>
 
 <div>Armstrong, Regis J., Hellmann, J. A. Wayne, Short, William J., eds. Francis of Assisi: Early Documents. vols.1-3. Hyde Park, NY: New City Press, 2001. Mueller, Joan. The Privilege of Poverty: Clare of Assisi, Agnes of Prague, and the Struggle for a Franciscan Rule for Women.  University Park, PA: Penn State Press, 2006. Robinson, Pascal, trans. The Writings of St. Francis of Assisi. http://www.sacredtexts.com/chr/wosf/index.htm The Order of Preachers. http://www.dominicans.ie/friars/history-and-heritage/ the-order-of-preachers.html</div>
 

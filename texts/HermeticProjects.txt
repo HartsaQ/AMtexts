@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -84,7 +88,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>feet into the air. Some legends say that the two main craters are inhabited by separate magical spirits who have trapped several brother-spirits beneath the earth. The escape of one of the brothers could cause a major eruption and the formation of a new crater. Other legends say that there is only a single magical spirit beneath the crater (see Realms of Power: Magic, page 111). Lipari is an island volcano in the Eolian Islands. The volcano has a number of small craters, which have been fairly quiet of late — although there are records of a large explosive eruption several hundred years ago. The island is the pre-eminent source of pumice and obsidian in Mythic Europe. Lipari has been continuously occupied since before Roman times and there are a number of settlements on the island. The largest is the town of Lipari, which is the seat of the bishop of Lipari (which has been a diocese since the fifth century). Stromboli is another island volcano in the Eolian Islands, with a number of craters. The volcano is nearly constantly active, and most evenings glowing fragments of lava are ejected hundreds of feet into the air from the crater. Although the intensity of this continuous activity varies from week to week, it is fairly predictable and not very hazardous. However, every few years, rivers of lava flow from the volcano into the sea. These outflows can overwhelm the unprepared, but even this hazard does not prevent people settling on the island, and there are a number of fishing villages on the coast. Even more rarely (perhaps once in a generation) a large explosive eruption occurs, which can cause damage within several miles of the volcano. Vesuvius is near Naples and is, like Stromboli, almost continuously active at a low level, though it sometimes falls almost dormant for periods of about a century. During times of activity, larger eruptions might send fountains of lava into the air, or rivers of lava down the mountain slopes. Vesuvius is also famous for unexpectedly erupting in a massive explosion, typically</div>
 
 <div sidebars>
-<div>Story Seeds for Mythic Europe’s Volcanoes</div>
+
+<h3>Story Seeds for Mythic Europe’s Volcanoes</h3>
+
 <div>Creeping Earth</div>
 <div>At Campi Flegrei parts of the earth frequently creep, causing the earth to rise by 10 to 12 feet over a period of several years. This is fast enough for people to observe, and the inexorably rising earth can cause buildings to collapse and split. This is clearly a supernatural phenomena, and the recent collapse of a small town not long after a new church was constructed has convinced some magi that the creeping earth is the work of a magical spirit at the heart of Campi Flegrei, fighting against the encroachment of the divine on natural places.</div>
 <div>Pompeii and Herculaneum</div>
@@ -99,7 +105,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Iceland, which was first settled by Vikings in the ninth century, is pockmarked with dozens of active volcanoes. One of the most active volcanoes is Hekla, which has recently had major explosive eruptions in 1104, 1158, and 1206.</div>
 <div>If your saga follows history, then there are subsequent eruptions in 1222, 1300, and 1341. The eruptions of 1104 and 1158 were so vast that debris and ash landed over most of Iceland. The Ljósufljö volcanic field is a long strip of steaming fissures and craters that covers an area about 30 miles long and 3-6 miles across. The last major eruption occurred in 960. The Reykjanes volcano is a cluster of small craters. The last eruption was in 1211, and if your saga follows history, it erupts again in 1226. The similar, nearby Krísuvík cluster last erupted in 1151 and 1188. The Brennisteinsfjöll volcano erupted in 1000, 1188, and 1200. The eruption of 1000 occurred at the same time as the Icelandic parliament met at Thingvellier. Katla is another highly active volcano, although it is usually hidden beneath the Myrdalsjökull icecap. Because of its ice covering, large eruptions from the volcano spew an impressive amount of debris over most of Iceland, and even</div>
 <div>the rest of northern Mythic Europe. The most recent large eruptions were in 920, 950, 1150, and 1177. If your saga follows history, then there are subsequent eruptions in 1245, 1262, and 1311. A smaller volcano, Eyjafjallajökull, a dozen miles to the west and likewise beneath an icecap, sometimes erupts in the months prior to Katla; the spirits of the two volcanoes may be somehow related. Bárdarbunga is a large volcano partially hidden beneath the Vatnajökull glacier. The volcano periodically causes floods of glacier melt, and has occasional large, explosive eruptions. The most recent eruptions were in 1080, 1159, and 1210. Öraefajökull is the highest peak in Iceland, and beneath it lies a large, dormant volcano. The large central crater (about two miles in diameter) is completely covered by the Vatnajökull icecap. Although the volcano has been quiet for some time (if your saga follows history), it spectacularly erupts in 1362.</div>
-<div>Hermetic Projects Affecting Volcanoes with Hermetic  Magic</div>
+
+<h3>Hermetic Projects Affecting Volcanoes with Hermetic  Magic</h3>
+
 <div>Volcanoes contain bubbling, liquid lava, volcanic rocks, sulfurous fumes, and clouds of ash, all of which makes it hard to determine which Hermetic Forms should be used to target a volcano. The following guidelines have been used in this chapter to decide which Hermetic Forms are appropriate, and can also be used as a guide to the development of your own spells:</div>
 <div>Create a volcano, volcanic rock, lava, or volcanic ash: Creo Terram Create volcanic fumes: Creo Auram. Control/Cause/Stop the eruption of a volcano: Rego Terram (Ignem) Control the flow of lava: Rego Aquam Change lava: Muto Aquam Move volcanic ash about in the air: Rego Auram Talk to a volcano: Intellego Terram</div>
 <div>For Terram effects, volcanic ash is the same magnitude of effect as sand (which is usually the base magnitude of the effect), and the base Individual is 10 cubic paces of ash. Volcanic rock, and an entire volcano, counts as the same magnitude of effect as stone (which is usually one more than the base magnitude of the effect), and the base Individual is a cubic pace. Lava counts as the same magnitude of effect as a metal (usually two magnitudes greater than base), and the base Individual size is a cubic foot. See ArM5 (page 152) for details of how the magnitude of Terram effects depends on the type of material being affected. For Aquam effects, liquid lava counts as a corrosive liquid and the base Individual is a puddle with a volume of about 0.2 cubic feet (which is a pool a foot across, and six inches deep). See ArM5 (page 121) for details of how the magnitude of Aquam effects depends on the material. For Auram effects, volcanic fumes and ash both have a base Individual that covers an area with a diameter of about 100 paces.</div>
@@ -131,7 +139,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The hazards of the volcano include lava, heat, noxious sulfurous fumes, and, of course, eruption.</div>
 
 <div sidebars>
-<div>Volcanic Rock as an Arcane Connection</div>
+
+<h3>Volcanic Rock as an Arcane Connection</h3>
+
 <div>A volcanic rock is an Arcane Connection to the volcano it came from that lasts for years and gives a +3 Penetration multiplier. Of course, the Penetration multiplier is only relevant in the rare case that the volcano has Magic Resistance, or if the volcano is within an Aegis of the</div>
 <div>Hearth. A piece of volcanic rock would not usually be an Arcane Connection to any magical spirits, elementals, demons or other creatures dwelling at the heart of the volcano, but it could be used as a +1 Sympathetic Connection to such creatures.</div>
 </div sidebars>
@@ -222,7 +232,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Solidity of Stone</div>
 <div>MuTe 45 R: Touch, D: Moon, T: Individual This spell changes a mass of stone so that it has the unnatural property that it does not melt, even when heated to tremendous temperatures. The purpose of this spell is to prevent a building created out of molten lava (like that created by Tower of Lava) from dissolving back into the bulk lava. Obviously, this spell must be cast every month otherwise the tower will melt and collapse. The stone will still be hot, even if it is solid. So, a building protected like this will need to be cooled (or inhabited by characters immune to heat). (Base 4, +1 Touch, +3 Moon, +4 size, +1 affect stone)</div>
 <div>Required Lab Total to invent spell: One Season (90), Two Seasons (68), Three Seasons (60), Four Seasons (57).</div>
-<div>Effects to Live in the Volcanic Crater</div>
+
+<h3>Effects to Live in the Volcanic Crater</h3>
+
 <div>These effects can provide health and wealth to the inhabitants of a covenant occupying the mineral-rich environment of a volcano.</div>
 <div>Sculpt the Stone Machine</div>
 <div>CrTe 20 R: Touch, D: Momentary, T: Individual, ritual This ritual creates a machine made of stone that is suitable for use as the invested item Stone Harvester. The machine appears to be a large stone beetle about one pace in length. Until it is invested with the Stone Harvester suite of effects, the machine is merely a very elaborate statue. (Base 3, +1 Touch, +3 elaborate design, +1 minimum ritual effect magnitude) Required Lab Total to invent ritual: One Season (40), Two Seasons (30), Three Seasons (27), Four Seasons (25).</div>
@@ -309,14 +321,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>hundred people. The effect is based on the Rego Corpus guidelines, applied by analogy to the Aquam Form. Note that the water is only transported a distance of seven leagues, so for this to be effective the well must be located with seven leagues of the water source. A version of this effect, using the guideline one magnitude higher, would enable the water to be transported any distance. (Base 30, +4 Arcane; +3 environmental trigger, +1 2 uses per day) Required Lab Total to invest effect: One Season (108), Two Seasons (81), Three Seasons (72), Four Seasons (68).</div>
 <div>Cleanse the Undine’s Tears PeAq 24 Pen: +0, 2 uses per day R: Touch, D: Momentary, T: Individual This effect eliminates the salt in the water in the well. This effect is triggered by the Fill the Well power, and is activated one round later.</div>
 <div>Note that the salinity of the water will not return once it has been removed. This is because salt is not part of the essential nature of water. (Base 15, +1 Touch; +3 linked trigger, +1 2 uses per day) Required Lab Total to invest effect: One Season (48), Two Seasons (36), Three Seasons (32), Four Seasons (30).</div>
-<div>Effects to Deal with Volcanic Inhabitants</div>
+
+<h3>Effects to Deal with Volcanic Inhabitants</h3>
+
 <div>Volcanoes might be home to a number of supernatural creatures. These effects may help the magi deal with their neighbors.</div>
 <div>Basalt Cage</div>
 <div>CrTe 20 R: Touch, D: Momentary, T: Individual, Ritual</div>
 <div>This ritual creates a large cage made out of basalt stone with a single gate (also made of basalt) that can be opened and shut. The cage is large enough to hold ten man-sized creatures. Individuals in the cage may find it difficult to escape, if the gate is somehow locked or barred. However, the main purpose of the ritual is to create a cage which is subsequently enchanted as an item with the effect The Entrapped Flame. Note that, if your character is talented at Rego magics, he may find it easier to use a Rego Terram craft effect to sculpt such a cage from a hunk of basalt. However, remember to consider that the magus must make a Finesse roll against an Ease Factor of 24 to succeed in casting such a Rego craft effect, as it would be hard for a mundane craftsman to sculpt such an item and it would take him a long time to do so (see Covenants page 49). (Base 3, +1 Touch, +1 Size, +1 complex structure, +2 minimum level of a ritual) Required Lab Total to invent spell:</div>
 
 <div sidebars>
-<div>Story Seed: Eternal Spirit of Flame</div>
+
+<h3>Story Seed: Eternal Spirit of Flame</h3>
+
 <div>The volcano (or a regio within it) may be inhabited by a powerful magical nature spirit, or possibly a spirit associated with another realm. Once the characters have established themselves in or near the volcano, they can try to contact and commune with this spirit. Alternatively, the spirit may contact the magi itself. Bjornaer and Merinita characters are particularly likely to be contacted, as they are generally the magi most connected with nature, but any character apparently interested in the welfare of the volcano could be contacted. Communing with the spirit at the heart of the volcano allows the characters to access the Volcano Lore Supernatural Ability (this is a type of Nature Lore; see Houses of Hermes: Mystery Cults, pages 102–106, or Guardians of the Forests: The Rhine Tribunal, page 37). The volcano spirit can grant Virtues to characters who are loyal to it. The</div>
 <div>basic procedure is that the character performs a quest for the spirit and makes a sacrifice (gains a Flaw) and in return the spirit grants the character a portion of his power (a Virtue). Each quest is a good opportunity for the troupe to tell a story. Some example Virtues, quests, and sacrifices include the following.</div>
 <div>Virtues</div>
@@ -335,7 +351,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>InIg 30 R: Personal, D: Sun, T: Vision The caster detects whether creatures he can see have an Ignem Form Might. This is a magical property of a creature made of flame. It has no effect on creatures that are not made of Ignem, regardless of whether they have a Might or not. Creatures apparently made of flame (creatures of another Form, illusions, or the effects of Hermetic Rego Ignem magic) who do not have an Ignem Form Might are also not detected by this effect. Obviously, this spell needs to Penetrate the Magic Resistance of the detected creatures. (Base 4, +2 Sun, +4 Vision)</div>
 
 <div sidebars>
-<div>Story Seed: Eternal Spirit of Flame (cont’d)</div>
+
+<h3>Story Seed: Eternal Spirit of Flame (cont’d)</h3>
+
 <div>Quests</div>
 <div>Awaken the Sleeper: The spirit of the volcano is lonely, but he has a brother who lies dormant beneath the earth. The character must awaken the brother (cause him to erupt), creating a new volcanic crater. Blood to Flame: The character must invent, and cast on himself, a ritual that permanently changes his blood to lava. Cleanse the Slopes: The slopes of the volcano have been colonized by a monastery that rings a bell to the glory of God. Each peal of the bell strengthens the Divine and weakens the magic aura that the volcano spirit feeds upon. The character must silence the monastery bell. Gather the Embers: The spirit of the volcano has a number of children (fire elementals) that over the cen</div>
 <div>turies have dispersed throughout Mythic Europe. One of his children is trapped in the catacombs beneath a mundane king’s castle (the fire elemental is used as a source of central heating for the castle). The character must travel to the castle and rescue the fire elemental from its servitude. Stoke the Fire: The volcano has been weakened by long centuries of activity. The character must recharge the heart of the volcano by casting a rook of Creo vis into the crater heart.</div>
@@ -781,7 +799,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Some events bring a lasting change to the Great Tower, or threaten the status quo.</div>
 
 <div sidebars>
-<div>Significant Story Seed: Where Angels Fear to Tread</div>
+
+<h3>Significant Story Seed: Where Angels Fear to Tread</h3>
+
 <div>The children of the tower have heard stories of a distant and forgotten cellar, deep in the foundations. It is said that no one can spend a night in the cellar without losing their life or their</div>
 <div>mind. So of course, several of them decide to prove the stories wrong. But the warped aura preys upon their fears, turning them inwards. Are they strong enough to last the night?</div>
 </div sidebars>
@@ -791,7 +811,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Tower Looking Inwards</div>
 <div>With an army of craftsmen dedicated to the Great Tower, and a community of</div>
 <div>covenfolk dedicated to their magi, there is potential for conflict as both sides perceive the other as being favored and being granted undue benefit. One further aspect is the division of the magi. The Great Tower becomes so vast that the magical aura is unlikely to remain constant throughout the structure. Indeed, even where the strength remains constant, the aura may acquire different traits in different parts of the tower, enough to draw the magi apart. Eventually the saga might see them living their own lives with their own separate turbs and covenfolk — a single covenant in name only. And as the tower grows ever larger, parts of the tower, especially the lower levels, begin to fall into disuse and disrepair. Accidents happen, even those with no supernatural cause, and endanger life and limb.</div>
-<div>Cataclysmic Events: Once In A Lifetime</div>
+
+<h3>Cataclysmic Events: Once In A Lifetime</h3>
+
 <div>The greatest and most profound events happen perhaps once in a lifetime. From the Hermetic perspective, the founding of a new covenant within the tower is something that changes the dynamic, perhaps forever. Suddenly, with the aura growing, the tower more sparsely inhabited, and magical power growing, a new wave of young magi looks to the tower. Perhaps they are the apprentices of the original magi, keen to govern themselves. Or perhaps they are magi with nowhere else to go, looking to the Great Tower for refuge. Such events may either be the result of, or precipitate, Wizard’s War within the tower. The conflicts of magi rarely escalate to violence, but the confines of the tower increase the dangers, as the magi put aside concerns for the structure and its people and seek to destroy each other. And the vendettas carried out by magi of Verditius, though not deadly to the participating magi, pose the same dangers to innocent bystanders as a full-blown Wizard’s War.</div>
 <div>Angelic Influence</div>
 <div>As the tower grows closer to the heavens, encounters with angels become more common and their secrets may start to be revealed. Members of the covenant — magi, companions, or simple grogs — may now throw off their earthly guise and show themselves to have been angels all along, watching from within. Or characters may see increasing opportunities to atone for past sins, as though the world is conspiring to have them confess themselves and be absolved. But the magi of the tower may discover that the conflict between angels and demons still rages, unseen to those many thousands of feet below. The magi are faced with protecting their tower and their covenfolk from powers they now realize they do not understand.</div>
@@ -812,7 +834,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Great Tower can also be used as a backdrop for stories, even when your covenant or troupe is not the driving force behind it. The magi of the tower may reach out to new blood to join the effort or to take up residency in the tower. Or the tower could slowly become a threat, turned from its once-noble ambition, and now scouring the land for vis and resources. The presence and growth of the tower could cause concern at both local and Grand Tribunals, and the troupe’s magi may be called upon to examine the case or act as impartial ambassadors to the Great Tower.</div>
 
 <div sidebars>
-<div>Faerie Story Seed: Out of the Shadows</div>
+
+<h3>Faerie Story Seed: Out of the Shadows</h3>
+
 <div>An apprentice, of the Order or masonic, faces the decision whether to stay within the Great Tower or leave to find his way in the world. Drawn to this moment, a faerie shows the apprentice the possible roads ahead. The apprentice sees the future of Great Tower without him, and his own life to come both inside and outside the walls.</div>
 
 <h3>Story Seeds of Moral Temptation</h3>
@@ -828,7 +852,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>some way and that they will finally rival the Order of Hermes. The tower could also provide opportunity for exploration. A failed project without the ongoing protection of an Aegis of the Hearth could soon be overrun by supernatural beings. Such a place may attract legend and exaggeration enough to tempt magi from their laboratories. The Order itself may assemble a team of Hoplites and explorers under the leadership of the troupe’s magi, so as to reclaim the tower for the Order.</div>
 
 <div sidebars>
-<div>Far-off Tower Story Seed: Spire on the Horizon</div>
+
+<h3>Far-off Tower Story Seed: Spire on the Horizon</h3>
+
 <div>A secretly built tower suddenly looms over the horizon far to the west. The magi are appointed by the Grand Tribunal to make contact with those responsible, find out their intentions,</div>
 <div>and ensure that peaceful relations can be established. Or failing that, find the tower’s weaknesses and report back to the waiting Tremere council at Coeris.</div>
 </div sidebars>
@@ -925,7 +951,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>way distant from a waterway. While this makes things more complicated, Hermetic magic can overcome most difficulties. There are many reasons for building ships away from rivers and the sea. For one, it allows the construction work to be carried out unseen by curious eyes, and for another, the magus is less restricted with regards to Magical auras. A secluded lake allows the Hermetic shipwright to test the boats he makes, and there are almost certainly streams and rivers that drain the lake that can be</div>
 
 <div sidebars>
-<div>Story Seeds for Finding a Shipyard Location</div>
+
+<h3>Story Seeds for Finding a Shipyard Location</h3>
+
 <div>The following story seeds may be useful when looking to secure a  location for a shipyard.</div>
 <div>Mundane Title</div>
 <div>Having found the ideal location, the Hermetic shipwright and his agents must secure title to the land. But the monastery that owns the land has discovered the magical truth behind the approach and are now reluctant to sell. The shipwright must find a way to convince the monks of his good character.</div>
@@ -960,13 +988,19 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>given that it is in effect a large workshop, and provision needs to be made for this activity. A gallery allows the magus both to take an overview of the construction work and show clients his work. All of this makes the laboratory far larger than is normal for a Hermetic magus, susceptible to the elements, and inherently unsafe. A host of enchanted tools and features are needed to ensure the safety of the workforce and the laboratory itself. Further enchantments make the work of the shipwright and his crew easier and quicker. A magus who builds a Hermetic shipyard is likely to either maintain a separate sanctum or simply be realistic about the status</div>
 
 <div sidebars>
-<div>The Resting Place of Noah’s Ark</div>
+
+<h3>The Resting Place of Noah’s Ark</h3>
+
 <div>The resting place of the biblical Ark, built by Noah to God’s design, is almost certainly the site of an Empyreal aura (Realms of Power: The Divine, page 12). While this would normally hamper the use of magic, it may be within God’s choosing that the site</div>
 <div>itself provides a bonus to ship-based magic, and far from suppressing magic, may support it instead. If the Ark itself can be found, then its cedar timbers may provide shape and material bonuses for shipbuilding far in excess of natural wood.</div>
-<div>Team Training Story Seed: Suspicious Minds</div>
+
+<h3>Team Training Story Seed: Suspicious Minds</h3>
+
 <div>One of the shipwright’s workforce becomes unsettled by the frequent displays of magic in his new workplace, and approaches the Church to tell of what he’s seen. An inquisitive priest and his entourage soon visit the shipyard,</div>
 <div>suspicion on their minds, and condemnation not far behind. Can the magus hide the traces of magic he’s worked hard to put in place, pass the priest’s inspection, and root out the snitch in the end?</div>
-<div>Laboratory Story Seeds: Far and Wide</div>
+
+<h3>Laboratory Story Seeds: Far and Wide</h3>
+
 <div>The construction of the shipyard itself presents opportunities to run stories. The buildings that will contain the magical power to be invested in the boats may require special components, such as wood from a magical tree. The shipyard itself may be plagued by faeries or demons during and after its founding who can perhaps see some ill or good that might come from the shipyard in the future.</div>
 <div>Hermetic interest will also be piqued and a magus with the facilities to enchant large devices will draw customers from across his Tribunal and beyond. Covenants and mundanes alike who desire their own magical ships will come calling, or rival Hermetic shipwrights (such as those mentioned in Guardians of the Forests) may attempt to sabotage the shipyard and the magus’ business.</div>
 </div sidebars>
@@ -1137,7 +1171,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The Hesperides chapter in the Ancient Magic supplement presents a system of coordinates devised by Claudius Ptolemaeus that can be integrated with Hermetic magic. Ptolemy’s system can be used to derive coordinates from a set zero point that then describes a given location. The coordinates work according to the law of Names rather than the law of Contagion, so they do not need to</div>
 <div>be collected but can be derived through study, learned from a teacher or a book, or gained through direct observation of the heavens. The zero point for Ptolemy’s system is within the Purple Islands of the west coast of Africa, and searching for their secrets is a whole series of stories that especially fit the captain and crew of an enchanted ship.</div>
-<div>Story Seeds for Enchanting the Hull</div>
+
+<h3>Story Seeds for Enchanting the Hull</h3>
+
 <div>The Lost</div>
 <div>Long after The Hermes has been launched, the crew loses their most loyal and trusted member at sea. And at that moment, the magic of The Hermes stops. None of the effects enchanted into the vessel obey the crew’s commands, and not the slightest spark of magic can be found in the ship. Can the ship be mourning her lost crewman? How can she be restored to order? Could the crewman’s last words,</div>
 <div>concerning a lost son, be the key to this mystery?</div>
@@ -1210,7 +1246,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>fects, such as boats that can be launched from the ship while protecting their crew, and helmets with variations of Lungs of the Fish (ArM5, page 122).</div>
 <div>Catching the Tidal Winds</div>
 <div>ReHe 33 Pen: +0, Unlimited Use R: Personal, D: Concentration, T: Structure This effect propels the ship through the water, riding the undersea currents as though the sails had caught a wind. The movement of the ship is controlled by both the rudder and the sails, allowing the crew to sail the ship under water just as they would on it. As with the previous effect, this effect is activated when the vessel plunges into the sea under the power of Poseidon’s Chariot. (Base 3, +1 Concentration, +3 Structure; +10 unlimited use, +5 maintain concentration, +3 triggered by Poseidon’s Chariot) Required Lab Total: 1 season (66), 2 seasons (50), 3 seasons (44), 4 seasons (42) The Hermetic Shipyard provides bonuses of +10 for ships and +1 for Rego. The ship itself provides bonuses of +4 to affect dead wood and +5 for sailing. And as the ship has been enchanted with two prior Rego effects, a further +2 is gained.</div>
-<div>Hermetic Projects Ships of the Sky</div>
+
+<h3>Hermetic Projects Ships of the Sky</h3>
+
 <div>Stories of ships that sail the sky have been popular since classical times. Some of these are doubtless idle tales told around hearths to enliven the evening, while some are the work of angels, demons, faeries, and other spirits making their journeys for their own supernatural reasons. But some of these ships may be magical enchantments created by powerful Hermetic magi or even wizards of other traditions. The creation of a magical sky ship follows much the same pattern as for an ocean-going vessel, but with two key differences: first, it needs an enchantment to loft it into the air, and second, freed from the confines of the ocean its hull can take on any design the magus desires.</div>
 <div>The Sky is My Ocean</div>
 <div>ReHe 39 Pen: +0, Constant Effect R: Personal, D: Sun, T: Structure As a constant effect, the ship is lifted into the air. The effect is controlled by a modified tiller and rudder mechanism that both controls how the ship rises and falls and how it is propelled forwards. A vessel enchanted with this effect has no need of sails or oarsmen, but without additional means of propulsion, the movement of this vessel is leisurely, as though from a calm and steady breeze. The high base magnitude allows the ship to remain on a chosen course, with adjustments and corrections being made by the crew. The effect can be suspended by landing the vessel on the ground, and the ship</div>
@@ -1222,7 +1260,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>There are places beyond the mortal world, entire realms unseen and untouched by mortal hand. As described in Realms of Power: Magic, page 26, Hermetic magic has not yet tamed the Magic Realm. But a minor breakthrough (see Houses of Hermes: True Lineages, page 26) makes a series of new effect</div>
 
 <div sidebars>
-<div>Story Seed: The Home of the Winds</div>
+
+<h3>Story Seed: The Home of the Winds</h3>
+
 <div>A magus in possession of a flying ship invites others to undertake a most marvelous journey with him. He claims to have discovered the home of the Four Winds, powerful spirits of Auram. He needs a crew of magi to help</div>
 <div>him navigate and sail his ship beyond the clouds. On the way, the ship passes through strange unexpected regiones, containing a kingdom ruled by birds and a court of airy spirits planning war against the clouds.</div>
 
@@ -1278,7 +1318,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Shipwright may seek out and work with other traditions, to take advantage of their abilities where his own are lacking. The following presents further options for shipwright characters. Shipwrights are generally drawn from the learned class, and are able to apply their knowledge of the natural world through experimental philosophy (Art & Academe, page 67). But their arts are more inclined to assist individuals, rather than affect the vessel itself. They could be useful to shipwrights, as the charms they make provide bonuses to ability use, but the impact on the ship is likely to be minimal. Learned magicians (Hedge Magic Revised Edition, page 79) with the Mythic Alchemy virtue are able to prepare the raw materials used by craftsmen, so making the creation of superior goods easier. Being drawn from the educated community, such a magician may use his mundane and magical learning to forge a career as a shipwright. The vessels built by such a shipwright would be of the highest quality. The Vitki (Hedge Magic Revised Edition, page 120) are potent runesmiths with the ability to bind magical effects into objects by inscribing runic scripts into them. Viking longships were almost always decorated with runes, and the use of seafaring rune scripts is a common magical focus. The Vitki and related runesmiths can empower vessels without the need for seasons spent in a laboratory as the permanent inscription of runic effects (to calm storms around the ship or to speed the</div>
 
 <div sidebars>
-<div>Story Seed: The Ship of the Damned</div>
+
+<h3>Story Seed: The Ship of the Damned</h3>
+
 <div>Some magi have become so obsessed with death that they immerse themselves in its trappings. As the Hermetic shipwright is not limited in the materials he can use to build ships, a death-obsessed magi, such as the magus who follows the path to lichdom, approaches him to build a vessel to his design. The ship is to be constructed out of</div>
 <div>bones and the sails stitched from skins. The magus also wants a ghostly crew bound to the ship to serve as its captain commands. Does the shipwright take the commission? Where does he get the supply of bone for the ship’s hull? What effects does he need to create to make the ship seaworthy? And how does he hide the construction from the mundane world?</div>
 </div sidebars>
@@ -1307,7 +1349,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Tunnel Spells</h3>
 
 <div>The essential ingredient for waging Wizard’s War in this manner is the spell Opening the Intangible Tunnel (ArM5, page 162). A few variations on this spell, and ways to manipulate the tunnels, are described here.</div>
-<div>What is an Intangible Tunnel Effect?</div>
+
+<h3>What is an Intangible Tunnel Effect?</h3>
+
 <div>Intangible Tunnel effects are all Rego Vim effects. These effects all create a mystical conduit, a tunnel, between the caster and the target. The following general rules apply to these tunnels.</div>
 <div>• Both the caster and target can cast</div>
 <div>spells through the tunnel. • The caster and target are considered to</div>
@@ -1326,7 +1370,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>duration of the spell that created it, unless it is dispelled or similar.  Spells cast through the tunnel with a dura</div>
 
 <div sidebars>
-<div>Story Seed: The Demon that Stared Back</div>
+
+<h3>Story Seed: The Demon that Stared Back</h3>
+
 <div>It is not possible for non-Hermetic powers to be used through an Intangible Tunnel-style effect. This means that a “safe” way to hunt infernalists (and hedge wizards) is to employ grogs to hunt down Arcane Connections to the quarry, which can then be safely eliminated via an Intangible Tunnel from the sanctuary of the magi’s laboratory. Within the tribunal, there is a secret group of demon hunters who slay infernalists using this strategy. The group is secret because collecting Arcane Connections to infernalists is considered highly suspicious and likely evidence of infernalism itself. Unfortunately, the demon hunters stumble upon a infernalist who is accompanied by a demon</div>
 <div>who recognizes the tunnel and can, in fact, use his powers back through the tunnel. Another possibility is that the demon manages to open a similar tunnel straight back to the magi, and then disguises his parallel tunnel with impenetrable diabolic illusions. Either way, the demon has managed to control the minds of some of the demon hunters, and sets about using these pawns to corrupt the Order. The player characters might be caught up in the machinations of the demon-controlled demon hunters. Alternatively, they could be uncorrupt members of the secret group of demon hunters who gradually come to realize that their allies have been corrupted.</div>
 </div sidebars>
@@ -1386,7 +1432,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>ReVi Gen R: Voice, D: Sun, T: Individual This spell suppresses a magical tunnel created by Hermetic Vim magic, if the level of the magical tunnel creating spell is less than or equal to half the level of this spell + 1 magnitude. For the duration of this spell, spells can no longer be cast</div>
 
 <div sidebars>
-<div>Story Seed: Bridge to the Magic Realm</div>
+
+<h3>Story Seed: Bridge to the Magic Realm</h3>
+
 <div>The player characters discover a covenant (or maybe the laboratory of a sodales) seemingly overrun with magical creatures, and the magus missing. The remains of the magus’ laboratory notes indicate that he was experimenting with variants on The Intangible Tunnel. Can the player characters find the missing magus, and deal with the magical creatures? One possible explanation for the magus’ disappearance is that, when an Intangible Tunnel-style of effect is botched, one possible result is the brief creation of a tunnel to the Magic Realm. This tunnel opens for only</div>
 <div>a fraction of a round, but if it does happen, then characters within Voice Range of the botch may be drawn into the Magic Realm. Avoiding this is similar to avoiding Twilight (see ArM5, page 88). If the characters do not avoid being drawn into the Magic Realm, then they must find another way back to the mundane world. It is possible that creatures from the Magic realm may also find their way back along the bridge. The magnitude of the Might of such creatures cannot exceed the magnitude of the botched spell. The Magic Realm is described in Realms of Power: Magic, pages 17-28.</div>
 </div sidebars>
@@ -1497,7 +1545,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This spell works because once the blood of a character has been spilled, it does not inherit the character’s Magic Resistance. Versions of this spell that instantly transport the blood a shorter (or longer) distance can obviously be invented. The blood might be spilled by a spell effect such as Crystal Rain, or it might be spilled via mundane means such as a sword blow or a punch in the face. The caster may require some sort of enhancement to his senses (such as Eyes of the Hawk) to target the spilled blood at the extremes of the range of this spell. (Base 25, +3 Sight) Required Lab Total to invent spell: One Season (80), Two Seasons (60), Three Seasons (54), Four Seasons (50).</div>
 
 <div sidebars>
-<div>Story Seed: Foot-Soldiers of the Master</div>
+
+<h3>Story Seed: Foot-Soldiers of the Master</h3>
+
 <div>If the magi of a saga invent the Intangible Assassin effects, then many good stories can be told about the adventures of the trusted grogs and companions who are sent out to recover Arcane Connections for their masters:</div>
 <div>“We always get the good jobs”</div>
 <div>A team of grogs are sent to sneak into the middle of an enemy covenant to recover Arcane Connections to the enemy magi. Can the grogs avoid the mundane and magical protections of the covenant?</div>
@@ -1556,7 +1606,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Re(In)An 45 R: Touch, D: Momentary, T: Structure This spell requires a piece of parchment written on by a character, such as a page of Lab Text or part of a tractatus. The caster holds the piece of parchment against the wall of a structure (such as a tower), and all pages of parchment written on by the same author, in the last week, within the tower instantly transport into the caster’s hand. Most authors would immediately notice that their work has been stolen when they return to their writing table. If more than two weeks’ writing is stolen through successive castings of this spell, any Laboratory work on which the author is working will be interrupted. This spell uses the Rego Corpus guideline to instantly transport a body, by analogy, to transport animal products. Note that who wrote the text on a piece of parchment is a part of the history and origins of an animal product (the parchment), which can be detected with an Intellego Animal effect. This is why an Intellego requisite is required. This spell only gathers material writ</div>
 
 <div sidebars>
-<div>Story Seed: House of the Assassin</div>
+
+<h3>Story Seed: House of the Assassin</h3>
+
 <div>It becomes well known within the Order that the character has considerable expertise in prosecuting Wizard’s War. Some stories that might arise from this include:</div>
 <div>Assassin for Hire</div>
 <div>The character is approached by another magus who will pay him handsomely to fight Wizard’s War on his behalf. Accepting this commission could embroil the character in the political intrigues of the Tribunal.</div>
@@ -1628,7 +1680,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Spending vis on spell casting is a good method of increasing the Casting Score for a single spell casting (see ArM5, page 82). A moderately experienced magus with a lot of vis to spend could easily get a Casting Score bonus of 20 to 40, depending on his Art Scores. On the other hand, if the caster wants</div>
 
 <div sidebars>
-<div>Story Seed: Vandals in the Library</div>
+
+<h3>Story Seed: Vandals in the Library</h3>
+
 <div>The librarians at Durenmar have spells that can test for the completeness of texts (see Covenants, page 100). A routine audit reveals that several books are</div>
 <div>apparently missing content. The player characters may either be responsible for this vandalism, or called upon to help find the vandals.</div>
 </div sidebars>
@@ -1638,7 +1692,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>A War Party of Magi</h3>
 
 <div>A group of magi acting together can use Wizard’s Communion (see ArM5, page 160) to cast high magnitude Intangible Tunnel-style effects with high Penetrations. The Wizard’s Communion can also be used to cast effects through the tunnel. For example, 4 magi who each know Wizard’s Communion of at least level 10 work together to cast a level 20 Intangible Tunnel-style effect. Only one of the magi needs to actually know the Intangible Tunnel-style effect. When that magus casts the Intangible Tunnel-style effect the Penetration is calculated as if the effect was only level 5. Using Wizard’s Communion combined with Intangible Tunnel-style effects is a good strategy for members of the Tribunal to take when trying to eliminate a magus who has been Marched. Groups of magi can also work together in this way to prosecute a Wizard’s War, although to be strictly legal, all the magi involved in the Wizard’s Communion must declare Wizard’s War on the victim.</div>
-<div>The Problem of the Aegis of the Hearth</div>
+
+<h3>The Problem of the Aegis of the Hearth</h3>
+
 <div>The Aegis of the Hearth ritual that surrounds most covenants can be used by a magus for shelter during Wizard’s War. A young magus (with a low Parma Magica score) gains the most benefit from cowering in this way within an Aegis cast by his more competent sodales. The Aegis of the Hearth is often of less importance in Wizard’s War between experienced magi. This is because their Parma Magica scores may provide much more effective protection</div>
 <div>than the Aegis. Nonetheless, the following spells could be invented for interacting with an Aegis. One high-risk strategy a character can use is to secretly lower an enemy’s Aegis of the Hearth via the Guttering of the Home-Fires effect, and use the opportunity to cast spells within the enemy’s covenant to recover Arcane Connections to the quarry of the Wizard’s War. Once the Aegis is raised again, the character can use the harvested Arcane Connections to open high penetration, low magnitude, Intangible Tunnel-style effects to his Wizard’s War target. Another strategy is to completely destroy an Aegis of the Hearth via the Removing the Hearth’s Keystone effect. The magus can thus attack his target before the Aegis is recast by the covenant inhabitants. A clever magus could even contrive to secretly participate in the recasting of the Aegis, perhaps by magically disguising himself as another magus. Under most circumstances, destroying an Aegis of the Hearth is likely to be considered deprivation of magical power by a Tribunal. However, by declaring Wizard’s War against an entire covenant, the aggressor magus is protected against such concerns. Of course, fighting Wizard’s War simultaneously against several foes is its own problem. Destroying the Aegis of the Hearth is also quite difficult, and is probably best achieved by several magi acting together (using Wizard’s Communion). Obviously, to be strictly legal, all the participants in the Wizard’s Communion need to have declared Wizard’s War on the magi affected by the dispelling of the Aegis.</div>
 <div>Absent Mind of the Scholar</div>
@@ -1685,13 +1741,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>MuVi Gen R: Touch, D: Mom, T: Ind Cast at the same time as another spell, this spell lets the caster pass control of the</div>
 
 <div sidebars>
-<div>Exempli Gratia: Bonding a Ghostly Warder to a Corpse</div>
+
+<h3>Exempli Gratia: Bonding a Ghostly Warder to a Corpse</h3>
+
 <div>A magus wants to bind a weak ghost to a corpse. He has an arcane connection to a ghostly warder (ArM5, page 193) and has a fresh corpse. He first summons the ghost, using a variant of the ritual spell Incantation of Summoning the Dead (ArM5, page 152), with Duration Diameter instead of Duration Concentration. This Rego Mentem level 40 spell must penetrate the 10 Magic Resistance of the ghost. Once summoned, the magus casts the level 25 Rego Mentem spell Imprison a Ghost in a Vessel, which must also penetrate the ghost’s Magic Resistance. The magus forces the ghost into the corpse, which acts as the vessel. The magus then casts Animate the Slumber</div>
 <div>ing Corpse (ReCo (Me) 30), and finally Passing the Reins of Corpus (MuVi 35). The magus has successfully created a living corpse that will stay active until sunset, when both Imprison a Ghost in a Vessel and Animate the Slumbering Corpse spells end (Duration: Sun). The living corpse has all the abilities and powers of both the ghostly warder and the corpse. It is not under any compulsion to follow the magus’ commands, although it can be compelled to obey through magic (Coerce the Spirits of the Night, for example). When the spells end at sunset, the corpse flops to the ground and the ghost is released.</div>
 </div sidebars>
 
 <div>first spell to another person. The level of the affected spell must be less than the level +1 magnitude of Passing the Reins of (Form), and it only works on spells with Duration longer than Momentary. The spell does not change the target of the affected spell. As with other Muto Vim spells, the caster must succeed at an Intelligence + Concentration roll against an Ease Factor of 9 (ArM5, page 159). (Base effect, +1 Touch) Required Lab Total: Dependent upon level of spell</div>
-<div>A Living Corpse Using Magical Enchantments</div>
+
+<h3>A Living Corpse Using Magical Enchantments</h3>
+
 <div>The longest a living corpse can remain using Hermetic spells is one year, the maximum duration of Hermetic formulaic spells. This serves for some purposes, but if a magus wants to create a longer-lasting living corpse, he must create enchanted items that can maintain their spell-like effects indefinitely. He still needs to personally cast the spell that summons the ghost, because Incantation of Summoning the Dead is a ritual spell, and ritual spells cannot be instilled into enchanted items. Just like any enchanted item, the magus must decide the physical shape and material of the enchanted item and the type</div>
 <div>of enchanted item to construct: invested device, lesser enchantment, charged item, or talisman. Lesser enchantments and charged items work well on others, and are a good choice if the magus wants to create living corpses as henchmen and staff members. A lesser enchantment necessitates high Lab Totals in the required Technique and Form combinations. Charged items don’t cost vis and allow for lower Lab Totals, but have a limited number of uses before the magic is exhausted. Lesser enchantments and charged items must be created in a single season, and both types of enchanted items can only have a single power. A Muto Vim spell-like effect can be instilled in an enchanted item, but to be useful, the effect must be instilled in the same enchanted item with the other effect it is intended to affect. Invested devices can be created over several seasons and can hold multiple enchantments, including linking trigger enchantments that can activate other powers. This combination of linking triggers activating other spell-like powers is especially important if the magus wants to become a living corpse without the aid of an assistant (see Personal Living Corpse, later). While he could rely on someone else to activate the magic, using an assistant or collaborator to activate an enchanted item means trusting that person</div>
 <div>to complete the task. If the assistant fails, there is little that the magus can do about it, since he will be dead at the crucial time of activation. A talisman is a good choice for the necromancer who is determined to become a living corpse, since it can hold many more powers than an invested device, and its total allotment of powers is not limited by its shape or form.</div>
@@ -1715,7 +1775,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>which binds the ghost to the coin. He then speaks the command word for the Greave and at the same time casts the spell Passing the Reins of Corpus. Because he</div>
 
 <div sidebars>
-<div>Muto Vim Spells and Enchanted Devices</div>
+
+<h3>Muto Vim Spells and Enchanted Devices</h3>
+
 <div>Muto Vim spells affect other spells, as described in the Muto Vim Guidelines (ArM5, page 159). Muto Vim spells can also affect spell-like effects instilled in enchanted devices, as long as certain conditions are met. Some of these conditions are explicitly stated in the Muto Vim Guidelines, and others have to be interpreted. To avoid confusion, they will be made explicit here. A Muto Vim effect can be put into a magical item, as long as it affects another power instilled in the item. If spell-like powers in a magical item can be manipulated by Muto Vim effects, then spell-like powers can also be manipulated by Muto Vim spells. The reverse is not true; a general purpose Muto Vim spell-like effect cannot be instilled in a magical item with the intent to affect spells that the wielder desires to target. Muto Vim spell-like effects can only affect other spell-like effects in the same magical item. If the magus casting the Muto Vim spell is the same person activating a magical item, then the standard rules for casting a Muto Vim spell apply (page 159). The caster must succeed with an Intelligence + Concentration roll against an Ease Factor of 9. If the magus is not the same person activating the magical item, the rules governing a Muto Vim spell cast on another magus’ spell apply. If an ally activates the magical item, and the magus and item-activator have worked out the timing issues before hand, the two are considered to be cooperating. The caster must succeed with an Intelligence + Concentration roll against an Ease Factor of 9. If the caster and the item-activator have not worked out the timing issues beforehand, then they are not cooperating. An enemy using a magical item falls into this category. In this case, the magus must fast cast the Muto Vim spell.</div>
 <div>He must also beat the magical item’s Penetration with his Muto Vim spell’s Penetration. Because Muto Vim spells are Form specific, he must also correctly identify the Form of the device’s spelllike effect. Use the Determine Form of Magical Effect formula (ArM5, page 83) to determine whether the magus is successful. If the magus correctly identifies the Form, succeeds with a fast cast defense roll against the item-activator’s Initiative roll, and casts his spell with higher Penetration than the device’s Penetration, his Muto Vim spell affects the device’s spell-like effect. All other Muto Vim spell rules apply. The magical item must be Hermetic. The Muto Vim spell can have Range Touch if the magus is holding the magical item, but must have Range Voice if someone else is holding the magical item or he triggers it from a distance.</div>
 <div>Amulets, Phylacteries, and Tefillin</div>
@@ -1762,7 +1824,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>spell. He ties the book to the revenant and commands it to lie on the floor facedown, so that the book touches both it and the floor. He then summons a specific ghost. As soon as the ghost enters the chamber, the linking trigger Detect the Presence of the Specter detects the ghost and activates The Turquoise Soul-Stone, which imprisons the ghost in the turquoise gem. Perceive the Presence of Magic detects the activation of the effect  The Turquoise Soul-Stone, and activates Rousing the Receiving Fleshy Host and Grant Control to the Ghost. Once completed, the living corpse is a combination of the summoned ghost and the revenant. The living corpse’s Magic Resistance is the ghost’s. Both ghost and revenant have Magic Resistance prior to combining the two into a living corpse, but after the living corpse is created, the ghost’s Magic Resistance supersedes the revenant’s Magic Resistance. The ghost is bound in the Grimoire, so its Magic Resistance protects the book, just like a magus’ Parma Magica protects his clothes and worn personal items. Because the revenant is wearing the book, it too is covered by the ghost’s Magic Resistance. If the living corpse detaches the book, the revenant is</div>
 
 <div sidebars>
-<div>Spells to Make and Shape a Bone Book Cover</div>
+
+<h3>Spells to Make and Shape a Bone Book Cover</h3>
+
 <div>Bequeathing Salome’s Request</div>
 <div>CrCo 20 R: Touch, D: Mom, T: Part, Ritual This spell creates a human head, complete with skin, eyes, teeth, and hair. The particulars of the head’s appearance are up to the spell’s inventor. Castor of Sicily’s version of the spell makes created heads look like his own. The spell is named after Salome, the stepdaughter of King Herod, who asked for and received the head of John the Baptist, according to Biblical history. (Base 5, +1 Touch, +1 Part: however the lowest level a ritual can be is 20) Base Level Interpretation: According to Magi of Hermes, page 84, the base level to create part of a corpse is the</div>
 <div>same as the base level to create the whole corpse, adjusted by the increased Target: Part. Required Lab Total: 1 season (40), 2 seasons (30), 3 seasons (27), 4 seasons (25)</div>
@@ -1793,7 +1857,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>are the Hand Mirror of Circe and the Staff of the Witch of Endor. The Hand Mirror of Circe is a small, silver mirror with a shaped skull handle and decorative amber and turquoise stones set around the mirror’s face. This collection of materials provides several Shape and Material bonus for the talisman’s enchantments. A mirror provides a Shape and Material bonus of +3 for both summoning and controlling ghosts. Instead of shaping a human skull into a book cover, it is shaped into a handle, which provides a +3 bonus for corpses. A turquoise gem grants a +4 bonus for necromancy, and an amber stone provides a +3 bonus for corpses. A magus might also want to invent effects that make the item more durable. Circe was the most powerful necromancer in the Classical Greek myths, having taught</div>
 
 <div sidebars>
-<div>Story Seeds: In the Graveyard (cont’d)</div>
+
+<h3>Story Seeds: In the Graveyard (cont’d)</h3>
+
 <div>from consecrated ground. As the grogs ponder their predicament, one of the diggers spies them and raises the alarm. What will they do?</div>
 <div>An Unfortunate Witness</div>
 <div>While prowling the graveyard for a corpse, the assigned grogs hear a commotion coming from the nearby mortuary chapel. The door opens and a woman departs, after giving the resident priest a lingering goodbye kiss. The woman is recognized as the wife of a prosperous local merchant. An hour later, when the grogs are truly engaged in grave robbing, a second woman arrives in the dead of the night and knocks at the priest’s door. She is also a wealthy merchant’s wife. What’s going on? Necromancers are notorious for casting love spells. Is the priest really a necromancer who has put the village’s affluent women under his control?</div>
@@ -1964,7 +2030,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The animated custos is an example of a slain grog character, animated to continue serving the magus. Based on the Specialist grog template, a common sample shield grog (ArM5, page 21), the example character has lain dead for an entire day before being animated. Without preservation magic, putrefaction will continue to reduce the corpse’s physical Characteristics.</div>
 </div sidebars>
 
-<div>Hermetic Projects Creating and Animating Corpses</div>
+
+<h3>Hermetic Projects Creating and Animating Corpses</h3>
+
 <div>Creating a human corpse and animating it is easy and hardly needs a specialist magus. Those who do specialize in necromantic magic may desire more complex spells, and there are a variety of useful spells available. The standard spell to create a corpse is a level 20 Creo Corpus ritual. The standard</div>
 <div>spell to control a corpse is a level 25 Rego Corpus spell. Variations of these might include some of the following examples:</div>
 <div>Create a Human Corpse</div>
@@ -2047,7 +2115,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Besides the strength of the magic aura, the acreage of the potential site is also important. Creatures need space, and the more room an animal has to move around, the happier it will be. The more closely the containment site mirrors a creature’s natural habitat, the more likely it will be to breed. The spot selected for the menagerie should closely resemble the area the creature is used to. If a maga plans an assortment of livestock, he might have to make many changes to the menagerie’s landscape if she wishes to house all of her</div>
 
 <div sidebars>
-<div>Can I Make a Magic Lore Roll?</div>
+
+<h3>Can I Make a Magic Lore Roll?</h3>
+
 <div>Magic Lore covers knowledge of “magical creatures, areas, and traditions,” and the prospective menagerie manager’s player will want to make Intelligence + Magic Lore rolls to discover where to begin his search, as well as to find answers to a great many other questions. A storyguide must be careful how much information a successful Magic Lore roll reveals, always mindful that a good roll should propel a story forward, not circumvent the session’s adventure with an easy victory. The following guidelines may help a storyguide</div>
 <div>determine how successful a Magic Lore roll is when asked about an area and a magical creature.</div>
 <div>Magic Lore Ease Factor: 6+ Habitat Query: Preferred climate Creature Query: Basic information (e.g., winged carnivore)</div>
@@ -2173,7 +2243,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>CrAn(Me, Vi) 60 R: Touch, D: Mom, T: Ind, Ritual</div>
 
 <div sidebars>
-<div>Story Seeds for Finding Magical Creatures</div>
+
+<h3>Story Seeds for Finding Magical Creatures</h3>
+
 <div>The Bottomless Pool</div>
 <div>A grog hears of an accident in the local village. A villager’s hay wagon overturned and fell into a stagnant pool. Efforts to retrieve the wagon failed, and divers reported that it had disappeared entirely. Nor could they discover the bottom of the pool, which seemed to go on forever. A local wise woman says that the pool, ignored by the populace, is magical; legends differ as to its inhabitants. Some say a treasure is submerged below, others claim an entire village lies at the uncharted bottom, while tales from a generation past say that a dragon used to live below its brackish surface. What magus could resist? Any and all of the legends may prove true. Alternatively, the player characters could find something completely unexpected. According to bestiaries, swallows hibernate underwater, and instead of finding a reptilian monster, the characters could discover sleeping swallows, tucked in the nooks and crannies of the pool’s walls. A Swallow of Virtue’s powers are left to your storyguide to develop, but even this happy coincidence</div>
 <div>could prove problematic. The village has always been noted for its large flocks of swallows, and many see this as a sign of good fortune. Taking the swallows could remove the village’s luck, and the villagers will react negatively to those trying to take away their good luck charms.</div>
@@ -2221,7 +2293,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Once captured, the bound beast needs to be moved back to the menagerie and kept. After capture, beasts often</div>
 
 <div sidebars>
-<div>Story Seed: A Curiously Common Bait</div>
+
+<h3>Story Seed: A Curiously Common Bait</h3>
+
 <div>According to several bestiaries, cow’s milk is one of the most desired food substances of many magical animals. Many creatures delight in climbing a cow at night and supping from her udder, including snakes, bats, and hedgehogs. A bestiary’s more fantastic tales usually recount the behavior of a magical Beast of Virtue instead of mundane examples of the breed, making a maga think that any animal that follows such behavior must be magical. A common ploy is to leave a cow unattended in a field all night and wait for a magical animal to appear for dinner. Any animal so situated, however, is universally regarded by superstitious peasants as evil or, at the very least, an</div>
 <div>ill omen. Discovering that a magus is baiting such animals will not bode well, and the neighbors will seek to stop the efforts by any means possible. There is nothing wrong with the cow, so stealing it is always an option. What peasant doesn’t need an extra cow? Chasing off the watching grogs is another option; if no one sees an adder suck from the cow, maybe it didn’t happen. Hungry animals won’t drink from a dead cow’s udders, so slaying the bovine will also stop the threat of summoning bad luck. But theft or violence isn’t the only way to stop such a dangerous practice, and villagers may instead contact their local priest or secular authority to order the wizard to cease.</div>
 </div sidebars>
@@ -2300,7 +2374,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Selective breeding and crossbreeding are modern terms. A medieval breeder would never use the terms “selective breeding” or “crossbreeding.” Using animals that have the desired physical characteristic — be it shape, color, size, or temperament — as studs and dams is simple common sense. The breeder is breeding for the best results; he doesn’t know that there is a specialized term for what he is doing. Crossbreeding along breeds — mating an Irish horse</div>
 <div>with a Norman horse, for example — is still focusing on the desired physical qualities. When crossbreeding along kinds, a medieval breeder would say he is breeding mules, referencing the final product as a name for the activity. If, in your saga, a magical female horse could breed with a magical male eagle and produce a hippogriff, the breeder would call it “breeding for hippogriffs,” rather than “crossbreeding” a horse with an eagle.</div>
-<div>Original Research: Creating Inheritable Magical Traits</div>
+
+<h3>Original Research: Creating Inheritable Magical Traits</h3>
+
 <div>The most common way for a magus to make a mundane animal magical is by giving it Warping Points and hoping for the Supernatural Flaw: Monstrosity of (Form) to result. In this case, the consequential Power received from the Flaw is not part of the creature’s essential nature, meaning that the beast cannot pass it on to its offspring. Creating spells that change a target’s essential nature is considered impossible; Hermetic magic cannot permanently affect a target’s essential nature, and the spell must be continually</div>
 <div>powered to remain in effect. However, since this magical trait is received from Warping Points, an industrious maga could challenge the Limit of Warping, a lesser limit that could theoretically be changed with a Hermetic Breakthrough. If Warping could be affected by Hermetic magic, then maybe the traits gained through Warping could be passed on. Using the rules in Houses of Hermes: True Lineages, a character would need to experiment with spells that resemble this effect, succeed with the experimen</div>
 <div>tation process, and collect 60 Breakthrough Points to create inheritable magical traits. Qualifying spells would be those inflict Warping Points and somehow specially change the beast, the most likely combination being the Arts of Creo, Muto, Animal, and Vim. Various legends from the East tell that Persian wizards knew how to do this, and could create and breed magical animals from mundane livestock. Whether this is true, or just another tall tale from the Orient, depends upon your saga.</div>
@@ -2407,10 +2483,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Not every magus is going to congratulate a menagerie’s owner. Driven by jealousy, revenge, ill-temper, past slights, or other resentments, some magi may despise the menagerie and its owner. The degree to which such a magus acts against</div>
 
 <div sidebars>
-<div>Story Seed: Never the Twain Should Meet</div>
+
+<h3>Story Seed: Never the Twain Should Meet</h3>
+
 <div>Two elder magi admire a maga’s menagerie and want to visit. Both are politically powerful enough to suggest when they will come and, unfortunately, both select the same week to visit. The problem is that the magi hate each other, and have a history of declaring Wizard’s War against each other. They have declared</div>
 <div>so many Wizard’s Wars, often not doing anything besides declaring, that the maga is not even sure if one is currently underway. Regardless, the maga must somehow decline one invitation, which will surely lead to resentment and reprisal, or manage to host both magi and somehow keep them apart.</div>
-<div>Story Seed: An Illicit Love Affair</div>
+
+<h3>Story Seed: An Illicit Love Affair</h3>
+
 <div>One of the grog handlers of the menagerie has been making secret, nocturnal visits to the daughter of a nearby village mayor. He has already been warned to leave the woman alone, but neither he nor she has abided the father’s commands. Lately, he has been telling the woman to sneak into the menagerie at night, where they meet in the unoccupied lion’s garden. One day, the grog in charge of putting the lion in its cage at night forgets and leaves the beast in the garden. The woman climbs over the wall but, instead of</div>
 <div>meeting her lover, is devoured by the lion. Her paramour discovers the grisly remains and panics. Perhaps he flees in the night, leaving the dead woman as a mystery for the magi to solve. Perhaps he frees the lion, later claiming that the beast prowled the village and returned with the woman already dead. Or, consumed by grief, the grog attacks the lion and is also slain. In the morning, the magi find a dead animal handler, a partially eaten woman, and an angry mayor and his thugs beating on the front gate.</div>
 </div sidebars>
@@ -2424,7 +2504,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>claims that the sale of a certain beast that mimics the enchantment of their preferred magical devices is threatening their livelihood, and promise to take the claim to the next tribunal if</div>
 
 <div sidebars>
-<div>Shape & Material Bonuses of Magical Creatures</div>
+
+<h3>Shape & Material Bonuses of Magical Creatures</h3>
+
 <div>Another reason a magus might want to breed magical beasts is the Shape & Material Bonuses their parts lend to laboratory activities. Because these beasts are rare, the bonus provided is quite high. While stocking and breeding a rare beast makes it more common (for the right buyer), it does not diminish the high bonus. Most of the listed creatures are legendary beasts. Shape & Material Bonuses for Animals of Virtue can be derived by using the suggestions found in Realms of Power: Magic (pages 66–68).</div>
 <div>Shape/Form Bonus</div>
 <div>Basilisk eye +8 kill at a distance</div>
@@ -2487,7 +2569,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>At the storyguide’s discretion, another physical Characteristic can replace Stamina in the preceding chart. If an animal is known for speed, for example, a storyguide can replace Stamina with Quickness for the weak and exceptionally hardy results. A breeder can also use the hidden virtues, sympathies, and affinities of various</div>
 
 <div sidebars>
-<div>Story Seed: Enchanting a Live Egg</div>
+
+<h3>Story Seed: Enchanting a Live Egg</h3>
+
 <div>Rather than gamble on the whimsical process of breeding for the best, a magus might want to instill magical effects into an unborn magical creature while still in its egg. Success would mean that the creature will have additional powers beyond those native to its kind. Magi cannot instill powers in living magical mammals because they need to touch and manipulate the fetus during the season, which will usually terminate it or its mother. Eggs and their living occupants could be manipulated, however, without fear of destroying the subject. Such an operation would be a Minor Breakthrough, using the rules found in Houses of Hermes: True Lineages. Once the breakthrough is achieved, the complicated process has several preliminary steps. First, the maga must sense the unborn creature before her magic can affect it. Intellego Animal spells allow sight through the shell. Secondly, the length of time spent enchanting must coincide with the length of incubation for the creature being instilled. A raven’s egg hatches in just under four weeks, which means a severe penalty to the maga’s Lab Total if she wishes to instill an effect in 1/3 the standard time. Reptiles remain in</div>
 <div>the shell longer; for example, a crocodile hatches in 90 days (1 season). Since the magus wants to enchant the baby, not the egg, he must make tiny incisions periodically throughout the process, using Muto and Rego Animal spells to briefly open the egg during certain procedures. Lastly, the Material and Size tables need to be consulted. The closest appropriate Material match is bone (3 base points) of Size: tiny (modifier x1), meaning that only effects of level 30 or lower may be instilled. If the maga has the capacity to perform the necessary spells during the enchantment, and has a high enough Lab Total to instill the effect within the limited duration of incubation, she should succeed. The storyguide should roll on the Experimentation: Extraordinary Results chart (ArM5, page 109) because of this unorthodox procedure. If the magus augmented his Lab Total by experimenting, two rolls are warranted. If everything worked, the hatchling has an additional power over and above those commonly inherited, granting the creature a free Magical Quality. Determine the Might Point cost of the power by dividing the creature’s Magic Might by the frequency</div>
 <div>determined while instilling the effect. For example, if the instilled effect has a frequency of 1 use per day, and the beast has a Magic Might of 10, the power costs 10 points of Might to activate. If the instilled effect has a frequency of 3 uses per day, it would cost the same animal 4 points of Might to use (10 divided by 3, rounded up).</div>

@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -30,7 +34,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Advancement Requirements Table</div>
 <div>See Chapter Three: A Comparison of Titles for more on those positions mentioned here.</div>
 
-<h4>Change Requires Cost to Granter</h4>
+<h4>Change Requires Cost To Granter</h4>
 
 <div>serf to freeman 5 Gratitude Cost of serf</div>
 <div>warrior to knight 5 Gratitude Cost of gear (5 pounds minimum)</div>
@@ -124,7 +128,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>money from the male heir after her father dies. Will receive the dowry in land or •</div>
 <div>money, rather than other rights.</div>
 <div>Conversely, dowries are more generous if any of these statements are untrue. If the bride is exceptional, for example she is an heiress, her husband’s family may pay her father or guardian a dower.</div>
-<div>A Tale Stolen From the Birth of Robert the Bruce</div>
+
+<h3>A Tale Stolen From the Birth of Robert the Bruce</h3>
+
 <div>There are two powerful territories in part of the lord’s lands. He is on poor terms with the ruler of one, who feels he has some right to the lordship himself, due to a claim that one of current lord’s ancestors couldn’t inherit legally. The other territory currently has no lord, being administered by the widow of the previous holder. The greater lord has the right to select a husband for this woman, and is reserving her as a reward for service. News reaches the court that the son of the rival ruler was traveling through the country and was seduced by the widow. It</div>
 <div>has caused a great scandal. The bishop, who is a stern man of God and not given to laxity with regard to matters of fornication, is demanding that the two marry regardless of the objections of their overlord. A character who manages to prevent the lord’s rival from consolidating this territory gains 5 Gratitude, and character who at least gets a fine out of the widow for not choosing who her lord wished earns 2. A character who pushes the marriage forward may gain Gratitude from the rival and the couple, however, and they have become a significant force in their territory.</div>
 </div sidebars>
@@ -138,7 +144,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The ability to read and write is common in the upper class of Mythic Europe. The work of writing letters is, however, dull and time consuming, so clerks are employed to fulfill this menial task. Most of these clerks are, as their name suggests, priests, but in some parts of Mythic Europe a professional class of estate managers has developed. These men are not clerks in the traditional sense, but they have an education and skill in improving the profit of land. In large estates this section of the household is called the chancery. The clerical and militant sections of a household have different values, but usually co-operate with some degree of tension. In smaller households, the priests are often the younger brothers of the knights. In larger households, the priests generally have a degree of financial and legal autonomy from the lord. This can create tension with his militant servants who see this as compromising the loyalty of the priests. Common menial workers will be discussed in greater length in Chapter Six: Manorial Fiefs and Chapter Seven: The Peasantry.</div>
 
 <div sidebars>
-<div>Story Seed: Choosing the Lord or Heir</div>
+
+<h3>Story Seed: Choosing the Lord or Heir</h3>
+
 <div>The heirs to many major holdings are permitted to select their own mesnies, but are required to accept the priests foisted on them by their lord or the bishop. In some cases, this makes for a fiercely divided and partisan court. Each participant is required to either favor the current lord, or the heir to the lord. Generally, older characters favor the current lord, who can punish and reward them immediately. Younger courtiers tend to favor the heir, since they know that all they need to do is wait for their lord to die before reprisals against his supporters can begin. Characters serving a covenant need to play a difficult game of supporting both sides sufficiently that they do not suffer reprisal now or later. One popular strategy, if the ill will between the lord and his</div>
 <div>son degenerates to war, is to send the head of the family to support the lord, and a younger son to support the heir. The hope is that if the heir wins and the lands of the lord are forfeit, they will be awarded to the younger son for his service. If the lord wins, then the family can just disclaim the younger son, and he can live in exile until the lord dies. Covenants with tame nobles may need to employ similar stratagems. Covenants may also be asked to shelter younger sons who were sacrificed to lost causes. These characters may have a Dark Secret Flaw, because they are wanted by the current authorities, but they also have a variant of the Heir Virtue, because if they wait sufficiently long they will have a powerful Patron.</div>
 </div sidebars>
@@ -169,7 +177,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Hereditary vassals are often unreliable, and so sensible magnates invest their powers into officers. An officer is a loyal person to whom the lord lends a portion of his power. That portion of power is usually greater than what is required to fulfill the function of the office, and so offices are sought as prizes. Some noblemen circulate offices through their retainers to limit corruption, and to prevent offices from becoming hereditary. Other nobles, in times of crisis, have allowed their offices to be purchased from them with money or service, and so have lost control of their office bearers. A character who is ordered to fulfill a mundane task related to his or her employment as an officer will do so. This privilege grants no particular loyalty in the character’s underlings, although their loyalty may be selected using Virtues and Flaws at character creation. This means that underlings will not, conventionally, do things that are not in their own self-interest. They will not break the law beyond trivialities, and will not participate in combat, unless that is one of their conventional duties. Women may be officers. It is traditional for women to be the treasurers or stewards of the husband’s holdings in some areas. Senior nobles have female officers more rarely, but there is no bar on women fulfilling those offices that lack military command. In those rare cases where women hold land in their own right, it is even possible for them to lead armies themselves. This is unusual behavior, though, because even kings often leave the command of their forces to marshals schooled in war. The following offices are described as if they were part of the court of a king, but many great nobles have courts that, in a sim</div>
 
 <div sidebars>
-<div>Intrigue and the Art of Indirect Action</div>
+
+<h3>Intrigue and the Art of Indirect Action</h3>
+
 <div>For Intrigue rolls to uncover information or allies, they must first exist. A character who has led a blameless life is armored against Intrigue. The following Ease Factors, for an Intelligence + Intrigue roll, demonstrate what a character might learn about potential allies, or the harm they may cause by spreading gossip. The noble to be harmed is referred to as the target. A character using the Intrigue ability in this way must entertain other gossips, hire spies, bribe servants, and threaten people. For Ease factors higher than 6, this takes (3 x Ease) days and costs at least (Ease / 3) pounds. Elaborate plans may cost far more, at the Troupe’s discretion.</div>
 <div>Ease Factor 3</div>
 <div>The stated reason for publicly declared •</div>
@@ -329,9 +339,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>A powerful churchman has all of the resources of a secular ally, coupled with his</div>
 
 <div sidebars>
-<div>Story Seed: A Matter of Hermetic Honor</div>
+
+<h3>Story Seed: A Matter of Hermetic Honor</h3>
+
 <div>A lord has betrothed an heiress to the son of a Tytalus magus in exchange for undisclosed services. The Quaesitores are considering that matter, but seem satisfied that his support did not breach the Code. The matter of graver concern is that the heiress’ family has made an appeal to the royal court, claiming that the marriage cannot proceed because this would be a disparagement. House Tytalus wishes to run a case in a mortal court. If successful, this would mean that all children taken as apprentices, in the court’s area, were automatically free, although a fine would be due their lords. It would also mean that no magus or apprentice could ever be treated as a villein, and that Hermetic courts would have complete legitimacy as an alternative to mundane or ecclesiastical courts. Magi are divided on whether this constitutes interference, or if it’s a simple acknowledgement of the actual way that magi live.</div>
-<div>Story Seed: Did You Keep The Receipt?</div>
+
+<h3>Story Seed: Did You Keep The Receipt?</h3>
+
 <div>A lord is attempting to claim back the lands of an heiress, because her husband has not paid the fee that was agreed upon for her hand. The local bishop really hates this kind of behavior, although the lord has a case in the royal court and may well succeed. The characters may earn Gratitude from the bishop and couple if they can get the lord to drop his suit, or from the lord by having the couple pay the money they owe. The story can be twisted in several ways: the lord might be lying about the fee, or the couple might have already paid by doing some shameful service to which they cannot admit. For example, the wife may not be the original widow, but instead a maidservant substituted before the wedding. The husband is unwilling to admit this, because he would then lose the widow’s lands, but is unwilling to pay for a false widow.</div>
 </div sidebars>
 
@@ -350,7 +364,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The feudal system works on the assumption that if a vassal breaks his oath, he will be punished by God, his lord, or the lord’s other vassals. This assumption rarely holds in times of crisis: precisely those times when a liege needs fidelity the most. The feudal system, of itself, contains no mechanism to prevent a vassal from defecting to an enemy of his liege. In many cases, vassalage is part of a negotiated settlement between two rivals. It allows the new vassal to take time to procure fresh forces before striking at his new liege again. During the build-up of forces, the vassal can pretend to adhere to the will of his lord, particularly if he is summoning mercenaries from outside the area. But the vassal can, with little difficulty, choose not to strike if it seems his lord has realized what may occur. Betraying an overlord after negotiated vassalage is a tactic that can only effectively be used once. It’s consid</div>
 <div>ered dishonorable, but if it is effective, the survivors of the war will not dare question their new lord’s honor. Most senior nobles have at least one vassal who could be convinced to rebel if circumstances seemed favorable for victory. These include younger brothers, the leaders of cadet branches of the lord’s family, vassals forced to bend the knee in war, and opportunists who need no particular justification. These men cannot always be coaxed into taking the field against their lord, but can be used as spies and agents of influence. A servant of the player characters notices the build up of forces by a vassal. The vassal’s lord can then muster his personal forces and look for suitable provocation to make attacking the man honorable, or he can arrange for saboteurs to obstruct the vassal’s plans so that he can seek aid from other vassals.</div>
-<div>Using Intrigue to Aggregate Class Opinion</div>
+
+<h3>Using Intrigue to Aggregate Class Opinion</h3>
+
 <div>A character may roll a stress die + Intelligence + Intrigue to feel the political mood of an organization, or the nobles of a region. This roll can only be made in a place where the character is familiar with the ruling class. It represents the character taking time to learn the superficial details of the concerns of the members of the surveyed group, sufficiently well to predict their attitude to an event. For example, a character who has a vacant benefice and wishes to give it to a certain priest can judge how other nobles will feel about it using this roll.</div>
 </div sidebars>
 
@@ -367,7 +383,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Agents</div>
 <div>Directly controlled subordinates are referred to as agents in these rules (though not</div>
 <div>by characters). A person may only control a limited number of subordinates through personal charisma. A character who attempts to control more subordinates than this gradually loses control of his network. A character may have a number of agents equal to:</div>
-<div>2 x (Presence + Intrigue or Leadership – social penalty for the Gift) or 1, whichever is larger.</div>
+
+<h4>2 X (Presence + Intrigue Or Leadership – Social Penalty for the Gift) Or 1, Whichever Is Larger.</h4>
+
 <div>This total excludes many other characters over whom the principal has influence. It does not include:</div>
 <div>Hermetic magi. •</div>
 <div>Characters with no political role — these •</div>
@@ -422,12 +440,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 <div>tential agent’s life. This can be done by assisting the potential agent, for example by aiding him in a story. It can also be completed through less-pleasant methods, for example a criminal may be beaten and left in an alley or hung by the ankles from a tower for an hour. A character seeking to impress a potential agent must roll:</div>
-<div>a stress die + Presence + Leadership – social penalty for the Gift against an Ease Factor of 6.</div>
+
+<h4>a Stress Die + Presence + Leadership – Social Penalty for the Gift Against an Ease Factor of 6.</h4>
+
 <div>Failure indicates this character cannot be impressed until encountered in a different story, when a new roll may be made. A character using a recruiting agent may send him to impress the potential agent, and use the recruiter’s scores for the dice roll. An impressed agent-to-be must then be drawn into the principal’s sphere of influence through story events that create a Bond. This is abstracted using experience points. Every time a character gains Adventure Experience, he gains an equal number of Agency Experience points. Agency Experience points are spent to weaken the resistance of potential</div>
 <div>agents, and to maintain the Bonds of active agents. The initial resistance of an agent is determined using the Agent Recruitment Table. When assessing the cost of an agent, select only those resources that the agent will use in play in the service of the principal. The Virtues and Flaws of agents do not need to balance each other. A character’s resistance is reduced by 1 in exchange for a number of Agency experience points equal to their current resistance. The agent comes into the service of the principal when his or her resistance reaches 0. A new agent has a Bond score of 0.</div>
 <div>Using Agents</div>
 <div>Characters use their agents by setting tasks. An agent must have the resources and Abilities to complete the task, and a Bond score of at least +1. The player then makes the following roll, to see if the agent attempts to perform the task:</div>
-<div>stress die + Communication + (Charm, Intrigue, or Leadership as situationally appropriate) + Bond Strength – social penalty of the Gift vs. an Ease factor on the Tasks for Agents table</div>
+
+<h4>Stress Die + Communication + (Charm, Intrigue, Or Leadership As Situationally Appropriate) + Bond Strength – Social Penalty of the Gift Vs. an Ease Factor On the Tasks for Agents Table</h4>
+
 <div>If the agent attempts the task, the player makes a roll using the Characteristics and Abilities of the agent against the Ease Factor of the task. Storyguides may prefer to run a brief scene in which the agent fulfills the task. The most common use for agents is as sources of information. Passive information gathering, which allows the principal to know, after a delay for communication, any specific fact, piece of gossip, or news that the agent knows or can casually ask people about, is not considered a task in these rules. It occurs at the discretion of the principal’s player and requires no roll. Actively gathering private information counts as a form of assistance, as described later, and if required more than once per season may cause the agent to lose Bond strength. Troupes may decide that certain agents, such as the professional spies employed by the Church and some merchant houses, don’t consider finding information in this way so onerous as to strain their Bond strength. Agents may also be asked for assistance: that is, they may be asked to expend their time and resources on behalf of the principal. Again, the agent must have Abilities suited</div>
 
 <div sidebars>
@@ -620,7 +642,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>tween a banneret and a Wealthy Landed Noble, although their status and spending patterns differ. Bannerets are always Knights and are generally Landed Nobles. Most have an Oath of Fealty to a liege and are under his Protection.</div>
 
 <div sidebars>
-<div>A Consideration of Virtues and Flaws</div>
+
+<h3>A Consideration of Virtues and Flaws</h3>
+
 <div>Oath of Fealty (Major Story Flaw)</div>
 <div>In many areas, a lord holds his land from a superior, in exchange for a mix of services and payments. This is represented by the Oath of Fealty Flaw (ArM5, page 56). This is a Major Story Flaw. For most non-player characters and many PCs this suffices, but troupes may wish to modify this slightly for several reasons. Some nobles hold land simply through descent from people who have held it since time immemorial. These lands are called allods. A holder of allodial land need not have an Oath of Fealty. These characters also tend to use titles that are grander than others of similar power and influence, although that is ignored for the purpose of Virtue selection. Troupes are encouraged to permit knights who have taken oaths to a lord, but whose oaths lack consequences in play. These insignificant oaths are not treated as Flaws, so they cannot be balanced against Virtues. Troupes may choose to allow insignificant oaths because otherwise knights cannot begin with many of the Story Flaws that suit the chivalric genre, like Black Sheep, Dark Secret, Enemies, Higher Purpose, Heir, True Love, or Vow. Player character knights are more interesting if they can have a range of Story Flaws.</div>
 <div>Knightly Demands (Major Story Flaw)</div>
@@ -645,11 +669,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>In.England,.earl.the.basic.title.for.a.major.landholder..The.term.“earl”.comes.from. a.Saxon.word.and.is.used.instead.of.the.title. of.count.in.England.and.Scotland..The.term. “earl”. is. also. used. in. English. for. the. lesser. kings.of.the.Gaelic-speaking.areas.of.Scotland,.and.for.noblemen.in.Ireland.and.Wales,. although.they.have.legal.powers.far.different. from.those.of.the.earls.of.England. A.count.or.earl.has.the.Great.Noble.Virtue,.while.a.countess.(which.is.the.correct. term.for.the.wife.of.an.earl,.or.a.female.earl). has.Gentlewoman.if.she.does.not.hold.the. land.in.her.own.right..A.count.has.a.yearly. expenditure.of.at.least.1000.pounds..The.average.count.might.be.required.to.bring.50. knights.to.battle,.along.with.their.sergeants. and. 500. infantry.. Large. vassal. armies. are,. however,.worthless.for.sieges,.because.sieges. usually.last.longer.than.the.period.of.service. required.of.vassals.each.year..Their.muster.is. often.commuted.to.cash.payment,.to.allow. the. king. or. count. to. hire. mercenaries.. An. average.count.has.100.pounds.to.spend.on. trivialities.per.year,.and.a.wealthy.one.250. pounds.</div>
 
-<h4>viscount (vice-coMes, viscoMte)</h4>
+<h4>Viscount (Vice-comes, Viscomte)</h4>
 
 <div>A.viscount.was,.initially,.a.deputy.to.a. count.. In. 1220,. the. term. viscomte. is. used. in.France.for.lesser.counts..Its.Latin.form.is. used.in.England.for.sheriffs,.who.are.officers. of.the.king.</div>
 
-<h4>Count palatine and MarcHer Lord</h4>
+<h4>Count Palatine and Marcher Lord</h4>
 
 <div>A.count.palatine.is.a.count.who.has.been. given.extra.powers.to.deal.with.a.difficult.border..In.England.there.are.several.counties.palatine:.Durham,.which.is.near.the.Scots.border,. and.Chester,.on.the.Welsh.border,.are.both.still. points.of.strength..Ely.and.Kent.were.points. of.resistance.after.the.Conquest,.where.local. churchmen. were. given. additional. powers. to. subdue.the.population..This.role.is.intertwined. with.the.role.of.marcher.lord. The.original.marcher.lords.were.placed. as.a.buffer.between.England.and.Wales.after. the. Conquest.. They. had. greater. authority:. the. right. to. do. anything. a. king. might. do,. such.as.build.castles,.levy.taxes,.make.war,. and. found. towns.. Powerful. marcher. lordships.were.eventually.elevated.into.earldoms,. and.some.of.their.rights.curbed,.but.the.legal.inheritors.of.Marcher.lordships.still.have. unusual.rights.compared.with.other.counts.. This.title.appears.in.France.only.in.the.title. of. the. Count. of. Marche,. whose. ancestor. had.a.similar.role.before.the.pacification.of. southern.France. Some. marcher. lords. are. effectively. Wealthy. counts.. Their. role. is. usually. de</div>
 </div sidebars>
@@ -676,7 +700,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Strong kings are often the most significant secular landowners in their kingdoms. The King of England, for example, holds between 15 and 20% of the arable land in his realm as royal demesne. The king’s officers do not, generally, hold their positions through hereditary right. The king’s lands are, therefore, often better administered than those of his vassals. The king’s average income from all sources, for the last five years, was 60,000 pounds a year, but the baronial rebellion caused a collapse of royal revenues for a brief period that affects this average. A king is technically a Great Noble and need not be a Knight, although virtually all are. The household army of the King of England contains over 60 knights in a practical sense, and in a legal sense con</div>
 <div>tains another 60 or so, plus their retainers. These additional knights serve the king’s interest in areas remote from the court, by holding significant castles, commanding armies, and arranging the logistics of campaigns. The king’s household army also contains sergeants, squires, crossbowmen, and infantry. This personal force is highly responsive to the king’s whim, mustering when and where he commands, and not dispersing after 40 days of campaigning as his vassals do. The king has 45 vassals who are greater barons. Each owes him at least 20 knights in service each year, most many more. For generations the kings of England have preferred to take a large portion of this service as scutage and hire mercenaries with it instead.</div>
-<div>How Small is the Ruling Class of a Kingdom?</div>
+
+<h3>How Small is the Ruling Class of a Kingdom?</h3>
+
 <div>At the time of the signing of the Magna Carta, five years ago, there were only 197 lay baronies and 32 ecclesiastical baronies in England. Many barons hold more than one barony. Only 45 people were considered “greater barons,” landholders significant enough that the king sent them personal invitations to attend court. This includes the earls, of whom there were no more than a dozen. These 45 men are all closely related to each other by blood and marriage.</div>
 <div>The chivalric class is somewhat larger. There are between 5,000 and 6,000 knight’s fees in England, although only about 1,500 of these are actually held by warrior knights, and another 1,500 are held by men who could become landed knights but have chosen not to for tax purposes. These squires have the Gentleman Social Status and Wealthy Virtues. Many other knights are found in the retinues of the king and nobles, but these are outside the landed class.</div>
 </div sidebars>
@@ -708,7 +734,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>König (Rex, King)</h3>
 
 <div>Within the Holy Roman Empire the kingdoms are usually monopolized by the emperor. The current emperor-elect has reworked this system a little to suit his political needs, so that at the end of 1220 his son is technically king of the Romans and the Germans, with himself as regent. He has also permitted the duke of Bohemia to take the title of king. The current emperor is also king of Sicily, but this is not part of the empire, merely his personal possession. When he took the crown he promised the pope to separate the two roles by making his son king of Sicily and appointing a regent. Eventually he decided against this, preferring to keep his base of power in his own hands.</div>
-<div>Römischer Kaiser (Romanorum Imperator, Roman Emperor)</div>
+
+<h3>Römischer Kaiser (Romanorum Imperator, Roman Emperor)</h3>
+
 <div>There are no emperors in the classical Roman sense in Mythic Europe. Various kings call themselves “emperor of the Scots” or “emperor of Castile” but these fancies never last. In the West the title of Roman emperor is granted by the electors of the Holy Roman Empire. This work, and other Ars Magica books, uses the term “Holy Roman Empire” for this area, although that precise name does not occur in historical Europe until 1254. The electors of the empire gather, and appoint a king of the Germans. The pope, in a highly technical sense, appoints this man the emperor, and might theoretically</div>
 <div>veto their choice. The pope anoints the king of the Germans as emperor of the Romans. When this happens, the emperor automatically becomes king of Burgundy and king of Italy. The current Holy Roman Emperorelect is Frederick II. He has held the role in practice since 1215, but is anointed on 22 November 1220. His center of power is in Sicily, although he controls a great deal of territory and has many allies in Germanspeaking areas. His court is open to Muslim and Christian scholars alike, and is considered a marvel of the age. He is a cultured man, with some interest in magic, but spends much of his time feuding with fractious warlords or the pope.</div>
 
@@ -887,7 +915,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Demonstrating Harm</h3>
 
 <div>An important part of the process of a plea is the demonstration of harm. Many Jerbiton magi, and some covenants from House Mercere, deliberately intertwine their financial affairs with those of a major city. Damage to its economy, caused by other magi, is therefore a Hermetic crime. This role is not legally recognized by the Order, but is informally recognized by its members, particularly those interested in the enforcement of the Code.</div>
-<div>Magic Resistance For Church Officers and Sovereigns</div>
+
+<h3>Magic Resistance For Church Officers and Sovereigns</h3>
+
 <div>The religious and secular leaders listed below receive a Magic Resistance score as listed here, and a Soak bonus equal to Resistance / 5. Excommunication cancels these benefits (but only if the excommunication is God’s will). Those listed here also have a Penetration 0 Aura of Rightful Authority extending to Voice Range.</div>
 <div>Pope 25 Cardinal 20 Archbishop 10 King (once crowned) 10</div>
 <div>Wives gain Magic Resistance equal •</div>
@@ -946,6 +976,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter Five</h1>
+
+
+<h2>Leisure</h2>
 
 <div>The lives of the nobility are busy and their obligations many, yet like everybody else they pursue leisure activities. Having the wealth and opportunity to pursue expensive hobbies and interests, they do so, becoming dedicated to lavish entertainments and sports suitable to their standing. While many noble leisure activities are shared with all orders of society, hunting, hawking, and tournaments are all primarily noble sports and are therefore given more a detailed description in this chapter, as are the feasts that provide entertainment in noble households. Children play as children always play, exploring their locality, fighting and brawling, and playing with wooden toys or a ball. Noble boys are, of course, expected to show leadership, to play with wooden swords and the ever-popular hobby horse, and to emulate their elders’ martial prowess. Some children die and are injured in such games, and while infant mortality is high parents are still distraught and horrified by such tragedies, and fret over their infants’ safety. Noble children play with the other household children indiscriminately. Popular children’s games often involve imitating adult pursuits, playing at celebrating Mass, or holding mock scholarly debates. Some games, like hoodman’s bluff (blind man’s bluff), skipping, whipping tops, seesaws, chase, and walking on stilts, are almost entirely children’s activities.</div>
 
@@ -1021,7 +1054,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Dancing and other entertainments take place in the central area, while at the top end of the hall a table is placed for the lord, his family, and important guests. The top table is headed by a chair where the lord himself sits, with guests sitting closer to or further from him in order of precedence. Most are seated on benches, but important guests are sometimes seated on wooden stools. Placing someone in too low a position can be seen as an insult, so Etiquette is used to decide the correct seating. The ladies eat with the men, and everyone on a table shares similar dishes, with the top table having the very best food. The top table is laid with a white tablecloth, with guests bringing their own eating knives and napkins. The food is served from bowls onto trenchers of flat, stale bread, which serve as plates, often with two guests to one trencher. Spoons may be used, and forks, though the latter are used mainly for serving rather than eating. A servant moves around with bowls of warm water and cloths for washing and drying hands throughout the meal, with fresh warm water brought for each course. Each table has its own dish of salt, with the finest salt on the top table, and coarser salt lower down. Salt degrades as guests dip their food in it, even though proper etiquette suggests they should avoid this practice and instead sprinkle salt onto their plates to season their food. Etiquette is gaining in popularity, with good table manners being a mark of noble birth. Polite conversation, gracious remarks</div>
 
 <div sidebars>
-<div>Story Seed: Rats in the Kitchens</div>
+
+<h3>Story Seed: Rats in the Kitchens</h3>
+
 <div>One fine morning, on the Feast of St. John, the whole household is in great excitement. The noble’s liege has accepted an invitation to stay, and a huge feast of exquisite finery has been promised to impress the lord, as a very delicate situation has arisen and his full support is required. But soon after breakfast a shout goes up — every member of the kitchen staff has vanished, and a plague of rats has mysteriously appeared in the manor. Can the vermin be dealt with, and untrained characters manage to somehow cook such a huge meal in time? Plenty of womenfolk from the manor know how to cook, but none has the skills to produce a noble feast. Why has disaster fallen today, and where are the kitchen folk?</div>
 
 <h3>Story Seed: Damsel’s Tresses</h3>
@@ -1211,7 +1246,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This sturdy pony is suited for use on the roughest terrain. These statistics may be used to represent animals from the north of England and Scotland, or Iceland, and such beasts are greatly prized for their ability to cross mountain trails and treacherous moors. A working pony costs about one pound in Northern Europe, but far more in southern regions. Superb pack animals, sure footed and sturdy, they are used to carry supplies over long distances where no cart can go, and across country. The Perfect Balance Virtue represents their abilities on treacherous mountain paths.</div>
 </div sidebars>
 
-<div>Lords of Men The Care of Horses</div>
+
+<h3>Lords of Men The Care of Horses</h3>
+
 <div>Horses are extremely important and valuable, so their care can be come an important consideration in the saga.</div>
 <div>Horses and Aging</div>
 <div>If the stables rules are being used (see Running an Establishment, later) there is no need to keep track of the births and deaths of individual horses, though a shoddy stable</div>
@@ -1223,7 +1260,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>is an extremely specialized skill subsumed under the Ability Animal Handling, and wealthy nobles who pursue hawking employ at least one falconer to train their birds, and maintain a building for the falconer and the birds. The upkeep of hawks requires perches, a good water supply, and a specialist diet, all of which increase the expense. A dove cote is often also maintained to feed the hawks as well as supplement the household diet. It is worth noting, however, that dove cotes are often a cause of contention between a lord and his tenants, as the tenants usually believe that the lord’s birds eat their grain and seed from the fields. Even after all this expense, even the best-trained hawks and falcons sometimes stray, and the loss of a rare bird causes much sorrow — not to mention expense — to its owner. Anyone finding a hawk or falcon can expect a substantial reward for returning it, and many areas have laws making any such stray bird the property of the lord upon whose land it is found. Hawking birds often live within a chamber in the falconer’s house, where they are secured to their perches by leather or silk cords called jesses. The far end is placed on a ring called a terret, which is slipped over the perch, or can be worn over the finger on the creep, the great leather gloves worn by the hawker to protect his hands from the birds’ talons when they are taken out to hunt. A new fashion originating at the court of Sicily but becoming increasingly widespread involves the hawk being kept calm with a hood, often elaborately embroidered or bejeweled. Hunting birds are first trained by professional falconers, and then afterward trained</div>
 
 <div sidebars>
-<div>A Note on Size and Capacity</div>
+
+<h3>A Note on Size and Capacity</h3>
+
 <div>Horses are measured in hands, abbreviated “hh.” A hand is four inches, or approximately ten centimeters, and the horse is measured from the ground to the top of the withers, which is the highest point on a horse’s back. In modern terms a horse up to 14.2 hands is classified as a pony, but medieval horses are smaller. A modern thoroughbred averages about sixteen hands in comparison, so is eight inches higher than the horses of Mythic Europe. A horse can carry unencumbered about 30% of its weight in pounds, so a 14 hh horse weighing perhaps 1,200 pounds can carry 400 pounds of goods or riders without being encumbered.</div>
 </div sidebars>
 
@@ -1447,7 +1486,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Story Seed: The Silent Tourney</h3>
 
 <div>The king has banned all tournaments but there is talk of a private circuit run by a mysterious sponsor. The events are by invitation only and nobody seems to know where they will take place next. After a lapse in piety, a knight known to the covenant receives an invitation. The sponsor is a corrupting demon and the teams who fight at his tournaments are filled with those who have died at tournament, live in a state of sin, and have been denied God’s grace. After discovering the truth behind the silent tournament, can the magi or their companions help the dead gain release? Can these unfortunate souls be absolved, or are the undead knights too entrenched in sin to be saved? And why is the herald a point of calm in the Infernal maelstrom?</div>
-<div>Story Seed: The Falcon of Virtue</div>
+
+<h3>Story Seed: The Falcon of Virtue</h3>
+
 <div>A nobleman sends to the covenant for help in trapping a rare bird that he intends to award as a tournament prize. He has heard of a falcon whose feathers burn with the sunlight, whose talons are sharp as flint, whose flight is as silent as the air, and whose temper is as calm as a summer lake. The nobleman is wealthy and prepared to lay down a handsome price for the bird. Upon capturing the bird the covenant discovers it carries a shocking secret. Can they now turn the falcon over to the lord?</div>
 
 <h3>Story Seed: A Hermetic Sponsor</h3>
@@ -1560,7 +1601,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>In 1220 the memory of William Marshal is still alive, and he is held up as an example of a great knight. Much of William’s reputation was earned on the tournament fields, but while he died a wealthy and influential man, his birth gave him few advantages. Inheriting nothing from his father, William spent most of his childhood in the household of his father’s cousin, William de Tancarville, an influential Norman noble. Tancarville introduced him to the tournament where he developed not only his fighting prowess but also his tenacity, resolve, and social connections. Despite early setbacks resulting in poverty, he won ransom after ransom on the field and was soon charged by Henry II of England to tutor his son Henry the Young King. Though rewarded generously by the Young King, William’s ambition got the better of him and he was soon tourney</div>
 <div>ing under his own banner. The promise of even greater wealth lured him to the side of Count Philip of Flanders. But while William’s loyalty on the tournament circuit was for sale, his loyalty to successive kings of England never wavered. (He served Henry II, his son Henry the Young King, Richard, and John before becoming regent for Henry III.). He was rewarded with earldoms, a fruitful dynastic marriage, and huge wealth and political influence. So powerful was William Marshal, Earl of Pembrokeshire, that he was elected regent to Henry III on the death of John in 1216. And at the age of 70 in 1217, he personally led the fighting in the relief of Lincoln, which led to the expulsion of Louis of France from English shores. William died two years later in 1219. William Marshal’s story is one to which every knight entering the tournament aspires.</div>
-<div>Story Seed: The Mantle is Passed</div>
+
+<h3>Story Seed: The Mantle is Passed</h3>
+
 <div>An elderly knight is looking for a way to see his colors ride onto the field of tourney once more and one of the grogs is surprisingly willing to help. Armed in the old knight’s armor, riding his horse, and carrying his sword, lance, and shield, the grog finds himself invincible in the melee. He has claimed ransom after ransom and not lost a single contest. But the assembled knights are suspicious and claim witchcraft is afoot. Can the magi extract their increasingly determined grog from the tournament and free him from the old knight’s curse?</div>
 </div sidebars>
 
@@ -1573,7 +1616,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Mythic Pound System, From Covenants</div>
 <div>In this system, published initially in Covenants, players keep records using Mythic Pounds. These are units of account based on the value of a pound of silver (rather than coins that the characters spend). The prices of goods and services are estimated so troupes have approximate figures from which to work. Each Mythic Pound can be divided into 20 shillings or 240 pence. Actual coins that characters can spend are almost always silver pennies. In brief, a manor’s traditional sources of income equal 20 pounds, and a knight’s expenses are a similar amount. If a covenant has a manor and does not owe knight-service on it, then it is a lesser income source. The expenses of a knight may be calculated using the system given in Covenants, and the rules there may be used to tweak the fief’s budget. (Those rules measure inhabitants in points, with each point requiring one pound of expenditure.) The manor’s inhabitants are considered to be the knight himself (3 points), his family (aggregated as 3 points), his reeve or steward (2 points), his squire (2t points), a couple of veteran men at arms (4 points), and his horses (2 points). He tithes two pounds per</div>
 <div>year. This leaves two pounds per year surplus that is considered to cover exceptional expenses like scutage, new horses, and repairing buildings that burn down. The lord has other staff, but they are paid in rights to land rather than from his income. These include the priest, miller, baker and, in many places, the shepherd, swineherd, and reeve. For a character to become wealthy from land he needs more than one manor, preferably without a corresponding debt of additional knight service. Players who do not wish to consider the numbers too deeply should assume that a knight makes ten pounds each year for each manor that does not owe knight service. If knight service is owed, it might be paid out in scutage (a fine paid in lieu of service), which costs up to three pounds per year, met by hiring a mercenary knight, which costs two pounds, or met by sending a knight of the lord’s mesnie. Mesnie knights cost about five pounds per year to maintain at a basic standard of chivalric living, but many lords pay much more as largesse. The average fief in England in 1220 contains five manors. Most of these manors are held by relatives or vassals of the lord. Knights are expected to live slightly beyond their income, regardless of how much that actually is, so even those with additional manors are usually chronically cash-poor, live on credit, and are dependent on the largesse of their lords. Many lords like things this way. This is discussed further in Chapter Two: Politics. As the 13th century unfolds, unless the player characters do something to radically change society, many knightly families will slip into the wealthier part of the freeman class. Single manors will become increasingly rare as land consolidates in the hands of noblemen and the Church, both of which generally prefer to give their knights cash fiefs.</div>
-<div>Money in Ars Magica: A Recap</div>
+
+<h3>Money in Ars Magica: A Recap</h3>
+
 </div sidebars>
 
 
@@ -1590,7 +1635,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Manor: The Model Fief</h3>
 
 <div>The basic fief is a single the manor. A manor, for the purposes of the game, comprises the amount of land traditionally required to maintain a knight, his family, and his household retainers. Powerful noblemen have other minor sources of income, but most such noblemen also have many manors for which they do not owe the service of a knight. This provides them the surplus income required to support their opulent lifestyle. The simplest manor is made up of a large hall where the lord’s representative lives, surrounded by farmlands and a village. Large villages may, however, be divided between two or more manors. Most manors have all of the elements described in the following sections, although many manors may lack one or more of them. The Domesday Book even records one manor that had no inhabitants. It was farmed by men from neighboring manors for a fee.</div>
-<div>Alternatives to the Manor With Demesne</div>
+
+<h3>Alternatives to the Manor With Demesne</h3>
+
 <div>This section describes in detail a manor with demesne and resident bailiff. (A demesne — pronounced “domain” — is land farmed on behalf of a lord by his villeins as part of their rent.) This might give the impression that this is the dominant mode of</div>
 
 <div sidebars>
@@ -1732,7 +1779,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Mineral Rights</div>
 <div>Certain mineral rights are reserved by the king, and major mining operations rapidly evolve into towns. Rights to minor resources are significant on a manorial level. On the principle that the lord owns everything, and has the right to charge for the use of anything, any valuable thing beneath the ground might attract a fee for use. In Mythic Europe a character who finds a gold nugget, or even a gold mine, doesn’t own it; just because the lord doesn’t know that it exists doesn’t mean</div>
 <div>he doesn’t own it. Useful mined resources include slate, quarried stone, flint, potter’s clay, fuller’s earth, and clay dyes.</div>
-<div>Legal Rights and the Manor Court</div>
+
+<h3>Legal Rights and the Manor Court</h3>
+
 <div>A serf leading a typical life regularly pays fines to his lord. Fines are not, in this case, the result of a criminal act, but are instead a monetary compensation paid to the lord in exchange for him waiving one of his rights. Lords have so many rights, and they are so burdensome to administer, that it has become easier in most places for these breaches and resolutions to become monetary payments.</div>
 <div>Entering the Manor</div>
 <div>A peasant pays a fee to the lord for entering the manor by taking possession of a piece of land. This fee may be varied if the land is poor, to be assarted, or the villein has some skill sought by the lord.</div>
@@ -1805,7 +1854,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Religion plays a significant role in the life of almost every person in Mythic Europe. In feudal areas, that role is to provide the sacra</div>
 
 <div sidebars>
-<div>Story Seed: Fines for the King</div>
+
+<h3>Story Seed: Fines for the King</h3>
+
 <div>The king of England owns all of England. (This is unusual; generally kings are owed the service of various nobles to various degrees.) This means that the king of England is in a unique position to cause the Order of Hermes discomfort. In this story seed, he does this by claiming that he is owed fines when magi in England are fined. If a Hermetic magus is found guilty of abusing a magus from a neighboring Tribunal, a fine is often paid. This requires material of value to pass from England to another kingdom. This deprives the king of what is his, because everything that comes from England is his. This means he is due reparation of equal value to the thing lost. The king sends a representative to Tribunal, who is laden with relics to ensure he is not mishandled by magic, to demand the king’s rights. Characters may need to deal with this request from the king. It is likely a ploy to establish an ongoing payment of money in exchange for the king’s recognition of the authority of the Hermetic Tribunals as courts. Payment could be a problem, though, because it would be made public and set a precedent that other kings would seek to follow, regardless of the unique legal niceties of the English situation. Characters might also seek the Hermetic magi who arranged the king’s intervention. Fingers might be pointed at House Tytalus, whose domus magna floats smugly off the coast of Normandy and is the cause of much strife in its neighboring Tribunals. Could it, however, have been someone else, seeking to embarrass the Tytalus? They have many enemies that have become as cunning as they are.</div>
 
 <h3>Story Seed: Tithe of Vis</h3>
@@ -1870,11 +1921,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Alms and Charities</div>
 <div>The Church is the greatest landholder in Mythic Europe, and individual priests may hold land as if they were noblemen, on behalf of the Church. Some Church land is allodial, because successive groups of monks following the Benedictine model have sought places in the wilderness to settle as monasteries, and peasant land-holdings have grown up around these sites. In England and Normandy this is considered legally impossible because all land is held from the king. There are two main types of non-allodial Church land, which are described in the following sections.</div>
 
-<h4>alMs land</h4>
+<h4>Alms Land</h4>
 
 <div>Alms land is land given to the Church for its use, in perpetuity. It is still held from a major noble. The Church may farm the land or offer it to vassals. Other rights, like the right to take tolls, to require knight service, or to take a portion of the fi nes from local courts, stay with the nobleman. This means that the Church is required to have a small standing army and fi ght on both sides of many wars, simply to render service for its lands.</div>
 
-<h4>charities</h4>
+<h4>Charities</h4>
 
 <div>Charities are lands given to the Church in exchange for particular services. The most popular service connected to a charity is the</div>
 <div></div>
@@ -2025,7 +2076,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>One tenth of everything that a person gets must be given to the Church. Theological theories that would limit tithes to the natural increase of plants and animals aside, every person owes tithes, for everything of</div>
 <div>value, always. Every person, it is assumed, lies about his tithes and defrauds the Church. The mortuary, a charge described in Chapter Six: Manorial Fiefs, is always levied on the dying. Its function is to make things right between the Church and the dying thief. Common peasant rationales for paying lesser amounts include subtracting the expenses of collecting the harvest before the division, paying for only the primary crop of the field, not tithing byproducts of the harvest like straw, tithing with the worst of the fruit or grain instead of the best, paying late, delivering tithes to a local church instead of the church appointed to the manor, or docking the pay of a poor-quality priest. Senior officers of the Church may, out of a sense of mercy, excuse the tithe in limited circumstances. Beggars, for example, owe tithes on the alms they collect. They are excused payment for alms sufficient to prevent them starving. Note that exceptions may never be self-assessed. The Church puts a little leeway into tithe-exemption calculations. People who think they are likely to starve if they pay their tithe can only be compelled to pay by sending armed men to arrest them and seize their property. This is, itself, expensive, and so on some manors, it’s not considered worth the effort. On other manors, strict enforcement is thought to be the obligation of the lord for the spiritual betterment of the peasantry, and so uneconomic tithes are levied anyway.</div>
-<div>Paying the Lord Less Than You Owe</div>
+
+<h3>Paying the Lord Less Than You Owe</h3>
+
 <div>The simplest way for a peasant to have more money is to give less to the lord than is owed. This is difficult where there are cash rents, but is relatively simple in areas where rent is paid in the form of goods. Typical techniques include giving the lord the smallest fish, fruit, or eggs, and the worst quality grain. One practice considered particularly pernicious is seen close to some of the capitals of Mythic Europe. The peasants of a</div>
 
 <div sidebars>
@@ -2040,7 +2093,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 <div>lord simultaneously refuse to pay their taxes. This holds his lifestyle to ransom. This tactic generally only works if the lord is unable to bring force to bear, such as if he is deeply in debt or needs the money to pay the king’s scutage.</div>
-<div>Paying the Lord Only What You Owe</div>
+
+<h3>Paying the Lord Only What You Owe</h3>
+
 <div>If a lord is getting only what he is owed, by custom and law, and this leads him into a life that is below what his peers enjoy, it is the moral duty of his peasants to give him more. The lord, technically, owns everything they own anyway. See the concept of tallage in Chapter Six: Manorial Fiefs for more detail.</div>
 
 <h3>Not Resting on Holy Days</h3>
@@ -2056,7 +2111,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The two most common thefts in Mythic Europe are of firewood and stock. Stolen stock is relatively easy to hide, because all sheep look identical when skinned. Stolen</div>
 <div>firewood is even easier to hide: wood looks like other wood and the evidence literally goes up in smoke. Communal fields allow many other opportunities for theft. These include moving border markers, plowing in ignorance of the markers, and over-reaping such that one’s scythe cuts down a little of a neighbor’s crop.</div>
-<div>Changing Priests Without Permission, or Deducting Tithe for his Flaws</div>
+
+<h3>Changing Priests Without Permission, or Deducting Tithe for his Flaws</h3>
+
 <div>Some unscrupulous priests allow their flocks to pay an incomplete tithe. This leads peasants into sin, encouraging them to shop around for the priest who will give them the best rate regarding their tithes and other du</div>
 
 <div sidebars>
@@ -2064,9 +2121,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Story Seed: Claiming the Covenant</h3>
 
 <div>In some parts of Mythic Europe, anyone who lives on a lord’s holding for more than a year, and lacks written proof that they are free, is automatically a villein. This can cause trouble for a covenant that hides its magical status, because it means that every servant of the covenant, and even the magi themselves, are legally the property of the local baron. Even if the baron does not attempt to press his claim and force the magi to take to the plow, he feels he has a right to a large payment in exchange for their manumission.</div>
-<div>Story Seed: Sending Lawyers and Money</div>
+
+<h3>Story Seed: Sending Lawyers and Money</h3>
+
 <div>In the classic form of peasants withholding their tax (which causes the most alarm among the writers of estate management handbooks), a group of peasants sends a delegation to the capital to hire a lawyer. They give the lawyer the money that they owe to their lord, to argue against the lord in a court of law. If the peasants win, they have lost nothing: their fees for the lawyer are smaller than the continual stream of fees that the lord could otherwise demand. If the lord wins, he has still suffered a great expense, great disruption to his domestic staff if he had no cash in reserve, and is unlikely to be able to collect the full amount his peasants owe him regardless. The characters become involved because the carrier of the peasants’ message is a redcap. When the redcap is found dead, the characters must determine who is responsible, and where the money has gone.</div>
-<div>Story Seed: Saving a Village, or Saving For a Village</div>
+
+<h3>Story Seed: Saving a Village, or Saving For a Village</h3>
+
 <div>The lord of a local village is marrying for the second time. He demands the peasants pay an extra tax, to allow him the sort of feast required by his new father-in-law, who is a baron. This extra tax will impoverish the village. The characters may prevent this, or encourage it, to find ways to benefit from the lord’s greed and the peasants’ suffering. The characters may seek to prevent the tax being tallied. They may do this by sabotaging the marriage. This is difficult, but not impossible, because although the lord does not usually dwell at the manor, he will be in residence for a few weeks before the nuptials take place. The characters may instead encourage the nobleman to impoverish his people. They may do this by offering rare and expensive delights and entertainments for the feast, through their intermediaries. This leaves the villagers and lord open to the covenant’s financial influence. It allows the covenant to lure away the manor’s tradesmen, and may even make the village so marginal that the lord would accept a cash offer for it, or the role of tame nobleman.</div>
 </div sidebars>
 
@@ -2083,7 +2144,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Elderly people who work are considered avaricious. Instead, society expects that they should turn their lands over to their children. On many manors it is usual, before the land is handed over, for a written contract to be sown to the manorial roll. This lays out precisely how much the retired person may expect each year, in grain, cheese, money, and clothes. It almost always promises “a place</div>
 
 <div sidebars>
-<div>Story Seed: Lying for the Lord</div>
+
+<h3>Story Seed: Lying for the Lord</h3>
+
 <div>A peasant flees to the covenant seeking protection. His lord asked him, along with a group of compurgators, to lie about the ownership of a piece of land that was in dispute. Some of the others who acted as witnesses have gone missing, and the peasant thinks they have been murdered. He is not sure if his lord had them killed to make sure that they cannot tell the truth to the royal court, or if the slighted party carried out the killings, taking revenge. In truth it is far worse that this: a demon is murdering parties on both sides of the dispute, hoping to trigger a regional war.</div>
 
 <h3>Story Seed: Deodand Donkey</h3>
@@ -2093,7 +2156,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Story Seed: The Bishop’s Mistress</h3>
 
 <div>There is a folk story about the hearth mate of a priest who heard that the bishop was on his way to reprimand her partner for living with a woman. It is said that she filled a basket with good things to eat and took a shortcut through the woods. Reaching the bishop’s party before he arrived in town, she was asked who she was, and where she traveled, all alone in the wood. She answered that she was taking food to the bishop’s mistress, whom she had heard was with child. The bishop, mortified by his shame, returned home. A bishop on good, or at least neutral, terms with the Order has contacted the covenant and asked for help. He is the bishop in the story. The strange part, for him, is that he doesn’t actually have a mistress, and yet everyone he meets seems to believe he does. His home has a room for her, decorations selected by her, and clothes that she seems to have discarded for the maids to wash. One of his rooms has become a nursery, and between visits someone is filling it with furniture and toys. He does not know if this is some mundane trick engineered to drive him mad, if the mistress of the priest made a deal with the faeries of the wood, or if demons are bedeviling him.</div>
-<div>Story Seed: Gift to the Faeries</div>
+
+<h3>Story Seed: Gift to the Faeries</h3>
+
 <div>Many mothers of illegitimate children, or of children in families that are too large, leave their babies exposed in the wilderness, comforted by the idea that they will be taken and raised by the faeries. The lack of corpses in the traditional sites where children are abandoned reinforces this hope. Each site has its own explanation. In some the children are taken and raised by faeries, or given to mothers who want children but cannot have them. In others, faeries or other predators consume the children. In Transylvania and the Alps, these places are monitored by magi, who find that a surprising proportion of these children are Gifted. Even those who are not become highly loyal servants to the secret communities that rescued them from death. In this story seed, a noble whose son has died on crusade is desperate for an heir. He knows he has a bastard son, and seeks him out only to find that his mother abandoned him on the Waif Rock, a faerie site near her village. He asks the magi to find his child, and return him home. Perhaps he has been taken by the faeries. Perhaps he is now a servant of the covenant. Perhaps the characters can just pick a suitable servant and claim he is the lost son returned. If they substitute a fake, eventually the prodigal returns, filled with faerie power and mischief.</div>
 </div sidebars>
 
@@ -2113,13 +2178,19 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Story Seed: Misguided Faeries</h3>
 
 <div>Characters breaking the taboo of working in old age attract faeries that represent their fear of decrepitude and powerlessness. Magi also attract these creatures, despite the fact that a magus in his sixties is only middle aged. These faeries, lacking experience with magi, cannot see the magicians for what they really are, or at least pretend they cannot. This makes their attacks humorously ineffective, if still annoying.</div>
-<div>Story Seed: Even Demons Have Limits</div>
+
+<h3>Story Seed: Even Demons Have Limits</h3>
+
 <div>A local baron is taking to ridiculous extremes the idea that his servants are required to labor for him cheerfully and with a whole heart, working people almost to death. The characters are contacted by an agent of a local demon of greed, who does his best to hide his involvement, retaining the guise of a local taverner. The demon believes that the peasants of the area are too exhausted to sin properly. The demon thinks that he has the lord’s soul safely claimed by now, but regrets that his experiment has cost him the souls of the exhausted peasantry. The demon hopes that the characters will be able to somehow intervene with the lord to ease the peasants’ burden, that all will be able to freely sin again.</div>
-<div>Story Seed: The Inn of Good Rest</div>
+
+<h3>Story Seed: The Inn of Good Rest</h3>
+
 <div>A character of interest to the covenant dies of poisoning and the characters decide to investigate. They discover there have been a series of poisonings, all pilgrims who have worshiped at a local shrine. The deaths are being caused by the followers of the faerie lord to whom the shire’s site was sacred before the coming of Christianity. They run a brothel, and occasionally kill pilgrims who visit it. They do this because their faerie patron guards the border between the profane and sacred, and feel that they further this by killing people who are at spiritual risk. Some pilgrims mistakenly assume that since pilgrimage washes clean some of their sins, they can perform some of the more interesting sins the night before the pilgrimage concludes and not suffer any spiritual ills. The faerie lord, is more influenced by commonly believed stories than by theological accuracy, and has, his followers use slow-acting poison, because it is sure not to kill any given victim before his pilgrimage is complete. The faerie’s followers believe that they can catch the pilgrims just after they enter a state of grace, killing them before they can sully themselves again.</div>
 </div sidebars>
 
-<div>Lords of Men Being Hard on Pilgrims and the Poor</div>
+
+<h3>Lords of Men Being Hard on Pilgrims and the Poor</h3>
+
 <div>Peasants are required to aid pilgrims and the poor. Providing for the poor is increasingly difficult in Mythic Europe, due to the booming population. Some peasants believe that the poor should be provided for from the tithes of the Church. They therefore surmise that it is not their duty to succor the poor, given that they, themselves, live a marginal existence. Similarly, pilgrims tend to be wealthier than peasants. They at least have sufficient free time to travel. It’s not clear to some peasants why they should offer food and lodging to people richer than they are, who choose to pretend to be poor briefly while engaging in a sort of spiritual tourism. In some parts of Mythic Europe, pilgrims are also considered troublemakers. It’s believed that many pilgrims use the opportunity of anonymity away from their home communities to engage in theft, inebriation, and — particularly — fornication.</div>
 
 <h3>The Gaining of Freedom</h3>
@@ -2132,9 +2203,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Manumission of serfs is explicitly forbidden to senior Churchmen, banned as a form of alienation of property from the Church. Senior Churchmen, in theory, hold no property of their own. They instead administer the property of the Church, which they cannot sell. How much is the lifetime labor of a peasant worth? How much, in addition, the</div>
 <div>work of every descendant, though all generations until doomsday? No peasant has that sort of money, and so he cannot pay his worth to the Church. More practical Churchmen counter with the idea that sale of Church assets, at the going rate, does not diminish the Church’s holdings. They feel that it is right to free serfs for money, provided that they don’t pocket the money themselves. Refusal to release any serfs is seen as a way of keeping priests away from this temptation. The Church, practically speaking, does manumit serfs, but almost exclusively in exchange for money, and only when finances are unusually weak.</div>
-<div>Manumission by Membership of a Town’s Guild</div>
+
+<h3>Manumission by Membership of a Town’s Guild</h3>
+
 <div>In many areas it is possible to become free by being a member of a town’s guild for a period of time. The idea that a person becomes free by living in a town for a year and a day oversimplifies this legal point. To become free the person must not stray from the town, and must be accepted as a resident by the authorities of the town. This generally requires guild membership, which, in turn, generally requires the active support of a wealthy patron who gives the villein employment. It is, therefore, far easier for villeins who have relatives living in a town to escape villeinage in this way.</div>
-<div>Manumission by Force of Crusading Sentiment</div>
+
+<h3>Manumission by Force of Crusading Sentiment</h3>
+
 <div>It is felt by many people that there is something ignoble about forcing one who has fought for the cross back into serfdom. Legally, a crusader has no right to claim his freedom. Effectively, in most kingdoms, a man who has been able to attend crusade as part of the retinue of a great lord is freed by his service to God.</div>
 <div>Lords of Men The Agricultural Year</div>
 <div>The agricultural year is divided into four uneven seasons by the work done at that time, which is dependent on climate. Roughly speaking, winter runs from September 29 (which is the first day of the administrative year) until Christmas. Twelve days of recreation follow Christmas, and then spring begins. Spring lasts until Easter. Easter again is followed by a week of festivities, and heralds Summer, which ends at the start of August. Autumn lasts until the end of September.</div>
@@ -2675,7 +2750,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The.escalade.involves.only.those.troops. assigned.to.the.nominated.wall. Each.victory.by.the.attacking.side.reduces.the.castle’s.garrison.characteristic.by. one.step.(beginning.with.the.next.siege. event). The.attacking.army.must.use.a.tower.or. ladders.to.scale.any.standing.walls. Baggage. troops. cannot. be. targeted. by. the.attacking.army.</div>
 <div>If.the.attacking.army.wins.a.battle.against. a.shoddy.wall.they.breach.the.castle,.which. then. becomes. the. backdrop. for. a. standard. battle.using.the.battle.rules.presented.earlier. in.this.chapter.</div>
 
-<h4>counterattack</h4>
+<h4>Counterattack</h4>
 
 <div>As. a. response. to. any. besieging. action,. or.as.an.action.during.stockade,.the.garrison. may. send. out. troops. to. attack. the. enemy. directly.. These. actions. have. a. Battle. Ease. Factor. of. 9.. Neither. Territorial. Advantage. nor.Weight.of.Numbers.apply..The.sallying. force.must.leave.the.castle,.reach.their.tar</div>
 <div>•</div>
@@ -2935,7 +3010,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>If you are using the interrupting actions option (see Option: Interruption Actions, earlier in this chapter), a character who is charging on foot uses his Combat Ability as the relevant Ability in his Action Priority Total. The character who is interrupting should use Athletics if he’s trying to move out of the way of the charge, or a Combat Ability if he’s trying to attack the charging character. One may interrupt a charge using either missile or melee weapons. If you are not using the interrupting actions rule, you can still use this option. If you do so, a character who wants to interrupt a charge must delay his action, and can then attack in response to the charge.</div>
 
 <div sidebars>
-<div>Option: Condensed Notation for Combat Scores</div>
+
+<h3>Option: Condensed Notation for Combat Scores</h3>
+
 <div>Players may find it convenient to write combat scores in “condensed notation.” For each weapon, write two numbers for the Defense score, separated from each other by a slash. The first number is for the weapon only, and the second is for the weapon-shield combination. Label these lines as “weapon/ shield’ (substituting the names of the specific weapon and shield in question, of course). It is a good idea to include a separate line on the character sheet that gives the Defense score for the character’s shield (without weapons), which is needed against missile attacks. For example, the standard soldier (see ArM5, page 22) has the following condensed notation combat scores: Axe/Heater Shield: Init +0, Attack +12, Defense +9/+11, Damage +7 Fist: Init –1, Attack +7, Defense +7, Damage +1 Heater Shield: Defense +11 This may not seem to save much space, but note that it covers all possible weapon/shield combinations, and there is no need to re-calculate combat scores if, for example, a combatant’s shield breaks.</div>
 </div sidebars>
 
@@ -3032,16 +3109,20 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The impact of a half-ton of horse and rider charging furiously at a speed over twenty miles an hour is nigh irresistible on the battlefield. With this optional rule, any time a mounted charge hits a target smaller than the horse, that target may be knocked prone by the terrific force of the blow, in addition to any wounds caused by the blow itself. If a mounted attack simply misses, or if the target resists the attack due to magical protection (as by a warding spell, or Parma</div>
 <div>Magica against a magical lance), then no collision takes place and the target isn’t in jeopardy of being knocked down. When the mounted charge hits, the target must roll a reaction to remain upright:</div>
-<div>Resist Charge While Mounted: Dexterity + Ride + saddle modifier + stress die vs. Damage Total (before Soak) + Size of attacker’s horse</div>
+
+<h4>Resist Charge While Mounted: Dexterity + Ride + Saddle Modifier + Stress Die Vs. Damage Total (Before Soak) + Size of Attacker’s Horse</h4>
+
 <div>A rider with a cantled saddle, as used in tournaments or warfare, gains a +3 bonus to this roll. A rider without stirrups suffers a –3 penalty.</div>
-<div>Resist Charge While on Foot: Str + Size + Combat Ability + stress die vs. Damage Total (before Soak) + Size of attacker’s horse</div>
+
+<h4>Resist Charge While On Foot: Str + Size + Combat Ability + Stress Die Vs. Damage Total (Before Soak) + Size of Attacker’s Horse</h4>
+
 <div>If the roll fails, the target falls from his horse or is knocked down. He lands prone, and may take additional damage from the fall (see Falling from Horseback, later in this chapter).</div>
 
-<h4>Shooting Missiles from Horseback</h4>
+<h4>Shooting Missiles From Horseback</h4>
 
 <div>Knights and sergeants from England or France rarely attempt to shoot bows or throw javelins from horseback, but elsewhere in Mythic Europe, mounted archers — Moors, Byzantine kataphraktoi, Hungarian szekeley, Levantine turcopoles, and Mongols — are commonplace. In Iberia in the early Middle Ages, both Moorish and Christian cavalry armed themselves with javelins. Mounted crossbowmen also appeared in historical Europe, but weren’t common until the late 14th century. Missile cavalry can be effective, but even the most skilled horse archers are less accurate than their infantry counterparts. Shooting missiles from a moving horse always incurs an Attack penalty, which gets worse the faster the horse’s gait (see Mounted Movement Rates, earlier in this chapter). However, because of a horseman’s ability to move and attack in the same round, a mounted archer can gallop to close range before shooting, then wheel and ride away the following round. Mounted on a swift horse, a rider can usually get the same or better Attack Total by galloping up close to his target than if he had stood still and shot from long range. Characters with missile weapons get the normal situational Defense bonuses for mounted combat (i.e., equal to their Ride skill, or +3, whichever is less) due to their mobility. The Attack bonus for mounted combat does not apply to missile attacks.</div>
 
-<h4>Actions Taken by Horses</h4>
+<h4>Actions Taken By Horses</h4>
 
 <div>A trained warhorse can attack opponents in melee. The horse does not roll Initiative on its own; it acts on the rider’s turn. (The rider decides whether he, or his horse, completes its action first.) If the rider dismounts or is forcibly removed from the saddle, the horse begins acting independently. The player or storyguide should roll Initiative for it at that point. Like a human character, a warhorse gets one action per turn. Therefore, it can either move or attack, but not both. Carrying a rider in a mounted charge counts as the horse’s</div>
 
@@ -3049,12 +3130,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Mounted Movement Rates</div>
 <div>Horses have four gaits, each of which has a different movement rate.</div>
 
-<h4>Gait –3 or</h4>
+<h4>Gait –3 Or</h4>
 
 
-<h4>less</h4>
+<h4>Less</h4>
 
-<div>–2 to –1 0 +1 to +2 +3 to +4 +5</div>
+
+<h4>–2 To –1 0 +1 To +2 +3 To +4 +5</h4>
+
 <div>Walk/Amble 7 8 10 12 15 18</div>
 <div>Trot 12 15 20 25 30 35</div>
 <div>Canter 20 25 30 35 45 50</div>
@@ -3067,7 +3150,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Gait Penalty</h4>
 
 
-<h4>to Missile</h4>
+<h4>To Missile</h4>
 
 
 <h4>Attacks</h4>
@@ -3177,7 +3260,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>When a character is fighting from an elevated position, whether he is atop a castle rampart or a tavern staircase, he enjoys an advantage that often translates to a +1 bonus to Attack and Defense in both melee and missile combat against opponents lower than himself. Mounted characters do not normally qualify for this bonus, because height advantage is already accounted for in the usual bonus for mounted combat (see ArM5, page 174). However, a horseman charging down a steep embankment would qualify for the higher-ground bonus.</div>
 
 <div sidebars>
-<div>Light Sources and Range of Visibility</div>
+
+<h3>Light Sources and Range of Visibility</h3>
+
 <div>How well a character can see an opponent, and at what distance, can make a difference for missile combat. Poor visibility grants increasing levels of concealment to characters at greater distances. At the storyguide’s discretion, a Perception roll of 9+ can sometimes reduce (by one step) the level of concealment due to poor visibility. The table below gives the longest range in paces at which a given level of concealment applies. For example, in moonlight a character would have medium concealment at a range of twenty paces, and heavy concealment between 21 and 50 paces (though the storyguide shouldn’t feel compelled to calculate distances to the exact pace!).</div>
 <div>Conditions None Light Medium Heavy Total</div>
 <div>Moonlight n/a 0 20 50 100</div>
@@ -3236,7 +3321,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>Realms of Power: Magic proposes, on page 85, a different way to represent the unlikelihood of defeating a fifty-foot dragon by means of fisticuffs. The rules in that book are less a wholesale change to unarmed combat than the material presented here, and they are compatible with the scuffling rules in ArM5. The Ars Magica Fifth Edition combat rules are oriented toward characters of human size. Some special considerations apply to combat between humans and giants (or other very large creatures). As noted on ArM5, page 192, a 3-point difference in Size is approximately a tenfold difference in mass. This weight advantage gives giants an advantage in certain combat</div>
 <div>situations. For instance, it does not seem plausible that a 175-pound man should have an easy time grappling and pinning a 1,750-pound giant! The storyguide can simply rule that attempting to punch, grapple, or disarm a giant is completely ineffective. For a more complicated, but less arbitrary, approach, use the following rule of thumb: a giant gains a special bonus equal to double the difference between its Size and a smaller opponent’s Size, which is applied to Defense rolls against scuffling and grappling, Defense rolls against being disarmed, and so on. This bonus does not apply against regular attacks with melee or missile weapons, however.</div>
-<div>Your Arms are Too Short to Box with that Giant</div>
+
+<h3>Your Arms are Too Short to Box with that Giant</h3>
+
 </div sidebars>
 
 <div>as a large tree). To pin a target to the ground, he must be prone first, and while the attacker may be standing initially, he also becomes prone during the pin attempt (regardless of whether it succeeds or fails). If the pin succeeds, the defender is helpless and cannot perform any actions (except casting spells or activating enchanted items, provided they do not require gestures). The pin lasts until the attacker’s next action, when he must succeed at a new pin to keep the defender immobilized. A tackle causes the attacker and his opponent to fall prone. No damage results. If the tackle fails, both characters remain standing, but if the attacker botches, he falls. Getting up is an action. A successful disarm causes the opponent’s weapon to fall to the ground. To retrieve it, the disarmed defender must use an action and successfully disengage. Anyone can try to unseat a rider by grabbing his leg and dragging him bodily from the saddle; polearms and halberds can also be used to unseat a rider. If successful, the rider lands prone and takes damage from the fall (see Falling from Horseback, earlier in this chapter). The wrest weapon action leaves the attacker holding his opponent’s weapon. This can also be used for grabbing other items, like a wizard’s staff.</div>
@@ -3248,7 +3335,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Shorten Training Time: Communication +</h4>
 
 
-<h4>Leadership + stress die</h4>
+<h4>Leadership + Stress Die</h4>
 
 <div>The Ease Factor depends on the amount of training time available. If the roll fails, then</div>
 <div>the group cannot become a trained group until the end of the season. If it botches, then the season’s training is wasted. Some Virtues, such as Inspirational, may provide a bonus if the storyguide sees fit; the Difficult Underlings Flaw most likely provides a penalty.</div>
@@ -3266,7 +3353,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div sidebars>
 <div>Example Maneuvers Table</div>
-<div>Example Maneuver Attack Total Defense Choices Advantage</div>
+
+<h4>Example Maneuver Attack Total Defense Choices Advantage</h4>
+
 
 <h4>Required</h4>
 
@@ -3347,7 +3436,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>A group with no vanguard can’t attack, but uses the Defense score of its best member. The leader of a group can designate a new vanguard in the middle of battle, as a fast action. If successful, this takes effect immediately, and the group’s future rolls are based on the new vanguard’s statistics. The leader can automatically choose a new vanguard (no roll required) if the group spends a round without attacking or defending.</div>
 <div>Replace a Vanguard in Combat: leader’s Presence + leader’s Leadership + stress die vs. Ease Factor 9</div>
 <div>A group with no leader automatically fails any Morale or Discipline check. A new leader can assume command automatically if the group spends a round without fighting (i.e., without making any Attack or Defense rolls). Alternatively, a member of the group may assume command in combat as a fast action.</div>
-<div>Assume Leadership in Combat: Presence + Leadership + stress die vs. Ease Factor 9</div>
+
+<h4>Assume Leadership in Combat: Presence + Leadership + Stress Die Vs. Ease Factor 9</h4>
+
 <div>If more than one character succeeds at this roll in the same round, the one with the highest total becomes the leader.</div>
 
 <div sidebars>
@@ -3376,14 +3467,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Primitive and Blunted Weapons</h3>
 
 <div>Stone weapons do less damage than metal ones. Subtract 2 from their Damage modifiers, to a minimum Damage modifier of +1. Statistics for several stone weapons are given on page 95 of Ancient Magic. Slashing and piercing weapons may be blunted to reduce injury in tournaments. Subtract 3 from the Damage modifier of a blunted weapon. This can reduce the Damage modifier below zero.</div>
-<div>Option: Try Using the Other End</div>
+
+<h3>Option: Try Using the Other End</h3>
+
 <div>Several weapons, such as swords, can deal two categories of damage. The wielder may normally choose to deal either sort of damage, as he chooses. As an optional rule, the order in which damage categories are listed on the Weapon Table becomes significant. The first category is the weapon’s normal mode of use. Apply a</div>
 </div sidebars>
 
 
 <div sidebars>
 <div>Melee Weapon Table</div>
-<div>Item Ability Init Atk Dfn Dam Str Load Cost Avail Types Damage</div>
+
+<h4>Item Ability Init Atk Dfn Dam Str Load Cost Avail Types Damage</h4>
+
 
 <h4>Levels</h4>
 
@@ -3515,9 +3610,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Body Armors</h4>
 
 
-<h4>Cuirass/Jerkin Haubergeon Hauberk Full*</h4>
+<h4>Cuirass/jerkin Haubergeon Hauberk Full*</h4>
 
-<div>Armor Prot Load Prot Load Prot Load Prot Load</div>
+
+<h4>Armor Prot Load Prot Load Prot Load Prot Load</h4>
+
 <div>Padded +1 1.5 +1 1.5 +1 1.5 +1 1.5</div>
 <div>Boiled Leather +2 3 n/a n/a n/a n/a +3 4.5</div>
 <div>Reinforced +2 2 +2.5 2.5 +3 3 +3.5 3.5</div>
@@ -3530,7 +3627,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>Surcoats and Greaves</h4>
 
-<div>Surcoat and Greaves Prot Load Cost</div>
+
+<h4>Surcoat and Greaves Prot Load Cost</h4>
+
 <div>Gambeson +1 1.5 Inexpensive</div>
 <div>Coat of Plates +2 2 Expensive</div>
 <div>Boiled-leather greaves* +1 +1 Inexpensive</div>
@@ -3540,7 +3639,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>Helmets</h4>
 
-<div>Helmet Prot Load Perception Penalty Cost</div>
+
+<h4>Helmet Prot Load Perception Penalty Cost</h4>
+
 <div>Cap, Iron 0 0 0 Inexpensive</div>
 <div>Coif/Camail +0.5 0 0 Expensive</div>
 <div>Helmet, Open +1 1 –1 Standard</div>
@@ -3572,7 +3673,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Sabaton: Armor for the feet. Sallet: A late medieval, rounded helmet with a visor.</div>
 <div>Scale Armor: Small plates fastened to a layer of backing material. The plates overlap vertically, like the scales of a fish.</div>
 <div>Vambraces: Armor for the arms.</div>
-<div>Lords of Men Option: Complex Armor Design</div>
+
+<h3>Lords of Men Option: Complex Armor Design</h3>
+
 <div>These optional rules allow players to create their own armor from any combination of materials, and calculate its Protection and Load. The Expanded Armor Table is sufficient to outfit most grogs, knights, and other characters, but these rules might prove useful for creating exotic armor for faeries and the like, or for reproducing a specific, historical armor. First, make a list of all the materials that comprise the armor. Decide which parts of the body are covered by each material. Add up the corresponding Protection values for all the areas covered by that material. Some materials on some parts of the body correspond to a Protection of zero. Once you have the Protection total for all pieces of that material, multiply it by the Load Factor for that material and retain any fraction to get the total Load of that material. Continue this process for all the other materials worn. Finally, add up all the Protection and Load values for the different materials and</div>
 <div>round up to the next whole number. The reason some entries on the table are zero is that some parts of the body are more vulnerable than others. Covering the torso, for example, makes a relatively big difference to overall Protection, compared to covering the forearms. It’s not that wearing padding</div>
 <div>on the forearm doesn’t help the forearm, it’s that wearing padding on the forearm doesn’t help very much in comparison to putting padding on the torso. Non-vital areas need a lot of armor to get a point of Protection, while the same armor over a vital spot would correspond to several points of Protection.</div>

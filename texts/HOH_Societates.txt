@@ -1,3 +1,7 @@
+
+
+LEGALESE
+
 Based on the material for Ars Magica, ©1993–2024, licensed by Trident, Inc. d/b/a Atlas Games®, under Creative Commons Attribution-ShareAlike 4.0 International license 4.0 ("CC-BY-SA 4.0")
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -5,6 +9,9 @@ Ars Magica Open License Logo ©2024 Trident, Inc. The Ars Magica Open License Lo
 
 Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.
 
+
+
+<h2>Introduction</h2>
 
 
 <h3></h3>
@@ -30,6 +37,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter One</h1>
+
+
+<h2>House Flambeau</h2>
 
 
 <div sidebars>
@@ -163,7 +173,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Until Entisimon threw his weight into the conflict, there had been voices within House Flambeau calling for restraint and peace. Some Flambeau magi spoke passionately at Tribunals, urging their sodales to preserve the Founders’ vision of peaceful coexistence among the Houses. Others took more direct action, escorting Quaesitors into the lawless areas in an effort to restore order. But even the Flambeau magi most committed to peace stopped short of using force to curb the troublemakers within their own House. After Entisimon took</div>
 
 <div sidebars>
-<div>The Lost Talisman of the Founder</div>
+
+<h3>The Lost Talisman of the Founder</h3>
+
 <div>Flambeau’s talisman was called Fireheart: an oval-cut, flawless fire opal the size of a walnut. When he first enchanted it, he affixed it to the end of a staff, but in later years he had it re-set and wore it as a pendant. Whatever the fate of the Founder, his talisman has never been found.</div>
 <div>Memoirs by Flambeau’s apprentices list several effects they helped him invest into his talisman: a more-powerful version of Ward Against Heat and Flames (ReIg 30 or higher), Words of the Flickering Flame (InIg 35), Blade of the Virulent Flame (CrIg 15), Lamp Without Flame (CrIg 10), and Rising Ire (CrMe 15). Flambeau probably invested other effects into the jewel, but no one knows what those might have been.</div>
 <div>Apart from its magical powers, Fireheart has significant historical value. As an Arcane Connection (of indefinite duration) to its creator, it could be used to discover Flambeau’s final resting place.</div>
@@ -304,7 +316,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Unlike most members of House Flambeau, the milites are willing to work together. They consider other sworn members of the movement to be their brothers and sisters: they aid and support one another, and, if necessary, avenge one another.</div>
 <div>As a political movement, the milites seek to get more members of their House to subscribe to their code of honor. Most of them believe their own House is in great need of honor and discipline. In addition to trying to reform their own House, the milites are often involved in broader political movements in the Order as a whole.</div>
 <div>Not everyone supports the milites’ goals. Some magi are suspicious of the movement’s authoritarian nature and suspect the milites of scheming to take over House Flambeau. Others chafe at the milites’ narrow definition of honor and resent being judged by the same standards mundanes use among themselves.</div>
-<div>Societas Flambonis: The Cult of Mercury</div>
+
+<h3>Societas Flambonis: The Cult of Mercury</h3>
+
 <div>When the Founders began to invite others to join the Order, Mercere’s son Priamitus sought out hedge wizards who believed that their magic came from the Roman priests of the Cult of Mercury — the same group from which the Order of Hermes took its name. These Mercurians (as they called themselves) still knew some of the secrets of Mercurian magic, including Wizard’s Communion, but had lost all but a few of the ceremonial spells associated with their tradition. At Apromor’s invitation, most of them joined House Flambeau, where they are still most represented. Through Priamitus they have always had very close ties to House Mercere, and they welcome any magi who wish to join their group.</div>
 <div>Mercurians believe that the gods of ancient Rome and Greece are mechanisms of nature with a magical aspect. When they speak of Venus’s influence, they are</div>
 <div>talking about the natural process of love given magical assistance — spells to inspire love might be described as blessings from Venus. Many also believe that there are magical spirits (daimons) associated with these processes that reside in the Magic realm, and with which, as magi, they can interact directly. When they speak of “the gods,” they are sometimes referring to daimons, but more often they mean the anthropomorphized concepts that generally represent their magic.</div>
@@ -385,7 +399,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Whether the Quaesitores are persuaded by such explanations, and how aggressively they pursue magi who fight in the Crusades or Reconquista, is a matter for your individual troupe or storyguide to decide. Even if your saga is one where the Order of Hermes strictly enforces the Code, there are likely to be some maverick Flambeau magi who think they can get away with fighting in the Crusades.</div>
 <div>In the Holy Land, Iberia, and other areas where non-Hermetic wizards may be found, some members of House Flambeau attempt to carry on the work of their Founder by recruiting these wizards into the Order. Others claim that the remaining non-Hermetic wizards have had plenty of time to join the Order and must have decided not to do so; they feel justified in purging them from Mythic Europe. Since magi holding these two opposing views usually operate in the same areas, they often clash with one another. Many certamen and even some Wizard’s Wars have been fought over the issue of nonHermetic wizards.</div>
 
-<h4>Demon-Hunters and Exorcists</h4>
+<h4>Demon-hunters and Exorcists</h4>
 
 <div>Never allow evil to flourish.</div>
 <div>— Flambeau</div>
@@ -419,7 +433,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Apart from a shared interest in leaving legal room for their various activities, members of the House have varying, sometimes conflicting, political goals. Individual Flambeau magi can be influential within their home Tribunals, but the House as a whole tends to lack political clout because of its lack of consensus. The political objectives of a Flambeau magus can be nearly anything; here are some possible examples:</div>
 <div>Persuading the Order to take seriously a potential threat such as the rumored Order of Odin, or putative Order of Suleiman Trying to build military alliances or defensive pacts among covenants, especially in border Tribunals where threats appear more common Moving toward more harmonious relations with mundanes and the Church Preparing the Order to counter aggression from mundanes and the Church Supporting or opposing legal reform in the Order (see also Traditionalists/ Transitionalists in Houses of Hermes: True Lineages, pages 41–42) Ensuring enforcement of the Code in remote Tribunals Defending the right of magi to fight non-Hermetic wizards, for example, in the Crusades</div>
 
-<h4>Hunters and Dragon-Slayers</h4>
+<h4>Hunters and Dragon-slayers</h4>
 
 <div>Organized hunting is a popular activity for Flambeau magi. Of course, wizards are not usually content to chase mundane beasts: they prefer supernatural quarry. A proper hunt requires a skilled huntsman to track the beast.</div>
 <div>In addition to hunting for sport, some Flambeau magi seek supernatural beasts for the vis and rare magical ingredients they provide. Hunters may either work alone, or with a small team of grogs and companions. Magi may seek the services of a hunter to obtain materials they need for their projects and research. Some Flambeau hunters practice techniques to capture magical beasts alive, for use as familiars, pets, or guardians. From time to time, a supernatural beast becomes a menace to mundanes or even magi: a Flambeau hunter is well equipped to deal with such a threat.</div>
@@ -613,7 +627,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Magical Focus</div>
 <div>Vilano Aimed spells that bypass Magic Resistance</div>
 <div>Puissant Finesse or Cautious With Ability (Finesse)</div>
-<div>Schools of Magical Combat at a Glance</div>
+
+<h3>Schools of Magical Combat at a Glance</h3>
+
 </div sidebars>
 
 <div>Finally, magi who heavily specialize in the School of the Founder find their Arts are suitable for little else besides fighting. Many Flambeau magi don’t care — they are perfectly content to be one-trick ponies when that trick is a high-Penetration Ball of Abysmal Flame. Adventuring magi, particularly those who work without other wizards, often need more breadth in their magical abilities. Narrowly specializing in one Form also makes a magus potentially weak in certamen.</div>
@@ -653,7 +669,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>The School of Boreas</h4>
 
-<div>Recommended Virtue: Puissant Ignem or Puissant Perdo</div>
+
+<h4>Recommended Virtue: Puissant Ignem Or Puissant Perdo</h4>
+
 <div>The School of Boreas relies on the single Form-Technique combination of Perdo Ignem. Boreas was a ninth-century magus descended from Flambeau through the line of Apromor. He sought to bridge the apparent schism in his lineage by developing a school of combat that was accessible both to followers of Flambeau and followers of Apromor.</div>
 <div>Most magi find the School of Boreas too narrowly defined to be very interesting. Even the School of the Founder is broader and more versatile. The School of Boreas does have its advantages, so followers of other schools sometimes rely on it as a secondary attack form.</div>
 <div>Cold and darkness are narrow enough areas for each to qualify as a Minor Magical Focus (ArM5, pages 46–47). Magi who</div>
@@ -678,7 +696,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>The Schools of Sebastian</h4>
 
-<div>Recommended Virtue: Magical Focus (Major or Minor)</div>
+
+<h4>Recommended Virtue: Magical Focus (Major Or Minor)</h4>
+
 <div>The Schools of Sebastian are a family of schools that rely on conjuring harmful objects or substances using Forms other than Ignem. Sebastian was an eighth-century hedge wizard who joined the Order as a member of House Flambeau. He accomplished the unusual feat of learning Hermetic magic after having been trained in a non-Hermetic tradition, but he was hampered by several Deficient Arts. Sebastian developed a method of fighting that played to his only strength, the Form of Aquam.</div>
 <div>“Schools of Sebastian” is really a catch-all name for a large number of minor schools based on unusual Forms: the School of Ebroin, based on conjuring animals; the School of Marosa, based on Herbam attacks; and so on. Even members of House Flambeau have trouble keeping track of so many tiny schools (some of which have only one living adherent), so “Schools of Sebastian” has emerged as a generic term. The actual School of Sebastian was only the first and most famous of these minor schools.</div>
 <div>Most members of the Sebastian family of schools have a Magical Focus (either Major or Minor) and design their attacks to take advantage of that Focus. The schools are also attractive to magi who want to specialize in Arts other than Perdo or Ignem. Such Arts can have significant non-combat uses.</div>
@@ -687,12 +707,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>The School of Vilano</h4>
 
-<div>Recommended Virtue: Puissant Finesse or Cautious With Ability (Finesse)</div>
+
+<h4>Recommended Virtue: Puissant Finesse Or Cautious With Ability (Finesse)</h4>
+
 <div>The School of Vilano relies on indirect attacks that bypass Magic Resistance. An example of an indirect attack is using magic to levitate a rock over someone’s head, then dropping the rock. Several examples of indirect attacks are given in ArM5, page 86.</div>
 <div>Vilano was a ninth-century Flambeau magus from Istria in the Transylvanian Tribunal. He suffered from the Hermetic Flaw Weak Magic but remained deter</div>
 
 <div sidebars>
-<div>Magical Foci for the Schools of Sebastian</div>
+
+<h3>Magical Foci for the Schools of Sebastian</h3>
+
 <div>The following are some examples of magical foci that may be useful to magi following one of the Schools of Sebastian. Except where noted, all of them would count as Minor Magical Foci. The Forms of Mentem, Imaginem, and Vim are unsuitable for conjuring harmful substances, and magi who favor the Form of Ignem are categorized in the School of the Founder or of Boreas.</div>
 <div>Animal: Birds (major), poisonous insects, snakes, canines, teeth</div>
 <div>Aquam: Acid, poison, boiling oil Auram: Weather (major), lightning, poisonous gases</div>
@@ -963,7 +987,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Ease Factor</h4>
 
 
-<h4>Time to Cut Free</h4>
+<h4>Time To Cut Free</h4>
 
 <div>One foot 6 30 seconds</div>
 <div>Both feet 9 1 minute</div>
@@ -1084,7 +1108,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Creo Terram Spells</h4>
 
 
-<h4>Sword from the Unseen Scabbard</h4>
+<h4>Sword From the Unseen Scabbard</h4>
 
 <div>CrTe 15 R: Touch, D: Diam, T: Ind Conjure a steel longsword. The sword only lasts for two minutes — about 20 combat rounds — but that is usually long enough to defend oneself in a single skirmish. The magically created sword must penetrate in order to harm opponents who have Magic Resistance. Note that creating artificial things with magic requires an Intelligence + Finesse roll, as noted on page 77 of ArM5. An Ease Factor of 6 is sufficient to make a sword of mediocre, but serviceable, workmanship.</div>
 <div>(Base 5, +1 Touch, +1 Diameter)</div>
@@ -1138,7 +1162,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Ominous Levitation of</h4>
 
 
-<h4>the Weighty Stone</h4>
+<h4>The Weighty Stone</h4>
 
 <div>ReTe 15 R: Voice, D: Conc, T: Ind Move a stone through the air as fast as a bird flies. When the caster stops concentrating, the stone immediately falls to the ground.</div>
 <div>The spell’s name suggests one of its common applications: dropping a heavy rock onto someone. Because the stone falls</div>
@@ -1155,6 +1179,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h1>Chapter Two</h1>
 
 
+<h2>House Jerbiton</h2>
+
+
 <div sidebars>
 <div>The Founder of House Jerbiton, and many of his successors, believed that a great artist designed and constructed the world. The world is beautiful, and contains obvious marks of his process of creation. Those suffi ciently skilled in the creation of beauty can collaborate in this great work. Everyone else has the joy of being a member of his audience.</div>
 <div>House Jerbiton’s founding members came from the cities of the Eastern Roman Empire. Its current members see their way of life as an echo of what would have been, had magicians not fl ed the Dominion. They are the custodians of a magical culture that, they hope, will blossom into a civilization.</div>
@@ -1165,7 +1192,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Jerbiton was born in a remote village in the Alps, but taken as an apprentice by a maga from the Imperial East. His tradition’s ancestors are the cosmopolitan magi from the cities of Greece. Jerbiton was sent as an emissary to the forming Order, but for many years the other members of his tradition did not join it. House Jerbiton still feels that the Eastern Empire is its heartland, and has been stunned and angered by</div>
 <div>the fall of Constantinople in 1204. A new generation of apprentices, trained after the pillaging of the greatest of cities, is about to enter magushood. They represent a new way of being Jerbiton magi.</div>
 
-<h4>Flavius.oF.Jerbiton,. tHe.Founder</h4>
+<h4>Flavius.of.jerbiton,. The.founder</h4>
 
 <div>The Founder was born in a secluded Alpine valley in 729, and was named Flavius. He was a cheerful, pleasant child who particularly enjoyed horse riding. Nearby objects changed color to match his mood. Jerbiton was the son of the ruler of his valley, so he was raised as a minor nobleman.</div>
 <div>Jerbiton’s family was of Rhaeto-Roman stock. They were descended from a Roman solider who was granted land in an isolated Alpine valley during the early Imperial period, and the remoteness of their home had preserved this community against the tides of invaders that had washed through the Alps. The Ierbi, as they now call themselves, live much as they have since Roman times, and speak a language that is a deformed descendant of Latin.</div>
@@ -1178,7 +1205,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>symbol:. A pennant fl own from a tower. The pennant is often marked with the alchemical symbol for mercury.</div>
 </div sidebars>
 
-<div>The League of Iconophiles, the Tradition of the Founder’s Teacher</div>
+
+<h4>The League of Iconophiles, the Tradition of the Founder’s Teacher</h4>
+
 <div>When the first Christian emperor, Constantine, moved his capital to Constantinople in 330 AD, the Church and Empire persecuted those in the region who had the magical air caused by The Gift. The surviving magi had the Gentle Gift, or sufficient wealth to interact with society through servants. Gently Gifted magi do not suffer the mutual distrust that The Gift causes, so they were able to form a loose society. These magi, involved with mundane culture and living in or near cities, are the ancestors of House Jerbiton.</div>
 <div>The magi of the eastern Empire formed alliances called leagues. Each league focused on a single charismatic figure, or a single issue, so they were transient. While the Order was forming, the most powerful was the League of Iconophiles, formed to oppose Emperor Leo III. In 729 Leo III declared that all images of Christ or the saints should be destroyed. He also forbade the display of crosses in places of worship. The Empire’s magi worried that the violation of the sacred places of the Church would weaken the Dominion and give comfort to the Infernal.</div>
 <div>The League of Iconophiles opposed the Emperor in several ways. It aided non</div>
@@ -1216,7 +1245,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Jerbiton assisted Bonisagus in refining the Arts of Imaginem and Mentem, and helped perfect the system of vocal and gestured guides to spellcasting. He also convinced Bonisagus to name his fields of study the “Arts,” and the capacity to use magic “The Gift.” Bernice of Thessalonica accepted membership in the Order, but died in 763, before the First Tribunal could be held.</div>
 <div>At the time of the First Tribunal, the League of Iconophiles was still completely engaged in their intrigues against Emperor Constantine V, the son of Leo III. Monasteries continued to be sacked. Icons continued to be burned. Conventions of bishops, filled with Imperial puppets, gave false instructions to the faithful. The Iconophiles were too buzy countering imperial and Infernal forces to pay attention to the musings of a dozen hedge wizards in the Black Forest.</div>
 
-<h4>Attitude to the Order</h4>
+<h4>Attitude To the Order</h4>
 
 <div>Jerbiton, and the other magi who were members of his household, participated in the Order only as a secondary concern. The Order was an interesting idea, and the Parma Magica was useful, but the future of civilization was being fought for in Constantinople, and none of Jerbiton’s new “sodales” seemed interested. Indeed, the Code said that it was wrong to fight the emperor, aid the Church, or incite the wrath of the Infernal. Although Jerbiton’s followers stayed within the wording of the Code, they continued to materially support their allies in the East. Eventually Jerbiton developed friendships with Bonisagus, Criamon, Mercere, and Tremere, although the youngest Founder betrayed his trust.</div>
 <div>In 775, House Tremere invaded the Empire, slaying magi, stealing their treasure, and claiming their vis sources. Conflict with the emperor, the Infernal, and House Tremere was too much for the magi in the north of the Empire. They formed a military alliance called the Theban League, and joined the Order of Hermes under Jerbiton’s nominal leadership. Trained in the Parma Magica, these magi were able to reclaim territory from House Tremere. The</div>
@@ -1252,16 +1281,20 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div sidebars>
 <div>Players may have difficulty understanding why the fall of a single city had such powerful impact on European thinking, and on the beliefs of Jerbiton magi. There were three reasons for this.</div>
-<div>The Destiny of the World Was Known, Which Provided Emotional Security</div>
+
+<h4>The Destiny of the World Was Known, Which Provided Emotional Security</h4>
+
 <div>Mythic Europeans believe that the world’s history is evolving as ordained by God, toward an outcome predicted in the Book of Revelations. As first enunciated by Eusebius, the Christianized Roman Empire is the tool of God, destined to prepare the world for the Kingdom of Peace, which Jesus will rule after Armageddon.</div>
 <div>When Rome fell different people adjusted their beliefs to suit local circumstances. In the West, the role of preparer of the world was given to the Church, and then to the Holy Roman Emperor. In the East, the fall of Rome did not matter, because, decades before, its role had been accepted by New Rome : Constantinople.</div>
 
-<h4>There is No Byzantine Empire</h4>
+<h4>There Is No Byzantine Empire</h4>
 
 <div>Players may be used to calling the Empire around Constantinople “Byzantium,” but this is a modern convention. Mythic Europeans call the Empire some variant of “Romania,” which means “land of the Romans.”</div>
 <div>Most of the Empire’s people are culturally Hellenic, but see themselves as politically Rhomaioi. The Roman Empire, centered on New Rome , is the heir to Augustus and Constantine, and the tool of God on Earth, destined to prepare the world for the Second Coming.</div>
 <div>The destruction of the City by crusaders stunned Europe. To Westerners, it demonstrated that something had gone terribly wrong in the crusading movement. To Easterners it was even more shocking: Providence no longer worked as they thought it should. Their unique role in the Divine plan seemed lost. The whole future of the world no longer made sense.</div>
-<div>Time Has Not Healed the City</div>
+
+<h4>Time Has Not Healed the City</h4>
+
 <div>Constantinople had been controlled by non-Romans before, but these Emperors married into the local nobility, took their place in the elaborate rituals of the court, and defended the City. Constantinople healed, and its culture continued. This has not followed the sack of the City during 1204. The Latin Empire was instead created by crusaders who cared only for what they could take. The current Latin Emperor is more interested in the wellbeing of his home, Flanders, than in the City, because it is clear that his Empire is nominal, and that it is the weakest of the four powers feuding for control the Balkans (the other three being the Kingdom of Bulgaria, the Imperial court in exile at Nicea, and the Despotate of Epirus).</div>
 <div>Constantinople remains a dangerous environment for magi. It was sacked by an army of excommunicated crusaders, who practiced every depravity after they took the City, so it has many pockets of Infernal influence. Slightly after the conquest, to cover a retreat during civil unrest, some Venetian troops started a fire which they lost control of, burning down half the buildings and leaving thousands of anguished ghosts, many of whom still haunt the streets, killing foreigners. The crusaders’ puppet emperor seized the treasures of the churches, melted down their reliquaries, and sold their relics, profaning many holy places. This has weakened the Dominion, but it is still a formidable obstacle to spellcasting.</div>
 <div>Characters may still wish to visit the City for many reasons. Suggested stories include:</div>
@@ -1359,7 +1392,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Many magi who are not from House Jerbiton live in a way that is simply ugly, and thus wrong. Sinful acts are ugly, so violence is often in poor taste. Living a life separated from human interactions is ugly. Being cooped up in a laboratory for many years is, therefore, wrong. The way most Hermetic magi live, in wilderness castles and reviled by mundanes, is a pitiable existence for a person with the wonderful capacity for expression offered by The Gift, although it is rude to point this out. The ugliness prevalent in many other Houses occurs because many of the Founders were unpleasant people who</div>
 <div>lived in ugly ways, which have become traditional for their descendants.</div>
 <div>One element of the House’s traditional attitude, that violence is something the rich pay the poor to do, is less popular with the rising generation of Jerbiton magi than their elders. The antigones see this belief, and the dependence it places on servants and magi from other Houses, as the greatest contributor to House Jerbiton’s inability to defend Constantinople from the Fourth Crusade. These younger magi are not, usually, specialized magical warriors, but are far more interested in developing the capacity for aggression than their elders are. For them, indolent luxury is a form of ugliness.</div>
-<div>Why Do Many Other Magi Have Such</div>
+
+<h3>Why Do Many Other Magi Have Such</h3>
+
 </div sidebars>
 
 <div>magus. If a magus was rejected by his birth family, because of the taint of The Gift, he will have found an alternative one. Storyguides wanting to avoid many of the usual tales of lost sisters and troublesome nephews might wish to tuck this family safely among the covenfolk at Valnastium. Players may prefer to design their characters’ families as agencies, as described in the appendix.</div>
@@ -1515,7 +1550,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>•</div>
 <div>• •</div>
 <div>It is rude to refuse to offer hospitality, but it is also rude to demand it. Jerbiton magi intending to visit each other often send a Redcap ahead, to ensure they will be welcome.</div>
-<div>Such Structure as the House Has</div>
+
+<h3>Such Structure as the House Has</h3>
+
 <div>House Jerbiton is held together by a sense of difference from the magi of other Houses, mutual interest in each other’s activities, and the charisma of its informal leaders. The Primus acts an ideological, rather than political, force within the House. Valnastium is the only large House covenant. Most Jerbiton magi are members of smaller organizations within the House, called leagues, which are clubs for magi sharing similar tastes or ambitions.</div>
 
 <h3>The Primus</h3>
@@ -1531,7 +1568,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>On the few occasions when there are many accepted nominations, much of the first day is spent weeding through unpopular candidates. Between votes magi may engage in politics. When it is clear that a wasteful day is inevitable, young magi who are performance artists arrange impromptu entertainment for their sodales and gain Reputations. Unpopular candidates usually prefer to decline nomination, rather than gain a handful of votes and be eliminated, so these wasted days rarely occur.</div>
 <div>Each Jerbiton magus has a single vote per ballot. Magi unwilling to attend the election may give their sigil, and written voting instructions, to any Hermetic magus, provided the proxy is witnessed by a Quaesitor. The House has a tradition, borrowed from the Papacy, that the Primus is not required to honor any promise made while campaigning for the position, although this would probably not be validated if a case came before a Tribunal.</div>
 <div>The Primus can be dismissed by one-third of the members of the House requesting that he resign. These petitions are presented at the Festival of Welcome held annually in the Greater Alps Tribunal to celebrate the graduation of apprentices for that year. Successful dismissals are extremely rare. Petitions on other matters are also presented at this time, and are more common. Popular petitions do not bind the Primus, but usually convince her to negotiate with the petition’s sponsors.</div>
-<div>The Current Primus and His Family</div>
+
+<h4>The Current Primus and His Family</h4>
+
 <div>Andru became Primus at the age of 43, in 1182. Many Jerbiton Primi are surprisingly young, because the role is rarely sought by the House’s senior magi. Their places of beauty, networks of agents, and interests are elsewhere. Andru’s election was assisted by his fame among his housemates.</div>
 <div>Andru discovered the site of Akrotiri, an ancient city buried in volcanic ash on the island of Thera (Santorini). Thera’s people had discovered many magical and technological secrets, were enormously wealthy, and produced many beautiful works of art. Andru was able to recover several of these. He has since suspended his work on Akrotiri, because the island is infested with vampires, and his skill at combat does not suffice to secure and maintain an excavation.</div>
 <div>He is tall, muscular, and clean-shaven. His hair is dark and curled, worn short. He appears dignified when speaking to large groups of people, but is warmer when conversing with individuals. His most difficult spells are all illusions. Andru’s familiar, a small aristocratic cat named Crucifixo, travels with him. Andru has the Gentle Gift, the True Love Virtue, and always carries a flame-red wedding veil, which is his talisman.</div>
@@ -1593,7 +1632,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Silent Ones: This group is dedicated to integrating the Silent Magic and Subtle Magic Virtues into standard Hermetic practice, believing this will aid magi to live inconspicuously. The league has a Bonisagus magus as its leader, and has its headquarters at his covenant. Their original research is only in its preliminary stages. Members of this group sometimes help each other find and interview urban hedge magicians. Members of this league seek guaranteed research Insight in the works of past magi, and among the musical traditions of House Ex Miscellanea.</div>
 <div>The Single Ocean: This league explores the cities of the Levant and North Africa, and seeks peaceful relationships with Jewish and Muslim sorcerers. This league’s stories involve strange places, odd customs, and danger far from re-supply. They are led by Edward the White, a magus skilled in the magic of the sea and famed for his unsuccessful attempts to find Atlantis. This league’s headquarters are technically in Ireland, but effectively they are wherever Edward berths his enchanted ship. This work is dangerous, so instead of homages, this group stages rescues.</div>
 <div>The Viticulturalists: This group believes that peasant life has virtue, and engage in magically assisted manorial agriculture. Sabina of the Seine, a relatively young maga, leads them, but they lack a headquarters, meeting when Jerbiton magi gather for Tribunals or Ceremonies of Welcome. Sabina keeps the group’s collection of casting tablets for rituals with agricultural uses, like improving soil, controlling weather, raising fences, and branding herds. Members of the Viticulturalists visit each other’s estates very frequently, so they are suited to stories where the player character just happens to be in the area, and will move on afterward, for example, classic English murder mysteries.</div>
-<div>Societates Design Notes for Jerbiton Magi</div>
+
+<h3>Societates Design Notes for Jerbiton Magi</h3>
+
 <div>Members of House Jerbiton can live as they wish, and seek beauty as they desire. The culture of their House is, arguably, the least constraining of all of the Houses. The flexible structure of House Jerbiton can leave new players overwhelmed with choices when designing a new magus. This section gives advice, to assist storyguides and players to narrow their choices down into a single character concept.</div>
 
 <h3>Less Intelligent Magi?</h3>
@@ -1716,8 +1757,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Abilities that allow the replacement of both gestures and words usually require props. A character who uses the Music Ability for Performance Magic, for example, must play an instrument if she wishes to replace her Hermetic gestures. She may also sing, unaccompanied by music, to replace only the words of her spell, or may play without singing, to replace only her gestures, if she wishes. The instrument also extends the Voice Range of her spells. Characters who are performing</div>
 <div>may gain the normal bonuses for loud words or exaggerated gestures, although this may draw unwelcome attention.</div>
 <div>It is difficult to recognize Performance Magic. Discerning the Form of a spell as it is being cast, so that a counter-spell may be fast cast, requires the following roll:</div>
-<div>Recognize Form of Performance Magic Spell: stress die + Perception +</div>
-<div>Awareness + effect magnitude vs. Ease</div>
+
+<h4>Recognize Form of Performance Magic Spell: Stress Die + Perception +</h4>
+
+
+<h4>Awareness + Effect Magnitude Vs. Ease</h4>
+
 
 <h4>Factor 15</h4>
 
@@ -1728,9 +1773,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>Cast a Performance Duration Spell:</h4>
 
-<div>die roll + Ability’s Characteristic +</div>
 
-<h4>Ability vs. Ease Factor 3</h4>
+<h4>Die Roll + Ability’s Characteristic +</h4>
+
+
+<h4>Ability Vs. Ease Factor 3</h4>
 
 <div>If this roll fails or botches, so does the spell.</div>
 
@@ -1834,7 +1881,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Raw Material Level Bone (animal) 3 Gemstone 4 Glass 3 Leather (tanned) 1 Metal 4 Stone 4 Timber (dried and prepared) 1 Wood (unprepared timber) 5 Wool (prepared) 1 Wool (raw) 3</div>
 <div>The Ease Factors in the table below include the +3 adjustment for magic use (see Rego Magic), assume the magus is familiar with the created thing (+0), and that a mundane artist would have to spend less than a day (+0) on the work.</div>
 <div>A character using Creo magic need not roll Finesse unless he desires the finished product to be of a quality higher than that represented by an Ease Factor of 9 on the following table.</div>
-<div>Ease Factors for Creating and Crafting Objects</div>
+
+<h3>Ease Factors for Creating and Crafting Objects</h3>
+
 
 <h4>Artistic Task Ease Factor Notes</h4>
 
@@ -1862,7 +1911,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>15: The character may precisely tailor the appearance of the created thing, provided it is unnatural only in cosmetic ways. This allows the creator to make the image unnaturally beautiful by incorporating mystical coloring, supernatural grace, and other attractive features.</div>
 <div>18: The character may perfectly express his artistic desire to the tiniest detail. This is the level required for exact duplication of an object, with all its tiny flaws and imperfections. It is also the level of Finesse required to create a duplicate that the original person believes reflects his appearance and mannerisms exactly.</div>
 <div>21: The character may create images that appear to be the epitome of the class of object represented.</div>
-<div>Levels of Success  for Illusions</div>
+
+<h3>Levels of Success  for Illusions</h3>
+
 <div>The pattern underlying the range of variance in the shape, color, and structure of a class of objects is called the “simile” of that class of objects. The simile differs from the form. The form of an apple allows a magus to make an idealized apple. The simile of apples allows a magus to make apples that look natural, and vary from the ideal within the natural range. The more familiar a character is with an object’s simile, the easier it is to recreate the object convincingly.</div>
 <div>The Finesse roll for using magic to create, craft, or simulate objects is adjusted by familiarity with the simile in the following ways.</div>
 <div>Automatic Failure: Characters auto</div>
@@ -1891,7 +1942,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>any area where they have an Area Lore of 5 or more. …are used to perform any Ability in</div>
 <div>which the character has a score of 5 or more. …the troupe feels that they are</div>
 <div>likely to know intimately, due to the character’s history, Abilities, background, or Virtues.</div>
-<div>Finesse Bonuses and Penalties for Familiarity</div>
+
+<h3>Finesse Bonuses and Penalties for Familiarity</h3>
+
 </div sidebars>
 
 <div>Magi, using their Arts, may manipulate either the capacity of an object to make species, or the species directly. Muto spells transforming other Forms into species treat them as a slightly unnatural solid, liquid, or gas, and require an Imaginem requisite.</div>
@@ -1971,7 +2024,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Striking the Organs of Perception</h3>
 
 <div>Unusual effects can be achieved by modifying species slightly before they strike the senses of the target.</div>
-<div>Macrotures: Illusions of Proximity to the Organ of Perception</div>
+
+<h4>Macrotures: Illusions of Proximity To the Organ of Perception</h4>
+
 <div>A macroture is an image magnified beyond the possibility of the human eye,</div>
 <div>created by forcing the species of an object to strike the eye in a less concentrated way. These are already discussed in the Intellego Imaginem guidelines in ArM5 (base level 3). Jerbiton magi use macrotures to determine the method and technique of artifacts through the tiny marks left by the tools of the artisan. They also use macrotures to see artworks from angles inaccessible to mundane people, to see objects from great distances, and to determine the quality of precious materials they intend to purchase. Macrotures can also be used to correct vision impairments.</div>
 
@@ -1988,12 +2043,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This creates a dichotomy in the thought of the House. Magi of House Jerbiton are capable of perfectly mimetic art using magic — but for them it is effortless and thus not an expression of skill. Many magi are capable of both highly mimetic art, created with magic, and mundane art that depends on rendering idealized shapes.</div>
 <div>Transparencies are not resisted by the Parma Magica, because they involve destroying species before they strike the target.</div>
 
-<h4>Ambush on the Deserted Road</h4>
+<h4>Ambush On the Deserted Road</h4>
 
 <div>PeIm 20 R: Touch, D: Ring, T: Circle This spell destroys all of the species that the group of things within the Circle emit in a single direction. It can — for example — make a magus’s traveling party invisible from the direction of another group they wish to ambush. The base level of this spell includes an adjustment that accounts for the magus’s ability to gently move the direction of effect, so that as the enemy group passes by, they cannot spot the hidden party. Other people, for example the members of the magus’s company, can still see each other, because the species reaching their eyes are unobstructed. The transparency requires a Perception + Finesse roll against an Ease Factor of 9 to be convincing.</div>
 <div>(Base 5, +1 Touch, +2 Ring)</div>
 
-<h4>Hiding In The Crowd</h4>
+<h4>Hiding in the Crowd</h4>
 
 <div>PeIm 10 R: Per, D: Sun, T: Ind This spell makes the caster selectively invisible. It destroys a thin cone of the species the magus emits, so that a single person cannot see the caster. People around the magus, who are outside the cone, continue to see the caster. This is particularly useful in city crowds, because it stops the magus being buffeted by oblivious passersby. Note that this spell only works if the magus knows the location of the single viewer to be excluded, and if the viewer moves predictably. If the viewer moves rapidly out of the cone, the magus becomes visible to him.</div>
 <div>The transparency requires a Perception + Finesse roll against an Ease Factor of 6 to be convincing, if the target remains stationary. If the target is moving slowly and predictably, as, for example, a sentry on a route or a pedestrian strolling to a gate, this increases to 9. It increases to 15 for a character moving very swiftly but predictably, for example, a horseman following a road.</div>
@@ -2014,8 +2069,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>People classify the objects in their environments, and often mistake confusing</div>
 <div>objects for familiar things. Anamorphic (“shapeless”) illusions lack detail, and hijack this tendency. These illusions depend on the viewer failing a Perception + Awareness roll, so that they misperceive the illusion, which tricks the viewer’s mind into filling in the details that the illusion is missing. Characters who are tired, emotionally roused, or inebriated are more likely to be tricked.</div>
 <div>The Ease Factor of the victim’s Perception roll is the sum of a die roll, the victim’s dominant active Personality Trait, the caster’s Perception, and the caster’s Finesse.</div>
-<div>Victim’s Perception Ease Factor: die + value of dominant, active Personality</div>
-<div>Trait + caster’s Perception + caster’s</div>
+
+<h4>Victim’s Perception Ease Factor: Die + Value of Dominant, Active Personality</h4>
+
+
+<h4>Trait + Caster’s Perception + Caster’s</h4>
+
 
 <h4>Finesse</h4>
 
@@ -2034,7 +2093,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>MuIm 15 R: Touch, D: Conc, T: Vision Although Imaginem magic cannot create heat, warm surfaces emit species, which humans can sense through touch. This spell transforms those into species that the eye responds to. How the warmth is seen varies by magus.</div>
 <div>(Base 2, +1 Touch, +1 Concentration, +4 Vision)</div>
 
-<h4>A Visible Demand for Repair</h4>
+<h4>a Visible Demand for Repair</h4>
 
 <div>MuIm 5 R: Touch, D: Ring, T: Circ This spell transforms the groans and squeaks of damaged pieces of equipment into iconic species reminiscent of the magus’s sigil. This makes it easier for magi to find the flaws in damaged parts, granting a +3 bonus to Craft or Profession rolls.</div>
 <div>(Base 2, +1 Touch, +2 Ring)</div>
@@ -2173,7 +2232,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div sidebars>
 <div>Many of the following spells have a Part Target. This means the magus is creating a stream of species aimed at the head of a single viewer. A magus doing this is targeting a victim with a magical medium, so these spells are resisted by the Parma Magica.</div>
-<div>An Enemy Awash in the Pure Sigil of the Magus</div>
+
+<h4>an Enemy Awash in the Pure Sigil of the Magus</h4>
+
 <div>CrIm 15 R: Sight, D: Conc, T: Part This spell washes the target with concentrated visible species, overloading the eyes. It requires no Finesse roll, because the species do not construct an image. In this case, the sheer number of species is being used to overload the capacity of the eye, so that the target is unable to see anything else. The spell’s name comes from its appearance, which is always based strongly on the sigil of the caster. The victim’s eyes recover two minutes after the spell is complete, or in only a round if the victim thinks to close his overburdened eyes when first struck by the spell.</div>
 <div>Spells similar to this one can create detailed images, but that requires Finesse rolls.</div>
 <div>(Base 2, +3 Sight, +1 Concentration, +1 Part)</div>
@@ -2301,6 +2362,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h1>Chapter Three</h1>
 
 
+<h2>House Tytalus</h2>
+
+
 <div sidebars>
 <div>Dullards.and.idiots.created.laws.to.punish.success. and.enslave.violence,.yet.it.took.someone.of.wisdom. and.perspicacity.to.invent.fear.of.the.gods;.so.introducing.the.most.pleasant.of.teachings,.the.hiding.of. truth. within. a. false. account.. Still,. the. truly. wise. and.acute.of.mind.cannot.be.limited.by.any.laws.of. human.invention.</div>
 <div>—.Tytalus the Founder</div>
@@ -2391,7 +2455,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The feud ended abruptly in 961 AD when Kalliste brought evidence to the Quaesitores that her mater was amassing power through diabolism, using Guorna’s own lore to summon demons to attend to her sybaritic desires. Tasgillia was executed for diabolism by Archmage Erythravis of House Guernicus later that year. Her whole tradition, the Titanoi (see Characters, below) fell under suspicion, and the subsequent investigation resulted in the executions of 14 additional Titanoi, and three other Tytali, at the hands of the Order’s</div>
 <div>hoplites. Of the lineage of the Titanoi, only Kalliste and her fi lii survived. With the endorsement and support of House Guernicus, Kalliste replaced Tasgillia, becoming the fi fth Prima of House Tytalus, despite never winning that privilege in the time-honored manner of the house.</div>
 <div>This event came to be known as the Betrayal to Tytali, although the Order more commonly calls it the Corruption; it is viewed as a dark period in history by modern Tytali but not for the reason that other Houses think. They freely admit that Tasgillia was guilty of the crimes of which she was accused, yet fault Kalliste for betraying the principles of Tytalus by putting custom before nature, which is completely antithetical to the Founder’s philosophy. Further, the Tytalan way would have been to settle the matter behind closed doors; instead the proud House was publicly shamed before the Order, and to this day has not recovered its former reputation. It is Kalliste to whom Tytali refer when they speak of the Betrayal, and her memory is ritually cursed every midwinter at Fudarus.</div>
-<div>The Schism War and its Aftermath</div>
+
+<h3>The Schism War and its Aftermath</h3>
+
 <div>Following the Betrayal, House Tytalus underwent a period of relative quiet, concentrating on rebuilding their numbers, as well as their reputation in the Order. The spirit mages, with their command over spirits of confl ict and victory, had been the most combat-worthy members of the House, and with their loss the Tytali turned away from physical confl ict — leaving it to the Flambeau and Tremere — and re-embraced the fi ne art of debate</div>
 
 <h3>The Analects of Tytalus</h3>
@@ -2414,7 +2480,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>teous protestations of justice and honor; there was nothing honorable, the Tytali claimed, about grabbing resources from other Houses and claiming they were spoils of war. At Tribunal, Primus Klynoites referred to the Flambeau as narrow-minded fools who suborned their magic to the dictates of the Quaesitores rather than reveling in the power of their Gifts.</div>
 <div>The inter-House conflict threatened to return the Order to the pre-Schism lawlessness. Certamens over resources and territory escalated into cycles of vengeancedriven Wizard’s Wars until the original disputes were nearly forgotten, at least by the Tytali. It was the Flambeau who ended the conflict at the Grand Tribunal of 1063; in a show of solidarity they refused to fight the Tytali any more. For the Tytali involved, the conflict had become less about issues and more about the struggle itself. By removing themselves as opponents, the Flambeau effected a truce. In Normandy, legal institutions were put in place to distribute all magical resources acquired during the Schism War. Across Europe, the Grand Tribunal sponsored covenants containing followers of Flambeau and Tytalus, often with Bonisagi of Trianoma’s lineage to mediate; and an entente cordiale was eventually established between the two Houses, at least on the surface.</div>
 
-<h4>Primi at War</h4>
+<h4>Primi At War</h4>
 
 <div>Twenty-five years ago, Prima Buliste entered a protracted Twilight, and she was declared dead by her younger Hermetic brother Harpax, who had previously been defeated by her for the leadership of the House. Harpax subsequently won the privilege of serving as the tenth Primus. However, three years later, in 1198, Buliste recovered from her temporary Twilight (as some suspected she would), and tried to resume her former position at the head of the House. Characteristically, Harpax refused to relinquish control of House Tytalus to his rival. The House held its breath while the two powerful siblings fought a protracted battle, but no victor emerged. Today, in 1220, the matter has still not been resolved. Both magi have won the right to serve the House as Primus, and neither seems able to gain the upper</div>
 <div>hand over the other. Consequentially, each House-member’s decision whether to become a Decimus (supporter of the tenth Primus) or a Fidelus (loyalist of the ninth Prima) is based on personal choice and/or whim rather than legal merit; only refusing to choose a side invites scorn. Should Tytali from opposite sides encounter one another, they likely as not dispute vociferously about the relative merits of their chosen champion. The domus magna of Fudarus is occupied by both Primi, and has effectively become two covenants under a single roof. While they share the same rooms, barracks, and resources the magi, covenfolk, and grogs loyal to each Primus live separate lives, refusing to acknowledge the existence of the other side. They wear swatches of colored material to distinguish themselves from each other, royal purple for Buliste, and revolutionary green for Harpax, colors which have been adopted as badges by the Fideli and Decimi respectively. Outsiders are perturbed by the seriousness of Tytalan magi in pursuing this conflict, and puzzled that it has been over 20 years and the dispute has still not been resolved. The truth of the matter is that House Tytalus finds the whole business far too enjoyable to be done with it just yet.</div>
@@ -2434,7 +2500,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>vigorously in agreement — finally, someone who understands the Master!</div>
 <div>Of the many schools of ancient Greece which taught philosophy, Tytalus drew most heavily from the teachings of the Sophists; and it is true to say that much of the corpus of Sophistic teaching holds resonance with the members of House Tytalus today. The Sophists were an antagonistic group of scholars who used underhanded tactics to defeat their opponents, and were almost unanimously reviled by later writers. It is clear why their philosophy is so attractive to House Tytalus, for it is based on an underlying conflict — the rivalry between nature and custom.</div>
-<div>The Antagonism Between Physis and Nomos</div>
+
+<h3>The Antagonism Between Physis and Nomos</h3>
+
 <div>I have made war on my mother, clashed with my brother, argued with my friends, and quarreled with my daughters, yet my worst rival wears my face in the mirror.</div>
 <div>— Analects of Tytalus</div>
 <div>Rivalry lies at the heart of every follower of Tytalus. The foundation of Tytalus’s whole philosophy is that there is a primal moral dilemma faced by each man, which arises from the rivalry between two abstract forces, called physis and nomos.</div>
@@ -2560,13 +2628,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Prefixes Female</h4>
 
 
-<h4>suffixes</h4>
+<h4>Suffixes</h4>
 
 
 <h4>Male</h4>
 
 
-<h4>suffixes</h4>
+<h4>Suffixes</h4>
 
 <div>Okean-ia -noites</div>
 <div>Kron-is -nos</div>
@@ -2580,13 +2648,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Prefixes Female</h4>
 
 
-<h4>suffixes</h4>
+<h4>Suffixes</h4>
 
 
 <h4>Male</h4>
 
 
-<h4>suffixes</h4>
+<h4>Suffixes</h4>
 
 <div>Har-illia -lus</div>
 <div>Bul-iste -cus</div>
@@ -2655,7 +2723,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Surliness is to be punished by holding two bowls of water at arm’s length following every meal, for a total time of one day, divided up into as many periods as it takes to complete this penalty.</div>
 <div>Obduracy is to be punished by the collection of 144 pinecones.</div>
 <div>Intransigence is to be punished by wearing clothes soaked in vinegar for one week.</div>
-<div>Excerpts from the Book of Instruction</div>
+
+<h3>Excerpts from the Book of Instruction</h3>
+
 <div>The Book of Instruction is the most hated object of a Tytalan apprentice, and having suffered for 15 years under its dictates, a newly-Gauntleted magus often swears to never use it on his own apprentices. Almost invariably, however, when the time comes to begin such training, he procures a copy and sticks to it rigidly,</div>
 <div>now convinced of its true utility in producing apprentices of the highest caliber. A maga deciding not to use the book should employ a similarly harsh regime designed to build self-confidence and harden the spirit, for her apprentice must learn the value of choosing physis over nomos, else he cannot call himself a follower of Tytalus.</div>
 
@@ -2785,11 +2855,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>In pursuing his interests, a Tytalan magus often finds a need for a disguise. Apart from the inconvenience of being recognized, it is often useful for him to seamlessly meld into a community and be accepted as something he is not. Magical disguises have their disadvantages (see The Magic of Impersonation, below), and consequently many Tytali have perfected the art of developing a mundane disguise. Magi rarely adopt disguises on a permanent</div>
 <div>basis, for this would severely interrupt in their magical studies. However, a maga whose covenant resides within or close to a population center may be able to maintain a disguise without substantial loss of her time, although she needs a good story explaining why she is not always available to partake in the normal aspects of town life. More usually, a Tytalan magus adopts an identity with no fixed abode, either a wanderer such as a tinker or musician, or someone who travels a lot due to his trade, such as a merchant or huntsman.</div>
 
-<h4>Short-Term Disguises</h4>
+<h4>Short-term Disguises</h4>
 
 <div>A short-term disguise is intended to be used a handful of times at most, and employs mundane props to change the magus’s appearance. It is almost impossible to adopt the disguise of a specific person without the use of magic, but a skilled impersonator can use clothing, hair dye or wigs, and even makeup to affect a substantial change in appearance. Use of a disguise is a function of the Guile Ability. Given sufficient suitable material and time, a character can make himself look different enough to fool others. To determine the success of a disguise, make an Intelligence + Guile roll, with a base Ease Factor of 9, modified according to the magnitude of the desired change, as laid out in the nearby insert.</div>
-<div>Disguise Roll: Int + Guile + stress die</div>
-<div>vs. Ease Factor 9 + modifiers</div>
+
+<h4>Disguise Roll: Int + Guile + Stress Die</h4>
+
+
+<h4>Vs. Ease Factor 9 + Modifiers</h4>
+
 <div>The storyguide should make the roll on behalf of the character, so that the player does not know how good the disguise is. If successful, the disguise is sufficient to not raise any questions in those who see the character on a casual basis, but should the disguised character wish to interact with another, the player must make a Presence + Guile roll opposed by an Intelligence + Folk Ken roll on behalf of the person whom they are trying to deceive. If the disguised character’s roll is successful, then he manages to fool the other. A character must have the appropriate Abilities to pull off the disguise; the Disguise roll covers speaking German like a peasant rather than a well-educated magus, but the magus must be able to speak German in the first place! Rolls for short-term disguises are not affected by The Gift, but any social rolls made while in disguise are penalized as usual, and people still react to the disguised magus with suspicion and distrust.</div>
 
 <h4>Deep Cover Disguises</h4>
@@ -2807,7 +2881,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Disguise Roll Modifiers</h3>
 
-<div>Circumstance . (use all that apply)</div>
+
+<h4>Circumstance . (Use All That Apply)</h4>
+
 
 <h4>Modifier Example</h4>
 
@@ -2874,18 +2950,24 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The rules for debating are very much like the rules for certamen in Ars Magica Fifth Edition, and the purpose is very similar. Instead of exhausting your opponent, you instead attack his arguments. Each round of a debate may last a few minutes or a few hours, depending on the complexity of the issue at hand. Before the debate begins, the opponents must decide how long it will continue; an independent arbiter (such as the praeco at a Tribunal) might allow the debate for continue for a preset number of rounds (typically 5–10), or else decide arbitrarily when it is over. A debate ends in any case if one debater’s position is left “unconscious” by an attack of his opponent.</div>
 <div>In each round of the debate choose which of the three Attack Abilities (Folk Ken, Intrigue, or Artes Liberales) and which of the three Defense Abilities (Charm, Guile, Leadership) you are employing. Much like a certamen, the debate rules depend on six totals.</div>
-<div>Initiative Total: Perception + stress die</div>
+
+<h4>Initiative Total: Perception + Stress Die</h4>
+
 
 <h4>Attack Total: Communication + Attack</h4>
 
-<div>Ability + attack modifier + stress die</div>
+
+<h4>Ability + Attack Modifier + Stress Die</h4>
+
 
 <h4>Defense Total: Intelligence + Defense</h4>
 
 
-<h4>Ability + stress die</h4>
+<h4>Ability + Stress Die</h4>
 
-<div>Attack Advantage: Attack Total – Defense Total (if Attack Total is higher)</div>
+
+<h4>Attack Advantage: Attack Total – Defense Total (If Attack Total Is Higher)</h4>
+
 
 <h4>Weakening Total: Presence + Attack</h4>
 
@@ -2893,10 +2975,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Advantage</h4>
 
 
-<h4>Resistance Total: highest positive</h4>
+<h4>Resistance Total: Highest Positive</h4>
 
 
-<h4>Reputation + Confidence score</h4>
+<h4>Reputation + Confidence Score</h4>
 
 <div>Fatigue inflicted by the debate is not physical fatigue, but affects all the arguments of the opponents in an identical manner. If a debater has the Clear Thinker Virtue, then decrease the penalties for reduced Fatigue Levels by one point, for debate fatigue only. If a debater has the Strong Willed Virtue, then he receives a +3 bonus to his Resistance Total. Virtues and Flaws that affect physical fatigue (e.g., Long-Winded) do not influence debate fatigue.</div>
 <div>The Ability chosen for the Attack Total determines the style of the debater’s oration in that round, whereas the Defense Ability determines what argument or tactic he is employing. For example, a threat holds no weight unless the character has the Leadership to make it worthwhile, and a direct lie from a character with no Guile is too transparent to damage his opponent. Examples are given below; players are encouraged to paraphrase their characters’ words, explaining how they are using these particular tacks in the debate. Folk Ken relies on the understanding of human behavior and motivation to secure an advantage.</div>
@@ -2948,9 +3030,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The debate rules can be placed in a wider context, if the outcome of the debate may convince onlookers of the merits of the opinions of the debaters. The debate tests the strengths and weaknesses of each opponent’s position over the issue, but it is down to any outside observers as to which opponent truly won the argument. At a Tribunal, this distinction becomes even clearer, because decisions are made by voting, and the way an observer votes on a case is not solely due to who won the argument, but also determined by alliances and enmities.</div>
 <div>If a debate ends because one opponent’s argument loses 5 or more Fatigue Levels, then the winner is clear. Otherwise, the opponent whose argument has the smallest Fatigue penalty is deemed to be the technical victor. To convert winning an argument into winning a vote, the storyguide must first divide the observers of the debate into factions, depending upon whether they were initially inclined towards the defense principle, the prosecution principle, or neither. Where there are more than two opponents in a debate, this</div>
 <div>factioning becomes more complex, but the overall concept still applies. The number of votes available in each faction should be detailed by the storyguide, for this is not necessarily the same as the number of magi. The neutral faction is the vitally important one; the main purpose of any debate at Tribunal is to win those over to one’s side, and these voters abstain unless swayed one way or the other. Once the spectators have been divided into three camps, calculate the Argument Strength of the victor:</div>
-<div>Argument Strength: Difference between the number of Fatigue Levels</div>
 
-<h4>lost</h4>
+<h4>Argument Strength: Difference Between the Number of Fatigue Levels</h4>
+
+
+<h4>Lost</h4>
 
 <div>Refer to the table at the bottom of the page for the effects of the Argument Strength on the voting pattern of the audience. Note that if a debater roundly defeats</div>
 
@@ -2963,7 +3047,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>Argument Strength</h4>
 
-<div>Description % of Neutral Vote % of Hostile Vote</div>
+
+<h4>Description % of Neutral Vote % of Hostile Vote</h4>
+
 <div>1 Inconclusive — —</div>
 <div>2 Edge 10 —</div>
 <div>3 Upper Hand 20 —</div>
@@ -3008,13 +3094,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Clarification: A magus wishes it to be made clear that a particular hedge wizard is an enemy of the Order.</div>
 <div>Addition: Currently, a magus must provide his name and home Tribunal when asked by another magus. The proposer wishes that apprentices should also be accorded the privilege of receiving this information.</div>
 <div>Alteration: Some magi within the Loch Leglean Tribunal want to add a provision to their Peripheral Code allowing them to steal from each other’s vis supplies, to keep up their time-honored traditions of raiding.</div>
-<div>Other Uses for the Debate Rules</div>
+
+<h3>Other Uses for the Debate Rules</h3>
+
 <div>Debates do not only have their purpose in the Tribunal halls of the Order. Mundane courts of law can also be persuaded by a strong argument, regardless of the evidence either way. For most of Mythic Europe, the winner of a debate is judged the winner of the case, unless the arbiter of justice is corrupt. In the Kingdom of England, Common Law prevails, which institutes a jury (of 12, 24, or 48 peers) to judge the case; such trials should be judged according to the voting system described above. However, jurors should be randomly assigned to the friendly, neutral, and hostile factions. If a character with The Gift is on trial, only 10% of the jurors begin the case sympathetic towards that character’s position. Furthermore, the social penalty of The Gift is applied to the Defense Total of a magus when debating with mundanes before witnesses.</div>
 </div sidebars>
 
 <div>Once all the points have been debated, the proposer’s Argument Strength is used to determine the margin of victory in the usual way. However, the Argument Strength may suffer a penalty determined by the type of modification required to the Code. Magi are wary about making drastic changes to the Code of Hermes, and thus the more alteration required, the more difficult it is to win the case. A clarification does not propose to change the Code, it merely asks for a clear statement to be made about the Tribunal’s attitude towards a specific position. An addition doesn’t change the Code of Hermes either, but it expands the meaning of a specific case to cover a more general situation. An alteration of the Code actually suggests that a previously made ruling was incorrect, and should be replaced with a superior version, authored, of course, by the proposer. Note that a regional Tribunal can only make modifications to the local Peripheral Code, although they can recommend that a successful proposal case be taken to the next Grand Tribunal, where it may modify the Code as practiced in all Tribunals.</div>
 
-<h4>Type of Case Penalty to</h4>
+<h4>Type of Case Penalty To</h4>
 
 
 <h4>Argument</h4>
@@ -3140,7 +3228,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>MuCo 5 R: Per, D: Sun, T: Ind This spell causes a female caster to adopt male physical characteristics. A similar spell (The Incubus’s Trick) turns a male caster into a woman. Eye color, hair color, hairstyle, stature, build, and similar characteristics are not changed by this spell, so anyone familiar with the caster’s original appearance can easily recognize her after the change (although the enchanted maga is sometimes instead assumed to be her own “twin brother”). The names of these spells derive from demons of lust who can change their gender.</div>
 <div>(Base 3, +2 Sun)</div>
 
-<h4>The Far-Speaking Voice</h4>
+<h4>The Far-speaking Voice</h4>
 
 <div>CrMe 20 R: Arc, D: Diam, T: Ind The caster can deliver two minutes of conversation directly into the mind of the person to whom he holds an Arcane Connection, although the target cannot communicate back. This spell is often</div>
 <div>placed within an enchantment (either a charged item or one with an effect which expires) with the caster’s own Arcane Connection, allowing a spy to communicate with him.</div>
@@ -3177,7 +3265,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Betraying Whispers of</h4>
 
 
-<h4>the Jealous Mind</h4>
+<h4>The Jealous Mind</h4>
 
 <div>InMe 30 R: Per, D: Conc, T: Hearing This spell allows the caster to hear the dominant emotion regarding himself from those who come within his earshot. He does not sense any emotions other than those which pertain to himself, and each emotion manifests as a muffled voice in his head, repeating again and again a word or short phrase which indicates that emotion. Thus, if his rival is jealous of his reputation, the caster might hear “Your fame should be mine” whispered over and over. The volume of the voice indicates the proximity of the emotion. By concentrating, the caster can single out one voice among any others within earshot; as the caster approaches the owner of that emotion, he hears an increase in the volume of the voice.</div>
 <div>(Base 5, +1 Conc, +3 Hearing, +1 complexity — only detects emotions concerning the caster)</div>
@@ -3194,28 +3282,30 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div sidebars>
 
-<h4>tHe.magic.oF.tHe.titanoi</h4>
+<h4>The.magic.of.the.titanoi</h4>
 
 <div>Spirits abound in Mythic Europe, present wherever an object exists which expresses a particular quality strongly. Thus, spirits of fi re can be found near open fl ames and spirits of love can be found near courting couples. These spirits are akin to animals and plants, have no personal names, and do not involve themselves in the physical world unless forced to through magic. Spells of a specifi c Form can command any spirit tied to that Form, for example, Ignem can command any fi ery spirit. Mentem spells (using the Rego Mentem guidelines, ArM5, page 151) can command any spirit with an Intelligence score, but some spirits have no Intelligence, and those are affected by Rego (Form) spells.</div>
 <div>The Titanoi are also interested in the named spirits, the Daimons. Such spirits are not so easy to control, and only those versed in the Mystery of Theurgy are truly skilled in doing so. Unlike simpler spirits, a Daimon can manifest in several places simultaneously, by projecting only one Aspect of itself in each. Instead of summoning such a spirit, the Titanos instead forms a pact with one, causing it to send an Aspect to the magus to perform some task on his behalf in return for the spiritual sustenance provided by casting a ritual spell.</div>
 <div>For more information about spirits and Daimons, see The. Mysteries. Revised. Edition.</div>
 
-<h4>coerce.tHe.sPirit.oF.anger</h4>
+<h4>Coerce.the.spirit.of.anger</h4>
 
 <div>ReMe 20 R: Voice, D: Conc, T: Ind This spell makes a spirit of anger obey the caster as long as he can coerce it with threats. The more lurid and dramatic the threats, the more cooperative the spirit is. If the spell penetrates the spirit’s Magic Resistance, make a stress roll of Communication + Leadership to see how effective the threats are. The storyguide should always give a bonus or penalty depending on the potency of the threat, but note that any roll other than a botch compels at least minimal obedience, while increasing rolls indicate a more cooperative spirit. Note that the caster must be capable of sensing the spirit to use this spell,</div>
 <div>unless it is reinvented at Range Arcane Connection.</div>
 <div>(Base 5 [see The.Mysteries.Revised.Edition, page 28], +2 Voice, +1 Conc)</div>
 
-<h4>summoning.tHe.sPirit.oF.anger</h4>
+<h4>Summoning.the.spirit.of.anger</h4>
 
 <div>ReMe 40 R: Arc, D: Conc, R: Ind This spell calls a spirit of wrath to the magus’s current location, if he has an Arcane Connection or knows its full name, and overcomes its Magic Resistance. The name can be a non-magical name, and need not be a magical True Name. A wrathful person serves as an Arcane Connection to any spirit of anger; if he has a Major Personality Flaw such as Wrathful, then the spirit has a Magic Might of 30. A Minor Personality Flaw attracts a spirit of Might 20. Otherwise, the spirit has a Might equal to (5 x Angry Personality Trait). Casting this spell infl icts a Warping Point on the source of the anger, unless it is the caster himself.</div>
 <div>Similar spells exist for summoning the spirits of other emotions.</div>
 <div>(Base 15 [see The. Mysteries. Revised. Edition, page 28], +4 Arc, +1 Conc)</div>
 
-<h4>reveal.tHe.lurking.WatcHers</h4>
+<h4>Reveal.the.lurking.watchers</h4>
 
 <div>InVi 30 R: Per, D: Conc, T: Vision This spell allows the caster to see any creatures of the Magic realm within his fi eld of view and identify them as possessing Magic Might. The spell does not distinguish between what is spiritual and what is not, so if a spirit has an animal form, the caster may mistake it for a magical animal. The caster receives no information about the type of creature except that which can be deduced from its appearance. This spell must penetrate the Magic Resistance of</div>
-<div>A Spirit of a Person’s Anger</div>
+
+<h3>A Spirit of a Person’s Anger</h3>
+
 <div>Magic Might: 20 (Mentem) Characteristics: Cun –1, Per 0, Pre +1,</div>
 <div>Com +3, Str +3, Sta +1, Dex +2, Qik +1 Virtues and Flaws: Wrathful Personality Traits: Angry +6 Powers: Incorporeal, 0 points, Init Constant,</div>
 <div>Mentem: The spirit is both invisible and intangible, and cannot be infl uenced by the physical world. Magic may only directly target the spirit if the caster can sense its existence. The physical characteristics of the spirit are only used when dealing with other incorporeal creatures. Fury, 3 points, Init +2, Mentem: The</div>
@@ -3241,9 +3331,13 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>ReVi Gen R: Arc, D: Mom, T: Ind, Ritual This spell represents the formation of a pact with Zelos, the Daimon of rivalry and contention. It targets a duplicate (called an Aspect) of Zelos, rather than the spirit itself, and if the spell penetrates the Aspect’s Might (see insert), that Aspect appears before the caster to perform a specific service. This spell does not exert any control over this spirit.</div>
 <div>Without the Mystery Virtue of Hermetic Theurgy, this spell must have a level of at least 40 (twice the Might of the Daimon’s Aspect), and it usually needs to be cast using Wizard’s Communion, to achieve sufficient Penetration. As a spell adapted from non-Hermetic theurgic practices, it requires knowledge of a Mystery, or a Hermetic Breakthrough, to invent, although nontheurgist Hermetic magi can learn the spell from a Lab Text or from a teacher. Acquiring an Arcane Connection to a Daimon such as Zelos is no simple task, and may be the focus of a story in its own right.</div>
 <div>(General effect, +4 Arc, see The Mysteries Revised Edition, Chapter 9: Hermetic Theurgy for more details)</div>
-<div>The Magic of the Leper Magi</div>
+
+<h4>The Magic of the Leper Magi</h4>
+
 <div>The leper magi employ all of the magical techniques of other Tytali, but they also have a strong focus in spells of health and healing. Nearly every magus aegrotus knows Chirurgeon’s Healing Touch, as well as other spells that heals more serious wounds. It is the combating of diseases at which they excel, however, as well as the prolongation of life through the creation on Longevity Rituals and the resolution of Aging Crises.</div>
-<div>Ward the Cruel Touch of Pestilence</div>
+
+<h4>Ward the Cruel Touch of Pestilence</h4>
+
 <div>CrCo 20 R: Touch, D: Moon, T: Ind The target gains a +9 bonus to Stamina rolls to avoid contracting diseases (see ArM5, Debilitation, page 180).</div>
 <div>(Base 4, +1 Touch, +3 Moon)</div>
 
@@ -3269,6 +3363,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 
 <h1>Chapter Four</h1>
+
+
+<h2>House Ex Miscellanea</h2>
 
 
 <div sidebars>
@@ -3359,12 +3456,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>Casting Total: Characteristic + Ability</h4>
 
-<div>+ aura modifier + die roll</div>
 
-<h4>Ease Factor: determined by effect</h4>
+<h4>+ Aura Modifier + Die Roll</h4>
 
 
-<h4>attempted</h4>
+<h4>Ease Factor: Determined By Effect</h4>
+
+
+<h4>Attempted</h4>
 
 
 <h4>Penetration Total: Casting Total +</h4>
@@ -3372,14 +3471,20 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>Penetration Bonus – Ease Factor</h4>
 
-<div>Equivalent Spell Level: 5 x Ability</div>
-<div>Limit on Vis Use in Spellcasting:</div>
 
-<h4>Ability score</h4>
+<h4>Equivalent Spell Level: 5 X Ability</h4>
 
-<div>Vis Boost to Casting Score: +1 per</div>
 
-<h4>pawn</h4>
+<h4>Limit On Vis Use in Spellcasting:</h4>
+
+
+<h4>Ability Score</h4>
+
+
+<h4>Vis Boost To Casting Score: +1 Per</h4>
+
+
+<h4>Pawn</h4>
 
 
 <h4>Designing a Supernatural Ability</h4>
@@ -3463,7 +3568,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>4 Ensure the conception of a baby, strike a creature barren, ensure an easy childbirth, grant a +1 or –1 Living Condition Modifier to Aging (must last a year)</div>
 <div>5 Grant a +6 or –6 modifier to Stamina rolls to avoid contracting a disease</div>
 <div>Specialties: vegetables, cows, women (Supernatural)</div>
-<div>Magi Ex Miscellanea Without a Major Supernatural Ability</div>
+
+<h3>Magi Ex Miscellanea Without a Major Supernatural Ability</h3>
+
 <div>All magi Ex Miscellanea must take a Major non-Hermetic Virtue, but not all members of this House have a Supernatural Ability as their compulsory Virtue. The only requirement is that this Major Virtue represents some aspect of the magus’s nonHermetic tradition. (Thus, Wealthy is not an option, although Magister in Artibus may well be.) It may describe another capability he possesses, such as Greater Immunity, Greater Purifying Touch, or Ways of the (Land). It may be suggestive of his background, such as Strong Faerie Blood or Giant Blood. New Supernatural Virtues that are not controlled by an Ability score should be designed following the rules for  effects instilled into items, complete with uses per day, and should not exceed seventh magnitude. It should have no more flexibility in its effects than a Minor Magical Focus.</div>
 
 <h3>Characters</h3>
@@ -3528,7 +3635,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Major Hermetic Flaw: Study Requirement</div>
 <div>Required Virtues and Flaws: Animal Ken, Minor Magical Focus; Feral Upbringing, Incompatible Arts</div>
 
-<h4>Damhadh-Duidsan</h4>
+<h4>Damhadh-duidsan</h4>
 
 <div>Damhadh-Duidas (DAH-vee-doo-IDas, roughly “malice-writer”) was a Gaelic hedge wizard from the same magical tradition as Damhan-Allaidh, who joined up with Pralix on her crusade against the warlock. The magi of this tradition try very hard to put the trappings of their Infernal past behind them.</div>
 <div>By carving runes called Ogam into trees and stones, or writing these symbols on his face and arms with ashes, a Damhadh-Duidsan can curse and steal the life from his enemies, inflict terrible wounds upon them, and  heal himself in return. Giant Blood is very common in the tradition — both Damhan-Allaidh and Damhadh-Duidas were descended from the giants, according to legend.</div>
@@ -3655,9 +3762,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>ers of the ancient world. To represent this knowledge, the character begins with the Accelerated Ability called Warding. This power is aligned with the Magic realm as the Columbae teach it, though there are also said to be other versions associated with the other realms.</div>
 <div>When the character wishes to use her power, she must draw a circle in the same manner as in Hermetic magic (this takes her about as long as it does a Hermetic magus), concentrating as she inscribes special arcane symbols into the border that define the properties of the things that will be warded away. This definition must be a subset of a single Hermetic Form, such as “mundane animals” (Animal), “earth faeries” (Terram), or “demons” (Vim). The ward can be made more specific, excluding from this ward things that are or are not of specific shapes or materials, such as “mundane animals larger than a mouse” or “earth faeries not made of stone.” She may also use an Arcane Connection to specify these properties, such as “mundane animals that are not my horse” or “only the king of the faerie mountain.”</div>
 <div>As soon as the circle is finished, the Columba enchants the perimeter with her magical power, and this effort always costs her a Fatigue level. Roll a stress die, applying her Stamina score, her Warding score, and the bonus or penalty for the aura to the total, in addition to any other appropriate modifiers.</div>
-<div>Warding Total: stress die + Stamina +</div>
 
-<h4>Warding + aura</h4>
+<h4>Warding Total: Stress Die + Stamina +</h4>
+
+
+<h4>Warding + Aura</h4>
 
 <div>If the ward is designed to affect a natural object or type of material, treat this result as the character’s Casting Total for a Hermetic spell of the appropriate Form and level to determine if a particular target will be warded away. (To make this easier to calculate, these spell guidelines are collected below.) For example, a ring designed to ward away mundane animals would succeed if the Warding Total were 5 or greater, and a ward against objects made of wood requires a Warding Total of at least 30.</div>
 <div>Warding is best at warding away supernatural creatures with a Might score; when it is used to affect beings with Might, calculate the character’s Penetration Total as if the spell level were 0, and treat the full</div>
@@ -3675,7 +3784,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Unfortunately, Warding cannot affect creatures with Magic Resistance instead of</div>
 <div>Might, and so the Penetration Total of the effect is 0 when the warded thing is not a supernatural being. Because Warding only affects either natural or supernatural things, Columbine wards are extremely vulnerable to beings that do not fit perfectly into one of these categories; anyone who has Magic Resistance but no Might score is essentially immune to the effects.</div>
 
-<h4>Minor Hermetic Virtue: Ring/Circle Magic</h4>
+<h4>Minor Hermetic Virtue: Ring/circle Magic</h4>
 
 <div>Because the Columbae introduced the Ring Duration and Circle Target to Hermetic magic, their followers are not as constrained as other magi regarding how they use them with their spells. For one thing, they can draw a typical circle much more quickly, moving at twice the normal speed, and they only need to roll their Concentration if the circle is broken while casting, not to maintain the spell</div>
 <div>while they are drawing the ring. Also, their Ease Factor for maintaining Concentration while casting a spell on a ring or a circle is reduced by 3.</div>
@@ -3783,7 +3892,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The local clergy had fallen to an Infernal plot and were using the dead to drive the last honest citizens out of the town.</div>
 <div>The men and women who would found the Donatores converged on the town and, in an epic battle, destroyed the restless dead there, but not before several of them lost their lives. Although most of the founders had never before met, they swore to work together to prevent such a tragedy from occurring again. They agreed to collaborate in fighting the rising tide of restless dead. They named themselves the Donatores Requietis Aeternae, “Givers of Eternal Rest.”</div>
 
-<h4>Incorporation into the Order</h4>
+<h4>Incorporation Into the Order</h4>
 
 <div>While the Donatores were fighting the rising tide of restless dead, members of the Order of Hermes were also examining the phenomenon. In their investigations, several magi learned of the problem developing in the Normandy Tribunal and moved to investigate the town. By the time they arrived, the magi encountered the hedge wizards who would become the Donatores Requietis Aeternae successfully defeating the creatures.</div>
 <div>Muirgheal, a Quaesitor leading the group, invited the Gifted Donatores to join the Order en masse. Most Donatores were willing to swear the Hermetic Oath and join, but several others initially resisted because of their desire to remain a part of the Church. Other Donatores refused because they were familiar with the Order and believed that its magi were members of the cult of the dead and the source of all of the troubles. Muirgheal brought several of the recalcitrant Donatores to her covenant and convinced them that the Order was not involved in the problem. Murigheal explained the Order’s prohibition against dealing with the Infernal and recounted the punishment that House Tytalus had endured for its corruption.</div>
@@ -3811,7 +3920,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>investigate the causes of these types of hauntings, and are loath to simply destroy such spirits. The Donatores consider using Perdo magic on these spirits the equivalent of murder. (See The Mysteries Revised Edition and Realms of Power: Magic for a more complete discussion of ghosts.)</div>
 <div>Where ghosts or the restless dead are engaged in wanton destruction and killing, they are likely to be Infernal creatures, and the Donatores are less concerned about the use of destructive magic. This is not always the case, however, especially where a spirit is killing to right a wrong that could not be corrected in life. These ghosts are just as likely to be of the Magic or Faerie realms. Regardless of the source of their power, the Donatores are concerned with combating the destructive restless dead. They are always very careful to confirm the origin of any restless dead before interacting with it. Not all Infernal spirits engage in this reckless destruction. Many pose as benign spirits of recently deceased family members to corrupt the living and lead them into committing sin. (See Realms of Power: The Infernal for a discussion of diabolic spirits.)</div>
-<div>Traditions of the Donatores Requietis Aeternae</div>
+
+<h4>Traditions of the Donatores Requietis Aeternae</h4>
+
 <div>The Donatores Requietis Aeternae tradition is barely a century old, which makes it very young in comparison to many others within House Ex Miscellanea. Most of the current generation of Donatores are the filii of the founders of the tradition. Several of the founders are still alive, and those who are dead are still in the living memory of most members. Although they are not generally venerated, some Donatores have made efforts to collect the founders’ writings, magical devices, and personal effects to preserve their memory for future generations of the Donatores Requietis Aeternae.</div>
 <div>Not all of the founders of the tradition were members of the Church, but they and their filii often select apprentices from religious backgrounds. Most people who encounter a restless spirit contact a clergyman or other religious figure, but most members of the clergy are largely unequipped to deal with the restless dead. However, some develop a talent for communicating with spirits or pos</div>
 <div>sess Supernatural Abilities, such as Second Sight. While searching for and quieting the restless dead, Donatores who encounter members of the Church with The Gift or Supernatural Abilities attempt to recruit them to their tradition.</div>
@@ -3822,7 +3933,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Donatores Requietis Aeternae is one of the largest “necromantic” groups in House Ex Miscellanea. They are loosely organized by the standards of the Order, but within their House they cooperate more than most other traditions. They often work together to combat peculiar situations where many ghosts are haunting an area, or a particularly powerful creature threatens one of the group. The eldest member of the tradition serves as its head and determines how the Donatores allocate their resources in combating the restless dead.</div>
 <div>The Donatores are a secretive tradition. Many of the Donatores who were members of the Church dabbled in necromancy and other forbidden arts before receiving their saintly visions. The potential for persecution by the Church, or discovery by the cult of the dead, led many Donatores, even prior to the founding of the tradition, to guard the secrecy of their work. This institutional paranoia continues. But nevertheles, many Donatores with religious ties maintain contact with their unGifted brothers in the Church. These contacts often provide valuable information concerning the activities of the restless dead.</div>
 
-<h4>Surveillance by House Guernicus</h4>
+<h4>Surveillance By House Guernicus</h4>
 
 <div>In addition to the belief that the Donatores were little more than spies for</div>
 <div>the Pope, the secrecy with which they conduct their work and the subject matter of their magic has led House Guernicus to pay them particular attention. Because Donatores do not generally summon spirits, Infernal or otherwise, and are focused on quieting them, these investigations have uncovered no hint of diabolism. This has not stopped House Guernicus from continuing to monitor the Donatores closely.</div>
@@ -3836,9 +3947,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Choosing this Virtue confers a Supernatural Accelerated Ability called Banishing, which begins at a score of 1. The character is able to banish any creature with a Might score for a limited amount of time. While banished, the creature must avoid the location described by the character or suffer intense pain and discomfort.</div>
 <div>To banish a creature, the character loudly calls upon the source of the Accelerated Ability, forcefully commands all creatures of a specific realm to depart the designated area, and expends one level of Fatigue. This declaration means that anyone present during the use of the Accelerated Ability immediately knows the source of the character’s Banishing power. The character must state the nature of the target’s Might in the command. If the character omits or incorrectly states the source of the target’s Might, his Banishing attempt fails.</div>
 <div>The player must make a stress roll of the character’s Presence and Banishing score against the Ease Factor as described below. Multiple creatures may be banished from the designated location; the target Ease Factor does not increase. The amount by which the total exceeds the Ease Factor is the Penetration of the Accelerated Ability.</div>
-<div>Banishing Total: stress die + Presence</div>
 
-<h4>+ Banishing + aura</h4>
+<h4>Banishing Total: Stress Die + Presence</h4>
+
+
+<h4>+ Banishing + Aura</h4>
 
 <div>If Banishing penetrates, the character banishes any creatures of the realm selected from the designated location for Sun Duration. The character must be within the designated area when the Accelerated Ability is used. If the character does not state a specific location, the default Ease Factor is Near Range, which is defined as the area within 10 paces of the character.</div>
 
@@ -3926,7 +4039,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Orphic cultists use Hermetic magic, but they incorporate some of their preHermetic knowledge to expand their abilities. Orphic magoi begin with the Major General Virtue Sanguine Humour’s Blessing, the Minor Hermetic Virtue Orphic Magic, and the Flaw Restriction (True Feeling). An Orphic magos is so connected to certain others that it colors everything he does.</div>
 <div>The Major Hermetic Virtue Mercurian Magic is appropriate to Orphic magoi. Many also have the Minor Supernatural</div>
 <div>Virtue Enchanting Music, and some learn the Ability itself after their apprenticeship; the difficulty is great, but these magoi feel that to approach Orpheus is worth the effort.</div>
-<div>Major General Virtue, Sanguine Humor’s Blessing</div>
+
+<h4>Major General Virtue, Sanguine Humor’s Blessing</h4>
+
 <div>Of the four humors of Hippocrates, blood is said to govern passion and heat. A</div>
 
 <div sidebars>
@@ -3967,7 +4082,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Minor Hermetic Virtue: Orphic Magic</h4>
 
 <div>Orphic magoi gain access to the additional Range Adelphixis. Spells with this Range may target anyone connected to the magos via a Story Flaw that indicates emotion, such as True Love (NPC) or Close Family Ties. At the storyguide’s discretion, some Virtues may allow the use of Adelphixis as well — for example, True Love (PC). This range is equivalent to Arcane Connection for determining spell level. In essence, the magos is using himself as the Arcane Connection required for the spell.</div>
-<div>Major Hermetic Flaw: Restriction (True Feeling)</div>
+
+<h4>Major Hermetic Flaw: Restriction (True Feeling)</h4>
+
 <div>The magic of the Cult of Orpheus ties into feelings for others such that, should those dissolve, the magos is unable to use</div>
 
 <div sidebars>
@@ -3977,7 +4094,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>counter it with music of their own. Even if this does not happen, it would not take much to convince one group to move against the other, given their mutual legendry.</div>
 <div>Some Orphic magoi also consider the loss of their founder’s own magical music unfortunate. An Orphic magos might well decide to make it his life’s work to rebuild such abilities.</div>
 <div>The Cult of Orpheus is aware of the claim of House Tremere to have built their domus magna over Orpheus’s portal into Hades, but most consider it a laughable pretense. Orphic teachings indicate that Orpheus did not use any physical gateway, but rather that his grief, his music, and his magic carried him directly there, and that Orpheus’s own mind interpreted what was happening as a physical trek.</div>
-<div>The Cult of Orpheus in Your Saga</div>
+
+<h3>The Cult of Orpheus in Your Saga</h3>
+
 </div sidebars>
 
 <div>magic. Note that the death of other party does not necessarily invalidate the feeling; in the case of Orpheus, he retained his True Love long after Eurydice had died. However, if the character at any time has no Virtue or Flaw representing a strong, emotional connection to another, he loses access to his magic until another such feeling is stirred. In general, Orphic magoi have a Flaw appropriate to Sanguine Humor’s Blessing, which fulfills this condition as well. However, this Flaw is broader than Sanguine Humor’s Blessing, and many Virtues are appropriate, e.g., True Love (NPC) or True Faith.</div>
@@ -3986,7 +4105,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Below is a short list of spells using the Adelphixis Range. Such spells are rarely passed from parens to apprentice in the normal Hermetic manner, as each Orphic magos has his own reasons for joining the Cult. Few interested in A Father’s Concern would ever consider casting The End of Hatred, for example.</div>
 
-<h4>A Father’s Concern</h4>
+<h4>a Father’s Concern</h4>
 
 <div>InCo 40 R: Adelphixis, D: Mom, T: Group Created by Anatol, a magos formerly of House Jerbiton, this spell was used by him to check periodically on his six daughters. He had left them behind to begin an apprenticeship late in life, and when he had completed his studies they’d become married adults and moved away; he couldn’t locate them by mundane means.</div>
 <div>This spell gives a brief insight into the targets’ physical condition. It applies to anyone to whom the Adelphixis Range applies for the magos, but an easier version of the spell would be more useful to those who don’t bear such bonds to multiple people.</div>
@@ -3998,7 +4117,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>in game terms, the caster must have the Enemies Flaw relating to the target.</div>
 <div>When the inventor used it to slay his mundane rival, he was discovered by the Cult after a Quaesitor began investigating the death. The Quaesitor was able to determine that magic was involved, but had been unable to determine the caster. While the investigator was fooled, the Cult was not, and the magos who cast the spell was himself destroyed in an Orphic ritual to keep the Cult’s secrets safe.</div>
 <div>(Base 30, +4 Adelphixis)</div>
-<div>The Private Speech of Eros and Psyche</div>
+
+<h4>The Private Speech of Eros and Psyche</h4>
+
 <div>In(Cr)Me 60 R: Adelphixis, D: Year, T: Ind, Ritual For one year after this spell is cast, the magos may, at will, speak mentally with the target, and vice versa. This communication is not impeded by distance, and may not be revoked by either party without somehow canceling the spell.</div>
 <div>This spell was developed by a magos who wanted to hear his True Love’s voice at all times, and is generally used for such purposes. However, at least once in the history of the Cult, it was used to deliver a year’s worth of threats to an enemy.</div>
 <div>(Base 15, +4 Adelphixis, +4 Year, +1 Creo to send words)</div>
@@ -4061,10 +4182,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Mythic Herbalism is a Major Supernatural Virtue that grants a score of 1 in the Mythic Herbalism Ability. Mythic Herbalism permits a character to create unguents and poultices that can heal the wounded, cure the diseased, or assist the</div>
 
 <div sidebars>
-<div>Story Seed: Interfering with the Mundanes</div>
+
+<h3>Story Seed: Interfering with the Mundanes</h3>
+
 <div>A disgruntled magus grows tired of the Pharmacopoeians voting against him and his House. He threatens to bring a charge against all of them in the Tribunal for interfering with the mundanes because of the attention their healing brings to the Order. Most Pharmacopoeians are willing to abstain from voting against the magus or to vote with him at Tribunal to avoid any possibility of an adverse decision. However, if the charging magus seeks support for a proposal that would harm innocent people, the Pharmacopoeians might submit to trial instead.</div>
 <div>If a Pharmacopoeian’s healing draws the attention of a powerful noble, especially one with a dread disease or grievously ill family member, she may be forced to violate the Code. Rejecting the noble is likely to bring his wrath on the Pharmacopoeian’s covenant and possibly the Order. Accepting the offer could lead other nobles to demand the same services, which is one of the original reasons the Code prohibits magi from becoming court wizards.</div>
-<div>Ease Factor Healing Effects Poisons Physical Bonuses</div>
+
+<h4>Ease Factor Healing Effects Poisons Physical Bonuses</h4>
+
 <div>3 Add Mythic Herbalism score to patient’s Stamina roll to resist any disease</div>
 <div>Ease Factor 6, Sleep Add +2 to all Fatigue rolls</div>
 <div>6 Prevent all of a patient’s wounds from getting worse for one day</div>
@@ -4101,7 +4226,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Fatigue may be ignored per day, and the bonuses to Soak do not stack.</div>
 <div>Specialties: healing wounds, creating potions, creating poisons. (Supernatural)</div>
 
-<h4>Minor Hermetic Virtue: Root-Cutter</h4>
+<h4>Minor Hermetic Virtue: Root-cutter</h4>
 
 <div>The Root-Cutter Virtue is a Minor, Hermetic Virtue. A character with the RootCutter Virtue is able to collect and prepare magical ingredients from plant, animal, and mineral components that reduce the vis cost of healing Rituals. The magus may reduce the vis cost of a healing Ritual by his score in Mythic Herbalism, but the cost may never be reduced by more than half.</div>
 <div>Specialties: healing wounds, curing diseases, resolving aging crises. (Hermetic)</div>
@@ -4134,7 +4259,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Some suspect the Lineage of Pralix of more sinister motives. They suspect that their true purpose is to rid the world of magic that is not Hermetic, by assimilating any magician who could pose a threat to the Order, and encouraging conformity over time. As evidence of this plot, these suspicious magi offer the fact that the wizards inducted into the Order by this lineage often lose their non-Hermetic powers in return for Hermetic equivalents.</div>
 <div>Ironically, the Filii Pralicis are also accused of having precisely the opposite motives as well. There are a few magi, most notably Prima Murion of House Bonisagus (see Guardians of the Forests, pages 57–58), who suggest that they are committed to flooding the Order with non-Hermetic magic, weakening the pure Hermetic theory with barbaric magic.</div>
 <div>This fascination with non-Hermetic magic often requires that Pralicians travel extensively, for there are few non-Hermetic wizards left in the heartlands of the Order. In game terms, the study of hedge magic is covered by the Abilities Organization Lore (for traditions of magic) and Magic Lore (for the actual magic they use).</div>
-<div>Induction of Hedge Wizards into the Order</div>
+
+<h4>Induction of Hedge Wizards Into the Order</h4>
+
 <div>When a wizard seeks to join the Order of Hermes, he is usually directed towards a member of the Lineage of Pralix. Only those who possess The Gift are normally considered for membership. Those magi from other Houses who actively seek out hedge wizards (notably House Flambeau) are aware of the tradition, and recognize the service that they perform for the Order. It is not unknown for a Tribunal to reimburse a Pralician maga for the time she spends bringing a hedge wizard under the wing of the Order. During the initial training period, the wizard is accorded</div>
 <div>all the legal protection of the Code of Hermes afforded apprentices, regardless of his age and ability, and the Pralician maga is considered to be his parens. This apprenticeship is much shorter than a standard Hermetic apprenticeship, typically lasting less than five years. During this apprenticeship, the wizard is taught Magic Theory, the history and customs of the Order, and, if necessary, Latin and Artes Liberales. Unlike a standard Hermetic apprenticeship, these things are taught before the opening of the Arts. The hedge wizard is encouraged to learn Hermetic magic, but it is not a condition of joining the Order. It is important to the Order that the Pralician maga is able to gauge the abilities of the wizard, as well as any potential threat posed by his former tradition. This information is passed back to the Order, usually through House Guernicus or Flambeau.</div>
 <div>Many hedge wizards who seek out the Order do so to learn Hermetic magic, but it is made clear to the wizard that the process of opening his Arts may well destroy his non-Hermetic powers. Some are not prepared to take the risk, preferring to just accept the protection of the Oath of Hermes and the Parma Magica instead. However, if the wizard still wishes to go ahead with training in Hermetic magic, the Pralician maga attempts to open him to the Arts. The Pralician maga need not have all Arts above 5 for this process; no penalty is applied by the Code of Hermes should a mature wizard acquire Deficiencies in his Hermetic magic due to the difficulties of inducting a mature wizard in the first place. A trained wizard whose Arts are successfully opened almost always suffers at least one Major Hermetic Flaw due to the mismatch between his native tradition and Hermetic magic.</div>
@@ -4148,7 +4275,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>down a specific hedge wizard. His knowledge of exotic magic could prove invaluable. The discovery of pre-Hermetic magic causes excitement in the Order, and a Pralician is well placed to comprehend its secrets. Perhaps the limits of Hermetic magic can be pushed or even broken. A new recruit to the Order under the tutelage of a Pralician vanishes one day. While he does not know the Parma Magica, he knows more about the Order than is considered safe. What is worrying is what he will tell his native tradition of the Order.</div>
 <div>•</div>
 <div>•</div>
-<div>Stories Involving the Lineage of Pralix</div>
+
+<h3>Stories Involving the Lineage of Pralix</h3>
+
 </div sidebars>
 
 <div>ing of the Hermetic Oath (whereupon he acquires the Social Status Virtue Hermetic Magus).</div>
@@ -4161,7 +4290,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Characters</h3>
 
 <div>The Filii Pralicis do not have direct blood descent from Pralix, and yet they refer to themselves as her children, and as bearing her blood. The Lineage of Pralix preserves a non-Hermetic magical Ability that proves exceptionally useful in their chosen role in the Order, the power to acquire insights into hedge traditions through the Ability Comprehend Magic.</div>
-<div>New Major Supernatural Virtue: Comprehend Magic</div>
+
+<h4>New Major Supernatural Virtue: Comprehend Magic</h4>
+
 <div>The character is capable of seeing and understanding the nature of active magics. This is a more comprehensive version of Magic Sensitivity, and can do everything that Virtue can, and more. Further, this Virtue does not penalize Magic Resistance like its lesser cousin. Choosing this Virtue confers the Ability Comprehend Magic 1.</div>
 
 <h4>New Supernatural Ability: Comprehend Magic*</h4>
@@ -4171,7 +4302,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Comprehension Total: Perception +</h4>
 
 
-<h4>Comprehend Magic + stress die</h4>
+<h4>Comprehend Magic + Stress Die</h4>
 
 <div>The value of the Comprehension Total should be compared to the appropriate Ease Factor:</div>
 
@@ -4194,13 +4325,21 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div sidebars>
 <div>This insert summarizes information from pages 106–107 of Ars Magica Fifth Edition.</div>
 <div>The maga compares her Intellego Vim Lab Total to the level calculated below. A member of the Lineage of Pralix can apply her Magical Focus to this Lab Total. Supernatural Virtues always have a minimum sum of 10 if provided by a Minor Virtue, or 30 if granted by a Major Virtue. That is, Abilities derived from a Minor Virtue are treated as having a score of at least 2, and those derived from a Major Virtue as having a score of at least 6.</div>
-<div>Level Required for Opening the Arts: 5 x (the sum of all Supernatural</div>
 
-<h4>Ability scores)</h4>
+<h4>Level Required for Opening the Arts: 5 X (The Sum of All Supernatural</h4>
 
-<div>Minimum Level per Ability: 10 if the Ability derives from a Minor Virtue, or</div>
-<div>30 if it derives from a Major Virtue</div>
-<div>Intellego Vim Lab Total: Effect of Season</div>
+
+<h4>Ability Scores)</h4>
+
+
+<h4>Minimum Level Per Ability: 10 If the Ability Derives From a Minor Virtue, Or</h4>
+
+
+<h4>30 If It Derives From a Major Virtue</h4>
+
+
+<h4>Intellego Vim Lab Total: Effect of Season</h4>
+
 <div>Less than level: Unable to open the Arts Greater than or equal to level: Arts opened, all Supernatural Abilities lost Greater than or equal to twice level:  Arts opened, some or all Supernatural Abilities converted into Hermetic Virtues</div>
 <div>If she is able to convert Virtues, the maga may decide which Virtues of her apprentice are converted into Hermetic Virtues, and those not converted are retained. A Major Supernatural Virtue is converted into a Major Hermetic Virtue; a Minor Supernatural Virtue can be converted into a Minor Hermetic Virtue.</div>
 
@@ -4212,7 +4351,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>•</h4>
 
-<div>Opening the Arts of a Hedge Wizard</div>
+
+<h3>Opening the Arts of a Hedge Wizard</h3>
+
 </div sidebars>
 
 <div>study reveals the approximate function of an ongoing spell, power, or enchanted item (in terms of its corresponding Hermetic Arts), or for a being, the Hermetic Form that corresponds most strongly with its magical ability. If the character is familiar with types of magic other than Hermetic magic, then he can determine the type of magic under that frame of reference instead. A third round of study reveals the approximate magnitude of the magic being observed.</div>
@@ -4309,7 +4450,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>a spell focus into his spells, which allows him to add a bonus to his Casting Total. This is one of the bonuses that such an object typically provides for its shape or material, from the Shape and Material Bonuses table. Only one spell focus may be associated with a spell, and only one of that object’s properties may be harnessed in this way — this is essentially the same bonus that a character with Craft Magic receives when he crafts the object into a spell.</div>
 <div>The bonus cannot exceed the caster’s score in Magic Theory, or his Craft score when a rustic magus crafts the spell using Craft Magic. In these circumstances, the spell focus must be appropriate to the type of craft practiced by the rustic magus; if he is a carpenter, he must use a certain type of wood to receive the material bonus, or carve it into a particular shape for the shape bonus. Any spell can be designed to include a spell focus by a magus with this Virtue, though once it is incorporated into the spell, it cannot be cast without it, and casting a spell with a spell focus that is not somehow applicable to the spell’s effect provides no bonus at all. For example, a rustic magus might invent a formulaic healing spell to incorporate a ruby, giving him a +3 casting bonus when affecting blood, but from then on he must always have a ruby on hand to cast that spell, even if the effect does not involve blood and so does not receive the casting bonus — the ruby becomes a necessary component of the spell.</div>
 <div>Rustic magi usually carry many small tools and arcane objects that can be used as spell foci to boost their spontaneous spells in this way, and that are often required for formulaic spells they have invented or learned from other Rusticani. However, these spell foci help them overcome the effect of the Dominion and the difficulties they have with spontaneous magic, and as such they almost always use them whenever they can.</div>
-<div>Major Hermetic Flaw: Weak Spontaneous Magic</div>
+
+<h4>Major Hermetic Flaw: Weak Spontaneous Magic</h4>
+
 <div>Because of their need to craft their spells, the Rusticani associate their power with their own strength of will, tied directly to their hearts and minds. The magic comes naturally to them, like breathing or work</div>
 
 <div sidebars>
@@ -4355,7 +4498,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Most of the jinn with whom Hermetic Sahirs deal are aligned to the Magic realm. Some practitioners of this magic specialize in Faerie jinn. However, most of these jinni profess to follow Islam, and it is forbidden by Islam for a Muslim to enslave another. More worrying is that some spirits who appear to be jinn are actually demons, although fortunately for sahirs, Infernal</div>
 <div>jinn are often bloodthirsty, brutal creatures who are easily identified as such.</div>
 
-<h4>Relationship with the Non-Hermetic Sahirs</h4>
+<h4>Relationship With the Non-hermetic Sahirs</h4>
 
 <div>The Hermetic sahirs have very little contact with their non-Hermetic tradition. Nearly 300 years have passed since the Iberian sahirs sought the protection of the Order, and finding a non-Hermetic sahir in Iberia in the current day is a rare event. It is believed that the non-Hermetic sahirs are members of an association of Muslim magi similar to the Order of Hermes, but that this putative “Order of Suleiman” has a much closer relationship with the mundane rulers of the Levant.</div>
 <div>The non-Hermetic sahirs have much greater control over the jinn. Rather than relying on bargains to obtain favors, the non-Hermetic sahirs can compel service from the jinn if needed. Jinn-given powers claimed for the non-Hermetic sahirs include immortality, healing, instant transportation over far distances, spying, shapeshifting, and even Magic Resistance. The Hermetic sahirs desire knowledge of these magics, but every attempt to make contact with their Levantine brethren has been met with hostility.</div>
@@ -4383,7 +4526,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>Discern Might: Intelligence + Realm</h4>
 
-<div>Lore + stress die vs. Ease Factor 9</div>
+
+<h4>Lore + Stress Die Vs. Ease Factor 9</h4>
+
 <div>Summoning Jinn: Once discerned, the sahir may summon the jinni and bind it into service. This summons must take</div>
 <div>place in the physical presence of the jinni or at its home; the latter is most common because it provides an Arcane Connection</div>
 
@@ -4411,14 +4556,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>to the spirit. Once begun, the jinni may attempt to interfere with the summons (although most do not), so it is wise to erect a Hermetic ward to keep the spirit at bay. The summons makes the spirit assume its material form, and takes at least 15 minutes to perform. The sahir chants the words of command encoded by Solomon, while making the prescribed ritual motions and drawing Arabic figures on the ground. The summons also requires vis of a Form appropriate to the jinni being summoned. The standard cost of a summons is one pawn for every magnitude of Might of the jinni, but the sahir can chose to spend less (with a minimum of 1 pawn) or more (with a maximum equal to the Sihr score). Note that the sahir only has his estimate of the jinni’s Might (assuming he has attempted to discern the jinni prior to the summons), so may unwittingly spend less or more than the standard amount. The amount of vis spent does not affect the summoning, but plays an important role in the bargaining that follows.</div>
 <div>The sahir generates a Summoning Total based on his Sihr Ability . A successful summons that manages to penetrate the jinni’s Magic Resistance forces the jinni to take physical form before the sahir. Calculate the Summoning Strength, which is the amount by which the sahir’s Casting Total exceeds the Ease Factor. A botched Sihr roll results in the appearance of an infuriated jinni, or a spirit wholly different to than the one intended.</div>
-<div>Summoning Total: Presence + Sihr +</div>
 
-<h4>Aura + stress die</h4>
+<h4>Summoning Total: Presence + Sihr +</h4>
 
 
-<h4>Ease Factor: jinni’s Might</h4>
+<h4>Aura + Stress Die</h4>
 
-<div>Summoning Penetration: Summoning Total + Penetration bonus – jinni’s Might</div>
+
+<h4>Ease Factor: Jinni’s Might</h4>
+
+
+<h4>Summoning Penetration: Summoning Total + Penetration Bonus – Jinni’s Might</h4>
+
 
 <h4>Summoning Strength: Summoning</h4>
 
@@ -4428,21 +4577,29 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>A sahir can spend extra time on his summons; every extra 15 minutes causes a loss of a Fatigue level after the summons and adds another botch die to the summoning roll, but also provides a +2 bonus to the Penetration Total. A sahir uses extra time to summon a jinni whose Might is close to his maximum ability.</div>
 <div>Example: Hachim is a sahir with Presence +2 and Sihr 12, who is trying to summon Wahhab in a Magic aura of 2. Including a stress die of 5, his Summoning Total is 21. This is sufficient to summon Wahhab (Might 15). Hachim’s Penetration Ability is 3; he is standing in Wahhab’s haunt and knows the jinni’s nickname, giving him a Penetration Multiplier of 3 overall. His Penetration Total is therefore (21 + [3 x 3] – 15), or 15. Since this equals Wahhab’s Might, the summons penetrates, and Hachim has a Summoning Strength of (21 – 15), or +6.</div>
 <div>Bargaining with the Jinni: Once the jinni arrives, the sahir must bargain with it to gain its services. The power of Sihr means that the jinni cannot depart or attack until a bargain has been struck between magus and spirit, or they have mutually decided that no bargain can be achieved. However, a sahir who refuses to make a bargain releases the jinni from making a pact. “Bargain” may be a misleading word; a skilled sahir can obtain the services of a weak jinn without offering anything in return. This bargain is magically enforced: the jinni cannot break the word of the bargain unless the sahir reneges on the terms of the deal, and most also obey the spirit of the bargain if the sahir treats him well. A sahir can attempt to strike a bargain with any jinni, not just those he has summoned — for example, re-negotiation following the elapsing of a previous bargain — although Summoning Strength gives an oft-needed advantage.</div>
-<div>Bargain Total: Communication + Bargain + Summoning Strength + stress</div>
 
-<h4>die</h4>
+<h4>Bargain Total: Communication + Bargain + Summoning Strength + Stress</h4>
 
-<div>Ease Factor: 18 + Bargain Modifiers</div>
+
+<h4>Die</h4>
+
+
+<h4>Ease Factor: 18 + Bargain Modifiers</h4>
+
 <div>The Ease Factor has a Bargain Modifier, which depends on what the sahir is asking from the jinni, and what he offers in return.</div>
 <div>A failed bargain roll results in a failure to make a bargain, and the jinni is not compelled to remain. A botch results in the sahir acquiring either Supernatural Nuisance (for a weak jinni) or Plagued by Jinni (for a moderate or powerful jinni) for at least a month. A successful bargain binds the jinni to the beck and call of the sahir for the duration of the bargain. He can ask it to perform any task within its power, although when a jinni expends its last Might point in the service of the sahir, then the bargain ends, regardless of the length of service remain</div>
 <div>ing. The jinni cannot renege on any solemn oaths it has made prior to the summons; this includes, for jinni who have adopted a religion, disobeying the tenets of that faith. The jinni cannot swear any new oaths during its service without permission from the sahir. A jinni who is in service for a season or more may be used as a source of knowledge on Sihr, the appropriate Hermetic Form, or either Faerie, Magic, or Infernal Lore (as appropriate). A jinni can only instruct a sahir once for each Ability or Art. A sahir can have a number of jinn in service to him at any one time equal to his Leadership score, although all sahirs can command at least one jinni.</div>
-<div>Source Quality of a Jinni: 3 x magni</div>
 
-<h4>tude of Might</h4>
+<h4>Source Quality of a Jinni: 3 X Magni</h4>
 
-<div>Maximum Number of Jinni: equal to</div>
 
-<h4>Leadership (minimum 1)</h4>
+<h4>Tude of Might</h4>
+
+
+<h4>Maximum Number of Jinni: Equal To</h4>
+
+
+<h4>Leadership (Minimum 1)</h4>
 
 
 <div sidebars>
@@ -4478,7 +4635,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Hermetic Magic</h4>
 
 <div>Sahirs tend to excel at the elemental Forms, because of their ability to learn from the jinn whom they summon. Sahirs should always know spells that will protect them against a jinn in the event of a failed bargain, and cautious sahirs erect a ward around themselves before beginning a summons. Hermetic magic lacks the distinction to ward against the jinn specifically, and because of their bias towards the elemental Forms, sahirs are usually capable of creating stronger wards against specific jinn (jinn of the waters, jinn of the earth, and so forth), despite needing to know separate variants of these spells for Faerie, Magic, and Infernal jinn. Apotropaic magics — those which strip a spirit of its Might — are typically part of the arsenal of a sahir.</div>
-<div>Suleiman’s Wrath on the Oath-Forsaken Jinni</div>
+
+<h4>Suleiman’s Wrath On the Oath-forsaken Jinni</h4>
+
 <div>PeVi Gen R: Voice, D: Mom, T: Ind This spell weakens and possibly destroys a creature with Magic Might. If</div>
 <div>the spell penetrates the creature’s Magic Resistance, the creature loses Might equal to the spell’s level. A creature with zero Might is permanently destroyed. The creature must be sensed by the caster to be a valid target; the caster may have to employ other magic to perceive a spirit before using this spell.</div>
 <div>(Base effect, +2 Voice)</div>
@@ -4618,6 +4777,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 
+<h2>Agencies</h2>
+
+
 <div sidebars>
 <div>Magi often maintain networks of mundane contacts, which they call agencies. Agents pursue the goals of the magus while ensuring that he cannot be implicated in meddling with mundane politics. The following sections describe how agents may be recruited, used, and managed.</div>
 <div>A character controlling an agency is called its principal, in this chapter. Principals need not be magi, and the rules presented here are suitable for companion characters as well as magi; however, the focus of this book is the Houses of the Order, and so the material here is biased towards magi as principals.</div>
@@ -4652,14 +4814,16 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>of the Difficult Underlings Story Flaw for dealings with this character, to represent the attempts of the agent to win free from the controlling influence of the principal. The coercion of the agent is represented by a Flaw (such as Blackmail, Dark Secret, and so forth). Thus, a merchant may control a bishop through financial favors, but the bishop hates it. A priest may control a knight with blackmail, but the knight loathes him for it. The exception to this rule is magi, who stand outside the social hierarchy of Mythic Europe and can potentially recruit any individuals they meet as their agents. This problem with social standing is why many magi prefer to deal with their agents directly rather than employing a factor, who often have low social status.</div>
 
-<h4>Recruiting Agents at Character Creation</h4>
+<h4>Recruiting Agents At Character Creation</h4>
 
 <div>Some Virtues and Flaws give characters agencies prior to play. These include Social Contacts, Mercenary Captain, Outlaw Leader, Close Family Ties, and Landed Noble. An agency acquired in this way is created by selecting agents from the Resistance of Agents Table, then paying agency points for each equal to  the desired Bond Strength  plus the Resistance Strength from the table. The player has 12 agency points to spend. Every agent must cost at least 1 point, and have a Bond score of at least +1.</div>
 
-<h4>Recruited Agents as Story Rewards</h4>
+<h4>Recruited Agents As Story Rewards</h4>
 
 <div>To recruit an agent during a story, the player determines the sort of person she wishes to add to her character’s agency. The potential agent may be someone who the character has already met, or she may need to actively seek an appropriate person. The principal must make a favorable impression on the potential agent at some point during the story; note that “favorable” in this context means favorable to the principal. A character who thoroughly intimidates a target can still make a favorable impression!</div>
-<div>Impressing a Potential Agent: Presence + Leadership – social penalty of The Gift + stress die vs. Ease Factor 6</div>
+
+<h4>Impressing a Potential Agent: Presence + Leadership – Social Penalty of the Gift + Stress Die Vs. Ease Factor 6</h4>
+
 <div>If this roll fails, then the principal cannot try to recruit this agent; the magus repels the character with her personality, or her suggested threats hold insufficient force to be taken seriously. The magus can try again after another story involving an interaction between the two characters.</div>
 <div>Having identified and impressed the contact, the player must then initiate story events that cajole, persuade, or force her target to form a Bond with the character. At the end of each story, players are given Adventure experience. They spend this normally, but are given an equal number of agency experience points for recruiting those whom they have assisted during that story. Even if the player decides not to take experience from that adventure (in favor of other forms of advancement), these agency experience points are still available.</div>
 <div>To begin the process of recruiting an agent, calculate the initial Resistance Strength of that character, then apply the agency experience points to this score. It takes the current value of a given Resistance Strength in agency experience points to decrease that strength by one. Thus, five points reduce a Resistance Strength statistic of +5 to +4. A particularly effective agent, with a strong Bond, may take several stories to cultivate. Once a character’s Resistance is reduced to zero, he becomes an agent, although the principal must develop a Bond Strength of at least +1 to call upon him for information or assistance. Agency experience points can also</div>
@@ -4670,10 +4834,14 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Using Agents</h3>
 
 <div>A magus uses his agents by setting one or more of them a task. Agents must, at the discretion of the troupe, have the skill and opportunity required to fulfill the principal’s request, and the agent must have a Bond Strength of at least +1. The player of the principal then makes the following roll to determine if the agent agrees to perform the requested action:</div>
-<div>Persuasion Roll: Communication + Charm, Intrigue, or Leadership + Bond</div>
-<div>Strength – social penalty of The Gift + stress die vs. Ease Factor (see table</div>
 
-<h4>under Tasks for Agents)</h4>
+<h4>Persuasion Roll: Communication + Charm, Intrigue, Or Leadership + Bond</h4>
+
+
+<h4>Strength – Social Penalty of the Gift + Stress Die Vs. Ease Factor (See Table</h4>
+
+
+<h4>Under Tasks for Agents)</h4>
 
 
 <div sidebars>
@@ -4769,7 +4937,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Money can be used to increase the Bond Strength of an agent, but agents are not generally employees, and only so much loyalty can be bought. To certain types of agents, this might seem suspiciously like bribery, and a principal must tread lightly if he has such individuals as part of his agency. One Mythic Pound’s worth of material goods can take the place of 5 agency experience points (or 4 shillings per point) without need for a story. The exchange rate of money for agency points may vary according to the wealth of the agent: for example, hard cash might be twice as effective for an impoverished agent, but half as effective for a rich one. However, Bond Strength can never rise above +3 by the application of money. If using the Wealth and Poverty rules from Covenants (see Chapter 5: Wealth and Poverty), a troupe may wish to impose a regular minor upkeep cost for agents; it is suggested that 10 points of Bond Strength divided between one or more agents incur the same cost to maintain as a single nonspecialist servant of the covenant.</div>
 
 <div sidebars>
-<div>Task Ease Factor for Persuasion Roll</div>
+
+<h4>Task Ease Factor for Persuasion Roll</h4>
+
 
 <h4>Example</h4>
 
@@ -4788,7 +4958,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Tasks for Agents</h3>
 
-<div>Modifiers to Persuasion Roll Ease Factors</div>
+
+<h3>Modifiers to Persuasion Roll Ease Factors</h3>
+
 
 <h4>Timeframe Modifer</h4>
 
@@ -4805,7 +4977,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>+3 Deliver a threat to a rich merchant</div>
 <div>Risk of death (attempt requires a stress die, 5 botch dice)</div>
 <div>+6 Deliver a threat to the bishop, in his own palace</div>
-<div>The Other Side of the Coin</div>
+
+<h3>The Other Side of the Coin</h3>
+
 <div>It is possible for a player character to be an agent rather than a principal. This usually entails the Favors Story Flaw, but a Mentor may also consider your character to be part of his agency. Your character’s principal or his factor will contact your character on an irregular basis and request information or assistance. You should consider what hold the principal has over your character, and what the consequences are of refusing to help him.</div>
 </div sidebars>
 
