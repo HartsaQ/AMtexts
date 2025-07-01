@@ -1,0 +1,8 @@
+Text structure is simple and follows mediawiki formating.
+Elements in use are 
+* level 1-3 headings
+* text paragraph
+* sidebars [|...|]
+* {{OpenArs Attribution}} at end of each file
+* {{ArsMnavbox}} at end of each file
+That's it
