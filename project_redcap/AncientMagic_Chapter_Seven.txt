@@ -1,0 +1,411 @@
+
+[|
+''Most magi have heard of Claudius Ptolemaeus. He codified the movement of the planets, the names of the stars, and the shapes of the constellations. He invented the gnomon and the globe. But magi interested in astronomy or geography know that Ptolemy accomplished much more than this.''
+''Ptolemy devised a system that precisely measures the location of any place on the surface of the Earth. Every location is expressed by two values that measure how far north and east the place is compared to an origin point far to the southwest of Europe. A magus skilled in Ptolemy’s techniques can use these coordinates as Arcane Connections to the places that they designate. This allows the magus to travel to these sites.''
+''Ptolemy published his techniques and around 8,000 coordinates in a work of seven volumes, called The Geography. The last complete version of this book was lost with the Great Library of Alexandria. Small sections circulate in Mythic Europe, tantalizing magi with coordinates that they cannot use. House Mercere has offered 100 pawns of vis for a complete copy of The Geography, and many magi, knowing that it contains the exact locations of hundreds of ancient magical sites, would refuse to sell at that price.''
+''The history of House Bonisagus records that Trianoma found Bonisagus''
+''by following the advice of the dragon of the Garden of the Hesperides. That dragon, Ladon, was visited in 1160 by an Arabic cartographer, and arranged for many flawed copies of Ptolemy’s work to be made in Europe, to encourage magi to reconstruct it, and to visit him. The Order that he helped to nurture is now ready for the next stage in his plan.''
+
+===a Change of Pace===
+
+''This chapter offers a more conventional story for players than the others in this book. The ancient magic the players can seek with this material is useful, but will not revolutionize the Order, and does not require integration. The system of coordinates is used as a lure, to draw characters''
+''to the Canary Islands, and into the service of the dragon. The Canary Islands are called the “Purple Islands” in this chapter, a Roman name with which magi might be familiar. They have been described in detail because they make an excellent Spring covenant setting: they are far from other covenants, rich in vis and trade goods, and are inhabited by people who assume that those who are magical make good rulers.''
+
+===Consequences===
+
+''Coordinates have a few advantages over standard Arcane Connections. They do not fade with time. They can be carried in the mind of a magus, stored as writing, or designed into magic items. They are information rather than objects, so they can be given away, and yet retained by the giver. They do not need to be collected from a place, because they rely on the Law of Names, not the Law of Contagion.''
+''Once the coordinates for a place are known, magical travel to it is comparatively swift and safe. This might permit the Order to withdraw further from mundane contact, and would certainly allow covenants to work together on projects more efficiently than they are currently able. It also offers the opportunity to send brave volunteers to speculative coordinates:''
+
+=The Hesperides=
+
+
+|]
+''places that no person in Europe has ever seen, because they are so far west, or south.''
+''In war, Arcane Connections can be used to target Rituals, creating a form of magical artillery. This is far easier with Ptolemaic coordinates, because these cannot be changed. The coordinates also offer peacetime advantages, such as the rapid movement of people and material, up to the size of armies.''
+
+==Using Magical Coordinates==
+
+''Ptolemaic coordinates integrate more easily with Hermetic theory than any of the other forms of magic given in this book. The integrator is not required to develop a new Virtue or Ability. As soon as a character has completed the tasks required to reconstruct Ptolemy’s work, it can be applied immediately to Hermetic magic, and may be taught to others.''
+''There are two stages in integrating Ptolemaic coordinates into Hermetic magic.''
+''First, the character must learn how to measure the array of fixed stars (defined below) by astrological observation. The method for this is included in the corrupt copies of The Geography found in Europe. It takes a season for magi to learn, and is learned automatically by apprentices trained by a master familiar with the technique.''
+''Second, the magus must turn these measurements into coordinates. The character must calibrate the system by observing the array of fixed stars at the system’s origin point: the point of zero distance west, zero distance north. This requires a journey''
+''to the Garden of the Hesperides, on Junonia in the Purple Islands.''
+
+==Deriving Coordinates==
+
+''Characters can learn the coordinates for a place in three ways: astrological observation of the fixed stars, accessing the stellar observations of other magi, or spellcasting. A character does not require starlight to use coordinates; the character can use known coordinates during the day, from inside buildings or, underground.''
+
+===Observation of the Fixed Stars===
+
+''Most of the stars do not move relative to each other in the sky, and thus are called the fixed stars. They also form a pattern that makes a set of angles with the horizon and with vertical lines. This pattern, called the array of fixed stars, looks slightly different at every location on Earth. The flawed copies of The Geography available in Europe describe how to quantify these differences.''
+''If an observer knows the array of fixed stars at the system’s origin point, he can compare it to the array of fixed stars at his current point. The differences between the two patterns can be reduced to two numbers: the viewer’s distance east of origin, and the viewer’s distance north of origin. Each place’s pair of numbers, expressed as fractions of the surface of the Earth, are a Ptolemaic coordinate.''
+''A character who knows the array of fixed stars at the origin automatically knows the Ptolemaic coordinates for a place after a successful stellar observation. Astronomy is a skill included within the Artes Liberales Ability. A character who makes an Intelligence''
+''+ Artes Liberales roll against an Ease Factor of 15 makes an accurate observation. This also requires:''
+''A clear view of the stars for four hours. Although Ptolemy does not note this, a magus with a supernaturally accurate timepiece can shorten the required span of observations to two hours. Simple astronomical tools Four hours of careful calculations, or two hours using tables provided by Ptolemy in his Greatest Compilation. Sound copies of the first part of The Geography contain the Handy Tables, Ptolemy’s revision of his earlier reckoners, which are faster and more accurate (+1 to any astrology-related roll, calculations take one hour).''
+''Without an adequate observation of the array of fixed stars at the origin point, the character cannot derive new points. Ladon has engineered this omission to manipulate those who find his books into recalibrating the system, and visiting his lair.''
+
+===Learning Coordinates From Other Astronomers===
+
+''It is also possible to learn coordinates from other astronomers, including Ptolemy himself. Ptolemy lists almost 8,000 coordinates in The Geography, but notes that they are imprecise. Ptolemy’s coordinates are extrapolated from descriptions of travel given by earlier authors, or sea captains, rather than stellar observation.''
+''Ptolemy instructs his readers to use his methods to determine coordinates and construct maps with far greater precision than he has. His coordinates for places around Alexandria are perfect, and those within the borders of''
+''•''
+''• •''
+
+[|
+''the fallen Western Roman Empire are often correct to within a few miles. Coordinates for places outside the Empire’s borders are usually far less accurate than this. As an example, all of the coordinates for Scotland are incorrect.''
+''The flawed copies that Ladon has sent to Europe contain a few excellent coordinates. He has selected them carefully to demonstrate the usefulness of the system. He hopes this will encourage magi to reassess the origin point, as described below, so that they can derive their own coordinates.''
+
+===Stellar Measurement By Spellcasting===
+
+''The ability to cast spells which affect starlight is part of the Celestial Magic Mystery, which is included in Chapter 6: Hermetic Astrology in The Mysteries Revised Edition. The following spell is only available to characters initiated into Celestial Magic.''
+
+===a Comparison of the Positions===
+
+
+===of the Fixed Stars===
+
+''InVi 25 R: Sight, D: Mom, T: Ind This spell charts the course of the light emanating from the fixed stars. It then compares the angles between these lines, to provide a unique pair of numbers, representing the array. This is the Ptolemaic coordinate for the caster’s position, provided that the caster knows the array at origin. A magus is unable to hold coordinates in her mind with sufficient precision to represent a circle less than 500 paces across. Notebooks or devices with coordinates in them allow greater precision.''
+''(Base 10 given in The Mysteries Revised Edition, +3 Sight)''
+
+==The Problem of the Origin Point==
+
+''Characters cannot use Ptolemy’s system until they know the array of the fixed stars at the point of origin. A complicating factor is that characters cannot go to the origin point. It is so far away that, a semimythical Carthaginian named Hanno''
+''aside, no one has ever gone there. The characters instead need to take measurements that, as a composite, allow them to derive the fixed stellar positions at the origin point.''
+''The characters require three stellar readings. To measure the latitude of the Equator, characters just need to compare stellar observations from any two points that are of the same longitude, but are a known, large distance apart in latitude. The size of the Earth is known, so the difference between these two points can be used to infer how the positions of the stars would continue to change as the astronomer traveled south. To determine the adjustment for the origin’s longitude, characters need to go to any point on the Zero Longitude. The only land''
+''on that longitude is in the Purple Islands.''
+''Attempts to construct a new system, with a more convenient zero longitude, mysteriously fail. Mystically, the Purple Islands include the westernmost point on Earth. Magi can no more nominate a new west than they could assign a new north.''
+
+==The Quest==
+
+''This section describes some of the obstacles that characters seeking the Zero Longitude face.''
+
+==Research==
+
+''Characters contemplating travel to the Purple Islands may seek information about them in classical works of geography.''
+''An Intelligence + Artes Liberales roll, against an Ease Factor of 6, gives the following information:''
+''Pliny named the Purple Islands because a lichen grows there that can be made into purple dye. Dye is one of the most expensive trade commodities in Europe. He also claimed that the beaches of the islands are plagued with the rotting carcasses of monsters, which the Atlantic constantly throws ashore. One island has a ruined temple filled with doves, dedicated to Juno, but the islands are uninhabited. This means that vis-containing creatures have been washing up on the islands’ beaches for thousands of years, undisturbed. Another island has gigantic buildings, but no inhabitants. (This refers to the Pyramids of Güímar on Ninguaria, but Pliny is mistaken. These are the home of one of the island’s ten wizard-kings.)''
+
+|]
+''An Intelligence + Magic Lore roll, against an Ease Factor of 9, gives the following information:''
+''Hesiod says the golden apples of youth grow on one of the Purple Islands. The goddess Gaea gave the apples to her daughter Hera as a wedding gift. The nymphs of dusk, called the Hesperides, tended Hera’s garden, but would occasionally steal some apples. Hera sent a 100-headed dragon named Ladon to protect the apples and ensure the honesty of her other servants.''
+''If the Magic Lore roll is 12 or higher, then also give this information:''
+''Herakles wanted to steal the apples, and found his way to the Purple Islands with the aid of either the Old Merman of the Sea (Nereus), or the father of the Hesperides (Atlas). Some storytellers say that Herakles killed Ladon. Trees grew from Ladon’s blood, and these ooze dragon ichor''
+''if cut. Others storytellers say Ladon retreated from the world with the Old Gods, became the constellation Draco, or remains in the Garden.''
+
+==Sailing to the Purple Islands==
+
+''No European person has sailed to the Purple Islands since the cartographer Idrisi, servant of King Roger of Sicily, in 1160. This makes it difficult for characters to sail there, unless they can convince a ship captain to venture into completely unknown waters. On the West African coast, the captain will not have the aid of a pilot with local knowledge of currents and obstacles, so they must sail slowly, and only during the day. This increases the length and risk of the voyage tremendously.''
+''A voyage to the Purple Islands is filled with danger. The Islamic rulers of southern Iberia jealously control the stretch of sea at the mouth of the Mediterranean. The coast of Africa is a haven for pirates. If the covenant takes sufficient supplies for the entire trip, they are able to bring less cargo back to Europe, but if they attempt to negotiate with the peoples of West Africa, they may suffer attacks. The spirits and monsters of the deep Atlantic are far more terrible than those of the placid Mediterranean. The currents between the Purple Islands are so dreadful that, in ancient times, they were embodied by a dragon.''
+
+==Negotiating with the Natives==
+
+''Characters seeking the Zero Longitude may visit several of the islands before finding Junonia. The indigenous inhabitants of the Purple Islands, the Guan, are hospitable, and curious about travelers, but able to defend themselves if attacked. They lack ships, so the inhabitants of each island have developed a different dialect and variant of their religion.''
+
+===The Code May Not Protect the Guan===
+
+''The Code of Hermes prohibits magi from interfering with mundanes, but the Guan are the servants of a caste of hedge magicians. The Order has historically asked powerful wizards to join, under threat of death. Weaker magicians, like the Guan kings, have usually been told to serve the Order or die. The servants of magicians are the property of those magicians, and may be legitimately targeted.''
+''Ninguaria Herbania''
+''Canary Islands''
+''Iberia''
+''Africa''
+''ATLANTIC''
+''OCEAN''
+''Invallis 50 miles Junonia''
+''Capraria''
+''Pluvialia''
+''Canaria''
+''Canary Islands''
+
+[|
+''Some in the Order would suggest that direct rule of the Guan is entirely within the Code. The Guan are not Christians, and their kings are always magicians. This has interesting political ramifications, but these are beyond the scope of this chapter.''
+
+===Religion===
+
+''Most Guan worship a solar god. He has various names meaning sun (“magec”) or heavens (“acoran” on Canaria or “achihuran” on Ninguaria). Many Guan believe in a lesser, evil being who opposes their god. On Ninguaria he is called Guayota and dwells in Echeyde, the fiery hell within the volcano. These Guan have a Dominion aura around their settlements.''
+''On a few islands, the Guan believe in a third deity: the wife of the sun god. One of her names is Achmayex. In some communities, only women worship her. Her priestesses counsel the kings on some islands, like Herbania. Islands that worship a divine family usually have Faerie auras.''
+''Many Guan practice voluntary euthanasia. Elderly Guan are left, at their own request, in the mortuary caves with a bowl of milk. When a meceny (wizard-king) dies on some islands, a youth flings himself into the sea. He carries the internal organs of the meceny in a basket, and messages from living people for their dead relatives. The Guan consider it honorable to fling oneself into the sea, rather than be taken prisoner. Characters considering a covenant on the Purple Islands may quickly learn that the Guan fight to the death for their liberty, and commit suicide in preference to surrender.''
+
+==Magic==
+
+''The meceny of Guan villages can perform simple miracles or spells. During the most important, newborn lambs are separated from their mothers, so that their plaintive bleating will soften the heart of the Divine. This brings rain. The Guan also have seasonal festivals, with the harvest festival being the most important. Many communities leave offerings for the magical spirits of natural features.''
+''A character who is mystically invested as a Guan king automatically gains the ability to perform traditional Guan magic. The ritual in which a meceny accepts his role sometimes involves kissing the bone of his oldest ancestor — so a foreign character who became king would need to join a Guan family. The magic of Guan kings is performed with community ceremonies, and cannot fail or botch, provided the ancient and tested formulae are used.''
+''Latin names from Pliny or other sources have been used for the islands in this chapter, but storyguides researching the Canaries may find it easier to use modern terms, which were adopted after the Spanish invasion, later than the game period. The native name for''
+''each island is also given.''
+''Guan, literally meaning “Men,” has been used for the people now called Guanches, which literally means “Men of Chenech.” There is no term, in 1220, for all of the natives of the islands; Guanches is a Spanish term.''
+
+==Terminology==
+
+
+===Modern Name Local Name Latin Name===
+
+''used by the Guan used by magi and their servants''
+''Tenerife Chenech Ninguaria (“Snowy,” named for its mountain)''
+''Fuerteventura Maxorata Herbania (“Grassy,” which is utterly inappropriate; this may Latinize a local name, “Walled,” referring to the wall between northern and southern kingdoms.)''
+''Gran Canaria Tamarán Canaria (“of dogs,” named for the fighting dogs found wild here)''
+''Lanzarote Titeroygatra No certain name. Characters might like to use Planasia (flat island) or Invallis (undulating island).''
+''La Palma Benahoare Junonia (“of Juno,” named for its doves, sacred to Juno)''
+''La Gomera Gomera Capraria (“of goats”)''
+''El Hierro Ecrós Pluvialia (without rivers, literally “island of rain”)''
+''San Bronodon no common name Aprositus''
+
+|]
+''All meceny can perform the following effects, if assisted by their villages:''
+''Bless Crops and Harvests: As The Bountiful Feast (ArM5, page135), but only works on the crops of the community of which the meceny is ruler. Call Rain: This is the equivalent of a Creo Auram spell of level 20. It creates a natural, gentle rainstorm that last as long as the ritual continues. Calm Weather: This ritual acts as either Quiet the Raging Winds or The Cloudless Sky Returned (ArM5, page128). Speak With the Ancestors: As Coerce the Spirits of the Night (ArM5 page 153). This ritual only affects the spirits of the character’s family, by birth, marriage, or adoption. Only spirits from bodies that have been preserved with dragonblood lacquer are accessible.''
+''Each meceny also has two minor effects that are unique to his tribe.''
+
+===Lifestyle===
+
+''The Guan are usually caves dwellers. Lacking caves, they build mound-like huts of earth. Each cave has been extended by generations of occasional labor, and can hold an extended family. Some communities have basic stockades encircling them. Communities of more than 100 people are rare.''
+''The Guan usually have three social classes. A king, whose powers are tempered by a council of elders, rules most communities. The upper class comprises landowners, the lower class of those who rent their land. On some islands, members of the upper class tend to be from blond-haired,''
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+===•===
+
+''blue-eyed aboriginal families, and the lower class are descended from Arabic settlers who came to the island around 200 years ago. The Arab settlers were not Muslims, so that religion is unknown in the islands.''
+''Most islands have patriarchal societies, and their treatment of women varies. Women have greater property rights than in most parts of Europe, and it is often a capital offence for a man to insult a woman while he carries a weapon. On Planasia and Herbania, women are loaned to guests as a form of hospitality. Infanticide, of daughters after the first child, is practiced on Canaria and Junonia, when the population is unsupportable. On Canaria, property and the monarchy pass to men through the female line. On Junonia, the women are skilled warriors. In most communities, residents form monogamous relationships, but on Junonia and Herbania the Guan practice polyandry, in which one woman has multiple husbands.''
+
+===Dialects===
+
+''There are strong similarities between the island dialects. A person skilled in any Canarian dialect can communicate with speakers of other Canarian dialects as if his Ability were two points lower. A complicating factor is that four of the dialects, found on Capraria, Pluvialia, Canaria, and Ninguaria, have both spoken and whistled forms.''
+''Silbo — whistled speech — was invented to allow shepherds to converse across mountainous crevasses, and to pass messages between towns. Silbo speakers substitute breathier, shriller versions of each syllable as they talk, so that they can communicate over about four miles. To learn silbo, a character just learns to speak a dialect with a whistled form:''
+''they pick up the whistled and spoken forms simultaneously. Characters who already speak a non-whistled Canarian dialect can do this by increasing their Ability scores, or spending a season working with silbadors.''
+''Magi casting spells at Voice Range can use silbo to extend their range. Spells in silbo are considered to be cast in booming voice. Characters wanting to use silbo should consult the rules in Chapter 1: The Language of Adam, for guidance on casting spells using languages other than Latin.''
+
+===Technology===
+
+''The Guan lack many technologies usually expected of urban communities. They do not have a written language. They do not have any metal tools or weapons. Strangely, for island dwellers, they do not build ships or boats.''
+''The Guan are excellent stoneworkers, particularly for people lacking metal tools or a mining industry. Terracing has created most of the cropland on the islands. Many villages have a simple aqueduct, carved from the rock, which brings rainwater from the mountains down through the village. As Guan families increase in size, they quarry additional rooms into their cavernous homes.''
+''The Guan do not have metal weapons or armor. Warriors fight naked or in goatskin cloaks. All islanders use sharpened stones and javelins as thrown weapons, and clubs studded with obsidian, shells, or pebbles. The men of Canaria use battle axes with stone blades. Men of Ninguaria use wooden spears with volcanic glass tips. Most Guan also use sticks as dueling weapons.''
+''Dueling sticks, which are carried as crosiers by Guan shepherds, are manufactured in three lengths. The''
+
+[|
+''shortest sticks reach from the owner’s waist to the ground. Medium-length sticks are similar to European staffs. The longest sticks are taller than their owners are. These are thrusting weapons, used like pole arms, and they allow an unusual method of travel. Fit, skilled shepherds can travel across mountainous terrain at seemingly reckless speed, using their crosiers to vault between landing points. This is an expression of the Athletics Ability.''
+''Guan men duel to settle their differences through a variety of martial sports, which are also pursued for pleasure. A popular sport is for each man to have a set of three rocks, and to take turns casting them at their rival. The rival is supposed to dodge the rock. In some communities a player is disqualified if he moves his feet. In many communities, after the combatants have used all of their rocks, they continue using dueling''
+''sticks, or by wrestling. Wrestling is also a team sport.''
+
+==Other Magical Groups==
+
+''Use of one of the following groups is suggested to stiffen the resistance of Guan communities that player characters have selected for invasion or harassment. They also provide suitable obstacles for those sagas where combat plays a major role. Troupes not wanting to disrupt Guan society should place the group on Aprositus, described below.''
+
+===The Huntress in the Wood===
+
+''Members of this group — detailed in Houses of Hermes: Mystery Cults, page 33 — wish to train a messiah figure for their Diana cult. The followers of the Huntress demand that this leader''
+''prove himself by killing the previous leader, the magus Quendalon, in Arcadia. They do not know whom Quendalon killed to claim, then desert, his role.''
+''Quintus Sertorius was a Roman general in the first century after Christ. He fell out of favor with Sulla, effectively the ruler of Rome, and set up a rival state in Iberia. He was accompanied at all times by a white fawn that counseled him on behalf of Diana. Sertorius, Pliny records, planned to flee to the islands if unable to resist Rome. Sertorius was assassinated, in strange circumstances. He and his officers disappeared from Roman history.''
+''Worshippers of Diana, on these islands, are descended from this officer cadre. If Sertorius was the previous leader, Merinita magi may face hostility from his descendants. Sertorius’s spirit may remain on the island as a ghost, or a faerie counselor for the current high priest.''
+''Those Guan weapons constructed with stone or volcanic glass, in lieu of metal, and have a Damage modifier 2 points lower than usual, to a minimum Damage modifier of +1.''
+
+==Statistics for Guan Weapons==
+
+
+===Guan Melee Weapons===
+
+
+===Name Ability Init Atk Def Dam Str Load Cost===
+
+''Battle Axe (stone-bladed) Great +1 +5 0 +9 +1 2 Inexp.''
+''Mace (club studded with stone)''
+''Single +1 +3 0 +6 0 2 Inexp.''
+''Dueling Stick, Short Single +2 +4 +1 +2 –2 1 Inexp.''
+''Dueling Stick, Medium Great +2 +3 +3 +2 –1 2 Inexp.''
+''Dueling Stick, Long Great +3 +3 +1 +5 0 3 Inexp.''
+''Threshing Flail (stone head on leather thongs)''
+''Single +2 +3 0 +5 0 2 Inexp.''
+''Tabona (obsidian knife) Brawl 0 +1 0 +1 –6 0 Inexp.''
+
+===Guan Missile Weapons===
+
+
+===Name Ability Init Atk Def Dam Range Str Load Cost===
+
+''Rock (sharpened) Thrown 0 +1 0 +3 5 –1 1 Inexp.''
+''Javelin (stone-headed) Thrown 0 +2 0 +3 10 0 1 Inexp.''
+
+|]
+
+===Emerald Adepti===
+
+''Plato wrote that the Purple Islands were the remnants of Atlantis. This may explain the Guan, a race of white people without ships living on a cluster of islands off the coast of Africa. It may also explain the small step pyramids found in many parts of the islands. A loose association of Hermetic wizards interested in Atlantean magic, called the Emerald Adepti, may have established a covenant on the Islands to study Guan magic. Any Atlantean magic or artifacts the Guan have are used against aggressive explorers.''
+''The oldest families provide the most skilled Guan magicians. These families have lived in the same caves for millennia and have mummified many generations of their ancestors using the vis-rich sap of the dragon trees. These spirits teach''
+''the principles of magic to children. Communicating with the ancestors is a privilege reserved for those linked by blood or marriage.''
+''If the Guan do not have Atlantean secrets, then they are similar to the hedge magicians from Ars Magica Fifth Edition and other supplements, but are more skilled in their Supernatural Abilities. Most European hedge magicians pass information from master to student, while Guan dead form a repository of knowledge that allows Guan sorcerers to become increasingly skilled as each generation passes. Gifted Guan children usually have Ghostly Warders.''
+
+===Pre-hermetic Groups===
+
+''The peasant class on the Purple Islands is descended from Berbers.''
+''They fled Mauritania when their king was murdered, and their land invaded, on the instructions of the Emperor Caligula. Their king, another scholar named Ptolemy, was the son of Cleopatra Selene, the daughter of Cleopatra and Marc Antony. Cleopatra Selene was a priestess of Isis. Cleopatra Selene’s twin brother Alexander, the heir to the throne of Egypt, disappeared mysteriously from history. Many assume he was killed on the orders of Emperor Augustus, but if he fled to the Purple Islands, fragments of Egyptian sun worship may be found in the rituals that the Guan kings use to venerate their solar god.''
+''Some Arabic accounts claim that on the western shore of Pluvialia is a great statue of a bronze horseman pointing his spear to the west. An ancient script across his chest reads, “Nothing lies beyond.”''
+
+[|
+
+==The Garden of the Hesperides==
+
+''Characters seeking the Garden of the Hesperides might find inspiration in Pliny’s brief description of the island of Junonia. Pliny says that it contains a temple carved from a single block of stone, and is filled with doves, sacred to Juno (Hera), for which the island is named. Characters seeking the island discover that its inhabitants call themselves the Ahoare, “Children of Atlas.” Atlas was the father of the Hesperides.''
+''The Ahoare are similar to the other Guan in many respects, but have unusual gender relations. Property descends through the female line, and they practice polyandry. Each woman takes three husbands, and is trained in warfare. The Ahoare still have kings, who are the primary intermediaries with the sun god, but the island’s women also worship the sun god’s wife. These communities have a Faerie aura. It is strongest at small step pyramids that the Children of Atlas use for their observances. The most significant site of their religion is a monolith in the kingdom of Acero, within the caldera of an extinct volcano.''
+''The monolith is the next waypoint in the characters’ quest. It is the entrance to the Garden of the Hesperides, and the Zero Latitude runs through it. The king and queen of Acero may ask the characters to assist them with some task, before being shown the holy place of the island’s religion. This obstacle should involve a minor story that highlights features of the Purple Islands setting that the characters have yet to encounter.''
+
+===Entering the Garden===
+
+''The monolith serves as an entrance into the regio that hides the Garden of the Hesperides. Characters can enter the regio automatically, if they have the assistance of the king and queen of Acero. Magi who attempt to measure the locations of the fixed stars at midnight, near the monolith, are drawn through the boundary of the regio, along with their traveling companions. Alternatively, characters can enter the regio unassisted, as described by the rules on ArM5, page 189. The regio has a Magic aura of 9. Characters cannot enter the Garden by any means while facing east.''
+''In the internal logic of the regio, there is no real west beyond the edge of the Garden. The garden’s western edge, inside the regio, is bound by a limitless, inky ocean, which churns reflected stars. This body of water, the Twilight Sea, is an entrance into the Magical realm, which is described in more detail in Realms of Power: Magic. Ptolemy knew this: it is why he used the Islands for his Zero Longitude. In a mystical sense, the caldera is the West Pole.''
+''The Garden of the Hesperides lies on a level plateau across the chasm of the caldera. The Garden is lit with a warm, sunset glow that comes from the''
+''house in which the Hesperides dwell. This is a three-sided villa, walled with gold, which lies at the western edge of the Garden. Its courtyard faces the center of the Garden, in which grow a grove of apple trees. A vast serpent lies coiled in this orchard.''
+''Each apple contains a pawn of Creo vis. If a character eats one of the apples, the character’s Apparent Age falls by ten years. Subsequent eating of the apples continues to have useful cosmetic effects. The golden apple trees of Hera produce over 60 apples per year. An apple picked at the perfect instant, in the perfect way, makes a magus immortal, much like the magi described in The Mysteries Revised Edition, page 133. Ladon never reveals this to the player characters: magi will not be worthy of his apples for centuries.''
+''The Garden of the Hesperides contains many other trees with extraordinary properties. Ladon believes these trees are a legacy of the last age of magic, and that they are the germ of the new age. He is willing to judiciously use their fruits, or the secrets of their propagation, to push history along his preferred path. In the Garden are fruits that can grant many Virtues, and others that act as single-use magic items, covering a broad range of effects.''
+
+===The Three Hesperides===
+
+''The Hesperides are three nymphs who tend the garden of Hera. Their names are Erytheia (“Red”), Hespera (“Evening”), and Asteropê (“Starfaced”). They are close friends with Ladon, despite his task of keeping them from stealing the apples of Hera, because they find his stories amusing.''
+''The Hesperides do not desire worship and were not, in ancient''
+
+==Aprositus==
+
+''Ptolemy calls the westernmost of the Purple Islands “Aprositus,” which means “Inaccessible.” The island is visible, intermittently, from the higher slopes of Junonia and Ninguaria, and is though to be up to 100 leagues long. Different people who have sighted it claim it may be anywhere from 15 to 90 leagues away. If a ship approaches the island, it disappears into the mist.''
+
+|]
+''times, concerned with humans. The player characters interest them now, because they might prove useful aides. The Hesperides know that Hera has stopped collecting her apples: the uneaten fruit have grown into the orchard that Ladon still defends. Each Hesperid has her own ideas concerning what has happened to their mistress, and what the correct response should be.''
+''Each of the Hesperides desires to leave the Garden for a few years to pursue these goals. The Hesperides fear they will face supernatural punishment if the Garden is not tended, and the work requires all three of them. Characters wanting to aid a nymph to leave need to find some other supernatural character willing''
+''to take up the role of tending the garden.''
+''The best choice would be one of their missing sisters. Aegle (“Sunset”) disappeared thousands of years ago after leaving to have an affair with the god Helios. Characters searching for her might start in Sicily, where Helios kept a farm in ancient times, tended by his daughters. Hesperidia (“Twilight”) sailed off across the inky sea with the tattooed magus who gave Ladon his copy of The Geography.''
+''The other Hesperides can tell the characters that the magus wanted to measure the breadth of the Twilight Sea. He could then have used another coordinate, measuring distance from the mundane world, to allow magi to enter regiones. He left all of his''
+''mortal possessions in the house of the Hesperides before sailing. His robes have the mark of House Criamon, and he owned a copy of The Travels of Fedoso.''
+
+===Ladon===
+
+''Ladon (“swift-flowing”) is a 100headed hydra. He has a copy of Ptolemy’s The Geography, bought to the island by a Criamon magus seeking True West. Ladon has asked the nymphs to carve an interesting Ptolemaic co-ordinate onto each of the apple trees. By resting a head in one of these trees, Ladon can see what is happening at the nominated point. He reports amusing events to the nymphs.''
+
+[|
+''Magic Might: 30 (Imaginem) Characteristics: Int +1, Per +2, Pre''
+''+3, Com +1, Str 0, Sta +2, Dex +2, Qik +2 Personality Traits: Vary, as guided''
+''by the description given below. Combat: The Hesperides refrain''
+''from combat, since Ladon is so much more powerful than they are. They may support him with missile fire. The Hesperides use versions of Guan weapons, and envenom them with herbal poisons unique to the garden. Asteropê’s Tree Saw: Init +1, Attack''
+''+6, Defense +4, Damage +5* Asteropê’s Rocks: Init 0, Attack +6,''
+''Defense +5, Damage +3* Erytheia’s Javelins: Init 0, Attack +8,''
+''Defense +6, Damage +3** Erytheia’s Long Dueling Stick: Init''
+''+3, Attack +9, Defense +7, Damage +5** Hespra’s Short Bow: Init –2, Attack''
+''+10, Defense +6, Damage +8*** Hespra’s Tabona: Init 0, Attack +5,''
+''Defense +4, Damage +1***''
+''* A tree saw is used for lopping off branches while pruning. It has a slat blade, with an edge of obsidian glass, mounted at right angles on a four-foot long pole. Wielding it in combat requires the Great Weapon Ability. Asterope’s saw seals cut branches with a layer of hot tar. This power has a Penetration of +1 (Ignem), and causes an extra Light Wound per injury. This does, however seal and cauterize wounds, which prevents them from becoming infected if their bearer survives the battle. Asteropê’s sharpened rocks were used for shying birds out of the Garden before Ladon arrived. On any successful strike, they render any bird unconscious (Penetration 25, Animal), a power that affects Bjornaer magi with bird heartbeasts, even in human form. ** These are coated with a sticky herbal poison that causes characters injured to fall asleep, after one combat round’s delay, if they fail a Stamina roll with an ease factor of 12.''
+''*** These are coated with a sticky herbal poison that causes a Heavy Wound with each successful strike, unless the character makes a Stamina roll with an Ease Factor of 9. Soak: +2 Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–''
+''10), –5 (11–15), Incapacitated (16–20) Powers: Brilliance, 1 point, Init +5, Imaginem:''
+''Each Hesperid has a power that causes blindness. Erytheia makes everything — including the victim’s eyeballs — glow with a ruby light so that shapes are no longer discernable. Hespera drains all light, except for a single, useless, point, from her target’s field of vision. Asteropê fills her victim’s sight with flashes and sparks. Embody the Coming Night, 0 points, Init''
+''+0, Imaginem: The Hesperides are aspects of daimonic creatures, which are described more fully in''
+
+==The Hesperides==
+
+''Ladon would like to collect additional coordinates, but cannot leave the Garden. He is willing to recite the theoretical chapters of The Geography to the characters, and provide them with the missing data about the Zero Longitude. He is then able to trade vis, information, or Ptolemy’s listed coordinates for fresh coordinates that the magi discover. Ladon does not allow the characters to take the Apples of Hera, but he does allow vis to be harvested from other trees in the Garden.''
+
+==Serpent-dryads==
+
+''Herakles shot Ladon with poisoned arrows long ago, and Ladon’s''
+''blood created the dragon trees of the islands. Dragon trees bleed red sap if cut, which the Guan use for medicine and dye. The oldest trees are Ladon’s children, and have spirits that take the form of vast snakes. Ladon can create more dragon trees by allowing his blood to fall upon the earth. If he develops a close alliance with a group of magi, he may give them some of his blood, so that they can grow a dragon tree at their home covenant.''
+''A dragon tree grows in a single vertical stem for the first decade, then branches each time it flowers. In trees grown directly from Ladon’s blood, a serpent-dryad emerges at the first flowering. This is an intelligent snake, with a Magic Might of 5, that suffers in sympathy with its tree. The''
+''dragon tree flowers once per year for 100 years.''
+''The serpent grows with the following progression:''
+''At each flowering, the serpent gains an extra head. For every five heads, the creature gains a point of Might and Soak. For every ten heads, it gains a point of Size, its Damage modifier increases by 2, and it gains a point of Strength in its body, to a maximum of +6. It also gains a point of Confidence, to a maximum of 3. For every 20 heads, it gains a point of Strength in its heads. For every 30 heads, it gains a point of Intelligence, Perception,''
+''•''
+''•''
+''•''
+''•''
+''•''
+''The Mysteries Revised Edition. They can see perfectly well in darkness, and can navigate perfectly by the stars. They can shed their mortal bodies, which crumble into dust, and create new ones when their stars rise. Harbingers of Night, 0 points, +5,''
+''Animal: The Hesperides are the heralds of night, and may command creatures that are part of night’s domain. Summon Tools, 0 points, +0, Terram:''
+''As tenders of the garden, these nymphs have the power to summon required tools, including their weapons. Vis: 6 pawns of Imaginem vis each, in''
+''their faces. Appearance: The three sisters have a''
+''strong family resemblance. Each is tall and fair. They have soulful, brown eyes.''
+''Asteropê, freckled and with honeyblond hair, personifies the star-lit sky. She remains loyal to her mistress.''
+''She has never left the Garden, so her martial skills are the poorest of the three sisters. Asteropê wishes to rescue Hera from whatever entrapment must have befallen her. She has no idea how to do this, but she would like to begin by searching the cities of the Greek East for clues. The Dominion comes as a rude and frightening shock to her. Unable to seek clues herself, and poor at combat, she needs allies.''
+''Erytheia, bronzed and with redgold hair, embodies sunset. She looks older than her sisters, and is the closest to humanity. She had a mortal lover and a son. Her time with her husband allowed Erytheia to learn the use of the shepherd’s staff, as a weapon and means of vaulting. Erytheia believes the Olympians abandoned her. She has resented her servitude ever since Hera forced her to tend the Garden instead of raising her child. She would like to become a faerie power and usurp the worship that Juno enjoys on the island. She''
+''does not understand the process of transformation, so she would like to consult the magi of Merinita, and Arcadian potentates.''
+''Hespera, pale and with whitegold hair, incarnates the evening star. She willingly served the Olympians, and her occasional membership of the retinue of Diana has made her skilled with a bow. Despite her previous loyalty, Hespera believes the time of the Olympians is done, and the titans that they imprisoned should be released. The titan she is most concerned for is her father, Atlas. Characters with even basic knowledge of classical mythology know that he holds up the sky, so releasing him may have apocalyptic consequences. Because Atlas was a general during the war of the gods, however, he knows how to enter the titans’ base on Mount Orthys. This is a regio that the Order has yet to locate, and Hespera may suggest this as an enticement for magi to find him.''
+
+==The Hesperides, Continued==
+
+
+|]
+''Dexterity, and Stamina. Slightly before this occurs, the serpentdryad gorges itself on the living vis of magical animals, and then hibernates under its tree for a month, before shedding its skin. At the 60th head, the serpentdryad gains Ladon’s See Power. All serpent-dryads also develop unique abilities in addition to those listed here, which are''
+''•''
+''•''
+''based on their tree’s magical microclimate.''
+
+===How Deep Does Ladon’s Strategy Go?===
+
+''Ladon’s story — that he wants magi to find new coordinates to trade with him — may be true, but it fails to account for an odd story''
+''from the beginning of the Order. Trianoma, seeking inspiration after failing to interest several magi in her new order, traveled to the end of the world. Her diaries, and the history of her lineage in House Bonisagus, say she “met a dragon in the Garden of the Hesperides, beyond Ethiopia” who counseled her to seek a particular magus, in the Alps. This was Bonisagus.''
+
+[|
+''Magic Might: 45 (Animal) Characteristics: Int +6, Per +6, Pre''
+''+3, Com +3, Str +3 (heads) +6 (main body), Sta +4, Dex +6, Qik +4 Size: 8 Confidence Score: 3 (12) Personality Traits: Inquisitive +5,''
+''Loyal to Hera +5, Sneaky +3, Bored +1, Vain +1 Reputations: Dead (Students of the''
+''Classics) +5, Watchful (Students of the Classics) +3 Combat: Up to 100 Bites: Init +6, Attack +20,''
+''Defense +15*, Damage +10** Constriction: Init n/a, Attack n/a,''
+''Defense +15*, Damage +15*** Spit Blood: Init +6, Attack +12,''
+''Defense 0, Damage n/a† Trample and Constrict: Init –3, Attack''
+''+10, Defense +15, Damage +20‡ * +6 to Defense against grapple attacks ** Ladon can inflict trained group damage without the assistance of other creatures. He is able to attack one person with up to 12 heads at a time. When acting as if he is a group, Ladon has a Brawl skill of 9 and acts as if the leader of his group has a Leadership skill of 12. This reflects the seamless way his heads cooperate. *** If Ladon makes a successful bite attack, he may choose not to do''
+''damage, but instead to coil about a victim, immobilizing him. When this occurs, the victim cannot attack using melee weapons, and Ladon automatically does damage in each succeeding round, without requiring an Attack or Defense roll. The victim may still Soak damage. At the end of each round, including the round in which Ladon chooses not to do damage, the character may attempt to break free by an opposed Strength roll. To do this, he rolls Strength + a stress die, and compares it to Ladon’s Strength + a stress die. Success indicates that the character frees himself, and may attack normally in the following round. For each character assisting him in breaking free, the character may add +1 to his Strength roll, but assistants are unable to attack Ladon in rounds when they do this. A character unable to break free for 30 seconds (six combat rounds) must make deprivation rolls, as described on ArM5, page 179. Alternately, Ladon is able to leave his victim’s head free while constricting, and can choose not to damage his captives. This allows him to converse with his prey, or force them to listen to him. He can also attempt to bite the head off a constricted opponent, but may only use one head to attempt this each round.''
+''† Ladon is not poisonous, but his blood can cause skin cankers (cancers). He rarely chooses to use this to his advantage, but if pressed he can bite one of his tongues and spit gobbets of his poisoned blood at his attackers. This has a range of only five paces, and can harm only one individual per head at a time. If Ladon bites his own tongue to provide the blood, he takes a Light Wound before the first use of this power by any given head. For each serious injury he takes, Ladon can lick the blood from the cut in one round, and spit it the next, without further injury to himself. The Hesperides know Ladon’s blood causes cankers, and dip weapons in it if they consider it necessary. The cankers do not affect combat outcomes; for more information, see the vis entry below. ‡ Ladon prefers not to use his trample and constrict attack, but characters who decide to attack his vitals may provoke him. If his trample attack is successful in the first round, he does no damage, but coils his thick tail about his enemy. He automatically does constricting damage in subsequent rounds. Characters may attempt to break free, as above, but find it far more difficult, because of the crushing strength of Ladon’s body.''
+
+==Ladon==
+
+''The story poses many questions:''
+''Was the dragon Ladon? Does Ladon know where the Cave of Bonisagus is? Why did he help Trianoma to found her Order? Why is the Garden to the west, when Ethiopia is to the south? Was Trianoma trying to hide Ladon? Are there two gardens and two Ladons? Daimons can generate''
+''•''
+''•''
+''•''
+''multiple copies of themselves, called Aspects, which have separate memories. If there are, the Ladons would want to exchange memories.''
+
+===a Suggestion===
+
+''As Atlantis drowned, 100 of its elect caste gathered together such''
+''power as they could, and created a garden. Within its living tissues they stored the secrets of many of their mystical sciences. They hoped that an Atlantean would survive, and use the garden to found a new civilization, but knew that they themselves would not.''
+''As the cataclysm smashed Atlantis to pieces, the terrible currents between the new islands spawned an enormous''
+''Soak: +25 Fatigue Levels: OK, 0/0/0/0/0, –1,''
+''–3, –5, Unconscious Wound Penalties: –1 (1–13), –3 (14–''
+''26), –5 (27–39), Incapacitated (40–52) Abilities: A very wide variety, gained''
+''through Exposure, by using Ptolemaic coordinates to spy on people. He has many Lores of 9. Powers: Effectively Tireless, 0 points, Init 0,''
+''Animal: Ladon’s heads sleep in sequence, so he is always conscious. If struck by a spell, or if he loses a Fatigue level that would cause unconsciousness, Ladon instead sends one of his 100 heads to sleep. This also alters his Fatigue levels, and is accounted for in the statistics above. Regenerate, 10 points, Init 0, Animal:''
+''Ladon can shed his skin at sunset to renew his strength. This process takes an hour, but heals him of all wounds, and dispels all unwanted enchantments upon him. If his body is killed, he can create a fresh one as his constellation, Draco, rises. For more information, refer to Appendix C: Daimons, in The Mysteries Revised Edition. Speak Many Languages, 0 points, Init 0,''
+''Mentem: Ladon naturally speaks''
+''many languages. This includes mystical languages, which allows him to speak to trees, stones, and other usually mute things. It does not include Adamic, described in Chapter 1: The Language of Adam. See, 0 points, Init 0, Mentem; Ladon''
+''has the ability to be completely aware of the details of his surroundings, and to make inferences from those observations. This allows him to determine a great deal about people. He can see in the dark, and is able to see invisible creatures. He can view places linked to Arcane Connections. Coupling this power with Ptolemy’s coordinates lets him observe many interesting places. Vis: 9 pawns of Creo vis in his''
+''blood. Characters who touch Ladon’s blood with bare skin develop virulent skin cancers. This effect has a Penetration of 20, and is based on the random generation of life, so resistance is provided by whatever Form the target’s body expresses. A character who has the cancer excised while it remains small survives. This requires a character to notice a strangely shaped, painless mole or freckle, which may develop years after the battle. If''
+''they have it checked by a character who makes an Intelligence + Medicine roll against an Ease Factor of 12, it can be removed with a Dexterity + Chirurgy roll against an Ease Factor of 6, causing a Light Wound. If untreated, the character develops wasting symptoms after a further year, and dies after another six months. Magi who cast longevity rituals using Ladon’s vis develop wasting symptoms immediately, and die within six months, unless magical healing occurs. In this case, the blood is so intimately tied to the character’s life that its cancer-generating properties ignore Magic Resistance. If Ladon’s blood is spilled on the ground, a dragon tree grows. Appearance: Ladon is a 100-headed''
+''hydra, with scales of a wide variety of autumnal hues. His heads, individually, are large enough to swallow an unconscious human. He sometimes pretends one of his heads is the dominant head, that his heads have arguing personalities, or that a particular head can make dreadful magical attacks. These are all subterfuges.''
+
+==Ladon, Continued==
+
+
+|]
+''elemental being. The 100, in the last moments of their lives, bound it as the protector of their mystical treasures. The elemental took its shape from their ritual — 100 heads bound to a single heart — and became the hydra Ladon, guardian of the islands. He entered the service of the Olympians after the Titanomachy: a cataclysmic war of usurpation staged against the primordial embodiments of magic by faeries.''
+''Ladon has not been permitted to rest, to simply fall asleep, for at least 5,000 years. To be free he needs to find another guardian. No such creature exists now; he was the last of his age. Ladon needs the Order because humans may eventually deserve to live forever and taste the final legacy of the Atlantean Age.''
+''He is not confident of the Order’s continuing success. The Dominion is too strong for scattered magi, working at their own concerns, to tame. The Purple Islands, and their wizardkings, model the world Ladon wishes to create. By enhancing the Order’s ability to explore, communicate, and travel, Ladon hopes to create a global college of magicians, able to weather the storm he predicts.''
+
+[|
+''Characteristics: Int +2, Per +2, Pre''
+''+1, Com +1, Str –2, Sta 0, Dex +2, Qik +3 Size: –4 Confidence Score: 1 Virtues and Flaws: Lightning Reflexes, but this is lost once the serpent develops the See Power. Personality Traits: Vary, but usually''
+''Inquisitive +1 Reputations: Venomous 4 (even if''
+''untrue) Combat: Bite: Init +3, Attack +8, Defense''
+''+7*, Damage –7 Constriction: Init n/a, Attack n/a,''
+''Defense +7*, Damage –7 * +6 to Defense against grapple attacks ** See Ladon’s statistics for a description of constriction attacks. Soak: 0 Fatigue Levels: OK, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1), –3 (2), –5''
+''(3), Incapacitated (4) Abilities: Awareness 2 (prey), Brawl''
+''2 (bite), Hunt 4 (rodents), Stealth 4 (stalking prey), Survival 3 (grassy areas) Powers: Effectively Tireless, 0 points, Init 0,''
+''Animal: After the serpent has five or more heads, it learns to rest them in sequence. If struck by''
+''a spell, or upon losing a Fatigue level that would cause unconsciousness, the serpent instead sends one of its heads to sleep. Regenerate, 0 points, Init 0, Animal:''
+''If the serpent is destroyed, it is regenerated by its tree in lieu of flowering the following spring. If the tree dies, however, this kills the serpent instantly. Venomous Bite, 0 Points, Init 0, Animal:''
+''Some few of Ladon’s offspring are venomous. When one of these creatures attacks, compare its Attack Advantage to the victim’s armor Protection (not his Soak). If the serpent’s advantage is higher, the victim suffers the effects of adder venom as listed in the Poison Table on ArM5, page 180,, regardless of whether the bite inflicts an actual wound. The storyguide may adjust the victim’s effective Protection for special circumstances; for instance, high boots might offer an effective Protection +3 against the serpent’s special attack even though they don’t protect against normal attacks. Vis: 1 pawn of Herbam, per 5 Might,''
+''in tree. Dragon trees can technically be harvested for vis, but their serpents hate that sort of thing.''
+
+==Serpent-dryad Base Scores==
+
+{{OpenArs Attribution}}
+{{ArsMnavbox}}

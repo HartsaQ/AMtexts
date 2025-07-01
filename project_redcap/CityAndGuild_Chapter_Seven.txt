@@ -1,0 +1,705 @@
+''Late last century, the commercial network of Europe began to change irrevocably. Many new mines become commercially viable, and precious metal became comparatively common. Europe’s economy began to switch from agrarian barter to one in which it is possible for people to buy and sell using money. This process, monetarization, is continuing and accelerating. It has allowed the major noblemen of Europe to cease their earlier habit of traveling about their demesnes, eating through the foodrents of their vassals, and settle their courts in major cities.''
+''The population of these cities has begun to rapidly increase. If current rates of expansion continue, in 1300 many cities will be ten times the size they are in 1220. In the West, cities of this size have been unknown since Roman times. Their demand for food, drink, fuel, building materials, and the staples of manufacturing is insatiable. The cities are omnivores that devour the product of their hinterlands, and swell to ever-increasing hunger. The cities do not just eat: they also breathe.''
+''Cities breathe silver. The agrarian nobility accept money from their vassals as rent, and then spend it in the cities on luxuries. The city’s craftsmen spend it on staples: food, drink, fuel, and materials. These are bought from rural laborers through''
+''merchants. Peasants have pocketsful of money after each major harvest, until they pay their rent and buy new tools with their coins. Each city exhales silver into the countryside after harvest, and inhales it again over the rest of the year.''
+''This provides commercial opportunities for those willing to risk their lives and fortunes on the road. A new type of person has appeared in the West: people who, like magi, lie outside the division of the world into those who toil, those who pray, and those who war. These are people who can catch the city’s breath and keep a little for themselves: the merchants.''
+
+==Virtues and Flaws for Traders==
+
+''All traders have a Social Status Virtue representing the style of trade in which they engage. This determines their social position and degree of affluence. These Virtues, in ascending order of wealth, are: Merchant (which suits urban merchants and local carriers), Merchant Adventurer, Factor, and Capo. A character may have''
+
+=Trade=
+
+''more or less wealth than an average trader of his type, as represented by the Wealthy Virtue or Poor Flaw. The Redcap Virtue may substitute for any of these Virtues. Redcaps change roles at the whim of their House. Players creating traders from affluent families might also consider Privileged Upbringing, Protection, Vernacular Education, and Temporal Influence.''
+''Players creating traders might also consider the following Virtues: Affinity with (Bargain or Profession Trader), Cautious with (Bargain or Profession Trader), Entrancement, Learn From Mistakes With (Bargain or Profession Trader), Luck, Puissant (Bargain or Profession Trader), SelfConfident, Social Contacts, Ways of the (Sea, River, Road, or Town), and Well-Traveled.''
+''Merchants have many of the same Flaws as other wealthy people. Personality Flaws are particularly suited to young merchants, who have access to wealth, but few of the traditional obligations that bind the landed nobility. Players might also consider two Flaws specific to merchants the Favors Flaw may be used to represent a merchant’s indebtedness, and the Employed by Company Flaw suits characters who work primarily for a salary.''
+
+==Companies==
+
+''A company, also often called a “house,” is a durable financial relationship usually formed between a small number of men related by blood or marriage. Many companies originate from a father who brings his sons into his business. After the father dies, each son has a share in the business, and is called a partner. The partners select someone, usually''
+''one of their number, to manage the daily affairs of the business.''
+''In much of Italy (and in this chapter of City & Guild), this leader is called a capo, meaning “head.” Capos sometimes dispatch employees or partners to distant cities to manage the company’s business interests there. These men are often called agents or factors. These are often the sons of the partners. As the organization ages, new partners are offered places in the management of the business, which they secure with money and often marriage. Some rich people are partners in several businesses simultaneously, particularly if they are descended from several generations of merchants.''
+''This simple company structure is found throughout Europe. A capo in England is a “master,” while a capo in France is called “chef.” The terms used in this chapter are Italian or Anglicized Latin, because they lack more popular, confusing, alternative meanings in English.''
+''Any variety of merchant may work for a company, or a corporate body like an abbey or covenant. They receive a small share of the profit of their trading, but live less well than an independent trader of their type. A character may have both the Employed by a Company and Poor Flaws, but this requires an explanation approved by the troupe, for example a gambling problem. It is also possible for a character to be both Wealthy and Employed by a Company. A Wealthy character could declare her independence from the company at any time, and seek creditors to found a new business. Those who do not do so usually have an expectation of rising to higher status in the company.''
+''Carrying cargo for a company is less risky, and less profitable, than''
+''independent trading, but many independent merchants accept consignments from a company when they cannot find sufficient cargo. Over time, the company finds traders with whom it can work comfortably. If sufficiently talented, these merchants are asked to join the company as employees, or, if they have capital, junior partners.''
+
+==New Virtues==
+
+
+===Capo===
+
+''Social Status, Major The character manages a trading company that has branches in at least two cities. This gives the character many advantages, which a later section of this chapter details. A capo who is also a partner in the business does not select the Partner Virtue, instead selecting Poor or Wealthy, as appropriate to his circumstances.''
+
+===Factor===
+
+''Social Status, Minor The character manages the interests of a trading house in a single city. This gives the character many advantages, which the main body of this chapter describes in detail. Many factors are junior partners in their companies, and they choose the Partner Virtue, not this one.''
+
+===Merchant Adventurer===
+
+''Social Status, Minor The character is in command of a ship, and a crew. The character has sufficient capital for a cargo, but may have substantial debts, which may be represented by the Favors Flaw. Further details are given in the main body of this chapter. A merchant adventurer who owns a share of the company he works for should select the Partner Virtue instead of this one.''
+
+===Partner===
+
+''Social Status, Major The character has a large financial stake in a wealthy company. This provides sufficient income for the character to live as well as a minor member of the nobility, but without military trappings. The company’s capo is answerable to his partners, and they are permitted, when practicable, to take their profits in service from the house’s captains and factors, if they wish. A partner may act in any of the roles of the house without taking the Virtue that corresponds to that role, save the role of capo, with the permission of the troupe. That is, a partner who is also a factor, merchant adventurer, local carrier, or urban merchant need not purchase that Virtue if she has this one.''
+
+===Perfect Eye for (Commodity)===
+
+''General, Minor For one commodity, and products manufactured from it, the character never fails to make an accurate assessment of value. A character who has a perfect eye for wool, for example, can class wool by touch and always estimate its price accurately. The character can also price woolen cloth and woolen embroidery. A character with a perfect eye for gemstones can always spot fake, cracked, and illusory stones. Characters with this Virtue are prized employees, and are occasionally paid as consultants by other merchants. So long as they trade exclusively in the commodity that matches this Virtue, the character gains an extra (3 x Wealth Multiplier) Labor Points per year.''
+
+===Vernacular Education===
+
+''General, Minor This form of secular instruction, given by tutors to the scions of merchant houses, emphasizes practi''
+''cal skills likely to make the student suited to a leadership role in the family business. The character may purchase Academic Abilities during character creation. She also gains 50 additional experience points, which must be spent on Academic Abilities, Bargain, the Organization Lore of the character’s company, Profession Merchant, or the language of trade in the company’s region (usually Latin, Greek, or Arabic).''
+
+==New Flaws==
+
+
+===Bigamist===
+
+''Story, Major The character has two entirely separate lives, in two cities, and moves between the two as he trades. Bigamists have two spouses, and maintain two households, which they must pay for. The merchant’s annual cost of maintaining his business rises by (6 x Wealth Multiplier) Labor Points. Some bigamists mitigate this expense by pretending to be of lower status in their alternate life, which reduces the additional Labor Point cost by half (to 3 x Wealth Multiplier).''
+
+===Employed By Company===
+
+''Story, Minor Characters with this Flaw are salaried employees, answerable to an employer. They may be merchants who travel on behalf of a company, or administrators who are answerable to the partners. On the other hand, they are also backed up by the resources of the company. See the Companies section, above, for more detail.''
+
+===Many Marriageable Daughters===
+
+''Story, Major The character has a lot of daughters and needs to participate in stories''
+''to marry them off suitably. Information on dowries is included in the Marriage and Dowries section, below.''
+
+===Unhappily Married===
+
+''Story, Major Young merchants often marry for financial reasons. The character has married for money, not love, and seeks solace outside his marital bed. Unhappily married characters must hide their affairs of the heart from their spouses, their spouses’ families, and possibly from their partners’ spouses. In many areas, separation due to infidelity is permitted, although this is not divorce. In many such cases the wife’s dowry must be returned, in part or full.''
+
+==The Urban Merchant==
+
+''An urban merchant, the least affluent type, lives in a single city, and sells wares in its market. If there is a fair near the city, the merchant might visit it, but these merchants do not seek fairs distant from home. Urban merchants are retailers: they sell goods to their final users. They should select the Merchant Social Status Virtue.''
+''Covenants have many uses for urban merchants. They may be hired inexpensively. The home and premises of a merchant can provide accommodation for the covenant’s representatives and can act as resupply points for expeditions in the city. Experienced merchants have little political power, but they often have excellent contacts in their city. The network of peddlers that many wealthy merchants control is also''
+''an information gathering resource. Urban merchants often have excellent Area Lore, as described in Chapter 5: Travel.''
+
+==Scale of Affluence==
+
+''Poor urban merchants act as peddlers on behalf of wealthier merchants or traders. They buy a basket of stock each morning, and sell it in the streets during the day. Peddling is, in many cases, a sort of disguised begging. Some peddlers do not even own their stock and basket.''
+''An average urban merchant lives in a rented house in the town. The merchant’s wares are staple commodities that turn over rapidly, providing enough profit to live modestly. The merchant’s lifestyle is precarious, because the loss of all his stock — in a marketplace fire for example — would be ruinous.''
+''Wealthy merchants own their own home, and trade from a store near the market that they might own. Most are rich because they trade in something a little unusual, which allows them to draw richer clients, or because they have a monopoly on a commodity for a lucrative section of the city.''
+
+==Investments Suited to all Merchants==
+
+''All merchant types may invest their surplus Labor Points, or spend their spare seasons, in the following ways.''
+
+===Charity===
+
+''Characters may give their surplus labor as charity. The Church directs this labor toward good works. Characters who regularly give Labor Points to charities often form small guilds. Bridge guilds, described in Chapter 5: Travel, are one example.''
+''This improves the Reputation of the character (usually providing 1 Reputation experience point per season’s worth of Labor Points spent, although these may be trickled into the charity over many years.) It provides social contact with the overseer employed by the Church, and those people the charity aids. A character who has given at least (1 x Wealth Multiplier) Labor Points to a charity in the past year can, on short notice, summon a crowd of the people whom the charity assists. If the characters sends out a call, a number of people respond equal to the character’s (Communication + Leadership) x his Reputation resulting from charity work x a Social Status Multiplier. The Social Status Multiplier for urban merchants is 1, for local carriers is 2, for merchant adventurers is 3, for factors is 4, and for capos is 5. A character who supports a home''
+''•''
+''•''
+''•''
+''for retired sailors can summon a crowd of ancient mariners and their families. A character who supports a bread dole can call up crowds of beggars, bakers, reapers, and so on. These people are willing to do mildly illegal things for the character. With a week’s notice, the character can double this number of respondents.''
+
+===Commodity Speculation===
+
+''The character spends time selecting goods to be stored for a prolonged period, in the hope the price of those goods will rise. The character also arranges the details of storage for his goods, and the hiring of guards. The return for commodity speculation is 1 Labor Point per year for every 10 invested (with the invested Labor Point retained as well), unless story events intervene. If the magi burn down the warehouse during a duel, for example, all Labor Points are lost.''
+''Commodity speculators must either own or rent storage space, which makes them either the employer of, or a valued customer of the employer of, a group of trained guards. These guards always welcome a little extra money, in exchange for duties that are suited to brawny, violent men. For a negligible cost, usually involving ale, a merchant can gather one guard per half-season’s worth of invested Labor Points, and suggest how he spends an hour of time per week. These suggestions may generally not include breaking the law, with exceptions for affray, which is the sort of mob violence often found at sporting functions and in public houses.''
+
+===Drawings===
+
+''Players may trade labor for the finer things in life, like clothes and expensive craft goods. Every (1 x Wealth Multiplier) Labor Points spent is worth a single sumptuous item of hand tool size or smaller. Larger items cannot be traded for Labor Points. They are purchased either from the character’s annual profit, in Mythic Pounds, or available freely as part of the character’s Social Status Virtue, as described in each social status section.''
+''Introduction Agent: The character spends a season introducing merchants he knows, whose trade interests seem compatible, to each other, then negotiating the terms of their association. The character adds some of his own Labor Points to the venture, to help build trust. The character spends two seasons’ worth of Labor Points, and has three seasons’ worth returned to him after two years. The junior merchant in the group the character introduced to each other owes the character a single Favor, like the Flaw, which must be collected before the two years expires.''
+
+===Marriage Broker===
+
+''The character spends a great deal of time trying to get two nonplayer characters to marry. This costs two seasons’ worth of Labor Points, which are lost. The introducer of the couple is given an honored place at their wedding, which allows him to develop 1 point in any suitable Reputation. It also allows him to meet many members of the social class of the couple, and this provides the Social Contacts Virtue, which fades after three years, unless the''
+''character arranges another marriage. The couple, or the couple’s parents at the player’s discretion, owe the character Favors, like the Flaw.''
+
+==Stories Suited to All Merchants==
+
+''The stories suited for each stratum of merchant also suit those above, so most stories suiting the poorest merchants are appropriate for any type of merchant. Many stories may be used as investments instead, although this earns fewer Labor Points. Suitable gains in Labor Points are given at the end of most entries, although some stories result in the immediate gain of a whole level of wealth, or simply preserve the merchant from disaster.''
+
+===Archeological Find===
+
+''Many of Europe’s cities are built on the sites of ancient settlements, and the digging required to lay the foundations of new churches, castles, and bridges often disturbs Roman, or pre-Roman, vestiges. These are particularly valued by some members of the Order of Hermes, who investigate the recollections of ancient dead buried in unhallowed ground. A character hearing of such a find must purchase or steal the items found before they are given Christian burial. Failed attempts may give the character a poor Reputation. (Half a season’s worth of Labor Points)''
+
+===Market Changes===
+
+''Urban merchants are dependent on the economy of a single city for their income, which makes them vul''
+''nerable. Merchants react to changing market conditions by finding ways to take advantage of the change, to mitigate losses it caused, or to reassert the previous economic state. A list of example changes follows.''
+''Boom and Replacement Industries: A boom occurs when there is sudden demand for a resource that the merchant can provide. Some goods, like Milanese armaments, have obvious reasons for sudden demand. But sometimes booms occur because of a complicated cluster of events, and a merchant who successfully predicts them can make a great deal of money. Sustained booms create new industries, because the old sources, often distant, can no longer meet the need. Venice’s glass industry, Lucca’s manufacture of damask silks, and Florence’s cheap cloth all began as import substitution businesses.''
+''Covenants and merchants who predict a boom can prosper tremendously from early investments in substitution industries. Once a merchant has a Reputation for skilled management in an emerging industry, rich people often court him with offers of lucrative partnerships.''
+''In stories:''
+''A character who speculates successfully on the boom gains half a season’s worth of Labor Points. A character who successfully enters an emerging industry gains a season and a half worth of Labor Points.''
+''As investments, a character can detect a boom coming by making an Intelligence + Area Lore roll and consulting the following list. Booms occur in response to story events, at the discretion of the troupe, and last as long as desired.''
+''•''
+''•''
+''A roll of 18 lets a character prepare for years in advance, automatically allowing her to claim a return of two seasons’ Labor Points for every season’s worth set aside, once the boom is underway. A roll of 15 allows the character to put all spare Labor Points and money into the industry as the boom starts, and guarantees a return of a season and a half worth of Labor Points for every season’s worth invested, in that one year. A roll between 7 and 14 offers no advantage. A roll of 6 or less loses the character 2 of every 10 Labor Points invested. A botch destroys the character’s business.''
+''Crop Failure: Crop failure provides enormous commercial opportunities for the unscrupulous. Grain is shipped from the Baltic coast to Flanders, and the Black Sea coast to Italy, but when crops fail it is worth more, and can be carried far further. Fish, pickled meat, wine, and oil prices also benefit from crop failures.''
+''Two crop failures in succession, however, cripple trade. Most European grain crops only yield four times the amount of seed sown, so a town with two failures in succession eats its seed corn, and then its people starve. Even very wealthy cities can be wrecked by famine, since the civil order that might permit a coordinated response to the crisis breaks down. During these crises, nobles usually flee to their rural estates, and traveling merchants avoid the city. Senior representatives of the Church stay or go depending on their piety.''
+''Groups of local merchants, who control the remaining food supply''
+''•''
+''•''
+''•''
+''•''
+''•''
+''and have groups of loyal guards, often rise to prominence, if they guide the city through the emergency. A merchant attempting to save a city from famine needs to:''
+''form a collation with other powerful figures who remain in the city find a way to finance their de facto government feed as many people as possible prevent the breakdown of public order, with its attendant looting and demonic oppression keep industry going, by finding a way of luring merchants back to the city deal with the refugees who will flee to a stable city if the disorder in a province becomes widespread prevent returning potentates, like nobles or churchmen, from claiming the food and valuables within the city''
+''Successfully rescuing the town gains the character three seasons’ worth of Labor Points.''
+''New Product: When new commodities enter Europe, they displace old industries, but provide opportunities for those who adapt quickly. The introduction of linen, for example, damaged Italian businesses that made undergarments from silk, but was a boon for Iberians, who have similar businesses. They are also some of the few garment traders in Europe not dependent on Venetian alum, since most undergarments are undyed.''
+''A character introducing a new product, through stories, gains Labor Points based on how deeply it alters the markets of Europe.''
+''A product that is sometimes used as a substitute for another''
+''•''
+''•''
+''• •''
+''•''
+''•''
+''•''
+''•''
+''provides two seasons worth of Labor Points. Examples include the shift from fine ceramics to pewterware, and the introduction of hard cheeses. A product that spawns its own industries provides four seasons worth of Labor Points: flax, rice, and sugar are examples. A product that becomes omnipresent in the fairs of Europe promotes the character to Wealthy, or if already Wealthy, to the average status of the next highest Social Status. Examples would include hopped beer or coffee.''
+''Introduction of a new commodity may be combined with other investments of time, like introducing merchants to each other, or commodity speculation.''
+
+===Marriage and Dowries===
+
+''For the nobility of Mythic Europe loveless marriage is common, but merchants and other common people expect domestic comfort from their partners. By this, they mean fidelity, emotional consolation, financial''
+''•''
+''•''
+''support, the bearing of heirs, and sexual availability. In some areas it is expected that love will blossom following marriage, and many medieval marriages do in fact contain the tenderness and security associated with later forms of union.''
+''In many areas, the father of the bride must consent to her marriage. This allows him to threaten his daughter, by saying he will approve no man other than his choice. A father does not, however, formally choose the husband of his daughters in any Christian part of Europe. The sacrament of marriage requires the voluntary participation of the woman. A man is not her husband unless she consents during the sacrament.''
+''Dowries are an important part of the marriage contract. A dowry is a sum of money, paid by the bride’s family to the bride, or in some cases the groom, upon marriage. Dowries are the usual way for parents to pass wealth intergenerationally to daughters; they give sons shares in their businesses instead. This system of inheritance before death for daughters, but after death for sons, motivates sons to improve the business they will inherit.''
+''In most of Italy and parts of France, a husband has the right to invest and manage his wife’s dowry, but not spend it. He may be sued for mismanagement, and must be able to give it back to the wife’s family if the couple separates. In Italy, if the wife''
+''dies before the husband, her dowry must be given to her children or be returned to her parents. In parts of France the husband may keep much of the dowry. In England the husband owns all of the goods of the wife, including her body. In all three places, the wife has the right to use a portion of her husband’s property for support, if he predeceases her. For game purposes, assume this is one third of his estate, and that she likely loses this property if she remarries.''
+
+===Hard Time===
+
+''A servant, friend, or sponsor has lost all of his money on a calamitous''
+
+[|
+''If the father of the bride has a Social Status two levels above that of the groom, he uses his influence and money to improve his sonin-law’s circumstances. The groom becomes a Poor member of the Social Status immediately inferior to the bride’s father. Any surplus Labor Points the son-in-law has are lost.''
+''If the father of the bride’s Social Status is the same as, or one level higher than, the son-in-law’s, the dowry is paid in coin and goods. This is figured by multiplying the father’s annual profit by 10, then dividing by the number of children he has, except any daughters already married. This figure can be spent as Mythic Pounds. Dowries tend to be larger if the daughter:''
+''is marrying a groom from a less wealthy family. This is not unusual, because women outnumber men in Mythic Europe, particularly in the cities.''
+''•''
+''is one of many acceptable brides in her economic range. is a virgin. is less than ten years younger than the groom. will not receive other goods after marriage. It is usual for daughters to receive small gifts after marriage, but the more it seems likely that daughters will receive bequests, the less incentive sons have to improve their father’s business. It is illegal in some areas — Catalonia, southern France, much of Italy — to leave bequests to daughters, so dowries in those regions are larger. has fewer siblings than average, since her share of her parents’ wealth is larger. Larger dowries also, however, sometimes appear in vibrant family businesses with adult sons, because they are generating extra wealth for their parents.''
+''•''
+''• •''
+''•''
+''•''
+''has mostly male siblings, since this means her parents need to find less money for dowries. is likely to have difficulty obtaining money from the male heir after her father dies. will pay the dowry in installments. Dowries are often paid over three years, or finalized with a payment contingent on events. An example is the death of the bride’s grandfather, so that her father inherits his money. will receive the dowry in assets rather than money. has parents who would prefer people thought they had far more money than they do.''
+''Conversely, dowries are smaller if any of these statements are untrue. For example, if the bride will inherit the father’s business, there is likely to be no dowry, and may even be a dower. A dower is a payment made by a husband to the bride’s family.''
+''•''
+''•''
+''•''
+''•''
+''•''
+
+==Calculating Dowries For Merchants’ Daughters==
+
+
+|]
+''venture and been imprisoned for debt. The characters know that with the correct bribes his prison conditions can be made more tolerable, but after the prisoner’s term is served, how does the merchant rehabilitate the convict’s fortune and reputation? If the non-player character is returned to wealth and influence, the player character’s reputation and fortune also increase. (One season’s worth of Labor Points)''
+
+===Legal Action===
+
+''A colleague of the character’s is involved in legal difficulties. The colleague says that when the incident occurred, there was a witness close by. The witness comes from the poorer elements of society. The merchant must use contacts in the seedier classes to uncover the witness, and then convince the witness to exonerate the colleague, despite possible reprisal from the colleague’s enemies. (One season’s worth of Labor Points)''
+''A character may engage in legal action as an investment of time. Characters doing this spend  half a season’s worth of Labor Points per suit. A suit takes a season to complete, although the merchant need not be present during that time. The merchant compares the Intelligence + Civil or Canon Law roll of his representative with that of his opponent, and if he wins he may add or subtract one to or from any single, existing Reputation the loser has. If the suit is true, he adds 3 to his roll, while if the suit is false he subtracts 3, or 6 if the claims are outlandish. If the character fails, he earns a poor Reputation, at the troupe’s discretion. Win or lose, he may gain the Enemy Flaw, at the troupe’s discretion.''
+
+===Legacy Puzzle===
+
+''The character’s mentor has died, and left the character some investments, but the deceased kept poor records. The character needs to find his inheritance, and discover what it is worth, using the clues available. (One and a half seasons’ worth of Labor Points)''
+
+===Magical Item===
+
+''The character receives an enchanted version of one of the manufactured goods in which he trades. If the character can trace its origin, without alerting any of the people who have already possessed it, more items may be available. (One season’s worth of Labor Points)''
+
+===Mania===
+
+''Manias begin as odd fashions that sweep the upper classes of cities, for products with no real value. Manias commence when a fashionable person sets a new trend, for example a queen wearing an ivory comb in her hair at court, so that all fashionable people must follow her example. A true mania starts when merchants, seeing there are profits to be made from the fashion, buy the commodity for increasingly ridiculous prices.''
+''Merchants who refuse to take part in the mania suffer a poor Reputation. They are, by their choice, criticizing every member of their class who participates. Merchants who avoid manias tend to buy the businesses of their foolish colleagues once the mania passes, but they are often still hated for their foresight. (A character who weathers a mania earns half''
+''a season’s worth of Labor Points. A character who saves a large group of friends earns a season and a half’s worth of Labor Points, and is poised to face the Unraveling Economy story — see below — that often follows a mania.) A character who buys early in the mania and sells out at the right time earns one season’s worth of Labor Points.''
+
+===Murder of Or By Benefactor===
+
+''A powerful patron of the character is found murdered, with circumstantial evidence that points toward the character’s guilt. The merchant must evade arrest while finding the culprit, and sufficient evidence to demonstrate his guilt. As an alternative: the character’s benefactor is being set up for the murder of his rival, and the character must hide him while clearing his name. If the character has the Heir Virtue, this story may lead to an immediate increase in Social Status, otherwise it grants one and a half seasons’ worth of Labor Points.''
+
+===Natural Disaster===
+
+''Natural disasters disrupt the trade routes around a city, and damage the infrastructure that the residents of the city use to create commodities for export. Severe natural disasters also kill large numbers of skilled people. If a city is unable to provide the commodities that traders require, they will travel instead to a nearby city, and the loss of their custom does even more damage to the businesses of a city than the natural disaster.''
+''Characters confronting natural disasters need to keep people employed, and keep businesses run''
+''ning. This requires them to form consortia, even with rivals, which contain all of the skilled workers and specialized buildings required to continue producing the goods the city is famous for. Consortia often evolve into guilds – for more information on the formation of guilds, see Chapter 3: Guilds. (One and a half seasons’ worth of Labor Points).''
+
+===The Prodigal Returns===
+
+''One of the character’s siblings returns to the city, having wasted his patrimony. He would like the opportunity to work with the character, and promises that his spendthrift and lecherous days are behind him. A sibling would make an excellent lieutenant, if he can be trusted. (0 Labor Points)''
+
+===Public Snub===
+
+''Another person has snubbed the character in a public and deliberate way. The character’s Reputation will fall if the character cannot arrange for a similarly public retaliation. It would, however, also affect the character’s Reputation if the reprisal were disproportionate. (Half a season’s worth of Labor Points)''
+
+===Street Gang of Children===
+
+''In the character’s quarter of the city, a group of youths has formed a gang. Initially they engaged in petty theft, but their tricks are becoming more dangerous, and have recently extended into minor arson and petty burglary. If matters become more serious, they draw the attention of the city’s authorities, and also the''
+''city’s crime lords. Characters may help the watch catch the children, or may hire them, and teach them to be a disciplined criminal team. (Half a season’s worth of Labor Points)''
+
+===Superior Going To Pieces===
+
+''Due to illness, bereavement, or age, the character’s superior is unable to effectively run the company’s business. The character may either hold the superior together, covering his mistakes in the hope that he will improve, or find a way to displace the superior. (One season’s worth of Labor Points)''
+
+===Unraveling Economy===
+
+''The deals made by many merchants in rich cities are based on the word of individuals, and can fail if a single merchant is unable to meet his debts. If his ventures have a reasonable possibility of success this causes little difficulty, because the merchant’s rivals buy his shares in ventures from his creditors. If, however, the defaulting merchant house has tied its fortune to all of its rivals, it can drag down the economy of an entire city.''
+''The best example of this are the Fleets of Venice, in which investment is so popular that they are always oversubscribed. Many merchants falsely assume the fleet cannot fail to make money, so they gather as much credit as is available, then see this as certain income. The fleets rarely fail utterly, but sometimes lose ships to weather or piracy. This ruins the merchants concerned, leaving them unable to pay their debts. Their creditors then lack the money they were counting on, which means that''
+''they are unable to pay their debts, or for new services. This cascades through the city, drying up credit and destroying many businesses needlessly.''
+''A character caught up in an unraveling economy needs either to secure his money first, and ride out the collapse, or find a way to halt the demands for immediate repayment. Sometimes this has been achieved by gathering powerful people together and having them finance a bank that guarantees that the debts of the failing business will be paid, on the strength of the Reputation of the partners. If this prevents the cascade of demands for repayment, it saves the city’s businesses. In some cities, Venice for example, the guilds have a form of insurance payment that provides a similar service. (One season’s worth of Labor Points)''
+
+==The Local Carrier==
+
+''Local carriers follow a single route, carrying the same stable commodities, for many years. This is lucrative in the many areas where one group of carriers has a monopoly on the right to transport goods. In other areas, local carriers supplement their income with craftwork, theft, or day labor during the harvest season. Local traders often travel together in caravans, sometimes mixed with pilgrims, so that bandits do not catch them alone on the road. All local traders have the Merchant Virtue.''
+''Some local carriers serve a nobleman or monastery. With sufficient skill, they rise to more senior roles in their organization. Most''
+''independent traders are willing to work for a larger organization, like a covenant, in exchange for a cut of profits on single journey, when they cannot find sufficient cargo for themselves.''
+''An important variant of the land carrier is the waterman. Watermen are responsible for shipping goods along rivers, along coasts, and over fords. They also carry passengers, which can be lucrative on short, busy routes. In large cities lacking sufficient bridges — Paris and Venice are examples — the Guild of Watermen is particularly powerful.''
+
+==Scale of Abundance==
+
+''A local carrier with the Poor Flaw usually travels with a single pack animal’s worth of goods. Some have no home, carrying a few prized possessions as they travel. Some settle down with relatives or at inns when the winter comes, and use Craft Abilities make money during the hiatus.''
+''A local carrier of average wealth carries enough cargo to fill a single four-wheeled cart. In most areas the roads are so poor that this cargo is divided onto pack animals. The trader may have a family that rents a home in a city, or owns a modest home in a small village along the route. A local carrier has no paid servants, but might have a few family members who travel and work with him.''
+''The wealthiest local carriers may run a caravan of a dozen carts, or command a coastal trading ship. Each owns a home, with servants, in a city. They also often own a warehouse, and many have purchased a second, dependable source of income with their profits.''
+
+==Stories with Local Carriers==
+
+''Local carriers make valuable covenfolk. A local trader knows the places along his route better than virtually any non-resident, has contacts in each place, and is skilled at purchasing and transporting goods.''
+
+===Abduction Or Elopement===
+
+''The daughter of a local potentate has been kidnapped, or perhaps has eloped, with a young merchant. Local carriers, familiar as they are with the area around the city, can guess where the pair are likely to rest when traveling. Those who return the couple to the girl’s father earn his thanks, and perhaps a sum of money to keep the affair quiet, but also gain the enmity of the daughter if it was an elopement. Those who help the young merchant earn his gratitude, leaving the girl’s father none the wiser. (One season’s worth of Labor Points)''
+
+===Accidents===
+
+''Stories involving accidents occur when the fabric of a ship or wagon has been damaged, or one of the crew is harmed, and the player characters can mitigate the situation with physical courage and skill. Examples suited for many characters are:''
+''A ship has struck a submerged rock and needs to be refloated. (One season’s worth of Labor Points) A wagon has overturned, and one of the merchant’s employees is hurt. How do the remaining characters get him to safety, while simultaneously ensuring that the cargo of the wagon is not pilfered? (Half a season’s worth of Labor Points) A ship has been fatally holed. The characters must find a way to safety, prioritize what they can escape with, and then survive on an island until help arrives (One season’s worth of Labor Points)''
+''•''
+''•''
+''•''
+''The characters discover a ship that has been wrecked on, or near, a shore. The characters may attempt to salvage its cargo, but must beware whatever caused the accident. (One season’s worth of Labor Points)''
+
+===Brigands===
+
+''Brigandage, or piracy, is far worse than usual along a route frequented by the player characters. The characters may seek aid from the nobility, since the tolls merchants pay for the use of roads and ports are meant to be in exchange for protection. An adventurous nobleman might send an expedition to deal with the marauders, which the player characters may offer to assist in return for a fee. Less militant nobles might instead order all merchants to travel in convoys, and then supply armed escorts. The escorts collect a compulsory levy, to recompense the noble, and some merchants complain of theft and extortion by their appointed protectors.''
+''If the noble’s forces fail to aid the characters, or are defeated, the characters must seek other means of redress. As raiding continues, rivals in the merchant community of a nearby town may set aside their differences to seek the aid of mercenaries, or even magi. If they succeed, the merchants become a threat to the power of the ineffective nobleman. (One and a half seasons’ worth of Labor Points)''
+
+===Oasis===
+
+''The character finds a valuable resource in an uninhabited area. Examples include a viable ore body, a freshwater spring that makes an island habitable, or a new pass through''
+''• a mountain range. This potential source of wealth cannot be exploited without partners, but the wrong partners may wrest control from the merchant. (One and a half seasons’ worth of Labor Points)''
+
+===Smuggling===
+
+''One way to make trade more profitable is to refuse to pay the tolls and charges required by law. Smugglers need a base where they can hire additional crews, store cargo, and resupply. Many little fishing towns are reputed as havens for smugglers, and a covenant might also serve as a smuggler base. Smuggling cannot be kept perfectly secret, so characters need to develop a supportive community, and prevent traitors from going to the authorities. Setting up a smuggler’s den is worth one and a half seasons’ worth of Labor Points.''
+''Smuggling, as an investment of time, earns (Intelligence + Intrigue) x Wealth Multiplier Labor Points per season. A character who simply sponsors smugglers, and acts as a fence and procurer of supplies, earns a season’s worth of Labor Points per year in addition to his legitimate work. Smugglers and their suppliers have the Dark Secret Flaw, because they are criminals, but also have the Social Contacts Virtue, because so many people do not feel smuggling should be punished, purchase the goods of smugglers, and pass them information in exchange for discounted goods.''
+
+===Stowaway===
+
+''Ships that carries magi to and from strange locations attract unusu''
+''al stowaways. Some are monsters that endanger the crew, but others are the refugees of the places that the magi have destroyed, looking for new lives. (Half a season’s worth of Labor Points)''
+
+===Transporting the Dead===
+
+''The bodies of noblemen who have died during battle are lucrative cargoes, but the employees of merchant caravans and ships hate carrying them. The character disguises the body as something else, brings it aboard, carries it, then delivers it without the crew becoming aware of its true nature. (One season’s worth of Labor Points)''
+
+===Vanished Village===
+
+''A village that the character regularly stops in, when trading, has been destroyed or has simply vanished. Pirates might have plundered the settlement, or faeries could have transformed or herded off the inhabitants. Prompt action by the merchant can save the survivors of the village. (One and a half seasons’ worth of Labor Points)''
+
+===Writ of Reprisal===
+
+''If one merchant defrauds another and flees, a court might issue a writ of reprisal. The wronged merchant is permitted to seize goods, sufficient to pay for his trouble and the court’s costs, from any merchant of the fraudster’s home. This third merchant is then, in theory, able to reclaim the value of their seized goods from the fraudster, once the third merchant returns home. The system of reprisal''
+''makes every merchant responsible for the good behavior of all of his countrymen and -women. The weakness in the system is that the courts in the merchant’s home country need not recognize the writ. Characters may become involved with writs of reprisal as fleeing merchants, merchants falsely accused and convicted of flight, wronged merchants, or merchants who have suffered seizure.''
+''Some courts would consider a writ of reprisal against the Order, if the representatives of a covenant were convicted of improper dealing. Such a writ is sufficient evidence of interfering with the mundanes for a Quaesitor to review the activities of the characters. (One season’s worth of Labor Points)''
+
+==The Merchant Adventurer==
+
+''Many young men, from wealthy families, make speculative voyages to establish their fortunes. They usually lack developed trading skills, but are supported by a crew that have made similar voyages before, perhaps with the young man’s father or uncles. The young merchant’s patron carefully selects these supporters. A variety of Flaws can be used to represent the merchant adventurer’s relationship with the person or organization that provided him sufficient credit to launch a career.''
+''All merchant adventurers, regardless of wealth or poverty, are in command of a ship, or a caravan of wagons or pack beasts. The members of the adventurer’s crew are not veteran fighters, but they are able to defend themselves from bandit''
+''groups made up of peasants. The ship and crew should be designed using the notes given in Chapter 5: Travel. The retinues of traders have a reputation for causing trouble and, in smaller towns, are often required to remain within designated areas. Most merchant ships have a home port, where the merchant lives, and may own a home and a warehouse. Richer merchants often have larger, more sumptuous homes.''
+''When a city is threatened, its leaders expect merchant adventurers to fight on the city’s behalf under the direction of the master of the city’s fleet. Only the richest cities have true warships; most depend on their merchants for naval power. Even those with warships require cargo vessels to carry supplies, act as troop transports, and carry messages.''
+
+==Stories for Merchant Adventurers==
+
+''Covenants and merchant adventurers often find a commercial relationship lucrative. A covenant that generates wealth, using magic, can send it to distant markets where mundane people are less likely to notice it. Magi also find merchant ships a useful method of travel. Young merchants like rich passengers. The goods most magi require are available in most large cities. This allows a ship to find return cargo easily and avoid areas suffering depressed trade.''
+''Rich people and rich institutions, like covenants, often prefer to hire merchant adventurers rather than carry their own goods. Partnering with a succession of captains spreads risk, by shipping goods in many hulls. Many factors also believe that owners fight harder to save their''
+''ships in storms than salaried captains do. In fact, independent captains often choose to go down with their ships, preferring a heroic death to penury.''
+''Stories for merchant adventurers differ from those for local carriers or urban merchants, because they include travel to distant places, carrying cargo that is more valuable. This makes these characters more vulnerable, because they know less about their surroundings, have fewer allies, and are lucrative targets for unscrupulous people.''
+
+===Ventures===
+
+''Most trade in Mythic Europe is based on ventures: journeys, carrying cargo, with no certain buyer awaiting the merchant’s arrival. Merchants planning a venture need to consider several factors.''
+''Merchants cannot trade profitably unless they can carry valuable things home from the initial destination. A wise merchant finds potential buyers for his return cargo before he leaves on his voyage. In all cases, it is profitable to have native speakers of the destination’s tongue as assistants, because venturing merchants deal not only with other merchants, but also with dozens of petty officials, tradesmen, carters, and innkeepers. Latin, French, and Low German are the languages of trade in Western Europe. In the East, Greek is the tongue of merchants, while in Africa, Arabic is preferred. A merchant must select the proportion of bulk and luxury goods to carry. A related problem is''
+''•''
+''•''
+''•''
+''that a merchant loading his ship must balance heavy commodities with light ones, so that his vessel handles well at sea. Ships may be lightly crewed, or a captain may trade cargo space up for extra crew members. Extra crew take up cargo space at the rate of one ton per eight additional sailors. Caravans may also be lightly staffed, which makes them less able to resist banditry and theft, or reinforced with additional guards. See Chapter 5: Travel, Ship Combat for rules about resolving pirate attacks.''
+
+===Amphibious Assault===
+
+''Amphibious assault occurs when ships disembark infantry or cavalry near an objective, then shadow the land forces to provide supplies. It takes place during three phases of naval war. Before the clash of the expeditionary fleets, each side plunders the allies and trading ports of its rival. This provides easy loot and limits the enemy’s ability to resupply, shrinking the area in which they can operate. If the enemy city is attacked, it must usually be seized by land forces, although these are supplemented with the crews of warships. If the enemy city cannot be seized or effectively blockaded, raiding its trading assets damages its economy, slowing the rate at which it can construct ships, compared to its rival.''
+''Amphibious assaults have a variety of objectives. The character may be ordered to steal any valuables that can be carried away, and burn everything else. This is common when one side gains a temporary advantage in a place they cannot hope to hold''
+''•''
+''against enemy reprisal. (One season’s worth of Labor Points)''
+''Other assaults are selectively destructive, because the victorious side intends to claim the area after the war concludes. Naval infrastructure is destroyed, but other industries are left intact. (One and a half seasons’ worth of Labor Points)''
+''Some amphibious assaults are the beachheads for invasions. These occur if the invading city has selected this enemy territory as a point of resupply. Local authority figures are targeted, but buildings and common people suffer little more than harassment. Characters must restrain their forces, and recruit collaborators for civic roles. (Two seasons’ worth of Labor Points)''
+
+===Antique Sailing Instructions===
+
+''Treasure maps do not exist in 1220, because cartography is insufficiently developed. A character who has hidden treasure instead writes a series of sailing instructions, similar to those used by navigators or pilots to chart courses between ports. Storyguides should consider what type of people hide treasure, when''
+''they expected to recover it, and why they committed the location to parchment. (Between half and one and a half season’s worth of Labor Points, depending on how the story plays out.)''
+
+===Convoys and Caravans===
+
+''Merchants from the same region often travel together, in long convoys or caravans. On land, this makes them less attractive to bandits, although in areas where armies have recently been paid off, brigandage remains a problem. At sea, the additional sailors sometimes dissuade piracy. Convoying allows merchants to improve their odds of survival, because when a convoy scatters, the pirates can only capture some of the ships, while the others flee.''
+''A character who assembles a convoy is responsible for its safety. Successfully leading convoys or caravans, particularly if they repel bandits or pirates, increases the character’s Reputation. It earns one season’s worth of Labor Points as a story, or half a season’s worth of Labor Points per season as an investment of time. Failing to save a convoy damages the character’s Reputation. Characters who frequently lead convoys successfully are the preferred carriers for many investors, may charge higher freight fees, and may charge a fee to join their caravans or convoys. They also find it easier to recruit skilled crewmembers.''
+
+===Customs Agents===
+
+''A customs agent is the person responsible for collecting the taxes''
+''from the merchants using a port. Customs agents are the bane of smugglers. They have the use of small, swift ships packed with men they can use to raid smuggler’s dens and capture vessels at sea. Customs agents are paid a percentage of everything they seize, which leads to occasional corruption. (One season’s worth of Labor Points per mission played out, or half that for holding the office and performing its functions during an unplayed season. See also Amphibious Assault, for raids on smuggling dens.)''
+
+===Finding Investors===
+
+''The sheer expense of trading draws profit seekers together. Few people can afford to purchase a ship, crew it, and fill its hold, from their personal wealth, then wait many months for a profit. Those merchants rich enough to fund voyages personally usually prefer to spread their investments across several voyages, to spread their risk. Many financial relationships last for a single venture, so the search for creditors is ongoing. Many merchant adventurers prefer creditors to financial partners, despite the added expense. Bankers meddle less.''
+''Characters trying to find backers must design a venture, and find a powerful sponsor who is willing to commit his reputation to the venture. Once a respected person says that he trusts his money with a merchant adventurer, then other, less important people will also invest in the voyage. Significant backers may be purchased with a variety of Virtues at character creation, or recruited during play. Merchant adventurers do not follow the same trade route continually, so a new backer is required for every voy''
+''age, until the merchant has a positive Reputation of at least 3. This level of Reputation allows the character to attract creditors without the assistance of a sponsor.''
+''A season of hunting for a sponsor, if played as a story in which the merchant impresses his sponsor, earns one season’s worth of Labor Points. As an investment of time, this earns half a season’s worth of Labor Points.''
+
+===Pirate Hunting===
+
+''Towns respond vigorously to piracy. Successful pirates attract others of their kind as news spreads that the ships on a particular route are poorly defended, so after a successful raid, a town commissions a merchant adventurer to seek the lair of the pirates. (One season’s worth of Labor Points)''
+''If the merchant adventurer is able to burn out the nest of pirates his reward is higher, but this is usually not expected.  (One and a half seasons’ worth of Labor Points)''
+''Once the town’s leaders are sure of their target, they assemble a fleet of available ships, offered by the factors in the town, to crush the pirate base. (One season’s worth of Labor Points for participants, one and a half seasons’ worth of Labor Points for the leader)''
+''Rules for naval combat are found in the Chapter 5: Travel.''
+
+===Remittance Shipments===
+
+''The flow of money around a trading house’s branches is usually unbalanced. Some branches are simply more profitable than others. Eventually, profitable branches ship''
+''some of their earnings, in coin, to the central branch, to pay outsiders for various services. These shipments, called “remittances,” are rarely secret, because too many people are involved in the process of filling and loading the barrels of silver. Captains carrying remittances take devious routes, and may be willing to pay for magical assistance, to safely reach their destination. (One season’s worth of Labor Points, unless attacked, in which case one and a half seasons’ worth of Labor Points)''
+
+===Seeking Things===
+
+''Merchants working for companies are often asked, while in the course of their normal trading, to seek items that their masters have found a market for. One trading house, for example, commands all of its captains to look for lost classics, to purchase books from monks unaware of their value, and in some cases, to chase rumors of a particular book at a particular abbey. It also, at one point, commanded its Flemish representative to assist a choirmaster from the Vatican, who was unable to find sufficient choirboys in Lyons, to round up a group and ship them, in comfort, to Rome. (Half a season’s worth of Labor Points, either as a story or investment of time)''
+
+===Warfare and Blockades===
+
+''War diverts trade, but does not prevent it. Except in exceptional circumstances, the bulk trades continue, with longer routes. When routes move, this makes land transport even more expensive, which allows merchant adventurers to profit at the expense of local carriers. Wars can''
+''depress markets for a long period afterward, if an area has been ransacked, or its people forced to flee. When armies are paid off, they are notorious for turning to brigandage.''
+''Warfare increases the demand for some strategic cargoes. These include weapons and mercenaries. If important coastal cities or castles are besieged, a merchant adventurer can develop a useful Reputation, and make a tidy sum, running the blockade. Blockade-runners use small, swift vessels to slip through the cordon of warships that prevent a besieged place from being supplied by sea. Runners are very popular with the besieged, but make enemies of the besiegers. Blockade running requires a seasonal shiphandling roll (Dexterity + suitable Profession) against an Ease Factor of 15, with failure indicating identification of the runner’s vessel and battle with blockading ships. (One and a half seasons’ worth of Labor Points as a story, one season’s worth of Labor Points as investment of time)''
+
+==The Factor==
+
+''The Latin title, factotum, literally means “person who does everything.” Some companies give their factors other titles, like “agent,” “governor,” or “administrator.” Factors control their employer’s assets in the city and have a great deal of autonomy on daily matters. They do not personally travel to perform trade, but assist commerce by preparing supplies, maintaining equipment, and aggregating cargoes. Factors are often the sons or nephews of partners in their house. Inexperienced factors are provided with skilled counselors.''
+''The company’s warehouse is the center of the factor’s occupation, although he might prefer to do business from an office near the market. The factor acts as a connection between foreign and local traders, arranging for the sale of imports and the aggregation of exports into cargoes. When a company merchant docks, his cargo is sent to the company’s warehouse, and he loads the cargo already prepared for him. He does not have to delay sailing to sell or buy his cargoes, and his profits are remitted according to the customs of the house.''
+''The factor also maintains the company’s secondary interests, which usually include collecting the rent due it as a landlord, acquiring profits due it as a moneylender, and managing farms, mines, and workshops. The factor may command the assets of the company in his city. This includes its captains, crews, tenants, workers, and debtors. The factor’s purchasing power, and role as employer and landlord, usually grants some temporal influence.''
+''Factors are skilled in Bargain, Civil or Common Law, Folk Ken, Leadership, and Profession Trader. Most factors have a little skill in whatever Craft Ability creates their main product; Weaving is the commonest example. A wealthy factor inevitably draws the attention of the nobility and the Church, and requires Abilities like Charm, Etiquette, and Intrigue deal with them.''
+
+==Scale of Affluence==
+
+''All factors have large, wellappointed homes, staffed with several servants. These include a few sentries or bodyguards. Failure to maintain this lifestyle reduces the''
+''factor’s Reputation and commercial opportunities, so low-income factors go deeply into debt, in preference to allowing their standards to fall.''
+''The factor’s wealth affects his lifestyle. A poor factor may represent a business that is weak, one that has suffered at the hands of commercial rivals, or may be serving as a company’s scout before expansion into a region. Some poor factors are salaried employees. The average factor lives very well, as described above. He, or rarely she, has spare money for luxuries or investments in personal cargoes. Wealthy factors may live opulently, but rarely spend as extravagantly as they could. Junior partners do not want to be seen as spendthrift by their superiors, since it would prevent them from being promoted to more lucrative posts. Those who have traveled to a city to be its factor know that flashy foreigners invite trouble. The surplus wealth of these characters is often channeled into private companies, partnerships, politics, and donations to the Church.''
+''The Factor Virtue is also used for independent traders who have sufficient capital to organize multiple shipments, but lack the connections in other cities that provide the advantages of company trade. A poor, independent factor is usually a merchant adventurer who has recently hired extra captains and retired from travel. He owns his home, and the ships or caravans from his traveling days, but often needs substantial credit to arrange premises and sufficient cargo to found his company. A covenant that depends on trade for its income is often similar to a singlecity company, and may have a person performing the role of factor in its employ. An average, independent factor lives in luxury that compares''
+''to that of a minor landholder. A wealthy, independent factor lives in luxury that minor nobles envy. Some factors marry into the noble class, or have their sons knighted. Wealthy, independent factors may live more lavishly than their company equivalents, since they are not answerable to owners.''
+
+==Stories with Factors==
+
+''Covenants find relationships with factors useful. Factors have sufficient capital that they can aggregate a covenant’s manufactured supplies for a period and send them as a single shipment. Factors that manage workshops can provide skilled labor to the covenants, as needed. These traders are often the first people in a town to learn important news. Company factors often have personal wealth that they cannot display, lest their superiors think they are using company funds. They might invest these funds with magi, or use them to purchase magical items.''
+
+===Change of Government===
+
+''A significant figure in a city’s political landscape is replaced by a successor with different policies and desires. Nobleman and merchants who succeeds their fathers have been assessed before assuming their positions, but sometimes behave rashly when they finally come into their power and must be made to see the sense of their fathers’ policies. Significant churchmen are even less predictable, because they are appointed by distant potentates, and may theoretically come from anywhere in Europe. (One season’s worth of Labor Points if a seriously''
+''opposed character is brought onside during a story. Alternatively, as an investment of time, the character gains (Communication + Intrigue) x Wealth multiplier Labor Points, and the Favor of a minor political figure)''
+
+===Company Neighborhood===
+
+''The company’s warehouse may become the center of a community composed of the house’s employees. This is particularly common in troubled towns, where merchants from a trading house elect to live near its warehouse, and its guards. They may even erect a wall around their section of the town.''
+''Warehouses are expensive compared to other buildings. They require large plots of land near the docks or town gates, and compete for space with the lucrative service industries that support trade. A character designed as a factor, or who earns factorhood through accumulating Labor Points, has a warehouse of sufficient size. Replacing a warehouse costs 10 pounds per hundred tons of cargo storage space. Smaller trading houses often rent space from larger ones.''
+''Most warehouses require guards. A single guard, acting as a watchman, is sometimes sufficient to deter burglary, but most warehouses hire one guard for every ten tons of cargo, and split them into day and night shifts. Merchant houses engaged in violent rivalries hire many more supporters, to prevent the theft of their goods, and to provide some defense against arsonists. Some merchant houses have guards for each of many facilities: effectively small, private armies. These are a threat to the public peace, since they often clash with their rivals at public events, but city leaders find them difficult to control.''
+''It takes one season for a factor to supervise the construction of a company neighborhood, of whatever style. This may lead to political problems with community leaders from surrounding areas, which must be dealt with as a story, to prevent the Reputation of the house from being harmed.''
+
+===Exercising Power===
+
+''Factors have no formal role in the governance of most cities, but have a great deal of influence. They are rich, have powerful supporters, and employ large numbers of people. Some factors act as sales agents for luxury goods, which means they have access to, if not power over, the nobility. Others act as bankers, advisors, and servants to the powerful, and may appropriate some of that power for themselves.''
+''Factors lobby for the interests of their house. They try to have road, bridge, ferry, and city gate charges lowered; carriage rules altered; and bridges built. Factors oppose diluting the currency, and tend to counsel against war. War is bad for trade, and rulers often levy compulsory loans to fund conflicts. These are not repaid if the noble is defeated. Factors tend to support the Church, and give a portion of the house’s profits to charity. Factors also interact with other merchants and, when a consensus forms, they are a powerful lobby group.''
+''In towns where rivalry between trading houses is intense, the factor controls the house’s strategy. No factor expects to spend a career arranging theft, arson, and assassination, but in certain cases, disreputable means secure great advantages. Factors who regularly incite crime often have trusted deputies''
+''to arrange the details. Some factors are involved with organized crime, fencing stolen goods and laundering money through exports.''
+''As noted in Chapter 3: Guilds, the senior members of each guild hold a great deal of social and political power in cities. The leaders of powerful companies hold a great deal of economic power. These forms of power intertwine in the political life in all cities. The degree to which economic power can be used to gain guild offices varies from city to city, but wealthy merchants retain a great deal of influence, even in those cities which limit their role in public life. Most rich merchants are guildsmen, and most rich guildsmen profit from trade.''
+
+===Foreign Rivals===
+
+''Factors of competing companies may band together to repel foreign rivals who move in on their local business, or may ally with interlopers rather than lose out entirely. Flemish merchants, for example, dominated the wool trade from England to Flanders, but recently Italian and Baltic merchants have grabbed a share. National trade rivalries can become bitter. In some cases, the fury of powerful merchants has driven their countries to war. (Two seasons’ worth of Labor Points for holding off foreign merchants. One and a half seasons’ worth of Labor Points for convincing them to become junior partners. One season’s worth of Labor Points for selling out comfortably.)''
+
+===House Reputation===
+
+''Merchant houses have Reputations, just as people do. A''
+''servant of the house, acting as its representative, can borrow that Reputation. He can also improve or damage it. Maintaining a merchant house’s Reputation is one of the primary responsibilities of its factors and capo, since companies of poor repute are not asked to collaborate on ventures with other companies. Negative Reputations do not affect negotiations if the company employee manages to hide his affiliation, however.''
+''Characters can influence a house’s reputation through their actions, by hiring people to spread opinions, and through their largesse. A character’s actions reflect on her house in the same way she might create personal Reputations. A character can hire agents, whose duty it is to advocate for the company, in organizations like guild assemblies and conclaves of bishops. Largesse, the pouring out of the house’s funds for charitable and civic works, allows the compa''
+''ny to improve its community while simultaneously earning the gratitude of others.''
+''Whenever a character, acting as a representative of the house, does something sufficiently notable that she gains experience toward a Reputation, the house also gains experience. As an example, if a merchant relieves a famine by delivering free grain to a city, he gains experience toward a Reputation for being Generous. If, when his ship arrives, its sails are all emblazoned with the emblem of a trading house, that company also develops the same Reputation.''
+''A house may hire people to whisper into the ears of the influential. This costs the factor 5% of the usual wage of the advocate, since he is required to do little but express a positive opinion, and some friends of the house do this freely. Such a character improves the house’s Reputation by one among people''
+''Characters engaged in commercial law-breaking use their Intrigue Ability to hire skilled professionals. If these incidents are played in stories, the criminals use their own Ability scores. If the crimes are resolved without a story, the hiring character rolls Communication + Intrigue and uses the result in place of the proxy’s roll, to determine the degree of success. Characters with excellent Intrigue hire the very best people, and get excellent results. Factors without Intrigue skills hire servants who do. Characters whose proxies must defend against crime — sentries or bodyguards for example — use their own skills during stories. For non-played events, they may use either their own skills or the Communication + Intrigue of whoever hired them. Some young capos, with poor Intrigue skills, are protected by a phalanx of their father’s hires.''
+
+===Assassination===
+
+''Most assassination uses the combat rules. The corpse usually appears to be the victim of a violent mugging. An assassin usually charges two pounds for this service. Assassination disguised as mugging is usually unsuccessful against factors with minders. A few assassins favor methods that are more exotic, such as poisoning and shooting crossbow bolts through windows. They charge five pounds per attempt, in advance.''
+''Thugs can, alternatively, simply beat a character severely, or humil''
+''iate him, to teach him a lesson. This halves the cost, if the victim is rich. Factors can have poor people attacked for free. Regular use of this privilege, however, gives the factor a Reputation for ruthlessness. Kidnappings cost twice as much as assassinations.''
+
+===Bribes===
+
+''Bribes vary in size by the wealth of the corrupted official and the magnitude of the favor requested. An easily granted favor costs a week’s wages. A favor that would cause serious trouble if discovered costs a month’s wages. provided discovery is unlikely. A favor that would cause someone to lose his job, if discovered, costs at least a year’s wages, but may cost more. A series of regular favors involves the corrupt official getting a percentage of whatever advantages the briber accrues.''
+''Examples of bribery include:''
+''A harbormaster offering to bump a ship to the top of the waiting list to use the dock crane asks a week’s wages. A gate guard paid to sneak a merchant in before the official opening on a market day charges a month’s wages. A priest bribed to breach the confessional asks a year’s wages. A customs official who regularly assesses expensive wine as cheap, and charges the lower''
+''•''
+''•''
+''•''
+''•''
+''toll, expects at least 10% of the money the merchant saves.''
+
+===Piracy===
+
+''Characters can equip ships for piracy by stripping them of cargo and packing them with crewmen, as detailed in Chapter 5: Travel. It is easier to keep these preparations secret if the factor uses an intermediary in a remote town, or if he sends his ships to target vessels pinpointed by distant branches. Merchants resisting pirates, burning out their nests, or protecting convoys can also prepare warships.''
+
+===Sabotage===
+
+''Agents can be instructed to perform many varieties of sabotage. They charge a pound, in advance, for each attempt, regardless of success. Sabotage requires a Dexterity + Stealth + stress roll that exceeds the Perception + Awareness + stress roll of the most skilled sentry guarding the facility that the agent seeks to harm. Each added sentry adds one to the defender’s roll. A discovered saboteur flees using the combat rules to disengage from the sentries, and then hide.''
+''The type of sabotage attempted also adds to the sentry’s roll. This reflects the time and difficulty required to inflict damage on the facility.''
+
+==Skullduggery==
+
+
+===Spying===
+
+''All factors have spies, and many of them are effectively free. As an example, a barber by the docks who keeps an eye on the arrivals, departures, and cargoes of a rival, in exchange for occasional presents and regular business, is free. Players are encouraged to design a few colorful informants. Factors find insider information about their rivals’ businesses particularly useful. It allows the factor to take advantage of weaknesses in a rival’s organization, and to effectively target other forms of skullduggery. Spies require very large payments for their assistance,''
+''sometimes as much as they earn by their legitimate profession. If asked to sabotage operations with which they are legitimately involved, spies often charge far more: sometimes as much as ten years worth of income per attack. This is because their risk of discovery is very high, and the betrayed parties may not confine themselves to legal methods of redress.''
+
+===Theft===
+
+''Theft allows the factor not only to harm enemies, but make a tidy sum at the same time. The key''
+''problem for factors who want to steal their rivals’ property is that most cargo weighs many tons, and can only be removed by large teams of men with vehicles. A character might choose to steal only his rival’s choicest goods, putting the rest to the torch, or might arrange a convoluted scheme to empty his rival’s warehouse. Successful large-scale theft, within a city, requires at least a brief story. Successfully removing the goods is only the beginning: the characters must store, fence, or ship the goods so that the evidence of the crime disappears. The thieves working for the characters usually request at least half the value of the stolen cargo for their effort, in coin.''
+
+===Treachery===
+
+''A powerful weapon for the dueling factor is fomenting treachery among his enemies. Convincing a captain and crew to scuttle a ship, another factor to change companies, or a partner to sabotage his own firm usually costs a great deal of money, so treachery is often only an option where exploitable dissatisfaction already exists. One of the reasons captains and factors are paid percentages of profits rather than simple salaries (by richer companies, anyway) is to dissuade treachery. Some traitors act from principle, however, and others from passion, and these are the hardest to dissuade.''
+
+===Type of Sabotage===
+
+
+===Sentry’s Awareness===
+
+
+===Bonus===
+
+
+===Examples===
+
+''Defacement +0 Throwing a bladder of ink at a monument.''
+''Rendezvous +3 Meeting a spy inside the enemy’s area of control for a brief time. This is also the modifier for seducing an enemy’s relative in his own house.''
+''Arson +6 Lighting a large fire within a warehouse or private residence. Prompt attention by sentries can mitigate damage caused by fires.''
+''Burglary +9 Removing documents, which the agent must search a room for.''
+''Spoilage +12 Adding fish oil to each barrel of a shipment of wine, so that the damage is not discovered until after the wine has been exported.''
+
+==Sabotage Table==
+
+''the advocate contacts in his normal role. As examples, a master craftsman might influence other craftsmen, an officer of the city watch might influence his guards, and a bishop’s clerk might influence his employer. Advocates can reduce the effect of negative Reputations as well as highlighting or creating positive ones. Several advocates working together can warp a victim’s perception of the house markedly, but cannot ever produce a Reputation modifier greater than 3.''
+''Largesse takes two forms: that which dissipates, like a festival, and that which endures, like a new public building. Largesse that dissipates either adds or subtracts 1 experience point, of a Reputation selected by the player, for every pound spent per thousand people in a city. Characters may also sponsor public buildings to alter the public perception of the house. Such buildings must meet a public need, so a character cannot simply choose to place a new cathedral next to the current one. They must be marvelous, so they are extremely expensive. They also only affect the house’s Reputation once complete, so usually they must be small.''
+''A public building acts as an advocate for the house, to those who use the building or see it daily. As with human advocates, the building adjusts the house’s Reputation by 1, but the Reputation that the building alters is set at the time it is opened and cannot be easily changed. Larger buildings do not give a greater Reputation modifier, but instead affect more people. If a building is destroyed or passes from public use, its advocatory effect is lost. No person may be influenced by more than three advocates, altering the same Reputation, at the same time.''
+
+===Loss of Capo===
+
+''Some capos carefully manage their succession. Others die unexpectedly, which forces the partners and senior factors to meet and appoint a successor. This offers senior factors an opportunity to attempt to seize power within the house. It also provides a period without clear oversight, during which junior factors can fund unusual or risky ventures without the usual level of resistance. During this pause, the house’s rivals may probe it for weakness, which keeps factors in frontier or contested areas busy.''
+
+===Recovering Wrecks===
+
+''Factors are responsible for finding ships, under contract to their merchant house, which may have been wrecked. While performing this duty, the factor’s agents also attempt to recover the property of the house. They salvage cargo that can be recovered and repatriate any colleagues found to have sur''
+''vived. (One season’s worth of Labor Points)''
+
+===Repossession===
+
+''Factors administer the many non-trading investments that their houses have. The nobility, Church, and other merchants offer varied sources of income as surety for loans. Many factors work as moneylenders and bankers, who monitor the fortunes of their clients. Companies often act as landlords for their workforce, and the factor’s agents collect rents. When loans or rents are left unpaid, the factor must ensure collection. (Half a season’s worth of Labor Points when the defaulter is a merchant or craftsman, one season’s worth if he is a powerful guildsman, or one and a half seasons’ worth if he is a priest or nobleman. Subtract a half-season if this is an investment of time rather than a story.)''
+
+===Resisting Nobles===
+
+''Merchants are often the targets of extortion by noblemen. Many nobles seize goods, or request them at bargain prices. Some enact tolls that affect profitable new industries. In times of war, a nobleman may prohibit anyone from trading with his rival. Merchants may hire bandits to harass the servants of noblemen, or damage their property, but it is rare for individual merchants to raise armies. Town councils sometimes do this, but merchants prefer to encourage nobles to take militant action against a mutual enemy, compensating them for the trouble. (Turning aside the will of a powerful noble is worth one season’s worth of Labor Points)''
+
+[|
+
+==Largesse: The Costs of Excellent Building==
+
+
+===Construction Cost===
+
+''Monument 1 pound''
+''Road 2.5 pounds''
+''House 5 pounds''
+''Well 7.5 pounds''
+''Bridge 10 pounds''
+''Mill 25 pounds''
+''Chapel 40 pounds''
+''Church 250 pounds''
+
+|]
+''Characters who oppose nobles may attempt skullduggery, but often find it less dangerous to strike indirectly at their enemies, by supporting noble allies with money and information. For intrigue to find information or allies, they must exist. A character who has led a blame''
+''less life is armored against Intrigue. The following Ease Factors, for an Intelligence + Intrigue roll, demonstrate what a character might learn about potential allies, or the harm they may cause by spreading gossip. The noble to be harmed is referred to as the target.''
+''A character using the Intrigue ability in this way must entertain gossips, hire spies, bribe servants, and threaten people. For Ease Factors higher than 6, this takes (3 x Ease Factor) days and costs at least (Ease Factor / 3) pounds. Elaborate plans may cost far more, at the troupe’s discretion.''
+''3 To learn the stated reason for publicly declared enmity between the target and other nobles.''
+''To learn one of the target’s well-known vices (Reputation 3 or more).''
+''6 To learn the reason behind public friction between the target and other nobles.''
+''To learn one of the target’s lesser vices (Reputation 1 or more).''
+''To spread a rumor to reduce one of the target’s Reputations by 1, without concern for whether the target learns of the gossip’s origin.''
+''9 To learn the reason behind private hostility between the target and other nobles.''
+''To learn small, private vices, known only to the target’s servants.''
+''To learn the lesser vices of a relative or friend of the target (Reputation 1 or more). The factor does not choose which relative or friend is vulnerable.''
+''To spread a rumor to create a negative Reputation of 1. The target, or the target’s friends, may determine the identity of the perpetrator with an Intelligence + Intrigue roll higher than the factor’s.''
+''12 To learn the reason behind private friction between the target and other nobles.''
+''To learn what is required to push the private hostility of one of the target’s enemies into public enmity.''
+''To learn one of the target’s Story Flaws, if known by several other people.''
+''To learn the small, private vices of one of the target’s friends. The factor does not choose which relative or friend is vulnerable.''
+''To forge evidence of a tawdry nature that creates a negative Reputation of 2. The target, or the target’s friends, may determine the identity of the perpetrator with an Intelligence + Intrigue roll higher than the factor’s. If they can find evidence, the factor gains a poor Reputation.''
+''15 To learn the details of an old grudge, or an old enemy, which has lain forgotten for many years.''
+''To learn what is required to push one of the target’s rivals from private friction into public enmity.''
+''To learn one of the target’s Story Flaws, if known by only a few people, some of whom are not loyal to the target.''
+''To learn information that will cause one of the target’s friends or relatives to feel wronged by him.''
+''To forge evidence of a crime  whose discovery will cause the target severe trouble. The target, or the target’s friends, may determine the identity of the perpetrator with an Intelligence + Intrigue roll higher than the factor’s. If they can find evidence, the factor faces legal reprisal.''
+''18 To learn about the crimes of the target’s ancestors, which are likely to rile their victims’ descendants against the target.''
+''To learn what is required to reactivate a defeated enemy of the target.''
+''To learn one of the target’s Story Flaws, if known by only a few people, all of whom are loyal to the target.''
+''To learn information that will cause one of the target’s friends to conspire toward his downfall.''
+''To forge convincing evidence that makes the target appear to have a Dark Secret, like the Flaw. The target, or his friends, may determine the identity of the person who reveals the Flaw with an Intelligence + Intrigue roll of equal to the factor’s and thereby prove the secret false, but it is almost impossible to tie the factor to the revealer, or the forgery (Intelligence + Intrigue roll of 21 or more).''
+
+==Intrigue and the Art of Indirect Action==
+
+
+===Setting Up a Factory Or Town===
+
+''Some factors are sent to establish the house’s profile in a new town, or govern a small colony as it grows into a significant asset. These goals require several stories to complete. A character who succeeds in either task is likely to become Wealthy. These characters are often offered partnerships, and factorhood of more significant cities.''
+
+===Withdrawal From a Region===
+
+''A young factor’s first mission might be to wrap up the company’s business in an unprofitable town. The character is considered weak if he is insufficiently ruthless, and the more money the character can recover, the more his superiors approve. A character who finds a way to make the town profitable is offered its factorhood, and earns the loyalty of the company’s employees. (One and a half seasons’ worth of Labor Points)''
+
+===Young Talent===
+
+''Factors encourage young merchants to work for the company. This can be difficult, because many young, skilled merchants prefer not to follow instructions. Every talented young merchant recruited for the house is another protégé for the character, and another ally in house politics. A young merchant bought into the house by a player character owes a Favor — as the Flaw — to the player character. (As a story, one season’s worth of Labor Points, plus benefits of the Favor. As an investment of time, roll [{Communication + Leadership} x Wealth Multiplier]''
+''and gain that number of Labor Points, plus the benefits of one Favor per 10 points, rounding up.)''
+
+==The Capo==
+
+''A capo is the leader of a merchant company. Capos do not travel for trade, but may act as factor of the local branch of the company, and appoint factors to the other branches. The capo sets the grand strategy for the trading house, and engages in politics to assist its trade. The capo also deals directly with powerful people who can influence the house’s fortune, like major noblemen and senior clergy. All characters with this role must select the Capo Social Status Virtue.''
+''The capo determines the culture of the house. Its employees often reflect the Personality Traits of their leader. The staff of the house know the capo’s opinions, and may act to further his goals, independent of his instructions. The capo is responsible for the actions of his staff, and may need to repair the house’s Reputation if they sully it, using the rules given in the Factor section, above.''
+''Capos who act as factors require the same skills. Other capos are primarily politicians. Deputies manage their mercantile interests, while the capos seek to alter their country, and its neighbors. These capos should consider the list of Abilities given for wealthy factors, plus Leadership.''
+''A covenant may find areas of mutual benefit with a capo. Many capos are interested in magic items, such as longevity rituals. Capos can repay magi through favors, using their enormous, if diffuse, temporal power. They are also one of the few''
+''groups in Mythic Europe who don’t need to pay for magic items with rights, promises, and favors: capos can pay in coin, or with information drawn from their networks of contacts.''
+
+==Scale of Affluence==
+
+''The capo’s wealth depends on the prosperity of his house, and his degree of control over its branches. A poor capo might be an independent factor who has accepted a large amount of credit, and dispatched his brother to found and manage a branch in another city. Other poor capos are the scions of failing houses. They are asset-rich, and have the marvelous buildings of previous generations, but are cash-poor due to trading loses. An average capo lives luxuriously, like a nobleman. A wealthy capo is richer than minor kings.''
+''The capo’s house serves as the company’s central office. It is used for business meetings, entertaining significant clients, and demonstrating the house’s success through ostentatious displays of wealth. Many capos engage in lavish public spending.''
+
+==Stories for Capos==
+
+''The capos of major trading houses are some of the richest and most powerful people in Europe. They solve most of their problems by sending skilled associates to apply as much money or force as is required. Stories for capos focus on those things that associates cannot do for the capo: planning the future of the house, negotiating with other powerful people, and seeking pleasure.''
+
+===Factor Work===
+
+''Many capos act as the factor for their company’s largest branch. Their duties are similar to those given for that role, although the scale of their investments is larger, since their branch is the most active in the company. Capos also have the resources to indulge in more unusual, and speculative, investments than factors can. The chief creditor of a spring covenant for example, might be a capo.''
+
+===Personal Pleasure and Aggrandizement===
+
+''Many capos spend money on causes that seem worthy or amusing. Some young capos spend their profits on lavish entertainment. Many prefer private pursuits, such as collecting rare items, hunting with friends, and sailing pleasure craft. A few favor political causes. Some causes are straightforward, like founding a bridge society or advocating war with a neighboring town. Others are subtler, like sponsoring artistic movements favoring new techniques or materials.''
+''All capos are required, as the leaders of families, to see to the well-being of their relatives. They arrange work within the company, or ventures supported by the house’s money, for male relatives. Female relatives are given board, some education, and the opportunity to meet useful young men from other families. Widows, rarely, act as capos on behalf of their infant sons.''
+''Etiquette concerning personal aggrandizement differs between cities. In the Serene Republic of Venice, for example, even the Doge takes care to dress well, but not ostentatiously. There, loud clothes are seen as lacking humility, and do not reflect the''
+''level-headedness required of a ruler. All the villas along the Grand Canal are palatial, but have a certain similarity to them, as it would be wrong to build a house far better than its neighbors. In their private areas, or in estates outside the city, homes may be as sumptuous as the owner wishes. In Bruges, merchants may not ever buy land, but are permitted to dress very well if they are wealthy. In Paris, people may dress as garishly as they wish, even if penniless, and may own houses, but a merchant would be acting above his station if he established an estate outside the city.''
+''Traditions concerning personal aggrandizement often affect the capo’s choice of a wife. In some areas, Britain for example, it is mete that wealthy merchants should marry the younger daughters of minor nobility. In much of France, however, this is seen as presumption to a class to which the merchant is not entitled. In Venice, marriage into nobility is often seen as the waste of an opportunity to tie two trading houses together with blood.''
+''A capo may entertain guests as an investment of time, throwing a lavish party, lasting days, that emphasizes a particular Ability. Common examples include Carousing, Hunting, and Athletics. The character then rolls a die + a suitable Characteristic + the theme Ability, and may add one point per pound spent on lavish gifts and entertainments, up to the character’s Intrigue score. The character gains the benefits of one Favor Flaw for every five points of this total, rounding up.''
+
+===Political Activity===
+
+''Capos are usually involved in the government of their cities, to a''
+''degree that suits the wealth of their companies. Some have a formal role, serving in public offices. Others have the ears of those in charge, and may control them to varying degrees based on their wealth and their rulers’ profligacy. Many great ecclesiastical leaders find trade a superior method of support to charity, and merchants who aid them can, unlike their fellows, claim to be doing the Lord’s work. Politics, for powerful merchants, involves a tapestry of personal connections, favors, and obligations.''
+''Capos usually seek concessions that assist their house to trade profitably. Powerful houses are rivals, but often work together. Common goals include seeking charters for their cities, maintaining the peace in alreadychartered cities, or hiring mercenaries to threaten towns whose trade rules are too restrictive. Companies partner, assail, and absorb each other regularly.''
+
+===Selecting Factors and Founding Branches===
+
+''The capo selects and monitors the factors of the house. Some factors are forced on the capo: they are the children of partners. A factor can destroy the solvency of a branch, and the Reputation of the house within a city. In many cases, capos pay spies to monitor their factors. (Cleaning up after an unskilled factor earns one season’s worth of Labor Points. Dealing with an unskilled factor before he damages the house earns one and a half seasons’ worth of Labor Points, if the capo has the support of the partners.)''
+''The capo may elect to bring his company into a new industry, or a''
+''new city, by creating a new branch. Founding a branch usually requires a tremendous amount of money to be transported, for use as stake capital. A branch, at minimum, requires a fine house for the factor, warehouse space, and sufficient money to begin aggregating cargoes. It also usually includes additional amounts for sundry expenses like employing guards, hiring merchants, purchasing vehicles, and arranging monitoring agents to spy on the factor. (Half a season’s worth of Labor Points)''
+
+==Trade and the Order of Hermes==
+
+''Hermetic magic is an incomparable advantage to a trader. Examples follow, but most troupes will be able to find even more ways to use magic surreptitiously to advantage. There is little reason for most magi to be poor. Troupes creating, or obtaining, vast amounts of wealth using magical assistance, however, should familiarize themselves with the Inflation rules given in Covenants, Chapter 5: Wealth & Poverty.''
+
+==Creating Wealth Using Magic==
+
+''Magi are able to create wealth almost effortlessly. Aside from the simple creation of commodities, magi may use magic in the following ways to generate profits:''
+''Magical gathering of commodities. •''
+''Magical production of manufactured goods and luxury items. Using mental magic to affect haggling with suppliers, financiers, and buyers. Ships handled by magic need tiny crews. This frees space for added cargo, and reduces wages. Magi can transform trade goods into smaller, lighter commodities, then change them back at their destination. Transformation into more durable forms also assists in preventing spoilage or water damage. Magi may use magic to assist travel, which reduces travel time, a key expense. Most ships are forced to skip from port to port along a coast, so that they can refill with water and provisions. Minor enchanted items that make seawater potable, and items that attract birds and fish for food, allow characters to sail straight to their destination. This dramatically reduces travel time, shore leave, and possibly crew morale.''
+
+==Novelties==
+
+''In addition to using Hermetic magic directly, magi often know of strange technologies, either lost since Roman times or found only in remote lands, with the potential to revolutionize trade if they spread.''
+''Business Correspondence: Large businesses are more profitable when their managers can communicate swiftly with their subordinates. The courier services in Europe, in 1220, are poor, although wealthy groups in many centers are considering creating better ones. Roman traders, however, had an excellent network for business correspondence.''
+''•''
+''•''
+''•''
+''•''
+''•''
+''•''
+''The key items they carried were listini, lists of prices for goods at various ports. This intelligence allows characters to take advantage of temporary market conditions.''
+''Credit and Permanent Companies: Hermetic magi have access to Roman records of transactions. They understand the idea of permanent companies that pool the capital of their investors, and share returns. A few mundane merchants in Mythic Europe practice this already, so even without Hermetic influence, this idea may spread rapidly once deposit banking becomes popular. Companies of this type can spend money on large capital acquisitions, like warehouses and ships, increasing the volume of trade.''
+''Deposit Banking: That a bank might do more than simply store metal for its clients — that it might invest their deposits and pay a dividend — is a relatively novel idea. Deposit banking makes money more active, and available, in an economy, so that it grows faster.''
+''Dockyard Efficiency: Medieval dockyards are extremely inefficient for a variety of reasons. Hermetic magi could remedy many of these magically, or by spending large amounts of mundane wealth. Once the usefulness of these innovations is demonstrated, many cities copy them.''
+''Most harbors are too shallow for large ships to dock. Even in a busy port like London, ships unload their cargoes into smaller boats, called lighters, which then land the cargo on shore. Ships are loaded in a similar way. Lift is provided by a small crane that is attached to the jib (a mast extension) of the larger vessel, and by dock cranes.''
+''Most goods are not held in containers of constant size and shape that can be used through''
+''out their transport. The two obvious exceptions are wine, which is often shipped in enormous barrels, and wool, which is transported in sacks so large that each requires its own wagon. Containerization makes dockside loading easier, because it allows efficient use of large cranes.''
+''Dock cranes have not been constructed to anything near their maximum possible size, because there is a lack of large, internally stable loads. Most cranes can handle only about two and a half tons of carefully stowed cargo, and even then it takes a team of four men half an hour to move that cargo ten feet. The weakest points in a dock crane are the stay ropes that support it, and these could be woven to take weights up to 100 tons.''
+''Sea and land transport systems do not integrate at most docks. Most cargo is dumped on the quayside, either for immediate sale or for collection by its owner. In only a scant handful of places are the roads leading to the ports of sufficient quality that they can bear massive carts able to haul shiploads of cargo without difficulty.''
+''Heavy Horses: Horses in Mythic Europe are about the size of modern mules. There are no breeds of heavy horse: they were bred later for knights in plate armor, or heavy industry. Some faeries and covenants have exceptional mounts, however, and characters may breed draft horses from them.''
+''Insurance: The Order has a pan-European system of trade, a common language and set of laws, and the means to detect and punish insurance fraud. This makes maritime insurance, of the type practiced by the Romans, simple to reintroduce. Insurance makes long voyages less frightening, and speculative''
+''voyages to discover new ports less chancy. Pliny, for example, mentions an ancient mariner who circumnavigated Africa, and found the place where much of Europe’s gold originates. No covenant would want to spend the fortune required to equip a speculative expedition like this. Several covenants, however, sharing the risk and insured by a consortium of other interested nobles and covenants, could send an expedition to this place. They might discover a rich city, called Zanzibar, where gold is traded by equal weight for salt, which magi can boil from seawater, or buy for pounds to the ton.''
+''Letters of Exchange: Large transactions in Mythic Europe often involve barrels full of money. This is inefficient, because the money takes up return cargo space. Parts of the Church instead exchange letters of''
+''credit — written promises to pay — that, in time, they balance with a single shipment to a convenient meeting. This idea has been used, in a very limited way, among Italian merchant houses, and by merchants within single cities elsewhere. Magi have had enforceable financial instruments for centuries. Letters of credit create a class of moneychangers who barter bills, which is a very lucrative way of hiding usury.''
+''Rudders: In the Mediterranean, ships are steered using an oversized oar, called a steering board, that drapes over the right, or “starboard,” side of the vessel. This creates two problems. First, when the ship wishes to steer sharply left, the board leaves the water and is useless, though having a second board on the left side can prevent this. Second, as the vessel gets larger the board must be made''
+''bigger, but it cannot become more dense. Ships beyond 60 feet long are therefore difficult to steer in rough weather, because the water pressure on the board shears it through. In the Baltic, however, rudders are mounted at the rear center of the ship, which solves both problems.''
+''Saws: The saws used to prepare planks for shipbuilding in the Mediterranean is unknown in the Baltic. Ships in the Baltic are made by overlapping boards prepared using adzes. This means the ships are clinker built, which limits their maximum size. Any skilled Baltic blacksmith who examined a Venetian saw could replicate it without difficulty. Coupled with the rear rudder, this would allow a leap forward in shipbuilding technology. Ships of the new type would easily be able to carry 400 tons of cargo, with enormous examples able to carry far more. The cost of ships would also decrease.''
+''Skilled Cartography: House Mercere contains some of the finest cartographers in the world. Fine charts allow captains to use local conditions to their advantage, finding swifter routes between destinations. This reduces the captain’s time-related costs for each journey. Fine charts also reduce the incidence of wreck.''
+''Vertical Integration: Some companies have many businesses that are related to a single industry. A company that farms wool; gathers it; employs spinners, weavers, and dyers; then exports cloth is firmly vertically integrated. Hermetic magi are familiar with this idea because they can use magic to replace the workers required by the manufacturing stage of a given industry. Widespread vertical integration would reorganize the trade flows of Europe.''
+''Vertically integrated industries capitalize at the source of raw materials, because this reduces transport costs. The wool trade, for example, is vital to both of the manufacturing areas in Western Europe, but a vertically integrated industry would have the wool processed at its sources, in England and Spain, so that the lighter and more valuable cloth could be exported. The north Italian and Flemish cities would lose their role.''
+
+==Stories for Magi==
+
+''The following stories are suitable for groups led by magi, but merchants involved in them still earn up to two and a half seasons’ worth of Labor Points, depending on the merchants’ role in the story.''
+
+===Cheap and Missing Ships===
+
+''The Fourth Crusade was organized late in the 12th century, and in exchange for a vast fee, the Venetians agreed to provide a fleet to transport the Crusaders. The Venetian Arsenal, the most heavily capitalized manufactory in Europe, was able to outfit three war galleys per day, until a vast fleet was assembled. The leaders of the Crusade then admitted they did not have nearly as many recruits to transport as they’d estimated, and could not pay for the ships. The Venetians forced them to agree to sack Constantinople to meet their obligation, and in 1204 the greatest city in Mythic Europe was pillaged. Afterward, the Venetians dominated Constantinopolitan trade. Their new galleys were absorbed by the Eastern trade routes, were placed in storage,''
+''or replaced older ships already in service.''
+''What happened to the older ships — those cycled out of the Venetian fleet — is unclear. Some were sold to noblemen, a few of whom were agents for covenants around the Mediterranean. But as many as 20 ships have disappeared. Who has the resources to purchase, crew, and provision 20 Venetian warships, and for what could they want them?''
+''One lead relates to another mysterious disappearance at around the same time. Many Crusaders, who had agreed to fight the infidels in the Holy Land, were unwilling to attack Constantinople, and attempted to return home. The convoys carrying these deserters often disappeared, without a trace, in storms. Was this the judgment of God on deserters, or someone gathering crews?''
+
+===The Dead of Ascalon===
+
+''After the defeat of a Muslim fleet off Ascalon, in the Levant Tribunal, in 1123, the sea was filled with corpses. They drifted, in an ever-expanding ring, until they were piled upon a distant beach like a wall of driftwood. No fish can be caught on the site of the battle, and voyages that cross the battle’s location are cursed to fail.''
+''A merchant house has begun to smuggle the skulls of the dead of Ascalon onto the ships of its rivals. Each voyage so-cursed ends tragically. If the players destroy this vile trading house, what will they do with the remaining skulls of Ascalon?''
+
+===Espousal To the Sea===
+
+''Every year, the city of Venice holds a ritual blessing of the waters.''
+''At the end of the ceremony, the Doge — the leader of the city — removes a ring from his finger and casts it into the ocean. This is an engagement ring: it represents the city’s espousal to and dominance over the waters.''
+''Venice has many enemies. If one of them disrupts the ritual, or steals the ring from underwater, Venice’s trade collapses as the sea withdraws her dowry. Magi may be tempted to steal the ring, because it contains an amount of Rego vis that reflects Venice’s prosperity and power. Since the conquest on Constantinople, the rings have each contained 12 pawns of vis. Many covenants have investments in Venice, however, and would reward any covenant that recovers a stolen ring and returns Venice to prosperity, so magi who aspire to steal the rings must cover their involvement and deal with the affronted covenants, or face a Wizard’s March.''
+
+===Rhine-main-danube Canal===
+
+''The Rhine passes many populous cities and one of its tributaries, the Main, comes within a hundred miles of the Danube. The Romans used to portage goods between the two rivers, to create a trade corridor across the width of the continent. Charlemagne attempted to have a canal dug between the two rivers, but failed. In 1220, goods are still portaged, in great volume, between the two rivers. A saga could be designed around the creation and control of such a canal.''
+
+===Silver and Serica===
+
+''European merchants know that the finest silks and spices come from a land the Romans called Serica, which literally means “Land of the''
+''Silk People.” Roman trade missions visited Sercia on at least three occasions, but no one remembers what they found there. European merchants know that silk must be as cheap as rope in Serica. The prices of goods multiply enormously along trade routes, particularly land-based ones. No European merchant has ever met a Serican: Arabic intermediaries must keep most of this profit.''
+''There is nothing Europe can offer the Sericans for their silk except silver. Around 14 tons of silver leaves Europe each year, for Arabia and ports beyond, to pay for the luxuries of the Orient. Arab intermediaries also accept the finest quality linen, which they use themselves rather than shipping it on to Serica. The Sericans also desire gold, but Europe does not produce sufficient gold to replace silver in the Serican trade.''
+''Europe’s gold comes primarily from trade with North Africa, although small, sporadic mines do produce gold in Europe. These most frequently appear in Hungary, and particularly Transylvania. No town relies on the export of gold, although Siena’s goldsmiths are famous throughout Europe. In contrast, four towns mine silver by the ton. Three of these have appeared in the last 50 years.''
+''The Order is afraid Europe will have either too little silver to buy Serican goods, as seemed likely before the mines at Freiburg were discovered in 1168, or that magically produced silver will flood the market, making it valueless to the Sericans. Even now, some Hermetic scholars of trade wonder how the Sericans receive so much silver every year, yet continue to want more. Some say that there are many nations between Europe and Serica, and these have not all suffered surfeit of silver. Others believe the Sericans are monsters who eat silver.''
+{{OpenArs Attribution}}
+{{ArsMnavbox}}

@@ -1,0 +1,87 @@
+''A normal character must work for two seasons, and gets two seasons “free.” However, he cannot leave his job for two seasons, as the free time is spread over the year. Thus, he can only undertake study that he could do in and between his job. The two seasons spent working generate Exposure experience.''
+''— Ars Magica, page 163''
+''In Ars Magica, the profit of any enterprise falls into one of six bands. Income sources first appeared in Covenants, and the names for the bands reflect the perceptions of magi. (Traders and merchants themselves, for example, certainly do not consider 100 pounds a year — the income for the “Typical” band — to be at all typical for members of their profession.)''
+''The income figure listed below for each band is the amount of money a character in that band could spend frivolously in a year without damaging his source of income. All of the expenses required to generate the amount of annual profit listed in each band have been subtracted. This includes the character spending sufficient money to fit in with others of the character’s social and economic class. The maintenance of premises, the salaries of servants, and bribes to minor officials, for example, do not need to be accounted for from the character’s listed profit.''
+''The Wealthy Virtue and Poor Flaw determine how much free time''
+''a character has, but do not affect the amount of his enterprise’s profit. All characters in a given band, rather, gain the same level of frivolous spending money, as listed. Their lifestyles may vary, however, as described in the scales of affluence given in the description of each social class Virtue (elsewhere in this book).''
+''Trivial: A single workshop, in an average craft, earns 10 Mythic Pounds for its owner each year. This level of income is purchased with one of the following Social Status Virtues: Craftsman (inexpensive and standard goods), Journeyman, or Laborer.''
+''Minor: A merchant with a store in a major city earns 20 Mythic Pounds per year, as does a single workshop crafting expensive items, or a string of workshops manufacturing inexpensive goods. This level of income may be purchased with the following Social Status Virtues: Craftsman (expensive goods), Guild Master, or Merchant.''
+''Lesser: A merchant with a dozen carts, or a small ship that trades bulk goods locally, earns 40 pounds per year. A guild master who can regularly produce superior quality standard goods or expensive goods also falls in this category, as does a master who has been working for several years at his trade. This level of income may be purchased with the following''
+''Social Status Virtues: Guild Master, Merchant, or Senior Master.''
+''Typical: A merchant ship chasing rumors of profit across Europe, or the coordinator of a small fleet of ships trading within nearby regions, earns 100 Pounds per year. This level of income may be purchased with the following Social Status Virtues: Factor, Guild Dean, Merchant Venturer, or Senior Master (must be able to make quality items).''
+''Greater: A merchant house with offices in at least two cities, which ferries many consignments each year, earns 250 Mythic pounds annually. Alternatively, a fleet of up to a dozen ships of varying sizes, which ply profitable routes throughout either the Mediterranean or the Atlantic, suits this band. This level of income may be purchased with the Factor, Capo, or Guild Dean Social Status Virtues, but troupes should seriously consider if a starting character with this level of affluence supports the stories they wish to tell.''
+''Legendary: In Northern Europe, an annual fleet to Acre or Egypt, returning with silk and spices, earns 1,000 Mythic pounds per year. In southern Europe, an annual journey to Persia, India, Ethiopia, or one of the other near-mythical places where gemstones are mined would suit this band. The Dean of the Venetian Glass-Blowers’ Guild and the Dean of''
+
+=Labor=
+
+''Constantinople’s Silk Makers’ Guild also receive this level of income. There are perhaps three merchants and a half-dozen guild deans in all of Europe with this much power. Player characters never start with this level of income.''
+
+==Labor and Livelihood==
+
+''A character working to earn a livelihood gains Labor Points, which represent the time the character spends tending his business. A character gains no Labor Points in a season where he does something other than tend his business; that is, if he gains experience other than Exposure experience. The one exception to this is that some stories allow a character to improve his business, thus gaining Labor Points while also gaining Story experience (see Labor Points from Stories, below).''
+''A character gains (primary Characteristic + Craft) or (Communication + Profession) Labor Points per season worked. This figure is multiplied by two if the character is Poor, by three if the character is average, and six if the character is Wealthy. It costs 36 Labor Points to maintain a character’s business interests at their current level. Therefore, a Poor character works for three seasons a year, an average character for two, and a Wealthy character for one.''
+
+==Improving Wealth and Social Status==
+
+''Characters who accumulate surplus Labor Points may spend them to increase their financial and social status.''
+''To move from Poor to average costs 120 points.''
+''To move from average to Wealthy costs 360 points. A character moving from Poor to Wealthy must thus spend 480 points in total — the character may not skip the middle level of income.''
+''To move from Wealthy to Poor in the next higher social class costs 1,080 points.''
+''A character striking bad financial times can lose his level of wealth or Social Status Virtue, falling to a lower one. Characters who lose their financial or social standing due to a crisis or business failure are often forced to sell their assets for a fraction of their worth, and develop a poor Reputation with business contacts and creditors.  Characters who lose social status or wealth typically have half the Labor Points required to regain that status remaining, representing the assets they were able to''
+''save. Particularly severe crises may not leave even that.''
+''Moving to a higher income band costs the Labor Points noted above, but also costs a season of time. This reflects the arrangements required for a character to purchase the vehicles, hire the employees, and secure the premises suited to a merchant of the higher status. Moving to a Greater or Legendary source of income also requires success in explanatory stories, in which the merchant is the main character. Some troupes may require multiple stories for advancement.''
+
+==Overwork==
+
+''Characters may speed their advancement by working harder, or spending less, than society requires. This gives the character a poor Reputation for impiety or avarice. Players should be aware that modern views on money and work are alien in Mythic Europe. The following guidelines will help them model appropriate behavior.''
+''It is morally wrong to work on Sundays or Saints’ Days. A character who is not Poor, but works three or more seasons in a year, gains a negative Reputation. It does not matter whether the character is working toward a laudable goal, like providing for her family. The time required by the community, on behalf of the Divine, takes precedence.''
+''Misers are people guilty of the sin of avarice, which is the refusal to spend money. It does not matter what the character is saving money for: saving money itself is arguably a sin. A character may develop a reputation as a miser if he works extra seasons, but does not spend more lavishly. A Wealthy character may''
+''also choose to live as an average or Poor person, which provides an extra season of Labor Points every three years, or every year, respectively. This imposes 1 or 3 experience in a Reputation for miserliness every year.''
+
+==Labor Points from Stories==
+
+''Characters gain additional Labor Points by completing stories that improve their economic or social status. Many adventure seeds have been scattered through this book, and each has a value in seasons of Labor Points. A “season” equals however many points a character would normally earn from (primary Characteristic + Craft) x Wealth''
+''Multiplier or (Communication + Profession) x Wealth Multiplier. The points are awarded to a character when he resolves the story’s central issue. Characters may also gain small Labor Point awards for their actions during stories focused on other characters. This is the only method allowing a character to earn both Labor Points and non-Exposure experience during the same season.''
+''The story seeds for the poorer types of merchant may be modified slightly to challenge merchants that are more powerful. The stories for powerful merchants and magi, however, tend to be of too broad a scope for poorer merchants to complete. Poorer merchants may, however, be delegated a role in solving the story’s problem by a more senior merchant.''
+''As a guide, stories earn:''
+''Half a season’s worth of Labor Points when they are a subplot of a more significant story, dealt with by magi. One season’s worth of Labor Points when a merchant faces severe danger or hardship to finish the subplot. One-and-a-half seasons’ worth of Labor Points when the merchant’s subplot is pivotal to the conclusion of the main story. Two seasons’ worth of Labor Points when the merchant is the central character of the story. Two and a half seasons’ worth of Labor Points when, if the merchant fails, there are severe repercussions for his city or covenant.''
+''•''
+''•''
+''•''
+''•''
+''•''
+
+[|
+''This story seed demonstrates medieval views concerning money, and it is a story most players will have heard before. A man is very wealthy, but refuses to spend his money properly. Instead he hoards it, and spends hours each day in his counting house. He is, in game terms, investing his Labor Points rather than spending them on lifestyle. He has a young wife, who would like to spend the money, but her husband refuses to care for her properly, by giving her fine things. She takes a lover, who is a young rogue with a magical animal as a companion. The animal trips the miser at the top of the stairs, so that he falls and dies. The young couple marries, spend the money, and live happily ever after at the limit of their credit.''
+''The twist, for a merchant character, is that the old miser was a part''
+''ner in the company that employs the character, or in a current venture. When the young couple liquidates the miser’s holdings, many employees suffer. A skilled negotiator may be able to salvage the business, and the livelihoods of the employees, by tricking the couple into selling the business for far less than it is worth. This is worth a season of Labor Points.''
+''If the couple cannot be tricked into selling the whole business, it is run into the ground as they withdraw capital recklessly. They sell assets off piecemeal, as they require more funds for their lifestyle. A consortium of merchants, with ample credit and enormous skill, might arrange to buy the business, piece by piece, for less than it is worth. This does not save the livelihoods of all of the business’s workers, and hands the business’s market share to''
+''rivals, but allows the merchants to mitigate the damage a little. This also earns a season of Labor Points.''
+''Characters who feel little compunction against killing the murderous little animal and conning its benefactors may be surprised to find that, if their conspiracy to save the business is discovered, they are seen as villains attempting to steal from a young widow. This is because, to the public mind, people who save money are sinners, and the young widow’s desire to spend all of the money she has available is virtuous. This story works less well in the handful of places where this belief is not held. The key example is Venice, where the ruling class dress humbly and have tasteful houses, because no one dares snub them for their avaricious and likely sinful behavior.''
+
+==Saving the Business of an Old Friend==
+
+
+|]
+''Stories completed swiftly sometimes do not prevent the character from working for Labor Points during a season.''
+
+==Investing Time==
+
+''Characters may invest their time or profits, as represented by Labor Points, to improve their businesses. Investments, like Ability training and laboratory work, are essentially minor stories that the character is involved in, without the troupe actually playing them. In the non-dangerous story hooks given in this book, a Labor Point reward is given for if the incident is played, and a smaller reward is given for if the story is just an investment.''
+
+==Money and Investment==
+
+''Labor Points cannot be directly converted into money, because they represent the merchant’s time, or the rewards he has gained for spending time fruitfully. This means that a Labor Point from a capo, who runs a trading empire, is worth far more than a Labor Point from a journey''
+''man weaver. That being noted, as a guideline, the average character earns around 6 Labor Points a season, multiplied according to his level of wealth. This means a character with no constraining obligations might consider selling the product of, or abandoning a season of, work for one-quarter of his annual income.''
+''This means that 6 Labor Points from a Poor person, or 12 from an''
+''Average person, or 36 from a Wealthy Person, are worth:''
+''Around 2.5 pounds to a character with a Trivial source of income, and far less to those whose incomes do not reach Trivial. Around 5 pounds to a character with a Minor source of income. Around 10 pounds to a character with a Lesser source of income. Around 25 pounds to a character with a Typical source of income. Around 63 pounds to a character with a Greater source of income. Around 250 pounds for a character with a Legendary source of income.''
+''Characters may use this table to invest money into a business, but generally may not use it to convert their Labor Points into Mythic Pounds. There is no practical way for most merchants to sell moments of their surplus time in this way, although craftsmen can: see Chapter 4: Crafts, for details.''
+''•''
+''•''
+''•''
+''•''
+''•''
+''•''
+{{OpenArs Attribution}}
+{{ArsMnavbox}}

@@ -1,0 +1,315 @@
+
+[|
+''In the ancient world, cults of sorcerers practiced a form of magic that allowed them to use spells on targets without needing an Arcane Connection. To understand this defixio magic, the investigator must delve into the secrets of ancient traditions and uncover the relics of the cultists who practiced defixio magic. Although cultists dedicated to the gods of the underworld — Hecate, Pluto, and Proserpina — made up the majority of defixio magic users, followers of Ceres and Minerva also practiced the art. These cults largely faded from prominence in the second century, but remnants of their magic remain to be discovered.''
+''Cultists who practiced defixio magic could use it to coerce spirits into invoking curses, or alternately, could use those spirits as conduits through which they could channel their own magic to affect a victim. To perform this magic, the cultists created defixiones (singular: defixio), which are small magical devices that name or describe the target of the curse, the effects of that curse, and the events that cause the curse. Defixio magic could be used to affect anyone the cultist could name and could be held in abeyance until a specific event occurred.''
+''The unique aspects of defixio magic may be incorporated into Hermetic theory as a new Duration or Range. A magus who understands this''
+''tradition gains the ability to do what is impossible for all other Hermetic magi — cast spells on targets that the magus has not sensed and for which he has no Arcane Connection. Learning this ability could also allow the magus to correct what is generally believed to be a flaw in the theory of Bonisagus.''
+
+==Learning Defixio Magic==
+
+''Although the practice of using defixiones is largely unknown in medieval Europe, there are several sources available to the magus that describe the practice in varying levels of detail. Several ancient Greek and Roman authors describe the practice of using defixiones in their writings. Pliny the Elder describes the common fear of defixiones in his chapter on magic in Natural History. Plato also references the use of defixiones by sorcerers in both Laws and Republic. Likewise, Tacitus describes a curse placed on Germanicus and the process of discovering and destroying the defixio to free him in Annals. An astute magus, one who succeeds in an Intelligence + Magic Theory roll against an Ease Factor of 9, recognizes that the effects of the defixiones men''
+''tioned by the ancient authors violate the Hermetic limit by not requiring an Arcane Connection.''
+''The references in works of ancient authors might lead a magus to look for similar references in the writings of the Founders. Defixiones were still in use in some areas as late as the seventh century, and the Roman Founders had at least a passing familiarity with the practice. Of course, because many of his followers were members of the cult of Hades, Tremere was the Founder most likely to be familiar with the practice.''
+''Another avenue to introduce the investigators to defixio magic would be for a character to discover a defixio. If the saga is located in an area formerly under Roman control, covenant excavation might uncover an old Roman gravesite. Likewise, the discovery of a cave or well that served as an ancient sanctuary or oracle to a Roman god might uncover defixiones that could spur the magus to research the tradition.''
+
+==Investigating Defixio Magic==
+
+''To fully understand defixio magic, the investigator must discover and comprehend the secrets of each of the five specialties that comprise the whole of defixio magic. Gaining''
+
+=Defixio Magic=
+
+
+|]
+''Insight into each cult grants the ability to invent spells that utilize that cult’s specific Art and Form combination (see the Defixio Lore insert). Before inventing a spell, the magus must investigate a defixio and formula for that cult in the laboratory. If the magus investigates a defixio and formula from the same cult simultaneously, the magus adds +3 to his Insight roll.''
+''A defixio that has released its magic is useless for investigatory purposes, and each defixio or formula may only be studied once. A magus need not necessarily know the specific cult that created a defixio. An Intellego Vim spell (base level 4) reveals the following details about an “active” defixio: the spell or Supernatural Ability channeled, the level of the effect, the cult specialty of the creator of the defixio, the target of the defixio, and the triggering condition of the defixio.''
+
+==Integrating Defixio Magic==
+
+''Once the magus has gained Insight, he must invent a spell by experimentation that uses the appropriate Technique and Form for that cult. Because Event Duration and Unlimited Range (see below) both require Rituals, any spell invented to achieve a Breakthrough must also be a Ritual. The spells the magus invents cannot utilize the Event Duration or Unlimited Range until she achieves a Breakthrough. The final spell invented that reaches the Breakthrough total incorporates the appropriate Range or Duration, but before the Breakthrough, the spells are slightly flawed, in that they do not incorporate the Breakthrough the magus seeks.''
+''Before making a Breakthrough, the spells the magus invents for the Unlimited Range require an Arcane Connection, but add +6 to the magnitude of the spell rather than +4. A spell invented for the Event Duration Breakthrough requires the magus to invent two spells: a Watching Ward spell and the spell that the Watching Ward triggers. The two spells are permanently linked and may not be cast individually, unless re-invented independently.''
+''After the magus successfully invents a spell, he gains breakthrough points equal to the magnitude of the spell. If the magus invents a spell that attempts to integrate both the Event Duration and Unlimited Range, she must allocate the breakthrough points for that spell between the two goals.''
+''The investigator must understand the magic of all five cults to completely integrate the components of defixio magic. The magus must make a Minor Breakthrough (30 breakthrough points) for Event Duration and a Hermetic Breakthrough (60 breakthrough points) for Unlimited Range. The storyguide should not allow breakthrough points from a''
+''single cult to count toward more than one-fifth of the total points required to make either Breakthrough.''
+
+==New Duration: Event==
+
+''This Duration is only available for Ritual spells. When the Ritual spell is cast, it is held in abeyance until a specific condition occurs. The circumstances necessary to activate the spell must be fully described when the Ritual is cast. A spell with Event Duration may be suspended in perpetuity, if the specific criteria never occur. No spell that requires aiming to affect its target may be used with the Event Duration. Unlike Defixio Lore, which is limited to specific combinations of Arts, a spell with Event Duration may have any combination.''
+''Any spell that uses the Event Duration must have an Intellego requisite. If the triggering condition is dependent on the identification of some person, place, or thing, the appropriate Form is also required as a requisite. If the person who would activate the Event condition is protected by Magic Resistance, the spell''
+
+[|
+''Some members of House Tremere possess the Leadworker Virtue, which is derived from the defixio magic tradition (see Houses of Hermes: True Lineages, page 143). House Tremere probably gained access to this Virtue from one of two sources. Tremere may have learned it from his master, Guorna the Fetid, who was the leader of the remnants of the cult of Pluto and may have practiced defixio magic herself. The other possible source is the necromancers from Dacia who accompanied Tremere to the First Tribunal. Because the Leadworker''
+''Virtue is not widespread among the followers of Tremere and its practitioners use the Greek terminology for defixiones, it is more likely that the Virtue derives from the eastern Hades worshipers. Regardless of the source of the Virtue, however, Tremere magi familiar with the history of their House are a potential source of information in researching this ancient tradition. Possessing the Leadworker Virtue neither hinders nor helps in the integration of defixio magic, but may provide the researcher with access to additional sources for study.''
+
+==The Leadworker Virtue==
+
+
+|]
+''Defixio Lore is a Major, Supernatural Virtue and corresponding Ability that allow a character to perform the rituals necessary to create a defixio. They are presented for illustrative purposes only. Magi are generally incapable of acquiring the Virtue or learning the Ability; the only practical way for a magus to utilize the secrets of defixio magic is to integrate its effects into Hermetic theory.''
+''Defixiones allow their creator to use a Supernatural Ability or spell against a target that is not sensed and for which the creator has no Arcane Connection. A defixio itself does not possess any power other than the ability to provide a conduit to the target. Defixiones are not Arcane Connections. Although they allow their creator to cast spells or use Supernatural Abilities without regard for the distance to the target, they can never be used to improve a magus’s Penetration multiplier.''
+''For every level in the Defixio Lore Ability, the character may select one cult from the list below. The cult limits the type of magic that may be used in conjunction with the defixio. The character may not utilize any spell or Supernatural Ability that has a Technique and Form combination or requires a requisite that falls outside of those listed for the cult specialties known by the character.''
+''For every level in Defixio Lore, the character may choose one of the following cults:''
+''Cult of Ceres: Creo Mentem Cult of Hecate: Perdo''
+''Corpus/Animal Cult of Minerva: Rego''
+''Corpus/Animal Cult of Pluto: Rego Mentem Cult of Proserpina: Muto Mentem''
+''The process of preparing a defixio is very involved. During the creation of the defixio, the preparer must designate the spell that he is going to use against the target. The spell or Supernatural Ability selected must meet the Technique and Form requirements of the cults known by the character. The creator must spend one day and expend one pawn of vis per magnitude of the spell or Ability in preparing the defixio. The vis expended must match the Technique or Form of the cult specialty utilized.''
+''The defixio must contain both a description of the spell to be cast and a description of the target of the spell. An accurate and complete description of the target makes the defixio more effective. A defixio can target someone who is not yet known. For example, a defixio may be created that contains a trigger that occurs in the future. If the target of the defixio is not yet knowable because the triggering event has not occurred, then the spell is cast and does not affect anyone until the target is identified.''
+''The Ease Factor is increased by one for every magnitude of the spell or Supernatural Ability used in conjunction with the defixio. A Minor Supernatural Ability is the equivalent of a fourth magnitude spell and a Major Supernatural Ability is the equivalent of a seventh magnitude spell for these purposes.''
+''After the defixio is created, the preparer must roll Intelligence + Defixio Lore + a stress die. If the total equals or exceeds the Ease Factor, then the character may cast the spell or use the Ability previously selected. If the spell or Ability botches, the defixio is destroyed, otherwise a failure merely requires a repeat attempt. Once a spell or''
+''Supernatural Ability takes effect, it continues until it would normally expire or the defixio is destroyed. For the spell or Supernatural Ability to penetrate a target’s Magic Resistance, both the Defixio Lore and the underlying magical effect must penetrate. Defixio Lore’s Penetration total is equal to the amount that the stress roll exceeds the target Ease Factor.''
+''Specialties: a particular cult. (Supernatural)''
+
+==Defixio Lore==
+
+
+===Ease Factor Example===
+
+''0 The target’s full name and an Arcane Connection to the target are incorporated into the defixio: “Marie the Perfumier, daughter of Claude,” and a lock of Marie’s hair.''
+''3 Only the target’s full name is used in creating the defixio: “Marie the Perfumier, daughter of Claude.”''
+''6 Only the target’s pseudonym or a nickname is known: “Jarvis,” “Lucky,” or “The Weasel.”''
+''9 The target is precisely described without using his full name or a pseudonym: “The shield grog of Carolus,” “the covenfolk of Semita Errabunda,” or “the person who stole my cloak.”''
+''12 The target cannot be known at the time of creation: “Any person who defiles my grave,” “my killer,” or “the next person to attack me.”''
+''must penetrate for the event to be triggered, otherwise nothing happens. If an incident that would trigger the condition occurs within an Aegis of the Hearth, the spell must penetrate the Aegis or be cast by a member of the covenant for it to take effect. Should a new Aegis ceremony take place before the condition occurs, the spell must penetrate the new Aegis.''
+''The triggering event must occur within the spell’s range for it to be detected. The range is measured from the point where the spell was cast, so Touch Range means that the triggering event must happen at that point. A spell with Event Duration and Voice Range is triggered if the described event occurs within 50 paces of the casting point. A spell with Sight Range is ineffective unless an Imaginem requisite is used and the triggering event occurs somewhere that would be “visible” from the cast''
+''ing point. For these reasons, Arcane Connection or Unlimited Ranges are the most useful for Event Duration spells that are meant to cover a large area.''
+''The Event Duration adds +1 to the magnitude of the spell cast. The duration of the underlying effect is also considered when calculating the final level of the spell. If the spell triggered has a Duration longer than Momentary, the level is increased appropriately. For example, a spell with Event Duration that lasts for Moon, after being activated, has an effective magnitude of +4 (+3 for Moon and +1 for Event). Concentration is not an available Duration for Event spells.''
+''At the storyguide’s discretion, the investigator may integrate the Event Duration, imperfectly, before a Breakthrough is reached. The spell that increases the magus’s breakthrough point total past half the total''
+''required for the Breakthrough, and all those invented thereafter, provide all of the benefits of the Event Duration, except +3 magnitude is added to the base Duration. The spells created must follow all of the other requirements of an Event Duration spell. If a spell is beyond the capability of the magus, then he invents a spell as described above without the Event Duration and with an accompanying Watching Ward spell.''
+
+==Event Duration Examples==
+
+''Moratamis creates a spell to warn the turb if anyone enters the covenant without the knowledge of the guards on duty. The target of the spell is the grog barracks. Moratamis wants the entire covenant to be monitored; therefore, Voice and Sight Ranges are inadequate. Moratamis uses an Arcane Connection to allow the entire covenant to be covered. Because a person surreptitiously entering the covenant triggers the condition, the spell must have a requisite of Corpus.''
+
+===Call To Arms===
+
+''Re(In)Me(Co) 35 R: Arc, D: Event (Mom), T: Room, Ritual''
+''This Ritual wakes all of the grogs (or any other predefined group) in one room of the covenant if the condition described at the time of casting occurs within the walls of the covenant.''
+''(Base 4, +4 Arc, +1 Event [Mom], +2 Room)''
+''Darius wants to set a trap for anyone who might try to assassinate him in his sleep. He decides to cast a Perdo Corpus Ritual that wounds anyone who enters his sanctum and was not present at the casting of the spell. Because the triggering condition and the Form of the spell are both Corpus, no requisite is required. If Darius had created a spell that was triggered by the target’s intentions, it would have needed a Mentem requisite.''
+
+[|
+
+===Trap for the Thief in the Night===
+
+''Pe(In)Co 25 R: Voice, D: Event (Mom), T: Ind, Ritual''
+''Inflicts a Medium Wound on any person who meets the definition of the target determined at the time of casting and who comes within the range of the casting point.''
+''(Base 10, +2 Voice, +1 Event [Mom])''
+''Although a spell with Duration Event is a continuous magical effect, it is not generally cast on anything until it takes effect, and thus does not cause Warping. On the other hand, it cannot move.''
+
+==New Range: Unlimited==
+
+''This range is only available for Ritual spells. As part of the Ritual, the caster must have a single sympathetic connection to the target, or multiple connections that combine to provide at least a +2 bonus on the Sympathetic Connections table (see ArM5, page 84). An Arcane Connection is not required. Distance is immaterial for a Ritual with Unlimited Range, unless the storyguide imposes some limit. This Range adds +6 to the magnitude of the spell or, for spell guidelines that require an Arcane Connection, it adds +2 magnitudes to the base.''
+''There are multiple ways the caster can acquire the +2 bonus needed from the Sympathetic Connections table. For instance, knowing the target’s nickname (+1) and casting his horoscope for the day (+1) is sufficient to use Unlimited Range to cast a spell on him. Likewise, a simple drawing or clay model of the target created by the magus (+2) is sufficient to cast an Unlimited Range spell.''
+''If the storyguide allows it, the investigator may partially integrate the Unlimited Range before achiev''
+''ing a Breakthrough. The spell that increases the magus’s breakthrough point total past half the total required for the Breakthrough, and all those invented thereafter provide all of the benefits of the Unlimited Range, except that they require sympathetic connections totaling +5 bonus multipliers. A partially integrated spell must follow all of the other requirements of an Unlimited Range spell.''
+
+===Unlimited Range Examples===
+
+''Moratamis wants to create a spell that mimics The Inexorable Search, but does not require an Arcane Connection. Creating a representation of the quarry in the form of a small figurine is sufficient to fulfill the +2 sympathetic connection requirement.''
+
+===Draw On Diana’s Hounds===
+
+''InCo 30 R: Unlimited, D: Conc, T: Ind, Ritual''
+''Locates any person named in the Ritual on a map. Before the Ritual begins, the caster must create a figurine of the target of the spell. The caster then places the figurine on a map. At the completion of the Ritual, the figurine moves toward the person’s location at the rate of one inch per minute. When the figurine reaches the location, it spins rapidly. The target is located somewhere within the area covered by the spinning figurine. If the quarry’s location is not on the map used, the figurine does not move.''
+''Although only one map is required to cast the spell, multiple maps of various scales provide the best results. A character may draw a map for use in the spell with a successful Dexterity + Area Lore roll against an Ease Factor of 6. If the roll is unsuccessful, the figurine does not move. The figurine is the focus of the spell and, as long as the magus maintains concentration,''
+''the figurine may be placed on any number of maps.''
+''A Dexterity + Craft roll of 9 is required to create the figurine depicting the quarry. The figurine created is approximately three inches tall. To determine the location of the target more precisely, the caster may create a smaller figurine. For each halving of the size of the figurine, increase the Ease Factor by 3.''
+''(Base 3, +6 Unlimited, +1 Conc)''
+''Darius wants to create a spell that replicates The Leap of Homecoming, but allows the caster to travel anywhere. Because the range for the base spell is Personal, but it requires an Arcane Connection, the Unlimited Range Breakthrough allows the Arcane Connection to be replaced by a +2 sympathetic connection and adds +2 magnitudes to the final level of the spell.''
+
+===Passage To the Place Pictured===
+
+''ReCo 45 R: Per, D: Mom, T: Ind, Ritual This spell transports the caster anywhere. As part of the Ritual, the caster must paint or draw a picture of the location to which he wishes to travel. If the player succeeds in making a Dexterity + Craft roll of 9 and the spell is cast successfully, the magus is transported to the site depicted. If the roll is botched the character may be transported to the location but buried in a wall, be sent to a place that merely resembles the intended location, or be sent to a Faerie regio.''
+''(Base 35 with Arc, +2 Unlimited)''
+
+==Defixio Magic in Play==
+
+''The magus who understands Defixio Lore and incorporates it into Hermetic theory is able to utilize its underlying concepts to great tactical and strategic advantage.''
+
+|]
+
+===Christianity===
+
+''The popularity of using baptismal names varies by region. In some areas, parents do not name a child until the baptism, people avoid referring to the child specifically until that event, and the child then uses his baptismal name for his entire life. In other areas, the parents give the child a secret name, which is used only by the family or may never be used, and the child uses his baptismal name in public. In many areas, however, parents name their children at birth with either the name of a recently dead relative or even a sibling who predeceased the newborn. In these areas, a distinct baptismal name is either not given or never used. Regardless of the naming convention in any particular area, the use of nicknames is common. Bynames could be added to a personal name based on some prominent physical characteristic, personality trait, place of birth, or occupation.''
+
+===Islam===
+
+''Although naming conventions vary by region for Muslims too, there is much more uniformity across the Islamic world. A person’s birth name is only one of many names she has. A person may use a patronymic name that could encompass two or three generations. Often a person could also have a name designating his occupation, tribal lineage, or geographic origin. As Muslims become adults, they no longer use their birth names and might only be referred to as the father or mother of their first''
+''born son. It is offensive to refer to an adult by her birth name alone.''
+''In addition to the above names, a person might also take a “laqab.” This byname might be descriptive of a personality trait held (or desired) by the person. “Harun Al-Rashid,” for instance, means “Harun the RightlyGuided.” But a laqab could also be religious in nature. Some take the name servant (“abd” for men and “amat” for women) of one of the ninety-nine names of God. Examples of such names include: Abd Al-Aziz (servant of the Almighty), Amat Allah (servant of God), abd Al-Malik (servant of the Sovereign), amat Al-Khallaq (servant of the Creator), or Abd As-Samad (servant of the Eternal). Some people do not use a birth name or are given a laqab as a birth name.''
+''Some examples of Arabic names include: Umm Ja’far Zaina bint Yusuf ibn Farouk (Mother of Jafar, Zaina, daughter of Joseph, son of Farouk); Abu Isma’il Ibrahim ibn Ishaq ibn Ibrahim ibn Bashir al-Bukhari (Father of Ishmael, Abraham, son of Isaac, son of Abraham, son of Bashir, from Bukhara); and Abu al-Ayyub Abd alRahim ibn Ahmad al-Harrani (Father of Job, servant of the Merciful, son of Ahmad, from Harran).''
+
+===Judaism===
+
+''Jews often adopt the naming conventions of the surrounding communities. This means that Jews in Europe usually identify themselves by only their given name, possibly with one byname. Jews in Islamic society often use multiple patronymic names and''
+''other bynames. Men are more likely to be named using traditional Biblical names, while women often take names from the local community. When a Jewish man in Christian Europe takes a byname, it is usually based on his father’s name, the local geography, a personal characteristic, his occupation, or his rabbinical status.''
+''Although women can be referred to as daughter or wife of someone, these are rarely part of their proper names and are generally merely a designation of a familial relationship. Jews in Islamic societies do not usually take religious laqab names, but might have bynames indicating their piety, devotion to God, or religious scholarship.''
+
+===Religious Names in Defixio Magic===
+
+''A target’s nickname, birth name, or byname may be used as a sympathetic connection to her, but the target’s baptismal, religious laqab, or rabbinical name may not. If a person’s birth name and religious name are the same, then that name may not be used in any magic ritual. For such an individual, only his nickname or byname may be used to identify him. If a religious name is incorporated into the description of a target, in defixio magic or an Unlimited Range spell, the spell is treated as if the religious name had not been included. If only a religious name is used, the spell always fails. If one of the above religious names is part of the target’s full name, the spell or Ability is treated as if only the target’s nickname or pseudonym is known.''
+
+==Naming Conventions==
+
+
+[|
+
+===Using Duration Event===
+
+''Event Duration spells lend themselves to defensive measures. They allow magi to create traps and alarms based on a wide variety of criteria. Remote vis sites, covenants, and sancta are prime locations for traps to repel or punish intruders. A magus could also cast a spell to automatically protect the covenant library with Soothe the Raging Flames. With the addition of a Mentem requisite, magi can create alarms that warn of potential attacks before they even occur. A covenant concerned with spies or traitors might create alarms that identify enemies without forcing a magus to cast Intellego Mentem spells on every member of the turb or covenant.''
+''The storyguide should always require the player to write out a complete description of the triggering event and record the relevant spell totals. The magus may cast a spell that is not activated until years later. A character’s statistics may have changed significantly during that time. Similarly, a written triggering event reduces the likelihood of arguments about the exact circumstances that activate the spell.''
+''A spell with a duration of Event could create a situation where the magus unintentionally violates the Code of Hermes. Given that it is not a violation of the Code, per se, for a magus to enter a covenant without invitation, a spell that activates an alarm or a trap against an intruding magus would likely violate the Code. If the magus casts a spell with a trigger based on the target’s intentions and a magus enters the range of the spell, whether the magus triggers the spell or not, this could violate the Code’s prohibition on scrying.''
+''One way to reduce the likelihood of an unintentional violation of the Code is to reduce the Ritual’s''
+''Penetration Total to zero, but a magus would still be vulnerable at sunrise and sunset when his Parma Magica expires (see Houses of Hermes: True Lineages, page 72). The unfortunate side effect of forceless casting is that any creature with a Might score would never trigger the spell. The safest way to define a triggering event is to specifically exclude members of the Order from any description.''
+
+===Using Range Unlimited===
+
+''Spells with Unlimited Range should have a greater impact on game play than Event Duration. Although all of the effects that Unlimited Range spells allow can be duplicated by spells with an Arcane Connection, characters are freed from the need to collect, fix, and maintain multiple Arcane Connections. Characters may affect people anywhere with little more than the person’s name and current location. Similarly, a spell like The Leap of Homecoming with Unlimited Range allows a character to travel anywhere in Mythic Europe and possibly the world. Because of the drastic impact this may have on game play, a storyguide may wish to impose some arbitrary limit on the distance, such as the edges of continental Europe, or 49 leagues.''
+''A magus must create any symbolic representation used as a sympathetic connection in an Unlimited Range spell (see ArM5, page 84). Obviously, a poorly drawn map or an inaccurate picture fails as a sympathetic connection. The character, however, may not know that his representation is insufficient and may attempt to use the representation with disastrous results.''
+''The troupe should discuss the possibility of the magus creating a representation of a location that the magus has never visited. What hap''
+''pens if a magus reads of Prester John’s Kingdom and attempts to travel there? What happens if the author’s description is accurate, but the magus’s rendition was not? What happens if the location is actually fictitious? An easy solution might be to require personal knowledge of the location depicted, but other answers might be more interesting. Should the storyguide not wish to have such a wide-ranging saga, characters may simply travel to Faerie regiones created by the fanciful tales told about the fictitious location. A botch using a travel spell with Unlimited Range could produce a similar result.''
+''Because incorporating Unlimited Range into Hermetic theory allows the magus to break one of the minor Hermetic limits and do something that Bonisagus himself was unable to do, the troupe should consider the ramifications of this discovery. Any magus who fully incorporates defixio magic into Hermetic theory achieves a Hermetic Breakthrough and is likely vaulted to the status of the greatest living Hermetic theoretician.''
+
+==Finding Defixiones==
+
+''Defixiones are some of the most common artifacts recovered from the ancient world. Some graves or wells literally contain hundreds of defixiones in various states of degradation. Not all defixiones, however, are suitable for study. A magus may only study those defixiones whose magic has not yet been released.''
+''There are a number of reasons that a defixio could have been created and never used. For example, if a jealous husband cursed his wife’s''
+
+|]
+''lover and she had always remained faithful to him, the curse would still be pending and could be studied. If an absentminded person cursed the thief of his cloak and he later found that he had simply misplaced it, the curse would still be pending. In general, the storyguide should limit the number of suitable defixiones discovered to one or two per season the investigators spend searching.''
+
+==Types of Defixiones==
+
+
+===Curse Tablets===
+
+''The curse tablet is the most common form of defixio and was utilized by all practitioners of defixio magic. A curse tablet could be made from any material upon which a sorcerer can write. The usual medium was a flattened lead tablet, though parchment, wax, or other soft metals could be utilized. Silver and gold were popular material for defensive defixiones and were often worn on necklaces. The sorcerer performed an intricate ceremony to prepare the surface of the material before writing on it. Using a brass stylus, the cultist then described the target, detailed the curse, and inscribed words of power and mystical symbols.''
+''Once the tablet was inscribed, the sorcerer folded the tablet over upon itself to conceal the writing and then transfixed it with a nail, often one that had been used in a crucifixion. The ritual was completed when the defixio was deposited in a suitable location. Defixiones seeking revenge or destruction were often placed in a place where Pluto or Hecate were worshipped. Those seeking justice or victory were frequently placed in an oracle or spring dedicated to Minerva or a local deity. Defixiones used to control ghosts were usually placed in that ghost’s grave.''
+
+===Silhouettes===
+
+''Cultists of Hecate specialized in the creation of silhouette defixiones. These devices were created during a ritual that involved molding a statuette of the target in lead. The cultist then engraved the statuette with a description of the individual and words or symbols of power. While reciting an oral formula to empower the defixio, the cultist used a heavy weight to smash the figurine flat, which left a thin, silhouette-shaped figure. The cultist then deposited the defixio in an inaccessible location, such as an underground body of water, or an oracle or sanctuary dedicated to an appropriate deity.''
+
+===Figurines===
+
+''Cultists of Ceres and Proserpina specialized in the creation of figurine defixiones. The figurines were most often used in ceremonies to inspire love or lust in a target. As part of a lengthy ritual, the cultists created a figurine by molding a representation of the target from wax, clay, or wood. The sorcerer then etched the person’s name into the figurine and, while reciting the oral formula to empower the defixio, impaled the figurine with numerous iron nails. The cultist then deposited the figurine in an inaccessible location, such as a well, underground stream, or spring dedicated to the appropriate deity.''
+
+===Formulae===
+
+''In addition to requiring the creation of one of the three physical examples above, defixio rituals also involved an oral component. These formulae were essential to empowering the defixio to channel the underlying''
+''magic that affected the target of the curse. These rituals were often recorded in large collections — some of which still exist. Although the investigators can learn much about the practice of defixio magic through examination of the physical remains, their research is made easier by acquiring and studying the accompanying formulae.''
+
+==Ancient Texts==
+
+''The ancient sources of defixio formulae are not texts in the traditional sense and do not have Source or Quality ratings. They are merely collections of formulae for various defixio spells. Studying such a collection does not allow a character to gain any ability in Defixio Lore, but some formulae may provide a suitable source for investigation.''
+''If the investigator is able to discover a formula for the same cult as a defixio in his possession, the character receives a bonus of his Insight roll. Over the centuries, many formulae have been copied incorrectly, and original texts have been ravaged by time; therefore, few formulae are suitable for study. In addition to providing access to formulae, some ancient texts provide descriptions of the most efficacious locations to deposit defixiones. These descriptions can provide the investigator valuable clues in recovering specimens for study.''
+
+===Toledo Scholars===
+
+''Many texts from ancient Greece and Rome survived in Arabic translation throughout North Africa and other Moorish lands. Some of these texts have begun trickling back into Europe through Andalusia for the last century. The translation center at Toledo serves as a prolific source''
+
+[|
+''of Latin translations of both ancient Greek and Egyptian texts.''
+''Because the Church sponsors the translation of these texts, the search for defixio formulae is difficult. When most Church officials uncover a magical text, they simply destroy it. Not all translators agree with this policy, however. The investigator may need to identify a sympathetic translator or blackmail one to locate suitable formulae.''
+
+===Egyptian Formulae===
+
+''The Roman Empire had extensive contacts with Egypt, and defixio texts may still survive there. Many believe that defixio magic originated in Egypt. The Greek and Egyptian formulae, which were adapted by Roman cultists, still exist in the libraries of Moorish scholars and magicians in the Levant and Egypt. These texts may be the most comprehensive sources for defixio formulae, but they are also likely to be the most difficult to obtain, and require a journey to Islamic territory. Once obtained, the magus must translate and decipher them from Ancient Coptic or Greek before conducting any laboratory investigation or attempting to understand them.''
+
+===Tremere Archives===
+
+''Some ancient collections of defixio formulae may have survived to the present in the hands of members of the Order. A sufficiently large collection of magical texts from the time of the Founders — such as the Tremere archives — might have some examples of defixio formulae. It is doubtful that anyone in that House attaches much importance to them, given the popular belief that the''
+''magic of the earliest members of the Order has been fully incorporated into Hermetic magic. However, the investigator is still not able to gain access to the archives of Coeris without offering something valuable to the leadership of House Tremere.''
+''The investigator might seek the assistance of a conspirator to gain access to the Tremere archives. A disgruntled grog or servant may be willing to risk his life to cross the Tremere, but the justification would need to be great. The Tremere are likely to discover any theft by a non-magus rather quickly. A less risky alternative might be to identify a Tremere magus with the Leadworker Virtue who wishes to return his magical lineage to prominence. Of course, such a magus is likely to be manipulating the investigator to his own ends, as well.''
+''The storyguide has the option of using the Tremere as a source of assistance or hindrance in the investigation of defixio magic. House Tremere may be concerned about the investigator’s research for several reasons. First, they may not want the magus to disclose the secrets of the Leadworker Virtue to the Order as a whole, because it would weaken the House’s current necromantic dominance. Second, defixio magic provides its user with powerful tools for war and espionage. The Tremere may want to monopolize these techniques to improve their political advantage in the Order. Finally, even if the secrets of defixio magic are eventually available to the entire Order, House Tremere''
+''may want to slow their spread until the House can perfect it, or develop defenses against it.''
+
+==Gravesites==
+
+''Cultists of Pluto could coerce restless ghosts to perform fell deeds. Other cultists also placed their defixiones in gravesites to deter the victims of their curses from finding and destroying the devices. Therefore, ancient gravesites are very fertile grounds for discovering defixiones. Although the practitioners of defixio magic were spread throughout the Roman Empire, Rome contained the highest concentration of cultists. The sheer quantity of gravesites makes Rome a likely destination for uncovering defixiones, and any large Roman city is likely to have defixiones interred in its ancient tombs.''
+''Locating a graveyard in Rome is not difficult. However, finding one that contains useful defixiones presents a potential problem for investigators. The cultists favored the graves of children and victims of violence because they possessed vengeful ghosts willing to harm the living. Romans believed that people who died in an untimely fashion, especially those who died too young to have progeny of their own to tend their tombs, were likely to be restless spirits filled with hatred and jealousy for the living. Ghosts of individuals who were betrayed in death or died with an important task unfinished could remain active to the present. Rumors of haunted areas or ghosts may provide the investigators with some of their best leads.''
+
+===The City of Rome===
+
+''Rome has a current population of perhaps 10,000 permanent residents.''
+
+|]
+''This number varies greatly depending on the season, being inflated by pilgrims and other visitors to the Holy See. Because vast areas of Rome have been destroyed and rebuilt over the centuries, potential gravesites exist in unexpected locations. The source of a haunted home, inn, or plaza could be the ghost of an ancient Roman who is restless because his grave is no longer marked.''
+''The investigator might encounter many problems searching in Rome. The least of these problems is that within the city walls his actions come under close scrutiny from Church and city officials as well as innocent bystanders. In addition, the powerful Dominion impedes the use of most magic, including the search, discovery, and excavation of tombs.''
+
+===Old Rome===
+
+''Many of the gravesites of ancient Rome are no longer within the city proper. The area surrounding Rome, which was previously part of the ancient city, has become rural and is dominated by farms and pasture, with only scattered villages. Rural Rome possesses a weak Dominion aura that interferes with magic, but not to the extent of Rome proper.''
+''Outside of Rome, investigators may more easily utilize Intellego spells to locate defixiones, graves, or ghosts. A powerful Intellego or Muto Terram spell could allow the investigator to look through the earth to locate graves. The search for graves is made difficult, however, by the ancient Roman funerary practices of cremation. The magus must therefore look for grave markers and burial chambers; any bones or corpses the investigators find probably received a Christian burial.''
+''Both Sense of the Lingering Magic and Sight of the Active Magics, with Terram''
+''requisites, could detect active defixiones below ground. Unfortunately, these spells may be beyond the capability of a non-specialist or a junior magus. A different tactic might be to follow the approach that where there is smoke, there is fire. A magus using See the Spirits of the Night, or anyone with Second Sight, might stumble across a ghost from ancient Rome.''
+
+===See the Spirits of the Night===
+
+''InMe 30 R: Per, D: Conc, T: Vision The caster is able to see Mentembased spirits (ghosts) that are normally invisible to the living. For spirits that are not in close proximity to the caster, a successful Perception roll may be required to locate them. For example, ghosts hidden behind intervening walls are not visible, and a ghost amid a large crowd may not be immediately obvious. This spell does not allow the caster to communicate with the dead, only to see a ghost. This spell must penetrate the Magic Resistance of the invisible ghost to be successful.''
+''(New Base 5 [Sense any Mentem spirit], +1 Conc, +4 Vision)''
+
+===Ghosts of Ancient Rome===
+
+''The residents of rural Rome might direct the investigator to the general location of a ghost because it is relatively well known. One such example is the ghost of Libitina. Libitina was a priestess of the cult of Hecate in Rome. She was a powerful sorceress who was driven to achieve power at any cost. In pursuit of this quest, she murdered her own children and used their restless spirits to punish her enemies and guard her defixiones.''
+''This foul act still binds Libitina to the world of the living. She haunts the countryside of Rome terrorizing parents. She believes that she remains in this world to protect children and punish anyone who abuses them. The characters may hear children playing while repeating a rhyme that calls for Libitina to punish cruel mothers and fathers.''
+''If the magi communicate with Libitina, they may be able to lay her ghost to rest. Once she admits that her deeds in life were despicable and cannot be undone by punishing others, she passes to the other side. As a reward, she provides the magus with a powerful defixio that she created to protect her grave. The statistics for Libitina are left to the discretion of the storyguide, but she should have a Might that presents a challenge to the group. Because she feels overwhelming guilt over her mistreatment of her children, a magus using Coerce Spirits of the Night on Libitina receives a +4 to his Presence for threats involving her children.''
+
+===Catacombs===
+
+''While searching for defixiones, the investigators may stumble across the catacombs of Rome. The catacombs were subterranean burial places for early Christians that are located outside the walls of old Rome. Because Pre-Christian Roman law prohibited the interment of corpses within the city, Jewish citizens buried their dead outside the walls. When Christians came to the city, they continued the practice. The catacombs vary greatly and range from rough, narrow tunnels with small shelves for the dead to professionally finished stone tombs with stairs and shafts to the surface to provide light and ventilation. The catacombs fell out of use when the''
+
+[|
+''Empire became Christian, and their existence was generally unknown during the Middle Ages. It is possible that still-active defixiones rest in the catacombs, especially if they were intended to call forth the spirit of a Christian or Jewish ghost protected by a Divine burial.''
+
+===Vardian’s Tomb===
+
+''Although most of the catacombs possess a weak Dominion aura, this is not true for every one. Legend tells of Flambeau’s conquest of a group of Roman cultists who refused to join the Order. Flambeau followed the fleeing wizards into the catacombs and, in an epic battle, killed them all, destroying their most powerful artifact — Vardian’s skull. This powerful magical act created an aura that a small covenant utilizes today.''
+''The covenant, which calls itself Vardian’s Tomb, is composed of several Ex Miscellanea necromancers and Jerbiton magi. The covenant must remain small because of the limited size of the aura. Despite its size, the covenant can provide investigators with valuable assistance. The magi know the catacombs and the area around them well, including the local restless dead.''
+''The magi of Vardian’s Tomb also know that there are defixiones located throughout the catacombs. Because unexpended defixiones contain vis, the magi have spent a great deal of time searching for them. The magi may be willing to trade the defixiones in their possession for vis, but they do not trade them on a one-for-one basis. If the investigator attempts to take advantage of the magi of Vardian’s Tomb, ridicules them for their poor amenities, or is discovered taking the covenant’s vis sources, the magi secretly encourage''
+''the Spectres (see below) to deal with him.''
+
+===The Spectres===
+
+''The members of Vardian’s Tomb are not the only people living in the catacombs. A group of bandits, calling themselves the Spectres, has also taken refuge there. The bandits have used the haunted reputation of the area to discourage resistance from their victims, and actively cultivate the impression that they are spirits. To this end, the Spectres cover themselves in charcoal dust and preface their attacks with eerie sounds produced by horns and other musical instruments.''
+''The Spectres are a particularly despicable group of ruffians who have no compunction about disturbing the dead. During the day, they remain''
+''in the catacombs, hidden from the authorities, and slip out at night to waylay travelers or raid villages. The bandits know the countryside well and are able to avoid the authorities with little trouble. The investigators might stumble across the Spectres’ lair or encounter them during one their raids.''
+''Despite the popular belief that the restless dead are terrorizing the Roman countryside, the local officials and the Church correctly suspect something more mundane is the source of the problems. The officials are therefore combing rural Rome, going village-to-village in an attempt to find the parties responsible for the raids. Of course, whether the characters encounter the Spectres or the local officials, either group could complicate their investigation. Some of the troops traveling with the Roman officials are combat vet''
+
+|]
+''erans of the Crusades. They are also often accompanied by clerics from the Holy See with the protection of relics and possibly True Faith.''
+
+==Chthonic Sanctuaries==
+
+''The cults of Pluto, Ceres, and Hecate worshiped in underground temples dedicated to their gods. The cultists often deposited their defixiones in these isolated locations. Once a magus learns of the cults that practiced defixio magic, an Intelligence + Magic Lore roll against an Ease Factor of 12 reveals that these temples could contain defixiones or information concerning defixio magic.''
+''There are several sources that could lead an investigator to an appropriate sanctuary. A Tremere magus or Ex Miscellanea maga of the Witches of Thessaly might provide the investigator with the location of a sanctuary for a price. An Intelligence + Magic Lore roll against an Ease Factor of 15 provides the general region of an appropriate sanctuary. The magus may also discover the location of a sanctuary from an ancient text or formulary.''
+''Locating a sanctuary without specific directions is difficult. Because the sanctuaries are often located in Magic auras or contain vis sources, an Intellego Vim spell designed to detect either may be useful. Of course, investigating a sanctuary can cause problems should the investigator interfere with another covenant’s magical resources.''
+''The cults that practiced defixio magic were present throughout the Roman Empire, but they were most heavily concentrated on the Italian and Grecian peninsulas. The example sanctuary below is dedicated to Hecate and is set in the Cambunian Mountains of the Theban Tribunal,''
+''but it could be almost anywhere and, with little effort, it could be dedicated to any of the chthonic gods.''
+
+===Cave Complex===
+
+''The entrance to the cave is rough-hewn and barely large enough for an adult male to enter on his hands and knees. The tunnel extends for several yards before opening into a large multi-room complex of finished stone. An alabaster altar with a fire pit in front of it dominates the largest room. This is where the cult’s most powerful ceremonies took place. The walls of the main chamber are covered with small niches that contain defixiones, some of which are suitable for study.''
+''The rear chambers were living and working areas. If other parties have not taken the defixio formulae of the cult, they are located here. The complex also has caves that lead deeper into the mountain. Within these caves, the remains of some the cult’s victims and its dead members are interred.''
+
+===Protective Defixiones===
+
+''The cultists of Hecate have created defixiones to summon spirits or cast harmful spells on any man who enters the sanctuary. The spirits should be numerous and powerful enough to pose a threat to a moderate-sized Spring covenant. The curses are equivalent to powerful Perdo Corpus spells of the fifth, sixth, or seventh magnitude. The defixiones are staggered to affect the intruder consecutively as he goes deeper into the sanctuary. If the defixiones guarding the sanctuary can be removed without triggering their curses, they provide a potent source for study.''
+''Their removal is relatively simple if the characters know that only a male activates them. Any woman may enter and exit the sanctuary with impunity. Discovering this trigger is only possible if one of the defixiones can be studied. The easiest way to disarm the cave is for a magus to locate the active defixiones through a Muto Terram spell to turn the walls of the cave transparent. Once the defixiones are located, the magus can then use Unseen Arm to remove them from the cave. Of course, while they remain physically intact the defixiones continue to protect the sanctuary regardless of their actual location. Destroying them ends the protection, but also makes them unsuitable for investigation.''
+
+===Erebos===
+
+''The cave complex is home to a colony of bats. The bats have lived in the strong magical aura of the sanctuary long enough to become warped by it. Some of these warped bats have a Magic Might of 15 and the ability to become invisible when stationary, as in Invisibility of the Standing Wizard. The warped bats do not attack the characters, and the characters may not even notice them. The body of each magical bat has three pawns of Perdo vis. The total vis available is equivalent to two high-level vis sources for the saga (see Covenants, page 72).''
+''One of the covenants of the Theban Tribunal, Erebos, has discovered the sanctuary. The magi of Erebos have not entered it because of the various traps set by the cultists of Hecate. The covenant contains several Perdo specialists, and they consider the cave their most important vis source. The magi of Erebos harvest some of the magical bats each season as they exit the cave.''
+
+[|
+''The covenant has clearly marked the entrance to the cave as its property. Its magi have set their own traps to immobilize any intruders and alert the covenant if anyone enters. They take trespassing very seriously and deal harshly with thieves, being concerned that any intrusion into the cave or disturbance of the defixiones may reduce its aura or cause the colony of bats to relocate, which would destroy their vis source.''
+''The magi can be reasoned with, and a well-thought-out plan assuages most of their fears. However, they are not willing to endanger their vis source or give up the vis-laden defixiones without suitable compensation. The magi of Erebos may consider allowing the investigators access to the cave in exchange for assistance in resolving their conflict with the Daughters of Erictho.''
+
+===Daughters of Erictho===
+
+''The Witches of Thessaly were also worshippers of Hecate and are experts in sorcery, necromancy, and the dark arts (see Realms of Power: The Infernal, page 140). Many of the Witches joined House Ex Miscellanea, but a small number of the holdouts survive today in the Cambunian Mountains. These witches are known as the Daughters of Erictho. The Daughters are powerful adversaries with a strong dislike for the Order.''
+''The Daughters of Erictho once used the sanctuary and consider the encroachment of Erebos just the most recent in a long line of trespasses. They have also come into conflict with Erebos and other covenants of the Tribunal of Thebes over certain magical resources. As civilization and the Dominion encroaches on vis sources and weakens magical auras,''
+''the conflict between the Order and the Daughters has only increased. The Daughters and the Order have also come into conflict regarding their relations with the faeries of the area.''
+''To gain access to the defixiones, the characters may have to act as mediators between the Daughters of Erictho and Erebos. Some of their differences may be irreconcilable without introducing new magical resources. The characters may be forced to provide additional vis sources or locate magical auras to placate the Daughters. Smoothing relations between the Daughters and Erebos not only allows the investigators admission to the cave, but could also provide valuable assistance through access to ancient defixio formulae. Previous generations of the Witches of Thessaly practiced defixio magic and some of their formulae collections still exist.''
+{{OpenArs Attribution}}
+{{ArsMnavbox}}
