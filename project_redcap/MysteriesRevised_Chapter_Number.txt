@@ -1,0 +1,569 @@
+''There are certain arcana known with the Order generally, yet of special interest to certain of the Mystery Cults: the mysteries of the memory palace, how to render spells permanent by evoking powerful magical spirits, and the secrets of Hermetic Alchemy, Planetary Magic, and other curious and potent lore known to magi who study these magical paths. These Virtues are available to all within the Order of Hermes without Initiation, yet only the mystae fully comprehend their significance and potential, and understand the deeper secrets to which they provide a cryptic introduction.''
+
+==The Art of Memory==
+
+''The Art of Memory deals with the creation of memory palaces, a form of mnemonic, in which one visualizes a number of loci, where the scholar commits to memory a symbolic representation of a fact to be remembered.''
+''This was once a Mystery Ability, but even in antiquity had spread beyond Mysteries to be taught among scholars. It has entered common knowledge and can be learned by any scholar, although it remains uncommon and many lack the Ability, even though there is no formal barrier to their learning it.''
+''The Ability may be taught or studied during play as a normal Ability, or acquired during creation by any character with access to Academic Abilities — although the troupe may choose to''
+''review the choice if the Ability is ceasing to be “uncommon.”''
+
+===New Ability: Art of Memory===
+
+''This is the traditional Art of Memory as practiced by scholars throughout Mythic Europe. To memorize a complex scene, image, or piece of writing (such as a long letter, but not as long as an entire text), the character must succeed at a roll of:''
+
+===Stress Die + Intelligence + Art of Memory Vs. Ease Factor of 9 (Or Higher)===
+
+''The Ease Factor may be higher depending on the length or complexity of the item to be memorized. If the character succeeds, he remembers the item in exact detail, and may recall it at will although it may take time to explore a locus.''
+''Characters without the Art of Memory may memorize similar items with a stress die + Intelligence roll (with three extra botch dice) against the same Ease Factors, but must also repeat the roll to recall the memory perfectly. Each roll failed introduces errors in the memory, which are repeated each time it is recalled. Those without the Art of Memory also lack the well-defined location system of loci.''
+
+===Constructing a Memory Palace===
+
+''It is perhaps helpful to diagrammatically represent your character’s memory palace by drawing a floor plan. The tra''
+''ditional approach is a square villa, with a central courtyard and entrance archway, although magi may choose more unusual designs if they so wish, to reflect their personal interests and background. Rooms lead off this central courtyard, containing five loci each, wherein distinct complex pieces of information can be retained for later access. A scene one witnesses, the details of a conversation, an alchemical formula, the names of all magi present at a tribunal or residing at a covenant, or any other lengthy piece of information less than an entire text may be committed to each locus. The number of rooms in the memory palace is equal to the score in the Ability Art of Memory; for example, a maga with Art of Memory 6 may have access to six rooms and 30 separate distinct memories. Memories stored thus may be deliberately forgotten at will at any time, to make space for new memories.''
+''Each memory thus stored should be marked on the floor plan, and a symbolic representation noted. There are certain magical ways by which intruders may enter a memory palace, so this floor plan and the symbolism may come into play.''
+
+===Hermetic Memory Spells===
+
+''Mentem spells have been devised specifically to interact with a memory palace. Since typically only scholars (and not all of them) know how to construct a memory palace, most such spells have been formulated with the caster’s own memory palace in mind.''
+''For the following spells to be effective, the target must have already constructed a memory palace.''
+
+=Curious Common Magics=
+
+
+===Enhance the Memory Palace===
+
+''CrMe 20 R: Per, D: Moon, T: Ind This spell magically constructs an extremely detailed locus in the caster’s memory palace. The subject of the locus''
+''must be observed while the spell is being cast. The subject can be a single object, all the objects in a particular location, a discrete scene or event, or any written material less than a complete text. While the spell lasts, the caster can recall even''
+''obscure details by spending several minutes in reflection, “exploring” the locus. Multiple instances of this spell cannot be cast on the same subject. For example, a magus cannot use Enhance the Memory Palace to memorize an entire text by casting the spell on one page at a time. The locus can be destroyed with Perdo Mentem magic. When the spell ends, so does the memory.''
+''The magus may permanently memorize the information by spending seven days in meditation and succeeding in a roll of Intelligence + Art of Memory vs. an Ease Factor of 9 (Average). There is also a Ritual version of this spell, which creates a permanent memory locus.''
+''Magically created loci may exceed the limit on loci in memory: count them separately from normal loci. However, if the caster wishes to permanently memorize the locus to last beyond the spell, it must fall within all normal limits.''
+''(base 5, +3 Moon)''
+
+[|
+''9 (Average): Memorize a singlepage letter verbatim; a conversation up to five minutes long; a room as seen from a single vantage point; or the layout (but not contents) of a castle. 12 (Hard): Memorize a letter of up to 12 pages; an hour’s conversation, lecture, or debate; a room explored and seen from many vantage points; a whole manor house seen from a single vantage point in each room; or the contents (but not details) of a castle. 18 (Impressive): Memorize an extended missive up to 100 pages; a day’s lecture or debate (such as a day at''
+''Tribunal); a whole manor house in detail; or the contents of a castle in detail.''
+''Anything longer must be broken into sections and memorized as separate loci. If the subject matter is highly technical, add 3 or even 6 to the Ease Factor. If the subject is technical and falls within an Ability that the scholar possesses, the scholar may use that Ability in place of Art of Memory (but must still roll to recall as well as memorize); for example, a lawyer using Civil and Canon Law to memorize court proceedings, or a magus using Magic Theory to recall a Bonisagus expert’s lecture.''
+
+==Memorization Ease Factors==
+
+
+|]
+
+===Constructing the Memory Palace===
+
+''CrMe 20 R: Touch, D: Mom, T: Ind, Ritual The Target of the spell may construct an extremely detailed locus in her memory palace, as in Enhance the Memory Palace. As ritual Creo magic, the locus becomes a natural, permanent part of the target’s memory, which remains after the spell ends.''
+''This ritual may create loci outside and above the normal limit of five per room, number of rooms limited to Art of Memory score; for example, the locus may stand in a normal room, but obviously distinct from the others, or may have a new room created for it, away from the “courtyard.” Count magically-created and normally-memorized rooms and loci separately from each other.''
+''(Base 5, +1 Touch, minimum 20 for Ritual Magic)''
+
+===Memory Palace of the Sage===
+
+''CrMe 25 R: Per, D: Mom, T: Ind, Ritual Creates a locus for the contents of an entire text in the target’s memory palace. Once the locus is in place, the magus can recite the entire text and replicate any illustrations. Perdo Mentem magic can destroy this locus. As with Constructing the Memory Palace, a magical locus may exceed the normal locus-count limit.''
+''As the spell is cast, the magus magically reads through the book, reading the entire text (no matter the length) in the exact time it takes to cast the spell. The pages seem to rustle by as if caught in the wind. Once memorized, the magus does not require an actual copy of the text to study or transcribe it.''
+''The Library of Durenmar is permanently enchanted to prevent this Ritual from being performed within its walls, although only the Primus of the House knows how this was achieved. Additionally, rumors exist of texts that contain traps against such memorization, even fatal ones, and of the dangers of memorizing a text written by an incomprehensible Criamon or an author close to Final Twilight.''
+''(Base 5, +4 magnitude for complexity)''
+
+===Fortification of the Memory Palace===
+
+''ReMe Gen R: Per, D: Moon, T: Ind Reinforces the target’s memory palace against magical attacks or attempts to modify his memories. To affect the protected target’s memories, a spell’s level must exceed twice the (level of this spell – 15), as well as penetrating any Magic Resistance.''
+''This spell protects the caster’s memories for a single Moon; longer durations are possible, but continuous protection brings magical Warping.''
+''(General, +3 Moon)''
+
+==New Virtues==
+
+''Knowledge of the following new Virtues is widespread throughout the Order of Hermes and any of these Virtues may be taken by Initiates of some Mystery Cults or during character creation by magi without Mystery ties. Some, such as Vulgar Alchemy and Planetary Magic, were once Mystery secrets, taught only by certain Mystery Cults. The secrets were betrayed and, despite efforts to suppress the knowledge, the mystae were eventually forced to accept the reality.''
+''It is not necessary to be a member of a Mystery Cult to know these Virtues, and it is possible to select them at character generation as part of your usual allotment of ten Virtues. Characters who are Initiated into an esoteric Mystery Cult in the course of play may well come to gain these Virtues through Initiation, as explained in Chapter 2, in which case they are in addition to the usual allotment of Virtues.''
+
+==Spell Binding — Minor Hermetic Virtue==
+
+''Spell Binding teaches the secret of binding spells into containers, within which a spirit may be confined and compelled to sustain the spell indefinitely. The spirits so commanded are the lesser spirits: elementals and airy spirits. It is possible to''
+''command ghosts, too, but as these usually have names, it is frowned upon by some magi, and is classed under necromancy.''
+''To sustain a spell in this manner, the magus needs three things: the spell to be bound and sustained, a container, and a spirit to provide Might to sustain the spell. The spell to be sustained cannot be a Ritual spell, nor have a duration of Momentary.''
+''The container is an inanimate physical item — if that item should ever break, the magic is broken, the spells end, and the spirit is freed. The magus must transform the container with a general Ritual spell Sustain a Spell of (Form): the base level of the container ritual must equal or exceed the spell to be bound.''
+''Normally the bound spell is cast immediately after the container spell is complete, but extended container spells exist that remain passive until linked to a spell — the passive duration is determined as for a normal spell, adding magnitudes to increase from a Momentary passivity. Once casting of the spell to be contained begins, the two spells become entwined, and both spells last together for the duration of the bound spell — both spells end if either spell ends or fails. Now linked, the bound spell’s magical effect and the physical container become Arcane Connections to each other.''
+''Example: Sustain A Spell of Fire, ReVi(Ig) Gen, R: Touch, D: Special (Momentary), T: Ind, Ritual — will contain a spell up to its level, cast immediately after the Sustain ritual is cast.''
+
+[|
+
+==Sustain a Spell of (Form)==
+
+''ReVi Gen R: Touch, D: Special, T: Ind, Ritual''
+''Req: Form (or Forms) of the spell to be sustained''
+''Allows another spell to be bound to this and to a physical container. The base level of this container ritual must equal or exceed the spell to be sustained. The container spell duration must maintain the container until casting begins for the spell to be sustained, after which the spells are entwined.''
+''(General, special)''
+
+|]
+''Example: Delayed Sustenance of Fire, ReVi(Ig) Gen, R: Touch, D: Special (Sun), T: Ind, Ritual — will contain a spell up to (level – 10), if the fire spell is begun before the sunrise or sunset after the Sustenance spell is cast.''
+''Once a spell is bound but before the bound spell reaches the end of its normal duration, a magus may command a spirit to enter the container, where it is trapped and forced to sustain the contained spell for as long as it remains trapped. Various spells command spirits (see below), and it is also possible to trick a spirit into entering the container without a spell to command it.''
+
+===Suitable Spirits===
+
+''The spirit must be a disembodied spirit (not, for example, a Beast of Virtue) and must have a Might at least equal to the level of the spell to be sustained. The spirit should have something in common with the spell to be sustained; for example, an elemental can sustain any spell of its element, a ghost any Mentem spell. If a spirit has a supernatural power or leaves raw vis in defeat, the Form of that may provide the desired link.''
+''In addition, the realm of the spirit must match the magus’s magic: for most magi this requires a spirit of the Magic realm, although magi with Faerie Magic can use Faerie spirits. Those who succumb to the foul cause of diabolism may bind Infernal spirits; whether magi who have Divine links would have the temerity to bind a Divine spirit is not known.''
+
+===Spirit, Spell and Container Combined===
+
+''While trapped, a spirit is limited in what it can do. It cannot use its Might for any purpose other than sustaining the spell or resisting other spells cast at it. It cannot leave the container. Many spirits can perceive the world around them, and may be able to converse with passers-by and attempt to bargain for their freedom. The spirit is trapped within the container item, but may be able to perceive the world around the spell effect through the Arcane Connection linking container and''
+''spell. Some spirits may manifest minor effects (similar to a magus’s sigil) in the bound spell; for example, a fire elemental sustaining a flame spell may appear within the magical flames.''
+''If the physical container is broken, the spells end; if the spells end, the spirit is freed. If the spirit’s Might falls below the level of the spell, the sustained spell fails (unless its initial duration has not yet ended), and the container fail with it (releasing the spirit).''
+''A spirit may be magically commanded to leave the prison. Such a spell must have a level that exceeds the level of the container spell that binds both the spell and spirit, and must be able to command the spirit as if it were free, but need not exceed the spirit’s Magic Resistance (because the spirit chooses not to resist such a command), although it must overcome other magics that have been used to ward or protect container.''
+''Example: Constantine has prepared a stone as a container with a level 25 Delayed Sustenance of Fire, casting the ritual before leaving his tower. Later that day he casts Sunlight Without Flame (an enhanced, level 15 variant of Lamp Without Flame) in a faerie cave. While concentrating on the Sunlight spell, he commands a small (Might 15) fire elemental (already commanded to follow him) to enter the container and sustain the spells.''
+''His rival Mari Amwithig comes across the scene some days later, and wishes to restore darkness for the faeries. Observing an elemental presence flickering within the light, she contemplates commanding the spirit to leave: a Rego Ignem 20 will coerce a fiery spirit, but here a level 25 spell is needed to overcome the binding magic. This is''
+''too hard for her: as a Perdo specialist, she is better off draining the spirit’s Might or using the Arcane Connection to locate and destroy the container.''
+''Finally, if the sustained spell has a duration of Concentration, then the spirit must concentrate on the spell — if it is distracted from this purpose and its concentration lapses, then the spell contained lapses too. Needless to say, most spirits are not inclined to tax themselves unduly to maintain concentration, and such spells are to be avoided where possible.''
+
+===New Summon and Command Spells===
+
+''Mentem spells (using the Rego Mentem guidelines, ArM5, page 151) can command any spirit with an Intelligence score; Animal spells likewise command beast spirits with Cunning. Some spirits, such as some elementals, lack both Intelligence and Cunning, and cannot be commanded with Mentem or Animal, but only by their own Form.''
+''The following new guidelines and spells are standard Hermetic magic, and require no special Virtue, but are useful to magi working spell binding.''
+
+===Rego (Form)===
+
+''Spells of a specific Form can command any spirit tied to that Form: for example, Ignem can command any fiery spirit. Vim spells using these guidelines can command spirits aligned with one of the four realms; Divine, Faerie, Infernal, or Magic. The Form of the spirit is irrelevant.''
+''Level 5: Control a disembodied spirit of''
+''(Form) Level 15: Summon a disembodied spirit''
+''of (Form)''
+''For example, the following two spells affect spirits of fire using the Form of Ignem. There are similar spells for other Forms.''
+
+===Coerce the Spirit of Fire===
+
+''ReIg 20 R: Voice, D: Conc, T: Ind Makes a fiery spirit obey the caster as long as she can coerce it with threats. The''
+''more lurid and dramatic her threats, the more cooperative the spirit is. If the spell penetrates the spirit’s Magic Resistance, make a stress roll of Com + Leadership to see how effective the maga’s threats are. The storyguide should always give a bonus or penalty depending on the potency of the threats, but note that any roll other than a botch compels at least minimal obedience, while increasing rolls indicate a more cooperative spirit.''
+''(Base 5, +2 Voice, +1 Conc)''
+
+===Summoning the Spirit of Fire===
+
+''ReIg 40 R: Arcane, D: Conc, T: Ind Calls a fiery spirit if the magus has an Arcane Connection or knows its full name, and overcomes the spirit’s Magic Resistance. (The name can be a non-magical name; it need not be a magical true name or name of power). A fire serves as an Arcane Connection to any elemental fire spirit that resides in the area.''
+''(Base 15, +4 Arcane, +1 Conc)''
+
+==Performance Magic — Minor Hermetic Virtue==
+
+''In Mythic Europe, many Hermetic magi have learned how to disguise their magical practices by incorporating them fully into a mundane task or action at which they excel. This Virtue lets the magus conceal spellcasting by using the actions and/or words of some Ability to replace the normal Hermetic gestures and words, and lets him maintain a spell without needing Concentration rolls.''
+
+===Description===
+
+''When the Virtue is acquired, specify the Ability to which it applies. You may choose any Craft, Profession, or other Ability with a clear verbal or physical practice. You may not choose any Language, Supernatural, Academic, or Arcane Ability.''
+''There are distinct Virtues for each possible Ability, as each allows different methods to work its actions into magic: knowing one method of Performance''
+''Magic does not let the magus use any other Ability in magic.''
+''It is the action or words of the practice that are the focus of this Virtue, not the products of craft-working. An Ability that is verbal (such as story-telling) replaces the words of spellcasting; similarly, an Ability that is physical (such as hunting) replaces gestures. An Ability that encompasses both verbal and physical aspects (such as music, or mumming (acting)) allows the performer more flexibility.''
+''The magus must actually perform the Ability to count as using this Virtue, and other Virtues or Mastery Abilities do not remove that requirement. For example, he cannot sing silently, although he can hunt silently.''
+''Words or gestures that are not being replaced by Performance Magic remain as normal mystical components of spellcasting: use the normal ArM5 rules and adjustments (including Virtues such as Quiet Magic and Mastery Abilities such as Still Casting).''
+''Example: Orlando is a musician and magus, and knows Sorcerous Music and Subtle Magic. He may cast spells while he sings (with no penalty for no gestures), plays his lute, or sings and plays. If he sings or plays quietly, he suffers the normal –5 penalty. He can cast spells silently, but only by not using Sorcerous Music.''
+''His friend Furioso, another Sorcerous Musician, lacks Subtle Magic. If he has no instrument with him, then, unlike Orlando, he must use normal Hermetic gestures or suffer the penalty for no gestures.''
+
+[|
+''Of the Abilities listed on ArM5, page 63, the following qualify for Performance Magic (although not all are particularly effective, and some may be hard to use effectively):''
+''Physical: Athletics, Brawl, Chirurgy,''
+''Hunt, Legerdemain, Ride, Stealth, Swim, Bows, Great Weapon, Single Weapon, Thrown Weapon Verbal: Bargain, Charm, Guile, Intrigue,''
+''Leadership, Teaching Verbal and Physical: Animal Handling,''
+''Carouse, Music Variable: Craft (Type), Profession (Type)''
+''While Brawl and Martial Abilities may be used in Performance Magic, the magus needs to perform semi-ritualistic movements to cast spells, responding to the needs of the spell, not to the actions of an opponent. If the magus is in combat, then he may only use Performance Magic (Brawl or Martial Abilities) if the player rolls a stress die with three extra botch dice, and treats all non-botches as die rolls of zero. (This represents ignoring the opponent and casting the spell.)''
+
+==Performance Abilities==
+
+''Performance Magic (Music) is often known as Sorcerous Music.''
+''Music is unusual among Performance Magic Abilities — perhaps because instrumental music is similar to the human voice — in that playing a tune on an instrument can freely replace either or both of gesture and words. The magus needs to play an instrument in order to replace gestures, but has a free choice as to whether he sings or plays a tune to replace mystical words. Indeed, wind instruments require that he play a tune to replace''
+''words, as he cannot sing while playing a whistle!''
+''Sorcerous Music can be performed as singing-only and not replace gestures (with normal spellcasting penalties and benefits of Subtle Magic), or can be performed without singing (if the magus plays an instrumental tune), but cannot be performed silently.''
+''When using Voice Range with Sorcerous Music, the spell carries as far as the music (song or instrument) could be heard. For some loud instruments, this may be a long way.''
+
+==Sorcerous Music (Performance Magic)==
+
+
+|]
+''The magus may choose to vocalize loudly, or move exaggeratedly, and gain the equivalent bonuses as for loud words or exaggerated gestures. Bystanders may notice this as unusual activity, and take interest where they might not otherwise.''
+
+===New Duration for Performance Magic===
+
+''New Duration: Performance. The spell lasts as long as the caster performs the Performance Ability. Performance is equivalent to Concentration Duration.''
+''To cast a Performance Duration spell, the magus must succeed in a roll (simple or stress die, according to circumstances) of Characteristic (varies with Ability) + Ability against an Ease Factor of 3.''
+''The spell fails if this fails, and botches if the roll botches. The spell ends when the magus ceases to perform the Ability,''
+''but no Concentration or Ability rolls are needed to maintain the spell while the performance continues.''
+''Formulaic spells must be devised with the new Duration to use this Ability; if so designed, the spell cannot be cast without performing.''
+''Example: Harold knows Performance Magic (Hunt), and casts Hunter’s Tracks of the Faerie Glow (a variant of Tracks of the Faerie Glow), and succeeds with his simple Hunt roll. His magically enhanced vision persists as long as he keeps up the hunt, even if he is distracted by chatter or other spellcasting.''
+''Example: Orlando sings while he casts a Sung Lamp Without Flame. The light continues while he continues to sing, however badly, but ends when he stops singing. Needing to convey urgent instructions to a recalcitrant grog, he uses an enchanted device with Maintaining the Demanding Spell to maintain the spell while he stops to shout at the grog; before the Maintaining effect ends he resumes his sung performance.''
+
+==Planetary Magic — Minor Hermetic Virtue==
+
+''Hermetic magi have developed their own understanding of the subtle astral influences of the stars. Using Planetary Magic it is possible to select an appropriate governing planet for most effects instilled in enchanted devices. The magus should select the most appropriate planet for the nature of the enchantment, and invoke its influence when casting.''
+''This Virtue is commonly taught to apprentices wishing to work the subtle influence of the stars into their magics. It is also available by Initiation in certain Mystery Cults, but has long since passed into general knowledge throughout the Order, and may be taken without any need for Initiation during character generation.''
+''Description: Allows a bonus to Lab Totals to create an enchanted device (and only to create an enchanted device), by calculating the best hours and periods to work, modifying incantations, and instilling astral influences from the planets to gain the greatest possible effect.''
+''The instilled effect must fall within the area of influence of one of the''
+''planets, which are described in Chapter 6: Hermetic Astrology, Appendix — Astrological Correspondences. Only one planet, and thus one bonus, may be invoked for any given season of work on an enchantment.''
+''The magus must then create a Laboratory Horoscope for this season’s work to maximize benign influences of the chosen planet, by working at the correct times, and minimize unfavorable aspects by avoiding certain associations or hours.''
+''Decide in advance on an Astrological Modifier to the Lab Total, from +1 to +5. To gain this bonus, you must succeed in a roll of:''
+
+===Stress Die + Intelligence +artes Liberales (Astronomy) Vs. Three Times===
+
+
+===The Desired Bonus===
+
+''If successful, add the Astrological Modifier to the Lab Total. If the roll fails, there is no effect other than losing the bonus; it is not possible to reroll this season. On a roll of zero, roll a number of botch dice equal to the desired bonus. If any botch results, the entire season is wasted, and any vis expended in the project is lost.''
+''Example: Astra has Intelligence 3 and an Artes Liberales (Astronomy) score of 6. She intends to create a device with an Aura of Rightful Authority effect. This is a kind of rulership and is governed by the sun, one of the astrological planets (see Astrological Correspondences in Chapter 6). She would like a boost for her laboratory work, and tries to create a Laboratory Horoscope for the work. She decides that she would like an Astrological Modifier of +4, so the Ease Factor for her proposed Horoscope is 12. Her player rolls, and gets a 2, and fails.Astra curses, as she needed those 4 points.''
+
+===Distractions From Planetary Magic===
+
+''If a maga commits her lab work to astrologically favorable hours and then loses time from the laboratory, and attempts to catch up by working harder for the rest of the season (ArM5, page''
+
+[|
+
+==Recognizing Performance Magic==
+
+''Most people do not recognize performing an Ability as spellcasting, so the performer may act more openly than most magi; even other Hermetic magi do not automatically recognize his actions:''
+''If a Hermetic magus contemplates Fast Casting to oppose a spell and the caster is using Hermetic words and gestures, a magus may determine the Form automatically (ArM5, page 83). In other circumstances, the magus must work the Form out.''
+
+===Determining the Form of a Magical===
+
+
+===Effect: Stress Die + Perception + Awareness Vs. 15 – Effect Magnitude===
+
+''If the spell is being cast with mundane words or gestures, the Ease Factor is adjusted as follows:''
+''–3 if Hermetic words are spoken (and''
+''can be heard) +0 if Hermetic gestures are made (and''
+''seen) +3 if both words and gestures are''
+''mundane''
+
+|]
+''103), she is forced to include work at unfavorable hours as well as favorable hours. Because of this, she loses the benefit of the Astrological Modifier if she is ever forced to miss a whole day away from the laboratory. Other than this, distractions are as stated on ArM5, page 103.''
+
+===Lab Texts and Planetary Magic===
+
+''If the magus writes up his lab notes as a Lab Text, he produces a normal Lab Text usable by any magus without special benefits or restrictions. To gain an Astrological Modifier in a subsequent season using the Lab Text, a magus (even the original magus) must create a new Laboratory Horoscope using Planetary Magic.''
+
+==Potent Magic — Minor or Major Hermetic Virtue==
+
+''The maga’s magic can be particularly attuned to a narrow field, much as in a Magical Focus. The benefits of Potent Magic are compatible with a Magical Focus; unlike a Magical Focus, a magus may have more than one area of Potent Magic, although only one Potent Magic Virtue applies to any single activity.''
+''Potent Magic provides the maga with a bonus in her field of magic, and permits her to devise Potent spells that gain a casting bonus from the sympathetic magic in shapes and materials.''
+''Potent Magic can be taught as an alternative to a Magical Focus. Although this is a Mystery Virtue, it is common for parentes to teach this to their filii, without deeper involvement in Mysteries, and therefore it is classified among the common magics.''
+
+===Description===
+
+''Minor Potent Magic covers the same narrow fields as a Minor Magical Focus, and grants a +3 bonus to Lab Totals and Casting Score.''
+''Major Potent Magic covers the same wide fields as a Major Magical Focus, and grants a +6 bonus to Lab Totals and Casting Score.''
+''A maga with Potent Magic may also invent new Potent spells (see below) within the field of her Potent Magic, and may vary spells she knows. See Potent Magic and Potent Spells.''
+
+===Potent Spells===
+
+''A Potent spell has a bonus known as its Potency, which is arrived at by combining one or more Casting Items into the design of the spell. Casting Items use the factors given in the Shape and Material Bonus table (ArM, page 110): each Casting Item provides one bonus. (If more than one bonus is possible, the spell design states which one is used.)''
+
+===Potency Score = Sum of Bonus From===
+
+
+===Each Casting Item===
+
+
+===Potency Bonus: Add Potency To Casting===
+
+
+===Score===
+
+''Potency is part of the spell design; a Lab Text for a Potent spell includes the specified Casting Items and Potency Score. A magus teaching a Potent spell teaches the formula he knows, including the Casting Items and Potency Score. The level, for the purposes of inventing it as well as for casting, of a Potent spell is unaltered by the Potency Score. However, a magus may not invent a Potent spell with a Potency higher than his Magic Theory score, even with the aid of a Lab Text or teacher.''
+''Any magus can learn a Potent spell from a Lab Text or teacher, and apply Potency to his Casting Score; the Potent Magic Virtue is required to design a Potent spell from scratch, but not to reproduce one from a Lab Text.''
+''To cast a Potent spell, the caster must touch the specified Casting Items. The items need not be large; they may be small and symbolic (for example, a shield-shaped brooch is still symbolically a shield). If the caster does not have the Casting Items available, the spell cannot be cast at all.''
+''Example: A wand provides several bonuses including +2 “repel things” and +4 “control things at a distance.” A Potent version of Disguise of the Putrid Aroma could use either bonus in its Potency. Combining it with magnetite (+3 Animal) allows a design with either Potency 5 (requires Magic Theory 5) or Potency 7 (requires Magic Theory 7). The caster must hold a wand and piece of magnetite (or a wand set with magnetite) to add the Potency to his Casting Score.''
+''Potency applies only to Formulaic spells — Spontaneous Magic allows Ceremonial Casting to produce similar results, and enchanted devices use Shape and Material Bonuses during enchantment.''
+
+===Potent Magic and Potent Spells===
+
+''A magus with Potent Magic may create new Potent spells or alter Potent spells to vary the Casting Items.''
+''When inventing a spell within the field of his Potent Magic (including from a Lab Text), the magus simply chooses Casting Items for the design, and then invents the spell as normal. Each chosen Casting Item (up to the limit of Magic Theory) adds a single Shape or Material Bonus to Potency; if more than one bonus might apply to the spell, choose one and note it in the design. The total Potency may not exceed the magus’s Magic Theory.''
+''A Lab Text written for this spell includes the Casting Items and Potency, and is usable by any other magus.''
+''In addition, a magus who knows a spell within the field of his Potent Magic may invent a variant spell with different Casting Items (including a variant with no''
+
+[|
+
+==Initiation into Major Potent Magic==
+
+''Major Potent Magic may be (and normally is) Initiated as a progression from a Minor Potent Magic with a narrower span, in which case the Initiation requires and replaces Minor Potent Magic. This makes loss of the Minor Potent Magic an Ordeal, and so the Initiation is easier than otherwise.''
+
+|]
+''Casting Items). If the only difference is a change in Casting Items, he may invent the variant in a single season.''
+
+===Designing Covenant Libraries===
+
+''When creating a covenant and choosing Lab Texts for the library, add Potency (if any) to spell level when counting Build Points, and record the Casting Items required.''
+
+===Grimoire of Potent Spells===
+
+''A number of familiar spells, modified by magi with Potent Magic who have contributed their own Lab Texts, are included in this volume. Variants of the spells obtained from other magi may have different Potency, or different Casting Items.''
+''A magus cannot learn a Potent spell if its Potency exceeds his Magic Theory, so some of these spells are powerful but very difficult to learn.''
+''Shiver of the Lycanthrope, InAn 10, Potency''
+''8, Casting Items: silver-chased (+5) hazel (+3) wand. Beast of Outlandish Size, MuAn 15, Potency''
+''6, Casting Items: magnetite (+3) carved into the shape of Behemoth (+3). Cripple the Howling Wolf, PeAn 25, Potency''
+''7, Casting Items: wolf bone (+4) set with a piece of magnetite (+3). Mastering the Unruly Beast, ReAn 25, Potency''
+''7, Casting Items: carved wand (+4) set with magnetite (+3). Mighty Torrent of Water, CrAq 20, Potency''
+''7, Casting Items: a piece of carved jade (+4) inset with aquamarine (+3). Enchantment of the Scrying Pool, InAq 30,''
+''Potency 7, Casting Items: a piece of jade (+4) inset with beryl (+3). Curse of the Desert, PeAq 25, Potency 8,''
+''Casting Items: a jade-inlaid (+4) wand (+4). Stench of Twenty Corpses, CrAu 10, Potency''
+''6, Casting Items: a piece of green turquoise (+4) and a pin feather (+2). Talons of the Wind, MuAu 20, Potency 8,''
+''Casting Items: a fan (+4) constructed from the fabric of a ship’s sail (+4).''
+''Cheating the Reaper, CrCo 30, Potency 8,''
+''Casting Items: a disc inlaid with jasper (+2), amber (+3), and a sapphire (+3). Whispers Through The Black Gate, InCo 15,''
+''Potency 9, Casting Items: green turquoise (+4) and a star ruby (+5). Curse of Circe, MuCo(An) 30, Potency 7,''
+''Casting Items: a piece of pig skin (+7). Grip of the Choking Hand, PeCo 25, Potency''
+''10, Casting Items: a wand (+4) of human bone (+4), bound with cord (+2). Rise of the Feathery Body, ReCo 10, Potency''
+''8, Casting Items: a glove (+4) with a magnet (+4) sewn into the fabric. Ward Against Faeries of the Wood, ReHe 25''
+''(gen.), Potency 9, Casting Items: an iron (+7) horseshoe (+2) Pilum of Fire, CrIg 20, Potency 11, Casting''
+''Items: a miniature lamp (+4), a miniature hearth (+7), and a wand (+3). The magus must hold or touch all three items to cast the spell. Trapping the Fire, MuIg 25, Potency 9,''
+''Casting Items: a piece of fired clay (+4) bound in a net (+5). Wizard’s Icy Grip, PeIg 30, Potency 7,''
+''Casting Items: a wand (+4) with a rock crystal sphere (+3). Haunt of the Living Ghost, CrIm(In) 35,''
+''Potency 8, Casting Items: a rock crystal sphere (+5) set on a hazel wand (+3). Summoning the Distant Image, InIm 25,''
+''Potency 8, Casting Items: a rock crystal sphere (+5) set on a hazel wand (+3). The Captive Voice, ReIm 25, Potency 7,''
+''Casting Items: a mask (+3) and a necklace (+4). The spell suggests the magus wears the mask, but it is sufficient to have a small token mask on his person so long as he touches it while casting the spell. Weight of a Thousand Hells, CrMe 25, Potency''
+''9, Casting Items: a dagger (+3) with amethyst (+3) and frankincense (+3) inset in the hilt. Posing the Silent Question, InMe 20, Potency''
+''5, Casting Items: a silver-chased (+2) hazel (+3) wand. Vision of the Haunting Spirits, MuMe(Im) 40,''
+''Potency 8, Casting Items: green turquoise (+4) and cinnamon (+4).''
+''Confusion of the Numbed Will, ReMe 15,''
+''Potency 7, Casting Items: a magnet (+2) carved in the shape of a miniature human skull (+5). The Crystal Dart, MuTe(Re) 10, Potency''
+''6, Casting Items: a dagger (+2) and a spade (+4). Ward Against Faeries of the Mountain, ReTe 15,''
+''Potency 9, Casting Items: an iron (+7) horseshoe (+2) The Enigma’s Gift, CrVi 30, Potency 4,''
+''Casting Items: parchment inscribed with Ink of Hermes (+4). Sight of the Active Magics, InVi 40, Potency''
+''6, Casting Items: a hazel (+3) wand stained with Ink of Hermes (+3). Demon’s Eternal Oblivion, PeVi 30 (gen.),''
+''Potency 12, Casting Items: red coral (+10) and frankincense (+3).''
+''The authors of these spells often prescribe the components as “a wand inlaid with jade” or some such. This is convenient, but might require a great many wands. Fortunately, while their prescription is inclusive (the wand must have jade in order to work with the spell), it is not exclusive; a hazel wand, with a handle of wolf bone, inset with silver, magnetite, and aquamarine, would count as the Casting Items for all of Shiver of the Lycanthrope, Cripple the Howling Wolf, Mastering the Unruly Beast, Enchantment of the Scrying Pool, and Curse of the Desert. Obviously magi favoring Potent spells tend to construct elaborate wands with multiple strips of inlay, and mounted with precious and semi-precious stones.''
+''Large items such as “a spade” may use a real spade, a miniature spade, or even a toy, so long as it is properly spade-shaped.''
+
+==Vulgar Alchemy— Minor Hermetic Mystery Virtue==
+
+''Vulgar Alchemy is said to derive from hedge alchemy, the brewing of potions and charms. With Vulgar Alchemy, a maga can discover new associations between common ingredients and magical enchantments. The incorporation of folk''
+''magic associations into Hermetic magic has brought benefits to laboratory work for all magi. As a pre-Hermetic tradition, it involves Magic Lore in addition to Magic Theory.''
+''By experimenting with new shapes and materials, a maga may create enchanted devices in other than standard forms. Verditius magi have a similar (more powerful) ability, when they use Verditius Runes to add their Philosophiae to standard Shape and Material Bonuses. (Vulgar Alchemy experimentation is not compatible with Verditius Runes.)''
+''When a maga experiments (using the ArM5 Arcane Experiments rules, page 107), she may use the Experimentation Bonus (simple die + Risk Modifier) to discover new Material Bonuses. Because she is experimenting, and prepared to change (and risk!) the device, she can make changes not otherwise possible. As she experiments, she adds or removes minor components such as herbs, crystals, slivers of wood, feathers or fur, she hopes might provide a sympathetic bonus to the enchantment; if she is making a set of charged devices, she can also experiment with their shape, and discover new Shape Bonuses.''
+''Vulgar Alchemy is not usable on invested devices, as these must be fully crafted and magically opened before the enchantment season begins, whereas Vulgar Alchemy relies on tweaking the design as the maga invests an effect. However, the process works well with charged devices and lesser enchanted devices.''
+''Personal Shape and Material Bonuses determined from previous experiments may be used in any of the maga’s own enchantments, including invested devices.''
+
+===The Experiment===
+
+''Begin a season of enchantment with a selection of materials (and possibly shapes) gathered in the laboratory. The magus may choose any number of components up to the limit of his Magic Theory score (since some components may be rejected, it is best to include as many as possible). Do not use the normal Shape''
+''and Material Bonuses table for this process, other than to verify that the bonuses he seeks are compatible with the existing''
+''correspondences of the item. (Check with the storyguide or troupe on this.)''
+
+[|
+''These shapes and materials are based on the discoveries of alchemists, but can be used by any magus. They are particularly useful in Potent spells and Hermetic Alchemy.''
+''Aloe +3 friendship''
+''Amethyst +3 dreams, +4 temperance''
+''Astrolabe +5 Astrology''
+''Carving of Behemoth +3 great size''
+''Cinnamon +4 Imaginem, +2 destroying ghosts''
+''Cinquefoil +4 resist poison, +3 drive away demons, +2 making amends''
+''Copper +3 bloodshed, +2 passion''
+''Emerald +2 calm''
+''Frankincense +3 Perdo Vim, +3 dreams''
+''Garnet +4 repel insects, +2 strengthen body and mind''
+''Gold +4 nobility, +4 peace, +2 health''
+''Ink of Hermes +3 Vim, +5 books''
+''Iron +3 bonds''
+''Lead +3 hatred''
+''Lion’s Blood +4 protection from wild beasts, +3 courage, +2 leadership''
+''Magnet +4 Rego Corpus, +4 Rego Terram, +2 Rego''
+''Mercury +3 arts and sciences''
+''Myrrh +3 spirits''
+''Opal +4 memory, +2 imagination''
+''Pepper +2 Perdo''
+''Peridot +3 protection against nightmares''
+''Red gold +4 war, +1 Perdo''
+''Rock crystal +3 ice, +4 clarity''
+''Ruby +3 battle wounds, +2 courage''
+''Saffron +4 physical strength''
+''Sapphire +3 reducing anger, +2 Perdo Vim against spirits''
+''Silver +5 lycanthropes in general, +2 Intellego, +1 Terram''
+''Sulfur +3 binding tongues, +2 sowing discord''
+''Tin +3 weakness, +1 law''
+''Yellow sandalwood +3 binding people''
+
+==New Shape and Material Bonuses==
+
+
+|]
+''Complete the enchantment, and determine the experimentation rolls. If he avoids disaster, note the Experimentation Bonus (as in ArM5, page 107):''
+
+===Experimentation Bonus = Simple Die===
+
+
+===Roll + Risk Modifier===
+
+
+===Testing the Components===
+
+''Now the magus must determine which experimental elements worked to help the enchantment, and which failed. (Record all the results for future reference.) This is done by dividing up the Experimentation Bonus between the components. If he included any materials or shapes with a known bonus that apply to the enchantment, it is assumed they automatically succeed and use up their points from the experimentation pool before any others are tested; this may leave no points to allocate.''
+''For items without known bonuses, for each Casting Item in turn, decide on''
+''a bonus score you think it may have contributed, and roll against Perception and Magic Lore. If the storyguide agrees the bonus seems particularly appropriate, he can reduce the Ease Factor by a story factor of up to +5 (typically +1 to +3), but if it’s inappropriate, he can increase the Ease Factor by a like amount.''
+
+===Simple Die + Perception + Magic Lore Vs. an Ease Factor of 3 + (3 X Proposed===
+
+
+===Material Or Shape Bonus) +/– Story===
+
+
+===Factor===
+
+''If this roll is a success, the magus has correctly determined a Material or Shape Bonus for this component, and can record this for future use. For example, if you think “fur from the tip of a fox’s tail” might have contributed a Material Bonus of +4 in this experiment, then the Ease Factor is (3+[3x4]) or 15, minus the storyguide’s story factor. The discovered component will also have added its bonus to this enchantment.''
+''Work through all the components, until you have used all points from the Experimentation Bonus, or you have tested each material or shape once. If you run out of points before all components are tested, the remaining components are ignored. If you have points remaining after all components have been tested once, those excess points are lost.''
+
+===Final Result===
+
+''When the testing of shape and material components is finished, you may return to the Lab Total calculation. The magus’s Vulgar Alchemy Lab Total for this experiment is:''
+
+[|
+
+==Ink of Hermes==
+
+''This ink (also called ”Hermaic Ink”) is mentioned in many alchemical texts. The ingredients are four drams of myrrh, three karian figs, seven pits of Nikolaus dates, seven dried pine cones, seven piths of single-stemmed wormwood, seven wings of the Hermaic ibis, and spring water. The ingredients are burned, reduced, and mixed. When properly prepared, the ink provides powerful Material Bonuses, listed on the New Shape and Material Bonuses table.''
+
+==Repeated Experiments to Determine a Category==
+
+''The broader the category, and the higher the proposed bonus, the more the magus must experiment to confirm that the material is sufficient. The number of successful tests on a component varies, but the following formula is suggested:''
+
+===3 X Proposed Bonus Score, Plus a===
+
+
+===Scope Factor:===
+
+''+3 if the scope is similar to the field''
+''of a Minor Magical Focus (or narrower) +9 if the scope is similar to the field of''
+''a Major Magical Focus +9 if the scope is a single Technique +''
+''Form combination +12 if the scope is a single Hermetic''
+''Form +15 if the scope is a single Hermetic''
+''Technique''
+''Wider scopes are not possible.''
+
+|]
+
+===Intelligence + Magic Theory + Technique + Form + Aura + Magic===
+
+
+===Lore + Experimentation Bonus +===
+
+
+===Successful Component Bonuses===
+
+''As always, the total of Shape and Material Bonuses is limited by the magus’s Magic Theory. The final Lab Total determines the success or failure of the project, and how many charges are invested in a charged device.''
+''Once the magus has determined and reocrded the Vulgar Alchemy Lab Total, others can reproduce the item from the Lab Text, but will not benefit from the special Shape and Material Bonuses. The Lab Text does state which items worked, and allows the magus to omit the failed items in future repeats. Furthermore he need not experiment again to repeat the enchantment, and may include other known components. If he repeats without experimentation, the Lab Total is:''
+
+===Intelligence + Magic Theory + Technique + Form + Aura + Magic===
+
+
+===Lore + Component Bonuses===
+
+''If the magus writes out a Lab Text for others, they must follow his design as to ingredients, but they cannot use his personal bonuses.''
+
+===The Bonuses===
+
+''Initially, the bonuses are personal to a maga’s own magic and to a specific enchantment effect. She can apply discovered bonuses to enchantments (including invested devices) that satisfy the similar spells relationship to the original effect, and they can be applied without further experimentation. Magi sometimes experiment at making charged devices in order to determine Shape and Material Bonuses they can use for planned invested devices.''
+''A new Casting Item may be refined into wider categories (such as those in the Shape and Material Bonuses table) by performing more experiments using the same materials. Once the maga has an item with a consistent bonus and several applications, and all the applications are compatible (subject to storyguide or''
+''troupe approval), she may merge these to create a category similar to the Shape and Material Bonus table categories.''
+''Example: Although Julius failed when he tested “fur from a fox’s tail” in his first glamor powders, he later succeeds in creating powders for a number of CrIm visual illusions, all with a +3 bonus from fox-tail fur. The storyguide agrees that he has established a category of effects, and that Julius may use “fur from a fox’s tail” for a bonus “+3 to create a visual illusion” in any enchantment, without further testing.''
+''Once the magus has determined a category to which a bonus applies, he may teach this to others. When a magus writes a tractatus on Magic Theory, he may choose a Shape or Material and its particular bonus and category as the thesis for the book. He may do this provided his''
+''Quality (Com + 6 + bonuses) for writing the book is at least twice the Bonus Level.''
+''Those who study the book then both learn Magic Theory (Quality XP) and also learn how to use this component in their own enchantments. When they, in turn, teach students, through direct teaching or by writing in a summa, they incorporate all their experience of enchantment into their teaching. Eventually, the new magical correspondences may become a standard part of Hermetic theory taught to all students.''
+
+[|
+''Julius has Magic Theory 6, Perception +1, Magic Lore 5. He plans to make powder (a charged device) to cast a concealing illusion over items.''
+''He included the maximum six items (fur from the tip of a fox’s tail, foxglove petals, mint leaves, dock leaves, rose petals, rose hips) in the experiment. Julius claims that foxes are masters of trickery, and their fur is particularly appropriate — the storyguide agrees.''
+''He chooses a Risk Modifier of 2, and his player rolls 6, so the Experimentation Bonus is 8.''
+''He must now divide the Experimental Bonus between the components. The first item he looks at is “fur from the tip of a fox’s tail” and tries for a +3 bonus. The roll has an Ease Factor of 12 (3+[3x3]), with a –3 reduction from the storyguide for an appropriate connection. His player rolls 2 + Per 1 + Magic Lore 5 = 8. No, fox fur did not help this experiment.''
+''Moving on to foxglove petals, trying again for the first +3 bonus factor. Again Julius claims that the foxiness of foxgloves is appropriate. This meets with less agreement, and the story factor only provides a –2 reduction. His player rolls 8 +1 +5 = 14 — success! The foxglove did add +3 to the experiment.''
+''None of the remaining components has enough of a connection to receive a story factor adjustment, but Julius decides to continue, now looking at mint leaves for another +3 bonus, his player rolling 2+1+5 = 7: a failure. He tests the dock leaves for a +3 bonus, his player rolling 6+1+5=12: a success — they have a +3 bonus too.''
+''Six points have been allocated, leaving 2 more. He tests rose petals for a +2 bonus: his player rolling 1+1+5=7 against an Ease Factor of 9: a failure. There is only one component left (rose hips) and 2 points remain still. Julius may try for an easy roll for a +1 bonus, or an average roll for a +2 bonus. Being confident, he tries for the +2 bonus, but his player rolls a 2 +1+5 = 8 vs. an Ease Factor of 9: a failure. The excess points are lost.''
+''In this experiment, two +3 bonuses were discovered, and the final 2 points were lost. Note that Julius could test the bonuses in any order.''
+''Julius can now include the discovered Shape and Material Bonuses in his illusion powder, but only the +6 that were successfully tested, not the +8 of the Experimental Bonus roll, and only up to his Magic Theory score, as normal.''
+
+==Example of Vulgar Alchemy==
+
+
+|]
+''The Mysteries Revised Edition Withstand Casting — Minor Hermetic Virtue''
+''The Mercurian cult teaches a number of Virtues and Abilities to its members; some of which may be taught outside the cult. One such is the Virtue Withstand Casting, which bolsters the magus against the draining Fatigue of casting spells, knowledge of which is now reasonably widespread in the Order.''
+''If a magus has this Virtue, then whenever he is about to lose Fatigue from casting a spell, he loses 1 less Fatigue level than normal, with a minimum of 1 Fatigue level — but if the spell would have been cast without Fatigue loss, then he still loses no Fatigue.''
+''A magus may take the Virtue more than once, and withstand 1 Fatigue level for each level of the Virtue, although the minimum Fatigue loss remains. If he has Withstand Casting (3), he may withstand up to 3 Fatigue levels lost, with a minimum of 1.''
+''The Virtue decreases the severity of the Fatigue lost in the exact manner of the existing Fatigue loss. Thus, if the magus casts a Formulaic spell, the Fatigue is short-term Fatigue, easily recovered, and if he runs out of Fatigue levels he is rendered unconscious, loss of extra Fatigue levels results in him being unconscious for one hour for each overflowing level, and the respite of Withstand Casting lessens this. If, on the other hand, he casts a Ritual spell, then the Fatigue is long-term Fatigue, and losing more Fatigue than he has remaining causes wounds — the respite of Withstand Casting reduces the severity of wounds, and this may result in him taking no wounds (with the minimum Fatigue lost rendering him unconscious).''
+
+===Withstand Casting and Vulnerable Casting===
+
+''You may not start your character with both Vulnerable Casting and Withstand Casting. However, she may acquire both in the course of play (Withstand Casting from Initiation rituals or beneficial Twilight effects;''
+''Vulnerable Casting from Ordeals or bad Twilight effects).''
+''If this occurs, apply the extra loss from Vulnerability first, then withstand the increased loss.''
+
+===Life Boost and Life-linked Spontaneous Magic===
+
+''Some Virtues, such as Life Boost and Life-Linked Spontaneous Magic, actually use the magus’s life-force to power the spell: the lost Fatigue powers the spell, and without that loss, no power boost is possible. While a magus may choose to apply Withstand Casting to such a spell, if he does then he loses the benefits from withstood levels.''
+''Example: Vita, a maga with Life-Linked Spontaneous Magic, aims to cast a level 20 spell, but falls short and only generates a level 16 result. She will lose 2 Fatigue levels (1 for spontaneous casting, 1 for the shortfall in LifeLinked Magic).''
+''Although she has Vulnerable Casting (1) (from past Twilight experiences) so suffers an extra Fatigue level loss, she also has Withstand Casting (3) (from Initiations), and can use this to withstand the Fatigue lost to the Vulnerable Casting.''
+''She has another 2 levels of Withstand Casting, but if she eliminates the Life-Linked loss,''
+''the spell will fail (and she will still suffer any remaining Fatigue loss). She cannot Withstand the base spontaneous casting Fatigue.''
+''It is, however, useful to have the Withstand Casting Virtue even with LifeLinked Spontaneous Magic, in case that shortfall is extreme; for example, if the magus botches and the Casting Total is reduced to zero.''
+''Example: Vita tries again, hoping to cast another level 20 spell. However, she botches, and her Casting Total is zero. She would normally lose 6 Fatigue levels (1 for spontaneous casting, plus 1 for Vulnerable Casting, plus 4 for the shortfall in Casting Total), but she can withstand 3 Fatigue levels lost, and only suffers a net loss of 3 Fatigue levels.''
+
+==Modified Virtues and Flaws==
+
+''Normally Virtues and Flaws are applied continuously or to the cycle of days, moons, or seasons. It is also possible for Virtues and Flaws to be linked to astrological cycles or subjects. A magus need not study Hermetic Astrology itself in order to have (or Initiate into) astrologically linked Virtues or Flaws.''
+
+==Astrological Magical Focus and Potent Magic==
+
+''A Magical Focus or Potent Magic covers a minor or limited area.''
+''Examples are given in ArM5 for both Major and Minor Magical Focus. Potent Magic is defined as covering the same possible areas as a Magical Focus. For details of Potent Magic Virtues, see Potent Magic in this chapter.''
+''It is possible for the magical subject area to be determined by astrological correspondences:''
+
+===Major Magical Focus (Sign Or Planet) Or Major Potent Magic (Sign Or Planet):===
+
+''Any magus may have a Major Magical Focus or Major Potent Magic covering effects governed by a single astrological sign. Any magus may have a Major Magical Focus or Major Potent Magic covering effects governed by a single astrological planet.''
+
+===Minor Magical Focus (House) Or Minor Potent Magic (House):===
+
+''Any magus may have a Minor Magical Focus or Minor Potent Magic covering effects governed by a single astrological house.''
+''Spells cast with a benefit from Potent Magic or a Focus in a sign, planet, or house are Astrological spells. Other spells cast by the maga need not be Astrological. Astrological spells are discussed further in Chapter 6: Hermetic Astrology.''
+
+===Initiating Magic for Birth Sign, Planet, Or House===
+
+''The Initiation of astrological Potent Magics and Foci differs slightly from the normal requirement that the Mystagogue have the Virtue being taught: if the Initiate has a natal correspondence to the sign, planet, or house, then he has a special connection to that. (Without this modification, the Mystagogue could not easily teach the magic of the Initiate’s birth sign unless he shared the sign with the Initiate).''
+''An Initiate may be taught Potent Magic for his own birth sign by any magus who has Potent Magic (Sign), no matter which Potent Magic (Sign) the Mystagogue has. Similarly for Potent Magic (Planet) and (House), and Magical Foci.''
+''Indeed, the connection is so strong that magi Initiating into the magic of their birth have a +1 sympathy bonus for Initiation, while magi Initiating other conjunctions have a sympathy penalty of –1, and the sign or house opposite their''
+''•''
+''•''
+''•''
+''birth sign or house causes a penalty of –3. (Planets do not oppose each other.)''
+''Example: Stellus is being Initiated into astral magics by his Mystagogue leader Astera. Stellus was born under the sign of Capricorn, with Venus in the fourth house. He may learn Major Potent Magic Sign (Capricorn), Major Potent Magic (Venus) and Minor Potent Magic (Genitor, the fourth house), even though Astera was born under (and has learned Potency for) Sagittarius, Mars, and Valetudo (the sixth house).''
+''For details of the range of effects governed by the signs, planets, and houses, see Chapter 6: Hermetic Astrology: Appendix — Astrological Correspondences.''
+
+==Astrological Cyclic Magic — Minor Hermetic Virtue or Flaw==
+
+''Any magus may have astrologically Cyclic Magic, in which the cycles of the Virtue or Flaw may be astrological cycles. Having such a cycle does not make the magus’s magic Astrological, but just determines when the Virtue or Flaw applies.''
+''The properties (gender, temperament, element) of the signs of the Zodiac are explained and listed in Chapter 6: Hermetic Astrology: Appendix — Astrological Correspondences.''
+''In the Virtue and Flaw of Cyclic Magic, it is stated that the bonus or penalty must normally apply for an amount of time equal to the time when it does not. In the astrological cycles, the cycle may apply for less time than it does not, so the bonus or penalty is increased to match this:''
+''Male and female signs divide the signs (and year) into two equal halves. Cyclic magic (male signs) and cyclic magic (female signs) attract the standard bonus or penalty of 3. The cardinal signs, fixed signs and mutable signs each occupy one-third of the year and leave out two-thirds of the year: The bonus or penalty is increased to 5. Signs of a single element (earth, air, fire, water) occupy one-quarter of''
+''•''
+''•''
+''•''
+''the year: The bonus or penalty is increased to 6.''
+''As stated in ArM5, page 41, the bonus from Cyclic Magic only applies to Lab Totals if it covers the whole season. A penalty from Cyclic Magic applies to a Lab Total if it applies at any point of the season.''
+''Example: Stella has the Virtue Cyclic Magic (Cardinal Signs) and the Flaw Cyclic Magic (Fixed Signs). During the signs of Aries, Cancer, Libra, and Capricorn (one-third of the year), she has a magical bonus of +5, which doesn’t apply to her Lab Totals; during the signs of Leo, Scorpio, Aquarius, and Taurus (one-third of the year), she has a penalty of –5.''
+
+==(Astrological) Mutable Virtue or Flaw==
+
+''A Virtue or Flaw normally applies all the time, but for some characters, it may only apply to the magus during the four mutable signs of the year, and is known as a Mutable Virtue or Mutable Flaw. (Cardinal, fixed, and mutable signs are defined in Chapter 6: Hermetic Astrology, Appendix — Astrological Correspondences.) Mutable Virtues and Flaws do not mark magic as being Astrological; all that is affected is the time period over which the character is affected.''
+''Mutability affects Major and Minor Virtues and Flaws differently:''
+''For a Major Virtue or Flaw, the effects only apply in mutable signs, and the Virtue or Flaw is reduced to being Minor. (If this is not possible or sensible, then the Mutable variant cannot be applied.) For a Minor Virtue or Flaw, the effects only apply during the mutable signs, but the effect is doubled in intensity. (If this is not possible or sensible, then the Mutable variant cannot be applied.)''
+''Example: Raucus has a Mutable Blatant Gift.: The extra penalties of the Blatant Gift apply only during the signs of Sagittarius, Pisces, Gemini, and Virgo, and he has a “normal” Gift''
+''•''
+''•''
+''during the other eight signs. Mutable Blatant Gift is a Minor Flaw.''
+''Effica has Mutable Puissant Terram. During the three mutable signs she has a double bonus of +6 to her Terram Art, but no bonus during the other eight signs.''
+''As with Cyclic Magic, the bonus from a Mutable Virtue would only apply to Lab Totals if it covered the whole season, but this is never the case.''
+''Virtues and Flaws that normally permit multiple application but with stacking limits (such as Great or Poor Characteristics) count Mutable Virtues and Flaws twice. Thus a magus may have a Minor Virtue Great Strength +1, or twice for Great Strength +2, or a single Minor Mutable Great Strength (+2 when applicable). Each Characteristic is assessed separately.''
+
+==Vulnerable Casting — Common Minor Hermetic Flaw==
+
+''Some magi are better able to withstand the Fatigue loss of casting spells, and some less so. If a maga has this Flaw, then whenever she is about to lose Fatigue from casting a spell, she''
+''loses 1 more Fatigue level than normal. If the spell would have been cast without Fatigue loss, then she still loses no Fatigue.''
+''A maga may have, or acquire, this Flaw more than once, losing 1 extra Fatigue level for each level of this Flaw. If she has Vulnerable Casting (2), then he loses 2 extra Fatigue levels whenever she casts a fatiguing spell.''
+''Magi of the Mercurian cults often succumb to this Flaw, but other magi may suffer from it, regardless of their affiliation.''
+''The Flaw increases the severity of the Fatigue lost, in the exact manner of the existing Fatigue loss. Thus, if a maga casts a Formulaic spell, the Fatigue is short-term Fatigue, easily recovered, and if she runs out of Fatigue levels she is rendered unconscious, loss of extra Fatigue levels results in her being unconscious for one hour for each overflowing level, and so does the Fatigue from Vulnerable Casting. If, on the other hand, she casts a Ritual spell, then this is long-term Fatigue, and losing more Fatigue than she has remaining causes wounds, so the increased Fatigue of Vulnerable Casting does the same.''
+''You may not start your character with both Vulnerable Casting and Withstand Casting, but the maga may acquire either''
+''in the course of play (from Initiation, Ordeals, or Twilight effects). In this case, apply the vulnerability first, then withstand the increased loss.''
+
+==New Mastery Ability — Ceremonial Casting==
+
+''The maga may apply the rules for Ceremonial Casting (ArM5, page 83) to casting this spell. The option does not apply to Ritual spells that already use Ceremonial Casting.''
+''This Mastery Ability is not commonly available to most magi, having been discovered by the Cult of Mercury, but other Mystery Cults may teach it to their members if the cults know the Mastery Ability.''
+''More Mastery Abilities are listed for the Mercurian cults (see Chapter 13: Mercurian Magic), some others of which may be taught outside the tradition.''
+{{OpenArs Attribution}}
+{{ArsMnavbox}}
