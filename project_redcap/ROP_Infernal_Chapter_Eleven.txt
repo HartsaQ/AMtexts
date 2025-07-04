@@ -1,0 +1,258 @@
+''When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations.''
+''There shall not be found among you [any one] that maketh his son or his daughter to pass through the fire, [or] that useth divination, [or] an observer of times, or an enchanter, or a witch,''
+''Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer.''
+''— Deuteronomy 18:9–11''
+''The Ars Goetia (literally, “the howling art”) supposedly originated in the ancient world, and many believe it is derived from the secret arts practiced by Solomon and the Witch of Endor in the Bible. Those who learn the Goetic Arts are usually referred to as sorcerers, a word that has very negative connotations throughout Mythic Europe. For this reason, goetic practitioners might refer to themselves as “summoners” or “thaumaturgists,” terms that are marginally less stigmatized, but this prejudice is difficult to overcome since their Powers tend to be associated with dark spirits of the night and strange, occult forces.''
+
+==The Goetic Arts==
+
+''The Goetic Arts use a study and spellcasting mechanic similar to the Hermetic magic system, though they are actually Supernatural Powers. There are four Arts that make up the Ars Goetia: Summoning, Ablating, Binding, and Commanding. These may be learned like Supernatural''
+''Abilities, though they are opened at 0 instead of 1, and increase as Arts, usually through studying books or learning from a master.''
+''Sorcerers also use Penetration with these Arts, and calculate Penetration much like Hermetic magi or other infernalists. That is, they multiply their Penetration score by a modifier that increases depending upon their sympathetic connection to the target. Like other infernalists, a character using the Goetic Arts may incorporate a sacrifice into his ritual to boost the strength of the effect.''
+
+==Summoning==
+
+''Summoning is the Art of drawing a spirit into the infernalist’s presence, transporting it to him so that he may bargain with it or further target it with his Powers. The sorcerer may summon any incorporeal creature with Might using this Art, and may also affect incorporeal beings who have temporarily taken a physical form through some variation of possession, though he does not summon the body when he does so. The exception to this is demons, which have corporeal bodies made of pure spirit, and so can be summoned with this Art.''
+''To begin, the character must draw a circle upon the ground. Many sorcerers light candles along the sides of their circles, to make it easier to see if the border is unbroken. Other special preparations, such as incense, ritual chanting, or drawing additional shapes inside the circle (a five-pointed star is common), or words around the perimeter, may help him focus his mind on the effect, reducing the dif''
+''ficulty of maintaining his concentration once he has summoned the spirit. This is usually a bonus of +1 to +3 to his Stamina + Concentration rolls, with the higher bonuses requiring more time and specialized materials.''
+''To summon a specific spirit, the sorcerer must have an Arcane Connection to it (for demons, this almost always means that he has memorized its True Name). The Summoning Total is based on his Presence and his score in the Summoning Art, and also incorporates his knowledge of the spirit’s supernatural realm. The Penetration Total is also incorporated into this formula, including the increased Penetration Modifier for having an Arcane Connection.''
+
+===Summoning Total: Stress Die + Presence===
+
+
+===+ Summoning + (Realm) Lore + Aura +===
+
+
+===(penetration X Penetration Modifier)===
+
+''If the sorcerer is summoning a demon, add his (Hierarchy Score x 5) to the Summoning Total, and the storyguide adds the demon’s (Hierarchy Score x 5) to the Target Level.''
+
+===Demon Summoning: Summoning Total===
+
+
+===+ (Sorcerer’s Hierarchy Score X 5) Vs.===
+
+
+===Target Level + (Demon’s Hierarchy===
+
+
+===Score X 5)===
+
+''The character can instead summon a non-specific spirit from the surrounding area, by throwing his sorcery like a net into the ocean and pulling in whatever he catches. This is called scouring. He draws upon his knowledge of the area to call a spirit to him, with very little control over what sort of spirit responds. He usually attracts a spirit affiliated with''
+
+=Ars Goetia=
+
+''the same realm as his Summoning Power, with Might approximately equal to half his Summoning Total, though he is more likely to summon a spirit that is nearby than one that is farther away. If used in a supernatural aura, he probably summons a spirit associated with that aura’s realm.''
+''Scouring the Dominion or areas with no supernatural aura has a tendency to turn up demons with disturbing frequency, as low-ranking ones are fairly common in these places. They may not necessarily appear as demons, for many of them can hide their true form. Thus, it is usually unwise to scour an area without some idea of what sort of creature will be summoned.''
+
+===Scouring Total: Stress Die + Presence + Summoning + (Area) Lore + Aura +===
+
+
+===Penetration===
+
+''The amount of time it takes to make contact with a spirit varies depending upon the distance between it and the sorcerer; if it is in the same general region (the same forest, city, or battlefield, for example) it only takes a few minutes, but it can take hours to reach a spirit that is more than a day’s travel away, and several days or even weeks to contact a spirit in another country. During this time, the sorcerer must maintain his concentration or the summoning fails, and the effort always costs him a Fatigue level.''
+''When you have determined the final total, the storyguide should compare it to the spirit’s Might score. If the sorcerer’s total is at least double the Might, the spirit is summoned and appears within the circle where the caster can see it. It can hear him, and he can hear it when it speaks. It must remain there until he dismisses it, sending it back to whence it came and ending the summoning, or until the next midday or midnight, whichever comes first.''
+''If the Summoning or Scouring Total is not double the spirit’s Might, but is at least equal to the spirit’s Might, the spirit is summoned, but the sorcerer must maintain concentration on the effect or the spirit is free to remain or depart whenever it likes. It is only perceptible for as long as he concentrates, so that if he breaks his concentration it may become invisible''
+''and continue to lurk nearby while seeming to depart.''
+''While the spirit remains in the circle, it cannot affect the sorcerer or anything else outside the perimeter with its Powers. Often an angry spirit waits invisibly within a hastily drawn ring until it erodes or collects enough dust to break the line, and then exacts its revenge upon the sorcerer or anyone else nearby upon being freed. The sorcerer can also lower his ward briefly by concentrating, in order to allow an effect through, much in the same way that a magus can allow an effect to pass his Parma Magica.''
+''A botch on the Summoning roll might summon a different spirit than the one he intended, or summon a demon pretending to be his target. It could also mean that the circle or summoning ritual is flawed, so that while the spirit is summoned, there is nothing preventing it from attacking. Or, the summoning might simply cause the sorcerer to gain Warping Points and perhaps force a check for Vituperation.''
+
+===Summoning Or Scouring Target Level:===
+
+
+===Spirit’s Might X 2===
+
+''Once he has summoned a spirit, the sorcerer has many interesting options concerning what to do with it. The most common activity is to bargain with it. He offers it something it wants in exchange for its assistance, and it decides whether or not to help him. It is best to roleplay this process, but if a mechanic is needed, a contested Communication + Bargain roll is appropriate, modified by any appropriate Reputations. Spirits may be highly offended if they are disturbed to no worthwhile purpose, so it is wise for a sorcerer to prepare something worthwhile in trade before beginning a summoning.''
+''A sorcerer may also use this opportunity to affect the spirit with his other Powers, such as Ablating, Binding, or Commanding, each of which is described below. These Arts are more effective on a spirit that is held in a summoning circle, and if the spirit is free it will probably depart rather than submit to the effect, unless it has agreed to it as part of a bargain or trade.''
+''Note that if the Summoning or Scouring Total was not at least double the Target Level, then interacting with the spirit in any way, even simply talking with it, requires a Stamina + Concentration roll to maintain the circle (see the Concentration Table, ArM5 page 82). As stated above, there are trappings the sorcerer can integrate into the effect that make it easier for him to maintain concentration, but it is better not to have to roll, as there is always the chance of a botch.''
+
+==Ablating==
+
+''Ablating is the process of tearing at the spirit, grasping at it, and stealing away some of its essence, making the sorcerer stronger and leaving the spirit significantly weaker. This is always an Infernal Power, and it always aggravates the spirit, because it permanently reduces its Might Score, and any time the character uses it''
+
+[|
+
+==Summoning and Other Realms==
+
+''The Art of Summoning is not necessarily an Infernal Power (though Ablating, Binding, and Commanding are); like other Supernatural Powers it is often associated with Magic or Faerie, and uses one of those columns on the aura interaction chart. However, because of its sinister associations with spirits and the underworld, Summoning is always tainted — Divine Powers of investigation perceive its use as unholy, even if it is part of another realm. Yet it is still very appropriate for characters who practice necromancy, summon nature spirits, or study the magical mysteries of theurgy and synthemata (see The Mysteries Revised Edition). Future Ars Magica supplements may include other forms of Summoning that are not unholy by association (such as those that call faeries or animals), with related summoning Arts that characters can use to bind them to service.''
+
+|]
+''he almost certainly gains an enemy for life (and perhaps beyond). Spirits never agree to this sort of effect as part of a bargain.''
+''During the ablation, the sorcerer must endure powerful forces as they are drawn into his body, and knowledge of the spirit’s supernatural realm improves his ability to adapt to them. If you botch the stress roll, the character will almost certainly suffer Vituperation.''
+
+===Ablation Total: Stress Die + Stamina + Ablating + (Realm) Lore + Aura + (Penetration X Penetration Multiplier)===
+
+''To achieve results, the Ablation Total must exceed the spirit’s Might Score if it is held within a summoning circle, or exceed double its Might Score if not. If ablating a demon, you may add the character’s (Hierarchy Score x 5) to the Ablation Total, and the storyguide should also add the demon’s (Hierarchy Score x 5) to the Target Level.''
+
+===Ablation Target Level: Spirit’s Might, Or===
+
+
+===Spirit’s Might X 2===
+
+''Note the amount by which the Ablation Total exceeds the Target Level. The storyguide subtracts this amount from the spirit’s Might Score, permanently''
+''weakening it, and the character receives a number of Ablation Points equal to this number divided by five, rounded down. If this total is greater than the spirit’s Might Score, use the Might Score instead.''
+
+===Ablation Points: (ablation Total – Ablation Target Level) / 5, Or Spirit’s===
+
+
+===Might / 5===
+
+''These Ablation Points may be spent on one of the effects that follow, which represent the different ways the sorcerer can channel the spirit’s power and so harness the Might he has drawn from it. Unless stated otherwise, all of these effects are permanent.''
+''Confidence: The sorcerer gains this many Confidence Points, though no more than his (Confidence Score x 5). You can also spend these Ablation Points on his Confidence Score like experience points, increasing it as if it were an Ability. Capability: You may spend Ablation Points on appropriate Characteristics, just like the points received during character creation or from the Good Characteristics Virtue. These cannot raise his scores above the spirit’s scores.''
+
+===•===
+
+
+===•===
+
+''Health: The sorcerer can instantly heal his injuries: 5 points heals a Heavy Wound, 3 points heals a Medium Wound, and 1 point heals a Light Wound. One point can also immediately restore a long-term Fatigue level. Immortality: Add this amount as a Longevity bonus to the sorcerer’s Aging rolls (though not those associated with Vituperation). This bonus is not cumulative, and lasts only until he suffers an aging crisis. Insight: The sorcerer receives some of the spirit’s thoughts and memories, giving insight into its plans, background, and intentions. The more Might drawn from it, the more the character knows. Knowledge: The sorcerer gains five times as many experience points in an appropriate Art or Ability, though this cannot exceed the spirit’s own scores. This supersedes any other study the character may be engaged in during the season, as the new knowledge distracts him from other projects. Might: The sorcerer gains this many points of Infernal Might (even if the spirit is actually associated with another realm), though this amount cannot exceed the spirit’s former Might Score or your (Confidence Score x 5). Some characters cannot do this; see Chapter 9: Infernal Characters, Characters with Might Scores for restrictions on which sorts of characters can have Infernal Might. Power: The sorcerer gains a Power possessed by the spirit or appropriate to the spirit’s nature. If the sorcerer has Infernal Might, he may activate the Power with it. If he does not have Infernal Might, it manifests as an appropriate Virtue or Flaw instead. Vis: The sorcerer extracts this many pawns of vis from the spirit, of an Art appropriate to its nature. This vis is always Infernal, usually vis sordida or vis prava (see Chapter 1: The Infernal Realm, Infernal Vis).''
+''The character also increases an appropriate Infernal Reputation by this''
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+[|
+''Knowingly dealing with demons is a very dangerous proposition, for without supernatural safeguards that force compliance they are under no obligation to follow through on their promises and in fact are very likely to betray the sorcerer. The payment they expect in exchange for their services is usually blatantly sinful, consisting of sickening requests like desecrating a church or slaying an innocent. If that weren’t enough, demons often turn the tables and threaten the sorcerer instead, proposing bargains such as “Burn down the village, or I’ll convince everyone in the region that you raped your sisters — even if you don’t have any sisters!” Demons have great power at their disposal, but it is very difficult to get anything from them without performing''
+''horrible acts that go beyond the pale in return.''
+''Some clever demons may be more subtle. They might agree to aid a sorcerer for a relatively low price in order to corrupt him, to make him believe that demons “aren’t so bad,” or to maintain an illusion of belonging to another realm. Of course, doing evil includes its own penalty, for simply allowing himself to be affected by an Infernal Power stains the character’s soul, even if he did not know he was dealing with a demon, and no bargain is bad for the demon if it means the character comes out a sinner. Once it has established a relationship with the sorcerer and made him dependent upon its aid, it is much easier to step up the pressure and lead him into full-scale depravity and corruption.''
+
+==Bargaining with Demons==
+
+
+|]
+''number of experience points, and gains a Warping Point for experiencing a powerful supernatural effect.''
+''After the ablation, if the spirit has not been destroyed, it is immediately returned to the place from which it was originally summoned. If it knows who the sorcerer is or where to find him, he can expect that its revenge will soon follow.''
+''This is a very fast way to gain status in Hell, as infamy is just as good as respect among demons. Many characters find the benefits of ablation are powerful enough to tempt them to cross the line separating “kill the demons” from “take their stuff.”''
+
+==Binding==
+
+''Binding is the Goetic Art of changing a spirit so that it becomes part of a person or thing. The sorcerer forces the spirit into the target, changing it to conform to its new size, shape, and nature. This requires a cunning mind, and knowledge of the spirit’s realm is also helpful. Botching this sort of effect may damage the spirit, or ruin the target, or perhaps cause the spirit to join with another target instead.''
+
+===Binding Total: Stress Die + Intelligence===
+
+
+===+ Binding + (Realm) Lore + Aura + (Penetration X Penetration Multiplier)===
+
+''To succeed at binding a spirit within a summoning circle, the sorcerer must exceed its Might Score on his Binding Total, though if the spirit is accommodating and allows the effect without resisting, he must simply avoid botching. If it is not in a summoning circle, he must double its Might Score, or merely exceed its Might if it does not resist. If binding a demon, he may add his (Hierarchy Score x 5) to his Binding Total, and the storyguide should also add the demon’s (Hierarchy Score x 5) to the Target Level.''
+''Binding Target Level: spirit’s Might If the binding is successful, the spirit cannot leave the target, though unlike the effects of a demon’s Possession Power, the spirit may regain Might and activate any of its Powers while it is bound. It is also aware of its surroundings; it can use the binding target’s senses to hear or see what''
+''is said in its presence or feel when the target is touched. Most spirits can even communicate with the target; if bound to a person, they can usually spend a Might Point to speak directly into his thoughts. However, they essentially become part of the target, and while there they cannot be detected.''
+''There are several inherent benefits of binding a spirit in this way. Most notably, a person with a spirit bound to him, or who is touching an object with a spirit bound into it, can harness the spirit’s Might as Magic Resistance. Any number of spirits may be bound to a single target, but only the strongest Might Score may be used as Magic Resistance, and this value is not cumulative with any other sort.''
+''A spirit bound to an object acts as a sort of anchor for other Infernal effects, including maleficia. This is similar to the way Hermetic magi prepare an object as an invested device. The binding can hold a number of spell levels equal to the spirit’s (Might x 5); the sorcerer must devote a season to preparing the spirit for the effect and must then successfully perform the ritual that casts it. Use the laboratory rules (ArM5, pages 95–100) to determine the number of uses per day, whether the spirit maintains concentration, and so on. Hermetic magi may treat a bound spirit as if the object were an invested item already opened for enchantment, with a number of pawns of Vim vis equal to the spirit’s Might.''
+''When a spirit is bound to a person, that person may learn to take advantage of its Abilities over time. The character may spend experience points on Abilities he shares with the spirit as if he had an Affinity with that Ability, so long as the spirit has a greater score. Also, if the character can learn a Supernatural Ability possessed by the spirit, when he studies it he may halve the study penalty that is normally applied.''
+''In addition, a character with a spirit bound to him may learn to use the spirit’s Powers and Might Points. Each Power is learned like a Supernatural Ability, though there is no learning penalty for having other Powers. Once the Power is gained, the character may spend experience points on it, increasing his score in it like an Ability. When the character''
+''has reached a score in the Power equal to the number of Might Points necessary to activate it, he may use it as if he were the spirit, spending the spirit’s Might Points as if they were his own.''
+''Except when experiencing Vituperation, a character with a spirit bound to him need not make any Aging rolls, as his life is extended by the spirit’s Might. However, he gains a Warping Point every year for being under a constant supernatural effect. Also, an infernalist who binds a demon to himself usually gains an Infernal Reputation at a rank equal to the bound demon’s Hierarchy Score. Finally, the person must treat the spirit’s Personality Traits as if they were his own, and often finds himself acting in response to the spirit’s suggestions.''
+''If the person or thing to which a spirit is bound is destroyed, the spirit is released. For an object, it is usually sufficient to break it into pieces, though crushing it into dust is safer. Animals and people must be more thoroughly destroyed, usually by cremation, because a possessing spirit can take over a body when its original spirit leaves it for any reason, including unconsciousness, Vituperation, and death.''
+''Very few spirits agree to a binding; those that do usually expect something of great value in exchange for their sacrifice. Spirits who have been bound for a long time are often very bad-tempered and disoriented when released from their imprisonment and are as likely to attack their liberators as thank them.''
+
+==Commanding==
+
+''With the Commanding Art, the sorcerer may issue a command to a spirit, which it must obey. This requires him to draw upon his skill at communicating his desires, and also draws upon his knowledge of the spirit’s realm. If the roll botches, this may release the spirit from his control, anger it, or weaken him.''
+
+===Commanding Total: Stress Die + Communication + Commanding + (Realm) Lore + Aura + (Penetration X===
+
+
+===Penetration Modifier)===
+
+''To command a spirit in a summoning circle, the sorcerer must exceed its Might Score on his Commanding Total, although if the spirit has agreed to follow his instructions (perhaps as part of a bargain) and allows the effect to pass through its Magic Resistance, he only has to avoid botching. If the spirit is not within a summoning circle, he must double its Might Score, or only exceed it if it does not resist. If the summoned spirit is a demon, add his (Hierarchy Score x 5) to his Commanding Total, and the storyguide should add the demon’s (Hierarchy Score x 5) to the Target Level.''
+
+===Commanding Target Level:===
+
+
+===Spirit’s Might===
+
+''The spirit only remains under the sorcerer’s influence until it has completed its task, at which point it is free to return to the place from which it was summoned. However, there is usually a brief window of time before the spirit departs, enough time for the sorcerer to elaborate upon this task if he is present; a command such as “Kill a pig and bring it to me” can be followed up with a related command such as “Roast this pig for me” without releasing the spirit from its service.''
+''A command has force for only a short while, however, only until midday or midnight, and all commands must be reissued at those times if the task is not yet finished. Again, there is a short period of a few minutes before the spirit departs in which the sorcerer may reinforce the command if he is present. Thus, open-ended commands such as “Guard this door” only remain in effect for a short while without the sorcerer’s periodic involvement.''
+''The most common command is “Follow me.” This instructs the spirit to travel peacefully behind the sorcerer until he issues it another command that discharges it from its obligation. He does not need to renew this command each day, though if he travels to a place where the spirit cannot follow, the spirit is freed. Powerful summoners are often accompanied by great assemblies of such spirits.''
+''Other common commands include:''
+''“Advise me:” Any spirit summoned can be compelled to answer ques•''
+''tions truthfully, though it may omit facts or mislead the sorcerer in other ways. Once he has his answer, the spirit is released. “Aid me:” The spirit joins with the sorcerer for the duration and increases one of his Characteristics, Abilities, or Arts up to its score. “Begone:” The spirit returns to the place from which it was summoned, but in its incorporeal state, and cannot take a physical form for the remaining duration of the command. If the spirit had possessed a person or was bound to an object, this essentially frees it. Some spirits may be grateful for this, others enraged. “Commune with me:” The spirit joins with the sorcerer and shares its memories for the duration of the command, allowing him to perceive past events from its point of view. In this way he may also see visions of the future, though this is based upon what the spirit imagines will happen, based on current events, and not any sort of supernatural truth. “Glorify me:” The sorcerer gains an Infernal Reputation, at a rank equal to the spirit’s Hierarchy Score, for the duration of the command. “Heal me:” The spirit temporarily patches a single wound, though it reopens after the command ends. “Journey:” The spirit travels to any place the sorcerer specifies, assuming it has the power to do so and knows how to reach it. Many Infernal spirits can travel to a place instantly if given an Arcane Connection to it, and cover ground much more quickly than a person. “Perform for me:” The spirit attempts to use any of its Powers or Abilities as directed, usually to achieve some particular goal. “Protect me:” The sorcerer joins with the spirit and gains its Might Score as Magic Resistance. This is very similar to having the spirit bound to him as in Binding, above, except that it is only a temporary effect, and must be renewed twice each day. “Return peacefully:” The spirit returns to the place from which it was summoned, and from then on''
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+===•===
+
+
+===•===
+
+''cannot harm the sorcerer directly unless he summons it again. “Teach me:” The spirit instructs the sorcerer in an Ability. If the command is renewed twice each day for a season, this experience is Teaching experience, otherwise this instruction may be treated as an Adventure source, though the sorcerer cannot exceed the spirit’s score in the Ability he studies.''
+''Actions can be combined, as in “Journey to Semita Errabunda and slay Moratamis,” but they must be succinctly stated in one command. Demons are notoriously crafty with words and delight in twisting instructions so that they have unintended consequences. Spirits also retain their discretion, and unless clearly instructed otherwise can carry out the commands as they think best. Thus, an instruction like “Destroy yourself” may not be effective, as the spirit can plan and execute the instruction very slowly, ensuring it does not succeed before the command’s duration expires.''
+
+===•===
+
+''Most spirits do not like being commanded without receiving something in return, and usually bear a grudge against the sorcerer if they have been held in service to him for a particularly long time.''
+
+==Mythic Companion: The Summoner==
+
+''The first sorcerers were most likely the Sho’elim ‘ov — literally “spirit borrowers” or “spirit consulters.” They were Jewish summoners and necromancers versed in the occult, who are even mentioned in several chapters of the Bible. The men and woman of this sinister profession dwelt on the perimeters of society, and were often depicted as villains and monsters in Jewish fables, because their ability to contact and speak with the dead was expressly forbidden by the holy laws of the Torah.''
+''Their dark arts spread to other cultures, however, and by 1220 a sorcerer''
+''is not exclusively a sho’el ‘ov. Characters versed in the secrets of sorcery may be found in many different areas of the world, though they are rarely admired or respected, and are usually considered outsiders and pariahs wherever they go. In most cases they live as hermits, looked after by the many ghostly servants they command, and those who can see spirits might witness these shapes gathering around the master in a sort of spectral pack. They often nurse their envy and pride, scorning the people who do not have their gift or their curse, but they are too proud of their Arts to forgo them.''
+''Sometimes children are born with a knack for commanding and summoning spirits that they increase through practice or Infernal tutelage, but most summoners learn from a master, and are usually bound to his service until he dies. Many of these summoners have a ghostly warder that acts as their familiar spirit, though its concern for them is not necessarily mutual. It is often the case''
+''that the spirit is bound to the summoner against its will, and in many cases this spirit is the summoner’s former master. In any case, the summoner may often learn additional secrets about the spirit world from this ghostly mentor.''
+''Required Virtues: A Summoner must begin with the following Virtues:''
+''Summoner (Free – Special Virtue) Summoning (Major, Goetic Art)''
+''In addition, the character receives one of these Minor Virtues at no cost:''
+''Arcane Lore (Minor, General) Student of (Infernal) (Minor, General) Wise One (Minor, Social Status)''
+''If the character takes the Major Flaw Diabolic Past or the Major Virtue Demon Blood, he may substitute another Minor Virtue in place of this one.''
+''• •''
+''• •''
+''•''
+
+[|
+''Characteristics: Int +3, Per +3, Pre +1,''
+''Com +1, Str +2, Sta 0 (1), Dex –1 (1), Qik 0 (1) Size: 0 Age: 40 (30) Decrepitude: 0 Warping Score: 0 Confidence Score: 1 (3) Hierarchy Score: 1 Virtues and Flaws: Summoner; Summoning; Arcane Lore (free), Improved Characteristics (x3), Intuition, Magic Sensitivity, Sharp Ears, Second Sight, Well-Traveled, Wilderness Sense; Pagan; Outcast, Oversensitive (oppression of the weak), Social Handicap (dour) Personality Traits: Clever +3, Shrewd''
+''+3, Honorable +2 Reputations: Hard Trader 3 (Lithuania),''
+''Honorable 2 (those with whom he has traded), Shrewd 1 (Infernal) Combat: Fist: Init 0, Attack +2, Defense +3,''
+''Damage +2 Knife: Init 0, Attack +4, Defense +4,''
+''Damage +4''
+''Axe: Init +1, Attack +7, Defense +4,''
+''Damage +8 Soak: 1 (fur) Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10),''
+''–5 (11–15), Incapacitated (16-20) Abilities: Arabic 2, Artes Liberales 1''
+''(Latin), Bargain 4 (airy spirits), Brawl 3 (knife), Charm 3 (customers), Concentration 2 (summoning), Folk Ken 3 (customers), French 2, German 2, Infernal Lore 3 (spirits of sickness), Intrigue 3 (hedge wizards), Italian 2, Latin 3, Lithuanian 5, Magic Lore 4 (airy spirits), Magic Sensitivity 3 (beasts), Penetration 2 (Summoning), Russian 2, Second Sight 3 (airy spirits), Single Weapon 3 (axe), Survival 2 (forest), Wilderness Sense 2 (at night) Arts: Summoning 10 Equipment: Dagger, axe, fur coat, sum''
+''moning ritual materials Encumbrance: 0 (3) Appearance: Nicolai is a middle-aged''
+''Slavic man with dark hair and a moustache. He dresses as a prosper''
+''ous peasant of the region, with a coat made of wolf pelts, robes, and breeches tied at the ankle.''
+''Nicolai grew up in a small Lithuanian village. His parents, like many in their village, followed the old pre-Christian religion of the area. Nicolai shares this faith, but is understandably reticent to discuss the fact. When he was a youth, his village was destroyed by the Christian knights in one of their periodic “crusades” against Baltic pagans. He became a wanderer, seeking knowledge, power, and fortune. While in Kiev he caught the eye of a wandering merchant who was also a summoner. Nicolai traveled with him for many years, finally setting out on his own. He has become a successful merchant, using his skill at driving bargains to his advantage. For a price, he summons spirits and bargains with them, but only when the reward is enough to make it worth his while. His sins are usually associated with greed and avarice, though he is relatively virtuous and does not like associating with Infernal spirits if he can avoid it.''
+
+==Nicolai, the Summoner==
+
+{{OpenArs Attribution}}
+{{ArsMnavbox}}

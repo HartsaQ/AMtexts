@@ -1,0 +1,523 @@
+
+=The Maleficia=
+
+''The evil powers that most infernalists practice are called the maleficia (plural, roughly “evil crafts”). This term refers to Infernal effects that resemble Hermetic spells, which require two Supernatural Abilities to cast: a Method, which describes what the infernalist must do to bring about the effect and also determines which Characteristic applies to his total, and a Power, which describes the sorts of effects that this activity produces. These combine together in a formula very similar to that of Hermetic magic.''
+
+===Maleficium: Stress Die + Characteristic===
+
+
+===+ Method + Power + Aura Bonus===
+
+''When a character wishes to cast a maleficium, he must first describe his intended effect. This includes choosing a Method and a Power, and deciding the effect’s Range, Duration, and Target. Maleficia use the same parameters as Hermetic magic, defaulting to Range Personal, Duration Momentary, and Target Individual, and these are modified in the same way. A given effect is compared to the guidelines that follow to determine the target level, and the player adds up his character’s scores and rolls a stress die. If this total is greater than or equal to the target level, the effect spontaneously manifests as intended.''
+''If the total is short of the maleficium’s Target Level — or worse, if the character should botch — very bad things happen. Hell maliciously wreaks its havoc upon the would-be infernalist. Treat a failed roll as one botch for each ten levels or fraction thereof that the infernalist is lacking. This is very similar to botching a Hermetic spell, and''
+''the severity of the negative effects varies depending upon the severity of the botch. The character also receives one Warping Point for each botch or ten levels short, and if a character gains two or more Warping Points from this, he must check for Vituperation (see Chapter 9: Infernal Characters: Vituperation).''
+''Characters can mitigate these circumstances somewhat with their Hierarchy Score. The infernalist may substitute his (Hierarchy Score x 10) for his Maleficium Total, but only for the purposes of determining the consequences of failing the roll. For example, suppose an infernalist attempts an effect of level 30, but only rolls a total of 18. Normally, he would gain 2 Warping Points and would have to check for Vituperation, but if he had a Hierarchy Score of 3, he would be safe, suffering no ill effects. If he had a Hierarchy Score of 2, he would gain only 1 Warping Point, and would suffer the penalties of only one botch.''
+''After enduring any of these other penalties for failure, an infernalist who actually botched the maleficium roll has one season to secure a soul for Hell. That is, he must see to the death of a person who is in a state of mortal sin, ensuring that she does not repent at the last minute. If he does not manage to achieve this within a season, the Devil takes his due — the infernalist character dies instead, his heart stopping as soon as his time expires. Some infernalists, when faced with this situation, use the time to seek redemption, hoping to escape eternal torment by God’s grace, but very few of them succeed at this, and most of them prefer to continue living and so seek out another to take their place.''
+''Selfless acts committed using maleficia come with an inherent punishment for abusing Hell’s power. Treat the infernalist as if he possessed the Vengeful Powers Flaw (see Chapter 9: Infernal Characters); this ensures that whenever the character does something virtuous with his unholy Methods and Powers, there are evil consequences. This is not necessarily the case when the character does something that is not obviously sinful, but acts such as helping holy characters or selflessly serving the greater good always come with a price.''
+''Maleficia are evaluated like other Supernatural Powers when they encounter Magic Resistance, and are considered Vim effects for the purposes of Form bonuses. They are affected by auras as the Infernal column on the realm interaction chart, and use the same rules as Hermetic magic for maintaining concentration, targeting, timing, Penetration, and so on. A maleficium does not necessarily take any longer than a Hermetic spell to cast, though some Methods require additional preparation time and are thus impossible to do quickly.''
+
+==Unholy Methods==
+
+''The two Methods associated with the maleficia are known as Debauchery and Incantation. These are essentially the “Techniques” of Infernal effects; they describe what the infernalist must do to summon the power of the Infernal realm.''
+
+==Debauchery==
+
+''Debauchery means that the character must perform an evil ritual to cast the maleficium, requiring her to corrupt her own body, indulging in sinful activity with such passion that she suffers a long-term Fatigue level or Light Wound. This ceremony allows her to summon the necessary power for the effect from within herself, from her passion and desires boosted by the rush of excitement that accompanies committing evil acts. This uses the character’s Stamina with the maleficium roll.''
+''This Method is slow when used with fatigue, as it generally takes about two minutes for the infernalist to put herself in the proper frame of mind. The necessary expenditure of energy sometimes comes from performing the activity associated with the sin, but more often it comes from the infernalist’s vehemence and passion; for example, she might concentrate so powerfully on reliving her sins that she''
+''tires herself. The infernalist may instead choose to suffer a wound, perhaps cutting herself to summon emotion with''
+''sharp pain, and this is a much quicker technique, comparable to the speed of Hermetic magic.''
+
+[|
+''Because of the unusual properties of effects powered by the Infernal realm, there are a few additional spell parameters for maleficia, in addition to those included in the rules for Hermetic magic. These parameters are described below. Any infernalist can incorporate these into a maleficium when designing the effect.''
+''Crossroads (Range): The Devil is known to favor places where one road crosses another, perhaps because they represent a choice between two paths. This Range allows the character to affect a target that is on a road, from another road that intersects it, and is otherwise like the Faerie Magic Range: Road (ArM5, page 92) save that any number of roads can cross each other with this Range. Note that the Infernal caster cannot affect targets on the same road as him. It is most effective when cast at an intersection, since there it can affect targets on either road. Range Crossroads is considered the same level as Range Voice.''
+''Cursed (condition) (Duration): Instead of causing an effect to take place immediately, the infernalist can cast it as a conditional effect using this Duration. This ensures that the effect only manifests in response to an uncommon circumstance that is clearly outlined for the victim as part of the spell. For example, a set of curses might specify that a curious maid will suffer horrible pain if she ever tells anyone about a particular ceremony she witnessed, or says the caster’s name, or sets foot in a church. The effect of the curse can also target something other than the person affected by the condition, as long as both targets are within range of the effect when it is cast. For example, a nobleman might be cursed that his daughter will die if he ever confesses his sins. If either the target or the victim has Magic Resistance, the effect must penetrate at the time of casting to have any effect, and it may be dispelled through Powers that undo other Powers before the effect comes to pass. Duration (condition) is the same level as Duration''
+''Sun, but also requires a second Duration to describe the triggered effect.''
+''Forsaken (Duration): The effect comes into being instantly and is essentially permanent, lasting for as long as the target remains tainted with the power of the Infernal. Repentance on the part of the target cancels the effect immediately, and may sometimes make it as if the effect had never happened. Duration Forsaken is the same level as Duration Year, though like a Momentary ritual it cannot be dispelled.''
+''Passion (Target): An effect with this Target acts on a group of people through their passions, affecting only those inclined towards a particular virtue or vice, which is integrated into the spell. Each character within the targeted area must roll a simple die and add or subtract any appropriate Personality Traits. Anyone with a total of 6 or higher is affected. Target Passion is the same level as Target Group, and is similarly modified by the size of the affected area.''
+
+==Infernal Ranges, Durations, and Targets==
+
+''Richard of Glastonbury (see below) intends to grant himself an Infernal blessing, the power to tell good from evil. This will be represented by his gaining the Supernatural Ability of Sense Holiness and Unholiness. This is a base 15 Incantation/Diablerie effect, and he will cast it with Personal Range, Forsaken Duration, and an Individual Target, making it a Level 35 maleficium. Incantation is associated with Communication, and Richard’s score is 5. He will recite corrupted passages of scripture (Incantation 5 + 1 for his specialty) to invoke his Infernal blessing (Diablerie 5 + 1 for his specialty), from within a Level 5 Infernal aura. He must spend a point of Confidence to activate the effect, and may also spend up to two additional points if needed, for''
+''a +6 bonus. This gives him a casting total of 22 before rolling, and he needs a 7 or better to succeed.''
+''Alas, his player rolls a 0, a potential botch. He must roll six dice, one plus five for the aura, and luckily for him none of these dice are botches. However, his casting total is still only 22, which is less than the Target Level – 10. This would cause him to suffer the effects of two botches anyway, giving him 2 Warping Points and forcing him to check for Vituperation. He thus spends a Confidence Point to bring his total up to 25, which is just enough to ensure he suffers only one botch. He gains a Warping Point, and finds he is temporarily Tainted with Evil, as if he had the Minor Flaw.''
+
+==Example: Richard of Glastonbury==
+
+
+|]
+''As part of this Method, the character may also perform unholy rituals that last longer than usual, potentially increasing the effect total over time, usually several hours, days, or even weeks. When the character has finished the activation ritual, she does not have to roll the die, but may instead begin the ritual again, paying the same costs as before. This allows her to spend additional Confidence Points on the effect — normally, a character can only spend as many Confidence Points on''
+''a single action as her Confidence Score. Each time she extends the ritual, treat it as a new action, allowing her to spend additional Confidence Points to boost the effect (though extending the ritual also adds one extra die to the potential botch pool). You only roll the die once for the whole ritual, when you declare that it is finished.''
+''In addition, this Method allows her to extend the length of the casting ritual even longer, so that she is performing the''
+''maleficium over the course of an entire season. This allows the character to add her Infernal Lore to the total, just as magi add their Magic Theory to their Lab Totals. Like a laboratory activity, this limits what else the character can do during that season, since she must spend most of the time committing the sinful acts necessary for the effect; but when the ceremony is completed you do not roll a die — there is no chance you will botch the roll. If you pay the costs of the ritual multiple times, she may still spend additional Confidence Points during the season.''
+
+==Incantation==
+
+''The infernalist chants words of power or names of spirits, drawing upon the power of the Infernal realm directly, and uses his Communication for the roll. This costs him a Confidence Point; he must focus his will upon his maleficium to channel the forces of Hell. Alternatively, he may gain a Warping Point, if he commits a sin appropriate to one of his Personality Traits while performing the rite (using the rules for gaining Confidence in Chapter 2: Sin and Redemption, Gaining Confidence through Sin). Note that this cost does not count against the number of Confidence Points he may spend on a particular action — he may spend as many Confidence Points as his Confidence Score on the roll, if he so desires.''
+''Incantation also allows him to recognize vis, and make use of vis in his rituals, in much the same way as Hermetic magi use vis to boost their spells. Each pawn of vis he expends while casting the maleficium gives him a +2 bonus to his casting total, so long as the type of vis is somehow appropriate to the effect. The number of pawns he can use in a single maleficium is limited to his (Incantation + Power). Also note that this vis should be infernal in nature; magical or faerie vis is unpredictable when used for these purposes and at the very least contributes twice as many botch dice. Vis associated with the Divine cannot be used at all, unless it has been profaned (as described in Chapter 9: Infernal Characters, Profaning the Holy).''
+
+[|
+''Since the formula for maleficia uses Abilities rather than Arts to generate a casting total, and Ability scores of greater than 5 are rare, infernalists are usually limited to fairly low-level effects. However, there are several things they can do to boost their totals in special circumstances, to give them an edge when it really matters. These include:''
+''Ceremony: A group of infernalists with a strong leader is a force to be reckoned with, as they can pool their power. All participants contribute their scores in the associated Method to the total, and if they are especially skilled at working as a group, they can also generate additional bonuses.''
+''Confidence: The ability to extend the length of the ritual and spend more Confidence gives the infernalist the opportunity to accumulate a lot of Confidence Points through sin and then''
+''spend them all to boost one powerful effect.''
+''Hierarchy: Infernalists with great repute or infamy in Hell can aim for relatively high-level effects, relying on their Hierarchy scores to protect them from the consequences should chance fail them.''
+''Sacrifice: A ritual sacrifice comes with a bonus that ranges from a minor increase to a significant boost, and any infernalist can do this.''
+''Vis: Vis is just as valuable to infernalists as it is to magi, perhaps even more so, as they can use it to boost their casting totals. This is strong incentive for them to profane holy relics, meddle in the affairs of magi, and even kill demons.''
+''Multiple: Any or all of these techniques can be combined to allow for truly impressive effects.''
+
+==Powerful Maleficia==
+
+''These Methods and Powers are not intended to be the final word on Infernal abilities in Mythic Europe, and storyguides should feel free to design additional Methods and Powers if they wish. For mechanical reasons, each new Method must be associated with at least two Powers, and each new Power must use at least one Method. Methods usually have a minor side benefit, in addition to enabling maleficia, and of course must specify a Characteristic to be used in the total.''
+''Instead of creating a whole new Method, you might prefer to simply base a new Ability on an existing Method, associating it with a different activity. For example, there might be a form of Incantation that involves chanting dissonant songs in praise of Hell. Instead of costing the infernalists Confidence, it might be that they must perform to a certain level of skill, first succeeding at a Presence + Music roll against an Ease Factor of 9. This Method would otherwise pair with the different Powers as Incantation normally does.''
+
+==New Methods and Powers==
+
+
+|]
+
+==The Infernal Unholy Powers==
+
+''There are six unholy Powers, each of which is combined with an unholy Method to describe an effect. They broadly describe the sort of things an infernalist can do with the supernatural force he generates. Included below are guidelines for each Method and Power combination, and sample effects that give ideas of the maleficia that infernalists might cast.''
+
+==Consumption==
+
+''Infernal powers cannot create anything real, they can only twist, corrupt, and destroy. Consumption is thus the capability to draw upon the life and health of living beings and turn it to evil purposes. Through Debauchery, an infernalist can transform flesh and blood, changing the shape of his body and spirit; Incantation makes it possible for him to steal life from others, healing and restoring himself at their expense.''
+''Failure tends to negatively affect the infernalist, as Hell deforms the body and mind. He might find himself trapped in an inferior shape, deformed or mutilated, or he might even suffer Vituperation.''
+
+===These Shall Give Their Power===
+
+
+===And Strength Unto the Beast===
+
+''Debauchery, Consumption, Level 20 R: Touch, D: Mom, T: Ind The infernalist performs a ritual of corrupting the body, involving at least one other person, that permanently increases the target’s Strength score by 1, though''
+
+[|
+''When these guidelines refer to a victim, they usually mean a second living target within range of the effect. This is usually a person, though it can affect an animal by adding an additional magnitude to the effect, or a plant by adding two magnitudes — plants usually simply wither and die when affected by these powers. The victim can even be the caster, as he is always within range. If the victim has Magic Resistance, the effect must penetrate it to have any effect on the target.''
+''Effects that give the target a numerical bonus usually manifest as physical changes to the target’s body, making him look stronger, stouter, or healthier. In some cases, these changes may look exceedingly unnatural and cause the target to appear deformed or inhuman.''
+
+===Debauchery/consumption===
+
+''General: Add the magnitude of the effect to the''
+''target’s Damage and Soak, and also add it to his Load. • Subtract the magnitude of the effect from Load, and also from his Damage and Soak. • Add the magnitude of the effect to the target’s Initiative, Attack, and Defense, but subtract it from all of his Fatigue rolls. • Add the magnitude of the effect to all Fatigue rolls, but subtract it from Initiative, Attack, and Defense. • Give a target a bonus to Recovery rolls, and a victim a penalty, equal to ([the magnitude of the effect + 2] x 3). Level 1: Temporarily increase one of a target’s''
+''Characteristics by 1, to a maximum of 0, reducing a victim’s score in that same Characteristic by 1, to no less than –1. Additional magnitudes may add 1 to the amount by which you increase and decrease these Characteristics, or increase and decrease the maximum scores by 1 (though this can never exceed +6/–6).''
+''Level 2: Give a target a +1 bonus to Recovery''
+''rolls, and a victim a –1 penalty. Level 3: Give a target a +3 bonus to Recovery''
+''rolls, and a victim a –3 penalty. Level 4: Give a target a +6 bonus to Recovery''
+''rolls, and a victim a –6 penalty. Level 5: Permanently increase one of a target’s''
+''Characteristics by 1, to a maximum of 0, reducing a victim’s score in that same Characteristic by 1, to no less than –1. Additional magnitudes may add 1 to the amount by which you increase and decrease these Characteristics, or increase and decrease the maximum scores by 1 (though this can never exceed +6/–6). Level 10: Transfer pain to a victim, temporarily''
+''giving it the target’s Fatigue and Wound penalties. • Exchange a target’s Fatigue levels with a victim. Level 15: Cause a target and a victim to tempo''
+''rarily exchange bodies. • Cause a woman to become pregnant by a man. • Bring a plant to maturity overnight, causing another plant to wither. Level 20: Bring an animal to maturity overnight,''
+''aging another animal by the same amount. • Bring a person to maturity overnight, aging another person by the same number of years.''
+
+===Incantation/consumption===
+
+''General: Give a target a bonus to rolls for a par''
+''ticular Ability equal to the magnitude of the effect. This also penalizes a victim’s rolls by the same amount. • Give a target a bonus and a victim a penalty to Aging rolls equal to (the magnitude of the effect – 5); this must be cast with either Year or Forsaken duration. Level 5: Animate a corpse.''
+''• Permanently restore a target’s Fatigue level by causing a victim to lose a Fatigue level. Level 10: Permanently transfer an illness or''
+''disease from a target to a victim. • Permanently restore a long-term Fatigue level of a target by causing a victim to lose a long-term Fatigue level. Level 15: Permanently heal a target’s Light''
+''Wound, and cause a Light Wound to a victim. • Permanently transfer a minor aging crisis from a target to a victim. Level 20: Permanently heal a target’s Medium''
+''Wound, and cause a Medium Wound to a victim. • Permanently transfer the debilitating aftereffects of a disease, poison, or an injury from a target to a victim. • Permanently transfer a serious aging crisis from a target to a victim. Level 25: Permanently heal a target’s Heavy''
+''Wound, and cause a Heavy Wound to a victim. • Permanently replace a target’s lost limb or sense with one from a victim’s body. • Permanently transfer a major aging crisis from a target to a victim. Level 30: Permanently heal a target’s Incapacitating Wound, and cause an Incapacitating Wound to a victim. • Permanently transfer a critical aging crisis from a target to a victim. Level 35: Permanently heal all of a target’s''
+''wounds, killing a victim. • Permanently transfer a terminal aging crisis from a target to a victim. Level 40: Permanently transfer a Decrepitude''
+''Point from a target to a victim. • Permanently transfer the caster’s soul into a specially prepared object within range, protecting him from death.''
+
+==Consumption Guidelines==
+
+
+|]
+''to no more than 0, and also permanently decreases the victim’s Strength score by 1, to no less than –1.''
+''(Base 5: +1 Touch, +2 victim)''
+
+===a Golden Cup, Full of Abominations===
+
+''Debauchery, Consumption, Level 25 R: Voice, D: Mom, T: Ind Through this insidious effect, often involving a lewd song or dance, the infernalist impregnates a woman with material taken from a man, both of whom must be within range. Whether this seed bears fruit depends on the normal circumstances.''
+''(Base 15: +2 Voice)''
+
+===Break the Body, Bend the Will / One Can Injure, One Can Kill===
+
+''Incantation, Consumption, Level 30 R: Sight, D: Mom, T: Ind This maleficium instantly heals a Light Wound of any living thing within range, cursing a person within sight with the same sort of injury. It essentially steals the health of the victim to restore the target. If the victim or target has any sort of Magic Resistance, the infernalist must penetrate its defenses for this to have any effect.''
+''(Base 15: +3 Sight)''
+
+===Cast Away Your Mortal Soul / and Keep It Safe in Mortal Bowl===
+
+''Incantation, Consumption, Level 50 R: Voice, D: Mom, T: Ind To cast this maleficium, the character must perform an Infernal ritual that corrupts a vessel — an object that contains infernal vis, which must be within range of his voice — and permanently transfers his soul into the object. This causes it to become a fixed Arcane Connection to him, and for as long as it remains whole and undamaged, he cannot die. Any time he would suffer a fatal wound or fail to survive an aging crisis, he gains a Warping Point and automatically experiences Vituperation instead. Afterward, his spirit returns to his body, unless the body has been completely destroyed, in which case he probably becomes a ghost. If the object that hides his soul is ever broken or used for vis, he dies immediately.''
+''(Base 40: +2 Voice)''
+
+==Diablerie==
+
+''Since the earliest days, humanity has sought great power from the supernatural world, and drawn upon the nature of the four realms to fulfill his wishes. Diablerie represents Infernal influence over the supernatural realms, and through it Infernalists may learn to affect demons and other supernatural creatures, summoning and resisting them with Debauchery, and commanding them through Incantation. Unlike the Ars Goetia described in Chapter 11, these effects are limited to beings within range of the maleficium; the infernalist must have an Arcane Connection to affect a creature that he cannot perceive, though some demons answer summonses of their own volition.''
+''Diablerie maleficia that grant Powers to the target are usually Forsaken Duration (see the Infernal Range, Duration, and Target sidebar, above), essentially becoming constant effects. In some sense, a little bit of Hell takes residence in the character’s soul, tainting him with evil but giving him a blessing of Infernal power''
+
+[|
+''When these guidelines refer to a supernatural creature, it means a specific entity with a Magical, Faerie, or Infernal Might score. Diablerie cannot affect the Divine.''
+
+===Debauchery/diablerie===
+
+''General: Dispel magic, infernal, or faerie effects''
+''of level less than (this effect level – 10). • Prevent a supernatural creature with Might less than (the level of the effect – 10) from crossing a clearly defined circle or affecting those on the other side of the boundary with its Powers, unless the caster explicitly allows the effect to pass. • Protect a target against all supernatural creatures with Might of (the level of the effect – 10) and their Powers. Level 3: See through a supernatural creature’s''
+''eyes, so long as that creature is within range of the effect. Level 4: Make an object a temporary Arcane''
+''Connection to a person or thing within range of this effect, including a demon. Level 5: Perceive all creatures with Might within''
+''range of the effect.''
+''Level 10: Open a spiritual portal between the''
+''character and a supernatural being within range, allowing them to see and hear each other for the duration of the effect. Level 15: Release an Infernal being from impris''
+''onment: a demon that has been banished or bound in some way is temporarily freed for the duration. Level 20: Create an Infernal aura at level 1. Each''
+''additional magnitude increases it by one, to a maximum of 5. Level 25: Create an Infernal regio at level 1.''
+''Each additional magnitude increases it by one, to a maximum of 5.''
+
+===Incantation/diablerie===
+
+''General: Give a person, object, or area Magic''
+''Resistance equal to the level of the effect + 5, which does not add to other forms of resistance. • Restore a demon’s Might Pool by the level of the effect + 10, as long as it penetrates its Magic Resistance. Level 3: Force an invisible supernatural creature''
+''to become visible.''
+''Level 4: Bind a supernatural creature to the terms''
+''of a contract. Level 5: Compel a supernatural creature with''
+''in range to manifest in the character’s presence. Level 10: Compel a supernatural creature to''
+''answer a question. Level 15: Gain a False Power that duplicates the''
+''effects of a Minor Virtue. • Compel a supernatural creature to do the caster’s bidding; he may give it one command, which it must follow exactly for the duration of the effect. • Move raw vis from one object to another. Level 20: Dominate a supernatural creature; it''
+''must obey the caster’s every command for the duration of the effect. • Permanently taint vis with the power of the Infernal, producing vis infesta. Level 25:	 Permanently taint vis with the power''
+''of the Infernal, producing vis sordida. Level 30:	 Permanently taint vis with the power''
+''of the Infernal, producing vis prava. Level 35:	 Gain a False Power that duplicates''
+''the effects of a Major Virtue. • Gain a False Power that duplicates The Gift.''
+
+==Diablerie Guidelines==
+
+
+|]
+''in exchange. These Infernal blessings are lost forever if the infernalist should somehow redeem himself or seek forgiveness from God, and are treated as if the character had the Vengeful Powers Flaw (see above) — using them for anything that is not sinful always carries with it negative consequences.''
+''Failure with Diablerie effects might summon the wrong demon, remove the caster’s protection against it, or free a demon from an enchantment to act as it wishes. They might also give the caster appropriate Flaws or take away some of his experience points.''
+
+===And He Causeth All To Receive a Mark===
+
+''Debauchery/Diablerie, Level 25 R: Sight, D: Sun, T: Ind The character causes an object to become a temporary Arcane Connection to any supernatural creature she can see for the duration of this effect. This also taints the object slightly, making it feel unholy to people who can sense the Infernal realm.''
+''(Base 4: +3 Sight, +2 Sun)''
+
+===The Image of the Beast Should Speak===
+
+''Debauchery/Diablerie, Level 35 R: Arc, D: Conc, T: Ind During the maleficium casting, the character must draw a circle upon the ground and stand outside of it. When it is finished, she can summon the image of a demon to which she has an Arcane Connection, which can also see, hear, and speak to her if it chooses. This creates a mystic conduit between the two of them that lasts for as long as she concentrates, so that the demon can affect her with its Powers as if it were touching her. If the demon does not wish to be disturbed, the character might anger it with this effect, and possibly suffer its wrath.''
+''(Base 10: +4 Arc, +1 Conc)''
+
+===And the Dragon Gave Him His Power===
+
+''Incantation/Diablerie, Level 40 R: Touch, D: Forsaken, T: Ind This maleficium allows the character to draw upon the powers of the Infernal to allow someone she is touching to receive the effects of a Minor Virtue, one with which she is familiar enough that she can describe what it does. This Infernal bless''
+''ing can potentially last forever, so long as the target does not seek absolution, but only appropriate General or Supernatural Virtues may be given in this way, and then only if they do not somehow depend upon the character’s background. Virtues like Educated or Privileged Upbringing are not acceptable. Furthermore, if the Virtue is supernatural, it is an Infernal Power.''
+''(Base 15, +1 Touch, +4 Forsaken)''
+
+===The Cage of Every Unclean===
+
+
+===And Hateful Bird===
+
+''Incantation/Diablerie, Level 50 R: Voice, D: Forsaken, T: Ind The character commands a supernatural creature within the sound of her voice to serve her completely and obey her every command, which it must do for as long as the effect lasts, assuming she overcomes its Magic Resistance. If it ever receives absolution, it is free from her control.''
+''(Base 20, +2 Voice, +4 Forsaken)''
+
+==Effusion==
+
+''The Infernal realm is believed to have a strong connection to the physical world, so much so that many in Mythic Europe teach that earth is the Devil’s realm, with God presiding over the spirit and the afterlife. Perhaps the Infernal Power of Effusion has evolved from these dark associations. Or, perhaps Effusion is simply an extension of the powers of Hell, the tormenting heat and cold ice that tortures the damned. Regardless of its origins, this Power allows infernalists to affect the elements in an unnatural fashion. Debauchery gives control over unseen forces, the warmer elements of fire and air, while Incantation affects the cold forms of base matter, water, and earth.''
+''Effusion cannot produce anything living; it targets base materials or insubstantial forces, but nothing else — though these forces and materials can themselves affect living things. In fact, Effusion cannot actually create anything; it can fan a fire or cause a target to become so hot that''
+''it spontaneously combusts, but it doesn’t create flames from nothing. It can summon an object to the infernalist’s hand, but this object must already exist in the world. Infernalists might use these Powers to create winds or gather clouds, but this is done simply by controlling the air that is all around them, and they cannot actually create air.''
+''Failures involving Effusion usually involve losing control over the elements, causing them to behave chaotically, with unwanted effects that are detrimental to the caster or maliciously destructive to the infernalist’s belongings.''
+
+===The Stone Prepared, His Gift To Grant With Foulest Craft He Does Enchant===
+
+''Incantation/Effusion, General''
+''R: Touch, D: Year, T: Ind The character casts this spell upon an object or substance, essentially opening it for a form of Infernal enchantment. During this process, he casts a second maleficium, of less than or equal level to this effect, which is absorbed by the object and held for the duration of the effect. If the object is broken or consumed during that year, any maleficia that have been imbued into it are released as if they had been cast by the person who activated it.''
+''This maleficium can be performed multiple times, allowing the character to enchant a target with several different “charges,” and each time he does this it refreshes the duration of the enchantment.''
+''(Base effect: +1 Touch, +4 Year)''
+
+===Darkness Has Power Over All===
+
+
+===Things General / Weather and===
+
+
+===Wind and All Courses Variable===
+
+''Debauchery/Effusion, Level 20 R: Sight, D: Conc, T: Ind This effect gathers severe winds, powerful enough to lift a person through the air and carry him through the sky at high speed. The character must concentrate upon these winds in order to control them, and she cannot do this if they fly out of her sight. Most infernalists cast this effect on themselves, winging through the night to reach their evil gatherings, though it is said that they must not speak the name of Christ while aloft, or they will lose their support and immediately fall to the ground.''
+''(Base 4: +3 Sight, +1 Conc)''
+
+[|
+''Unnatural effects, such as phenomena summoned in a form outside their natural context, usually add two additional magnitudes to the level.''
+
+===Debauchery/effusion===
+
+''General: Soften an object, giving it a penalty to''
+''Damage or Protection equal to the effect’s magnitude. • Make flames hotter or smoke more corrosive, adding the level of this effect to its Damage rating. Level 1: Ignite something extremely flammable,''
+''like oil. • Heat an object so that it is warm to the touch. • Increase the severity of a natural phenomenon, turning rain clouds into a thunderstorm or mist into fog. Level 2: Control minor natural phenomena, such''
+''as mist, moonlight, a breeze, or a drizzle. • Ignite something very flammable, like dry leaves. • Heat an object to be hot to the touch. Level 3: Control normal natural phenomena,''
+''such as wind, rain, smoke, or fog. • Ignite something flammable, like wood. • Heat an object enough to boil water. Level 4: Control severe natural phenomena,''
+''such as thunder, gales, a monsoon, or open flames. • Completely dry something wet. • Heat an object enough to glow red-hot. Level 5: Control very severe natural phenomena,''
+''such as lightning, an explosion, a hurricane, or a tornado.''
+''• Ignite something slightly flammable, like leather. • Heat an object enough to melt steel. • Ward a target against a single type of natural phenomena (fire, wind, rain, lightning). Level 10: Ignite something barely flammable,''
+''like flesh. Level 15: Ward a target against all forms''
+''of natural phenomena (fire, wind, rain, lightning).''
+
+===Incantation/effusion===
+
+''General: Harden an object, giving it a bonus to''
+''Damage or Protection equal to the effect’s magnitude. • Prepare an object to accept a maleficium of this effect’s level or lower; the infernalist casts the maleficium at the object, and it holds the effect in stasis for the duration, activating it when the object is destroyed. • Move an object quickly in any direction the caster pleases, with enough force to cause damage equal to the effect’s level. Level 1: Decrease the severity of natural phe''
+''nomena, causing rain to cease or winds to calm. Level 2: Chill an object to be cold to the''
+''touch. • Control a substance in a natural fashion, or change it into something of similar shape and substance. Level 3: Chill an object enough to freeze water. • Control a substance in a slightly unnatural fashion, or change it into something of a different but related shape and substance.''
+''• Move an object slowly in one direction, as long as the surface can support its weight. Level 4: Chill an object enough to extinguish''
+''flames. • Move an object slowly in any direction the caster pleases. • Control a substance in a very unnatural fashion, or change it into something of a very different shape and substance. Level 5: Chill an object enough to burn flesh''
+''(frostbite). • Transport an object to the character’s touch. • Ward a target against a single form of natural, non-living material (stone, wood, bone, metal, water). Level 10: Control a substance in a very unnatu''
+''ral fashion. • Transport an object instantly to a point up to five paces from the caster. Level 15: Move an object quickly any direction''
+''the caster pleases. • Ward a target against all natural, non-living materials (stone, wood, bone, metal, water). • Transport an object instantly up to 50 paces. Level 20: Transport an object instantly up to''
+''500 paces. Level 25: Transport an object instantly up to''
+''a league. Level 30: Transport an object instantly up to''
+''seven leagues. Level 35:  Instantly transport an object to''
+''anywhere the caster has been before, or to which he has an Arcane Connection.''
+
+==Effusion Guidelines==
+
+
+|]
+
+===Roll, You Clouds, and Thunder Cry and Strike With Flames From Empty Sky===
+
+''Debauchery/Effusion, Level 25 The character summons a powerful thunderstorm from a clear sky, with galeforce winds and lightning strikes. It takes only a few minutes to gather while she concentrates. She has no control over the storm, though when she stops concentrating it begins to dissipate, and a few minutes later the weather displays no sign that there ever was a storm.''
+''(Base 3: +3 Sight, +1 Conc, +2 Group)''
+
+===I Conjure This, By Foul Decree in Its Same Likeness Unto Me===
+
+''Incantation/Effusion, Level 25 R: Arc, D: Mom, T: Ind The character stretches out his hand and summons to it any object he can see or to which he has an Arcane Connection. The item appears instantly in his grasp, so that if it is a weapon or tool, he can immediately put it to use.''
+''(Base 5: +4 Arc)''
+
+==Malediction==
+
+''The Devil is said to be an expert at cursing, and his followers might gain some of his expertise by association. Malediction includes general curses, such as those that cause ills to befall the target, and destructive curses that can lay waste to anything within range. The former are''
+''called through Incantation, while the latter are based in Debauchery.''
+''Some maledictions are almost the opposite of Infernal blessings (described above under Diablerie). These Infernal curses usually have a Forsaken Duration, so that they remain active until the victim can somehow dispel them, usually through a Divine agency or another Infernal Power.''
+''When a Malediction effect penalizes a character’s rolls, it manifests as an aura of bad luck and ill feeling around him. All sorts of superficial effects might accompany the maleficium: mirrors break, dogs howl, and flies and vermin appear when the victim passes. These cosmetic side effects may give him some idea of what is happening, and serve to make the effects less mechanical.''
+''Malediction failures might damage the caster instead, or harm someone close to him.''
+
+===As the Vessels of a Potter Shall===
+
+
+===They Be Broken To Shivers===
+
+''Debauchery/Malediction, Level 15 R: Voice, D: Mom, T: Ind The caster concentrates his power upon a target, and causes it a Medium Wound, severe enough to cripple a limb until it is healed.''
+''(Base 5, +2 Voice)''
+
+===The Student Must Be Forced===
+
+
+===To Learn / and Thus the===
+
+
+===Worm Begins To Turn===
+
+''Incantation/Malediction, Level 20''
+''R: Touch, D: Sun, T: Ind For the duration of this effect, the target suffers a –1 penalty to all die rolls, and an additional botch die whenever a zero is rolled.''
+''(Base effect: +1 Touch, +2 Sun)''
+
+===Therefore Shall All Her===
+
+
+===Plagues Come in One Day===
+
+''Debauchery/Malediction, Level 30 R: Voice, D: Cursed/Momentary, T: Ind''
+''The infernalist focuses her will upon a living person and warns him that he will die if he does a specific uncommon thing, such as “if you come within ten feet of me” or “if you eat a pear.” If the effect penetrates his Magic Resistance, he is affected by the malediction and if he should ever disobey her instruction he instantly falls over dead.''
+''The infernalist may also cast the effect so that it targets another person within range, perhaps someone very close to the person she is cursing. There can be no doubt in the mind of any witnesses that she is casting an evil curse, and whether it comes to pass or not it clearly identifies her as a witch.''
+''(Base 20: +2 Voice, +2 Cursed)''
+
+===By Evening Ash and Morning Dew I Send Your Charms Away From You===
+
+''Incantation/Malediction, Level 50 R: Voice, D: Sun, T: Ind The infernalist utters a terrible curse at a victim, and causes him to lose the benefits of one of his Major Virtues for''
+
+[|
+
+===Debauchery/malediction===
+
+''Level 3: Hamper targets without actually injur''
+''ing them, making them walk badly or blurring their senses for the duration. • Cause a target the loss of a Fatigue level. Level 4: Inflict a Light Wound, also causing''
+''great pain. • Destroy a single non-living target. Level 5: Inflict a Medium Wound, also crippling''
+''a limb. • Destroy a living but inanimate target, like a plant. Level 10: Inflict a Heavy Wound, also destroy''
+''ing a major sense such as sight or hearing. • Give a person or animal a major disease.''
+''Level 15: Inflict an Incapacitating Wound, also''
+''causing grievous harm to a body and a Decrepitude Point. Level 20: Strike a person or animal dead.''
+
+===Incantation/malediction===
+
+''General: Give a target a penalty on all die rolls''
+''equal to the magnitude of the effect, as well as that many additional botch dice any time the target rolls a 0. • Give a target a penalty equal to twice the magnitude of the effect to all rolls of a specific type (an Ability, Aging rolls, Recovery rolls, Personality Traits, etc.), and the same''
+''number of additional botch dice whenever the target gets a 0 on that type of roll. • Curse an object so that when used, it gives the wielder a penalty to rolls and a number of additional botch dice equal to the magnitude of the effect, –3 maximum. Level 5: Decrease one of a target’s Characteristics''
+''by 1, to no less than 0. Each additional step of decrease is an additional magnitude, and the maximum penalty may be similarly decreased, but to no less than –6. Level 10: Suppress the effects of a Minor Virtue. Level 15: Give a target the effects of a Minor Flaw. Level 30: Suppress the effects of a Major Virtue. Level 35: Give a target the effects of a Major Flaw.''
+
+==Malediction Guidelines==
+
+
+|]
+''the duration. You can specify the type of Virtue (Hermetic, Supernatural, General) you wish for to affect, otherwise the storyguide chooses an appropriate Virtue. If it is a Supernatural Ability, it is as if the victim has no score in it. If it is another Virtue, it is simply as if the victim does not have it. This curse can even target The Gift, making it impossible for a magus to work magic, but only if he has no other Supernatural Virtues for the curse to affect.''
+''(Base 30: +2 Voice, +2 Sun)''
+
+==Phantasm==
+
+''While infernalists cannot create anything real with their Powers, they can create illusions of things that seem so real that it is almost impossible to distinguish them from the truth. Through Debauchery, they can conjure these illusions or change solid things into phantasms, while Incantation allows them to control how they perceive their surroundings, even allowing them to make likely predictions about the future based on Infernal knowledge of the present.''
+''Phantasms are easily undone by the Divine and expressions of God’s power. If a phantasm is somehow affected by the Divine, it is immediately dispelled, and phantasms cannot affect Divine things when they are cast. Phantasms cannot survive in the Dominion.''
+''In addition, an infernalist’s phantasms are always vulnerable to an additional type of material, chosen when the Phantasm Ability is first learned. See the examples of the sorts of weaknesses demons have (Chapter 4: The Infernal Legions); these are the sorts of flaws to which an infernalist’s phantasms are susceptible. Should a phantasm with this weakness ever come into contact with that material, it is immediately dispelled.''
+''Failure might produce the wrong sort of target, or somehow injure the caster. Perhaps the phantasm seems to have a mind of its own, or even behaves aggressively.''
+
+===For They Are the Spirits of===
+
+
+===Devils, Working Miracles===
+
+''Incantation/Phantasm, Level 10 R: Per, D: Conc, T: Ind The character can see through Infernal deception for the duration, see''
+''ing evil creatures as they truly are in much the same way that characters with Second Sight can see through magical and faerie illusions. This does not protect him from phantasms, though he can recognize them as such. When this effect is cast, note its Penetration, as demons and other creatures with a false appearance may be able to resist it.''
+''(Base 5, +1 Conc)''
+
+===Summon Shapes of Lustful Need and Swiftly Form a Ghostly Steed===
+
+''Debauchery/Phantasm, Level 20 R: Touch, D: Sun, T: Ind This simple maleficium conjures a phantasmal horse, complete with tack and harness if you wish, which lasts until sunrise or sunset. It can carry the character’s weight and run as quickly as a real horse, though it cannot enter the Dominion, and is similarly limited in another way, depending upon the infernalist’s weakness. For example, perhaps it cannot cross running water, or cannot touch an innocent.''
+''(Base 5: +1 Touch, +2 Sun)''
+
+===I Saw Three Unclean Spirits, Like Frogs,===
+
+
+===Out of the Mouth of the Dragon===
+
+''Incantation/Phantasm, Level 20''
+
+[|
+''Particularly intricate phantasms, such as those that mimic a recognizable subject, or those with complex sensory components such as clear words or moving parts, add an additional magnitude to the effect. To produce a phantasm that can move or act under the character’s mental direction adds two magnitudes.''
+''Changing an animate target (something that can move under its own power) into an inanimate object is also more difficult, and requires two additional magnitudes. Over time, however, the target begins to regain its mobility unless the infernalist regularly concentrates on the effect. For example, a person may be changed into a stone, but if ignored for a few days that stone may begin to move and resemble a person, as its essential nature begins to reassert itself over the phantasm.''
+''The final form of a target changed into a phantasm usually has recognizable properties in common with its true shape. For example, a person transformed into an animal might be extremely expressive and possibly retain other human qualities such as the ability to speak or walk upright. Size modifiers also apply to the effect level if there is a significant difference between the original shape and the new shape.''
+
+===Debauchery/phantasm===
+
+''General: Create a dangerous phantasm, like''
+''fire or poison, that does +(base level of the spell) Damage upon contact. Level 2: Change a target to give it a minor abil''
+''ity, such as claws or cat’s eyes. • Mask the target’s scent or taste. Level 3: Change a target to give it a major abil''
+''ity, such as wings or an additional limb. • Hide all sounds made by the target. Level 4: Change a target to give it a supernatural''
+''ability, such as flaming breath or a poisonous touch. • Make a target completely invisible. Level 5: Create a phantasm, or change a target''
+''into a phantasm. • Make a target completely undetectable. Level 10: Create a phantasm with Infernal''
+''Might 5, or change a target into a phantasm with Infernal Might 5. Each 5 points of additional Might increases the effect magnitude by one. • Separate a target’s spirit from his body, as if he were in a waking dream.''
+
+===Incantation/phantasm===
+
+''Level 2: Smell or taste at a distance. Level 3: Become able to perceive spirits. • Hear sounds at a distance. Level 4: See at a distance. Level 5: See through Infernal illusions. Level 20: Gain an ominous vision of an event''
+''that happened within a day in the past, or that is likely to happen within a day in the future. Level 25: Gain an ominous vision of an event''
+''that happened within a week in the past, or that is likely to happen within a week in the future. Level 30: Gain an ominous vision of an event''
+''that happened within a month in the past, or that is likely to happen within a month in the future. Level 35: Gain an ominous vision of an event''
+''that happened within the infernalist’s own lifetime, or that is likely to happen within his remaining lifetime.''
+
+==Phantasm Guidelines==
+
+
+|]
+''R: Per, D: Mom, T: Ind The character sits in a meditative state and concentrates his thoughts upon the demonic spirits that watch over the different hours. He should have a question in mind that applies to events of the last or next day (such as “How did this sword get bloodied?” or “What does the weather bode for tomorrow?”). He then receives a vision that cryptically answers the question through dark imagery and malice, in which he might be abused or mocked by spirits that delight in seeing him suffer for the knowledge he seeks.''
+''These demons cannot actually see the future, but they do perceive most of what goes on in the world, and can often make very shrewd guesses about events that have not yet happened. If they cannot answer a question, they probably fabricate something and take great pleasure in watching the character try to make sense of their deceit. Thus, very specific questions tend to produce more accurate results than vague ones.''
+''(Base 20)''
+
+===To Stir the Spirit, Heart and Fear a Shadow Phantom Hunts in Here===
+
+''Debauchery/Incantation, Level 40 R: Arc, D: Conc, T: Ind''
+''The infernalist sends a phantasmal creature into the thoughts of a person to whom she has an Arcane Connection. The creature is usually a wild beast or a hobgoblin. The phantasm can behave as she directs, distracting the target’s concentration by making imaginary sounds and so on. The target can see and hear the phantasm inside his mind, or feel it poking his side or sitting on him, and he can interact with it directly by focusing his thoughts upon it. Infernalists often use this effect to send the semblance of a demon into a sleeping person’s dreams.''
+''The phantasm is a being of nightmare and imagination, but it has its own identity outside of the person and can leave his mind, though it has no substance. It can take the person with it if he chooses to go, leaving his body behind and traveling with the phantasm in spirit form, usually riding on its back. In this ghostly state, the target can see and hear what goes on around him in the physical world, but cannot interact with it in any way. When the effect ends, he returns immediately to his body, waking as if from a nightmare.''
+''(Base 5: +4 Arc, +1 Sun, +2 unusual effect)''
+
+==Psychomachia==
+
+''Psychomachia is the Infernal Power over the mind and emotions, allowing the caster to influence and even control people and other living things. Incantation allows the caster to read and control hearts and minds directly, and with Debauchery the caster can change the target’s personality: not simply making him sin, but making him want to sin.''
+''Failure usually leaves the caster muddled, or inflames his own passions rather than those of others. It might also aggravate the target, or otherwise affect it in a way other than how he intended.''
+
+===Babylon the Great Is Fallen, and Is===
+
+
+===Become the Habitation of Devils===
+
+''Debauchery/Psychomachia, Level 15 R: Touch, D: Sun, T: Ind The caster tarnishes an Infernal aura with a trait of your choice at +3.''
+''(Base effect: +1 Touch, +2 Sun)''
+
+===And the Men Had Repented===
+
+
+===Not of Their Deeds===
+
+''Incantation/Psychomachia, Level 10 R: Eye, D: Conc, T: Ind The caster can recognize whether a person is more evil or good by sensing his most powerful emotion. He looks him in the eye as he casts the maleficium, and becomes aware of his dominant Personality Trait, or another emotion by which he is currently influenced.''
+''(Base 4, +1 Eye, +1 Conc)''
+
+===They Shall Make the Whore Desolate===
+
+
+===And Naked, and Shall Eat Her Flesh===
+
+''Debauchery/Psychomachia, Level 45 R: Voice, D: Sun, T: Group Everyone in a group of people is seized with a powerful emotion, specified as part of the spell, which is usually sinful in nature. They each gain an appropriate Personality Trait at +3 for the duration of the effect. Until it wears off, these people become much more receptive to sins associated with the trait, and may in fact behave completely out of character in pursuit of their desires.''
+''(Base 15: +2 Voice, +2 Sun, +2 Sin)''
+
+===I Will Make Them of the Synagogue===
+
+
+===of Satan; I Will Make Them===
+
+
+===Worship Before Thy Feet===
+
+''Incantation/Psychomachia, Level 50 R: Voice, D: Sun, T: Group The caster speaks a simple command to a group of people, which they must obey for the duration of the effect. Examples: “Attack anyone who comes through here,” “Journey to the covenant of Semita Errabunda and capture the woman Isabelle who lives there,” or “Bow down and worship this idol until the legate arrives.”''
+''(Base 20: +2 Voice, +2 Sun, +2 Group)''
+
+==Mythic Companion: The Diabolist==
+
+''Everyone has heard the stories of the man who prays and prays to God for aid, but receives no miracle, and finally in desperation turns to the Devil, who appears before his eyes and promises him his heart’s desire in exchange for his immortal soul. In Mythic Europe this sort of''
+''arrangement is quite well known among students of the occult, and many think that such a deal can be struck anywhere, by anyone, for demons are eager to teach the maleficia to those willing to damn themselves in exchange for power. Such is the might of the Infernal realm, that it can make even a lowly peasant into a mythic figure, the rival of magi and the saints.''
+''To become a diabolist, a character must only participate in a short ceremony with a demon: he must declare his belief in Satan, formally renounce God, and seal the relationship with an oath. This aligns the character with the power of the Infernal, and essentially transforms him into a Mythic Companion. Over time, he will gain Infernal blessings from the forces of Hell in exchange for his service, and this demonic aid is usually represented by gaining Virtues and losing Flaws. This process can happen through play, but it is also possible to do it during character creation, by taking twice as many points of Virtues as Flaws, as all Mythic Companions do.''
+''Required Virtues: A diabolist must take the following Virtue:''
+''Diabolist (Free, Special Virtue)''
+''He must also take one of the following Virtues, which he receives at no cost:''
+''Arcane Lore (Minor, General) Student of (Infernal) (Minor, General) Wise One (Minor, Social Status)''
+''If the character has taken the Major Supernatural Virtue Demon Blood or the Major Story Flaw Diabolic Past, he may substitute another Minor Virtue in place of this one.''
+''This leaves him with ten points of Flaws to spend, which balance out as many as 20 more points of Virtues. Half of these Virtues should be spent on Supernatural Virtues that are granted by the Infernal, as this is how the character gains his Mythic Companion status. These are usually the Methods and Powers associated with the maleficia, or Virtues like Infernal Blessing that come from close association with an infernalist tradition.''
+''•''
+''• •''
+''•''
+
+[|
+
+===Debauchery/psychomachia===
+
+''General: Tarnish an Infernal aura with a value''
+''equal to (the magnitude of the effect + 3), +6 maximum. Level 2: Make a minor change to a target’s emo''
+''tions (transforming sadness to despair, for example). Level 3: Make a major change to a target’s emo''
+''tions (transforming resolve into paranoia, for example). Level 4: Increase or decrease a character’s''
+''Personality Trait by one step, to a maximum of +3 or –3. • Completely change a target’s emotions (transforming anger into euphoria, for example). Level 5: Increase or decrease a character’s''
+''Personality Trait by one step, to a maximum of +4 or –4. • Give a target a temporary Personality Trait at +1. • Give a target a Warping Point. Level 10: Increase or decrease a character’s''
+''Personality Trait by one step, to a maximum of +5 or –5.''
+''• Give a target a temporary Personality Trait at +2. • Give a target 2 Warping Points, possibly triggering Vituperation or Twilight. • Drive a target insane for the duration of the effect. Level 15: Increase or decrease a character’s''
+''Personality Trait by one step, to a maximum of +6 or –6. • Give a target a temporary Personality Trait at +3. • Cause a target to gain a Confidence Point, so long as he has fewer than his (Confidence Score x 5). • Give a target 3 Warping Points. Level 20: Give a target 4 Warping Points. Level 25: Give a target 5 Warping Points.''
+
+===Incantation/psychomachia===
+
+''Level 2: Sense whether a supernatural effect is''
+''Divine or Infernal, but without distinguishing between them. Level 3: Form words in a target’s mind. • Sense if an aura is tarnished, and identify it.''
+''Level 4: Put a thought or desire into a target’s''
+''mind. • Sense a powerful emotion. Level 5: Compel a target to act on his immedi''
+''ate desires. • Twist the target’s senses, making them perceive only what the caster directs. Level 10: Imbue all of a target’s responses with a''
+''particular desire. • Compel a target to lie as the caster commands, and to believe it has told the truth. Level 15: Control a target’s behavior as long as''
+''it is within range. Level 20: Give a target a simple command,''
+''which it obeys to the best of its ability. Level 25: Give a target a complex command,''
+''which it obeys to the best of its ability. Level 30: Completely control a target’s mind''
+''and emotions.''
+
+==Psychomachia Guidelines==
+
+''Characteristics: Int +5, Per +2, Pre +2,''
+''Com +5, Str +1, Sta +2, Dex +1, Qik +1 Size: 0 Age: 33 Decrepitude: 0 Warping Score: 3 (0) Confidence Score: 2 (5) Hierarchy Score: 2 Virtues and Flaws: Diabolist; Diablerie,''
+''Incantation; Book Learner, Educated (free), Good Teacher, Great Communication, Infernal Blessing (x10), Self-Confident; Dark Secret, Diabolic Past, Monastic Vows; Delusion (that his Powers are not evil), Proud (Minor); Corrupted Abilities (Artes Liberales, Philosophiae, Teaching, Theology) Personality Traits: Proud +3, Teacher''
+''+2, Enthusiastic +2 Reputations: Brilliant 3 (scholars around''
+''Glastonbury), Heretic 2 (Infernal) Combat: Dodging: Init +3, Attack n/a, Defense''
+''+3, Damage n/a Soak: +3 (Stamina) Fatigue levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10),''
+''–5 (11–15), Incapacitated (16–20) Abilities: Area Lore 4 (clergy), (Corrupted)''
+''Artes Liberales 4+2 (logic), Awareness 1 (students), Church Lore 3 (inquisitors), Civil and Canon Law 3 (heresy), Concentration 2 (rituals), Diablerie 5 (infernal blessings), English 5 (sto''
+''ries), Incantation 5 (corrupting scripture), Infernal Lore 3 (demons), Latin 5 (rituals), Penetration 2 (demons), (Corrupted) Philosophiae 4 (natural), (Corrupted) Teaching 4+2 (theology), (Corrupted) Theology 4+2 (heretical) Equipment: Monk’s habit, books, parch''
+''ment, ink Encumbrance: 0 (0) Appearance: Richard is quite short and''
+''rather fat, from natural inclination rather than any gluttony. His black hair grows quickly, and comes back in thick and unruly, so that he is often at the abbey barber. He pays little attention to his clothes, which are often less clean than they should be.''
+''Richard was left on Glastonbury Abbey’s doorstep by someone with remarkably poor judgment. He was raised by diabolist monks, and his exceptional ability to communicate soon came to their notice. He was always questioning the faith, and asking for explanations. The explanations he got were not as the Church would have had them, however. Slowly he was led away from the truth, and allowed to entangle himself in theological nets of his own devising. At length, when his thinking was such as to make it seem permissible, he was introduced to the maleficia. As he believed that there was nothing wrong with controlling the servants of the power of the universe, and that the gifts they brought''
+''him were pure, he quickly became a diabolist himself. The sins that he commits are most often sins of blasphemy and idolatry, as he has convinced himself that these are not sins at all.''
+''Richard thinks that it is his duty to seek out the truth behind all the mysteries of Heaven and earth, and to bring enlightenment to all those who lack it. He has a great deal of intellectual pride, and is extremely reluctant to consider the possibility that he might be wrong about anything. He is a master of reinterpreting things that he said in the past to be consistent with what now appears to be the case. Richard will talk to anyone, but is quickly dismissive of those he considers stupid. If drawn into conversation on the subject of his theology, he is enthusiastic, and rather less cautious than he should be. This is particularly true if his interlocutor seems to agree with his opinions.''
+''All of Richard’s Infernal Blessings are Infernal Powers, which include the following Minor Virtues: Affinity with Artes Liberales, Affinity with Teaching, Affinity with Theology, Great Communication, Great Intelligence (x2), Improved Characteristics (x6), Puissant Artes Liberales, Puissant Teaching, and Puissant Theology. He has been designed with more Story Flaws than are usually allowed, to represent the unique qualities of his upbringing at Glastonbury Abbey, and two additional Minor Flaws, which he has gained through Infernal Warping (Delusion and Corrupted Abilities).''
+
+==Richard of Glastonbury, Diabolist==
+
+{{OpenArs Attribution}}
+{{ArsMnavbox}}

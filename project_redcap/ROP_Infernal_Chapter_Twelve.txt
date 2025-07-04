@@ -1,0 +1,222 @@
+''Magic that is concerned with the Infernal realm is often called nigromancy (sometimes confused with “necromancy”), meaning “black magic.” Hermetic magi usually refer to it as “diabolism,” as it is essentially magic that deals with devils, and “dark magic” is another common title. All of these terms essentially describe magic that deals with demons in some way, though it is important to note that metaphysically, black magic is still part of the Magic realm, even though it is often tainted by the Infernal. That is, it is still Hermetic magic, not an Infernal Power.''
+''Dealing with demons is prohibited by the Order of Hermes. Demonstrating any sort of Infernal Power is usually considered evidence that a magus has dealt with demons and thus imperiled his soul, which is expressly forbidden by the Hermetic Oath. Spells that summon or empower demons are also considered reprehensible. As with any Hermetic crimes, close friends might believe in mitigating circumstances, especially if the magus works very hard to only use his evil Powers for good or claims to be innocent of any wrongdoing, but since Infernal Powers are known to allow people to lie easily without possibility of discovery, this is not a very credible defense in any sort of official inquiry. Any magus who knowingly possesses an Infernal Power should take the Dark Secret Flaw, since the Order will almost certainly hunt down and destroy him if that fact becomes generally known.''
+''Of course, magi can also practice black magic without any Infernal Powers at all, simply by targeting demons with their Arts. This also breaks the Code, as it is still literally “dealing with demons,” though the Order rarely acts against magi''
+''who are merely defending themselves. After the discovery of diabolism within House Tytalus in the early 900s, however, most magi began to limit their demontargeting spells to Perdo Vim effects that destroy them at Voice Range, and Rego Vim effects that ward them away, as both kinds of spells are clearly intended for self-defense. Three hundred years later, however, other applications have begun to creep back into Vim grimoires, such as Rego effects that hold a demon in place, or others that force a demon to do the will of the magus. Ostensibly these sorts of spells can protect the magus and his companions, by imprisoning the demon or commanding it to leave them alone, but magi with this sort of focus usually arouse the suspicions of the Quaesitores, and tend to be watched very carefully.''
+
+==Demon-Hunters==
+
+''Some magi decide to push the boundaries of the Code and seek out demons. They have many different reasons: for sport, for revenge, or perhaps to be the one who strikes first. The Order seems to have no official position on demon-hunters, as there have been Peripheral Code rulings both for and against them, and most Tribunals prefer to evaluate their actions on a case-by-case basis. Generally speaking, it is a Hermetic crime to aggravate demons, though destroying them is considered a laudable act.''
+
+==The Venatores==
+
+''The Venatores (“Hunters”) are a group of magi who have dedicated themselves to the eradication of demons. They sometimes refer to themselves as Apotropaic Magi, meaning “those who ward off or combat evil.” These magi do not pass on their secrets and techniques in the usual fashion from master to apprentice; instead they seek out magi who are sorely troubled by demons and offer their knowledge to them as an “advanced apprenticeship.” Consequently, the Venatores can be members of any House, are generally at least a decade out of apprenticeship, and are often specialized in Vim. When training a new Venator, the elder mentor typically spends one or more years teaching what he knows about demons and the Art of Vim to his pupil, and then leaves in pursuit of the foe once again. They have no formal contact with each other afterward, and so cannot truly be said to comprise a tradition or societas.''
+''These magi have a poor reputation in the Order of Hermes, and any dedicated demon-slayer is likely to gain the title (and Reputation score) of Venator regardless of whether or not he is a member of the group. This negative image comes from two sources. Firstly, the Quaesitores have deep reservations about them, feeling that they delve too deeply into the lore of the Infernal realm, and thus make themselves susceptible to corruption. It is true that some of the spells that they know would be of equal use to diabolists. Secondly, the politicians of the Order are concerned that zealous demon-hunters antagonize Hell, and turn the attention of the Devil more fully towards Hermetic magi. Indeed, one of the most infamous''
+
+=Black Magic=
+
+''Venatores of all time, Rudolphus of House Bonisagus, was Wizard’s Marched in 1151 A.D. for persecuting demons to such an extent that he endangered the Order when they turned their wrath upon it (see Houses of Hermes: True Lineages, House Quaesitor, Deals with Devils).''
+''Demon-hunters may be disliked by some in the Order, but they are positively loathed by the Infernal. Each demon they defeat increases their poor Reputation among demons, so that Venatores usually have a powerful Hierarchy Score. This often works to their advantage.''
+
+==Apotropaic Spells==
+
+''There are two spells that are part of every demon-hunter’s repertoire. Demon’s Eternal Oblivion strips a demon of its Might, but it is the rare magus who can destroy a demon with a single casting of this spell, because the high level spells which do the most damage tend to have poor Penetration, and so are unlikely to affect the demon in the first place. Thus, the dedicated demon-hunter knows several versions of this spell at different levels.''
+''The second standard spell, Circular Ward Against Demons, has a similar problem, but needs to be of high level to have much effect. This spell can also be used to trap demons within it, although few are so obliging as to stay in one place while the magus traces out the requisite circle. Thus, this spell is often employed most successfully in conjunction with a Watching Ward; the circle can be traced out and ready to go, and once the demon is lured into position, the ward can be activated.''
+''Here are some other examples of spells that most magi of the Order of Hermes consider questionable, either because they are too antagonistic to demons, or because they are well-suited to diabolism.''
+
+===Creo Vim===
+
+
+===Fanning the Infernal Flames===
+
+''CrVi Gen R: Voice, D: Sun, T: Ind''
+''This spell magically restores some of a demon’s Infernal Might, adding (the spell’s level – 10) to the demon’s Might Pool as long as the effect penetrates the demon’s Magic Resistance. These additional Might Points cannot exceed the demon’s Might Score.''
+''This spell is known to exist among infernalist magi, and is only mentioned to students of the Infernal so that they may know what to expect.''
+''(Base effect, +2 Voice, +2 Sun)''
+
+===Plucking the Hair From===
+
+
+===The Billy Goat’s Chin===
+
+''CrVi 20 R: Voice, D: Sun, T: Ind This spell creates a temporary Arcane Connection to a specific demon within range of the caster’s voice, allowing him to penetrate its Magic Resistance more easily with additional spells. This connection is intangible, a sort of conduit rather than a physical object, and so it cannot be fixed in the laboratory and does not itself convey any Penetration bonus. Thus, forcing a demon to teach the magus its True Name is even better.''
+''(Base 4, +2 Voice, +2 Sun)''
+
+===Intellego Vim===
+
+
+===Sulfurous Whispers===
+
+''InVi 30 R: Arc, D: Conc, T: Ind The caster may speak with any demon to which he has an Arcane Connection. For the duration of the''
+''spell, it may see and hear him as if he were standing before it, just as he can see and hear it. Nothing about the demon’s surroundings, or the caster’s, are transmitted, and each must speak aloud to be heard by the other.''
+''(Base 5, +4 Arc, +1 Conc)''
+
+[|
+
+==Story Hook: A Dish Served Very Cold==
+
+''The characters come across an ancient circle created by Circular Ward Against Demons, perhaps in a long-abandoned covenant. The circle seems to be empty, and it is possible that the characters do not even see it inscribed on the floor. The circle contains a demon, who is currently in spiritual form, and thus invisible to mortal sight. The demon has been here for a long time, and is eager for escape and revenge.''
+
+==Apotropaic Guidelines==
+
+''Creo Vim General:	Restore a demon’s Might''
+''Pool by (the level of the spell + 10), as long as the spell penetrates its Magic Resistance. Level 4:	 Create a temporary Arcane''
+''Connection to a demon within range.''
+''Intellego Vim Level 5:	 Speak with a demon.''
+''Muto Vim General:	Bind a demon with Might''
+''equal to (the level of the spell + 10) to a person or object.''
+''Perdo Vim General:	Reduce the Casting Total for''
+''a specific type of magic (such as Infernal Powers) cast by the target by the (level + 2 magnitudes) of the spell. (Note that Voice Range adds two magnitudes to a spell level, so that this is a penalty equal to spell level for a Voice Range spell.)If two or more such spells affect one target, only the highest has any effect; the penalties do not add. The spell must penetrate the target’s Magic Resistance in order to have any effect. •	 Reduce a target’s Might Pool by''
+''(the level of the spell + 10), as long as the spell penetrates the creature’s Magic Resistance.''
+''Rego Vim General:	Summon a demon with''
+''Infernal Might less than (the level of the spell + 20), as a Ritual effect. Level 5:	 Command a demon to do the''
+''caster’s will.''
+
+|]
+
+===Muto Vim===
+
+
+===Early Punishment for===
+
+
+===The Sinful Witch===
+
+''MuVi(Ig) Gen R: Voice, D: Mom, T: Ind This spell destroys an Infernal effect upon an infernalist’s person in a brief flash of white flame, as long as the effect has a level lower than this spell’s level + 5 + a stress die (no botch). The flames inflict points of damage  equal to half the level of the destroyed effect. If the Infernal Power does not have a level, then its effective level is (5 x Supernatural Ability score) or (5 x Might Points expended) instead. Infernal Powers with a constant effect that require no Might expenditure cannot be affected by this spell. This is primarily used against infernalists who have woven protective enchantments around themselves with their evil Powers.''
+''(Base effect, +2 Voice, +1 requisite)''
+
+===The Wicked Jar===
+
+''MuVi Gen R: Voice, D: Sun, T: Ind This spell changes a demon with Might no greater than (the level of this spell – 10) so that it is bound to a physical object, usually a hollowed jar or pot made of clay and sealed. The effect is similar to the Goetic Art of Binding: the demon becomes part of the object for as long as the spell is active, and is only released if the object is broken or the effect ends.''
+''This effect is usually imbued into a device with a lesser enchantment, designed to operate constantly, so that the effect can theoretically last forever. It is often made with many uses per day, which allows multiple demons to be held at once.''
+''(Base effect, +2 Voice, +2 Sun)''
+
+===Perdo Vim===
+
+
+===Bind the Devil’s Hands===
+
+''PeVi Gen R: Touch, D: Sun, T: Room This spell hinders the operation of Infernal Powers in the room it affects. All Casting Totals of maleficia are reduced by (the level of this spell – 15). Other Infernal Powers which rely on a Supernatural''
+''Ability are similarly reduced. A demon is required to spend (the magnitude of this spell – 3) extra Might Points to activate any of its Powers, although Powers which normally have no cost are unaffected. This spell is often used to imprison demons or infernalists.''
+''(Base effect, +1 Touch, +2 Sun, +2 Room)''
+
+===Exorcise the Filthy Spirit===
+
+''PeVi Gen R: Voice, D: Mom, T: Ind This spell operates against a demon that is currently possessing a human (see Chapter 4: Infernal Legions, Common Powers). If the spell penetrates the Infernal Might of the demon, it loses a number of points from its Possession Might Pool equal to the level of this spell minus the demon’s Might. If this reduces the Possession Might Pool to zero, the demon abandons its host and the possession ends. If the energumen has its own Magic Resistance, then both resistances must be penetrated for the spell to be effective.''
+''(Base effect +2 Voice)''
+
+===Lash of the Chastened Servant===
+
+''PeVi 15 R: Voice, D: Sun, T: Ind This spell, if it penetrates Magic Resistance, removes 5 Might Points from a demon. This is a painful experience, and can be used to force compliance much as one would when whipping a recalcitrant animal. It is therefore one of the more dangerous spells to be known by a member of the Order, and incurs heavy suspicion of diabolism.''
+''(Base effect, +2 Voice)''
+
+===Rego Vim===
+
+
+===Adjuration of the Hell-sworn Spirit===
+
+''ReVi Gen R: Arc, D: Mom, T: Ind This spell summons a demon with Might no greater than the spell’s level. It creates a magical conduit between the magus and the demon using the demon’s True Name (which is essential for this spell), and the demon is compelled to travel almost instantly to the magus’s location through that conduit. If the magus''
+''has prepared an arcane circle, such as in the spell Ward Against Demons, he can force the demon to appear within it.''
+''(Base effect, +4 Arcane)''
+
+===Cleanse the Verminous Vis===
+
+''ReVi 15 R: Touch, D: Mom, T: Ind This spell is used to make vis of Infernal provenance safe for use by a Hermetic magus. It transfers the vis from its original physical form into a item of the magus’s choosing, which is touched to the original vis. This item must be of sufficient shape and material (ArM5, page 97) to be able to contain the vis transferred into it. However, this spell does not operate quite how the Venatores think that it does: vis which is heavily corrupted by the Infernal still contains a measure of its taint. Vis prava becomes vis sordida, vis sordida becomes vis infesta, and only vis infesta becomes normal vis (see Chapter 1: The Infernal Realm, Infernal Vis). Note that casting this spell also incurs the extra botch dice inherent in handling Infernal vis, even though the Infernal vis is not consumed in its casting.''
+''(Base 10, +1 Touch)''
+
+===Command the Vile Spirit===
+
+''ReVi 20 R: Voice, D: Conc, T: Ind The caster may force a demon to obey his commands, through intimidation and the power of his will. If the spell penetrates the creature’s Magic Resistance, make a Communication + Leadership roll, adding the caster’s Hierarchy Score as a bonus. The storyguide subtracts the demon’s Hierarchy Score and uses the total to determine the strength of the effect, though anything other than a botch always produces at least minimal results.''
+''(Base 5, +2 Voice, +1 Conc)''
+
+===Apotropaic Mastery===
+
+''This new spell mastery special ability (see ArM5, page 87) is learned by many magi who pursue demons, usually to help destroy demons, or drive them away. However, it is also useful to infernalist magi, and thus it is usually taught''
+''in secret to avoid arousing quaesitorial persecution.''
+''It allows the caster to add his (Mastery Score x Hierarchy Score) to the level of effect produced by the mastered spell. This may only be taken for spells that affect Infernal Might directly, such as Demon’s Eternal Oblivion or Circular Ward Against Demons. Spells like Aegis of the Hearth that do not specify the type of Might they target are ineligible.''
+
+==Infernal Magic==
+
+''There are many ways that a magus can find his magic closely aligned with the Infernal realm, voluntarily or involuntarily. It may be that his focus has a mystical sympathy with the Infernal, or that he secretly practices Infernal rituals in pursuit of greater power. He may even practice a corrupted form of magic, one that comes of a tainted upbringing or tragic curse. Three different forms of Infernal magic may be found below, each of which is well suited to both reluctant and enthusiastic infernalist magi.''
+
+==Chthonic Magic==
+
+''Some magi practice a kind of magic that is peripherally associated with the Infernal realm because of its negativity, though it is not actually diabolic. This low magic, or chthonic magic, is more associated with the gods of the underworld and spirits of the night than the servants of Hell. Such beings are not necessarily evil, but they have a dark reputation and are often conflated with demons in legends. Still, chthonic Powers are only ambiguously Infernal, and thus can be possessed and practiced by more sinister magi without their immediately being charged with diabolism.''
+''The chthonic magus becomes attuned to both Magical and Infernal auras, and so gains Warping Points from neither, and the benefits of both. He may also take full advantage of Infernal vis without suffering any of the negative consequences.''
+''However, because of this association, his magic becomes tainted, just as if he had the False Power Flaw: his spells appear to be unholy when investigated by Divine or Infernal Powers, though they do not seem Infernal to magical and faerie detection.''
+''For demon hunters, spirit summoners, masters of wards, and necromancers, this Virtue is exceptionally useful, for it allows them to make use of the vis they often find in evil places without fear, and ensures that their magic is not penalized in the auras where they are most likely to use it. Many magi already have very evil reputations, even if they are wholly devoted to their magic and have no interest in serving Hell, and thus this penalty is really no penalty at all for them, as long as they avoid the agents of the Divine.''
+''This form of magic is primarily represented by a Supernatural Ability: Chthonic Magic. This Ability may be substituted for the character’s score in Magic Theory when performing laboratory work that involves dark or sinister effects, and may be added to his score''
+''in Magic Theory or the appropriate Art when determining how many pawns of infernal vis he may use at once. It may be learned by magi who belong to an appropriate lineage, tradition, or societas (see Chapter 13: Infernal Traditions), taken as a Hermetic Virtue during character creation, or initiated as part of an appropriate Mystery Cult (see The Mysteries Revised Edition for rules that may be adapted to this purpose).''
+''There are other benefits to this Virtue, but all of them make the character’s magic a clearly Infernal Power when used, recognizable as such to magical and faerie Powers as well as Divine and Infernal ones, though he still benefits from Magic auras. He can use the special Ranges, Durations, and Targets associated with the maleficia in his spells — that is, he has access to Range Crossroads, Duration Cursed, Duration Forsaken, and Target Passion. If he has unholy Methods or Powers, he may substitute his scores in those Abilities for Philosophiae and Artes Liberales when casting appropriate''
+
+[|
+''Amulet bearing the sigils of angels* +7 ward against demons +7 banish demons''
+''Brass +4 demons, devils, and angels''
+''Candle made of goat fat +3 summon demons''
+''Candle, black +2 summon demons''
+''Chalk, blue +2 wards against demons''
+''Cinquefoil +3 drive away demons''
+''Cross +5 ward away supernatural +5 cause damage to Infernal creatures +5 banish demons''
+''Frankincense +4 cleanse a place of Infernal influence +3 Perdo Vim''
+''Lead +3 summon or bind spirits''
+''Phylactery +5 protect wearer''
+''Sapphire +2 Perdo Vim against spirits''
+''Silver +3 protect spirits''
+''Sulphur +4 demons''
+''Tablet +2 command spirits''
+''*An Intelligence + Infernal or Divine Lore roll against an Ease Factor of 12 is required to make such an amulet, or an Ease Factor of 6 if the character has the Craft Amulets Supernatural Ability (see Realms of Power: The Divine, page 137).''
+
+==Shape and Material Bonuses==
+
+
+|]
+''rituals, so long as he performs the necessary actions associated with them. Use the guidelines for maleficia to determine which Method and Power (and which Technique and Form) are necessary for a particular effect. A chthonic magus may also act as the focus character for a ritual using the Ceremony Ability, adding the other participants’ Characteristic and Method scores to his Casting Total as normal. And, he may bind a demon as his familiar if he so chooses.''
+''Finally, a chthonic magus may always add his lowest Art score to his Lab Total or Casting Total twice, much as if he had an applicable magical focus. To activate this, he must perform some kind of sinful act immediately before or during the casting, which influences and becomes part of the spell. This must be something that the caster himself knows to be wicked or evil (though not necessarily a mortal sin) and must be performed deliberately. Often this involves idolatry, sacrilege, profanity, or blasphemy: cursing at the target, invoking dark gods, or an ugly sacrifice. If the character already has his lowest Art score doubled (from a magical focus, for example), this effect triples it instead; that is, a chthonic magus with Diedne Magic would add his lowest Art three times when casting a spontaneous spell with fatigue.''
+
+==Goetic Magic==
+
+''Magi who have studied the Ars Goetia may adapt them to Hermetic magic, and this is actually a fairly simple conversion, since the Techniques and Forms already support summoning and controlling spirits with the Arts of Rego and Vim.''
+''When performing a summoning or otherwise affecting a spirit summoned with the Goetic Arts, a magus may substitute his score in Rego for his score in Summoning, Ablating, Binding, or Commanding. He may also use his Vim score instead of his score in (Realm) Lore in the formula that uses the Goetic Art. He must actually possess the Goetic Arts in question to do this.''
+''In addition, a magus who possesses the Summoning Art may bond with a''
+''spirit as his familiar, and may use his score in Summoning or another Goetic Art as the associated Technique, coupled with any appropriate Form, for the Lab Total.''
+''Finally, Goetic magi may learn a new type of spell mastery ability for any of their Rego Vim spells that summon spirits, which represents their ability to more skillfully combine their knowledge of Ars Goetia with their Hermetic magic.''
+
+===Goetic Mastery===
+
+''This special ability may only be taken for spells that target spirits: demons, ghosts, faerie shades, or other incorporeal beings with a Might score.''
+''The caster may add one of his scores in Summoning, Commanding, Binding, or Ablating (whichever of these four Arts is most appropriate to the effect of the associated spell) to his Casting Total whenever he casts this spell. He also adds his (Hierarchy Score x 5) to his Penetration Total when he casts this spell on a demon. The storyguide should also subtract the demon’s (Hierarchy Score x 5) from the result in such cases.''
+''This ability taints the spell by association with the Goetic Arts, and it always appears to be an Unholy Power when subjected to Divine or Infernal Powers of investigation.''
+
+==False Magic==
+
+''The Infernal has the ability to corrupt and impersonate the Powers of other realms, and one of the most insidious applications is for characters who have a version of The Gift that is not like that of other characters, but rather has been thoroughly corrupted by Infernal powers. This “False Gift” includes all the benefits and penalties of the magical version: the character suffers mistrust, suspicion, and envy among the mundane populace, and while he may learn magical Supernatural Abilities, because of his association with the Infernal realm these are actually False Powers that always appear unholy to Divine or Infernal Powers of investigation.''
+''When exposed to Warping, instead of experiencing Twilight, a character with the False Gift must undergo Vituperation. If the character should ever confess the nature of his Gift and accept spiritual absolution, allowing his soul to be cleansed of sin and exorcising the Infernal influences that corrupted his very nature, he loses The Gift completely. This also prevents him from using any Supernatural Abilities that he has learned with The Gift, including the Hermetic Arts.''
+''False magic is a tragic thing to possess, because once the character realizes the Infernal nature of his powers, he may decide that using them for any reason is a form of infernalism. Yet very few people would choose to give up their powers if placed in a similar position, and perhaps the character can justify the stain of his sins as a sort of unpleasant side effect of his Gift: damned by association with the Infernal realm, but not actually evil. This is a fascinating and tragic journey to roleplay, as the character must slowly accept that the thing that almost entirely defines him as a person in Mythic Europe is a lie.''
+''The False Gift has no cost, like its magical counterpart, though it requires the False Power Flaw (see Chapter 9:''
+''Infernal Characters). If the character is not a magus, he may also begin with one free Supernatural Ability as normal, but''
+''this is automatically another False Power, and he does not take the False Power Flaw again to modify it.''
+
+[|
+''Characteristics: Int  +2, Per –1, Pre +3,''
+''Com +2, Str 0, Sta +2, Dex –2, Qik –1 Size: 0 Age: 31 (31) Decrepitude: 0 Warping Score: 0 (0) Confidence Score: 2 (5) Virtues and Flaws: The Gift; Chthonic''
+''Magic, Hex; Improved Characteristics, Puissant Mentem, Puissant Perdo (free), Self-Confident; False Power (The Gift), Infamous Master; Lecherous (Minor), Overconfident (Minor), Tainted with Evil Personality Traits: Headstrong +3,''
+''Lustful +3, Honest –3 Reputations: Diabolist master 3 (Order''
+''of Hermes) Combat: Dodging: Init –1, Attack n/a, Defense''
+''+2, Damage n/a Soak: +2 Fatigue levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10),''
+''–5 (11–15), Incapacitated (16–20) Abilities: Artes Liberales 1 (poetry),''
+''Athletics 1 (endurance), Awareness 3 (people), Brawl 3 (wrestling), Carouse 1 (social drinking), Charm 4 (allure), Chirurgy 1 (scratches), Chthonic Magic 3 (lust), Craft Hex Toys 2 (painful ones), Finesse 2 (Corpus), Folk Ken 2 (sexuality), Hex 3 (figurines), Infernal Lore 2 (sexual rites), Latin 4 (corrupted sermons), Magic Theory 2 (magic items), Order of Hermes Lore 1 (magi), Parma Magica 1 (Corpus), Penetration 1 (Mentem), Spanish 5 (bawdy stories), Stealth 2 (spying) Arts: Cr 4, In 0, Mu 0, Pe 6 (+2), Re 6;''
+''An 0, Aq 0, Au 0, Co 6, He 0, Ig 4, Im 1, Me 6 (+2), Te 0, Vi 4 Equipment: None Encumbrance: 0 (0)''
+''Spells Known: Lifting the Dangling Puppet (ReCo 15/+14) Pilum of Fire (CrIg 20/+10) Loss of But a Moment’s Memory (PeMe''
+''15/+18) Blessing of Childlike Bliss (PeMe 25/+18) The Call to Slumber (ReMe 10/+16) Confusion of the Numbed Will (ReMe''
+''15/+16) Wind of Mundane Silence (PeVi 20/+14) Appearance: Releganta is a Spanish''
+''woman with long, dark hair that she leaves free to spill over her slender shoulders, often wreathed in flowers or tied haphazardly with leather cords. She has natural beauty, which she has learned to augment with languorous looks and loose-fitting, revealing clothing. She favors spiraling shapes in her jewelry, and has two bands of made of hammered bronze in that pattern that she wears clasped around either arm.''
+''Releganta grew up in a small Leónese village in the bare, war-torn lands of northwestern Iberia. Her mother was a folk magician skilled in witchcraft, who used her cursing arts sparingly to protect her family and her neighbors from periodic raids, but she still had a poor reputation in the region and was not admired for her efforts. She died while her daughter (then known as Raquel) was still an adolescent, and her father remarried soon after. In the following years, Raquel became known only as a wild and independent strumpet.''
+''One night her village was visited by a sinister, middle-aged stranger, a dark and brooding man who seemed to take an interest in Raquel. He seduced her, or perhaps she seduced him, and after he left she found she was still consumed with desire for him. Something had awakened in her during their tryst, a strange aura of power about her that others quickly sensed and loathed, and''
+''she fled her village, chasing after the man who would become her master, a magus named Rasus of Flambeau. When she caught up with him, he agreed to take her as his student, to show her how to use her newly manifested Gift. He taught her the Hermetic Arts, and at the same time encouraged her lust.''
+''Releganta is an extremely sexual person, and has some very sinful ideas about sex and sexual relations. She does not know how to interact with men in any way other than as potential sex partners, and considers the idea of sex to be an integral part of her magic, fueling her spells with her passion and her fantasies. She knows very little of other women, but assumes that they do not feel the same way she does; she believes her lust is a sort of punishment, a price she pays for the ability to work magic. She knows how to frighten those who threaten her, and is skilled at crafting Arcane Connections into small wax figurines (she calls these “toys”) with which she can punish people who she thinks deserve it. Her Wizard’s Sigil is a feeling of emptiness or vertigo in her victims, represented by the spiraling shape with which she also marks her possessions.''
+''Releganta does not know that Rasus is an infernalist, and she does not really know what that means. As far as she has seen, he does not deal with devils, but ghosts and spirits. After she swears her Hermetic Oath at Tribunal, evidence of her former master’s evil deeds may come to light, and if so, he will flee the assembly of magi with the other revealed infernalists of their covenant. She might go with him, or he might leave her behind. If she remains, she will be under great suspicion and watched carefully because of her infamous master, though apart from her magic seeming unholy to those with Divine powers, there is nothing obviously Infernal about her.''
+
+==Releganta of Flambeau, False Maga==
+
+{{OpenArs Attribution}}
+{{ArsMnavbox}}

@@ -1,0 +1,622 @@
+''Covenfolk surround a covenant’s magi, supporting them and aiding them. For the storyguide they are bit-parts and extras who fill out the saga, and provide roles in play for players whose magus or companion is elsewhere. They provide players with variety and a chance to explore alternative roles from their main characters; they also provide opportunities for low humor and soap opera.''
+''The covenfolk best-knownto most magi are the familiar shield grogs who accompany and defend them in the heat of battle, providing the brief calm needed to cast spells. There are many more covenfolk than just these, however; indeed, covenfolk fill all the other places in a covenant. This chapter discusses their roles and provides grog templates for many, also discussing spelland magicbased substitutes for some roles.''
+''The rules allow covenants to purchase specialists with Build Points, but these are blanks-with-Abilities, lacking even character sheets. They cost Build Points because they allow the players to sketch the covenant without effort. Characters created as grogs or companions, however, need not be paid for with Build Points. This chapter encourages you to flesh out the covenant with real characters — companions and grogs — rather than simply purchasing specialists with Build Points, and it includes character templates as examples for customization.''
+''This approach is best-suited to the slow saga speed (two or more game sessions per season) and medium saga speed (one to four seasons per session), where the lifespans of magi extend beyond the scope of the saga and individual grogs can be expected to survive for all or most of it. But even in fast sagas (one or more years per session), grogs are still worth creating and playing even as they age and die. Indeed, their mortality and succession may be a theme of the saga. As a practical matter, however, in such sagas some roles''
+''are likely to be filled with paid-for specialists without character sheets.''
+
+==Troupe Styles and Covenfolk==
+
+''Covenfolk characters fit neatly into both the Alternative Characters and Pooled Characters styles of troupe roleplaying described on ArM5, page 219.''
+''The Alternative Characters section talks specifically about the possibilities of having multiple companions per player, or even multiple magi, so long as they have good reason not to go on adventures together. However, the Alternative Characters style works particularly well if the additional characters are grogs rather than companions: there is less pressure to keep playing the additional characters if it’s inconvenient, and as support characters, they have built-in reasons to accompany other characters in whatever they are doing.''
+''It is quite reasonable for a player to design and play as many supporting covenfolk characters as he wishes to spend time creating — they will appear in play as and when needed. Indeed, certain covenfolk may appear more often in play than some magi. Where stories are tailored to, and focus on, one magus at a time, the same covenfolk may be employed in support of all of them.''
+''Ars Magica Fifth Edition describes Pooled Characters as a separate style, but in truth, if you employ covenfolk as Additional Characters, then the two styles of play blur and overlap. A grog designed as an additional character by one player may drift into a pooled role if other players take him on when his owner is playing her magus or companion. Alternately, a''
+''grog designed as a pooled character may wind up being played most often by one particular player, who may eventually adopt him as her own. Characters may shift back and forth between the two states in an extended saga.''
+''In all of this, covenfolk, when created and played as grogs, enjoy all of the advantages described in ArM5, allowing risk taking and ham-acting, and allowing the storyguide to emphasize death and other serious events without overly disturbing the great investment players make in their magus characters.''
+''The character advancement rules make it particularly easy to maintain and update covenfolk: even if you forget to advance them regularly, it is easy to apply several years experience in one go, to “catch up” with game time.''
+
+==Saga Settings and their Covenfolk==
+
+''Saga styles vary, from the gritty realism of low fantasy to the everyday dealings with dragons and demons that characterize high fantasy. Likewise, sagas might emphasize mundane interactions or hermetic life, investigation of mysteries or political intrigue. The types of covenfolk relevant to each style quite obviously vary, though there remain some universally germane types as well. In addition to a saga’s style, the scale of the troupe’s covenant also has an impact on the types of covenfolk relevant to it.''
+''The sections that follow each provide a handful of templates relevant to a particular sample style or scope of''
+''play, including an isolated tower, a manor and farm, a grand castle, and a magical environment. These templates may, of course, be mix-and-matched as the troupe desires.''
+
+==An Isolated Tower==
+
+''The sample covenfolk in this section make their home in a physically small covenant at some remove from its mundane neighbors.''
+
+===Spying Maid===
+
+''Characteristics: Int +2, Per +2, Pre 0,''
+''Com +1, Str –1, Sta –1, Dex +1, Qik +1 Size: –1 Age: 23 (23) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Educated,''
+''Gossip, Keen Vision; Dutybound (to serve the one for whom she spies), Small Frame, Weakness (for books) Personality Traits: Watchful +3, Relaxed''
+''–2, Loyal +1 Reputations: None.''
+''Combat: Fist: Init +1, Attack +3, Defense +3,''
+''Damage –1 Soak: –1 Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –5''
+''(9–12), Incapacitated (13+) Abilities: [Native Language] 5, Artes''
+''Liberales 2 (grammar), Awareness 4 (search), Bargain 2 (fine goods), Brawl 1 (fist), Carouse 1 (staying sober), Charm 2 (first impressions), Covenant Lore 2 (who’s who), Etiquette 2 (magi), Folk ken 3 (magi), Guile 3 (magi), Intrigue 3 (plots), Latin 4 (Hermetic use), Legerdemain 3 (pilfering), Profession: steward 3 (keeping house), Stealth 3 (sneaking) Equipment: none. Encumbrance: 0 (0) Customization Notes: This maid is not''
+''all she seems — while an attentive and effective servant in a magus’s chambers, she is also a perceptive spy, reporting back to another magus in the covenant. Small Frame can be swapped for Obese (Size 0) if you re-figure her Wound Penalties. Keen Hearing, Light Touch, and Puissant Awareness are good alternatives to Keen Vision. This character can be used as a maid without being a spy — perhaps by replacing Dutybound with another Flaw such as Continence or Temperate, or changing the area of her Weakness — but her two Personality Flaws should not overlap. Abilities can be swapped freely, so long as 50 XP are left in Artes Liberales and Latin.''
+
+===Scribe===
+
+''Characteristics: Int +3, Per +1, Pre –2,''
+''Com 0, Str –2, Sta +1, Dex +3, Qik –1 Size: 0 Age: 26 (26) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Failed Apprentice;''
+''Educated, Magic Sensitivity; Ability Block (Martial Abilities), Covenant Upbringing, Optimistic (Minor) Personality Traits: Optimistic +3, Loyal''
+''+2, Pious –1 Reputations: None Combat: Dagger: Init –1, Attack +7, Defense +1,''
+''Damage +1 Dagger (mounted): Init –1, Attack +8,''
+''Defense +2, Damage +1 Soak: +1''
+''Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Artes''
+''Liberales 2 (logic), Athletics 1 (running away), Awareness 2 (searching), Carouse 2 (rude stories), Charm 1 (witty), Concentration 2 (study), Covenant Lore 3 (rules), Folk Ken 2 (magi), Guile 1 (evading trouble), Latin 5 (big words), Magic Lore 3 (elementals), Magic Sensitivity 4 (auras), Magic Theory 2 (copying), Order of Hermes Lore 2 (Peripheral Code), Prof: Scribe 5 (copying), Ride 1 (staying on), Teaching 3 (one-toone) Equipment: quills and ink, parchment,''
+''knife Encumbrance: 0 (0) Customization Notes: “Ah yes, it’ll be''
+''ready tomorrow, nearly finished…” You can change the scribe’s supernatural Virtue and Flaw for other options, even non-magical capabilities, though it is likely that as a failed apprentice he retains some magical capacity. You can swap Optimistic for Carefree, or even reverse it to Pessimistic. The XP from Educated have been spent on Latin and Artes Liberales.''
+
+[|
+
+==The Sample Characters==
+
+''The sample characters in this chapter are intended for use as grog templates, extending the set on ArM5, pages 21–22. Like those, these can and should be tweaked and customized when using them in a saga.''
+''Grogs should have no Major Virtues or Flaws, no more than three Minor Flaws balanced by an equal number of Minor Virtues, and no Story Flaws. Most characters should not have more than one Minor Personality Flaw, lest they move from entertaining to irritating, but grogs may often be an exception. A grog with two very different Minor Personality Flaws may become an instantly recognizable feature character of a saga.''
+''Since these templates reflect characters living close to or within a covenant, many have some level of Covenant Lore to reflect their knowledge of what goes on “up where the magi live,” as well as some quantity of Village Lore to describe what they know about things “down in the village.”''
+
+|]
+
+==A Manor and Farm==
+
+''These covenfolk inhabit a larger covenant enmeshed — to a greater or lesser extent — in the mundane politics of the immediate region.''
+''Other manor-based characters might include an ale-wife, charcoal-burner, or weaver (all based on the Craftsman template); swine-herds or farmers (based on the Peasant), or a steward or reeve (based on either the Lord of the Manor or — for a skilled non-fighter — on the Lady).''
+
+===Lord of the Manor===
+
+''Characteristics: Int +1, Per 0, Pre +2,''
+''Com +2, Str +1, Sta 0, Dex –1, Qik 0 Size: 0 Age: 29 (29) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Gentleman; Inspirational, Warrior; Ability Block (Logic), Fear (of overt magic), Weakness (for good food) Personality Traits: Brave +3, Loyal +3,''
+''Cautious +1 Reputations: None Combat:''
+''Long sword: Init +2, Attack +8, Defense +6,''
+''Damage +7 Long sword & Heater: Init +2, Attack +8,''
+''Defense +9, Damage +7 Dagger: Init +0, Attack +4, Defense +3,''
+''Damage +4 Fist: Init 0, Attack +1, Defense +2, Damage''
+''+1 Long sword (mounted): Init +2, Attack +11,''
+''Defense +9, Damage +7 Long sword & Heater (mounted): Init +1, Attack''
+''+11, Defense +12, Damage +7 Dagger (mounted): Init +0, Attack +7,''
+''Defense +6, Damage +4 Soak: +0 (unarmored); +9 (chainmail, in''
+''which sword Init drops to 0 and dagger and fist Init drop to –2) Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Animal''
+''Handling 1 (falcons), Athletics 1 (run), Awareness 2 (alertness), Bargain 2 (nobles), Brawl 2 (dagger), Carouse 2 (tall tales), Charm 1 (nobles), Covenant Lore 2 (rules and charter), Etiquette 4 (magi), Folk Ken 4 (peasants), Guile 1 (elaborate tales), Hunt 2 (mounted), Intrigue 2 (nobles), Leadership 4 (grogs), Music 2 (sing), Profession: Steward 1 (management), Ride 3 (speed), Single Weapon 4 (long sword), Survival 1 (camping out), Village Lore 5 (local laws) Equipment: fine clothes, sword, dagger,''
+''horse, suit of mail Encumbrance: 1 (2); 3 (4) if armored Customization Notes: This lord is pre''
+''sumed to be the spouse of a landholding wife who is a companion player character. He is primarily a figurehead to hold the covenant’s manor, a ruler rather than a warrior, there to govern the grogs outside the turb, and to lead and manage the village. Piercing Gaze is a good replacement for Inspirational. His Fear and Weakness can be changed to other subjects, or replaced by Reckless or Overconfident. Warrior must remain both for the XP (all spent on Single Weapon) and to permit his Martial Abilities.''
+
+===Lady of the Manor===
+
+''Characteristics: Int +2, Per +1, Pre +2,''
+''Com +1, Str –1, Sta –1, Dex +1, Qik 0 Size: 0 Age: 20 (20) Decrepitude: 0''
+''Warping Score: 0 (0) Virtues and Flaws: Gentlewoman; Premonitions, Privileged Upbringing; Ability Block (Martial), Dutybound, Proud (Minor). Personality Traits: Proud +3, Brave +2,''
+''Loyal +2 Reputations: None Combat: Fist: Init 0, Attack +1, Defense 0, Damage''
+''–1 Soak: –1 (Stamina) Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Artes''
+''Liberales 1 (arithmetic), Awareness 1 (alertness), Bargain 3 (household purchases), Carouse 1 (ladies’ games), Charm 1 (first impression), Civil & Canon Law 2 (local area), Covenant Lore 1 (people), Etiquette 4 (nobles), Folk Ken 3 (nobles), Intrigue 3 (ladies), Latin 3 (vocabulary), Premonitions 3 (peril to manor), Profession: Steward 4 (manor), Ride 1 (safely), Village Lore 3 (customs) Equipment: fine clothes, anything a pros''
+''perous manor can afford Encumbrance: 0 (0) Customization Notes: The lady is''
+''designed as spouse to a player character companion Lord of the Manor; she could be expanded into a companion herself by elevating her Pride to a Major Flaw and adding a few other Flaws and Virtues to accompany them. Her abilities can be shuffled, but she must retain exactly 50 XP in Academic Abilities from her Privileged Upbringing — but no more unless she gains the Educated Virtue. As a companion she’d also have a Confidence Score and Points.''
+
+===Blacksmith===
+
+''Characteristics: Int 0, Per 0, Pre +2, Com''
+''–1, Str +2, Sta +2, Dex +2, Qik –1 Size: 0 Age: 29 (29) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Craftsman; Great''
+''Characteristics, Puissant Craft: Blacksmith, Second Sight; Disfigured (by tattoos), Generous (Minor), Missing Eye Personality Traits: Generous +2, Brave''
+''+2, Loyal +2 Reputations: None Combat:''
+
+[|
+
+==Grog Creation as an Introduction to Ars Magica==
+
+''The process of designing grogs provides an excellent introduction to Ars Magica character generation for those not familiar with the game, who have not yet mastered the intricacies of the system. Players creating grogs benefit from an encouragement to experiment, to try out ideas, and to “push the envelope” a bit. This allows them to get their feet wet before they spend the effort to design a full magus, and prevents them from feeling committed to a magus character  with obvious failings arising from misunderstandings about the game system. Grogs are both simpler and more “disposable,” allowing one to feel safe in making mistakes.''
+''Covenfolk also provide the storyguide with a sideline in walk-on roles, especially in sagas where there is only one alpha storyguide running adventures, with no full-time character in the saga.''
+
+|]
+''Fist: Init –1, Attack +8, Defense +5,''
+''Damage +2 Hammer (as mace): Init +0, Attack +9,''
+''Defense +3, Damage +10 Soak: +4 (partial heavy leather) Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Athletics''
+''4 (wrestling), Awareness 1 (search), Bargain 2 (goods), Brawl 5 (fists), Carouse 3 (stories), Chirurgy 2 (wounds), Craft: Blacksmith 5+2 (fine work), Covenant Lore 1 (names), Folk Ken 2 (peasants), Guile 1 (tall stories), Second Sight 4 (invisible), Single Weapon 3 (hammer), Stealth 1 (sneak), Survival 1 (camping out), Village Lore 3 (history) Equipment: forge and workshop, hammer''
+''and other tools, heavy leather apron Encumbrance: 0 (2) Customization Notes: The blacksmith''
+''reflects a folk-tradition of iron-working as a mystical ability, with a sacrifice of power (one eye) in return for a special affinity for iron, and the Sight. He can also be used as a model for other physically strong craftsmen or farmers, replacing Second Sight and Missing Eye with other choices, and shuffling Abilities.''
+
+===Craftsman Or Craftswoman===
+
+''Characteristics: Int 0, Per +1, Pre –1,''
+''Com 0, Str 0, Sta +2, Dex +2, Qik +1 Size: 0 Age: 20 (20) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Craftsman; Light''
+''Touch, Puissant Craft; Ability Block (Logic), Avaricious (Minor) Personality Traits: Avaricious +3, Brave''
+''–2, Loyal +1 Reputations: None Combat: Dagger: Init +1, Attack +6, Defense +3,''
+''Damage +3 Soak: +2 Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Awareness''
+''1 (search), Bargain 4 (trade), Brawl 1 (dagger), Carouse 3 (drinking), Charm 3 (smooth talker), Covenant Lore 1 (who’s who), Craft: [Type] 5+2 (varies), Folk Ken 1 (peasants),''
+''Guile 4 (fast talk), Village Lore 2 (local customs) Equipment: domestic and work clothes,''
+''working tools Encumbrance: 0 (0) Customization Notes: The craftsman or''
+''craftswoman (either applies equally) template can be applied to many figures in a village, from the ale-wife to weaver.''
+
+===Farming Peasant===
+
+''Characteristics: Int –1, Per +1, Pre –1,''
+''Com –1, Str +3, Sta +3, Dex 0, Qik –2 Size: 0 Age: 25 (25) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Peasant; Animal Ken,''
+''Enduring Constitution; Clumsy, Greedy (Minor). Personality Traits: Greedy +3, Loyal +2,''
+''Brave +1 Reputations: None Combat: Fist: Init –2, Attack +4, Defense +2,''
+''Damage +3 (*) Pitchfork: Init –1, Attack +6, Defense +2,''
+''Damage +8 (*)  (*Clumsy: +1 botch dice on all Dexterity related activities) Soak: +3 Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Animal''
+''Handling 4 (cattle), Animal Ken 3 (cattle), Athletics 1 (run), Awareness 2 (search), Bargain 1 (produce), Brawl 3 (fist), Carouse 3 (power drinking), Climb 2 (trees), Covenant Lore 2 (grogs), Craft: Farmer 4 (plowing), Folk Ken 2 (peasants), Great Weapon 2 (pitchfork), Guile 3 (lying to authority), Ride 2 (mule), Survival 2 (sleeping rough), Village Lore 2 (people) Equipment: clothes according to prosper''
+''ity, farming tools Encumbrance: 0 (1) Customization Notes: The peasant farm''
+''er may be anything from a lowly laborer to a farmer with his own modest holding to a landless swineherd. When employed by a covenant, the farmer’s land is held from the covenant’s manorial holdings. His Virtues, Flaws, and Abilities can be changed freely, as the concept is simply “strong, land-linked peasant.” Peasants can as easily be female as''
+''male, even down to working in the fields or herding animals.''
+
+==A Grand Castle==
+
+''These covenfolk live at a great fortification that’s the envy — or nightmare — of every noble for miles and miles. Such a covenant might profitably employ a book-binder, cook, percamenarius (parchment-maker), and silver-smith — these can be based on the craftsman template above. The castle is also very likely to have a castellan or steward, which can be based on the lord of the manor or lady of the manor templates. The templates below describe additional covenfolk that might be found at a grand castle.''
+
+===Chaplain===
+
+''Characteristics: Int +2, Per 0, Pre +2,''
+''Com +3, Str –2, Sta 0, Dex –1, Qik –1 (1) Size: 0 Age: 39 (39) Decrepitude: 0 (1) Warping Score: 0 (0) Virtues and Flaws: Priest; Good Teacher, Relic; Fragile Constitution, Noncombatant, Vow (celibacy) Personality Traits: Pious +3, Loyal +2,''
+''Brave –1 Reputations: None Combat: Fist: Init –1, Attack –1, Defense –1,''
+''Damage –2 Soak: +0 Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Artes''
+''Liberales 4 (rhetoric), Awareness 3 (alertness), Bargain 2 (parishioners), Carouse 1 (stories), Charm 3 (witty), Church Lore 4 (rites and rituals), Covenant Lore 3 (rites and rituals), Etiquette 2 (magi), Folk Ken 3 (grogs), Intrigue 1 (avoiding plots), Latin 5 (church Latin), Music 4 (church music), Order of Hermes Lore 2 (magi), Philosophiae 3 (metaphysics), Profession: Scribe 1 (copying), Ride 2 (mule), Teaching 5 (small groups), Village Lore 3 (rites and rituals). Equipment: vestments and traveling''
+''clothes, bible, missal Encumbrance: 0 (0) Customization Notes: A more mystically''
+''inclined scholar might swap Relic''
+''for Student of the Divine, and move XP from Music to Dominion Lore. Other Virtues and Flaws can easily be fitted in, although Priest is needed to define his role.''
+
+===Minstrel===
+
+''Characteristics: Int +1, Per +1, Pre 0,''
+''Com +3, Str –1, Sta 0, Dex +1, Qik –1 Size: –1 Age: 32 (32) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Custos; Enchanting''
+''Music, Puissant Enchanting Music; Covenant Upbringing, Hunchback, Small Frame Personality Traits: Charming +3, Loyal''
+''+3, Brave –2 Reputations: None Combat: Fist: Init –1, Attack +3, Defense +1,''
+''Damage –1 Soak: +0 Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Awareness''
+''2 (attentive), Bargain 1 (music), Brawl 1 (fist), Carouse 2 (coarse songs), Charm 3 (sweet words), Covenant Lore 3 (history), Enchanting Music 6+2 (love), Etiquette 2 (covenants), Faerie Lore 1 (fabulous tales), Folk Ken 1 (magi), Guile 3 (elaborate lies), Intrigue 2 (magi), Latin 4 (Hermetic use), Leadership 2 (grogs), Legerdemain 3 (nimble fingers), Magic Lore 2 (fabulous tales), Music 4 (wide knowledge), Order of Hermes Lore 2 (history), Ride 1 (mule) Equipment: lute, fine clothes, travel''
+''clothes, fancy sword (not that he can use it…) Encumbrance: 0 (0) Customization Notes: While this musi''
+''cian can sing magical music, another’s might be mundane, and Magic Sensitivity or Second Sight might replace Enchanting Music, while Puissant Music replaces Puissant Enchanting Music. The spread of XP could be narrowed to make a more specialized musician, or widened further by taking XP from the highestlevel Abilities.''
+
+===Washer-woman===
+
+''Characteristics: Int +1, Per +1 (1), Pre''
+''0, Com 0, Str 0, Sta 0, Dex –3 (2), Qik 0 Size: 0 Age: 47 (47) Decrepitude: 2 (4) Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Sharp''
+''Ears, Social Contacts; Busybody, Covenant Upbringing Personality Traits: Nosy +3, Loyal +3,''
+''Crotchety +2 Reputations: Busybody 3 (local) Combat: Kick: Init –1, Attack –1, Defense +1,''
+''Damage +3 Soak: +0 Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Awareness''
+''4 (alertness), Bargain 3 (grogs), Brawl 1 (kick), Carouse 3 (drinking songs), Charm 4 (young men), Chirurgy 4 (cuts and scrapes), Covenant Lore 4 (where things are), Etiquette 3 (magi), Folk Ken 4 (grogs), Guile 4 (petty deceits), Intrigue 5 (behind magi’s backs), Latin 4 (Hermetic use), Leadership 4 (bossing grogs), Order of Hermes Lore 1 (other covenants), Profession: Washer-woman 4 (wizard’s robes), Village Lore 4 (people) Equipment: clothes, household tools Encumbrance: 0 (0) Customization Notes: The washer-woman''
+''can be used for other older character roles — anyone who’s experienced but getting frail. Abilities and Virtues can be swapped freely, except Covenant''
+''Upbringing, which brings her Latin and Order of Hermes Lore.''
+
+===Weapons Instructor===
+
+''Characteristics: Int 0, Per 0, Pre 0, Com''
+''+2, Str +2, Sta 0, Dex +1, Qik 0 Size: 0 Age: 30 (30) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Custos; Affinity''
+''(Single Weapon), Warrior; Covenant Upbringing, Disfigured (scarred), Lame Personality Traits: Brave +3, Loyal +3,''
+''Pious –1 Reputations: None Combat: Combat scores include penalties for the Lame Flaw:''
+''–3 on Dodge, and –1 on other combat scores. Long sword: Init +1, Attack +12, Defense''
+''+8, Damage +8 Long sword & Heater: Init +1, Attack +12,''
+''Defense +11, Damage +8 Dagger: Init –1, Attack +7, Defense +4,''
+''Damage +5 Great sword: Init +1, Attack +9, Defense''
+''+5, Damage +11 Long bow: Init –3, Attack +8, Defense +3,''
+''Damage +10 Thrown Knife: Init –1, Attack +5, Defense''
+''+3, Damage +4 Dodge: Init –3, Attack n/a, Defense +1,''
+''Damage n/a Long sword (mounted): Init +1, Attack +15,''
+''Defense +11, Damage +8 Long sword & Heater (mounted): Init +1, Attack''
+''+15, Defense +14, Damage +8 Dagger (mounted): Init –1, Attack +10,''
+''Defense +7, Damage +5 Thrown Knife (mounted): Init –1, Attack +8,''
+''Defense +6, Damage +4 Soak: +0 (unarmored); +6 (partial chain''
+''mail) Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Animal''
+''Handling 1 (horses), Athletics 2 (running), Awareness 2 (alertness), Brawl 4 (dagger), Bows 3 (long bow), Carouse 2 (power drinking), Covenant Lore 2 (rules), Folk Ken 1 (grogs), Great Weapon 3 (great sword), Hunt 0 (2) (on horse), Leadership 4 (training), Ride 3 (battle), Single Weapon 7 (long sword), Stealth 2 (hide), Survival 2 (woods), Swim 1 (stay afloat), Teaching 4 (soldiers), Thrown Weapon 3 (knife)''
+''Equipment: long sword; if called to battle''
+''also a chain shirt and horse Encumbrance: 0 (2); 1 (3) if armored Customization Notes: Abilities can eas''
+''ily be swapped to make this character a master of some other Ability. He could narrow his focus to just one Martial Ability to become a real specialist. The Lame Flaw can be changed to Reckless or another Martial Flaw, removing the combat penalties while staying close to concept.''
+
+==A Magical Environment==
+
+''These covenfolk dwell in a highly magical environment. This may be a magical regio, an underground labyrinth, a flying castle in the clouds, or anything else that takes the fancy of the troupe — but it is sustained and fed largely by magic rather than mundane efforts. The three templates that follow — the artist, glass-blower, and lore-master —are correspondingly less “practical” than some others in previous sections.''
+
+===Artist===
+
+''Characteristics: Int +1, Per +2, Pre –1,''
+''Com 0, Str 0, Sta +1, Dex +2, Qik 0 Size: 0 Age: 21 (21) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Free''
+''Expression, Puissant Craft: Painter, Second Sight; Fragile Constitution, Incomprehensible, Poor Hearing Personality Traits: Fey +3, Loyal +2,''
+''Pious +2 Reputations: None Combat: Short sword: Init +0, Attack +8, Defense''
+''+4, Damage +5 Soak: +1 (Stamina) Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Awareness''
+''3 (attentive study), Carouse 1 (games of chance), Charm 1 (being witty), Church Lore 3 (inspirational art), Covenant Lore 2 (people), Craft: Painter 5+2 (people), Etiquette 3 (magi), Folk Ken 1 (grogs), Guile 1 (grogs), Single Weapon 2 (short sword), Second Sight 5 (illusions) Equipment: clothes, charcoal, (re-)scraped''
+''parchment''
+''Encumbrance: 0 (0); 1 (1) if armed with''
+''short sword Customization Notes: Change Craft:''
+''Painter to Craft: Sculptor, Potter, or Weaver to create an artist in a different medium, or substitute Music for a composer. Magi may find it useful for the artist to learn realm-based Lore Abilities so she can depict scenes from the realms.''
+
+===Glass-blower===
+
+''Characteristics: Int –1, Per +2, Pre –2,''
+''Com –2, Str +2, Sta +2, Dex +4, Qik –1 Size: –1 Age: 26 (22) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Custos; Faerie Blood:''
+''Dwarf Blood, Great Dexterity; Offensive to Animals, Oversensitive (about height), Small Frame Personality Traits: Grumpy +3, Brave +3,''
+''Loyal +2 Reputations: None Combat: Axe: Init +0, Attack +13, Defense +4,''
+''Damage +8 Fist: Init –1, Attack +9, Defense +4,''
+''Damage +2 Axe & Round Shield: Init +0, Attack +13,''
+''Defense +6, Damage +8 Axe (mounted): Init +0, Attack +15, Defense''
+''+6, Damage +8 Axe & Round Shield (mounted): Init +0, Attack''
+''+15, Defense +8, Damage +8 Soak: +2 (Stamina); +11 (chain mail)''
+''Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –5''
+''(9–12), Incapacitated (13+) Abilities: [Native Language] 5, Athletics''
+''2 (run), Awareness 2 (searching), Bargain 2 (glass), Brawl 4 (fist), Carouse 4 (power drinking), Covenant Lore 2 (people), Craft: Glassblower 5+1* (delicate work), Folk Ken 2 (grogs), Guile 2 (soldiers), Latin 3 (magi), Ride 2 (speed), Single Weapon 4 (axe)  (* +1 Craft bonus from Dwarf Blood) Equipment: glassworker’s workshop and''
+''tools, heirloom axe, chain mail Encumbrance: 0 (2); 2 (4) if armored Customization Notes: In 1220 it was still''
+''very difficult to manufacture pure clear glass. The process is almost alchemical, and Faerie Blood provides a rationale for a glass-maker who can make it. Making clear glass by magic is an expensive alternative, requiring Creo rituals (and vis); Perdo cannot be used to remove “just” the impurities, as it is in the nature of Perdo to make things more flawed than the ideal. Only Creo can move matter towards an ideal. This glass-blower’s Craft skill can be changed freely, and the Offensive and Oversensitive Flaws easily changed. The Dwarf Blood Virtue is not, strictly speaking, necessary, but provides a good story reason for a martial craftsman. Swapping Custos for Warrior or Privileged Background provides more XP while still allowing Martial Abilities.''
+
+===Lore-master===
+
+''Characteristics: Int +2, Per +1, Pre 0, Com''
+''+1, Str 0, Sta +1, Dex +1, Qik 0 Size: 0 Age: 37 (37) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Custos; Educated,''
+''Privileged Upbringing; Ability Block (Martial), Covenant Upbringing, Soft-Hearted Personality Traits: Soft-hearted+3, Dreamy +2, Loyal +2 Reputations: None Combat: Fist: Init +0, Attack +1, Defense +0,''
+''Damage +0 Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+)''
+''Abilities: [Native Language] 5, Artes''
+''Liberales 4 (logic), Church Lore 3 (rites and rituals), Covenant Lore 3 (history), Dominion Lore 5 (angels), Faerie Lore 5 (faerie forests), Infernal Lore 5 (demons), Latin 4 (vocabulary), Magic Lore 5 (creatures), Order of Hermes Lore 4 (great wizards), Noble Lore 4 (heraldry), Philosophiae 4 (natural philosophy), Village Lore 2 (history) Equipment: writing materials, traveling''
+''clothes Encumbrance: 0 (0) Customization Notes: You can shuffle''
+''XP among the lore-master’s Abilities to vary his style of scholarship, and change the Flaws at will. The current Virtues provide extra XP and access to Arcane Lores; changing Custos to Arcane Lore lowers his status but provides another 50 XP. Changing the Lores to Languages, and Privileged Upbringing to WellTraveled, turns the character into a translator; changing to Area Lores makes a geographer.''
+
+==Making Covenfolk Interesting==
+
+''Some covenfolk serve immediate and obvious roles in the covenant  but rarely find places in stories. The covenant may need to have a baker, for example, but why would a baker be interesting to play? And why, for that matter, would the troupe even want an interesting baker?''
+''The second question should be answered first, because its answer is simple and obvious: Interesting characters, no matter their station, make for interesting stories. The answer to the first question — what might make lowly covenfolk interesting to play? — is a bit more difficult, but not overly so. There are a number of good strategies.''
+''First, such characters sometimes have unexpected talents — either Abilities or Virtues — that play either for or against their type. A baker with Puissant Craft: Baking might be the toast of the covenant for his masterworks, while one with Arthritis might make poorly kneaded bread that no one wants to eat. Both options suggest many stories. Visitors''
+''who’ve heard of the former baker’s pastries might come from far and wide to taste for themselves, while a crotchety magus might get literally fed up with the latter’s dense loaves and demand that the aged — but perhaps well-liked among the other covenfolk — baker be replaced.''
+''Covenfolk might also have entertaining Virtues, Flaws, or Personality Traits unrelated to their profession. Characters who complain ceaselessly about even rosy situations, see profit in even the most marginal enterprises, or always have just the right piece of romantic advice can become saga fixtures whose presence in stories is demanded by players. When these characters draw more from magi, companions and other grogs — more personality, more story possibilities, more roleplaying — they truly live up to their potential and give the saga life it would lack without their presence.''
+''Some covenfolk find recurring roles simply because their skills are useful, or the storyguide finds them useful to introduce adventure seeds. While the core rules emphasize the Story Flaws of the magi and companions, and discourage grogs from having Story Flaws, it may still turn out to be humble grogs who provide the lever needed to prize reluctant magi out of their laboratories by stumbling across trouble. Virtues or non-Story Flaws can even provide story seeds; Faerie Blood or Second Sight may lead to faerie encounters, for example.''
+''Covenfolk can also develop relationships to characters outside the covenant, and these also provide natural links to stories. What’s even better is that these links often arise naturally from the ongoing nature and long duration of a saga. Grogs who have taken part in adventures may become inextricably entwined with the circumstances and events of the story as it unfolded.''
+''Note that even oft-overlooked specialist characters purchased with Build Points can be brought into the limelight when particular stories would clearly involve them. It may be necessary to improvise an anonymous scribe’s personality — or even his name! — the first time this happens for a particular specialist. As the saga progresses, however, full statistics should be considered for the specialists who have made in-game appearances. That way they can return in the future, fleshed out in three dimensions, and add verisimilitude to your saga.''
+''The templates that follow provide two examples of covenfolk who can serve as entertaining player characters, veritable founts of story material, or both.''
+
+===Baker===
+
+''Characteristics: Int +2, Per +1, Pre +1,''
+''Com 0, Str +1, Sta 0, Dex 0, Qik +1 Size: 0 Age: 22 (22) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Free''
+''Expression, Lesser Purifying Touch (that cures indigestion); Faerie Upbringing, Obese Personality Traits: Cheerful +3, Pious –3,''
+''Loyal +2 Reputations: None Combat: Fist: Init +1, Attack +3, Defense +4,''
+''Damage +1 Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Awareness''
+''2 (faeries), Bargain 3 (baking), Brawl 2 (fist), Carouse 2 (drinking), Charm 4 (good cheer), Covenant Lore 2 (people), Craft: Baker 6 (new inventions), Faerie Lore 4 (local fae), [Surrounding Area] Lore 3 (geography), Survival 1 (faerie forests) Equipment: clothing, baking equipment,''
+''bakery Encumbrance: 0 (0) Customization Notes: This returned''
+''changeling — who bakes bread and cakes faerie-style, to the bemusement of his fellows in the covenant.— can have his Virtues and Flaws swapped freely. If dropping his Faerie Upbringing, however, move the related XP to another Ability.''
+
+===Spouse With a Secret (Skinchanger)===
+
+''Characteristics: Int 0, Per +1, Pre +1,''
+''Com 0, Str 0, Sta +1, Dex 0, Qik +1 Size: –1 Age: 18 (18) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Keen''
+''Vision, Second Sight, Skinchanger (raven); Obsessed (with shiny things), Small Frame, Weak Characteristics Personality Traits: Picky +3, Avaricious''
+''+3, Loyal +2 Reputations: None Combat: Fist: Init +1, Attack +3, Defense +4,''
+''Damage +0 Soak: +1''
+''Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –5''
+''(9–12), Incapacitated (13+) Abilities: [Native Language] 5, Awareness''
+''3 (searching), Bargain 1 (shiny things), Brawl 2 (fist), Carouse 1 (stay sober), Charm 1 (witty), Chirurgy 2 (wounds), Covenant Lore 1 (people), Folk Ken 1 (peasants), Hunt 2 (from the air), Music 4 (sing), Profession: Steward 3 (house-keeping), Second Sight 3 (from the air), Stealth 2 (sneaking), Village Lore 2 (people) Equipment: clothes, household equip''
+''ment, magical raven cloak Encumbrance: 0 (0)''
+''RAVEN FORM Characteristics: Int 0,* Per +1, Pre -1,''
+''Com 0, Str –6, Sta –2, Dex +1, Qik +3  (* Human Intelligence, otherwise raven Characteristics) Size: –3 Combat: Beak: Init +3, Attack +6, Defense +7,''
+''Damage –4 Claws: Init +2, Attack +5, Defense +6,''
+''Damage –6 Soak: +1*  (* Includes +3 bonus for Skinchanger) Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–2), –3 (3–4), –5''
+''(5–6), Incapacitated (7+) Natural Weapons: The weapon statistics''
+''for a raven’s beak are Init 0, Atk +3, Def +2, Dam +2; statistics for its claws are Init –1, Atk +2, Def +1, Dam +0. Customization Notes: This character’s''
+''Obsession could easily be Avaricious (Minor), instead. You could also change the animal form to any other, and swap Flaws and secondary Virtues (Second Sight, etc.) to fit the new beast, adding, for example, feline Keen Hearing, Magic Sensitivity, and Cruel (Minor).''
+
+==Magical Alternatives to Covenfolk==
+
+''The natural assumption when sketching out a medieval community is to allo''
+''cate people to perform the work that is needed, whether they be grogs or specialists. However, this is not always convenient or possible. The most obvious constraint is the space available within the covenant. A single tower can only accommodate a limited number of folk, especially when the largest chambers are occupied by magi and their laboratories''
+''(and their benches, glassware, and such), leaving perhaps only one common room for the others. Some such towers may have ancillary buildings for grogs, or a nearby village that can house covenfolk, but other covenants cannot even manage that much extra space. A flying boat, for example, has only the space within its own confines, and no more is possible.''
+
+[|
+''Rego magic can make any change a mundane craftsman can effect, even when the magus is limited by lack of tools, time, or skill. However, Rego cannot create matter, so whatever is in the final product must be supplied as source material: to turn iron into steel a magus needs both iron and carbon; to dye cloth or leather she must have a supply of dye. Materials that a craftsman would use  and then remove from the product, are not needed for craft magic. For example, magic can bleach skins to make parchment without the lye that a percamenarius must use.''
+''Rego craft magic works by rearranging existing material, and requires a Finesse roll to control this rearrangement. (Creo magic draws on the realm of Forms to produce things, which are always at least roughly right.) As a baseline, this has an Ease Factor at least 3 higher than the Ease Factor for doing the same thing by normal craft. Failure means that the spell produces a mess rather than a useful item; a botch means that the failure is overlooked (that is, the object is seemingly normal) but will let the user down treacherously, usually when he least expects it. For example, a botched woven cloth might not unravel until a garment made from it is worn in public; a botched parchment might accept the ink, but flake it off when left undisturbed.''
+''Factors which might increase the Ease Factor of the Finesse roll include drastic shortening of time. While a day’s work in an instant is “just normal magic,” a month’s or longer effort would increase the Ease Factor by +3 for a month’s work, +6 for a season’s work, or +9 for a year’s work. If the mundane craft would use many temporary substances to process the work, consider adding +3 or more to the Ease Factor.''
+''Rego craft as rearrangement of materials means that some functions of the mundane craftsman are outside the province of craft magic. For instance, a butcher can kill an animal with a knife, but craft magic cannot do this, as lifeinto-death is not a rearrangement but a destruction (which falls in the realm of Perdo magic). (Non-craft Rego could, however,, with enough Finesse, wield a knife to similar effect.) Similarly, a skilled craftsman can examine and interpret an object’s manufacture and guess at its history or function, but this is not rearrangement of materials either, it is Intellego magic.''
+''Extending the duration of a Rego craft spell makes the spell perform the same action over and over on the same starting materials — it is almost always inappropriate.''
+
+==Rego Craft Magic==
+
+
+===Craft Task Craft Ease Factor Minimum Rego Craft Ease Factor===
+
+''Trivial 0 3''
+''Simple 3 6''
+''Easy 6 9''
+''Average 9 12''
+''Hard 12 15''
+''Very Hard 15 18''
+''Impressive 18 21''
+''Remarkable 21 24''
+''Almost Impossible 24+ 27+''
+
+|]
+''Whatever the reasons magi might find it difficult to attract or house covenfolk, however, magic gives them  options for getting work done that are not available to common, mundane communities.''
+''Spells can perform a task in a trice: Rego magic can make any change which a mundane craftsman can perform, even when the magus is limited by lack of tools, time, or skill. But while spells can be an instant solution, they are not always perfect. Spontaneous magic is limited in its results, while formulaic magic requires that some magus spend time to invent the spell formula (either from a Lab Text, or worse, from scratch). Spells also require a magus to cast them, which distracts the magus from study or lab-work whenever the spell is needed — and requires that the magus be present at the covenant, not away enjoying an adventure. Rego craft magic furthermore depends on the Finesse''
+''of the casting magus, another study burden, and the Finesse required for a given task may be higher than the available magi are prepared to work up to.''
+''Magical enchanted devices can reproduce many of the effects of spells, including all of the regular housekeeping spells. Further, devices enable non-magi to trigger their effects, so the covenant’s masters may stay in their chambers while a small number of grogs work with wands. Magical devices do, however, require an investment of time and raw vis to create, though duplicate devices may be created much more quickly than unique ones using the original’s Lab Text. Devices may have environmental or Intellego triggers, but generally require living grogs to wield and direct them. Devices may also be tricky to use: if the magic requires a Finesse roll to produce high-quality work, covenfolk without specialty training in''
+''arcane Finesse will fail to put such devices to good use, which  probably rules out most Rego-based craft magic in devices.''
+''Magical automata may provide selfdirected and active service. Creating such devices is beyond the scope of this book, although some may remain as artifacts from past archimagi or others.''
+''Alternatively, entire portions of the covenant might be enchanted as devices, replacing the staff and taking over their functions The covenant may not have a gate with guards, for example, but a huge spell-driven mechanism with fearsome automata, or the whole gate concept may be reorganized and entrance effected by combined magical-transport and remote sensing devices.''
+''Replacing servants with magic has additional benefits: a magical oven is much more compact than a baker, especially as it has no family. What’s more, it does not get hung-over on the weekend. That said, the story-potential of a hung-over baker is rather higher than that of a perfectly repeating magical device. Ars Magica devices from the standard rules are not normally fickle and temperamental.''
+''People also have an advantage over spells and devices when it comes to flexibility. Spells and devices are quite rigid in performing the tasks built into them, and do not easily adapt to changing circumstances. Grogs, on the other hand, can both follow orders and also think for themselves, reacting to unforeseen events.''
+
+==Spells==
+
+''A few spells and new spell level guidelines follow, describing just a few work-saving options commonly employed by magi of the Order of Hermes. There are additional crafting spells in Chapter 7: Library, for example, to turn hide into parchment.''
+
+===New Guidelines===
+
+''Creo Animal Guidelines Level 2:	 Preserve a corpse from decay.''
+''Rego Animal Guidelines Level 1:	 Manipulate items made of ani''
+''mal products. Level 2:	 Treat items made of animal''
+''products. Level 3:	 Treat and process items made of''
+''animal products.''
+''For greater complexity add one or two magnitudes. (Increased complexity usually also increases the Ease Factor of the mundane craft, and so increases the Finesse roll Ease Factor.)''
+''Creo Herbam Guidelines Level 2:	 Preserve a dead plant from''
+''decay.''
+''Rego Herbam Guidelines Level 3:	 Manipulate items made of plant''
+''products. Level 4:	 Treat items made of plant prod''
+''ucts. Level 5:	 Treat and process items made of''
+''plant products. For greater complexity add one or two magnitudes (e.g., Base 15 might be used to weave thread into a tunic).''
+''Rego Terram Guidelines Level 2:	 Shape and form dirt, as if a''
+''craftsman had worked it. Add one magnitude for stone or glass, two for metal of gemstones. Add one or two magnitudes according to complexity.''
+
+===New Spells===
+
+
+===a Spell To Milk Cattle===
+
+''ReAn 15 R: Touch, D: Conc, T: Group While you wait, the cows are magically milked without further handling, transferring their milk into nearby milkpails. The magus’s Perception + Finesse roll substitutes for an Animal Handling roll by a competent farmer; the spell gathers the milk, but if the roll is failed, the cattle may be spooked.''
+''Milking cattle is normally Simple (3) if the cattle are accustomed to the process and the milking hand, so the basic Finesse Ease Factor is at least 6, higher if anything disturbs the cows. Cows are initially be disconcerted at being milked by invisible hands, and need soothing (The Gentle Herd is ideal for this task). Unless magically calmed, the Finesse roll is Very Hard (15+) the first time cows are milked by magic, but this Ease Factor reducing over time and successful milking to 12, then 9, until the cows become accustomed to the process (6).''
+''(Base 3, +1 Touch, +1 Conc, +2 Group)''
+
+===The Gentle Herd===
+
+''ReAn 20 R: Touch, D: Conc, T: Group A group of animals are rendered calm and placid, even while unusual events''
+''occur, such as invisible hands milking them.''
+''(Base 4, +1 Touch, +1 Conc, +2 Group)''
+
+===The Carpenter’s Keen Eye===
+
+''InHe 15 R: Voice, D: Mom, T: Group The magus learns whether wood is suitable for use in carpentry, with an indication of the treatment needed (e.g. “unseasoned — season it”, or “old, brittle, and dry — discard it”).''
+''(Base 3, +2 Voice, +2 Group)''
+
+===a Spell To Kill Weeds===
+
+''PeHe 20 R: Touch, D: Mom, T: Group The magus touches a weed, and it and all similar plants within a 15-pace range — up to 10 cubic paces of plant material — are weeded out.''
+''(Base 5, +1 Touch, +2 Group)''
+
+===The Mystical Carpenter===
+
+''ReHe 25 R: Touch, D: Mom, T: Group The magus selects a pile of wood, and the spell cuts, splits, carves, and joins the wood into the desired form. Any nails needed must be supplied, but wooden dowels can be formed from the supplied wood.''
+''The magus must make a Perception + Finesse roll to determine the success of the process, substituting for a Craft: Carpenter roll, and if this fails, the results is just a mess of chopped-up wood. The Ease Factor is at least 3 higher than a carpenter’s Craft roll would require, so the simplest basic items have an Ease Factor of 6, increasing as the task gets harder.''
+''If the magus chooses inappropriate wood (such as green, unseasoned wood), the spell still acts — as if an unwilling carpenter worked against his better judgment — but the resulting goods will undoubtedly split and warp later. The magus’s choice of wood can be improved by The Carpenter’s Keen Eye, or the advice of a real carpenter.''
+''(Base 5, +1 Touch, +2 Group, +1 flexibility)''
+
+===The Invisible Glass-worker===
+
+''ReTe 4 R: Touch, D: Mom, T: Ind The magus may transform a piece of glass into a finished form, as if a glassworker had shaped and formed it. The magus must succeed with a Perception + Finesse roll substituting for Craft: Glassworker against an Ease Factor at least 3 higher than the mundane Ease Factor. Failure reduces the glass to a slumped''
+''lump as if an incompetent beginner had worked on it.''
+''Note that in the thirteenth century, most glass is not particularly clear — making clear glass is an alchemical process, beyond a craft-spell. Glass often has bubbles and distortions unless a real expert works on it, with a proportionately high Ease Factor.''
+''(Base 2, +1 Glass, +1 Touch)''
+
+===The Spell of Wrought Iron===
+
+''ReTe 15 R: Touch, D: Mom, T: Group The spell transforms raw pig-iron from a furnace into plain bars of wrought iron, as if a blacksmith had worked the iron in his forge. The magus must succeed in a Perception + Finesse roll to work the bars and separate out the slag. The task is normally Easy (6) for a blacksmith, so the base Ease Factor is 9. Failure means the iron and inclusions do not separate; a botch means that the inclusions go unnoticed, and the iron will be flawed and crack under strain.''
+''(Base 2, +2 Metal, +1 Touch, +2 Group)''
+
+===The Phantom Blacksmith===
+
+''ReTe 20 R: Touch, D: Mom, T: Group The magus transforms iron bars (or other ready iron) into a crafted and formed result, as if a blacksmith had worked to the magus’s instructions. The magus must succeed in a Perception + Finesse roll substituting for the smith’s Craft: Blacksmith roll, with +3 to any Ease Factor. Failure means that the device also fails to function; a botch means it has hidden flaws.''
+''(Base 2, +2 Metal, +1 Touch, +2 Group, +1 flexibility)''
+
+==Lesser Enchanted Devices==
+
+''The following sections describe a number of enchanted devices that may be used around a covenant to make short work of mundane labors.''
+
+==Magical Oven==
+
+''Creo Ignem 20 Pen +0, 24/day R: Pers, D: Conc, T: Ind, device maintains concentration''
+''The device takes the form of a hollow box of iron encased in fire-brick, with a detachable iron lid. On command, the hollow interior becomes red-hot and stays so until sunset or the command to stop is given.''
+''If this amount of heat is excessive, as it often is, food may be placed on the oven’s lid, or on a grid above the brick.''
+''(GL 5, +1 Conc, +5 levels to maintain concentration, +5 levels for 24 uses)''
+
+==The Enchanted Chef==
+
+''Rego Herbam (Animal, Aquam, Ignem) 45*''
+''Pen +0, 24/day R: Touch, D: Mom, T: Group Placing a selection of food (vegetables, meat, liquids) inside this pot and closing it, the user describes the recipe they wish applied to the food, which is instantly processed and transformed as if by a cook. The edibility and quality of the food is not changed in any way, other than to discard small spoiled parts (as any cook would).''
+''The resulting dish is as described by the user, and limited by his knowledge (or imagination) and quality of description. A Communication + Finesse roll by the user replaces the Craft: Cook roll (at +3 Ease Factor). The food will be at least technically edible (if edible materials were placed within), though a poor Finesse roll may result in a less appetizing dish than hoped for. The user may substitute Communication + Craft: Cook for Communication + Finesse if he possesses that skill.''
+''Covenants lacking grogs with the desired skills may write out instructions for the device, provided the grogs are literate enough to read a recipe. Use the writer’s quality (as if he were writing a tractatus) in place of die rolls. Failing all else, the user can request “Traveler’s Hot-Pot.” This is a very basic stew, with peeled vegetables and chopped meat, boiled until over-done, which has an Ease Factor of only 3.''
+''(GL 5, +1 Touch, +2 Group, +3 for requisites, +1 flexibility, +5 levels for 24 uses)''
+''(* Because of its high level, many covenants must create this device as an Invested Device.)''
+
+==Stone-Cutting Knife==
+
+''Rego Terram 15 Pen +0, unlimited uses R: Touch, D: Mom, T: Part''
+''This enchanted chisel shapes and forms stone as if a well-equipped stonemason were carving it. The device may be used to carve blocks from a quarry (hence the Part Target). The wielder’s Dexterity + Finesse roll substitutes for a mason’s Craft roll (with +3 to the comparable Ease Factor).''
+''It is a Simple task for a Mason to cut a plain block, so the basic Finesse Ease Factor to use this device to cut blocks for building is 6. Grogs deputed to the task can usually be trusted to carve blocks of approximately regular shape, though they may need trimming to fit, when used.''
+''(GL 2, +1 stone, +1 Touch, +1 Part, +10 levels unlimited uses)''
+
+==The Enchanted Porter==
+
+''Rego Terram 15 Pen +0, 24/day R: Touch, D: Conc, T: Ind, device maintains concentration''
+''This enchanted glove, when placed against an inanimate object, lifts and pushes the object as the user holds on and moves. When the user removes his gloved hand from the object, it settles to the ground.''
+''(GL 3, +1 Touch, +1 Conc, +5 levels to maintain, +5 levels for 24 uses; based on The Unseen Porter)''
+
+==The Motivated Plow==
+
+''Rego Terram 15 Pen +0, 24/day T: Touch, D: Conc, T: Part, device maintains concentration''
+''This lightweight, plow-shaped device can easily be pushed along even by a single grog, not needing any harnessed beasts. If settled on the ground, it transforms even hard-packed earth into loose, well-plowed soil in a circle 15 paces across.''
+''(GL 2, +1 Touch, +1 Conc, +1 Part, +5 levels to maintain, +5 for 24 uses; based on The Forgiving Earth)''
+
+==The Vitalizer of Provisions==
+
+''Creo Animal (Herbam) 19 Pen +0, constant effect R: Touch, D: Conc, T: Group This chest preserves food placed within it, preventing decay while the door''
+''remains closed. When removed from the box, the effect ceases to affect the food, and it may be cooked and eaten — as fresh as when it was placed within.''
+''(GL 2, +1 Touch, +2 Sun, +2 Group, +3 levels environmental trigger, +1 level for twice daily)''
+
+==The Death of Vermin==
+
+''Rego Animal 20 Pen +0, 1/day This box is enchanted to fill specific vermin with a desire to approach and enter the box. The box is placed where vermin are found, triggered, and left to gather any that approach the box. The effect lasts until sunset or sunrise: most vermin are either active by day, or active by night, so one use gathers all vermin in that area.''
+''Once in the box, the vermin may be destroyed by a suitably equipped grog.''
+''(GL 2, +2 Voice, +2 Sun, +2 Group) A spell exists to kill pests instantly, but is level 50 Perdo Animal, and a device to perform this task would require 5 or 6 pawns of vis; as such, it is cheaper to have a grog sit by and stomp on the vermin necessary.''
+
+==Abluere Magica==
+
+''Rego Herbam (Animal) 15 Pen +0, unlimited uses T: Touch, D: Mom, T: Ind The device takes to form of two hinged boards that close together in the manner of a large book. Placing a soiled garment between the boards momentarily renders it clean and fresh, as if a washerwoman had worked her art upon it.''
+''The user must succeed with a Dexterity + Finesse roll substituting for Profession: Washer-woman, although the clothes will at least be clean and fresh (though creased) even if the user is incompetent; if the user botches, they will be subtly soiled, to be discovered later.''
+''Some covenants enchant a larger device, requiring two people to open and close it, which cleans bedding too.''
+''(GL 4, +1 Touch, +10 levels for unlimited uses)''
+
+==The Dumb Waiter==
+
+''Rego Terram, level 35 Pen +0, 24/day R: Touch, D: Mom, T: Group''
+''The Dumb Waiter instantly transports food and plates, drink and cups, from the kitchen (where the device resides) to specified places in the covenant within 50 paces. The destination for a given load is indicated by placing a small arcane connection in a receptacle on top of the device.''
+''The Dumb Waiter ensures that food is as fresh as possible, and still hot, when it reaches the high table; it also ensures that the food is not dropped on the way, nor scraped back onto the plate and delivered anyway.''
+''(GL 15 by analogy with ReCo guidelines, +1 Touch, +2 Group, +5 levels for 24 uses)''
+
+==Incendior Homines==
+
+''Creo Ignem 30 Pen +8, 50/day R: Voice, D: Mom, T: Ind This aid for the militant turb provides heavy firepower, exceeding that of the long bow, and can be used even by an unskilled grog. When the trigger is activated, a designated target is enveloped in flame, suffering +15 damage, with +8 Penetration. The downside is that targets with Magic Resistance may shrug off the device.''
+''The device takes different forms according to the whim of the magus making it. The wand is traditional, but a ring or brooch is also common; one magus made a small toy gargoyle that spat a jet of fire when squeezed.''
+''(GL 10, +2 Voice, +6 levels for 50 uses, +4 levels for +8 Penetration).''
+''A level 40 variant offers powerful covenants a fiery blast with +28 Penetration for only one more pawn of vis.''
+
+==Fantastical Covenfolk==
+
+''So far this chapter has discussed human (or mostly human) characters. In a magical environment such as an Ars Magica covenant, however, people are quite likely to encounter more outlandish creatures such as talking beasts even when the saga is not high fantasy. These exotic beings can take the roles some kinds of covenfolk, sometimes remarkably well: a talking dog could effectively serve as a''
+''scout or hunter, for example, combining the dog’s scent and hearing with the intelligence and competence of a grog. On a more intimate level for magi, the humble laboratory assistant might take the form of a Barbary ape or similarly dexterous creature.''
+''In a more fantastical saga, you may not be restricted to “natural” dogs — those that run around on four legs — but find upright hounds specializing in etiquette and haute-cuisine, transformed to a greater or lesser degree.''
+''Included in this heading are the familiars of magi. Most sagas will have familiars, even if only accompanying senior non-player magi. These creatures have human intelligence, magical powers, and links to their “owning” magi, which together make them just as fantastical as some of the other entries listed here. Indeed, you can use familiars as the inspiration for whole classes of enchantedbeast covenfolk.''
+
+==The Virtuous Hound==
+
+''Magic Might: 10 (Animal) Characteristics: Int 0, Per +2, Pre –2,''
+''Com 0, Str 0, Sta +2, Dex +1, Qik +2 Size: 0 Age: 2 (2) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Long''
+''Winded, Sharp Ears; Reckless Personality Traits: Loyal +3, Reckless +3,''
+''Brave +2 Reputations: Loyal 2 (local) Combat: Bite: Init +2, Attack +8, Defense +7,''
+''Damage +1 Soak: +2 (Stamina) Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Local Language] 3, [Surrounding''
+''Area] Lore 2 (geography), Athletics 4 (distance running), Awareness 4 (search), Bargain 1 (food), Brawl 3 (bite), Charm 1 (cuteness), Covenant Lore 1 (people), Hunt 4 (scent) Natural Weapons: The weapon statistics''
+''for a dog’s bite are Init 0, Atk +3, Def +1, Dam +1. Powers: The Inexorable Hunter, 2 points, Init +0,''
+''Animal: Once this beast has been put onto the scent of a creature, he can follow it flawlessly, for as long as is needed to locate it. He is not''
+''fooled by the various ruses of his prey, such as heading through water or doubling back. If the prey has Magic Resistance, this effect has to Penetrate in the usual fashion. Colloqui Cum: 0 points, –, Imaginem: The''
+''Virtuous Hound can speak by creating sounds, apparently from his mouth. Equipment: None Encumbrance: 0 (0) Vis: 2 Intellego, in nose Customization Notes: The Virtuous''
+''Hound is one of those unusual magical creatures who can be found in Mythic Europe — an intelligent, beast-shaped creature, with Magic Might and magical powers. He has been recruited as a covenfolk character in return for such as he values: plenty of food, warmth and comfort, and to be praised for his faithful service. He has learnt some new skills since joining the covenant, primarily Area Lore and begging-by-cuteness.   The Virtuous Hound is based on the bloodhound in The Book of Mundane Beasts, with species Virtues of Long-Winded and Sharp Ears, and a species Flaw of Reckless. Other breeds or species can be substituted for the bloodhound.''
+
+[|
+
+==Beasts as Characters==
+
+''A number of beasts of Mythic Europe are described in The Book of Mundane Beasts, a free download from the Atlas Games website. The hound and cat (and the skinchanger’s raven form) are based on that supplement. Each species of beast has certain Virtues and Flaws common to all members of the species, which are not balanced in game terms (as the normal balance reflects costs for humans), but rather indicate the unique strengths and weaknesses of beasts. Exceptional beasts may take individual Virtues and Flaws, on top of their species types, but these must balance as normal.''
+''Normal Beasts cannot learn new Abilities unless Trained, but can improve existing Abilities; intelligent beasts can improve as normal. Beasts usually have a number of Abilities, which represent what members of their species can perform instinctually, rather than things they have learned. (Beasts are usually “too young” to have learned anything by the normal process of character generation.)''
+
+|]
+
+==The (Over) Familiar Cat==
+
+''Magic Might: 10 (Imaginem) Characteristics: Int –3, Per +1, Pre –1,''
+''Com 0, Str –7, Sta 0, Dex +3, Qik +4 Size: –3 Age: 5 (5) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Familiar; Perfect''
+''Balance, Puissant Awareness, Second Sight, Sharp Ears; Cruel (Minor), Nocturnal Personality Traits: Cruel +3, Loyal +3,''
+''Brave –2 Reputations: Magus’s Familiar 3 (local) Combat: Claws: Init +3, Attack +8, Defense +10,''
+''Damage –5 Teeth: Init +4, Attack +8, Defense +7,''
+''Damage –6 Soak: +1 (fur) Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–2), –3 (3–4), –5''
+''(5–6), Incapacitated (7+) Abilities: [Surrounding Area] Lore 2''
+''(geography), Artes Liberales 1 (gram''
+''mar), Athletics 3 (jump), Awareness 4 (at night), Bargain 1 (food), Brawl 2 (claws), Covenant Lore 1 (people), Guile 1 (wily words), Hunt 4 (mice), Latin 5* (Hermetic use), [Magus’s] Language 5* (orders), Second Sight 3 (invisible things), Stealth 4 (stalking), Survival 3 (forests)  (* A familiar gains the magus’s ability in any languages he speaks.) Natural Weapons: The weapon statistics''
+''for a cat’s claws are Init –1, Atk +2, Def +3, Dam +2 statistics for its teeth are Init 0, Atk +3, Def +1, Dam +1. Dense fur provides protection +1. Powers: Eyes of the Cat, 0 points, –, Animal: The''
+''cat can see in near, but not absolute, darkness. Invisible Movement, 1 point, Init +10,''
+''Imaginem: The cat can move from place to place without being seen, even if people thought it was in plain sight. Bond Effects: Speech: MuAn 20, Touch, Concentration,''
+''Individual. Gives an animal the unnatural ability to form human speech. Mental Communication: CrMe 15, Touch,''
+''Momentary, Individual, unlimited''
+''use Allows complex thoughts to be shared. Shared Senses (Sight): InMe 30, Touch,''
+''Concentration, Individual, bond maintains concentration. The magus can share the cat’s sight. Shared Senses (Sight): InMe 30, Touch,''
+''Concentration, Individual, bond maintains concentration; the cat can share the magus’ sight. Equipment: None Encumbrance: 0 (0) Vis: 2 Imaginem, in eyes Customization Notes: The Familiar Cat’s''
+''species Virtues and Flaws are Perfect Balance, Puissant Awareness, Sharp Ears, and Nocturnal. Since being awakened Intelligence  has replaced Cunning, and her Presence and Communication have improved since she gained the power of speech. She has gained 4 years experience since joining her master as a young (1 year old) cat. Changing this familiar’s type is straightforward using The Book of Mundane Beasts.   Bond effects are the choice of the magus; these are but a sample of a familiar that grogs may encounter. (Bond scores are not included here.)''
+
+==Thematic Covenfolk==
+
+''In addition to serving and providing the economic base of the covenant, it is possible for grogs to define a secondary theme for the covenant. For example, the covenant may have resident ghosts in a high Magic aura, or the magi may magically bind the spirits of deceased grogs as wardens. The magi may be involved in Hermetic politics and employ spies, thieves (“burglars”), and political agents; or they may have a religious or academic affiliation and employ (or at least provide residence for) scholars, scribes, or clergy. A covenant with strong links to a faerie forest would be well advised to acquire at least some covenfolk with faerie gifts or faerie blood; indeed, magi with a practical bent and an eye for the future may set out to breed such grogs.''
+''For added personality, a covenant which makes extensive use of enchanted devices to aid, enhance, or replace grogs may have had most of the devices manufactured by a single magus (stereotypically a Verditius magus, but quite possibly''
+
+[|
+''Muto Animal (Corpus, Mentem) 34 Pen +0, constant effect R: Touch, D: Constant Effect, T: Ind This collar transforms a normal hound into an ideal servant, who walks erect and has hands; has the intellect of a grog; but retains the devotion, willingness to please. and loyalty of a hound. The creature’s overall appear''
+''ance remains hound-like, but its limbs and intellect are transformed by the device.''
+''One defect is that the hounds suffer Warping from the constant effect, but over the lifetime of a dog, this is generally not too much of a problem.''
+''(Base 15, +1 Touch, +14 levels always on, requisites free)''
+
+==Lesser Device: The Marvelous Hound==
+
+''Rego Corpus 50 Pen +0, 24/day R: Sight, D: Mom, T: Group For the security-minded covenant, this is a magical transporter activated only from within the covenant, with no use of Arcane Connections. If the covenant is otherwise physically inaccessible — for example, a flying castle — then hostile ingress may be almost impossible.''
+''In typical use, grogs keep a mundane eye on the portal area, watching for visitors, and there is a loud (mundane) bell and flag visitors can use to indicate their''
+''request for transport. Finally, there is the circle-of-transport, activated from within the covenant, which transports those seen by the grogs into the covenant. (Visiting magi may resist the effect and remain outside. In such cases, servants are typically sent out to welcome them into external accommodations, outside the Aegis.)''
+''The enchantment is a Rego Corpus 45 effect, and transports targets seen up to 500 paces into the covenant, or deposits them outside upon departure.''
+''(Base 20, +3 Sight, +2 Group, +5 levels for 24 uses)''
+
+==Fantastical Device: The Remote Entrance Portal==
+
+
+|]
+''one from some other House) with a pronounced quirk to her style. She might fashion all of her devices in the form of gargoyles, for example, or domestic fowl, or as abstract colored spheres.''
+
+==Burglar==
+
+''Characteristics: Int +1, Per +1, Pre –2,''
+''Com –2, Str +1, Sta +1, Dex +5, Qik +3 Size: 0 Age: 25 (25) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Great Dexterity x2, Improved Characteristics; Afflicted Tongue, Covenant Upbringing, Overconfident (Minor) Personality Traits: Brave +3, Loyal +3,''
+''Overconfident +3 Reputations: None Combat: Dagger: Init +3, Attack +11, Defense +7,''
+''Damage +4 Thrown Knife: Init +3, Attack +10, Defense''
+''+7, Damage +3 Soak: +1 (Stamina) Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Athletics''
+''3 (grace), Awareness 3 (search), Brawl 3 (dagger), Climb 4 (walls), Covenant Lore 1 (people), Folk Ken 1 (grogs), Latin 3 (overheard speech), Legerdemain 4 (pilfering), Stealth 5 (urban areas), Swim 1 (stay afloat), Thrown Weapon 3 (knife), Village Lore 1 (people) Equipment: travel clothes, dark (stealthy)''
+''clothes, knives, pack with rope and other necessities Encumbrance: 0 (0) Customization Notes: Abilities can be''
+''swapped around, or change Great Dexterity to Great Quickness, or swap one Great Characteristic for a second Improved Characteristics. If swapping Afflicted Tongue for another Flaw, consider adding Guile 2 or 3 (fast talk).''
+
+==Ghostly Warden==
+
+''Magic Might: 10 (Mentem) Characteristics: Int 0, Per +2, Pre –1,''
+''Com 0, Str +1,* Sta +2,* Dex +1,* Qik +2* (* Physical characteristics cannot affect the material world, but are used when interacting with other ghosts or spirits.) Size: 0 Age: Dead (35) Decrepitude: n/a (dead) Warping Score: 0 (0) Virtues and Flaws: Covenfolk; Improved''
+''Characteristics, Piercing Gaze, Premonitions; Bound Ghost (cannot leave covenant), Disfigured (by death wound), Vow of Service Personality Traits: Brave +3, Loyal +3,''
+''Patient +3 Reputations: None Combat: Fist: Init +2, Attack +7*, Defense +8,''
+''Damage +1*  (* These statistics apply in normal combat against other ghosts. Against corporeal targets, the ghost’s insubstantial touch ignores parry and armor.) Soak: +11*  (ghostly chain mail)  (* This statistic applies in combat against other ghosts. Corporeal creatures cannot physically affect the ghost, so its soak is not relevant.) Powers: Invisibility: 0 points, Init +2, Imaginem:''
+''The ghost can fade from a translucent, near-solid appearance to complete invisibility. Insubstantiality: 0 points, —, Mentem: The''
+''ghost is insubstantial and can move freely through objects, walls, floors, etc. Chill Touch, 1 point, Init +2, Ignem: The''
+''ghost can use a power similar to the spell Winter’s Icy Touch (PeIg 10). Abilities: [Native Language] 5, Awareness''
+''4 (stand watch), Brawl 5 (fist), Carouse 1 (howling), Covenant Lore 3 (history), Dominion Lore 1 (life after death), Magic Lore 1 (ghosts), Premonitions 3 (ghosts and spirits), Stealth 3 (insubstantial) Equipment: ghostly chain mail Encumbrance: 0 (0)*  (* Ghostly equipment is not encumbering once ghostliness is accepted.)''
+''Vis: 2 Mentem, in remains if dispelled Customization Notes: Abilities, Virtues,''
+''and Flaws can be swapped. Ghosts can use weapons against other ghosts, so Single Weapon may be useful. Three hundred XP is the figure given for a Ghostly Warder in the Virtue’s description, but feel free to have the ghost retain more or less experience from life. Ghosts do not, however, learn after death.   More notes on ghosts can be found in Calebais: The Broken Covenant. This ghost is bound magically, not haunting for a normal reason.''
+
+==Political Agent==
+
+''Characteristics: Int +2, Per +2, Pre 0,''
+''Com +2, Str –1, Sta 0, Dex –1, Qik 0 Size: 0 Age: 30 (30) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Custos; Puissant''
+''Intrigue; Covenant Upbringing, Temperate Personality Traits: Loyal +3, Temperate''
+''+3, Brave +2 Reputations: None Combat: Dagger: Init +0, Attack +4, Defense +3,''
+''Damage +2 Fist: Init +0, Attack +1, Defense +2,''
+''Damage –1 Soak: +0 Fatigue Levels: OK, 0, –1, –3, –5,''
+''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
+''(11–15), Incapacitated (16+) Abilities: [Native Language] 5, Artes''
+''Liberales 1 (logic), Awareness 5 (search), Brawl 2 (dagger), Charm 2 (first impressions), Covenant Lore 2 (politics), Etiquette 2 (magi), Folk Ken 3 (magi), Guile 4 (elaborate lies), Intrigue 5 (alliances), Latin 5 (smooth talking), Order of Hermes Lore 3 (politics), Ride 1 (speed), Stealth 2 (shadowing) Equipment: fine clothes, badge of author''
+''ity from covenant, fine dagger Encumbrance: 0 (0) Customization Notes: Add a third''
+''Flaw and Virtue; Temperate can be swapped for various other Flaws.''
+{{OpenArs Attribution}}
+{{ArsMnavbox}}

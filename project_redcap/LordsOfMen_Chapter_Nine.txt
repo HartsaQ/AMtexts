@@ -1,0 +1,890 @@
+''This chapter expands on the Ars Magica Fifth Edition combat rules to add many new possibilities, including tactical movement and mounted combat. Most of the new rules introduced here are presented as options that you can use in your saga if you want a more̶detailed combat system or disregard if you prefer to keep things simple.''
+
+==The Combat Round==
+
+''Ars Magica Fifth Edition defines a combat round on pages 171–172. Every character gets to act once per round, in an order defined by the Initiative roll. Each round represents about six seconds of time in the game world. This section introduces more formal rules that categorize common character actions. The terminology that describes these categories (such as “actions” and “fast actions”) is used throughout the rest of this chapter. However, it is all right to ignore the distinctions between different types of actions if the troupe wants to keep combat simple.''
+
+==When to Use Combat Rounds==
+
+''Contrary to what their name suggests, combat rounds can be useful for situations other than combat. A storyguide can use them any time she wants to keep close track of what two or more characters are doing, moment-by-moment. They’re best for scenes where the order of the characters’ actions could affect the outcome. A chase scene, a certamen, or even a complicated courtly''
+''dance could all be resolved by dividing the action into rounds and having each character act once per round, in a specific order.''
+
+==Initiative==
+
+''The basics of initiative are explained in ArM5, pages 171–172. The storyguide should call for Initiative rolls whenever she wants to start using combat rounds. Any action that doesn’t require a weapon, including spellcasting, has a weapon initiative modifier of 0.''
+''When to Roll Initiative''
+''When combat begins (or when the storyguide wants to start tracking events using combat rounds), roll for Initiative for each character present. Even characters who don’t want to get involved in the battle should roll Initiative and act only on their turn. If new characters approach a battle in progress, there’s no need to roll Initiative for them until they’re close enough either to attack with missiles or to reach the battle with one round’s movement (see Moving in Combat, later). At that point, roll Initiative for the new arrivals at the start of the first round when they’re within range and insert their actions into the combat sequence as usual.''
+
+==Actions in Combat==
+
+''An action is something a character can choose to do when it’s his turn in the combat sequence. The ArM5 rules say that a character can act once per round (on his turn); these rules elaborate on what it means to “act.” Normally, a character can perform one action on his turn. Actions include anything the storyguide''
+''agrees a character can reasonably do in about six seconds. Attacking is an action; so is casting a formulaic or spontaneous spell. A character can only perform an action on his turn in the combat sequence.''
+''Not Everything is an Action''
+''Since an action is something a character does on his turn, not every die roll a player makes corresponds to an action. Generally, rolls required by the storyguide (as opposed to initiated by the player) don’t count as actions. There is no limit to how many die rolls a player can make in one round, because die rolls are not necessarily actions.''
+''Examples of Actions''
+''It would be impossible to list every possible action, but some common examples include:''
+''Trigger an enchanted item (see ArM5, •''
+''page 98) Attack in melee •''
+''Attack with missiles •''
+''Cast a spell (see ArM5, page 174) •''
+''Move (see Tactical Movement, later in •''
+''this chapter) Charge (see Attacking, later in this chap•''
+''ter) Stand up •''
+''Mount or dismount a horse •''
+''Pick up an item off the ground •''
+''Open or close (and bar) a door or win•''
+''dow''
+''Reactions''
+''A common situation in combat arises when a character must immediately respond to some external event, such as making a Defense roll to avoid an enemy’s attack or a''
+''Concentration roll to maintain a spell. These rolls are called reactions. Reactions are not actions and don’t interfere with the character’s ability to perform an action later in the same round.''
+''A character can perform a reaction any •''
+''time the storyguide asks him to, even if it’s not the character’s turn, and even if the character hasn’t yet had his first turn since the battle began. There is no limit to how many reactions •''
+''a character can attempt in a round (though there may be practical limitations to how many he can successfully complete). Reactions aren’t actions, so they don’t •''
+''count against the limit of one action per round.''
+''Some examples of reactions include:''
+''Defense rolls against incoming attacks. •''
+''Fast Casting a spell (see ArM5, pages 83 •''
+''and 174). Concentration rolls to maintain a spell •''
+''(see ArM5, page 82). Ride rolls to avoid falling off a horse. •''
+''Extended Actions''
+''Sometimes, characters want to do something that takes an entire six-second combat round or longer. These are extended actions. The differences between an action and an extended action are:''
+''Extended actions can’t be delayed (see •''
+''Delaying Actions, later in this chapter). An extended action isn’t finished until •''
+''some round after the character starts it. If you are using the fast actions optional •''
+''rule, a character can only perform a fast action before beginning or after finishing the extended action, not while it is in progress.''
+''Some extended actions take two or more rounds to complete. These are described as, for example, “a two-round extended action.” For the purposes of determining the duration over which an extended action is performed, a round begins on the character’s turn in the combat sequence and ends immediately before his next turn. An extended action is continuously in progress during this time. A character may cease an extended action at any time. If exact timing is important, use the interrupting actions option to deter''
+''mine when, precisely, the extended action is ceased (see Delaying Actions, later in this chapter). A character can’t perform any other actions, including fast actions, while he is carrying out an extended action. While a character is performing an extended action, any distraction (including being attacked) requires the player to make a Concentration roll. Handle this similarly to a magus being distracted while casting a spell (see ArM5, page 82) but the storyguide may wish to reduce the Ease Factor if the extended action is fairly simple. If the roll fails, the extended action fails immediately, and is considered to be ceased (as described earlier). Magi can cast spells while performing extended actions, which is an exception to the general rule prohibiting actions during extended actions, but doing so requires a Concentration rolls against an Ease Factor set by the storyguide, and may require them to cast without use of their hands. Examples of extended actions include:''
+''Hide •''
+''Retrieve an item from a pouch or pack •''
+''Span a crossbow •''
+''String a bow •''
+''Cast a ritual spell (which may take hun•''
+''dreds of combat rounds!)''
+''Option: Fast Actions''
+''Some things a character might want to do, such as drawing a dagger or shouting a warning, take considerably less than a sixsecond combat round to complete. Under this optional rule, such activities are called fast actions. (If you prefer not to use this option, then the storyguide should make ad hoc decisions about whether a character can do more than one thing in a round.) As a rule of thumb, a character can perform one fast action, in addition to his regular action, on his turn. The fast action may come before or after the regular action. The storyguide can allow more than one fast action if circumstances warrant. Alternatively, a character can perform up to four fast actions on his turn instead of any regular actions. A character can only perform a fast action on the first round of an extended action, before actually starting the extended action. Once the extended action is begun, the character can’t perform fast actions until after it’s finished.''
+''Examples of fast actions:''
+''Draw a weapon •''
+''Drop an item •''
+''Pick up an item from a tabletop •''
+''Shout a brief order or warning (ten •''
+''words or less) Leap from the saddle (see Mounting and •''
+''Dismounting, later in this chapter) Stand from a kneeling or crouching •''
+''position Vault into the saddle •''
+''Transform to or from heartbeast form •''
+''(specifically, outer heartbeast form; see ArM5, page 92 and Houses of Hermes: Mystery Cults, page 22). Shoot a readied bow or crossbow, if the •''
+''troupe is using the optional ready missiles rules (see Option: Ready Missiles, later in this chapter).''
+
+==Delaying Actions==
+
+''A character or group can choose to delay its action as it would delay its opportunity to act according to the regular rules of initiative (see ArM5, page 171). There are many reasons one might want to do this: a wary magus might be unsure of an opponent’s motives and prefer not to make the first aggressive move, or a knight might choose to defend a narrow bridge, attacking the first enemy who tries to cross. When a character chooses to delay his action, he can act normally at any later time, whenever the player wishes. However, this does not permit the character to actually interrupt another character’s action (as, for example, a Fast-Cast spell would). A character who wants to act in response to an opponent’s action must wait for his opponent to complete his action, and may only then take an action of his own. A delayed action can carry over from one round to the next. The opportunity to carry out a delayed action expires on the character’s next turn, but of course the character can choose to delay again if he likes. If more than one character has delayed his action, then the delaying character with the highest Initiative Total has the first option to respond to a given event, the one with the next-highest Initiative Total has the second option, and so on. If you are using the fast actions option, a character may choose to delay his action, his fast action, or both. The choice to delay an action does not''
+''change the character’s order in the combat sequence in future turns.''
+''Example: A tavern confrontation between Paul the turb warrior and two ruffians, Alan and Bruce, comes to blows. Paul’s player rolls well on Initiative, getting a 10. Alan’s Initiative Total is 8 and Bruce’s is 7. Paul gets to go first, but is not sure whether one ruffian, or both, will attack him. He only wants to hit the ones who swing at him, so he delays. Alan goes next, but isn’t sure about taking on someone as tough as Paul, so he also delays, waiting for Bruce to make the first move. Bruce is more hot-headed, and attacks. Paul withstands the attack. Now all the characters who delayed their actions have a chance to respond, in descending order of Initiative Totals. Paul has the higher Initiative Total of the two characters who delayed, so he has the first choice to respond. He attacks Bruce and lands a hefty blow. Then Alan, who also delayed his action, gets to respond. He attacks Paul and misses. The first round of combat ends. On the next round, Paul’s Initiative Total is still 10 and he still goes first. Combat proceeds according to the normal sequence (from highest to lowest Initiative Totals) unless someone decides to delay again.''
+''Option: Interrupting Actions''
+''The combat sequence of Ars Magica Fifth Edition can sometimes give the illusion that a character performs his action on his turn, then freezes like a statue while all the other characters take their own turns. The turn-based combat sequence is an important convenience that makes battles playable, but it should not be taken too literally. From the characters’ point of view, action on the battlefield is fast, chaotic, and continuous.''
+''Normally, when a character delays an action as described earlier, his delayed action is resolved after the action to which he’s responding. This optional rule gives a character a chance to actually interrupt his opponent’s action, causing his own action to resolve before the event to which he’s responding. This is similar to the way a successful Fast-Cast spell resolves before the attack against which the magus is defending. To interrupt an opponent’s action, the character must first delay his own action. When one or more characters who have delayed their actions want to interrupt someone, each character who’s involved — including the character being interrupted — makes an action priority roll (described later). Making this roll is what “uses up” the delayed action (on the part of those who delayed) or the triggering action (on the part of the character being interrupted) regardless of what happens after this point (more information follows). Whoever has the highest Action Priority Total resolves his action first. If there is a tie, the character with the highest Quickness wins. Characters still tied determine randomly which one acts first. Resolve all remaining actions in descending order of Action Priority Total. Each character can choose to respond or do nothing, but a character who does nothing no longer has a delayed action to use later, because making the action priority roll “uses up” the action, as described earlier (for an exception, see Option: Defenders as Interceptors, later in this chapter).''
+''Action Priority Total: Quickness + Ability – Encumbrance + stress die''
+''For the Action Priority Total, each character uses the Ability appropriate to the nature of the action he intends to carry out. If he’s attacking, use the Martial Ability appropriate to his weapon. If he’s moving, use Athletics; if riding, use Ride; and so on. Magi casting spells use Finesse as the relevant Ability. Casting a spell to interrupt someone is not the same as Fast Casting (ArM5, page 83); Fast Casting doesn’t require the magus to have first delayed his action, but interrupting does. If the magus loses the action priority contest when attempting to interrupt someone, he can still try to Fast Cast if he wishes. (That is, a magus with a delayed action can potentially have two attempts to stop an attack: once by interrupting, and if that fails, once by Fast Casting.) See Charging on Foot, later in this chapter, for rules on interrupting an opponent who is trying to charge. Note that it’s only possible to interrupt an extended action in the round it is started, but keep in mind that an opponent’s extended action can also be foiled by distracting him (see Extended Actions, earlier in this chapter).''
+''Example: Marla the grog is patrolling a hallway in the covenant when she spots a cloaked intruder. The storyguide calls for initiative rolls. Marla’s player rolls a 9 and the intruder’s Initiative is 7. Marla draws her sword as a fast action and delays her action, waiting for the intruder to make the next move. The intruder bolts for the exit; Marla attempts to interrupt him and''
+''move to cut off his retreat. The storyguide asks them both to roll Action Priority Totals using Quickness + Athletics – Encumbrance. Marla’s player rolls well and gets a 16; the intruder only gets 11. Marla dashes ahead of the intruder and makes it to the door before him. The intruder’s action was spent running for the door, even though he was beaten there, so the first round of combat ends. It’s round two, and Marla’s turn.''
+''Option: Fast Casting as Interruption''
+''If you like, you can use a variant of the interrupting actions rule, presented earlier, to replace the normal Ease Factor for a Fast Casting speed roll (see ArM5, page 83). Use the normal Fast-Casting procedure (that is, the magus does not need to have delayed his action) but use the interrupted opponent’s Action Priority Total as the Ease Factor of the Fast Casting speed roll. The main advantage to this option is that it makes interrupting actions and Fast Casting work in more or less the same way, so they’re more logical and easier to remember. It also changes the dynamics of Fast Casting a little, making the outcome less predictable. The likelihood of successfully Fast Casting under this option depends on the opponent’s Action Priority Total (which is re-rolled every time a magus tries to interrupt him), not on his Initiative Total (which normally doesn’t change over the course of a battle).''
+
+==Tactical Movement==
+
+''The rules in this section allow troupes to handle characters’ movement on the battlefield in as much or as little detail as they wish. Exact movement rates often don’t matter, but in certain situations, such as when valiant knights charge through a hail of arrows to smite down enemy archers, distance and movement can make a great deal of difference to the story.''
+
+==Moving in Combat==
+
+''Moving is an action. Characters can’t move and attack in the same round, unless they are mounted and/or charging (see''
+''Charging on Foot and Mounted Movement, both later in this chapter). Also, note that characters who are engaged in combat (either in melee or in missile combat) must disengage in order to move (see Engaging and Disengaging, below). A character who chooses to move as his action can choose any of the following rates:''
+''A walk is rarely used in combat. More •''
+''often, characters walk when they are not suspecting danger. A hurry is the usual pace on the battle•''
+''field, equivalent to jogging or marching at double cadence. A run is very fast, but tiring. A character •''
+''may be required to make a Fatigue roll when running; see ArM5, page 178. Riding is described under Mounted •''
+''Movement Rates, later in this chapter.''
+''Walk: 10 + Quickness − Encumbrance paces per round''
+''Hurry: 2 x (10 + Quickness – Encumbrance) paces per round''
+''Run: 4 x (10 + Quickness – Encumbrance) paces per round''
+
+==Movement and Groups==
+
+''All of the movement rules in this chapter are written in terms of individual characters, but apply equally to groups. Groups of characters move together as a single unit. Their speed is that of the slowest member. They use the vanguard’s Characteristics and Abilities to resolve any rolls related to movement.''
+
+==Obstacles, Barriers, and Movement==
+
+''Do not worry about terrain unless doing so adds to the excitement of battle, rather than distracting from it. Difficult terrain significantly slows a character’s movement. For simplicity, all difficult terrain slows movement to one-half normal speed (unless the storyguide chooses otherwise). Examples of difficult terrain include rubble, dense undergrowth, knee-deep water, and upward slopes steeper than about 45 degrees. Attack and Defense rolls, and''
+
+[|
+
+==Terrain Examples==
+
+''The following examples cover some common situations and can be used as a guide for other terrain types. Note that some terrain, like ice, can be both difficult and hazardous.''
+''Difficult Terrain''
+''Movement speed halved (round up), extra botch die. Dense undergrowth •''
+''Ice •''
+''Rubble •''
+''Slope, upward, 45 degrees or steep•''
+''er Snow (knee-deep or deeper) •''
+''Water (knee-deep or deeper) •''
+''Hazards''
+''Extra botch die (or dice), botch potentially more serious. Ice •''
+''Mud, slippery •''
+''Precipice •''
+''Rock, loose or crumbly •''
+''Slope, upward or downward, 45 de•''
+''grees or steeper Ship or wagon, moving •''
+''Battlefield littered with bodies, bro•''
+''ken weapons, etc.''
+''Obstacles''
+''Requires special action to move across.''
+''Action''
+''Action''
+''Type''
+''Stress''
+''Roll''
+''Ease''
+''Factor''
+''Force open a normal door Ext. Str 9''
+''Force open a reinforced door''
+''Ext. Str 12''
+''Open a door or window Std. none needed n/a''
+''Pick a lock 5-rd. Ext. Dex + Legerdemain''
+''12*''
+''* See City & Guild, page 78, for more information.''
+
+|]
+''rolls related to movement, suffer an extra botch die when the character is on difficult terrain. If you are using the advanced group combat rules in this chapter, a group must make a Discipline check when it crosses difficult terrain. A hazard is a terrain feature that increases the likelihood of accidents. Slippery, crumbling, and moving surfaces (such as the deck of a ship) are the most common sorts of hazards. The edge of a cliff or a narrow bridge would also count as a hazard. Hazards do not slow movement, but they add one botch die (or more, at the storyguide’s discretion) to any stress roll a character makes while on them. Furthermore, the effects of a botch are potentially more serious near a hazard. (See ArM5, page 7, for a discussion of botches and their effects.) Some terrain, such as slippery mud, is both difficult terrain and a hazard. An obstacle is something that a character can’t move across, at least, not at a normal movement rate. A fence or a closed door are obstacles. Crossing an obstacle requires some specific effort on the character’s part, such as climbing the fence or opening the door. This is usually an action and may or may not require a die roll, depending on the nature of the obstacle. Some examples are given in the sidebar. Cover is terrain that protects against missile fire and offers opportunities to hide. Cover gives a bonus to Defense against missile weapons. See Battlefield Situations, later in this chapter, for further details.''
+
+==Engaging and Disengaging==
+
+''The following two rules are the essence of Engagement in Ars Magica Fifth Edition: A character generally is considered engaged in combat whenever he’s within range of an enemy who wants to attack him, and can plausibly do so. Once engaged, the character must disengage in order to move away from his opponent. The details in this section clarify and elaborate on these definitions, and present some optional embellishments to them. Combat should work just as well if the storyguide just relies on those two rules and her own judgment.''
+
+==Engaging in Combat==
+
+''A character becomes engaged in combat whenever he is close enough to an enemy to attack or be attacked. The precise distance this represents depends on how the character and his enemy are armed. A character becomes engaged in melee whenever he makes an Attack or Defense roll in melee combat. He can also become engaged by moving within reach of an opponent’s weapon, or when an opponent moves within reach of his own. The distance that constitutes being “within reach” is generally about two paces, though it can be a bit longer for characters armed with spears and the like. Similarly, a character becomes engaged in missile combat whenever he makes an Attack or Defense roll in missile combat, or when he’s within an enemy missile’s range and line of fire. Engagement is a game-mechanical artifact, like the sequential nature of a combat round. Like the sequential combat round, engagement should not be interpreted too literally. A character engaged in combat is not rooted to the spot as if by a spell. Rather, he''
+''is fighting for his life and whenever he tries to move away, his opponent tries to block him or head him off. These maneuvers and counter-maneuvers are represented by the disengagement roll.''
+''Effects of Being Engaged''
+''A character (or group) engaged in melee combat is busy fighting and can’t move away from his (or their) opponent without disengaging first. A character (or group) engaged in missile combat can still move, but with limits. He (or they) must disengage in order to move to a location where the enemy’s line of fire is obstructed; that is, where there is a better Defense bonus due to cover. When a character who’s engaged tries to disengage and fails, then the character’s movement stops for the round and he remains engaged with his current opponent(s). Note that disengaging does not necessarily imply the character leaves combat. One could disengage from one opponent in order to move and engage another.''
+''Engagement and Defenders''
+''The defenders option (see ArM5, page 173) lets a character or group protect someone else in combat. This prevents anyone from attacking the character being protected. According to the rules in ArM5, defenders are always effective; an opponent cannot attack the character being protected as long as any of his defenders can lift a sword. Even if they’re not engaged, attackers can’t outmaneuver the defender to attack the character he’s protecting. The defenders as interceptors option (see Option: Defenders and Interceptors, later in this chapter,) is an alternative to the standard defender rule. This option requires the defender to win an opposed die roll to stop incoming attackers.''
+''Option: No Engagement for Missile Combat''
+''The basic rules for engagement and disengagement apply to both melee and missile combat. In missile combat, a character engages an opponent by “keeping him covered.” As an optional rule, you may use the engagement rules for melee combat only.''
+''Option: No Missiles While Engaged in Melee''
+''As an optional rule, you may disallow characters engaged in melee from making missile attacks.''
+''Option: Defenders as Interceptors''
+''The defender rules (see ArM5, page 173) are simple to use, but they can sometimes lead to strange results when few are defending against many. A single defender can hold off one attacker, or twenty, with equal effectiveness. This optional (but more complex) rule is for troupes who dislike that implication of the standard rule. It uses the mechanics of the interrupting actions option (see Option: Interruption Actions, earlier in this chapter) but can be used even if the troupe doesn’t want to allow interrupting actions in other contexts. A character or group may perform an extended action to defend another charac''
+''ter (or a fixed location such as a doorway). While this extended action is in effect, the defender monitors a two-pace radius around himself. He may attempt to interrupt, using the interrupting actions rule, any enemy who moves into this zone or who makes a melee attack against the character he’s defending. If the defender successfully interrupts by winning the action priority roll, that enemy becomes engaged in melee with the defender. If the defender successfully interrupted a melee attack, the attacker must attack the defender instead of the original target, or else forfeit his action entirely. A defender can also attempt to interrupt missile attacks aimed at the character he’s defending. If the interruption attempt succeeds (again, by the defender generating a higher Action Priority Total), the missile attack resolves against the defender instead of the original target. This is a case where the sequential nature of combat should not be taken too literally. Defending against missile attacks has more to do with positioning oneself to spoil an opponent’s aim than with throwing one’s body into the path of an arrow that’s already in flight. Also, the storyguide should disallow the defender from intercepting missile attacks that he couldn’t logically block, such as attacks from behind. Defending is an extended action, so a defender can’t attack in the same round. He can, however, use exertion on defense. A defender’s usual tactic is to keep defending until all enemies are engaged in melee with the defender, and then start attacking them. A character being defended can still attack. If he does so, then he becomes engaged with his target and the defender can no longer block attacks from that target. The defender can still prevent additional opponents from attacking his charge, however. A defender can only protect one other character, and only as long as that character remains within two paces of him. There is no limit to how many enemies a defender can try to interrupt in a round, though sooner or later his luck will run out and an enemy will slip past him.''
+''Example: Ignatio the shield grog and Victor the redcap are carrying an urgent message when they are beset by three highwaymen, two armed with short spears and one with a bow. All players roll Initiative and the order in which the characters will act is: first highwayman, Victor, Ignatio, second highwayman (armed with the bow), third highwayman. The first highwayman attacks Victor and hits, inflicting a Light Wound. On Victor’s turn, he activates an enchanted item he has (The Invisible Shield) that protects him from metal weapons. Ignatio is un''
+''aware of this item and declares he will act as defender for Victor. The second highwayman shoots an arrow at Victor; Ignatio, as Victor’s defender, has an immediate chance to interrupt. Both Ignatio and the highwayman roll for action priority. Ignatio’s total is 11 (+1 Quickness + 7 Single Weapon Ability (including specialty) – 2 Encumbrance + 5 stress roll) versus the archer’s 8 (0 Quickness + 5 Bows Ability + 3 stress roll). Ignatio interrupts the shot, so the archer’s only choice is to shoot Ignatio instead of Victor, or waste his action entirely. He shoots Ignatio and hits, but Ignatio suffers no wound thanks to his impressive Soak score. Now the third highwayman attacks, and Ignatio gets to interrupt him. This time, the highwayman wins the action priority roll, so he slips past Ignatio and attacks Victor. However, his attack misses due to Victor’s magical ward. The second round begins. The first highwayman, who attacked Victor last round, tries to do so again. Ignatio is still acting as Victor’s defender because being a defender is an extended action, and an extended action lasts until just before the character’s next turn. Ignatio interrupts the attack, successfully this time. The first highwayman is now engaged with Ignatio, and has to attack Ignatio or forfeit his action. He swings and misses. Now it’s Victor’s turn. Victor feels he doesn’t need Ignatio’s protection any more, so he draws his sword and attacks the third highwayman (becoming engaged with him). Ignatio can no longer defend Victor against that opponent. On Ignatio’s turn, Ignatio realizes that he and Victor are each engaged with one opponent, and decides his best option is to stop defending Victor and attack the first highwayman, with whom he’s already engaged.''
+
+==Disengaging==
+
+''Rules for disengaging from combat may be found on page 173 of ArM5. In the context of missile combat, it is useful to think of disengaging as “taking cover.”''
+''Attempting to Disengage''
+''Disengaging is a reaction, not an action. A character must disengage whenever he attempts a move action while engaged. To disengage, a character must generate a Defense Total, and all opponents who attacked him since last round generate Attack Totals (as a reaction). If the character’s Defense Total is greater than or equal to the highest Attack Total, the character may move normally. Otherwise, the character’s movement stops and he remains engaged. The failed attempt to move still counts as his action for the round, so he can’t perform an''
+''other (except possibly a fast action). If a character fails to disengage and tries again the following round, he gains a +3 bonus to his Defense Total for his roll to disengage only. This bonus increases by +3 each round until the character escapes or combat ends, so, for instance, a character who tries to disengage for three consecutive rounds has a +6 bonus on the third round. The bonus resets to zero if the character attacks or performs some other action besides movement. If a character moves along a path that brings him within melee or missile range of an opponent who has a delayed action, that opponent can attack him. (See Option: Interrupting Actions, earlier in this chapter. If you are not using that option, opponents can attack the character automatically if they have delayed their actions.) The moving character becomes engaged at that time, but may immediately attempt to disengage and continue his movement.''
+''Automatic Disengagement''
+''A character automatically ceases to be engaged in combat when any of the following happens:''
+''All opponents engaged with him are •''
+''knocked prone, killed, incapacitated, or otherwise completely disabled. No opponents have attacked him since •''
+''his last turn. Note that this implies that a character who goes first in initiative order can disengage automatically at the start of combat, if he wishes. In addition, a character ceases to be en•''
+''gaged in missile combat when: The opposing side runs out of ammuni•''
+''tion. This may not be immediately obvious to the character, but his next attempt to disengage will automatically succeed. The character (or group) moves beyond •''
+''the extreme range of all opponents’ weapons.''
+''Option: Reckless Disengagement''
+''The requirement that a character disengage from combat assumes that a character’s self-preservation impulse always prevents him from turning his back on an opponent in the midst of mortal combat. As an option, the storyguide can allow characters to disregard self-preservation and simply move''
+''away. As a consequence of this reckless act, the character’s opponent gets a free attack and the character gets no Defense roll: his Defense Total is 0. Needless to say, this is extremely dangerous in most circumstances, but it may be a sensible thing to do if the character enjoys a magical immunity to his opponents’ weapons.''
+
+==Attacking and Defending==
+
+''Attacking and defending are the fundamental activities of combat. This section clarifies the Ars Magica Fifth Edition rules for engaging in combat, and presents several new, optional variations on these basic elements of combat.''
+
+==Attacking==
+
+''Attacking, whether in melee or missile combat, is an action.''
+''Charging on Foot''
+''Charging is an action that lets a character move and make a melee attack in the same round. The movement must come before the attack. It is also possible to charge and attack with a hand-hurled weapon such as a javelin or throwing axe, but not with a bow, sling, or crossbow. Charging on foot is like combining movement with exertion on the attack (see ArM5, page 173). If on foot, the character must spend a Fatigue level and may move at up to his running speed. (See Movement Rates, earlier in this chapter). If the character moves faster than a hurry, he may lose an additional Fatigue level due to running. On foot, a charging character gains a bonus to his melee Attack roll equal to his Combat Ability. Charging carries no additional benefits or penalties. In particular, there is no penalty to Defense due to charging. It is less effective to charge across difficult terrain. A character who charges across difficult terrain can still move and attack in the same round, and must still spend a Fatigue level, but does not gain the Attack bonus.''
+''See Mounted Combat, later in this chapter, for rules covering charging on horseback.''
+''Option: Interrupting a Charge''
+''If you are using the interrupting actions option (see Option: Interruption Actions, earlier in this chapter), a character who is charging on foot uses his Combat Ability as the relevant Ability in his Action Priority Total. The character who is interrupting should use Athletics if he’s trying to move out of the way of the charge, or a Combat Ability if he’s trying to attack the charging character. One may interrupt a charge using either missile or melee weapons. If you are not using the interrupting actions rule, you can still use this option. If you do so, a character who wants to interrupt a charge must delay his action, and can then attack in response to the charge.''
+
+[|
+
+==Option: Condensed Notation for Combat Scores==
+
+''Players may find it convenient to write combat scores in “condensed notation.” For each weapon, write two numbers for the Defense score, separated from each other by a slash. The first number is for the weapon only, and the second is for the weapon-shield combination. Label these lines as “weapon/ shield’ (substituting the names of the specific weapon and shield in question, of course). It is a good idea to include a separate line on the character sheet that gives the Defense score for the character’s shield (without weapons), which is needed against missile attacks. For example, the standard soldier (see ArM5, page 22) has the following condensed notation combat scores: Axe/Heater Shield: Init +0, Attack +12, Defense +9/+11, Damage +7 Fist: Init –1, Attack +7, Defense +7, Damage +1 Heater Shield: Defense +11 This may not seem to save much space, but note that it covers all possible weapon/shield combinations, and there is no need to re-calculate combat scores if, for example, a combatant’s shield breaks.''
+
+|]
+''Option: Ready Missiles''
+''This optional rule works with the fast actions option (see Option: Fast Actions, earlier in this chapter). A character armed with any type of bow or crossbow, but not with a sling or hand-thrown weapon, who has the weapon drawn and an arrow or bolt on the string, is considered to have a missile “ready.” He can shoot as a fast action instead of an ordinary action. He may then perform another action in the same round, even, in the case of a bow, shooting a second arrow. An archer can pull an arrow from his quiver, aim, and shoot, all in a single action. However, if the archer prefers, he can nock an arrow and draw the bow as an action, and delay a fast action to shoot. A crossbowman loads his weapon as part of the extended action of spanning it, so always begins the next round with the weapon ready. A common tactic for crossbowmen is to span the weapon behind a pavise (a large, free-standing shield) or other cover, pop up, shoot, and quickly duck back behind the cover to span the weapon again. (An archer could use the same tactic, at the cost of halving his rate of fire). The only way the crossbowman would be exposed to enemy mis''
+''siles is if an enemy had delayed an action, then attacked in response to the crossbowman leaving cover. Needless to say, characters with experience fighting crossbowmen do exactly that.''
+''Option: Constriction Attacks''
+''Medieval bestiaries speak of dragons strangling elephants with their tails or coils. Other fantastic beasts, such as the kraken, are also capable of constriction attacks. A creature can only constrict a victim whose Size is less than its own. Constriction is based on the grappling rules (see Non-Lethal Combat on ArM5, page 174 or Option: Non-Lethal Combat, later in this chapter). The Attack Total is computed using the Brawl skill, and a constriction attack has the following weapon statistics: Initiative 0, Attack +3, Defense 0, Damage n/a. As long as a grappling creature maintains the grapple, its opponent is considered deprived of air (see ArM5, page 180). The victim must make a Stamina check every thirty seconds, that is, every five rounds, or suffer the normal effects of deprivation. Constriction is a slow way to slay an opponent.''
+''Once a creature has successfully grappled an opponent (and begun constricting), on subsequent rounds the creature can continue constricting while also attacking with other weapons, such as its claws or bite. These attacks may be directed against the grappled victim or another opponent.''
+
+==Defending==
+
+''Defending against an attack (that is, generating a Defense Total) is a reaction, not an action. A character who comes under attack nearly always gets a Defense roll, even if he doesn’t see the attack coming (though he would suffer major penalties to his Defense Total in that case). There is no limit to the number of Defense rolls a player may make for his character in one round.''
+''Defense when Unarmed''
+''Completely unarmed characters use the Defense Total based on their Brawl Ability. Characters equipped with a shield, but no weapon, use the Defense Total based on their Single Weapon Ability.''
+''Helpless Characters''
+''The only time a character doesn’t get a Defense roll is when he’s totally helpless — unconscious, securely bound to a chair, magically paralyzed like a statue, and so on. In these cases, if any opponent should be so ignoble as to attack the character, treat his Defense Total as –10 (note that this Defense Total is a fixed number; there is no die roll).''
+''Option: Diceless Defense''
+''To make combat flow quicker and reduce the amount of arithmetic involved, you can replace the stress die in characters’ Defense Totals with a constant value of 6. That is, characters don’t roll Defense; Defense simply becomes something akin to an Ease Factor for the Attack roll. This option takes some of the variability out of combat. It eliminates the possibility of a Defense botch, but it also eliminates the possibility of a very high Defense roll warding off an otherwise unavoidable attack. It tends to make characters with powerful combat scores a bit more powerful with respect to''
+''weak combatants, because the weaker fighters normally rely on luck in order to win. The storyguide should feel free to apply this option selectively, for example, only to non-player characters instead of player characters, or only to “cannon fodder” opponents and not to the main villains of the saga.''
+''Option: No Defense for Missile Weapons''
+''All weapons in the missile weapon table have a Defense modifier of 0, but a character with a bow or sling in hand uses the Combat Ability for that weapon when rolling a Defense Total. This raises the question of whether skill at archery (for example) necessarily makes a character better at dodging arrows or sword thrusts. Some players may feel that it doesn’t make much sense to apply an Ability for missile weapons to Defense rolls, particularly against melee attacks. If that’s a problem in your saga, you can simply rule that missile weapons and their relevant Abilities cannot be used to generate a Defense Total. A character holding a bow, crossbow, sling, knife, or stone uses the Brawl Ability for defense. A character holding a javelin or throwing axe, which are usable in melee, uses the Single Weapon Ability (and the appropriate weapon’s Defense modifier) for defense.''
+''Option: Evasion''
+''The combat rules don’t draw a distinction between avoiding an attack by blocking it as opposed to nimbly dodging out of the way. Both forms of defense are covered by the Defense score. This optional rule separates defense based on blocking and parrying from defense based on dodging; the latter is covered by a new combat score called Evasion. The idea behind this optional rule is to give players and storyguides new options and more flexibility in roleplaying combat. The storyguide might rule that Defense is completely ineffective against certain attacks, such as the touch of an insubstantial spirit or the tree-sized club of a giant. Logically, it should be easy to hit a huge dragon with an arrow (because it has a poor Evasion Total), but very hard to get inside its guard to hit it with a sword (because it has a good Defense Total). The evasion rule also gives players a new option to create characters''
+''who are quick, light skirmishers (such as Aragonese almogavars) as an alternative to heavily armored (and heavily encumbered) warriors. This optional rule overrules the statement on page 172 of ArM5 that “Combat Ability… represents ability to dodge as well as to defend with weapons.” Dodging and avoidance are represented by an Evasion Total, which represents the ability to dodge, and Combat Ability (under this option) represents only the ability to block and parry. Evasion can be used in place of a Defense Total against any attack. Size and Encumbrance are important factors in the Evasion Total, as opposed to the Defense Total where Size and Encumbrance are irrelevant. The Defense Total, representing defense with weapons, becomes usable only against melee attacks under this option. In fact, Defense might not even be usable against all melee attacks; trying to parry the huge club of a thirty-foot-tall giant or the horn of a charging rhinoceros with a sword or shield doesn’t seem reasonable. The storyguide may rule that powerful attacks like these can’t be defended against with weapons, and must be dodged using Evasion. Evasion, on the other hand, can be used against any attack. The main disadvantage to using Evasion is that it’s hard to get a high Evasion Total while wearing heavy armor. Another disadvantage is that the storyguide can rule that a character can’t use Evasion when his mobility is restricted, for example, when held fast by Hands of the Grasping Earth. Shields may be combined with Evasion under certain circumstances. A shield helps with Evasion rolls to avoid incoming arrows, but not against rolls to avoid being stepped on by a dragon.''
+''Evasion Total on Foot: Quickness + Brawl − Size − Encumbrance + Shield Defense Modifier + stress die''
+''Evasion Total While Mounted: Quickness + Ride − Size − Encumbrance + Shield Defense Modifier + stress die''
+''You can use Evasion with the diceless defense option (see Option: Diceless Defense, earlier in this chapter); just replace the stress die in the Evasion Total with a constant value of 6.''
+''Option: Lasting Consequences of Serious Damage''
+''This optional rule was originally printed in Art & Academe, page 43. An Incapacitating Wound is a significant punishment to the body, and might result in loss of the afflicted limb, or the acquisition of other Flaws. Troupes who want to add a level of extra peril can simulate such crushing wounds in the following manner. Whenever an Incapacitating Wound is dealt, the player should immediately make a Stamina roll against an Ease Factor of 6. If this roll fails, then there is a lasting complication to the wound that the character has suffered in the form of a Minor Flaw. See Surgical Intervention on Art & Academe, page 62 or Mitigating Deadly Wounds, later in this chapter, for examples. Of course, a character who avoids the loss of a limb from the injury itself may face losing it through surgical intervention if the wound worsens (see Art & Academe, page 62).''
+''Option: Mitigating Deadly Wounds''
+''Bad things can happen to characters in combat — especially to grogs. Death is often one unlucky die roll away. Defense botches are particularly deadly (see ArM5, page 171). If there is a fair amount of combat in your saga, you may find the risk of losing a beloved character (or despised villain) is greater than your troupe wants to accept. Once in a while, it’s all right for the storyguide to alter the outcomes of a die roll, especially if doing so helps the story. The most important rule in the game appears on ArM5, page 6: “In the last analysis, Ars Magica is a game. If you have fun with it, you are doing it right.” In that spirit, the storyguide can choose to reduce a Major Wound suffered by a character, and instead give him a less serious wound and a new Flaw representing some permanent maiming or disability. For example, the storyguide might replace an Incapacitating wound with a Heavy Wound and the Flaw Missing Hand. Defense botches are a good time to exercise this option. The storyguide might choose to use this option only for companions or magi, or only for the main character(s) in a given story, or no more once per character. It’s important to treat all the players’ characters fairly, so if you use this option to save one character but not another, be pre''
+''pared to explain why. Better yet, discuss this option with your troupe and agree ahead of time how you’ll use it in your saga. As a rule of thumb, an Incapacitating Wound can be reduced to a Heavy Wound plus a Minor Flaw, while a Fatal Wound can be reduced to either an Incapacitating Wound plus a Minor Flaw, or a Heavy Wound plus a Major Flaw. The storyguide should feel free to vary from that guideline as her judgment and the needs of the story dictate. Appropriate Flaws to apply with this option include:''
+''Minor Flaws Afflicted Tongue •''
+''Disfigured •''
+''Fragile Constitution •''
+''Hobbled ( • Houses of Hermes: Mystery Cults, page 136) Lame •''
+''Missing Ear •''
+''Missing Eye •''
+''Missing Hand •''
+''Palsied Hands •''
+''Major Flaws Blind •''
+''Crippled •''
+''Enfeebled •''
+''Mute •''
+''No Hands •''
+
+==Mounted Combat==
+
+''This section expands on the brief treatment of mounted combat in Ars Magica Fifth Edition. Fighting from horseback is the dominant model throughout Mythic Europe. A mounted warrior enjoys the following benefits:''
+''A mounted character gains a situational •''
+''bonus to both Defense and melee Attacks equal to his Ride skill or +3,whichever is less. The Attack bonus applies to melee attacks only. Note that this bonus applies regardless of whether the mounted character’s opponent is mounted or on foot. A mounted character’s steed gets to •''
+''perform an action each round. For simplicity, this happens on the rider’s turn in the combat sequence (which is easi''
+''er than keeping track of a separate turn for the horse). Typically, a rider uses his action to attack and the horse uses its action to move. The rider decides which action comes first. Note that a mounted character must still disengage from combat in order to move away from an opponent. Only a mounted character can properly •''
+''wield a lance. For a dismounted fighter, a lance functions as a long spear, which is less effective. A mounted charge has special benefits •''
+''over a charge on foot: the horse, not the rider, expends a Fatigue level, and there are optional rules for unhorsing or knocking down the target. (See Charging on Horseback and Option: Shock of the Charge, both later in this chapter). A rider can usually perform extended •''
+''actions while his horse is moving, though doing so typically requires a Dexterity + Ride roll against an Ease Factor that depends on the horse’s gait (see Effects of Mounted Movement, later in this chapter).''
+
+==Untrained Mounts==
+
+''The benefits of being mounted described in the previous section assume the character’s steed is trained for battle. Most horses in Mythic Europe are trained only for riding, not combat. The rider of an untrained mount does not gain the situational bonus for mounted combat because the horse doesn’t know how to respond to important signals and commands. An untrained horse automatically panics whenever it is engaged in melee. See Controlling a Panicked Horse, later in this chapter.''
+
+==Mounted Movement==
+
+''A horse has four gaits, which are listed on the Mounted Movement Rates table. The horse can use any gait on a given round; there is no need to “build up speed” between being stationary one round and galloping the next.''
+
+==Charging on Horseback==
+
+''A mounted charge is similar to a charge on foot: the character can move and then attack in the same round, and gains a bonus to the Attack roll equal to the character’s Combat Ability (in addition to the normal situational bonus for mounted combat, equal to the lesser of Ride Ability or +3). Of course, since a horse is faster than a human, a mounted charge can travel a greater distance than an infantry charge. Furthermore, it is the horse, not the rider, who expends a Fatigue level. If you are using the shock of the charge optional rule, the charge’s target may be knocked sprawling by the impact. A rider cannot use exertion in the same round he charges; the whole point of a mounted charge is to take advantage of the horse’s strength and mass, not the rider’s. However, since a rider can always move and attack in the same round (unless engaged), it’s possible to move on horseback and use exertion on either Attack or Defense. This can grant the same combat bonus as a charge (if the rider exerts on his Attack roll) but the horse doesn’t have to spend a Fatigue level and the shock of the charge option doesn’t come into play.''
+
+[|
+
+==Suggestions for Combat Botches==
+
+''The following are some suggested effects for combat botches, listed in roughly increasing order of severity.''
+''Damage your weapon; make a stress •''
+''check (see The Clash of Weapons, later in this chapter, or City & Guild, page 77). Become disoriented; miss your next •''
+''turn. Stumble; −3 to Defense rolls until •''
+''your next turn. Horse panics (if mounted). •''
+''Shield breaks. •''
+''Drop your weapon or break a bow•''
+''string. Collide with an ally; both suffer –3 •''
+''to Defense until next turn. Fall prone. •''
+''Weapon breaks. •''
+''Fall from horse (if mounted). •''
+''Twist an ankle; take a Light Wound •''
+''and you cannot run or charge until it’s healed. Horse falls (if mounted). •''
+''Strike an ally. •''
+
+|]
+''Like a foot charge, a mounted charge can’t cross difficult terrain and still get the Attack bonus. However, a rider can move normally (i.e., without charging) and exert on Attack.''
+
+===Option: Shock of the Charge===
+
+''The impact of a half-ton of horse and rider charging furiously at a speed over twenty miles an hour is nigh irresistible on the battlefield. With this optional rule, any time a mounted charge hits a target smaller than the horse, that target may be knocked prone by the terrific force of the blow, in addition to any wounds caused by the blow itself. If a mounted attack simply misses, or if the target resists the attack due to magical protection (as by a warding spell, or Parma''
+''Magica against a magical lance), then no collision takes place and the target isn’t in jeopardy of being knocked down. When the mounted charge hits, the target must roll a reaction to remain upright:''
+
+===Resist Charge While Mounted: Dexterity + Ride + Saddle Modifier + Stress Die Vs. Damage Total (Before Soak) + Size of Attacker’s Horse===
+
+''A rider with a cantled saddle, as used in tournaments or warfare, gains a +3 bonus to this roll. A rider without stirrups suffers a –3 penalty.''
+
+===Resist Charge While On Foot: Str + Size + Combat Ability + Stress Die Vs. Damage Total (Before Soak) + Size of Attacker’s Horse===
+
+''If the roll fails, the target falls from his horse or is knocked down. He lands prone, and may take additional damage from the fall (see Falling from Horseback, later in this chapter).''
+
+===Shooting Missiles From Horseback===
+
+''Knights and sergeants from England or France rarely attempt to shoot bows or throw javelins from horseback, but elsewhere in Mythic Europe, mounted archers — Moors, Byzantine kataphraktoi, Hungarian szekeley, Levantine turcopoles, and Mongols — are commonplace. In Iberia in the early Middle Ages, both Moorish and Christian cavalry armed themselves with javelins. Mounted crossbowmen also appeared in historical Europe, but weren’t common until the late 14th century. Missile cavalry can be effective, but even the most skilled horse archers are less accurate than their infantry counterparts. Shooting missiles from a moving horse always incurs an Attack penalty, which gets worse the faster the horse’s gait (see Mounted Movement Rates, earlier in this chapter). However, because of a horseman’s ability to move and attack in the same round, a mounted archer can gallop to close range before shooting, then wheel and ride away the following round. Mounted on a swift horse, a rider can usually get the same or better Attack Total by galloping up close to his target than if he had stood still and shot from long range. Characters with missile weapons get the normal situational Defense bonuses for mounted combat (i.e., equal to their Ride skill, or +3, whichever is less) due to their mobility. The Attack bonus for mounted combat does not apply to missile attacks.''
+
+===Actions Taken By Horses===
+
+''A trained warhorse can attack opponents in melee. The horse does not roll Initiative on its own; it acts on the rider’s turn. (The rider decides whether he, or his horse, completes its action first.) If the rider dismounts or is forcibly removed from the saddle, the horse begins acting independently. The player or storyguide should roll Initiative for it at that point. Like a human character, a warhorse gets one action per turn. Therefore, it can either move or attack, but not both. Carrying a rider in a mounted charge counts as the horse’s''
+
+[|
+''Mounted Movement Rates''
+''Horses have four gaits, each of which has a different movement rate.''
+
+===Gait –3 Or===
+
+
+===Less===
+
+
+===–2 To –1 0 +1 To +2 +3 To +4 +5===
+
+''Walk/Amble 7 8 10 12 15 18''
+''Trot 12 15 20 25 30 35''
+''Canter 20 25 30 35 45 50''
+''Gallop 30 40 50 60 70 80''
+
+===Effects of Mounted Movement===
+
+''A horse’s gait affects a rider’s ability to shoot missiles from horseback, the amount of damage taken for falling off the horse, the Ease Factor for the Dexterity + Ride roll needed to carry out extended actions, and, optionally, his Defense score against ranged attacks. A horse must make a Fatigue test every round it moves at a gallop.''
+
+===Gait Penalty===
+
+
+===To Missile===
+
+
+===Attacks===
+
+
+===Falling Damage===
+
+
+===Extended Action Ease===
+
+
+===Factor===
+
+
+===Defensive===
+
+
+===Bonus (Optional)===
+
+''None (stationary) 0 Horse’s Size* + stress die 0 0''
+''Walk/Amble or Trot −1 (Horse’s Size + 2)* + stress die 6 +1''
+''Canter −3 (Horse’s Size + 4)* + stress die 9 +3''
+''Gallop −6 –6 (Horse’s Size + 6)* + stress die 12 +6''
+''* The bonus (but not the die result) is doubled if the character falls on a hard surface, and halved if he lands on a soft surface like plowed earth.''
+
+|]
+''action; the horse can’t also attack in the same round. Once its rider has come to blows with the enemy, the horse can fight independently of its rider, using the full repertoire of combat tactics (including, for example, exertion and non-lethal attacks). Horses who have a Confidence Score can use Confidence Points in combat; the rider’s player decides when to do so. Normally, a rider chooses whether to resolve his own action or the horse’s action first. But in Mythic Europe, a supernatural horse can potentially have a higher Intelligence score than the rider! In that case, it’s the horse who gets to decide whose action comes first and when to use Confidence Points.''
+
+==Attacking Horses==
+
+''With his height advantage and (usually) heavy armor, a mounted warrior enjoys a stronger defensive position than most. The same cannot be said for his horse: the source of a knight’s greatest strength is also, frequently, his greatest vulnerability. Knights and nobles throughout Mythic Europe consider it ignoble and disgraceful to attack an opponent’s horse. Doing so in a tournament certainly harms a noble’s Reputation; it also deprives him of a valuable prize. In all-out warfare, on the other hand, Reputation and booty frequently take second place to survival. The commoners who make up the vast majority of infantry have no illusions of chivalry, and do not hesitate to attack the horse first and the rider second.''
+''Wounding Horses''
+''A horse has a relatively low Defense score, at least compared to a knight or trained serjeant. Warriors rarely outfit their horses with heavy armor (the scale armor– clad horses of Byzantine kataphraktoi are the exception that proves the rule), though armored horses became more common in the late middle ages of historical Europe. With only moderate Defense and Soak scores, a horse is often a much easier target than the knight who rides it. When a horse suffers a wound, the effects on the rider vary depending on the severity of the wound:''
+''Light Wound: • No effect on the rider; the horse’s Wound Penalties don’t hinder''
+''the rider’s attacks. Medium Wound: • The horse may panic; the rider must make a Presence + Ride roll vs. Ease Factor 9 to control it. Heavy Wound: • The horse rears or stumbles; the rider must make a Dexterity + Ride roll vs. Ease Factor 9 or fall from the saddle. The horse stops moving immediately and cannot charge or move faster than a trot. This aborts a charge, if one was in progress. Furthermore, the horse may panic; the rider must make a Presence + Ride roll vs. Ease Factor 9 to control it. A horse that sustains a Heavy Wound is usually euthanized after the battle. Incapacitating or Fatal Wound: • The horse falls instantly; the rider is in peril of falling with it. See Being Pinned Under a Horse, later in this chapter.''
+''Controlling a Panicked Horse''
+''Horses untrained for battle panic whenever they are engaged in melee. Any horse panics when it suffers a Medium or Heavy Wound, or when faced with terrors such as magic on the battlefield or a fell being of supernatural power (at the storyguide’s discretion).''
+''Maintain or Regain Control of Panicked''
+''Horse: Presence + Ride vs. Ease Factor 6 – horse’s total Wound Penalties''
+''A rider may roll once as a reaction the moment his horse panics. If that roll fails, the rider may make another attempt as an action, and may keep trying until he succeeds. Once controlled, the horse remains under con''
+''trol until something new causes it to panic again. A panicked horse usually attempts to disengage from combat and gallop to safety, but there is one important exception. The natural instinct of a wounded or frightened horse is to surge forward as fast as possible. If a horse is injured in mid-charge (such as by an opponent’s delayed action under an optional rule) and panics, its rider can complete the charge normally. The horse is still panicked, and behaves accordingly starting on the following round. Except in the case of a mounted charge, the rider of a panicked horse can’t attack or take any action except to try to regain control, or leap out of the saddle. He may also voluntarily fall off the horse as a reaction, but takes damage as usual from the fall.''
+''Option: Defensive Bonus for Moving Horses''
+''Because horses are so swift, the storyguide may wish to make them a bit harder to hit with missiles when they are moving. The Mounted Movement Rates table lists an optional defensive bonus based on the horse’s gait. If you are using the evasion optional rule, this bonus applies to the Evasion score of both horse and rider. Otherwise, it applies to their Defense scores against missile attacks.''
+
+==Mounting and Dismounting==
+
+''Mounting or dismounting a horse in the usual way is an action, but does not require a die roll.''
+''Leaping from the Saddle''
+''A character may attempt to leap from the saddle as a reaction if his horse panics, falls, or is slain.''
+''Leap from the Saddle: Dexterity + Athletics – Encumbrance + stress die vs. Ease Factor 9''
+''If the roll fails the character remains in the saddle, possibly falling along with his horse. If it succeeds the character lands nimbly on his feet, ready to continue fighting.''
+
+[|
+
+==Story Seed: The Wounded Steed==
+
+''A knight and his men arrive at the covenant looking for a learned man to heal his horse, wounded in battle weeks previously. On investigating the wound, which stubbornly refuses to heal, the magi find that it was magically inflicted and cannot heal until the next full moon. What’s more, the knights carry the bag of a redcap known to the covenant. How did the horse pick up its injury and how have the knights come to possess the redcap’s bag?''
+
+|]
+''If you are using the fast actions optional rule, you may allow characters to leap from the saddle voluntarily as a fast action. Failure in this case means the character lands badly; this is the same as falling from the saddle (see Falling from Horseback, later in this chapter). A botch indicates some mishap such as an especially bad fall (extra damage), or falling with the rider’s foot still caught in the stirrup.''
+''Option: Vaulting Into the Saddle''
+''If you are using the fast actions optional rule, you may allow characters vault into the saddle as a fast action. If the rider did not move before vaulting into the saddle, he may then ride in the same round. If the attempt fails, the character remains standing behind his horse.''
+''Vault Into the Saddle: Strength + Athletics – Encumbrance + stress die vs. Ease Factor 6''
+
+==Falling from Horseback==
+
+''When a character falls from horseback, he takes falling damage (see ArM5, page 181). The amount of damage depends on the horse’s gait; see Mounted Movement Rates, earlier in this chapter. Any time a rider falls from his horse, he lands prone. Standing up is an action.''
+''Being Pinned Under a Horse''
+''If a horse is Incapacitated, killed, or knocked prone or unconscious, the rider risks having the horse fall on top of him. To avoid this, the rider may attempt to leap from the saddle as a reaction. If this fails, the character takes falling damage and must make a Quickness + Ride – Encumbrance + stress die roll vs. Ease Factor 6. If that also fails, the horse lands on the rider, inflicting stress die + horse’s Size + 6 damage. The character is also pinned under the horse, requiring another character to make a Strength roll vs. Ease Factor (6 + (horse’s Size) to pull him out.''
+
+==Battlefield Situations==
+
+''Conditions on the battlefield are everchanging. Characters in an Ars Magica story might take cover against arrows, defend a crenelated wall, or fight a desperate melee in the darkness of an underground catacomb. This section provides suggestions and guidelines for how to make these dramatic situations affect the outcome of battle. These rules are meant to add a greater tactical dimension to combat. Do not feel obliged to use them if your troupe is uninterested in such things. They do make combat more complex and potentially more timeconsuming to play. They are best applied with imagination and dramatic flair. Ideally, players should visualize the battlefield and come up with creative ways for their characters to gain an advantage.''
+
+==General Situational Modifiers==
+
+''Most battlefield situations boil down to a bonus to Attack or Defense rolls (or both). The bonus may apply only to a limited subset of rolls: for example, a bonus to Defense against missile attacks, or a bonus to Attack rolls with one-handed melee weapons. Storyguides can assign any numeric value to a situational modifier, but it is often easiest to simply choose between +1, +3, and +6. A +1 modifier is a slight but significant edge, like defending a hilltop in melee. A +3 modifier is more substantial, like fighting from horseback. A +6 bonus is very significant, like attacking a prone character in melee. Only a few situations call for a bonus higher than +6. Situational modifiers are best expressed as bonuses or penalties that apply to the character in the unusual situation. It is clearer to say “a character in a tree gets a +3 bonus to Defense” than to say “enemies attacking a character in a tree get a –3 penalty to Attack,” even though the two statements are mathematically equivalent.''
+''Lords of Men Specific Situations''
+''It would be impossible to enumerate every possible combat situation that could arise from the imaginations of players and storyguides. Instead, players should handle unforeseen situations by analogy with these examples.''
+''Cover''
+''Strictly speaking, cover refers to shelter that is sturdy enough to actually stop incoming attacks. (Material that merely hides the character from view, such as foliage or a tapestry, is called concealment in these rules. See Concealment, Darkness, and Invisibility, later in this chapter.) The Defense bonus from cover applies against both missile and melee attacks. If a character has both cover and concealment, only the highest Defense bonus applies.''
+''Amount of Cover Defense''
+''Bonus''
+''Example''
+''One-quarter +3 Standing behind a slender tree''
+''One-half +6 Standing behind a corner or in an open doorway''
+''Threequarters +9 Standing behind a chesthigh wall''
+''Near total +12 Standing behind a loophole or a door that is ajar''
+''Concealment, Darkness, and Invisibility''
+''Armies in Mythic Europe usually avoid fighting in darkness or fog. Such conditions make it nearly impossible to command an army (at least, through non-magical means). In an Ars Magica story, of course, characters may find themselves battling diabolists in the gloom of an underground temple or ambushing intruders amid a magically created fog. Whenever a character is difficult to see, whether that difficulty arises from darkness, a screen of foliage, or magical invisibility,''
+''he gains a bonus to Defense (or Evasion). If he can attack in melee without becoming clearly visible, he also gains an Attack bonus — it’s hard to defend against an attack one doesn’t see coming. The extent of the bonus depends on how well concealed the character is.''
+''Con''
+''ceal''
+''ment Examples''
+''Melee Attack Bonus''
+''Defense Bonus''
+''Light Fog, shadows, moonlight, underbrush, half of body concealed''
+''+1 +3''
+''Medium Smoke, faint moonlight, dense foliage, three-quarters of body concealed''
+''+3 +6''
+''Heavy Typical dark night +6 +9''
+''Total Lightless underground cave''
+''+9 +9''
+''These bonuses and penalties apply to both the attacker and the defender.''
+''Houses of Hermes: Societates, pages 32–33, gives detailed rules for using invisibility in combat, which are compatible with these rules and go into more detail about how to detect and attack invisible opponents. Also, characters who can’t clearly see their allies or surroundings suffer extra botch dice to Attack and Defense. A single extra botch die would be appropriate on a foggy, but otherwise open, battlefield, while as many as four or five botch dice could be called for in a chaotic nighttime melee in a forest. Darkness tends to make difficult or hazardous terrain disproportionately worse; rocky ground that adds one botch die in daylight might add three in the dark. This is one of the reasons the mundanes of Mythic Europe avoid fighting at night.''
+''Higher Ground''
+''When a character is fighting from an elevated position, whether he is atop a castle rampart or a tavern staircase, he enjoys an advantage that often translates to a +1 bonus to Attack and Defense in both melee and missile combat against opponents lower than himself. Mounted characters do not normally qualify for this bonus, because height advantage is already accounted for in the usual bonus for mounted combat (see ArM5, page 174). However, a horseman charging down a steep embankment would qualify for the higher-ground bonus.''
+
+[|
+
+==Light Sources and Range of Visibility==
+
+''How well a character can see an opponent, and at what distance, can make a difference for missile combat. Poor visibility grants increasing levels of concealment to characters at greater distances. At the storyguide’s discretion, a Perception roll of 9+ can sometimes reduce (by one step) the level of concealment due to poor visibility. The table below gives the longest range in paces at which a given level of concealment applies. For example, in moonlight a character would have medium concealment at a range of twenty paces, and heavy concealment between 21 and 50 paces (though the storyguide shouldn’t feel compelled to calculate distances to the exact pace!).''
+''Conditions None Light Medium Heavy Total''
+''Moonlight n/a 0 20 50 100''
+''Torchlight 3 5 10 15 25''
+''Heavy Rain 10 20 30 50 100''
+''Fog n/a 0 20 40 80''
+''Heavy Smoke or Fog n/a 0 2 4 10''
+
+|]
+''Fighting Indoors and in Narrow Spaces''
+''Normally, up to six opponents can surround and attack a single defender (see the group combat rules on ArM5, page 172; the maximum size for a group is six and a group may attack a single character). Walls and similar obstacles can reduce this number. There are no specific bonuses for fighting indoors, but indoor battlefields commonly have interesting features:''
+''A character with his back to a wall can •''
+''be attacked only by four opponents at once. A character defending a corridor or •''
+''doorway can be attacked by only two opponents from each direction (for a total of up to four opponents). Doorways can provide cover and doors •''
+''can become obstacles. Characters can jump onto furniture for •''
+''a height advantage or duck behind it for cover. Tapestries provide concealment. •''
+''Low ceilings and confined spaces make •''
+''it difficult to wield spears and other large weapons (−1 to −3 penalty to Attack and Defense, depending on space).''
+''Option: NonLethal Combat''
+''“Non-lethal combat” is a bit of a misnomer. The rules in this section cover attacks that are non-lethal only in the sense that their primary intent is something other than to wound or kill the opponent. As is always the case in Ars Magica combat, the risk of a Defense botch or excessively high Attack roll means death or serious injury can still result from a supposedly “non-lethal” attack. This section is an optional replacement for the non-lethal combat rules on ArM5, pages 174-175. It makes two significant changes to non-lethal combat: there are a greater variety of non-lethal attacks and maneuvers possible, and unarmed attacks (scuffling) no longer cause Fatigue loss. The reasons these rules replace Fatigue loss from scuffling combat with a new mechanic is that, in the standard ArM5 scuffling rules, depleting an opponent’s Fatigue levels can be quicker and easier than inflict''
+''ing serious wounds with weapons. In ArM5, creatures can sustain an unlimited number of wounds and still fight (at least until the end of the battle, after which a wounded character’s activities become restricted as described on ArM5, page 178). Contrariwise, all creatures have a fairly limited reserve of Fatigue levels and are helpless once those are depleted. The loss of a single Fatigue level is therefore potentially more serious than a single Light Wound. Against magi, knights who are already tired, or creatures who are hard to seriously injure (due to large Size, high Soak, or both), the standard ArM5 scuffling rules make it much faster to wear an opponent down by causing Fatigue loss than by inflicting wounds. This chapter fixes that problem and ensures that bare-knuckled punches are always less effective than the blows of a mace.''
+
+==Non-Lethal Damage: Bruises==
+
+''Instead of inflicting loss of Fatigue levels, or wounds as regular weapons do, non-lethal attacks such as punches and kicks inflict Bruises. Bruises are like wounds, but less serious. They cause Bruise Penalties that work just like Wound Penalties, but it is much faster and easier to recover from a Bruise than from a wound. The word “Bruise” doesn’t mean the character literally suffers a bruise to the flesh, though that can be a result. The term is meant to suggest trauma that, while certainly painful and debilitating, is less lifethreatening than typical wounds. However, a very severe Bruise can cause a character to be Incapacitated and even eventually die. Calculate Damage from a non-lethal at''
+''tack as usual, by subtracting the target’s Soak score from the Damage Total. Consult the Damage Table on ArM5, page 171, but instead of suffering a wound, the target suffers a Bruise of the same level of severity. The Bruise Table shows the penalties for each category of Bruise, and its recovery statistics. The most severe categories of Bruises leave regular wounds behind after the character recovers from the Bruise itself.''
+''Recovering from Bruises''
+''A character can recover from Bruises in a relatively short time. The character must be at rest in order to recover. After resting for the required Recovery Period, make a Recovery roll for each Bruise the character has. Use exactly the same Recovery Total as for wounds (see ArM5, page 179):''
+''Recovery Total: Stamina + Medic’s Medicine or Chirurgy score + magical aid + stress die''
+''If the Recovery Total equals or exceeds the Improvement Ease Factor for the Bruise, the Bruise improves to the next category. Heavy and worse Bruises leave residual wounds behind. The wound takes effect only after the Bruise improves for the first time; apply its Wound Penalty only then. Note that a single Bruise only leaves a single wound; an Incapacitating Bruise does not leave a Medium Wound when it heals to being a Heavy Bruise, and then a Light Wound when it heals to being a Medium Bruise; rather, the character is left with a single Medium Wound. For purposes of Ritual magical healing, a Bruise is considered equivalent to the residual wound it would leave. Both the Bruise and the residual wound are healed by the same''
+
+[|
+
+==Bruise Table==
+
+''Bruise Level Penalty Recovery''
+''Interval''
+''Improvement''
+''Ease Factor''
+''Residual Wound''
+''Light ̶1 Quarter Hour 10 None''
+''Medium ̶3 One Hour 12 None''
+''Heavy ̶5 Two Hours 15 Light Wound''
+''Incapacitating Unconscious Two Hours 15 Medium Wound''
+''Fatal Unconscious Two Hours 15 Incapacitating''
+
+|]
+''Ritual. For example, Chirurgeon’s Healing Touch could instantly heal a Heavy Bruise, leaving neither Bruise nor wound behind. Weapons and Bruises''
+''Characters may use weapons to inflict Bruises rather than wounds, but suffer a −3 penalty to their Attack Total when they do''
+''so, due to the awkwardness of striking with the flat of the blade or the butt of the spear. As an option, your troupe may wish to allow bludgeons, clubs, staves, improvised weapons (such as bottles and chairs), and cudgels (but not maces and hammers) to deal Bruises without an Attack penalty. Wooden practice swords, brittle tournament lances, and the like also inflict Bruises instead of wounds, with no Attack penalty.''
+
+==Special Effects==
+
+''Sometimes the best way to defeat an enemy is not to wound him, but to disarm him or drag him off his horse. Resolve such indirect forms of attack by making a regular Attack roll, opposed by a reaction (usually Defense) from the target. Each maneuver requires a certain Attack Advantage in order to succeed. If the attacker achieves or exceeds the required Attack Advantage, the maneuver succeeds. In special maneuvers, either character can use exertion on either attack or defense as usual. In many cases, the defender has a choice of what Characteristics and Abilities to use to thwart the maneuver, representing, for example, the choice between using brute force or agility to escape an opponent’s grip. Some maneuvers are harder than others; the inherent difficulty of the maneuver is represented by the Attack Advantage required. See the table on the facing page. The general idea of opposed die rolls is a good way to resolve situations in your game that the rules can’t anticipate. A trip or throw causes the defender to fall prone while the attacker remains standing. The defender takes no damage unless he botches his reaction (in which case a Light Wound is appropriate). Getting up is an action. A grapple inflicts no damage, but holds the defender so he can’t escape and his actions are hindered. The defender is caught in a hold or lock that lasts until the start of the attacker’s next turn. After that, the attacker must succeed at a new grapple to maintain the hold. The grappled defender suffers a –6 penalty on all attacks and most reactions, including Defense and Evasion, and can’t perform spellcasting gestures. He can escape by succeeding at a grapple of his own, or by inflicting any level of wound or Bruise on the character who’s holding him. It is possible to grapple while prone. A pin can hold the target to either the ground or to a wall or vertical surface (such''
+
+[|
+''Realms of Power: Magic proposes, on page 85, a different way to represent the unlikelihood of defeating a fifty-foot dragon by means of fisticuffs. The rules in that book are less a wholesale change to unarmed combat than the material presented here, and they are compatible with the scuffling rules in ArM5. The Ars Magica Fifth Edition combat rules are oriented toward characters of human size. Some special considerations apply to combat between humans and giants (or other very large creatures). As noted on ArM5, page 192, a 3-point difference in Size is approximately a tenfold difference in mass. This weight advantage gives giants an advantage in certain combat''
+''situations. For instance, it does not seem plausible that a 175-pound man should have an easy time grappling and pinning a 1,750-pound giant! The storyguide can simply rule that attempting to punch, grapple, or disarm a giant is completely ineffective. For a more complicated, but less arbitrary, approach, use the following rule of thumb: a giant gains a special bonus equal to double the difference between its Size and a smaller opponent’s Size, which is applied to Defense rolls against scuffling and grappling, Defense rolls against being disarmed, and so on. This bonus does not apply against regular attacks with melee or missile weapons, however.''
+
+==Your Arms are Too Short to Box with that Giant==
+
+
+|]
+''as a large tree). To pin a target to the ground, he must be prone first, and while the attacker may be standing initially, he also becomes prone during the pin attempt (regardless of whether it succeeds or fails). If the pin succeeds, the defender is helpless and cannot perform any actions (except casting spells or activating enchanted items, provided they do not require gestures). The pin lasts until the attacker’s next action, when he must succeed at a new pin to keep the defender immobilized. A tackle causes the attacker and his opponent to fall prone. No damage results. If the tackle fails, both characters remain standing, but if the attacker botches, he falls. Getting up is an action. A successful disarm causes the opponent’s weapon to fall to the ground. To retrieve it, the disarmed defender must use an action and successfully disengage. Anyone can try to unseat a rider by grabbing his leg and dragging him bodily from the saddle; polearms and halberds can also be used to unseat a rider. If successful, the rider lands prone and takes damage from the fall (see Falling from Horseback, earlier in this chapter). The wrest weapon action leaves the attacker holding his opponent’s weapon. This can also be used for grabbing other items, like a wizard’s staff.''
+''Advanced Group Combat''
+''The rules in this section expand the group combat rules in ArM5 to add a bit more tactical depth. Feel free to use group combat when it makes sense, or have characters fight independently whenever drama or troupe preference dictates.''
+''Accelerated Group Training''
+''Any group can learn to fight together by spending a season practicing together. A good leader can shorten this training time, either in an emergency (to prepare for an upcoming adventure or battle) or in order to train more than one group in a single season.''
+
+===Shorten Training Time: Communication +===
+
+
+===Leadership + Stress Die===
+
+''The Ease Factor depends on the amount of training time available. If the roll fails, then''
+''the group cannot become a trained group until the end of the season. If it botches, then the season’s training is wasted. Some Virtues, such as Inspirational, may provide a bonus if the storyguide sees fit; the Difficult Underlings Flaw most likely provides a penalty.''
+
+===Training Time Ease Factor===
+
+''Two Months 6''
+''Six Weeks 9''
+''One Month 12''
+''Fortnight 15''
+''One Week 18''
+''The characters being trained still gain experience only at the end of the season (i.e., there is no experience point bonus for participating in accelerated training). When the training period is complete, they can function as a trained group (see ArM5, page 173).''
+''The Leader’s Actions''
+''Issuing orders to command a group in combat is usually a fast action. (If you are not using the fast actions option, then the group leader can make one command-related die roll per round for free.) The leader acts at the same point in the combat sequence as the rest of the group. In cases where it matters whether the group acts first or the leader''
+
+[|
+''Example Maneuvers Table''
+
+===Example Maneuver Attack Total Defense Choices Advantage===
+
+
+===Required===
+
+''Trip or Throw Brawl Attack Defense, Evasion, or stress die + Dex + Brawl + Size 3''
+''Grapple Brawl Attack Defense, Evasion, or stress die + Str + Brawl + Size 1''
+''Pin Brawl Attack Brawl, Defense, Evasion, or stress die + Str + Brawl + Size''
+''Tackle Brawl Attack Defense, Evasion, or stress die + Dex + Brawl + Size 1''
+''Disarm Any Attack Defense or Evasion 9''
+''Grab Worn Item Brawl Attack Defense, Evasion, or stress die + Str + Brawl + Size 6''
+''Unseat Rider Brawl or Weapon Attack Defense, Evasion, or stress die + Dex + Ride 6''
+''Wrest Weapon Brawl Attack Defense, Evasion, or Melee Attack 12''
+''Story Seed: Big Angus and the Prize''
+''The task was simple: guard the money while the magi took the merchant aside to negotiate prices. But after some confusion with a band of acrobats, one thing led to another and now the money has gone missing. But there’s hope. The grogs can win the amount they lost by defeating Big Angus the prize fighter in bare-knuckle fight. The townfolk say it can’t be done, but that’s only because no one has ever beaten Big Angus before. Is there more to Big Angus than meets the eye? And what do the grogs do when they find out that the prize money has gone missing? On whom do the grogs vent their frustrations — the fight organizers, or the acrobats who started the whole misadventure?''
+
+|]
+''ters whether the group acts first or the leader makes the Leadership roll first, the leader gets to decide the order in which the dice are rolled. If the leader (or any member of the group, for that matter) wants to remain in the group but do something other than attack, that’s permissible. Simply don’t count that individual as part of the group when calculating the group’s combat bonus or resolving Damage. For example, if a group of two grogs plus a leader is fighting, and the leader chooses to spend his action doing something other than attacking (say, casting a spell), then the group’s combat bonus is capped at +x (instead of +y), and when the group hits, it inflicts Damage two times, rather than three times.''
+
+==Morale and Discipline==
+
+''These optional rules moderately weaken the effectiveness of groups while making the role of the leader more important. A leader becomes significant even in an untrained group. Effective group tactics require both discipline and morale. In battle, both of these''
+''are tested.''
+''Discipline''
+''A Discipline roll is required whenever a group is tempted to break formation, either because they are executing a tricky maneuver or because the enemy seems vulnerable (tempting the group’s members to pursue them). Making a Discipline roll is a reaction, not an action. If a Discipline roll fails, the group temporarily becomes disordered (see Disordered Groups, later in this chapter).''
+''Group Discipline: leader’s Presence + leader’s Leadership + stress die''
+''If everyone in the group has a positive Loyal Personality Trait, the group gains an additional bonus equal to the lowest Loyal score among the members.''
+
+===Example Discipline Ease Factors===
+
+''Event Ease Factor''
+''Group moves across difficult terrain 3''
+''Group runs (without charging) 6''
+''Enemy disengages (without routing) 6''
+''Enemy routs 9''
+''Group disengages 9''
+''Group changes between melee and missile combat''
+''Morale''
+''All groups need to make Morale rolls when bad things happen on the battlefield. Morale rolls are reactions, not actions. A''
+''group that fails a Morale check becomes disordered. If the group is already disordered and then fails a Morale check, it routs.''
+''Group Morale: leader’s Presence + leader’s Leadership + stress die''
+''If everyone in the group has a positive Brave Personality Trait, the group gains a bonus to the Morale roll equal to the lowest Brave score in the group.''
+
+===Example Morale Ease Factors===
+
+''Event Ease Factor''
+''Taking wounds from missile fire when having no missiles of its own''
+''Charged by an approximately equal force 6''
+''Charged by an obviously superior force 9''
+''Ambushed or attacked from the rear 9''
+''All members of the group reach Wound Penalty of −3 or worse''
+''The vanguard or leader killed, Incapacitated, or disabled by magic''
+''Disordered Groups''
+''A group that fails a Discipline or Morale check becomes disordered. This is a bad state of affairs that leaves the group vulnerable in combat. A trained group that is disordered functions as an untrained group. If it fails a second Discipline check, it functions like a disordered untrained group. An untrained group that is disordered can’t attack effectively. Only half of its at''
+
+[|
+
+==Story Seed: The Greatest Weapon==
+
+''While practicing on the training field just outside the covenant enclosure, the turb becomes the target for some faerie sport. Whisked from their covenant by a court of faerie knights, the grogs are confronted by martial challenges, one by one, and told by their tormentors that they may use their best weapon in each fight. How long until the grogs discover that teamwork may be their greatest weapon?''
+
+|]
+''tacks (round up) can hit, and the others automatically miss. That is, instead of inflicting damage once per member of the group, it only inflicts damage half that many times. If a group that is disordered fails a Morale check (but not a Discipline check), it becomes routed.''
+''Routed Groups''
+''A routed group has lost its will to fight and attempts to disengage from all opponents and flee to safety. Once disengaged from the enemy, it’s not uncommon for the members of a routed group to scatter. A group can become routed if it is already disordered and then fails a Morale check.''
+''Rallying a Group''
+''If a group becomes disordered or routed, the leader may attempt to rally it as an action. Rallying improves a routed group to being merely disordered, or restores a disordered group to normal status.''
+''Rally a Group: Presence + Leadership + stress die''
+''The Ease Factor to rally a group depends on whether the group is engaged in combat and how many casualties it has taken. A casualty is a member of the group who has a Medium Wound or worse, or is unconscious or unable to fight due to magical effects.''
+''Situation Rally Ease''
+''Factor''
+''Not engaged in combat 3''
+''Taking enemy missile fire 6''
+''Engaged in melee 9''
+''Routed and being hotly pursued 12''
+''Group has sustained casualties +1 to Ease Factor''
+''Group has sustained 50% casualties or more +3 to Ease Factor''
+''Groups With No Leader''
+''Ordinarily, a group that loses its vanguard or leader splits into individuals (see ArM5, page 173). Under these optional rules, a group that loses its vanguard or leader can still fight, though it is likely to become disordered.''
+''A group with no vanguard can’t attack, but uses the Defense score of its best member. The leader of a group can designate a new vanguard in the middle of battle, as a fast action. If successful, this takes effect immediately, and the group’s future rolls are based on the new vanguard’s statistics. The leader can automatically choose a new vanguard (no roll required) if the group spends a round without attacking or defending.''
+''Replace a Vanguard in Combat: leader’s Presence + leader’s Leadership + stress die vs. Ease Factor 9''
+''A group with no leader automatically fails any Morale or Discipline check. A new leader can assume command automatically if the group spends a round without fighting (i.e., without making any Attack or Defense rolls). Alternatively, a member of the group may assume command in combat as a fast action.''
+
+===Assume Leadership in Combat: Presence + Leadership + Stress Die Vs. Ease Factor 9===
+
+''If more than one character succeeds at this roll in the same round, the one with the highest total becomes the leader.''
+
+[|
+''This supplement includes updated rules for crossbows, statistics for late medieval arms and armor, expanded rules for armor, and a few new optional weapons rules. In addition, it reprints some weapon-related rules from other ArM5 supplements (City & Guild and Ancient Magic) for ease of reference, and includes consolidated melee and missile weapon tables that list all the weapons from this previous ArM5 books all in one place. Arms and armor are the tools of the warrior’s trade. Even nobles who do not personally fight have an interest in the equipping of their knights, sergeants, and men-at-arms.''
+
+==Equipment Availability==
+
+''It may be useful to troupes to know approximately where and when, in historical Europe, certain weapons and armor were in use, especially if they want to set their saga earlier or later in Mythic Europe’s history. As just one more example of how this information may be useful, the storyguide may sometimes want to outfit a ghost, faerie, or other character in equipment from a bygone age.''
+''The ancient period, for this purpose, includes anything up until the collapse of the Western Roman Empire around 480 a d. The early medieval period spans the sixth through tenth centuries. The high period begins in the 11th century and lasts until the end of the 13th. The late medieval period starts at the beginning of the 14th century.''
+''•''
+''•''
+''•''
+''•''
+''A few weapons have regional availability. Historically, they were common only in certain geographic areas; see Notes on Weapons for an explanation of each case.''
+''We give statistics for late-medieval equipment for players who are interested in them. If your saga starts in 1220, magi, with their Longevity Rituals, can easily live into the 14th century. Even if they do, there is no reason why the history of Mythic Europe needs to parallel that of the real world. You may prefer to keep your saga in the high Middle Ages forever.''
+
+==Quality of Arms and Armor==
+
+''City & Guild gives rules by which craftsmen can make goods of shoddy, standard, superior, or excellent quality (see City & Guild, pages 67–69). For convenience, those rules are summarized here: Shoddy items break easily; they are destroyed after failing a single stress check (see The Clash of Weapons, below, or City & Guild, page 77). Superior armor grants +1 to Protection. (A superior helmet’s bonus applies only to attacks against the head.) Superior weapons have a +1 bonus to Attack, and superior shields grant +1 to Defense. Excellent quality items grant a bonus of +2, +3, or even higher (see City & Guild, page 69). For weapons, the bonus applies to both Attack and Defense rolls.''
+''• New Weapon Rules''
+''For clarity, weapons are categorized as crushing, piercing, or slashing, according to the type of injuries they cause (see Art & Academe, pages 43-44). This has no effect on their Damage or other statistics, but can be useful in deciding how the weapon interacts with magical effects or other rules. For example, the spell Edge of the Razor (ArM5, page 154) only works on “edged or pointed” weapons.''
+
+==Primitive and Blunted Weapons==
+
+''Stone weapons do less damage than metal ones. Subtract 2 from their Damage modifiers, to a minimum Damage modifier of +1. Statistics for several stone weapons are given on page 95 of Ancient Magic. Slashing and piercing weapons may be blunted to reduce injury in tournaments. Subtract 3 from the Damage modifier of a blunted weapon. This can reduce the Damage modifier below zero.''
+
+==Option: Try Using the Other End==
+
+''Several weapons, such as swords, can deal two categories of damage. The wielder may normally choose to deal either sort of damage, as he chooses. As an optional rule, the order in which damage categories are listed on the Weapon Table becomes significant. The first category is the weapon’s normal mode of use. Apply a''
+''Melee Weapon Table''
+
+===Item Ability Init Atk Dfn Dam Str Load Cost Avail Types Damage===
+
+
+===Levels===
+
+
+===Notes===
+
+''Unarmed Brawl 0 0 0 0 n/a n/a n/a All C n/a''
+''Kick Brawl –1 0 –1 3 n/a n/a n/a All C n/a''
+''Gauntlet Brawl 0 0 1 2 –3 0 Inexp. All C 2''
+''Bludgeon Brawl 0 2 0 2 –2 1 Inexp. All C 1''
+''Dagger Brawl 0 2 0 3 –3 0 Inexp. All P,S 2''
+''Knife Brawl 0 1 0 2 –6 0 Inexp. All P,S 2''
+''Axe Single 1 4 0 6 0 1 Std. All S 2''
+''Club Single 1 2 1 3 –2 1 Inexp. All C 1''
+''Dueling Stick, Short Single 2 4 1 2 –2 1 Inexp. Ancient C 2 Ancient Magic, page 95''
+''Falchion Single 1 4 1 4 0 1 Std. Late S 2''
+''Hatchet Single 0 3 0 4 –2 1 Inexp. All S 2''
+''Lance Single 2 4 0 5 0 2 Std. High P 1''
+''Mace Single 1 3 0 8 0 2 Std. All C 2''
+''Mace and Chain Single 2 3 0 7 0 2 Std. Early C 2''
+''Net* Single –1 2 2 0 –1 3 Std. Ancient S 2 Guardians of the Forest, page 134''
+''Spear Single 2 2 0 5 –1 1 Inexp. All P 1''
+''Sword, Short Single 1 3 1 5 –1 1 Std. All P,S 2''
+''Sword, Long** Single 2 4 1 6 0 1 Exp. All S,P 2''
+''Shield, Buckler Single n/a n/a 1 n/a –2 1 Std. High n/a 2''
+''Shield, Round Single n/a n/a 2 n/a –1 2 Inexp. All n/a 1''
+''Shield, Heater Single n/a n/a 3 n/a 0 2 Std. High n/a 2''
+''Shield, Infantry Single n/a n/a 4 n/a 0 3 Std. Ancient n/a 2 New''
+''Trident Single 3 3 3 5 1 3 Exp. Ancient P 2 Guardians of the Forest, page 134''
+''Whip* Single 2 1 1 –3 –2 2 Inexp. All C, S 1 New''
+''Cudgel Great 1 4 1 7 1 2 Inexp. All C 2''
+''Farm Implement Great 1 3 1 5 0 2 Inexp. All P,S 1''
+''Flail Great 1 3 1 8 0 2 Inexp. All C 2''
+''Halberd*** Great 2 4 1 10 1 2 Std. Late S, P 2''
+''Pole Arm*** Great 3 4 1 8 0 2 Std. High S,P 2''
+''Pole Axe Great 1 5 0 11 1 2 Std. All S 2''
+''Spear, Long Great 3 3 1 7 0 3 Inexp. All P 1 Includes boar spear, Lion & Lily, page 120''
+''Sword, Great Great 2 5 2 9 1 2 Exp. Late S,P 2''
+''Staff Great 2 3 3 2 –1 2 Inexp. Early C 2''
+''Warhammer Great 0 6 0 12 2 3 Inexp. All C 2''
+''* A net or whip may be used to trip, grapple, or disarm using wielder’s Single Weapon + Weapon Attack Bonus in lieu of Brawl.''
+''** There are several variations on the long sword, including the late Roman spatha (Houses of Hermes: True Lineages, page 127) and the Mongol saber (Ancient Magic, page 17).''
+''*** A halberd or pole arm may be used to unseat a rider.''
+
+|]
+''–1 Attack penalty if it is used to deal its other damage type, due to awkwardness.''
+
+==Option: The Clash of Weapons==
+
+''In battle, weapons sometimes break. In the standard ArM5 rules, this only happens on a botch. The following optional rules adds more tension and chaos, but also complexity. Check for weapon breakage whenever the attacker’s melee Attack Total exactly equals the defender’s Defense Total. (Remember that in ArM5, this counts as a miss.) To determine whose weapon might break, roll Strengh + Weapon Ability + a simple die for each character. Whoever rolls lower must then roll to see if his weapon breaks. If the defender must roll for breakage, he may choose to roll for either his weapon or his''
+''shield. This roll for weapon breakage is similar to a stress check for equipment (see City & Guild, page 77), but the Ease Factor is lower because weapons are generally designed to withstand combat use.''
+''Weapon Breakage: stress die + Weapon Ability vs. Ease Factor 9''
+''If the check fails, the item loses a damage level. Most weapons and shields have two damage levels. They break when the last damage level is lost (but function normally until then). Some weapons, notably spears and lances, are particularly fragile, and have only one damage level. For improvised weapons, such as hand tools or kitchen knives pressed into use as weapons, the Ease Factor of the breakage check is much higher: 15. City & Guild discusses equipment damage in greater detail (see City & Guild, page 77).''
+
+==Using Crossbows==
+
+''Crossbows were introduced in Covenants (see Covenants, page 18). These rules replace the rules in that earlier supplement. Crossbows are easy to use. The usual three extra botch dice for untrained Ability use do not apply to crossbows. The user’s Strength does not add to Damage for crossbows. Use the Damage value given in the Missile Weapons Table directly, without adding anything. Spanning a crossbow is an Extended Action. The number of rounds required depends on the type of spanning mechanism (see Notes on Weapons, later in this chapter). If you are using the Ready Missiles option, shooting a loaded crossbow is a fast action rather than an action. This enables the crossbowman to shoot and then take cover, or to shoot and immediately begin reloading his weapon.''
+
+[|
+
+==Missile Weapon Table==
+
+''Item Ability Init Atk Dfn Dam Range Str Load Cost Avail Types Damage''
+''Levels''
+''Notes''
+''Axe, Throwing Thrown 0 0 2 6 5 0 1 Std. All S 2''
+''Javelin Thrown 0 2 0 5 10 0 1 Std. All P 2''
+''Knife Thrown 0 1 0 2 5 –2 0 Inexp. All P 2''
+''Sling Thrown –3 1 0 4 20 –3 0 Inexp. All P 1''
+''Rock, sharpened Thrown 0 0 1 3 5 –1 1 Inexp. Ancient C, S 1 Ancient Magic, page 17''
+''Stone Thrown 0 1 0 2 5 –1 1 Inexp. All C n/a''
+''Bow Bow –1 3 0 6 15 –1 1 Std. All P 2''
+''Bow, Composite Bow –2 4 0 7 30 2 2 Exp. All P 2 Ancient Magic, page 17''
+''Bow, Horse Bow –2 5 0 8 15 2 2 Exp. All P 2 Ancient Magic, page 17''
+''Bow, Long Bow –2 4 0 8 30 2 2 Exp. Late P 2''
+''Crossbow Crossbow 5 5 0 8* 25 1 2 Exp. High P 2 Replaces Covenants page 18''
+''Arbalest Crossbow 5 5 0 10* 30 –1 3 Exp. High P 2 New''
+''Arbalest, heavy Crossbow 5 5 0 12* 35 1 2 Exp. Late P 2 New''
+
+|]
+''Lords of Men Missile Weapon Descriptions''
+''Arbalest: An arbalest is crossbow that requires a mechanical device to span. Some arbalests can be spanned in a four-round Extended Action using a windlass. A few are spanned with block-and-tackle, which is usually slower, requiring a (6–Str)-round Extended Action. If the spanning process is interrupted, the character may later resume it at the point where he left off. Arbalest, Heavy: A powerful, late-medieval arbalest with a steel bow. A heavy arbalest is spanned with a built-in mechanical device called a cranequin. This is a six-round Extended Action. If the spanning process is interrupted, the character may resume it at the point where he left off. Crossbow: To span a crossbow with a belt hook (the usual method) is a threeround Extended Action. A character with Str +3 or greater can span it by hand as a oneround Extended Action. In the late-medieval period, a built-in lever called a goat’s foot allows a crossbowman to span his weapon as a two-round Extended Action.''
+''Bow: This is a new, concise name for a short bow (see ArM5, page 177)''
+''Bow, Composite: This weapon is used by Saracens, Moors, and Asiatic nomads (Turks and Mongols or, in the early Middle Ages, Huns and Magyars). See also Ancient Magic, page 17.''
+''Bow, Horse: A compact composite bow, suitable for use from horseback. See Mounted Archery, later; see also Ancient Magic, page 17.''
+''Bow, Long: Historically, longbows were confined to Wales for most of the high Middle Ages. They became the signature English weapon after 1283.''
+''Melee Weapon Descriptions''
+''Falchion: A heavy, one-handed, machete-like weapon used by common soldiers. Halberd: Similar to a pole axe with a steel spike on top and, usually, a hook for dragging a rider off his horse.''
+''Net: A net may be used to make trip, grapple, or disarm attempts, or unseat a rider. It is otherwise a rather ineffective weapon.''
+''Rock, Sharpened: A very primitive weapon, sometimes used by faeries and the like. See Ancient Magic, page 95.''
+''Shield, Infantry: A large shield that can only be used on foot, usually oval or rectangular in shape. The convex, rectangular scutum of the Roman legionary is an infantry shield.''
+''Sword, Bastard: A large, late-medieval sword suitable for one-handed or two-handed use. If used two-handed, treat it as a great sword. If used one handed, its Str and Load remain at +1 and 1, respectively, but all its other statistics are those of a long sword.''
+''Whip: A whip is not a very good weapon, but it may be used to make trip, grapple, or disarm attempts, or to unseat a rider.''
+''Expanded Armor Rules''
+''The Ars Magica Fifth Edition rulebook provides the statistics for several generic types of armor (see ArM5, page 176). This section expands on those rules to incorporate a wider variety of historical armor types, and gives rules for constructing armor out of layers of different material.''
+''Armor Materials''
+''The following categories expand and supersede those described on page 176 of ArM5. Note that the statistics for these armor materials are fully compatible with those in ArM5. These new categories simply cover a broader variety of historical armor materials.''
+
+===Inexpensive Materials===
+
+''Padded armor is usually made of woolen or linen fabric quilted into dense layers. Other forms include heavy felt, suede, or leather stuffed with horsehair, and thick furs such as bearskin. Boiled leather is very tough, but stiff. Also use these statistics for similar, semiresilient materials like rawhide, or even faerie armor made of tree bark.''
+
+===Standard Materials===
+
+''Reinforced armor is leather or padded material strengthened by many small, hard plates or rings. These reinforcements are usually metal, but horn, bone,''
+''•''
+''•''
+''•''
+''and whalebone are sometimes used. Rigid scale includes any sort of non-metallic scale or lamellar armor. Armor of boiled-leather scales is worn throughout Mythic Europe; horn and whalebone are sometimes used as well. Metal scale includes all kinds of metal lamellar. Brigandine is essentially a lateperiod type of metal scale.''
+
+===Expensive Materials===
+
+''Mail is the term characters in Mythic Europe would use for chain mail. Mail shirts and hauberks are available in the''
+''•''
+''•''
+''•''
+
+[|
+''Weapon Table Key''
+''The melee and missile weapons tables list the following statistics:''
+''Ability refers to the Ability used to calculate combat scores while using that weapon. Characters with no score in a weapon Ability can use the weapon untrained; treat their relevant Ability as zero, and add three extra botch dice unless the weapon is a crossbow. Init is the weapon’s Weapon Initiative Modifier. Atk is the weapon’s Weapon Attack Modifier. Dfn is the weapon’s Weapon Defense Modifier. Dam is the weapon’s Damage Modifier. Range is the range increment for the missile weapon, in paces. Str is the minimum Strength required to use the weapon effectively. Load is the Load of the weapon; see Encumbrance on ArM5, page 178. Cost states how expensive the weapon is. Most characters can afford Standard or Inexpensive equipment, but this can be affected by their Virtues and Flaws. Avail gives the time period (or geographic region) in which the weapon first came into widespread use. See Equipment Availability, later. Types lists the type(s) of damage the weapon inflicts: Crushing, Piercing, or Slashing. Damage Levels indicate how many damage levels the weapon can sustain before it breaks. This only pertains when using the optional Clash of Weapons rule, earlier.''
+''Expanded Armor Table''
+''Add together the Protection and Load of the body armor, helmet, and any surcoat worn. Retain fractions until the end of the calculation and then round up to the next whole number.''
+
+===Body Armors===
+
+
+===Cuirass/jerkin Haubergeon Hauberk Full*===
+
+
+===Armor Prot Load Prot Load Prot Load Prot Load===
+
+''Padded +1 1.5 +1 1.5 +1 1.5 +1 1.5''
+''Boiled Leather +2 3 n/a n/a n/a n/a +3 4.5''
+''Reinforced +2 2 +2.5 2.5 +3 3 +3.5 3.5''
+''Rigid Scale +2 2 +2.5 2.5 +3.5 3.5 +4.5 4.5''
+''Metal Scale +3 3 +4 4 +5 5 +6 6''
+''Mail +3 1.5 +4 2 +5 2.5 +7 3.5''
+''Plate +3 3 n/a n/a n/a n/a +12 6''
+''Plate and Mail +4 2 +6 3 +8 4 +10 5''
+''* Greaves are already included in the full armor listed; don’t add them again.''
+
+===Surcoats and Greaves===
+
+
+===Surcoat and Greaves Prot Load Cost===
+
+''Gambeson +1 1.5 Inexpensive''
+''Coat of Plates +2 2 Expensive''
+''Boiled-leather greaves* +1 +1 Inexpensive''
+''Plate jambes* +1 1 Expensive''
+''Plate-and-mail jambes* +2 0.5 Expensive''
+''* Greaves and jambes are already included in the full armor listed; don’t add them again.''
+
+===Helmets===
+
+
+===Helmet Prot Load Perception Penalty Cost===
+
+''Cap, Iron 0 0 0 Inexpensive''
+''Coif/Camail +0.5 0 0 Expensive''
+''Helmet, Open +1 1 –1 Standard''
+''Helm +2 2 –3 Expensive''
+''Bascinet +2 1 –1 Expensive (late medieval only)''
+
+|]
+''ancient period; full mail is an invention of the early Middle Ages. Plate armor is made of solid pieces of metal. The ancient Greeks and Romans had plate cuirasses and greaves, but by the early Middle Ages, all-plate harness fell out of use. The full plate listed on the Expanded Armor Table is late-medieval, Gothic style plate (c. 1400) and has a different Protection-to-Load ratio than its ancient counterpart. The complex armor design rules do not cover 15th-century full plate. Plate and mail is a combination of mail strengthened with various metal plates. It gives better overall protection than the ancient, all-plate harness. Historically, a few medieval examples of breastplates (worn over mail) re-appeared by 1200, but they were not common until about 1300. Plate jambes were added around 1320, and full plate appeared around 1360.''
+''Armor Outfittings''
+''These rules separate armor into three components, each with separate statistics that are added together with the others. These components are the armor itself, any protective surcoat or greaves worn with them, and the helmet. The Expanded Armor Table lists common pieces of armor worn in Mythic Europe. It is compatible with the ArM5 Armor Table (see ArM5, page 176) in the sense that partial and full armors can be constructed from the components listed here, and the statistics come out the same provided one makes certain assumptions about the helmet and surcoat included with the various armors described in ArM5. The Expanded Armor Table shows the three most common sorts of armor outfittings used in Mythic Europe in 1220. See the Glossary of Armor Terms, later, for descriptions of the jerkin, cuirass, haubergeon, and hauberk. Full armor protects all four limbs as well as the torso and loins. Some combinations of material and outfittings have entries of “n/a” in the Expanded Armor Table because it’s not possible to make a sleeved garment out of rigid materials (boiled leather or plate). Also, some materials have the same statistics (Protection and Load) for different types of garments. This is because armor’s Protection value has more to do with how well the vital areas are protected than with how well the extremities''
+''•''
+''•''
+''are protected. See Complex Armor Design, later, for further explanation.''
+''Option: Penalty for Fighting Without a Helmet''
+''As one can see from the Expanded Armor Table, helmets don’t add much to the Protection of a warrior’s armor. In fact, iron caps and mail coifs don’t add appreciably to Protection at all! The reason for this is that a warrior’s armor is only as strong as its weakest point, and if the head is well-protected by a stout iron helmet, enemies concentrate their attacks on the less-protected body instead. The converse also holds true: if a character’s body is well-protected but his head is bare, a sensible foe concentrates his attacks there. To reflect this danger, add an extra botch die to melee Defense (and Evasion) rolls for any character so foolish as to fight without head protection.''
+''Glossary of Armor Terms''
+''Ailettes: Flat plates of boiled leather worn to protect the collarbone and shoulder. Aketon: The padded jacket worn under a mail hauberk; see also gambeson.''
+''Bascinet: A late medieval helmet that fits the contours of the head and neck. Usually equipped with a movable visor.''
+''Brigandine: Late medieval armor made of small, overlapping metal plates riveted to an outer layer of canvas or leather. It is rather like an inside-out version of scale armor. Cap-a-pie: Literally “head to foot,” the term characters would use for full armor. Cap, Iron: A helmet that protects mainly the crown of the head, leaving the face exposed. Camail: A mail hood that covers the head, forehead, and lower face. Chapel de fer: French term for a kettle hat. Chausses: Leggings made of mail. Coat of Plates: A lamellar cuirass, historically worn over mail between about 1250 and 1300 AD. Use the statistics for a metal scale cuirass. Coif: An open-faced mail hood. Cuirass: A breastplate and backplate;''
+''the most basic sort of rigid body armor. Cuirboulli: A form of boiled leather made by boiling in oil rather than water. Fauld: Lamellar hip protection, worn with late-medieval plate armor.''
+''Gambeson: A garment made of padded material. It could be a short tunic, a sleeveless surcoat, or a long-sleeved hauberk which could be worn over, under, or instead of another armor. Indeed, it’s not uncommon for knights to wear a light gambeson (also called an aketon or arming jacket) under their mail, and a heavier one over it.''
+''Gauntlet: Armor for the hands. Gorget: A stiff collar of boiled leather (or, in the late Middle Ages, iron) that protects the throat and neck.''
+''Greaves: Plate or boiled-leather armor for the lower legs. Hauberk: A knee-length, long-sleeved coat of flexible armor. It protects the body, arms, and upper legs. Haubergeon: A short-sleeved armored tunic, covering the torso and shoulders only. Helmet, Open: A helmet protects the sides and rear of the head, but leaves the face at least half exposed. Helm: A high-medieval piece of headgear that completely encases the head and neck in plates of iron. Jack: A brigandine jerkin, common in the late medieval period. Also leather jack. Jambes: Plate armor covering the legs. Jerkin: A short, sleeveless jacket. Kettle Hat: A bowl-shaped iron cap with a wide metal brim. Popular with the common soldiers of the high and late Middle Ages.''
+''Lamellar: Overlapping plates fastened to each other rather than to a piece of backing material. The plates can be small, similar to those in scale armor, or larger, as in a lorica segmentata.''
+''Lorica Hamata: Roman name for a mail haubergeon.''
+''Lorica Segmentata: A lamellar cuirass used in Imperial Rome, with horizontal strips of metal encircling the torso, overlapping like the plates of a lobster’s tail.''
+''Poleyns: Knee protectors made of iron or boiled leather.''
+''Ring Armor: Early medieval armor of leather reinforced by non-overlapping metal rings.''
+''Sabaton: Armor for the feet. Sallet: A late medieval, rounded helmet with a visor.''
+''Scale Armor: Small plates fastened to a layer of backing material. The plates overlap vertically, like the scales of a fish.''
+''Vambraces: Armor for the arms.''
+
+==Lords of Men Option: Complex Armor Design==
+
+''These optional rules allow players to create their own armor from any combination of materials, and calculate its Protection and Load. The Expanded Armor Table is sufficient to outfit most grogs, knights, and other characters, but these rules might prove useful for creating exotic armor for faeries and the like, or for reproducing a specific, historical armor. First, make a list of all the materials that comprise the armor. Decide which parts of the body are covered by each material. Add up the corresponding Protection values for all the areas covered by that material. Some materials on some parts of the body correspond to a Protection of zero. Once you have the Protection total for all pieces of that material, multiply it by the Load Factor for that material and retain any fraction to get the total Load of that material. Continue this process for all the other materials worn. Finally, add up all the Protection and Load values for the different materials and''
+''round up to the next whole number. The reason some entries on the table are zero is that some parts of the body are more vulnerable than others. Covering the torso, for example, makes a relatively big difference to overall Protection, compared to covering the forearms. It’s not that wearing padding''
+''on the forearm doesn’t help the forearm, it’s that wearing padding on the forearm doesn’t help very much in comparison to putting padding on the torso. Non-vital areas need a lot of armor to get a point of Protection, while the same armor over a vital spot would correspond to several points of Protection.''
+
+[|
+
+==Complex Armor Design Table==
+
+''Type Torso Hips and''
+''Thighs''
+''Shins Upper Arms''
+''Fore''
+''arms''
+''Load Factor''
+''Padded 1 0 0 0 0 1.5''
+''Boiled leather 2 0.5 0.5 0 0 1.5''
+''Reinforced 2 0.5 0.5 0.5 0 1''
+''Rigid scale 2 1 0.5 0.5 0.5 1''
+''Metal scale 3 1 0.5 1 0.5 1''
+''Mail 3 1 1 1 1 0.5''
+''Plate 3 1 1 0.5 0.5 1''
+''Plate and mail 4 2 1 2 1 0.5''
+{{OpenArs Attribution}}
+{{ArsMnavbox}}

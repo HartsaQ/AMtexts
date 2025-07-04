@@ -1,0 +1,414 @@
+''What follows is a murder mystery scenario that demonstrates that mysteries are not incompatible with powerful wizards. It follows a familiar pattern for murder mysteries: the murders are committed, an investigation takes place, and the story culminates in a confrontation with the murderer. Although this scenario is suitable for magi characters, it is also appropriate for companions or apprentices.''
+
+==Précis==
+
+''Several months ago, the minstrel Bartholomew stumbled across an ancient flute of unusual craftsmanship. He played the flute and released ancient magic that warped his mind and drove him insane. Bartholomew became obsessed with this melody, but try though he might, he could not recreate the song he played on that day. Time passed and Bartholomew grew increasingly agitated and distraught. He soon grew to loathe all music other than his memory of that magical music. Then, one day while listening to the performance of another minstrel, he came to the realization that it was the music of others that was drowning out his memory of the magical music. Bartholomew, desperately desiring to hear again this otherworldly refrain, decided that the other musicians, and their music, must be silenced. Bartholomew decided to that he had to silence all other sources of music — permanently. By the start of the scenario, Bartholomew has already struck, killing a local balladeer named Paul. Anyone with a known talent for music is a target. Bartholomew kills his victims using the flute’s magical music, which drives people insane and can even cause physical harm. Should Bartholomew succeed in his goal of silencing all other sources of music, he will play his flute again, which summons a destructive magical spirit.''
+
+==Dramatis Personae==
+
+''The primary characters in this scenario are detailed here.''
+
+==Bartholomew, the Murderous Minstrel==
+
+''Bartholomew is the antagonist for this scenario; he murdering other musically talented people in the area. Bartholomew was driven mad by a magical flute that has created an overwhelming hatred of all music not created by the magical flute. Furthermore, this hatred has made him obsessed with silencing all other musicians. Bartholomew’s ultimate goal is to summon a music spirit connected to the flute, although he does not know this — it is a subconscious goal instilled by the magic of the flute. Originally, Bartholomew was a talented and respected musician, who performed for lords and peasants alike. He can play all manner of instruments, and is well known for his skill and charm. He is liked by most of the locals. Bartholomew has friends, including other musicians such as Baldwin, the local lord Philip’s entertainer, and regularly performs at festivals. Many locals can vouch for him, as do respected people from neighboring lands. Bartholomew is driven to kill by the magical music from his flute and does not know what would happen if he finally succeeded in killing all of the musicians. His murders are crimes of magically induced insanity, over which he has little or no control, although he is entirely aware of what he is doing, and makes plans in a calculating manner. However, he feels no guilt, and does not feel responsible for his actions — afterwards he remembers the murders as though he were a witness rather than participant. He holds deep feelings of hatred towards other musicians and their music, but has enough presence of mind to not openly show these feelings. Bartholomew does not play his magical flute in public, since he is keenly aware that its music is harmful to people and animals who listen to it. He does always carry the flute with him, however, and will vigorously resist at''
+
+=A Musical Murder Mystery=
+
+''tempts to take it away from him. Day to day, Bartholomew’s insanity is not noticeable — he can interact normally most of the time, although prolonged exposure to music of any kind (whistling, instruments, singing, etc.) will cause him visible distress. Although he does not play music anymore, he still can entertain through storytelling and poetry recitations. When he is driven to murder, Bartholomew has enough forethought to target victims when they are alone and vulnerable, and when there are no witnesses. In this insane, murderous state of mind, he lures, or stalks, his victims to a remote place, and uses the magic of the flute to kill them.''
+''Characteristics: Int 0, Per 0, Pre +1, Com +2, Str +1, Sta +1, Dex +1, Qik +0 Size: 0 Age: 30s (30s) Decrepitude: 0 Warping Score: 6 (5) Confidence Score: 1 (5) Virtues and Flaws: Wanderer; Free Expression, Tough*; Hatred (music)*; Driven (destroy all music)*, Obsessed (magical flute’s music)* * 	 Virtues and Flaws due to Warping''
+
+[|
+
+==The Flute==
+
+''The flute has several unique non-Hermetic magical powers, and it is a potent magical device. All of its powers are automatically and simultaneously activated when it is played. To activate the flute, its owner must possess some musical skill (which is represented by at least one experience point in the Music Ability), although no Ability roll is required (except for Performance duration abilities, see the nearby insert). The flute’s powers only activate when the flutist is playing, and Concentration rolls are needed to keep playing if the flutist if wounded or distracted. Storyguides should use their discretion to change the number of rounds the flute needs to work. There are also several optional powers that the storyguide may decide to use. Storyguides should''
+''also vary the Penetration of the flute’s powers according to the Magic Resistance of the characters involved with this scenario, so as to increase or decrease the lethality of its powers as appropriate.''
+
+===Cacophonic Armor===
+
+''PeVi 58 Pen +5, Unlimited R: Touch, D: Performance, T: Ind Due to the distorting effects of the flute’s music, any person who plays the flute is granted a limited form of Magic Resistance. This effect is similar to the Hermetic spell Unravelling the Fabric of (Form) (ArM5, page 161), except that it affects all forms, and will cancel spells of level 20 or less. This power will only protect the flutist from one spell per round.''
+''(Effect: Non-Hermetic, base 40, +1 Performance)''
+
+===Disharmony===
+
+''CrVi 78 Pen +35, Unlimited R: Voice, D: Mom, T: Group The music created by the flute causes mystical disruptions in its targets by inflicting Warping. For beings with Magic Resistance, this power must first Penetrate. If it does, it inflicts one Warping Point per ten rounds that the target is exposed to the flute’s music. This power also affects the player of the flute; the Flaws inflicted by the Warping relate to the flute’s Madness power. (Effect: Non-Hermetic, base 20, +3 Voice, + 3 Group)''
+
+==New Duration: Performance==
+
+''The spell lasts as long as the caster performs the Performance Ability. Performance is equivalent to Concentration Duration. To cast a Performance Duration spell, the magus must succeed in a roll (simple or stress die, according to circumstances) of Characteristic''
+''(varies with Ability) + Ability against an Ease Factor of 3. The spell fails if this fails, and botches if the roll botches. The spell ends when the magus ceases to perform the Ability, but no Concentration or Ability rolls are needed to maintain the spell while''
+''the performance continues. Performance Abilities include: Music, Charm, Guile, and Carouse (see The Mysteries Revised Edition, page 29 for more information). This originally appeared in The Mysteries Revised Edition, page 29-30.''
+
+==The Flute (cont’d)==
+
+
+===Frenzied Fortitude (Optional)===
+
+''ReCo 25 Pen 0, Unlimited R: Touch, D: Performance, T: Ind This optional power causes the flute player to gain an unnatural resistance to pain and injury. The flute player suffers no penalties from Wounds or lost Fatigue levels, meaning that the player can physically exert himself for extended periods, such as when running or fighting. The flutist is still wounded however, and can be incapacitated or killed by damage inflicted in a battle. (Effect: Non-Hermetic, base 10, +1 Touch, +1 Performance)''
+
+===Madness===
+
+''PeMe(An) 73 Pen +35, Unlimited R: Voice, D: Mom, T: Group This power causes all who hear the music to be driven irrevocably mad. The madness caused by this power is cumulative, and it takes a short time of listening for the full effects to manifest. Hearing the flute’s music for only a moment causes dread. Listening for longer than ten rounds creates a morbid fascination with the music, creating a permanent Personality Trait of “Obsessed with the flute’s music” +1. Every ten rounds thereafter, the Obsessed Personality Trait increases by 1. After a minute, the listener becomes repulsed and terrified by the music, as though he were permanently affected by the spell Black Whisper (ArM5, page 150). This power affects both animals and people. Deaf targets are completely unaffected by this power. The player of the flute suffers from the obsessions created by this''
+''power and is also driven insane. The flutist, however, is not driven suicidally insane, but rather develops a pathological hatred of all music other than that of the flute (this effect becomes a part of the flutist’s essential nature through the Warping effects of the Disharmony power). (Effect: Non-Hermetic, base 15, +3 Voice, +3 Group)''
+
+===Obsession===
+
+''MuMe 48 Pen +5, Unlimited R: Sight, D: Moon, T: Ind This power creates an overwhelming obsession in the mind of anyone with a musical aptitude who sees the flute. If affected by this power, a person with an experience point in Music Ability, or Virtue such as Free Expression, Enchanting Music, or a similar characteristic, becomes obsessed with possessing and playing the flute. This obsession is not permanent, and gradually subsides over the course of a month or so if the target does not see the flute for that time. This power only comes into effect if the flute is not in the possession of someone with a musical ability, Virtue, or Flaw, and when in effect is constant. (For example, if separated from Bartholomew, this power will activate; in his possession the power is dormant.) (Effect: Non-Hermetic, base 4, +4 Sight, +2 Moon)''
+
+===Strength of the Insane (Optional)===
+
+''MuCo 45 Pen 0, Unlimited R: Touch, D: Performance, T: Ind This optional power grants the''
+''flutist supernatural strength, granting a +5 bonus to Strengthand Staminarelated totals. It further allows the flute player to act as if he had the Reserves of Strength Virtue (ArM5, page 48). (Effect: Non-Hermetic, base 25, +1 Touch, +1 Performance)''
+
+===Summon Music Spirit===
+
+''ReVi 75 Pen +30, Unlimited R: Arc, D: Mom, T: Ind Using this power is only possible once all other sources of music are silent for many leagues surrounding the flute. It requires that the flutist play a unique song on the flute, after which the Music Spirit is summoned (see Music Spirit insert near the end of this chapter). (Effect: Non-Hermetic, base 30, +4 Arcane Connection)''
+
+===Undulation===
+
+''PeCo(An) 58 Pen +5, Unlimited R: Voice, D: Mom, T: Group The music of the flute causes unnatural sounds that react violently with the bodies and humors of living creatures. After 3 rounds of being exposed to the music, the targets begin to be physically harmed by the magical sounds, suffering a Light Wound, as their internal organs begin to rupture. For every 5 rounds, this damage increases one category — rising up to a Medium Wound, then a Heavy Wound, and so on. This power affects all those in earshot, animal and human alike, but does not affect the player of the flute. (Effect: Non-Hermetic, base 15, +3 Voice, +3 Group)''
+
+|]
+''Personality Traits: Obsessed with flute and its music +5, Hatred of music +4 Reputations: Talented minstrel +3 (local) Combat: Fist: Init 0, Attack +4, Defense +4, Damage +1 Soak: +4 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Awareness 2 (audiences), Brawl 2 (fist), Charm 4 (potential patrons), Etiquette 2 (while performing), Guile 3 (women), Music 5 (flute), Profession (minstrel) 5 (new hires), Stealth 3 (hiding) Equipment: An old, battered flute, and a set of colorful entertainer’s clothing. Encumbrance: 0 (0) Appearance: A well-traveled minstrel, Bartholomew appears''
+''in brightly colored clothing suitable for performing in a market or a lord’s hall. He is in his thirties with a friendly but preoccupied expression, as if something important is on his mind.''
+''Bartholomew has been severely Warped by the magic of the flute. From the flute, he gains several supernatural powers, including Magic Resistance, inhuman strength, and resistance to pain (see the nearby The Flute insert box). Spiritually, his soul has also been Warped dramatically by the flute, leaving little of the man he once was.''
+
+==The Victims==
+
+''There are numerous potential victims for Bartholomew, all of whom have some kind of musical talent. Most of the victims come from the village, but one or more may come from the covenant. The storyguide should also consider whether the covenant (or even a player’s character) has a known musical talent that Bartholomew may have heard of; if so, they also become his targets.''
+
+===Paul, the Balladeer===
+
+''Paul is a wandering musician from a nearby large village who specializes in love songs from Southern France, and in adoration tunes for the nobility. He has many tales of far-off places, such as Jerusalem, Rome, Constantinople, and the cathedral cities of the Germanic principalities. He delights locals with his tales of these places, and of his adventures — he claims to have traveled with French kings, rescued trapped maidens, and escaped from faerie lords. Whether or not his tales, or his descriptions of those far away places, are accurate is another matter.''
+
+===Baldwin, the Lord’s Entertainer===
+
+''An old man with decades of experience in telling tales, legends, and ribald accounts of the local noble family’s great deeds, Baldwin is a respected, well-known and wellliked entertainer. He most commonly plays during the lord’s mealtimes. Baldwin is a great source of information about legends and tales of the area. He is also good friends with Bartholomew, whom he sees as something of a protégé. Baldwin lives on a farm on the edge of the village, where his wife is responsible for most of the day-to-day operation. In harvest seasons, Baldwin is wealthy enough to pay day laborers to work his fields.''
+
+===Olivia, the Entertainer’s Daughter===
+
+''Olivia is Baldwin and Mary’s daughter. She is a pretty girl, and has attracted many suitors from within the village (notably Benedict, the village blacksmith) and from surrounding villages. She has no real desire to get married, and wants to leave the village to explore the wider world. Olivia has none of her father’s musical talents, but is an excellent dancer. Olivia is an accidental victim of Bartholomew’s murder of her father — she is driven mad, but not killed, by Bartholomew’s flute.''
+
+===Horace, the Precentor===
+
+''Horace is a layman who sings at religious festivals. He is known to have a marvelous voice, but several years ago he was chastised by the bishop for altering the style in which the psalms were recited, although he has since done his penance. Horace often has disputes with the village priest, Father Richard, often over minor matters, but also the role of music in church services and whether instruments should be used. Horace would like to introduce instruments into the singing of psalms and other religious music, but Father Richard is strongly opposed. Horace has a wife, Joan, and several children, and lives in a modest house in the village, where he is a laborer.''
+
+===Gustav, the Talented Soldier===
+
+''A soldier in the service of the local lord, Gustav is a middle-aged, gruff man who is well respected for both his martial skill and his musical ability. Not only does he know many ballads and poems, but he can play a number of musical instruments, and can juggle. Gustav is well known for his heavy drinking during festivities. He has a number of illegitimate children in the area, including in the village. It is rumored that he possesses a holy relic.''
+
+===Jeremiah, the Shepherd===
+
+''A young boy, Jeremiah looks after a large sheep herd for Philip, the local lord. He is known to have an enchanting voice, and it is rumored that his father is a mysterious stranger from the woods, with bewitching eyes and a captivating voice.''
+
+==Villagers and Locals==
+
+''Murder victims have families and friends; people who the characters can question, or who ask the characters for assistance in solving the murders. They can aid or hinder the investigation. Here are some of the characters who the characters are most likely to interact with, or who have useful information.''
+
+===Father Richard, the Village Priest===
+
+''Father Richard is a dour and serious man who discharges his duties with great solemnity and stoicism. Not particularly educated, he does have a great deal of experience in a range of matters, from theology to managing local politics, and basic medicine. Richard is an unsophisticated but intelligent man, with a firm grasp of his role, and a good knowledge of his flock. He is also known to loudly disapprove of folk music and its various incarnations — he believes it is a remnant of paganism and idolatry, and forbids instruments to be used in his church ceremonies. Father Richard has argued publicly with several people in the village about the role of music, particularly Baldwin and Horace. The village priest will deal in some way or another with the murder victims, as they will all be buried. If the characters do not see the bodies of Bartholomew’s victims before they are taken to the church, then they need to negotiate with Richard to inspect or otherwise deal with the bodies — he may be useful in helping the characters determine the cause of death. Richard knows most of the potential victims personally, and feels their deaths with great sorrow. He will act to make sure that none of their bodies are mistreated. His attitude towards magic is undetermined — he has never encountered magic, and his experience and training have not prepared him to make any judgments. The conduct of the first magicians he meets will likely color all future opinions he has towards magic and wizards. If the magic-using characters are courteous and use their magic for good ends, then he will be a useful ally; if they are arrogant or destructive, he will be an annoying foil.''
+
+===Philip, the Local Lord===
+
+''No ruler likes murders to take place in his territory, and Philip is no different. Philip is a young and ambitious lord, with his eyes on his neighbors’ lands, and his mind turned towards how he can improve his station. He is already using his land’s surplus to increase the number of soldiers and''
+''knights in his service, and he extensively donates land and money to influential church leaders. Philip will be a likely foil to the characters, with suspicions that repeated murders are the fault (somehow) of the covenant. He is likely to demand that they stop the murders, or prove that they are not responsible. He has a number of warriors in his service — sheriffs and bailiffs, as well as knights installed in manors throughout his lands.''
+
+===Benedict, the Blacksmith===
+
+''Benedict is a heavy-set man with a lot of brawn and not much else. As the blacksmith, he is a wealthy villager, but is mostly disliked by the villagers for his violent temper and arrogant attitude towards those who he thinks are weaker than he is. Benedict is keen on getting a wife, since his last one died in childbirth several years ago, leaving him with a daughter. He is particularly attracted to Baldwin’s daughter Olivia, but has gotten into several violent arguments with Baldwin over this (Baldwin refuses to consider Olivia marrying Benedict).''
+
+===Mary, the Tearful Wife===
+
+''Mary is Baldwin’s wife, and suffers from the affliction of terrible visions. Before his death, she will has several bad dreams that something terrible will befall him. Mary and Baldwin also have a daughter, Olivia. Mary is deeply distressed at his death, and tries to help track down the cause. She suspects that Benedict is responsible somehow.''
+
+===Elizabeth, the Gossip===
+
+''A local busy-body, Elizabeth is a great source of stories and rumors about the victims and of theories as to who suspects should be. Elizabeth is as likely to be the source of red-herrings as she is to provide useful information, though. She can relay most of the general information about the characters to the characters, although she obviously does not know who is truly responsible for the murders.''
+
+===Thomas, the Hermit===
+
+''On the edges of the village lands lives Thomas, a reclusive hermit with a vow of poverty and chastity. Thomas has almost no contact with the villagers, only occasionally seeing them when he travels close to a farm. He lives by''
+''hunting and gathering in the woods that surround the village. Thomas is a skilled huntsman and herbalist.''
+
+===Otto, the Hosteller===
+
+''Otto owns a house with a large main room for visitors to the village to stay in, for a small fee. Most visitors, particularly the representatives of Lord Philip like Gustav, stay with Otto, as do visiting entertainers such as Bartholomew and Paul. Otto has a large family — a wife and five children of varying ages — and supports himself and his family by laboring during harvest seasons, and brewing beer.''
+
+==Expected Sequence of Play==
+
+''To start the scenario, the characters learn of the murder of a number of musicians in the area around their covenant. Most of the murders happen at the start of the scenario, with one or two towards the end. By the time the characters get involved, at least two murders have taken place — those of Paul and Baldwin. The characters have the opportunity to search the murder scenes, examine the bodies, and speak to the villagers.''
+
+==Bartholomew’s Murderous Refrain==
+
+''Bartholomew uses his flute to kill his victims. He first discovered that its music could kill when he was playing softly to himself while traveling to the village. A brigand who had been following Bartholomew overheard the music. Bartholomew was alerted to the brigand when the outlaw began to thrash about and cry madly. He followed the brigand’s mad stumbling until eventually he threw himself off a ledge and broke his neck. Bartholomew later submitted the flute’s music to a test with some animals. Like the brigand, they reacted dramatically to the music — their bodies were twisted by the flute’s unnatural music and they died. It was at this point that the idea of using the flute itself to silence all other music came to Bartholomew. The magic of the flute’s music causes madness, and its harmonics causes damaging disruption to the body’s humors and organs, to those who hear it for more than a few minutes. For those of weaker constitutions, the flute’s unnatural resonance might physically kill them, as their unbalanced humors cause''
+''organ failure. Those of stronger physique are eventually driven mad; they eventually hurt themselves or take their own lives, if they do not suffer from an accident first. To murder each victim, Bartholomew stands some distance from his target, but within earshot. He always strikes when he thinks they are alone, and at sunset or sunrise, when he can easily hide. As the victim passes unsuspectingly, he begins to play the flute. After a minute or two, the flute’s dreadful spell take hold; the music has wormed its way into the mind and begins to attack both sanity and constitution — death is only moments away at that point.''
+
+==The Murders==
+
+''Bartholomew’s potential victims are listed in the Dramatis Personae section in the order that they are murdered: Paul, then Baldwin, Horace, and so on. The characters can get involved in the scenario at any stage after the first murder. Not all the murders listed below necessarily need to occur — the characters may solve the mystery after the first or second. As more murders are committed, the villagers become more suspicious about being alone, or traveling to remote or isolated areas, particularly outside the village. Furthermore, interspersed between the murders, other events occur — Gustav arrives, and the characters find Olivia, Baldwin’s daughter. Bartholomew becomes more desperate as the number of victims increase.''
+
+==The Village==
+
+''The murders take place in and around a village associated with the covenant. The village is relatively isolated from other major settlements, and is surrounded by a large forest. It is far from civilization, and law and order. In this village, there is a sense of isolation and suffocation. There are approximately 60 people — men, women and children — who live in and around the village. Everyone knows everyone else, and most villagers are related somehow, either by blood or marriage. Grudges and feuds go back for generations. All of the buildings — the church and the village houses — are old and crumbling. There is limited contact with the outside world, other than visiting entertainers and the representatives of the local lord, Philip. The locals are myopic and not receptive to outsiders; they are fearful or wary of the outside world. There are several important areas in the village and surroundings: a small church where Father Richard lives;''
+
+[|
+
+==Getting Started==
+
+''By the start of the first act, only two murders need to have taken place ­— those of Paul and Baldwin — so these ideas are aimed at giving the characters impetus to become involved after the later murders.''
+''• 	 The characters know one of the victims, who perhaps lived in the covenant, or is a relative, friend, acquaintance, or ally of the characters; • 	 The characters (or the covenant’s magi) are suspected by locals for the murders and must clear their names; • 	 The characters are asked by the local priest, lord, or someone from the covenant to investigate the village murders; • 	 One of the characters is known for his or her musical talent and fears being the next victim. • 	 The characters stumble across the village during a vis hunt or while on another errand.''
+
+==Using Story Flaws and Hooks==
+
+''These ideas may help get your players involved in the story.''
+
+===Character Story Flaws===
+
+''Close Family Ties: One of the victims is a distant (or close) family member, or alternatively the friend, ally, or servant of a family member, with the family member requesting help. Curse of Venus: Bartholomew was your character’s former, current, or would-be lover. Difficult Underlings: Your underlings are accused of one or more of the murders while traveling through the village, and you must clear their names. Faerie Friend: Your faerie friend warns you of a terrible threat growing near the village, possibly relating to music or musicians. Monastic Vows: Your senior asks you to visit Father Richard on some errand — and while there you stumble upon the murders. Visions: You receive a vision of the destructive rampage of the music spirit, or of the murders.''
+
+===Covenant Hooks===
+
+''Protector: Your covenant protects this village, and is asked for help in solving the murders.''
+
+|]
+''Otto’s hostel where Bartholomew, the murderous minstrel, stays; and the thick woods that surround and isolate the village, where several murders take place. A map is nearby. Most of the village and surrounding lands have a Dominion aura of 1. The Dominion rises to level 2 in the church grounds, 3 inside the church, and 4 at the altar. The forest is a mix of low-level Faerie and Magic auras, ranging from 1 to 2.''
+
+==An Untimely Fete==
+
+''This scene — Baldwin’s funeral — starts the scenario. The funeral fete introduces the characters to the other future victims, and the murderer, Bartholomew. By the time the characters arrive on the scene, two murders have already taken place: first Paul the balladeer and now Baldwin the local lord’s entertainer. Despite the solemn occasion, medieval funerals are exciting times, with all sorts of activities and entertainment provided, as well as small stalls selling local produce. The entire village has comes out to mourn the death of a popular and respected entertainer. The funeral is a highly charged religious ceremony in which all members of the village are involved. The burial is scheduled to occur at midday. Baldwin’s death is the subject of considerable gossip. Any untimely death is grounds for conjecture, and the circumstances of this victim’s death are unusual, particularly so close to Paul’s, and added to the disappearance of his daughter, Olivia. There are several rumors around his death, including that Olivia was responsible for it, either directly or that he died of a broken heart after she smashed all of his precious instruments. No rumors directly connect the deaths of Paul and Baldwin. Baldwin’s wife Mary is notably grieving and distressed. If approached by the characters, she tells them that she found her husband dead a few days ago. It appeared as if there had been a fight or commotion, and he had a terrible''
+''grimace. Their daughter, Olivia, was also missing. She suspects that someone or something is responsible for both Baldwin’s death and Olivia’s disappearance. Bartholomew and all of his future victims are present at the funeral, and the characters may well interact with them, although nothing about Bartholomew should give him away — he appears (and genuinely is) sad at the passing of his friend Baldwin.''
+
+==Starting the Investigation==
+
+''There are two deaths to investigate: the death of Paul the traveling balladeer, and of Baldwin the lord’s entertainer.''
+
+===What the Villagers Say About Paul===
+
+''Paul’s body was found by one of the village laborers a week ago, on one of the paths leading to a nearby village. He had left the village two days before. When he was found he was a little off the track, and had a broken neck. His face was contorted into a terrible grimace, as though he was feeling intense pain when he died. The village priest and several villagers retrieved the body and took it to the church where it was laid out. Paul’s funeral was held three days ago. A few villagers say that the Devil (or a malicious faerie) killed him out of jealousy of his talent.''
+
+===What the Villagers Say About Baldwin===
+
+''Baldwin was found by his wife, surrounded by his broken instruments, and with his daughter Olivia missing. When he was found, he was clutching his chest. Mary, his wife, was away from the village when Baldwin died, because she had to deliver some farm produce to her family that lives in a neighboring village. Some villagers report hearing haunting music coming from his house the night he died, which suddenly stopped. Many villagers believe Olivia was responsible for Baldwin’s death, and that she fled to avoid punishment.''
+
+==Paul’s Murder==
+
+''Paul was murdered first because he was an easy target — he had no close friends or family from the village, and was a wanderer. He comes and goes from the village at irregular intervals, so his disappearance should not have been noticed for some time.''
+
+[|
+
+==The Deadly Tune==
+
+''Characters who can summon spirits or ghosts of those murdered by Bartholomew, using either Corpus or Mentem spells, will find that the victims, even in death, have been driven insane. They cry, moan, or scream in terror and dread. One unifying factor, however, is that they all mindlessly hum, whistle, or sing an identical tune — the same tune used by Bartholomew on his flute. Similarly, if the characters locate Olivia, Baldwin’s daughter, they will find that she hums and sings the same tune.''
+
+|]
+''Bartholomew followed Paul as he left to travel to another village or town. He struck when the village was well out of sight and earshot, and hid in the woods along the road. When he started playing his flute, Paul left the road to uncover its source. By the time he came close to Bartholomew, the flute’s music overwhelmed him. Driven mad, Paul ran through the woods until he stumbled over a root and broke his neck. Bartholomew meanwhile rushed back to the village.''
+
+===Mundane Investigation At the Murder Scene===
+
+''To uncover clues at Paul’s murder scene requires a Perception + Ability + stress die roll. Characters can use Awareness, Hunt, or Survival to find clues.''
+''Total 6 or above: There are many tracks leading to and from where Paul died, which seem to have been made by the villagers recovering his body, and by curious onlookers. Total 9 or above: Several dead forest animals, such as foxes, rabbits, and owls, are in the area around where Paul died. There is no obvious cause of death. Total 12 or above: Tracks show that Paul was walking along the track, then suddenly ran off the path into the forest, stumbled and fell. Total 15 or above: A second set of tracks are found, separate from and older than those of the villagers, which are deeper in the woods and some way off from where Paul was. (These are Bartholomew’s, though the tracks do not reveal this.) The tracks lead from the village and return there, but once at the village they are covered by many other tracks and can no longer be followed. The animals died from internal injuries. Total 18 or above: The character could identify the kind of boot the maker of the second set of tracks was wearing if he was able to examine a number of boots and sizes. Total 24 or above: The second set of tracks lead to and from Otto’s hostel.''
+
+===Mundane Investigation of Paul’s Body===
+
+''Paul has already been buried. Father Richard, and the villager who found Paul’s body, can give a description of how they found him. The villager says that he saw some tracks leaving the road, followed them, and found Paul’s body. He quickly ran back to the village to get Father Richard, and both of them carried Paul back to the village. There he was laid in the church, and buried two days later. Father Richard concurs with this story, and''
+''says that he believes that Paul died of a broken neck. The priest will also say that Paul’s face was contorted, as though he was screaming, but while he was laying in the church, Father Richard set his features to an expression of peace. If the characters decide to dig up his body, a Perception + Chirurgy or Medicine + stress die roll against an Ease Factor of 9 will reveal that Paul died of a broken neck. Paul’s body was washed before being buried, so there are no other clues.''
+
+===Supernatural Investigation===
+
+''Magical investigation is made difficult because of the time that has passed since Paul died.''
+''Intellego Animal Spells such as Opening the Tome of the Animal’s Mind (see ArM5, page 118) reveal a hazy memory of terrifying music coming from where Paul died. Most animals remember fleeing the area. If the characters succeed in the Perception + Finesse roll, they get an image of a man playing a flute, but the memories were too long ago for the animals to remember other details. Animal spells using the base level 20 guideline (“thoroughly probe the mind of a beast”) also show a man in a plain dark cloak and hood playing a flute. The animal flees after hearing the music, so can reveal no other details. If the animal being spoken to is a predator, then it also remembers the man’s scent.''
+''Intellego Auram Spells using the base level 15 guideline (“speak with air”, ArM5 page 127) cast in the area where Paul died reveal only a memory of the music from the flute. The poor memory of the air means that the music does not affect the spellcasting character who hears it. It sounds like a haunting and eerie whistle.''
+''Intellego Corpus Intellego Corpus spells are stymied by the fact that Paul has received a church burial — Whispers Through the Black Gate and similar spells fail. Revealed Flaws of Mortal Flesh reveals that Paul died of a broken neck, but also that his humors were dangerously unbalanced just before he died. An Intelligence + Medicine (or Chirurgy) + simple die against an Ease Factor of 9 reveals that Paul would have died very soon afterwards if he had not broken his neck.''
+''Intellego Herbam Spells such as Converse with Plant and Tree (and others using the base level 15 guideline, ArM5 page 136) are not very helpful — a great deal of time has passed since the murder took place. The trees near where Paul fell remember him running madly through the woods and falling, while those a distance away remember a second man (Bartholomew, though the footprints do not reveal this) walking and making terrible sounds. Smaller plants have no memory of what occurred.''
+''Intellego Terram Casting the spell Stone Tell of the Mind that Sits or Intellego Terram spells using the base level 20 guideline (see ArM5, page 153) reveals that Paul wandered off the track, madly ran through the forest, and stumbled over a root and fell. Casting this spell a distance away will give more details — the second man’s weight (average for an adult man) and that he stood still there for several minutes while Paul was running about.''
+
+==Baldwin’s Murder==
+
+''The second victim is the lord’s entertainer, Baldwin. Although he spends much of his time at Lord Philip’s fortress, Philip travels often to neighboring lands, politicking with other lords and clergy. During these times, which can last seasons at a time, Baldwin lives in the village, where he has a wife. Baldwin was good friends with Bartholomew. Bartholomew visited Baldwin early one morning, under the ruse of discussing a broken instrument. When he arrived, he offered to play a song on his new flute for Baldwin, who agreed. The song’s magic caused Baldwin to go into frenzy, smashing his many musical instruments before suffering a heart attack. Bartholomew fled as soon as the madness struck Baldwin. Unknown to Bartholomew, Baldwin’s daughter Olivia overheard some of the music, and was also driven mad. Olivia ran from the village, until she was knocked unconscious by a low-hanging branch and was discovered by Thomas, the hermit.''
+
+===Mundane Investigation of the Murder Scene===
+
+''Baldwin was murdered in his home, in the house’s main room. A Perception + Awareness + stress die roll is required to find clues.''
+''Total 6 or greater: There appears to have been a fight in the main room, with all of Baldwin’s musical instruments smashed. Some have been cleaned up by Mary, Baldwin’s wife. Total 9 or greater: Most of the instruments are scattered around a single area, suggesting that only one person smashed them — possibly Baldwin. Footprints in the next room show that someone (Olivia, but the footprints do not reveal this) was listening, and then fled — possibly at around the same time Baldwin died. Total 12 or greater: There was a second person in the room with Baldwin when he died (Bartholomew, though again the prints do not reveal this). He left before the person in the next room did, and went back into the village, where his tracks have been covered up by several days of traffic. There is no sign of a forced entry, and the second person entered through the main entrance. The tracks of the listener in the other room lead to the woods around the village (but in a different direction to where Paul was found). Total 15 or greater: The visitor left a boot-print in the house, which could be identified if the characters closely examine other boots. There is also a trace of dried blood where''
+''the listener’s head struck while fleeing the building. Total 24 or greater: The visitor’s tracks lead from Otto’s hostel to Baldwin’s house.''
+
+===Mundane Investigation of Baldwin’s Body===
+
+''Baldwin’s body is laid out in the church. Because he has not been buried yet, the characters can examine it, assuming they convince Father Richard that they mean no harm. A Perception + Medicine + stress die against an Ease Factor of 12 reveals that Baldwin died from an extreme imbalance in his humors, which caused heart failure. There are also bruises and abrasions on Baldwin’s hands and arms. A Perception + Chirurgy + stress die roll against an Ease Factor of 9 reveals that these were caused as he smashed his musical instruments.''
+
+===Supernatural Investigation===
+
+''Because Baldwin has not been buried yet, Intellego Corpus and Mentem spells can be cast on his body. If the characters ask to perform the spells while Father Richard is near, they need to convince him that they are not desecrating Baldwin’s body, which requires a Communication + Charm or Leadership + stress die roll against an Ease Factor of 12 (or 15 if they want to take the body out of the church).''
+''Intellego Auram Casting Intellego Auram spells in Baldwin’s house us''
+''ing the base level 15 guideline reveals that several nights ago frightening music was played in the house. The air in the house also remembers a conversation between Baldwin and someone else. The characters may be able to determine whose voice it is if they hear Bartholomew’s voice, or use Intellego Imaginem to remember the voice exactly (see the Intellego Imaginem base level 1 guidelines, ArM5 page 45). Baldwin addresses the guest as his friend, but does not name him.''
+''Intellego Corpus Casting Whispers Through the Black Gate on Baldwin’s body summons his spirit, which has been driven irrevocably insane (short of a miracle). Baldwin’s spirit only mindlessly hums the tune performed by his visitor, and cries and screams. The sight of an insane spirit may require a Brave Personality Trait roll to avoid being unnerved. Spells such as Revealed Flaws of the Mortal Flesh show that Baldwin died of massive humor imbalances that caused his heart to fail; lesser spells such as Physician’s Eye show only that he is dead. If the characters found the blood on the doorway, they can use it as an Arcane Connection to find where Olivia is. This requires the spell The Inexorable Search or The Eye of the Sage, or equivalent. Olivia is in the woods outside the village, where she is being cared for by Thomas the hermit.''
+''Intellego Herbam Intellego Herbam spells only work if cast on the furniture, broken instruments, or wooden parts of the house itself, such as the roof beams or the wooden door. Us''
+
+[|
+
+==And the Murderer is …==
+
+''It is possible that the characters convince the villagers to undergo magical investigation (or cast it on them without their knowledge), and cast an Intellego Mentem spell on everyone in the village to discover who the murderer is. This would require a spell using the base level 25 guideline (ArM5 page 149) to uncover, since Bartholomew does not reflect on his murders. If each villager is individually questioned, it only requires a base level 15 spell to uncover that he is responsible. The question needs to be specific however (such as “Did you kill Paul''
+''or Baldwin?”). Mentem magic will not detect any guilt from Bartholomew, since he feels none. He also does not think about his murders more than a few hours in advance, so using magic to sense motive will also not work. In any case, it is entirely possible that the characters discover Bartholomew. If they take him to justice, they need to prove that it was him — he will not admit to it (unless controlled by magic, or threatened with death), and he is well liked by the villagers, local priest, and lord. If the characters have not discovered how Bartholomew kills his victims,''
+''then they may also be in danger, as Bartholomew may try to use his magic to kill or frighten the characters. Even if the characters convince everyone that Bartholomew is the murderer, or deal with him themselves, the characters still have to contend with the flute. Storyguides should try to ensure that the flute remains out of the hands of the characters, or that if they capture it, that a companion, grog, or apprentice takes charge of it. This allows, after a small period of downtime, for the murders to continue as the flute drives another person mad.''
+
+|]
+''ing the base level 15 guideline requires an extra magnitude because the wood is worked. The Converse with Plant and Tree spell or equivalent reveals a cloaked and hooded man of average build entering the house. Because of the limitations of the awareness of wood and plants, the details of the visitor are indistinct, but if the spell is cast on the door, it reveals that the man has very fine hands, and if cast on the chair that the visitor sat on, it reveals the cut of his tunic and breeches. If cast on the broken instruments, then the spell shows Baldwin madly smashing them, before dying. The characters may also use Intellego Herbam on Baldwin’s clothes, which are fashioned from plant products. The Converse with Plant and Tree spell or equivalent in this case only reveals information about Baldwin, and his side of the conversation. He makes pleasant small talk about music and performances with someone he calls a friend, before he suddenly goes into a rage.''
+''Rego Mentem Calling up Baldwin’s ghost can be achieved through the spell Incantation of Summoning the Dead, and can be cast either at his house where he died, or with his body. Baldwin’s ghost has a Magic Resistance of 5. Using Rego Mentem to summon his ghost has the same result as speaking to his spirit using Intellego Corpus — the ghost is insane. Baldwin’s ghost has no desire to help, and mindlessly hums and sings the tune that drove him mad.''
+
+==Finding Olivia==
+
+''Olivia was witness to Bartholomew’s murder of her father, and was also driven to madness by the flute. Because she fled before being completely overwhelmed by the flute’s music, only her mind has been affected. Olivia fled Baldwin’s house and ran from the village in terror, where she was found by Thomas the hermit. Thomas has been caring for her in his hut, where she has been reduced to half-conscious madness due to both the flute’s music and her concussion. The characters may well have found Olivia’s blood, or her tracks leading to Thomas’ hut in the woods around the village. A Perception + Awareness, Survival or Hunt + stress die against an Ease Factor of 12 is required to track her down. Thomas’ hut is a one-room shack, where Olivia sits on a straw mattress, rocking back and forth, humming tunelessly. Thomas has been feeding her, but she is growing weaker and weaker, partly due to her madness and partly due to the disruption of her humors by the flute’s music. Thomas''
+''explains that he found her unconscious in the woods and brought her to his hut to nurse her back to health — when she awoke, she was in a poor mental state. The characters may also use magic to interrogate Olivia’s mind directly. This is a risky prospect. She is mad, so the information gathered from even a powerful Intellego Mentem spell, such as Peering into the Mortal Mind, will be difficult (although not impossible) to decipher. She remembers her father talking to a musician, and although who is unclear, her mind can recall what Bartholomew looked like, so the characters could get an image of him entering the house. She then remembers him playing his flute. After this, her mind starts to fail and from then on is swamped by the flute’s music. She did not see Baldwin die. The characters could use Creo Mentem magic to try to restore her mind, which requires a base Creo Mentem level of 35 (equivalent to healing an Incapacitating Wound); for the effect to be permanent the spell must be a ritual. If she is restored to sanity, Olivia can recount Bartholomew visiting her father, and then playing his flute. She then remembers being overwhelmed by madness, and fleeing the house.''
+
+==Horace’s Murder==
+
+''Horace is murdered after he has a loud and public argument with Richard, the village priest. The argument, over Richard’s attitude towards Paul and Baldwin’s deaths, causes Horace to storm out of the church. The murder happens the day after Baldwin’s funeral. Later that day, Bartholomew approaches Horace and suggests that he has a suspicion about the cause of Baldwin’s death. The two plan to meet later that night at a storage shack used by the church on the outskirts of the village. While waiting for the minstrel, Horace is assailed by Bartholomew’s music, as the murderer plays the magical flute from a hiding place outside the shack. Horace madly runs from the shack towards the church, where a stumble at the church door sees him crack his head. Again, Bartholomew flees the scene.''
+
+===The Village Church===
+
+''The church is in near-ruin, and was clearly built centuries ago, with only a few repairs done in the intervening decades. There is a stone foundation, and thick, but rotting, wooden walls. Father Richard sleeps in the nave –— there are no rooms in the church except for the nave (where the congregation stands) and the sanctuary (where the altar is situated).''
+
+===Mundane Investigation of the Murder Scene===
+
+''Horace’s body is found by Father Richard two mornings after Baldwin’s funeral on the steps of the church. This causes a great deal of ruckus in the village, since it is widely known that the two argued the day before. A Perception + Awareness or Hunt + simple die versus an Ease Factor of 9 is required to find clues.''
+''Total 6 or greater: Horace died at the doors of the church, which he seems to have run to. There are no other tracks leading to or from Horace’s body, except for those of Father Richard, from when he opened the church doors in the morning to find the body. Total 9 or greater: Horace left his house in the village at night and went to a shack on the edge of the church’s grounds, waited there for some time, and then ran from there to the church doors, where he died. There are tracks of someone (Bartholomew, which isn’t apparent from the tracks) who laid in wait in the shack. Total 15 or greater: The second person’s tracks lead from the village to the shack and then back again. Countless other tracks from the comings and goings of the villagers have covered them. Total 24 or greater: The second person’s tracks lead from the shack to Otto’s hostel.''
+
+===Mundane Investigation of Baldwin’s Body===
+
+''A Perception + Chirurgy or Medicine + simple die roll against an Ease Factor of 6 will show that Horace died from head trauma. As he was running, he smashed his head against the church’s stone wall.''
+
+===Supernatural Investigation===
+
+''Intellego Corpus Intellego Corpus spells such as Revealed Flaws of the Mortal Flesh show that Horace died from smashing his head. However, it also shows that, like the other victims, Horace’s humors were dangerously out of balance, and that he would have died shortly afterwards if he had not hit his head.''
+''Intellego Herbam Interrogating the wooden structure of the hut requires using the base level 15 guideline with an extra magnitude for worked wood. Since the event is recent, the information is much clearer than when investigating the other events. Casting this spell shows Horace entering and''
+''waiting. After some time, he seems to hear something, then suddenly clutches his ears and runs from the shack. The spell also reveals a cloaked and hooded man (Bartholomew, which isn’t apparent from the spell) hiding outside of the shack, who arrives an hour before Horace does, and starts to play a flute after Horace enters the shack. The hooded man then flees the area. The shack’s wall against which the hooded man rested clearly perceived the flute he played.''
+''Intellego Terram There are a number of gravestones near the shack; casting an Intellego Terram spell to speak to the stones shows the hooded man hiding behind the shack late at night, and after a while, Horace leaving the church to going to the shack. After Horace runs from the shack back to the church, the hooded man leaves and goes back to the village.''
+
+==Gustav Arrives==
+
+''Gustav, one of Lord Philip’s loyal soldiers, is sent to the village to investigate the three recent deaths. Philip does not want the church to think that he cannot protect their members, and is also angered over Baldwin’s death, and so Gustav is charged principally with finding out details for those two. Philip, and therefore Gustav, is not concerned with Paul’s death. Gustav arrives several days after Horace’s death, with two ruffians in tow. He has arrived on behalf of Lord Philip to see if he can find out why Horace and Baldwin died. He immediately suspects Benedict, and has his ruffians arrest the blacksmith. Gustav and his retainers stay in Otto’s hostel with Bartholomew, where they drinks heavily each night, singing loudly and drunkenly late into the night. He also spends some time with his village mistress and illegitimate children. Over the next few days, Benedict is ruthlessly beaten and then released when it becomes clear that Gustav cannot prove that he committed the murders. Gustav also suspects Father Richard, but does not want to risk accusing a priest of murder (and he can’t think of any reason why Richard would kill Baldwin). Gustav is ambivalent to another group of people — magi or not — also asking questions about the deaths of Baldwin and Horace. He has no new information himself, so he tries to grill the characters for what they know. If the characters have found Olivia, he tries to question her, and if he finds out about Thomas, he has the hermit dragged to the village and brutally questioned.''
+
+===Otto’s Hostel===
+
+''Otto runs the village’s hostel — in reality a large barn connected to his house — where he provides lodging to the local lord’s men when they stay, and where he accommodates visitors to the village. The hostel is a large open space, with a small private room; the floor is covered in straw. Otto keeps some of his animals in the barn, and will often store other villagers’ animals for a small fee. When important people stay at the village, Otto and his wife will stay in the barn and give their house over to the dignitary.''
+
+==Gustav’s Murder==
+
+''On his last evening after spending several days in the village, Gustav asks Bartholomew to play a tune for him to sing along. Towards the end of the evening, Gustav sings again, this time to the music of Bartholomew’s flute. In his madness, Gustav throws himself onto his sword. Bartholomew flees the hostel and runs into the woods to hide. Gustav’s body is found by his two retainers and Otto, who see someone running from the building. Gustav’s retainers try to follow the fleeing person, but lose him once they reach the woods outside the village. Upon their return, they awaken many of the villagers.''
+
+===Mundane Investigation of the Murder Scene===
+
+''Gustav died in Otto’s hostel. Otto affirms that Gustav was alone with Bartholomew, but the two retainers are not sure who they saw. A Perception + Awareness + stress die is needed to find clues. The characters may also search for Arcane Connections to Bartholomew; these are easy to find and do not require a roll. Bartholomew has left clothes and musical instruments behind, which can be used as Arcane Connections in Intellego spells to locate him.''
+''Total 6 or greater: By the half-drunk flasks and wine skins, Gustav was drinking heavily. There are musical instruments (such as flutes and mandolins) lying around the hostel, out of their cases or covers, suggesting that they had been used. Total 9 or greater: By the layout of the few pieces of furniture and sleeping mats in the hostel, there was another person in the room. The other person in the room was someone who had stayed in the room previously — another guest or occupant of the hostel, such as one of the retainers or Bartholomew.''
+
+===Mundane Investigation of Baldwin’s Body===
+
+''A Perception + Chirurgy + stress die versus an Ease Factor of 3 shows that he died from being impaled on his own sword (on a failure, characters think that the sword wound was inflicted after death); an Ease Factor of 12 shows that certainly he died by his own hand (there are no defensive wounds).''
+
+===Supernatural Investigation===
+
+''Most of the information gained from Intellego spells is very current. Therefore, if the right spells are used, the characters learns Bartholomew’s identity and the method he uses to murder his victims.''
+''Intellego Auram, Herbam and Terram Intellego spells cast on the air, wooden and stone structures, or metal objects in Otto’s hostel show the scene as described earlier. Gustav and Bartholomew were singing and playing music (Bartholomew does not use his flute at this point), and Gustav was drinking. Towards the end of the evening, Bartholomew produced a flute and started playing; after a few minutes, Gustav went into a rage and clutched at his ears. Bartholomew ran from the hostel, and in his rage, Gustav threw himself on his own sword. Because the murder happened recently, the air, wood, stone, and metal objects have a fresh memory of what occurred in the room.''
+''Intellego Corpus Summoning Gustav’s spirit through the spell Whispers Through the Black Gate has an identical result to talking to the spirits of the other victims — the spirit is insane. Spells such as Revealed Flaws of the Mortal Flesh show that he died from being impaled by his sword, and again, that his humors were lethally unbalanced.''
+
+==Jeremiah’s Murder==
+
+''Jeremiah is responsible for a flock of sheep that forms one of the village’s chief tradable resources: wool. Each morning he takes them out to graze, and each evening he brings them back. On the morning after Gustav’s death, Bartholomew waits for Jeremiah near where the sheep graze, and as the shepherd boy sits watching his flock, he strikes. Jeremiah, after hearing the music, is paralysed with fear and dies from the imbalance in his humors. This causes not only''
+''Jeremiah’s death, but also that of many nearby sheep that did not flee the music fast enough. Jeremiah’s body is found the next day, after his mother and the owner of the sheep become worried at his disappearance, and the two bring his body back to the village.''
+
+===Mundane Investigation of the Murder Scene===
+
+''Jeremiah died in the fields surrounding the village, which are rocky and hilly. A Perception + Awareness, Hunt, or Survival + stress die roll is needed to find clues.''
+''Total 6 or greater: Jeremiah did not run or try to run when he died, but rather stayed still and did not move. Many of the sheep fled the area, but there are also many dead ones around where he died. Total 9 or greater: Tracks lead from the woods where someone (Bartholomew, though this isn’t apparent from the tracks) hid overnight, to the outskirts of the village, then follow Jeremiah to the fields and his hiding place. Total 12 or greater: Tracks lead from the murder place.''
+
+===Mundane Investigation of Jeremiah’s Body===
+
+''Jeremiah’s body is taken by his mother to the church, where he is laid out before the altar. His mother is distraught, and will not leave her son’s body or let anyone tamper with it. It will require a Communication + Charm or Leadership + stress die against an Ease Factor of 15 to convince her to leave strangers or Gifted characters alone with Jeremiah’s body. A Perception + Medicine + stress die''
+''against an Ease Factor of 12 shows he died from organ failure caused by imbalanced humors.''
+
+===Supernatural Investigation===
+
+''Like supernatural investigation of Gustav’s murder, the information gained from Intellego magic is detailed, as it is fresh in the memory of the beasts and inanimate objects nearby.''
+''Intellego Animal Intellego Animal spells cast on the sheep that were in Jeremiah’s care, using the base level 15 guideline (“read the recent memories of a beast”), reveal that the sheep saw a man in a hooded cloak and holding a flute approach Jeremiah where he was sitting. When the man began to play music, most of the sheep fled in terror. Some of the sheep are partly deranged and sick due to some exposure to the music.''
+''Intellego Auram, Herbam and Terram There are several prominent rocks and trees in the field where Jeremiah died. Intellego spells that allow characters to talk to any of these relay to them the circumstances in which Jeremiah was murdered, as laid out earlier. Additionally, the character also finds out the direction in which the flutist ran after murdering Jeremiah.''
+''Intellego Corpus Jeremiah’s spirit and ghost, like the other victims, has been driven mad by the music of the flute. Spells to determine his cause of death show that it was through a massive imbalance of humors.''
+
+[|
+
+==When Bad Rolls Spoil Investigations==
+
+''What if the players roll terribly when trying to find clues? This is common roadblock in mystery roleplaying games. Investigations grind to a halt, players come up with increasingly imaginative uses for alternative skills in order to find a clue, or the storyguide fudges things. Storyguides can avoid this roadblock in several different ways:''
+
+===Avoid the Rolls===
+
+''Describe the scene and the clues. If the characters are competent, with high Awareness or relevant skills, then they may automatically notice crucial facts such as that''
+''there are tracks leading away from the body, or that there was a third person present.''
+
+===Only Have Rolls for Additional Clues===
+
+''This assumes that the characters automatically find a set of basic clues, and that the rolls will uncover additional information, rather than the basic clues needed to help lead the characters to the next scene.''
+
+===Encourage Spending of Confidence Points===
+
+''A Confidence Point can help ensure that the players and their characters succeed in finding the clues.''
+
+|]
+''Tales of Mythic Europe Confronting Bartholomew''
+''At some point, the characters will have pieced together enough information to realize that Bartholomew is the murderer. If they do so before he kills Jeremiah, then Bartholomew will not have the opportunity to try to summon the music spirit. If Bartholomew has killed Jeremiah (and any other musicians in the area), then he tries to summon the music spirit. Bartholomew has left tracks and Arcane Connections all over the village. The Intellego Corpus base level 3 guideline can be used to pinpoint his location, as can a Perception + Awareness, Hunt, or Survival + stress die against an Ease Factor of 9 in order to find his tracks.''
+
+==... Before Jeremiah’s Murder==
+
+''If confronted before he has completed his killing spree, Bartholomew tries to flee rather than be caught. He tries to use his flute to wound or kill anyone who attempts violence against him. Forced to fight, Bartholomew struggles madly, with frothing lips, rolling eyes, and terrible moaning. Any combat should be chaotic, desperate, and brutal — he is mad after all — and may cause collateral damage. However, he can also be negotiated with. If challenged about the murders, Bartholomew denies being the murderer if he thinks he can still achieve his goal, or confirm it if he believes doing so will benefit him. He may also try to trick the characters and his intended victims into listening to the deadly music. However, because he is insane, Bartholomew will not give up the flute and will not cease in trying to kill musicians. If the characters are not openly hostile, he explains his motive: to play his flute free of the musical pollution of others. Should the characters try to dissuade him or try to take away his flute, he tries to harm or kill them by playing the flute.''
+
+==... After Jeremiah’s Murder==
+
+''Having killed Jeremiah, Bartholomew hides in the woods for some time to sense whether he has been successful in silencing other sources of music. The next day, after realizing that he was successful, he makes his way to a spot overlooking the village and surrounding area at sunset to play the flute. If the characters arrive too late to stop him from playing the flute, his performance summons the music spirit.''
+
+===The Music Spirit===
+
+''If summoned, the music spirit goes on a mindless rampage. The spirit only spends a short time (approximately an hour) manifested before returning to the Realm of Magic. In that time, however, there is considerable damage that it can do. Its mere presence causes death or madness in all who hear it, animal and human alike, and its mindless wanders will take it to the village, and potentially the covenant if it is close. If there are any sources of music, such as someone who sings a song, plays a musical instrument, or otherwise makes even one musical sound (this excludes animal noises), the music spirit will home in on the source and try to destroy it if it is within a day’s walk (about 30 miles).''
+''Magic Might: 30 (Mentem) Characteristics: Int n/a, Per 0, Pre n/a, Com NA, Str +3, Sta +3, Dex –3, Qik –3 Size: +3 Confidence Score: 0 (0) Personality Traits: Hatred of all other music +5 Combat: Sound blast: Init –3, Attack 0, Defense 0, Damage (see Powers below) Soak: +0 Wound Penalties: –0 (1–8), –0 (9–16), –1 (17–24), –2 (25– 32), Banished (33+) Powers: Sound Blast, 1 point, Init –3, Corpus: As per the flute’s Undulation power. Madness, 1 point, Init –3, Mentem: As per the flute’s Madness power. Disharmony, 1 point, Init –3, Vim: As per the flute’s Disharmony power. Vis: 6 pawns of Mentem vis. Appearance: The music spirit is a great morass of chaotic, swirling sound in material form. It is visible only though its distortion of things around it, and the terrible music that emanates from it. Note: the music spirit moves as fast as a running person, but is neither dexterous nor nimble.''
+
+==Capture==
+
+''The characters may capture and neutralize Bartholomew, bring him to justice, or mete out their own punishment. In Mythic Europe, justice relies a great deal on testimony and witnesses. Olivia, made magically sane, would provide the evidence that the characters need for mundane authorities to condemn Bartholomew, as would Gustav’s two retainers and Otto. The characters could try to rely on mystical evidence, assuming that relevant authorities were willing to cooperate with the characters. Bartholomew himself could also be a factor in prosecuting a conviction. He may be made to confess, and depending on the severity of his madness, his sheer insanity may convince the authorities that he is guilty.''
+
+==Conclusion==
+
+''Murder stories often end with serious consequences — murders leave a trail of devastation for the relatives,''
+''friends or covenant-mates of those murdered. Few of those involved in a murder, let alone multiple murders, walk away physically or emotionally unscathed. This scenario hopefully ends with the triumph of the players’ characters. Having foiled Bartholomew and secured the flute, either through subduing or killing him, the characters can relish the gratitude of the villagers for having stopped the murders, or alternatively quietly know the truth while the mundanes continue in ignorance.''
+
+==Bartholomew’s Fate==
+
+''In the case of his survival and separation from the flute, Bartholomew degenerates into complete insanity, humming and whistling without thought. There is little hope for Bartholomew — no redemption or restoration to sanity is possible as the Warping has altered his mind beyond even Hermetic magic. He is doomed to mindless, destructive lunacy.''
+
+==What to Do With the Flute?==
+
+''The only thing left unscathed by the events of this story is the flute. The characters may realize its danger, or may wish to unlock its secrets. Disposing of the flute by locking it away or casting it into an inaccessible place effectively ends the scenario. Laboratory investigation, unless the investigating magus has an effective means to prevent its Obsession power, leaves open the opportunity for the madness of the flute to strike again. An inquisitive apprentice or nosy servant need only play the flute and the cycle of murders starts over.''
+
+==Rewards==
+
+''Stopping the murders and finding the murderer brings gratitude from the villagers — especially from the family and friends of the victims, the village priest, and the local lord. The characters may also have acquired the flute. This powerful magical device is not only of use to magi interested in non-Hermetic magic, but it is also an Arcane Connection to a powerful magical spirit. Potent Hermetic magi could try to bind or trap the spirit; it could potentially be used against enemies as a weapon.''
+
+[|
+
+==Origins of the Flute==
+
+''The precise nature of the flute is shrouded in mystery. There are several possibilities, and the storyguide can decide which of the following three possibilities she prefers.''
+
+===The Ungodly Brother===
+
+''A decayed tome recalls, in a trembling hand written years ago by a terrified monk, that a brother uncovered an ungodly flute whose music sent the abbot and the monastery’s preacher (the monk in charge of the library) into mad fits of insanity. Eventually the brother climbed to the highest point of the monastery and played his dreadful song, while the monks lay trembling with their hands fastened over their ears. In the morning, they found no sign of the brother, but the stones upon which he stood were blackened and twisted as if by some unearthly force, and nearby lay the flute. Unable to destroy it, the monks hid it deep in the monastery so that it would never be found.''
+
+===The Farmer’s Fate===
+
+''A legend recalled in the gloss of a centuries-old summa speaks of a farmer who followed the path of a falling star, and there found a flute. Upon returning home, he told his neighbor. The neighbor returned the next day to find the farmer, his family, and all his animals apparently driven to''
+''death by some unseen hand. The earth and trees around the farmer were so horribly twisted and distorted that the neighbor believed a terrible curse had struck the farm. Clasped in the fist of the farmer was the flute, which the neighbor took and buried at a crossroads, believing it had caused the farmer’s awful fate.''
+
+===a Covenant’s Insanity===
+
+''A little-used Hermetic history tractatus mentions a covenant near to the troupe’s home that was known for its mastery of Pythagorean music and its Hermetic uses. A terrible fate befell the covenant when its most intelligent and promising members fell into a deep Twilight and returned with a magical flute. No accurate record remains of what happened afterwards, but is believed that this instrument was the cause of the covenant entering into a deep and fatal Winter. The first time the magus played his instrument to his sodales, they also seem to have entered a deep Twilight from which none returned unscathed. Crippled by Twilight-inspired insanity, the covenant was abandoned by its covenfolk, who spread the story among the Order of the last moments of the instrument and its player, who was dragged triumphantly into a dreadful vortex of pure, tangible and incomprehensible sound. Only the flute, which none of the grogs dared touch, was left behind.''
+{{OpenArs Attribution}}
+{{ArsMnavbox}}
