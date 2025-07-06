@@ -17,8 +17,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h2>The Mysteries</h2>
 
 
-<div sidebars>
-
 <h3></h3>
 
 <div>Welcome to The Mysteries Revised Edition!</div>
@@ -39,8 +37,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>What Do the Mystery Cults Believe?</h3>
 
 <div>Each Mystery Cult has its own unique view of the world. While not all agree or uphold the same views, each teaches a particular mythic history by which it claims descent from the Mystery Cults of antiquity. In truth, however, there is</div>
-</div sidebars>
-
 
 <h3></h3>
 
@@ -86,8 +82,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Mystery Houses are open participants in the Order, keen to declare that their practices are private but not untoward. The Mystery Cults are more secretive, and many magi distrust them to a greater degree because of their difference from the Mystery Houses. Other magi, however, note that they themselves can join the Mystery Cults, and perhaps those secrets are private because they are so tempting, so inviting.</div>
 <div>Many magi hear of the exotic magics practiced by those with secret knowledge and yearn to try it, to join; these magi often do become the recruits of Mystery Cults. Others turn their backs on the Mystery Cults, asking why, if the cults are so special and their magics so wonderful, have they not come to dominate the Order? This is a valid question, and the answer is that there is no answer, or, perhaps more accurately, that the answer is unknown. A magus who dedicates himself to study of the Hermetic Arts, Magic Theory, and his House magics can rise far in his specialization. A magus who spends years pursuing vanishing secrets may indeed discover exotic powers, but may also end up lacking in skill at the core Arts of Hermetic magic. Which is the more powerful? This has never been tested; perhaps the magi of your saga can provide the answer.</div>
 
-<div sidebars>
-
 <h3></h3>
 
 
@@ -107,8 +101,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Outer Mysteries: The most basic Mysteries known to all Initiates of a given Mystery Cult. The term applies most precisely where the Outer Mystery is a prerequisite to learning more advanced Mysteries. Many cults teach magics that are less tightly coupled than this. Philosophy: The pursuit and love of wisdom. Often used as a code word for “magic.” Probationer: One who seeks entry to a Mystery Cult but has not yet been Initiated.</div>
 <div>School: A loose grouping of associated Mystery Virtues. For example, the school of Hermetic Astrology contains several Virtues, all concerned with the influence of the stars on magic. Some Mystery Cults favor one particular school.</div>
 <div>Secular: Worldly, as opposed to religious. When Hermetic magic is described as “secular,” this stresses the abstractions of Bonisagus and the ways he removed the invocation of names and powers from the abstract Techniques and Forms. Secular magic avoids some of the Church’s proscriptions against magic.</div>
-</div sidebars>
-
 
 <h1>Chapter Two</h1>
 
@@ -180,8 +172,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The nature of the Initiation process makes the changes a true part of the magus, affecting the magus’s essential nature. Thus magic cannot undo Initiation effects. Even if a maga subsequently leaves a Mystery Cult, she does not lose the Virtues and Flaws she accrued.</div>
 <div>Initiates often develop new Personality Traits that mark the effects of the Initiation on the maga and reflect her new perspective on the world. Typically such a trait begins at +1.</div>
 <div>To undergo Initiation requires more, however, than a record of service to the cult and a requisite level of the relevant (Mystery Cult) Lore. It also requires that the candidate fulfill the initiatory requirements peculiar to that cult’s Initiation in the Mystery Virtue, by following a detailed set of instruction and rituals and undergoing peculiar magical rites. These rituals and necessary obligations are called Quests, Sacrifices, and Ordeals, and they are explained in the Initiation Script.</div>
-
-<div sidebars>
 <div>(Mystery Cult) Lore is the (Organization) Lore of a particular cult. It provides knowledge of the legends, history, structure, operation, and goals of the Mystery Cult in question. It includes knowledge of the magics, rites, and secret passwords and symbolism of the cult, how to covertly signal membership, and how to assess another magus’s membership or non-membership in the cult. Two magi with this Ability for the same Mystery Cult may well be able to hold a seemingly innocuous conversation without outsiders realizing that a second, secret, conversation is hidden within the innocent phrases. In order to prevent outsiders from learning secrets of the Mystery, many Mystery Cults’ specialty books require a score in this Ability for a magus to decode their symbolism. (Mystery Cult) Lore also covers the ceremonies of the cult, frequently enacted when the cult members gather formally. It is a key knowledge for a Mystagogue’s performance of the Initiation rites, to guide the Initiate through Ordeals, ceremonies, and meditations to gain new Virtues.</div>
 <div>Knowledge of this Ability is passed from Mystagogue to Initiate, from mystae to mystae, in a chain of living secrets. Some cults also write down their secret</div>
 <div>lore, as this codifies the Mystery and lets others share the same view of the cult. Others prefer the secrecy of an oral tradition. Small cults may fade away from lack of members, especially if they are persecuted, but if they have committed some of their lore to writing, the cults may be restarted by those who discover and understand the texts. Some cults risk the loss of secrecy for this very reason: so that their secrets and magical rites may not be lost forever. Some magi search for lost texts, containing secret lore of the ancients, hoping to re-enact the rites and rituals that led them to power.</div>
@@ -190,6 +180,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Revised Ability: (Mystery Cult) Lore</h3>
 
+
+<div sidebars>
 <div>Some Mystery Cults are very hierarchically defined, while others are quite informal and irregular in structure, but there is a general pattern of (Mystery Cult) Lore requirements. A level or rank of Initiation into a Mystery Cult is called a degree, and the number of degrees a cult has — or whether there is a formal degree structure at all — varies from cult to cult.</div>
 <div>The first Initiation requires a single level of (Mystery Cult) Lore, which explains the significance of what is to be learned and how to participate in the rites of Initiation. Further Initiations are unlikely to be offered to characters with</div>
 <div>a score below 3, but this is sufficient for most members of a cult.</div>
@@ -368,8 +360,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>An Initiation Script requires that the Mystagogue have a minimum Presence + (Mystery Cult) Lore, as specified in the Script. Such a Script can be applied to a nonplayer character by simply noting any time costs (counting a Quest as a season) and any Ordeals imposed.</div>
 <div>Given the high totals needed, the Scripts for Major Virtues commonly fall short of providing the Initiation on their own. However, note that previous Ordeals provide a bonus to the Initiation Total, and this usually provides the extra needed to succeed.</div>
 <div>Note that the process of Initiation relies upon the Mystagogue’s Presence + (Mystery Cult) Lore, not the Initiate’s.</div>
-
-<div sidebars>
 <div>Darius filius Xerxes, follower of Flambeau, is a Hoplite from the covenant of Semita Errabunda. He has been introduced by a fellow Hoplite, Pepino, to the Legion of Mithras, and has already been accepted as a member at a robed conclave, after a night alone in an underground temple, where he faced various magical tests and distractions, but bravely endured. His moral character is outstanding, and he has long been a devoted servant of the Order, as his Personality Traits and Reputation clearly show.</div>
 <div>Following this test, he was formally admitted to the Legion and a great feast was held, with 25 other Legionnaires attending, wearing colorful robes symbolic of their rank and ornate masks. Immediately after the feast ended he was introduced to his new teacher, who would instruct him in the basic secrets of the cult. It happened to be his friend Pepino, and the two of them retired to Pepino’s sanctum, where they spent the rest of the season together, as Pepino taught Darius the secret rites and philosophies of Mithras.</div>
 <div>The storyguide has invented some secrets and ideals that are held by the cult; she now explains them, and a brief overview of the nature and purpose of the cult to Darius’ player. She looks</div>
@@ -381,8 +371,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Script bonus is comprised of a Minor Ordeal +3, a Quest +3, the Sacrifice of a talisman +5, and a sympathetic appropriateness bonus +1. The details of the Script have been outlined to Darius as the path he must pursue for Initiation; he sets out to fulfill the requirements, painfully aware that he is giving up much to receive little in</div>
 
 <h3>Example: Darius Undergoes Initiation</h3>
-
-</div sidebars>
 
 <div>However it is the Initiate’s Quests, Sacrifices, and Ordeals that lower the Target Level. As there is no die roll, either the candidate has fulfilled the obligations required to meet the total and the Initiation succeeds, or it will not be attempted; the Mystagogue will not waste a season.</div>
 
@@ -401,8 +389,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Ease Factor is 12 to make a change to a component, such as varying the place, the time, or the subject of a Quest. (Varying a Unique Quest should replace it with another Unique Quest.) It is not possible to change which Virtue the Script Initiates, or to modify a Script to Initiate a Minor Virtue into Initiating the Major Virtue.</div>
 <div>The Ease Factor is 15 to remove a component from the Script, reducing the Script bonus.</div>
 <div>The Mystagogue may only attempt one of the above changes in a given Initiation. If the attempt fails, the new Initiation Script is nonfunctional (and the Mystagogue knows this without attempting the Initiation), but the original Script works as normal. If the attempt is successful, the modified Script can be used to generate the Initiation Total.</div>
-
-<div sidebars>
 <div>ordinary terms in return, at this time at least.</div>
 <div>The Minor Ordeal is that Darius must take the Flaw Dutybound: Serve the Order of Hermes — this is little cost to a magus who has devoted his life to that cause. This and the Sacrifice of his long spear talisman will occur during the actual ceremony of Initiation. Neither will require any time beyond the season he must spend on the Initiation itself. This means that he must fulfill one Quest, and, as the sympathetic appropriateness bonus of +1 suggests, it is somehow related to the gaining of SelfConfidence, the Virtue to be Initiated. The Quest requires Darius to identify his nemesis, that enemy who is most contrary to what Darius personally stands for, and his goals and aspirations, and who has personally thwarted or deceived Darius at least three times, and defeat that nemesis. Darius is already committed to defeating a renounced magus, from whom he narrowly escaped (as detailed in his character history).</div>
 <div>After several seasons of lab work, and serving his covenant, Darius finally is ready to embark on his Quest. He decides to take along a fellow maga from the covenant , and several grogs and companions, but Darius must be the star of the story for it to count as his Quest; the others understand that this is a personal score.</div>
@@ -411,8 +397,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Darius now needs to learn more about his cult and achieve an Ability score of Legion of Mithras 3 before he can be Initiated into the second degree. After several years’ more dedicated duty and heroic adventure, he manages to learn the basics of the Ability Teaching, so that in the future he can instruct new Initiates. During that time, the cult also asked him to carry a message, which required a story, and Darius made a copy of some useful laboratory texts in his possession to give to the Legion, for which they were grateful. Most importantly, his studies of a tractatus he was lent and</div>
 <div>two seasons’ more teaching from Pepino (who received vis and a lesser enchanted device in return for his services) gave Darius a score of Legion of Mithras Lore 3. He is ready to undertake further Initiations, and the cult invites him to prepare for his second degree, Bride of Mithras.</div>
 <div>Sebastiano can use the normal Script this time, as Darius does not possess the Virtue Clear Thinker already. The Script calls for a Quest, to investigate a possible threat to the Order, and to show clear signs of good judgment +3, and there is a sympathetic appropriateness bonus of +1. This gives Sebastiano an Initiation Total of 14; less than the Target Level of 15 required for Initiation into a known Minor Virtue, but the Target Level is reduced to 12 as this is the first Initiation after the Ordeal of taking the Flaw Dutybound (it’s also the second Initiation after the Ordeal he underwent upon first entering the cult, but that would only reduce the Target Level to 13, so that Ordeal is ignored). Providing Darius completes the Quest set him, he is successfully Initiated into the Legion’s second degree.</div>
-</div sidebars>
-
 <div>If a single change is not enough to make this Script work, then either a different Script is needed, or the Mystagogue must study more (Mystery Cult) Lore, or experiment.</div>
 
 <h4>Experimental Scripts</h4>
@@ -470,8 +454,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Mystery Cult, membership in the parens’s cult is represented by a required Story Flaw Cabal Legacy, representing the fact that others suspect the master (and hence the apprentice) of participating in hidden and untoward activities, and therefore do not fully trust them.</div>
 <div>Once past Gauntlet and character generation, the purchase of Virtues and Flaws by character points ends — for</div>
 <div>most magi their powers grow by study and practice, and they do not normally acquire additional Virtues. Initiation into Mysteries is almost always by story and roleplaying, but (again with troupe permission, or to create an experienced non-player magus), a magus who is being advanced some years beyond apprenticeship may use some of those seasons for Initiations. As this rules out interesting</div>
-
-<div sidebars>
 <div>Lucius of Flambeau has created a new cult, the Seventh Wave, a group dedicated to rediscovering the lost magics of a ruined covenant where he dwells. The first Initiation of the new cult is designed to teach the Virtue Affinity with Art (Aquam). Lucius acts as Mystagogue, and desires but lacks the intended Virtue, so his Target Level is 18. Lacking an Initiation Script, he sets out to devise a new Script that can be used in future rituals of his cult.</div>
 <div>Lucius has studied an ancient book on the magics practiced by his predecessors, and has also practiced on his own, devising new chants and rites that he has repeated with his circle of would-be Initiates, and has reached Seventh Wave Lore 9. He is charismatic for a magus, with Presence +2, Intelligence +3.</div>
 <div>He performs what he hopes will be a Quest (discovering a lost magical wand in ancient ruins guarded by ghosts, and presenting it to the cult), and travels to the bottom of the deepest river in the Fens to commune with the spirits on the spring equinox (a day he hopes will be auspicious, as the high tide will rush up river and create an odd natural phenomenon called a tidal bore). These will afford a Script bonus of +6 if they work out.</div>
@@ -484,8 +466,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Her player rolls Intelligence +3 and Seventh Wave Lore 6 vs. an Ease Factor of 9 (to add a component). She succeeds if she avoids botching the roll. The apprentice Mystagogue’s modified Initiation rite requires more effort of her Initiates, but will work under her tutelage, and she writes down the Script for future Mystagogues to benefit from.</div>
 
 <h3>Experimenting To Discover a New Minor Virtue Script</h3>
-
-</div sidebars>
 
 <div>stories, it is not encouraged for player characters.</div>
 <div>Initiation with a Script is designed as a fixed process, much like other experience activities (although it is more complex than others), so that it can be applied as background experience if necessary. More details are provided in the rules for The Mechanics of Initiation, but a summary follows here.</div>
@@ -560,8 +540,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The need to spread attention between the players, and to ensure that an equal number of stories concentrate on each</div>
 <div>character, is the prime method of determining how quickly magi should progress in a Mystery Cult. In a fast saga, where years pass between stories, it should take a very long period for the magi to achieve a high degree in the Mystery Cult, and by the time they do they should be ready for the awesome power that can be attained. In a slow saga, it may never prove possible to progress far into a mystery, but the figure of three years per Initiation provides a reasonable rule of thumb, whereas in a medium saga seven years could pass between degrees of Initiation. Ultimately, though, progression is measured by stories not years, and the number of stories that is required to attain each Initiation</div>
-
-<div sidebars>
 <div>Have the other players play cultinvolved companions and grogs. If you can involve these other characters in a Mystery Cult, it gives you opportunities to have an adventure with everyone playing a part. It is quite normal to play adventures with only one magus, although players must be careful to keep separate player knowledge and character knowledge.</div>
 <div>Troupe play; beta storyguides. A Mystery Cult is a good opportunity for another player to do a bit of storyguiding. You can divide responsibilities and even story time, with one group running a Mystery Cult adventure, and another running a different adventure or performing laboratory activities.</div>
 
@@ -575,8 +553,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Abstract it. Since it is a seasonal activity, you can do cult Initiation like you do other kinds of study. Everyone announces what they’re doing that season, and then you address each character in turn, making the necessary rolls and moving on. Not as much flavor this way, but it gets the job done, although it defeats the purpose of Mystery Cults as a way of driving stories.</div>
 
 <h3>How to Deal with Mystery Stories</h3>
-
-</div sidebars>
 
 <div>is set by the storyguide and the Initiation Script design.</div>
 <div>The number of characters in the game also limits progression; a game with only two players will see more rapid advancement than a game with six. As always, the troupe should set the pace to suit their own tastes. Many of the Mystery Virtues do, however, require extensive commitment to lab work and considerable levels of ability in Arts and Magic Theory, or other Abilities, which may also prove decisive in establishing the pace of Initiation.</div>
@@ -605,10 +581,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 
-<h1>Chapter Number</h1>
-
-
 <h2>Curious Common Magics</h2>
+
+
+<h3>Chapter Number</h3>
 
 <div>There are certain arcana known with the Order generally, yet of special interest to certain of the Mystery Cults: the mysteries of the memory palace, how to render spells permanent by evoking powerful magical spirits, and the secrets of Hermetic Alchemy, Planetary Magic, and other curious and potent lore known to magi who study these magical paths. These Virtues are available to all within the Order of Hermes without Initiation, yet only the mystae fully comprehend their significance and potential, and understand the deeper secrets to which they provide a cryptic introduction.</div>
 
@@ -945,8 +921,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Begin a season of enchantment with a selection of materials (and possibly shapes) gathered in the laboratory. The magus may choose any number of components up to the limit of his Magic Theory score (since some components may be rejected, it is best to include as many as possible). Do not use the normal Shape</div>
 <div>and Material Bonuses table for this process, other than to verify that the bonuses he seeks are compatible with the existing</div>
 <div>correspondences of the item. (Check with the storyguide or troupe on this.)</div>
-
-<div sidebars>
 <div>These shapes and materials are based on the discoveries of alchemists, but can be used by any magus. They are particularly useful in Potent spells and Hermetic Alchemy.</div>
 <div>Aloe +3 friendship</div>
 <div>Amethyst +3 dreams, +4 temperance</div>
@@ -980,8 +954,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Yellow sandalwood +3 binding people</div>
 
 <h3>New Shape and Material Bonuses</h3>
-
-</div sidebars>
 
 <div>Complete the enchantment, and determine the experimentation rolls. If he avoids disaster, note the Experimentation Bonus (as in ArM5, page 107):</div>
 
@@ -1064,8 +1036,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Once the magus has determined a category to which a bonus applies, he may teach this to others. When a magus writes a tractatus on Magic Theory, he may choose a Shape or Material and its particular bonus and category as the thesis for the book. He may do this provided his</div>
 <div>Quality (Com + 6 + bonuses) for writing the book is at least twice the Bonus Level.</div>
 <div>Those who study the book then both learn Magic Theory (Quality XP) and also learn how to use this component in their own enchantments. When they, in turn, teach students, through direct teaching or by writing in a summa, they incorporate all their experience of enchantment into their teaching. Eventually, the new magical correspondences may become a standard part of Hermetic theory taught to all students.</div>
-
-<div sidebars>
 <div>Julius has Magic Theory 6, Perception +1, Magic Lore 5. He plans to make powder (a charged device) to cast a concealing illusion over items.</div>
 <div>He included the maximum six items (fur from the tip of a fox’s tail, foxglove petals, mint leaves, dock leaves, rose petals, rose hips) in the experiment. Julius claims that foxes are masters of trickery, and their fur is particularly appropriate — the storyguide agrees.</div>
 <div>He chooses a Risk Modifier of 2, and his player rolls 6, so the Experimentation Bonus is 8.</div>
@@ -1077,8 +1047,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Julius can now include the discovered Shape and Material Bonuses in his illusion powder, but only the +6 that were successfully tested, not the +8 of the Experimental Bonus roll, and only up to his Magic Theory score, as normal.</div>
 
 <h3>Example of Vulgar Alchemy</h3>
-
-</div sidebars>
 
 <div>The Mysteries Revised Edition Withstand Casting — Minor Hermetic Virtue</div>
 <div>The Mercurian cult teaches a number of Virtues and Abilities to its members; some of which may be taught outside the cult. One such is the Virtue Withstand Casting, which bolsters the magus against the draining Fatigue of casting spells, knowledge of which is now reasonably widespread in the Order.</div>
@@ -1635,9 +1603,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The maga gains a bonus to her Lab Total for this effect. To calculate the bonus, add the bonus for a Nativity Horoscope (+2) and if she has an Arcane Connection, consult the Arcane Connection Bonus table on ArM5, page 84, and add the multiplier bonus.</div>
 <div>Example: Notara wants to enchant her talisman to help make herself fly. Her talisman counts as an Indefinite Duration AC (bonus +4), and she has previously calculated her own Nativity Horoscope (bonus +2). She applies a bonus of +6 to her Lab Total. The effect is automatically limited to Notara only (at no cost to the Effect level).</div>
 <div>Seasonal Enchantments: It is possible to create a device that is attuned to a particular astrological cycle: either one particular sign, such as Leo, or to a group of signs associated with one of the four elements.</div>
-<div>Options: Calculating an Astrological Duration The Time of the Favorable Hour</div>
-
-<div sidebars>
 <div>Option: Calculate a Daily Horoscope. As described in ArM5, page 84, this requires an Intelligence + Astronomy roll vs. an Ease Factor of 9, taking one hour to complete. Having a Daily Horoscope for the target location subtracts 3 from the Ease Factor of Astronomy rolls for duration calculation. The Horoscope is valid for spells cast over the course of that day, but only for the area it was created for (see Limits on the Use of Astrological Time for distance limits imposed by astrological time).</div>
 <div>If the the roll fails, the magus realizes this and may ignore the Horoscope.;If the roll botches, the magus doesn’t realize until he uses the Horoscope in a spell, and that spell botches because of the miscalculation.</div>
 <div>Option: Measure the exact astrological time. Using a spell such as Sight of the Astrological Hour subtracts 3 from the Ease Factor to calculate an Astrological Duration.</div>
@@ -1671,6 +1636,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>All Additions and Subtractions)</h4>
 
+<div>Options: Calculating an Astrological Duration The Time of the Favorable Hour</div>
+
+<div sidebars>
 <div>Rather than consult genuine astrological tables to determine when a favorable hour would arise, the storyguide may use the following simple process: roll a simple die read as 0-9 and multiply by 10, and add another simple die (a number from 1 to 100), then divide by 4 (round up). Reroll results of 25 (or choose a number to suit). The hours of the day are most easily counted from midnight to midnight. If the hour indicated has already passed, then either the magus has missed the opportunity, or this indicates an hour after the next midnight.</div>
 </div sidebars>
 
@@ -1902,18 +1870,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The signs of the Zodiac fall into several categories, some opposing others. Signs</div>
 
-<div sidebars>
-
-<h4>Element Humor Gender Cardinal Fixed Mutable</h4>
-
-<div>Fire Choleric Male Aries Leo Sagittarius</div>
-<div>Water Phlegmatic Female Cancer Scorpio Pisces</div>
-<div>Air Sanguine Male Libra Aquarius Gemini</div>
-<div>Earth Melancholic Female Capricorn Taurus Virgo</div>
-
-<h3>Signs by Category</h3>
-
-
 <h4>Sign First Decan Second Decan Third Decan</h4>
 
 <div>Aries adventure, zeal, dishonor, and misfortune</div>
@@ -1945,6 +1901,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>barriers, self-sacrifice vicissitudes, sex</div>
 
 <h3>Signs and Decans</h3>
+
+
+<div sidebars>
+
+<h4>Element Humor Gender Cardinal Fixed Mutable</h4>
+
+<div>Fire Choleric Male Aries Leo Sagittarius</div>
+<div>Water Phlegmatic Female Cancer Scorpio Pisces</div>
+<div>Air Sanguine Male Libra Aquarius Gemini</div>
+<div>Earth Melancholic Female Capricorn Taurus Virgo</div>
+
+<h3>Signs by Category</h3>
 
 </div sidebars>
 
@@ -2051,8 +2019,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>The rules on increasing Penetration Bonus on ArM5, page 84 apply as normal.</div>
 
-<div sidebars>
-
 <h4>Did William Steal My Book?</h4>
 
 <div>This is an Intellego Mentem base 10 “discover the truth of a statement,” but as the information comes from William’s mind, the total would also have to beat his Magic Resistance, if any.</div>
@@ -2114,10 +2080,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Example Divinations</h3>
 
-</div sidebars>
-
-
-<div sidebars>
 
 <h4>Technique Description Important Uses</h4>
 
@@ -2163,8 +2125,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Scrying Gazing into reflective surfaces Clairvoyance +5</div>
 
 <h3>Ceremonial Augury Phenomena</h3>
-
-</div sidebars>
 
 
 <h4>Divination in Practice</h4>
@@ -2445,8 +2405,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>As with a familiar, the magus and spirit familiar both gain the Minor Virtue True Friend, relating to the other half of the partnership, and the Personality Trait Loyal (partner) +3. The magus and spirit familiar are magically linked — each serves as an Arcane Connection to the</div>
 <div>other, and neither needs to overcome the other’s Magic Resistance. The spirit uses the better of its Magic Resistance or the magus’s Form resistance, but neither stacks with Parma Magica; alternatively the magus may choose to use the spirit familiar’s Magic Resistance but this does not stack with Parma Magica. The spirit familiar gains a score equal to the magus in any language he knows (unless the spirit knew the language better before), and can understand any language understood by its ally. It cannot learn Hermetic magic, although it can learn Magic Theory and assist in the laboratory if it has magical assistance or powers to enable it to manipulate objects in the laboratory.</div>
 
-<div sidebars>
-
 <h4>Mental Communication</h4>
 
 <div>As in the example in ArM5.</div>
@@ -2484,8 +2442,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Allowing the magus to take ghostly form requires Muto Corpus with an Auram requisite: level 30, +1 for Touch. The duration needs to be Concentration, with the bond maintaining concentration. Since it is useful to end the effect and become corporeal again, it is worth increasing the uses per day: 24 uses per day adds 5 levels, for a final level of 50.</div>
 
 <h3>Sample Powers</h3>
-
-</div sidebars>
 
 <div>The spirit retains any powers it had before the bonding.</div>
 <div>You must determine the characteristics of the spirit: it has the three Characteristics Intelligence, Perception, and Communication. If the spirit was not intelligent before the ritual of bonding, then it is made intelligent by the bond.</div>
@@ -2617,8 +2573,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Becoming a Living Ghost transforms the magus’s spirit into something more powerful and more flexible than the ghost of a dead person. Living Ghosts, as the name implies, are akin to the free spirits that roam Mythic Europe: They are fully aware of themselves and their situation, retain full memory and form new memories normally, and may learn and change (although their immortal nature makes this difficult). A Living Ghost has no more or less reason to continue its existence than a living being and cannot be laid to rest simply by completing a task, like a many simple, dead, ghost, as it has chosen immortality by these means and retains its will and purpose. It is, however, dependent on the continued link to its Haunt.</div>
 <div>As detailed below (Ghosts in Ars Magica), ghosts retain all their characteristics except solidity. They are insubstantial to the real world but appear solid to other ghosts and insubstantial spirits.</div>
 <div>The magus retains a link to his talisman, and may continue to enchant and improve it. If he used Inscription on the Soul to enchantment his spirit, then those enchantments continue, and he may continue to enchant the spirit directly. Otherwise he must protect and care for the physical talisman, and hide it carefully within the Haunt.</div>
-
-<div sidebars>
 <div>The following first appeared in Calebais: The Broken Covenant, but is repeated here as it is important to define ghosts properly.</div>
 <div>Many ghosts are dark, sinister souls, living tormented existences in the physical world without being able to affect it in any real way. They are often confused, sometimes violently insane, and may hate and fear the living or take pleasure in sharing their suffering. Others may be of good heart and only seek to put right what their passing made wrong, or have become ghosts because they lived too long in a magical aura. Ghosts are as individual as living beings, and each has its own distinct personality.</div>
 <div>The appearance of ghosts can vary, from seeming completely substantial, so real that they even feel solid, to simply a luminous haze in the air with only vague similarities to the human form. Most ghosts can become invisible at will, hidden except to those possessed of Second Sight or similar abilities, but only a few can come close to a state resembling solidity; most remain translucent and rippled, like a reflection in deep water. As they spend their Might Pool, they also lose their clarity, fading away completely when exhausted.</div>
@@ -2633,6 +2587,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Ghosts in Ars Magica</h3>
 
+
+<div sidebars>
 <div>If the magus enchanted his body, the enchantments are broken when his body is destroyed. If he had the Virtue Inscription on the Soul, and became his own talisman, he had the option to restrict himself to enchanting his spirit only. If he kept to this restriction, there is no problem in becoming a Living Ghost. If, however, he succumbed to the temptation to enchant his body as part of his talisman,</div>
 <div>then when he destroys his body the physical part of his talisman is shattered and those intimate enchantments and attunements broken; he gains 1 Warping Point for every bodyor item-linked attunement that is broken. This is one single Warping event so he must check for Twilight if he gains 2 or more points.</div>
 <div>Entering Twilight during the process of dying means that the Moment</div>
@@ -2813,8 +2769,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Consummate Talisman and Names of Power</h4>
 
 <div>The Consummate Talisman Virtue (see Chapter 10: The Great Talisman, Consummate Talisman) lets a magus instill meta-magic effects in his talisman, and have the talisman affect his own spellcasting. He may instill known Names</div>
-
-<div sidebars>
 <div>Those who practice the magical beliefs of Gnosticism are concerned with the magic of synthemata, and the school associated with learning these true names and using these names and pursuing a magical religion, is also known as Hermetic theurgy. The Divine aura’s interference with magic has led to many radical ideas among the Order’s theurgists, and some believe the Divine aura to be the product of the Demiurge, God’s intermediary, but different schools of theurgy see the Demiurge in different roles.</div>
 <div>Most monotheistic theurgists believe in one, good Demiurge. For them, the Divine aura is a product of mortals living lives without the spiritual rites of theurgy. By living lives devoted more to bodily needs than spiritual, mortals wrap their surroundings in the Demiurge’s terrestrial influence. Monotheistic theurgists pray to the Demiurge and even to the pagan gods in much the same way as medieval Christians pray to saints, and see these beings as heralds or intermediaries between humanity and God.</div>
 <div>Some monotheistic theurgists believe in various Gnostic principles. For them, the Demiurge is an evil spirit blocking the path to the true god. The Demiurge creates Divine and Infernal auras to thwart humanity’s attempts at true salvation, which is attained not by conventional religious means but by</div>
@@ -2826,8 +2780,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Finally, and most intriguingly, there are those seek the greatest secret of all, that of apotheosis. They wish to transcend mortality and become as gods, just as many heroes in classical myth were able to eventually cast off their flesh and become deities. Whether this is actually possible, or just a terrible snare of the Devil to lure souls to damnation, is a matter of considerable dispute, but rumors persist that magicians have, in fact, accomplished this, and by being worshiped and venerated, and through the rigorous pursuit of their own way, have finally, after demanding rites, been able to ascend to godhood. If it can be done, few have achieved it, and they are not sharing the secret.</div>
 
 <h3>Gnosticism and Theurgy</h3>
-
-</div sidebars>
 
 <div>of Power and have the effects boost his Casting Score. The actual name, spoken out loud, is a required trigger for such an effect.</div>
 <div>To benefit from Name of Power effects, the magus chooses one or more Name effects instilled in his talisman, casts the spell in a firm or loud voice and includes the triggering names in the spellcasting. He may apply a Name of Power effect to the Casting Score of any spell (Spontaneous, Formulaic, or Ritual) that matches the scope of the Name of Power. Add the total bonus of triggered effects to the caster’s Casting Score, limited by his Magic Theory score.</div>
@@ -3034,8 +2986,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>Finding and Binding a Daimon</h4>
 
 <div>A magus who seeks a Daimon familiar must research a likely Daimon, deter</div>
-
-<div sidebars>
 <div>Daimons and similar unique powerful spirits have a special power of creating an Aspect. The Aspect is a fraction of the whole spirit sent into the mortal world to interact temporarily with others, while the core of the spirit remains in its place of power, such as the Hall of Heroes.</div>
 <div>Each Aspect is like an independent spirit that can be created or allowed to lapse in an instant. Each starts without wounds, and with its own pool of Might points (Daimons are untiring spirits, and do not have fatigue levels). The Daimon may have powers that are limited in uses per day (for example, an ascended magus’s talisman enchantments), and each Aspect counts these separately. An Aspect does not recover wounds or Might points used while on Earth, rather it is eventually dispelled and later replaced by another Aspect.</div>
 <div>There is no fixed limit to the endurance of an Aspect, but they only remain while they are conscious and have Might remaining.</div>
@@ -3045,8 +2995,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>If the Daimon is encountered in its place of power, outside the world, then this is its one true form, and no Aspect of it may appear in that place – except when returning to the place to merge with the true spirit. Daimons frequently encounter other Daimons and spirits in their true places, but almost never encounter mortals. It may even be that the Hall of Heroes is beyond the Lunar Sphere, which might explain why magi cannot find it.</div>
 
 <h3>The Daimonic Aspect</h3>
-
-</div sidebars>
 
 <div>mine its abilities as they are understood by magi (including determining whether they are in sympathy with his magic), learn as much as he can of its name, history, past life (if any), its beliefs and habits — and whether it is likely to respond well to the suggestion of bonding itself to a magus. (As a rule of thumb, if the (Technique + Form) proposed for the bond is less than 2 x Might, it is likely to reject the magus as not worthy.) (Consult Appendix C: Mysterious Beings for examples of Daimon powers and characteristics.)</div>
 <div>If the magus judges it a good match, then he may invent a version of the Invoke the Pact of (Daimon) ritual to summon this Daimon, and offer himself to it as ally. (Noting that use of Hermetic synthemata to compel attendance will not generate a favorable opinion.) Unlike the lesser spirits, summoning a Daimon is an acceptable means to initiate contact — indeed, essentially the only means.</div>
@@ -3864,8 +3812,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Mu(Pe)Vi(Te) 79 Pen +0, constant effect R: Touch, D: always on, T: Boundary, Mystery enchantment</div>
 <div>If a regio has an open boundary, so that any who see through may step into the regio, but the inhabitants desire to close this off, they may do so.</div>
 <div>This enchantment shrinks the interface of a regio (rather than the whole regio) until it falls below one pace across, when it pinches off and detaches from the adjacent regio level. (To shrink only the interface between levels adds 1 magnitude (equivalent to a Part Target) on top of the</div>
-
-<div sidebars>
 <div>The following guidelines can only be used in structural enchantments (not spells) of the Mystery Hermetic Architecture.</div>
 <div>Creo Vim Level 35: Increase the level of a Magical</div>
 <div>aura by +1 to a maximum of 1 Level 40: Increase the level of a Magical</div>
@@ -3885,8 +3831,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>two levels of a single Magical regio. (Muto requisite). To connect between regio levels usually requires Arcane Range and an Arcane Connection for each regio level.</div>
 
 <h3>New Aura Magic Guidelines</h3>
-
-</div sidebars>
 
 <div>normal Size of the Target.) Any pre-existing gates remain active. There is no longer a path that can be walked between the two levels, nor can anyone see between regiones by any of the normal means — to cross from an adjacent regio level now requires an Arcane Connection and a transportation spell.</div>
 <div>The base level enchantment to halve the size of a regio is 4, but for extra shrinking, the magus also needs a Perdo requisite and increased magnitude. To shrink a 100–pace diameter to below one pace, requires seven steps (halving seven times, divides by 128), so the base effect is level 35.</div>
@@ -3952,9 +3896,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The spell functions for the length of an actual dream of a sleeping individual. The spell ends if the dream ends, or the sleeper wakens. The dream can be natural or sustained magically.</div>
 <div>It is possible to bypass the waking end of a dream in various ways, such as passing through a portal into the imagination.</div>
 <div>Dream Duration is equivalent to Concentration.</div>
-<div>Magic in Dream The Stuff of Dreams</div>
-
-<div sidebars>
 <div>Spirit travelers find magic in dreams both strange and powerful, and governed by the Hermetic Form of Imaginem.</div>
 <div>Form: A spirit traveler in a dream casts a spell of any Form as an Imaginem spell. Spontaneous Imaginem magic can produce any effect: Use the guidelines for the Form that would apply in the real world, but use the magus’s score in Imaginem ignoring other Forms. If a spirit-form magus knows a Formulaic spell of another Form, he casts it using his Imaginem score while within dreams.</div>
 <div>For example, Creo Ignem 10 “creates a fire doing +15 damage,” so Creo Imaginem 10 can create dream fire causing +15 dream damage; Rego Corpus 25 “transports the target instantly up to one league,” so Rego Imaginem 25 can transport a dream inhabitant or a dream traveler up to one league. A Muto Corpus (Animal) spell becomes Muto Imaginem — the Animal requisite also becomes Imaginem and is ignored. Duration: The Duration of spells cast in dreams is based on dream time, not the passage of time in the waking world. Magic Resistance: Form-based Magic Resistance uses the Imaginem Form exclusively (and the magus’s Parma Magica). Dream Rituals: Ritual Magic affecting the dream world can be cast spontaneously, without the magus know</div>
@@ -3965,6 +3906,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Rituals using real-world vis can use the real-world spell’s Technique and Form vis, or substitute Imaginem vis.</div>
 <div>Aura: The aura for magic worked inside a dream is all illusory, and is whatever the current setting demands, so a dream cathedral has a Divine aura, a dream world hell-pit is Infernal, and a dream world covenant is Magical.</div>
 <div>The aura around the traveler’s body is not relevant once inside dream.</div>
+<div>Magic in Dream The Stuff of Dreams</div>
+
+<div sidebars>
 <div>Dreams are qualitatively different from other mental states; while desire, sadness, or madness are clearly related to the humors as direct expressions of Mentem, the content of dreams is always the stuff of sensation, and therefore Imaginem. Hence to create, enter, or change a dream from outside one uses Mentem, but to enact changes within the dream one uses Imaginem.</div>
 </div sidebars>
 
@@ -4438,8 +4382,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>while a pure lion is worth the full six. Magically created or altered beasts are not acceptable (and would in any case be a waste of vis).</div>
 <div>Mercurian magi have worked long to resurrect the ancient sacrificial rites of the ancients, and this is a close as they have come yet.</div>
 <div>Note that sacrifice implies cooperation by the summoned spirit, so magics that force the spirit (such as True Names) sour the relationship, and spoil the altar for future use.</div>
-
-<div sidebars>
 <div>Mercurian magicians excel in Formulaic and Ritual Magic, and have developed an extensive range of Mastery Abilities. These Mastery Abilities were originally described in Houses of Hermes: True Lineages, but for convenience they are repeated here.</div>
 <div>These Mastery Abilities can be learned by any magus who studies with another who knows the ability — if a magus has studied with a maga who knows a particular special Mastery Ability, then any time the magus earns a level in Spell Mastery, he may opt to choose that special ability instead of those in ArM5.</div>
 <div>Most magi in the True Lineages prefer to share this specialized knowledge only with their apprentices, although their methods may be written down in books that anyone can read, and it is not impossible for a master to decide to teach a student with very similar goals and loyalties. However, most remain cult secrets, with the exception of Ceremonial Casting (detailed in Chapter 4: Curious Common Magics).</div>
@@ -4470,8 +4412,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This spell is less exhausting for the maga. If it is a Ritual, she loses normal Fatigue instead of long-term Fatigue when casting it, and half as many Fatigue levels, rounded up (but always at least 1). If it is formulaic, she never loses Fatigue levels because of a low casting total, even if the spell doesn’t succeed.</div>
 
 <h3>Cult of Mercury and Neo-Mercurian Spell Mastery Special Abilities</h3>
-
-</div sidebars>
 
 
 <h1>Chapter Fourteen Mystery Cults</h1>
@@ -4505,19 +4445,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>One of the early theorists of the new society was Joachim of Jerbiton, who in the course of his research not only discovered the doctrinal ideas that legitimized, in the cult’s eyes, the use of a pagan mystery (and also legitimized the whole Order’s use of Mercurian rites, and the basis of the Order in pagan magics, as being foreshadowing of the later Christian Truth), but also wrote extensively on the role of the original Mithraic cult in the Legions of Rome, where it was a cult favored by soldiers serving in the imperial armies.</div>
 <div>The modern Legion of Mithras knows very little about the ancient mystery,</div>
 <div>but avidly seeks such wisdom. Joachim claimed to have found an Initiatory manual that revealed many truths, including the Christianized rites of Mithras, devoid of any possible suspicion of infernalism. This book provides the basis of the modern Legion of Mithras, and is kept under lock and key in the secret Great Temple of the Order, where it may be accessed only by the current Father of the Legion.</div>
+
+<h3>The Legion Today</h3>
+
+<div>Today’s Legion maintains its role as an association of those who have served and are devoted to the protection of the Order of Hermes, although even those who have rarely performed Hoplite duties (as part of that group or on their own initiative) are welcomed if their loyalty, bravery, and honesty are matters of public repute. Outstanding moral qualities are required by the Legion; whereas Christianity accepts that all men are sinners, the Legion’s pagan roots emphasize extraordinary moral virtue rather than penitence, exuberant and heroic living over humble confession of guilt. This stress on great virtue leads to a tendency toward pride, overconfidence, and a rather black-and-white view of morality, with little patience for those who would indulge in morally ambiguous or deceptive behavior. The Legionnaires are not fools; they don disguise, and hide their purpose from those they are investigating or seeking to confront if such is required to fulfill their role, but they do their utmost to protect the innocent, and do nothing to hurt the Order they love, honor, and serve.</div>
 <div>Some whisper that this loyalty to the Order and idea of virtue can lead to Legionnaires who have no compunction about committing terrible atrocities or employing dubious means against known enemies and their associates, arguing that whatever is done to protect the security of the Order is justified, but perhaps those are merely the empty words of their enemies.</div>
 <div>While traditionally the ancient cult was restricted to men, the new form of the mystery takes into account the words of St. Paul in Galatians 3:28, that there</div>
 <div>is “neither male nor female in Christ,” and therefore the Legion accepts both male and female Initiates. Candidates for Initiation are chosen on account of demonstrating what is referred to as “heroic virtue,” that is the bravery, honesty, diligence, and loyalty one would expect of a truly noble person worthy of upholding a mighty task and honor. They must demonstrate they are able to withstand temptation, and that they will stand alongside their brethren in battle, obeying orders without question, yet always honoring their sacred duty to the Code and the Order. It is a rare Legionnaire who has not managed to gain a Reputation as “Devoted to the Order” or similar. Gaining such a reputation is the surest way to come to the Legion’s attention and to be approached by recruiters.</div>
 <div>The degrees of the Legion are referred to as ranks, and are derived from the ancient cult. A quasi-military command structure is enforced; lower ranks unquestioningly respond to the commands of higher Initiates. The system of secret signs and passes is well known within the cult, and all members are aware of the identity of the Legionnaires of the rank immediately above theirs, although they are not aware of the names of those higher in the chain of command. Temple functions maintain anonymity, with all symbolically garbed and masked, both mundanely and magically. It is rumored that Magvillus has a list of all members of the Legion, and chooses its Hoplites from this list in preference to all others, but Legionnaires are taught not to reveal their membership in the cult to Quaesitors, and there are many outside the Legion who wonder if the Legion’s claims of a close affiliation with the Quaesitores have any basis in fact. The truth is that no one except the Father of the Legion and the Primus of House Guernicus really know, and neither is speaking on this matter. Whether the Quaesitores as a group support or distrust the Legion, there are certainly Quaesitors within the structure of the Legion. As with most Mystery Cults, much is uncertain and up to the individual storyguide to decide what suits his saga.</div>
 <div>The size and scope of the Legion is also widely disputed. It is generally felt that the Legion is large, powerful, and</div>
-
-<div sidebars>
-
-<h3>The Legion Today</h3>
-
-<div>Today’s Legion maintains its role as an association of those who have served and are devoted to the protection of the Order of Hermes, although even those who have rarely performed Hoplite duties (as part of that group or on their own initiative) are welcomed if their loyalty, bravery, and honesty are matters of public repute. Outstanding moral qualities are required by the Legion; whereas Christianity accepts that all men are sinners, the Legion’s pagan roots emphasize extraordinary moral virtue rather than penitence, exuberant and heroic living over humble confession of guilt. This stress on great virtue leads to a tendency toward pride, overconfidence, and a rather black-and-white view of morality, with little patience for those who would indulge in morally ambiguous or deceptive behavior. The Legionnaires are not fools; they don disguise, and hide their purpose from those they are investigating or seeking to confront if such is required to fulfill their role, but they do their utmost to protect the innocent, and do nothing to hurt the Order they love, honor, and serve.</div>
-</div sidebars>
-
 <div>well ordered and has spread throughout every Tribunal, but because of the rank system, secrecy, and the Tribunalbased structure no one below the rank of Heliodromus can say for certain. Only very high-ranking members are invited to attend meetings at the Great Temple, the exact location of which is a closely guarded secret, but which legend places in a cavern somewhere in the Tribunal of the Greater Alps. Whether it is a potent and well-organized force of devoted Hoplites, or a small and informal association of mystae, no one can be certain. It could well be that the exact power and influence of the Legion varies from Tribunal to Tribunal; only the storyguide knows for sure. Whatever the truth, the Legion is talked about a great deal, and serves as a basis for many legends and rumors in the Order.</div>
 
 <h3>Structure of the Legion</h3>
@@ -4910,8 +4846,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 </div sidebars>
 
-
-<div sidebars>
 <div>The unchanging nature of the immortal means that while temporary changes are possible, they fade unless bound by magic. If a change is caused by a magical effect with a duration longer than Momentary, recovery or fading does not begin until the effect expires.</div>
 <div>As a guideline, once the cause ends, no unbound, temporary change lasts beyond a season — after a season all trace will have faded. If a whole season passes, then simply assume that wounds and scars fade completely — no die roll is needed.</div>
 
@@ -4983,8 +4917,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>20 Incapacitating Incapacitating Wound. Destroy or sever a limb.</div>
 <div>25 Incapacitating Leave a mindless husk.</div>
 <div>30 Dead Kill a person.</div>
-</div sidebars>
-
 
 <h2>Conversion</h2>
 

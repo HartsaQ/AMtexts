@@ -16,8 +16,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h2>Introduction</h2>
 
-
-<div sidebars>
 <div>Welcome to Grogs! In this book you will find a wealth of information and character ideas to bring life to that most overlooked and underused of characters — the grog. The first half of the book is devoted to telling stories about grogs, whether they are at the covenant, adventuring alone, or involved in stories with magi and companion characters. There is also a chapter devoted to the quick creation and maintenance of grog characters so that a troupe can support a fair number without being burdened with their upkeep. The second half of the book consists of a large number of character concepts to bring life to your turb. Each is presented with a number of character options, including at least one new General or Supernatural Flaw to make grog characters more interesting. Every character concept has</div>
 <div>a handful of story ideas, including at least one explaining why such a grog might join up with a covenant.</div>
 
@@ -30,6 +28,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>There are various origin stories for the term “grog,” which seems to be a word coined by the Order of Hermes. The most commonly held opinion is that it has its origins at Arae Flaviae, the first multi-House covenant. At this covenant, the men and women who accompanied the magi when they journeyed from home were called viri gregis (meaning “men of the band,” singular vir gregis). This became corrupted, so the story goes, by a hard-of-hearing captain and the nonLatin speaking covenfolk into “grog.” The term was spread around the Order through the liber gregis (see insert). Other terms entered the Hermetic vernacular at the same time: turb, custos, and consors.</div>
 <div>Turb</div>
 <div>The turb is a term used to refer to the fighting force of a covenant, the sum total of its warriors. Some put the origin of the word with the same captain that gave the Order “grog,” who shortened the Latin contubernium (meaning a squad of eight legionaries who shared a tent and cooking fire). The word has become conflated with turba, meaning “mob;” and this has become the word most commonly used in the modern Order of Hermes to describe its soldiers.</div>
+
+<div sidebars>
 
 <h3>The Liber Gregis</h3>
 
@@ -87,8 +87,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>covenants require a dedicated person in this role. Large covenants may grant the chamberlain a personal staff of officials: one in charge of the food, another in control of the clothing, another overseeing the craftsmen, and so forth (see “A Noble Household,” later). Governing the servants of a covenant is covered by the Profession: Chamberlain Ability, and chamberlains are usually treated as specialists. Although it is not absolutely necessary, most chamberlains can read</div>
 <div>and write and know basic arithmetic (all covered by the Artes Liberales Ability); this permits them to keep the covenant accounts, and a schedule for planning the harvests and other seasonal events, and to learn from the covenant rolls (see insert). A conscientious chamberlain can improve the overall attitude of the servants in the face of The Gift, by acting as an intermediary between the magi and the servants. The chamberlain mediates the effects of The Gift</div>
 
-<div sidebars>
-
 <h3>The Covenant Rolls</h3>
 
 <div>The covenant rolls are the records of the accounts from previous years, and are an invaluable aid to the chamberlain. He can consult the rolls of previous years to plan ahead for the coming season, and if they are of sufficient age, the rolls allow him to make predictions for the harvest. The rolls serve as a summa for the Profession: Chamberlain Ability, typically with a Quality of 6. The Level starts at 2, but increases by 1 for every two decades of the covenant’s existence. A character could, in theory, learn the whole job of a chamberlain from reading the rolls of an old covenant. The rolls are also usually a tractatus of Area Lore: Covenant, of Quality 6. However, if chamberlains have made a habit of using the rolls as a diary, these tractatus build into an encyclopedia of Area Lore: Covenant. Every decade, a new volume is added to the encyclopedia, and every five volumes comprise a new tractatus of Quality 6 (for more on encyclopedias, see Art & Academe, page 27). A chamberlain cannot learn from the material he has personally contributed to the covenant rolls, so gets no benefit from any level increases during his tenure. If removed from the covenant, the rolls constitute an Arcane Con</div>
@@ -96,8 +94,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>rolls as a personal diary as well as an accounts book. They are of potential interest to an enemy, since the rolls might have all sorts of details about the covenant that could be exploited, such as a record of the building of secret passages, locations of vis sources, and special requirements of the magi. It is quite possible that the magi are totally unaware of the existence of the covenant rolls, and may be horrified at the level of detail innocently added by chamberlains over the years.</div>
 <div>Story Seed: Undercover Accounts</div>
 <div>The covenant rolls go missing, and the chamberlain places the player characters in charge of finding them again. This must be done without the magi discovering what they are doing, since the rolls contain all sorts of embarrassing observations about the magi made by the former (or current) chamberlain, and perhaps even secrets about the covenant itself. The location of the missing rolls could be innocent (the parchment-maker has scraped them clean, not realizing their importance) or potentially damaging (an enemy agent has taken them).</div>
-</div sidebars>
-
 <div>and boosts the Prevailing Loyalty of the covenfolk (Covenants, page 38, and Chapter 4 of this book). However, the chamberlain could just as easily poison the minds of his staff against the magi, and can reduce the Prevailing Loyalty instead of increasing it. Magi are usually careful to choose a trustworthy individual as their chamberlain, and to keep him happy. The chamberlain often has to contend with the personal servants of the magi, who seek to reserve particular resources or services for their masters that are needed elsewhere. These personal servants often treat the chamberlain as an equal rather than a superior, and in some covenants this is explicitly permitted. This is a very good way to alienate the chamberlain.</div>
 
 <h3>Specialists</h3>
@@ -122,8 +118,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>by specialist craftsmen. In most covenants, the role of steward is not subordinate to the specialists (although he himself may be treated as one); he must marshal the resources of the specialists so that they provide the services demanded by the magi, and he is responsible for discipline. The role of</div>
 <div>steward is governed by the Profession: Steward Ability, and they often have the Leadership Ability in addition. A good steward ameliorates the effects that The Gift has on the covenant’s specialists by ensuring that the magi are aware of the contributions of their skilled covenfolk, and suggesting</div>
 
-<div sidebars>
-
 <h3>Troop Types</h3>
 
 <div>Those who perform military service, either as conscripts or as volunteers, are usually trained so that they can serve in certain military units, rather than given an overall education in many different weapons and Martial Abilities. The most common troop types in Mythic Europe are described in this insert.</div>
@@ -132,8 +126,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>metal scale — and armed with long swords or maces, and round shields. The heavy infantry usually composes the greater part of an army; cavalry units can only be overcome with weight of numbers or with missile fire. Javeliners: Where longbows are not employed, the javelin is the principle missile unit. Javeliners are occasionally skirmish units, but are usually combined with standard infantry. Mounted Infantry: These are units that ride to battle and then dismount to fight; this tactic does not risk valuable horses, and lends superior mobility to the otherwise slow-maneuvering heavy infantry. Pikemen: These troops employ the long spear in a “hedgehog” formation of densely-packed men. These troops are commonly urban militia or peasant levies, but the Scots, the Flemish, the Swabians, and the Bavarians specialize in this unit type. The length of the weapon prevents men-at-arms from engaging, and can effectively break up a cavalry charge. Skirmishers: Light infantry armed with javelins, slings, short swords, or spears, and sometimes light shields. Skirmisher units are lightly armored to provide battlefield mobility, and are usually used to harry the enemy from the flanks or defend the heavy infantry.</div>
 <div>Cavalry</div>
 <div>Heavy Cavalry: The preeminent military force in the 13th century, knights are employed as shock troops at the beginning of combat. Lances are used for the initial charge, and the knights then switch to long swords, maces, or mace-and-chain. Chain mail is almost ubiquitous. Further from the heartland of Mythic Europe, conscripted heavy cavalry troops are employed in the Byzantine armies (the famed kataphractoi), and by the Bulgarians, Lithuanians, and Russians. Light Cavalry: Deployed principally in scouting, communication, and reconnaissance roles, and to join battle with enemy reconnaissance units. Light cavalry use swift horses and light armor, and usually carry spears or long swords. Occasionally, they carry missile weapons. Lancers: More lightly armored than the heavy cavalry, yet armed with long spears and used to support infantry in the absence of other cavalry units. Mounted Archers: Employed in Roman times but since then have lost favor; however, mounted archers are common in the east of Mythic Europe.</div>
-</div sidebars>
-
 <div>occasional rewards or singling out particular individuals for praise (Covenants, page 38). Much like the chamberlain, a poorly-treated or overworked steward may have the reverse effect, causing the covenfolk’s reaction to The Gift be heightened, and encourage disloyalty and rebellion. Rivalry between the steward and the chamberlain is quite common. Some covenants explicitly place the chamberlain as a specialist under the command of the steward, whereas others make them equals. Both branches of the covenant’s covenfolk perform important functions, but each branch chief elevates the importance of his staff over that of the other branch. This rivalry can seethe beneath the surface for many generations of covenfolk, while the magi remain blissfully ignorant of it, since it rarely impinges on their sphere of interest. The “Organization” section later in this chapter presents some ideas as to how such rivalries can generate stories. Many covenants avoid this potential rivalry through an autocrat who plays both roles (see insert).</div>
 
 <h3>Soldiers</h3>
@@ -277,8 +269,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>A soldier’s time is divided into three periods: duty (or watch duty), off-duty, and free time. He actively guards the covenant when on duty, does other jobs around the covenant when off duty, and has self-governed time to himself (usually reserved for sleeping) when free. The turb is usually divided into two patrols (the day and night patrols), of roughly equal size. Both patrols pull a duty during the day and the night, but the day patrol has its off-duty during the day and sleeps at night, whereas the night patrol sleeps during the day and has its off-duty during the night. The two</div>
 
-<div sidebars>
-
 <h3>Watch Patterns</h3>
 
 <div>It is sometimes necessary to know what patrols certain members of the turb are assigned to at any one time. The following charts should help; randomly determine what patrol (night or day) and watch (first to fourth) a character is in, then cross-reference the time to determine the type of duty. You may instead wish to divide all soldiers into watches ahead of time, so that when an event occurs, you can randomly determine which of the watches is on duty, letting you know which grogs have to deal with that event first.</div>
@@ -288,8 +278,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Double Duty</div>
 <div>The grogs are divided into two double-watches; as before, the day and night patrols have different assignments when not on duty. One half of the covenant’s grogs is combat ready, and another quarter can quickly support them; the remaining quarter is asleep.</div>
 <div>Shift 1st and 2nd 3rd and 4th  watches (night/day) watches (night/day) Eventide Duty Off / Free Nighttide Duty Off / Free Midnight Off / Free Duty Foredawn Off / Free Duty Morntide Duty Free / Off Forenoon Duty Free / Off Afternoon Free / Off Duty Foredusk Free / Off Duty</div>
-</div sidebars>
-
 <div>patrols swap duties periodically, so that the day patrol becomes the night patrol and vice versa. This typically occurs every one to three months. A patrol may be split further into different areas of the covenant, so that each patrol might consist of a wall patrol, a gate patrol, a keep patrol, and so forth. However, an individual might not perform the same service in each of his duties: on one duty, he might be on wall guard, and on his next duty, he may be patrolling the tower or the forest. The liber gregis suggests that a minimum of two grogs constitute each sub-patrol if possible. The turb captain is responsible for keeping track of the duties and patrols, but a sergeant usually issues orders and assignments to the men. The grog’s mess hall usually has a peg board, letting a grog know where and when, and with whom, he is on duty. Each column on the board indicates a different patrol, and a grog finds his mark on the side of the board and reads across to discover what patrol he’s been assigned.</div>
 <div>The Watches</div>
 <div>The liber gregis sets out the expected pattern of sentry duty, both on expedition and while stationed at the covenant, and the system it adopts is broadly based on the Roman model. The 24 hours of the day are divided into eight watches of three hours each: four day watches and four night watches.</div>
@@ -653,12 +641,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>A noble household is perhaps the closest model of a “typical” covenant, and a saga based around a nobleman and his entourage is essentially Ars Magica with the magi removed. Apart from those stories which relate direct</div>
 
-<div sidebars>
-
 <h3>A Mercenary-Based Saga: The Monjoie Company</h3>
 
 <div>Until 70 years ago, the Monjoie Company was just a normal mercenary band, with moderate local fame and a relatively steady employment. Then, in 1153, they were hired by a magus of House Guernicus, whose grogs had all been slain and who needed warriors quickly before his quarry escaped him. The Monjoie Company was successful in catching the renegade magus, and the satisfied quaesitor hired them again. Their fame soon spread throughout the Order of Hermes, and the Monjoie Company now works exclusively for Hermetic clients, and has grown to number more than 150 men. The Monjoie Company has several contact houses covering most of the western tribunals. They do not ever learn the true names of their employers, but instead refer to their clients by the names of one of Charlemagne’s Twelve Paladins — the founder of the company, now dead, had a bit of a thing for the Song of Roland — so a magus might be known as Roland, Ogier,</div>
 <div>Ganelon, Turpin, and so forth. The conditions of hire imposed by the Company are that they are always accompanied by a magus, and that there is full disclosure on the nature of the mission. The local captains retain the right to refuse a commission, but the work is sufficiently lucrative to make this rare. They accept payment in coin and vis; the latter is traded with the venditores of House Verditius in exchange for enchanted items. The player characters constitute a regional band of the company, under the control of a captain. These bands usually number around 20 men, and each player takes on one or more of the grogs. The player characters might find themselves fighting hordes of revenants with a Donator Requietis Aeternae (Houses of Hermes: Societates, page 115), and then next season cornering a dragon with a member of House Tremere, followed a year later by tracking down diabolist magi with a Flambeau. It is certainly likely to be an action-packed saga!</div>
+
+<div sidebars>
 
 <h3>A Noble Saga: A Quiet Place in the Country</h3>
 
@@ -1302,14 +1290,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Forager</div>
 <div>Someone used to relying on the land to supplement his diet would employ this package.</div>
 
-<div sidebars>
-
 <h3>Combat Statistics</h3>
 
 <div>It is often tedious to calculate combat statistics for a grog. The following table has pre-calculated combat statistics for common weapons, with the following assumptions: the character has a 5 in the appropriate Ability with a specialty in the weapon indicated; the character has a Dexterity and Quickness of 0, a Strength of 0 or equal to the minimum Strength required for the weapon (whichever is greater); and the character has zero encumbrance. It is a quick job to apply the appropriate Characteristics to the combat totals and subtract encumbrance from Initiative.</div>
 <div>Weapon Ability Initiative	 Attack	 Defense	 Damage	 Load Dagger Brawl 0 +8 +6 +3 0 Bludgeon Brawl 0 +8 +6 +2 1 Axe & Buckler Shield Single +1 +10 +6 +6 2 Short Spear & Buckler Shield Single +2 +8 +7 +5 2 Short Sword & Round Shield Single +1 +9 +9 +5 3 Long Sword & Heater Shield Single +2 +10 +10 +6 3 Mace & Heater Shield Single +1 +9 +9 +8 4 Great Sword Great +2 +11 +8 +10 2 Staff Great +2 +9 +9 +2 2 Warhammer Great 0 +12 +6 +14 3 Pole Arm Great +3 +10 +7 +8 2 Sling & Buckler Shield	 Thrown –3 +7 +7 +4 1 Javelin & Round Shield Thrown 0 +8 +8 +5 3 Short Bow Bow –1 +9 +6 +6 2</div>
-</div sidebars>
-
 <div>Three Years: +15 Area Lore, +15 Hunt, +15 Survival</div>
 <div>Leader</div>
 <div>This is suitable for anyone in a position of authority.</div>
@@ -1409,8 +1393,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Careless with (Ability)</div>
 <div>Minor, General The character is particularly reckless when it comes to a particular Ability, chosen when this Virtue is taken. This Ability should be one that is important to the character, or the troupe may veto the choice of this Flaw. When she fails, she does so dramatically. Whenever she rolls a zero when using the Ability, that zero is</div>
 
-<div sidebars>
-
 <h3>Summary of New Flaws</h3>
 
 <div>Major, Personality</div>
@@ -1428,8 +1410,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Manifest Sin Necessary (Realm) Aura  for (Ability) (Realm) Stigmatic Susceptible to Warping Viaticarus Warped by Magic</div>
 <div>Minor, General</div>
 <div>Careless with (Ability) Craving for Travel Curse of Slander Devoted Parent / Child Fish Out of Water (Terrain) Flashbacks Hallucinations Independent Craftsman Jinxed Lingering Injury Master of None Night Terrors Poor Living Conditions Primitive Equipment Raised in the Gutter Restricted Learning Rolling Stone Savantism Sleep Disorder Stuck in His Ways Uncertain Faith Uncontrollable Strength Uninspirational Unlucky Unspecialized Worthless Abilities</div>
-</div sidebars>
-
 <div>treated as a botch. She may need to roll extra botch dice depending on the circumstances, but she always suffer the effects of at least a single botch. This Flaw may be taken more than once; each time, it applies to a different Ability.</div>
 <div>Companion Animal</div>
 <div>Minor, Social Status, animals only The character is the Animal Companion of another character (either a player character or a storyguide character) and therefore has little control over his own life. He is largely dependent on his master for food and shelter, and has an additional Personality Trait of “Loyal to Master” which represents this bond. Among people who know his master, the character is treated better than he would be, perhaps as that person’s pet or bodyguard. Others most likely treat him as a brute or a dumb beast.</div>
@@ -1587,8 +1567,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Personality Traits & Reputation</div>
 <div>The ideal Advisor is Loyal above all else, and must be Dependable. His third trait is more open to choice: he could be Analytical, a Perfectionist, or be gifted with a Wry Humor. Regardless, the Advisor is most likely a long-suffering companion tasked with providing the answer his master needs at just the right time, and the Personality Traits earlier help reinforce that outlook. As he continues in service, he may gain his own reputation, separate from his master. This is especially true where he is tasked with looking after a young, inexperienced magus prone to mistakes.</div>
 
-<div sidebars>
-
 <h3>Advisor Story Seeds</h3>
 
 <div>The following story seeds use the Advisor as a hook into situations that the magi and their companions must resolve.</div>
@@ -1599,8 +1577,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>man’s reasoning and examining his information proves it: that trouble with the Church was stirred up by a Tytalus known to the covenant. How had this young man spotted what is now so obvious when all the magi of the covenant failed? What are they going to do with their unexpected benefactor? And what are they going to do about the Tytalus? Their new Advisor may have an idea …</div>
 <div>Espionage</div>
 <div>The Advisor has gone missing. He was not seen to leave, and both his chamber and office have been magically cleansed of any Arcane Connections to him. A week later, a redcap inquires after him, and then reveals that she may have seen him, fleetingly, at another covenant. She got a sense that she’d seen something she shouldn’t have. Did this other covenant steal him away? How and why?</div>
-</div sidebars>
-
 
 <h3>Grogs Advisor as Companion</h3>
 
@@ -1628,8 +1604,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>the expert infantry. On the rare occasion that an Almogavar fights on horseback, he braces his spear in his stirrup, aiming to strike the enemy’s mount. They exploit the terrain to their best advantage, even preparing the battlefield by wetting the ground or scattering sharp stones. Stealth and surprise are also favored tactics, and they often attack at night and set up ambushes. Almogavars are also known to employ fear and awe to frighten an enemy and weaken their morale. Facing a foe before battle, they strike their weapons against rocks to create sparks as they howl a chant to “Awake the Iron.” Alongside magi, Almogavars quickly adapt to the use of magic in battle. Their irregular and inventive tactics blend well with the many un</div>
 <div>usual and unexpected applications of wizardry. If a magus has no combat experience, they may suggest ideas for him. Magic could be used to alter the terrain, set traps, or frighten and disorient the enemy. Even an experienced martial magus can benefit from their experience, and they can advise them as how to best target their spells. However, once they gain familiarity with the supernatural and learn the limits of magic, they might be able to devise strategies that can defeat a magus. Recruiting Almogavars can be done through a companion or some agent, and some magi have contacts of their own. It is easy to find common rabble willing to sell their sword arms. The hard part is finding soldiers</div>
 
-<div sidebars>
-
 <h3>Almogavar Story Seeds</h3>
 
 <div>These story seeds can bring Almogavars into the saga.</div>
@@ -1639,8 +1613,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The Strange Soldiers</div>
 <div>The covenant employs a company of Almogavars that is an odd band of outcasts and outsiders. One is a Berber who deserted the Almohade</div>
 <div>army; their big bruiser is Jewish; and their stoic leader is secretly a woman. One veteran soldier named Carlos is stranger than the rest, for he unknowingly possesses The Gift. His fellows have known him many years, and don’t think he is any stranger than they are. They just think he is just socially awkward with new people, and are amused by his difficulty with animals. But they recognize his ability to sense danger and perceive hidden threats, a trait for which they praise him, and attribute to wisdom and experience. Carlos’ Gift grants the Supernatural Virtue of Premonitions. He would make a fine apprentice for an adventurous magus, but an adult apprentice presents special challenges, and Carlos is stubborn and set in his ways. As a further complication, perhaps his Gift is first discovered by a visiting magus. Carlos refuses to separate from his fellows, and the covenant risks violence against their guest or possibly losing their elite grogs to a rival covenant.</div>
-</div sidebars>
-
 <div>of skill and discipline willing to work with magi. The culture and code of the Almogavars make them an excellent fit. Though usually employed as a group, they can also be hired individually as specialists.</div>
 
 <h3>Character Creation</h3>
@@ -1800,8 +1772,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>A concept related to the Bull is the bulwark. The bulwark is a much more defensive fighter, more focused on holding the line than breaking it. This grog</div>
 <div>could serve as a defensive vanguard, or might even be a shield grog for a magus. This is done by avoiding any Flaws which make him prone to aggression, impulsiveness, or distraction from duty; he should definitely not take the Berserk Virtue. Consider adding Dutybound or Vow, concerning the protection of his master. Long Winded or Lightning Reflexes might be valued Virtues. For com</div>
 
-<div sidebars>
-
 <h3>Bull Story Seeds</h3>
 
 <div>The Bull is particularly prone to blundering into stories.</div>
@@ -1813,8 +1783,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>guage understood by the spirits. The next obstacles come once the Bull starts pilfering things to take home as souvenirs …</div>
 <div>Whipping into Shape</div>
 <div>A young man who until recently worked as a laborer at the covenant has been promoted to fighting grog. He has been in training for a short time, and shows great potential, or at least great strength and toughness. The grog leaders decide to bring him along on a mission to whip him into shape, since a routine matter of checking up on some loose threads from a previous event in a nearby village needs seeing to. But the grog not only lacks the discipline of most other grogs, he also has a knack of getting into, not trouble as such, but interesting situations. What could possibly go wrong here? Perhaps he is socially inept and offends someone the leaders need to talk to. Perhaps he derails the trip by practically tripping over something magical. In the end, the trip encounters obstacles of a manageable kind — providing much-needed lessons for the grog — as well as some totally unexpected windfall, like a vis find. Or possibly it yields the opening for another story, like discovering an infernalist circle, or a contested vis source.</div>
-</div sidebars>
-
 <div>bat abilities, replace Great Weapon with Single Weapon, and a shield is almost a must, as is heavy armor. Keeping the idea of the Bull, an alternative idea is to tone down the martial concept and relate his mentality and style to a manual laborer. Being a fully trained craftsman probably isn’t on the Bull’s cards, but there’s hard work that needs doing at every covenant. He could be the hulking porter or beefy well-digger making a fool of himself, or the person everyone teases playfully. But in the end he is a true buddy, loyal to his mates.</div>
 
 <h3>The Bull as Companion</h3>
@@ -1845,24 +1813,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Suggested Abilities</div>
 <div>Aside from knowledge of Latin, the Artes Liberales, the Church, and Theology, the Confessor relies upon</div>
 
-<div sidebars>
-
 <h3>The Practice of Confession</h3>
 
 <div>In the Christian tradition, as described in Realms of Power: The Divine Revised Edition, page 75, the supplicant confesses his sins to a priest, is absolved of those sins, and receives a penance to perform. The priest sets the penance as befits the sin. The character gains a temporary Confidence point that can be used to help him complete his penance, and until the penance is completed, there exists a holy connection between the character and his confessor. Every Christian character is expected to confess her sins at least once every year. See the Diocese chapter in the The Church supplement for more detail. As with Christianity, confession of one’s sins is integral to both Judaism and Islam. But unlike Christianity, confession is made directly to God, with no human intermediary. Those who have sinned are urged to pray and undertake penance. The two traditions also differ from Christianity and from each other, in other ways. The first ten days of the Jewish month of Tishri are spent seeking reconciliation with those whom Jews may have wronged. This is in preparation for the tenth day of Tishri, known as Yom Kippur, or</div>
 <div>the Day of Atonement. This day is set aside to atone for the sins of the previous year. Jews must fast on this day, taking no food or drink; refrain from working; and engage in prayer and other cleansing rituals. Followers of Islam may serve their penance by fasting for a period, but the act of seeking forgiveness from God or protection from sin is called Istighfar. This is founded on the idea that God alone knows the deeds and thoughts of the supplicant. Istighfar is always partnered with Tauba, or repentance, and no prayer for forgiveness or protection can be heartfelt without true repentance.</div>
 <div>Secular Confession</div>
 <div>The Confessor, as presented here, is a religious figure who steers the character away from a path of sin. But as neither Islam nor Judaism provide for anyone to intercede between the individual and their God, the Confessor role is instead a secular confidante or trusted advisor. The nature of the relationship may mean that a religious figure is still appropriate, but with no implied doctrine present.</div>
-</div sidebars>
-
 <div>his Folk Ken for gaining an intuition of what troubles his flock, Leadership to maintain his position as a pillar of the community, and various Lores for his village, the covenant, and the local area to keep abreast of all the current events.</div>
 <div>Training Packages</div>
 <div>The following training packages help to describe a typical Christian priest: Student (parish school),</div>
 <div>Churchman; Covenfolk, Local, Leader, Public Official. The Student training package is required to give the Confessor knowledge of Latin, key to his other Academic Abilities, but is generally not used more than once. The Covenfolk, Local, and Leader packages provide knowledge of and a connection to the Confessor’s parish. The Churchman package is the core package and should be taken at least once out of every three packages taken for this character.</div>
 <div>Sample Ability Scores</div>
 <div>The following Ability scores have been generated based on the suggested training packages earlier after taking a Mischievous Childhood package to describe the Confessor’s ill-spent younger years. The Abilities are appropriate for a Christian priest in the role of Confessor, but Islamic or Jewish characters will have a different focus, in addition to the extra 50 experience points they receive from their Educated Virtues.</div>
-
-<div sidebars>
 
 <h3>Confessor Story Seeds</h3>
 
@@ -1878,8 +1840,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>to feed their plague of evil. Villages and towns descend into anarchy under the influence of the demons inspired by the Confessor. As the magi follow their friend and confidante, they come face-to-face with their own sins, and must now explain their actions, once thought forgiven.</div>
 <div>The Manual of Confession</div>
 <div>A popular and influential magus, rumored to wield holy magic, comes to the covenant looking for material to help him with a tractatus he is writing. The book is a penitentiary, or a manual of confession, designed to help penitent and confessor alike to correctly identify their sins and the appropriate penance to be undertaken. While mundane manuals of confession derive penances for an individual based on the four humors, the seven sins, and the seven virtues, the magus is attempting to add the fifteen Hermetic Arts. Are the magi happy to have this magus poking around their sins, penances, and studies? What happens if his notes fall into the wrong hands? Come to that, as the magus visited a rival covenant the previous season, how can the magi get a look at his notes themselves?</div>
-</div sidebars>
-
 <div>Abilities at Age 25: Area Lore: Village 2 (personalities), Artes Liberales 2 (rhetoric), Brawl 2 (Fist), Charm 3 (first impressions), Civil and Canon Law 3 (local laws), Folk Ken 3 (magi), Guile 2 (keeping confessional secrets), Latin 4 (church ceremonies), Leadership 3 (inspiration), Living Language 5 (local dialect), Order of Hermes Lore 1 (practices), Organization Lore: Church 4 (own diocese), Organization Lore: Covenant 2 (personalities), Stealth 2 (hide), Theology 3 (biblical knowledge) Abilities at Age 40: Area Lore: Village 3 (personalities), Artes Liberales 3 (rhetoric), Brawl 2 (Fist), Charm 4 (first impressions), Civil and Canon Law 4 (local laws), Folk Ken 4 (magi), Guile 3 (keeping confessional secrets), Latin 4 (church ceremonies), Leadership 4 (inspiration), Living Language 5 (local dialect), Order of Hermes Lore 2 (practices), Organization Lore: Church 4 (own diocese), Organization Lore: Covenant 3 (personalities), Stealth 2 (hide), Theology 6 (biblical knowledge) Abilities at Age 55: Area Lore: Village 4 (personalities), Artes Liberales 3 (rhetoric), Brawl 2 (Fist), Charm 5 (first impressions), Civil and Canon Law 4 (local laws), Folk Ken 5 (magi), Guile 3 (keeping confessional secrets), Latin 5 (church ceremonies), Leadership 5 (inspiration), Living Language 5 (local dialect), Order of Hermes Lore 3 (practices), Organization Lore: Church 6 (own diocese), Organization Lore: Covenant 4 (personalities), Stealth 3 (hide), Theology 6 (biblical knowledge)</div>
 <div>Personality Traits</div>
 <div>If the Confessor has taken the new Uncertain Faith Flaw, he has a Personality Trait of the same name with a</div>
@@ -2012,8 +1972,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Craftsman companions are less likely to be tied to the covenant and</div>
 <div>may usually pursue their own goals, which means that progression into and through their craft guild is more likely. The City & Guild supplement provides a full treatment of playing through a guild career, for those with Craftsman characters.</div>
 
-<div sidebars>
-
 <h3>Craftsman Story Seeds</h3>
 
 <div>The following story seeds have a Craftsman at their heart, but they present challenges that magi and companions may face.</div>
@@ -2029,17 +1987,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The problem with covenants is that the strange often goes unnoticed. One of the magi searches the local area for signs of a Gifted child that he can take under his wing and train in the Hermetic Arts. He learns of a craftsman who suspects the abilities of his own apprentice, but this craftsman is worried that, should wizards hear tell of this, the youth will be taken away and subjected to unbearable hardship and unconscionable danger. The trail leads back to the covenant itself. Why has the craftsman really kept this from his masters? Does the magus take the Gifted apprentice? How do the craftsman and the other covenfolk react to this?</div>
 <div>The Knowledgeable Thatcher</div>
 <div>A humble thatcher approaches the magi with the aim of discussing and learning magic. The man is not Gifted and is not even educated, but he has been touched by magic. The thatcher explains that, while he is a simple craftsman, he is able to weave magic into the straw he uses. But he has ambitions greater than mere corn-dollies; he wants to enchant the thatch that is his daily trade, something that so far eludes him. Can the magi undertake research to help the man expand his power, or are there other Learned Magicians better suited? And where can they be found?</div>
-</div sidebars>
-
-
-<h1>Chapter 8 of the Art & Academe supplement provides rules for artists in Mythic Europe. Production Artists use their Craft Abilities, such as Craft: Stone Mason, Craft: Glazier, and Craft: Silversmith to produce works of art that have a value far beyond that of a mundane example of a craftsman’s work. This path opens up a whole new avenue for the Companion Craftsman, one which can take him into the richest and most volatile levels of society. It also opens up new rules for the creation of art and the acquisition of new benefits.</h1>
-
-
-<h3>Grogs</h3>
-
 <div>The Supernatural Craftsman</div>
 <div>A companion Craftsman has access to the Touched by (Realm) Major Supernatural Virtue, which in turn allows him to craft Wondrous Items (as per the rules in City & Guild, page 70). These enchanted items are more limited in scope than Hermetic enchantments, but they allow the companion to develop his own career and reputation as a craftsman of note. And as the character is unGifted, he or she may be more easily accepted in society, opening up opportunities not available to magi.</div>
 <div>Craftsman as Artist</div>
+<div>Chapter 8 of the Art & Academe supplement provides rules for artists in Mythic Europe. Production Artists use their Craft Abilities, such as Craft: Stone Mason, Craft: Glazier, and Craft: Silversmith to produce works of art that have a value far beyond that of a mundane example of a craftsman’s work. This path opens up a whole new avenue for the Companion Craftsman, one which can take him into the richest and most volatile levels of society. It also opens up new rules for the creation of art and the acquisition of new benefits.</div>
 <div>Suggested Virtues and Flaws</div>
 <div>Guild Craftsmen will want to look at the guild-related virtues and flaws in City & Guild, chapter 3. Those looking for a Supernatural Craftsmen should take the Touched by (Realm) Virtue presented in City & Guild, chapter 4. Production Artists are discussed in Art & Academe, chapter 8, and this includes new Virtues for the Maestro Mythic Companion character.</div>
 
@@ -2066,8 +2017,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Training Packages</div>
 <div>If an Ex-Prostitute joins a nunnery, she may be a Lay Sister. If she has traveled to a different town, she might pick up any career: Laborer, Craftswoman, and Servant are the most common, but</div>
 
-<div sidebars>
-
 <h3>Ex-Prostitute Story Seeds</h3>
 
 <div>Ex-Prostitutes can stir up many kinds of stories.</div>
@@ -2079,8 +2028,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The magi may be able to protect their covenfolk, but the women have a second patron Penitent prostitutes are guarded by Saint Mary Magdalene. Mary uses many of the tricks of medieval saints, like sending visions and nightmares, but is also particularly interventionist, and may cause shackles to fail, wounds to close, and faithful people to be mystically transported to safety.</div>
 <div>A Consternation of Faeries</div>
 <div>Fairies are attracted to people who are moving from one life stage to another, and this includes penitents. The possibility of repeated recidivism, where women cross and recross the boundary of what is socially acceptable, is attractive to some types of faeries. A community of penitent prostitutes may draw in sexual faeries like satyrs, who, unable to cross the Aegis, trouble nearby villages. Centaurs, representing the division between the bestial and cerebral natures of men, may be attracted to the community to redefine their roles into fully anthropomorphic shapes.</div>
-</div sidebars>
-
 <div>many professions are open to a young woman with a clean start and good luck.</div>
 <div>Sample Ability Scores</div>
 <div>Abilities at Age 16: Area Lore 2 (seedy districts), Athletics 2 (run</div>
@@ -2137,8 +2084,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Grogs have a limited number of slots open for Virtues and Flaws and so</div>
 
-<div sidebars>
-
 <h3>Failed Apprentice Story Seeds</h3>
 
 <div>The following story seeds originate with the Failed Apprentice and he certainly appears as a prominent character, but they are designed with magus and companion characters in mind.</div>
@@ -2153,8 +2098,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>An ancient magus, known to have visions and premonitions, tells the covenant that a powerful Gift may soon be born to the covenant. Deciphering his visions, the magi discern that the bookish Failed Apprentice is to be the father, and the mother is to be the somewhat robust cook, widow to the former turb captain. Can the magi bring these two together? Is love even within the power of the magi? Or will they need expert faerie assistance?</div>
 <div>A Mundane Master</div>
 <div>The old Failed Apprentice, finally tired of life at the covenant, leaves. Having taken minor orders and calling himself a clerk, he finds a position as an advisor on supernatural matters to a nearby noble. But then the old man sends word to his former covenant that the noble is a potential threat to them. How does the covenant investigate? And has the old man’s disloyalty already been discovered?</div>
-</div sidebars>
-
 <div>have a limited range of Supernatural Abilities open to them. Companions and Mythic Companions may take more of these. They may also take Story Flaws relating to the events, perhaps Plagued by Supernatural Entity, or even Dark Secret, in addition to a Magical Air.</div>
 
 <h3>The Farrier</h3>
@@ -2193,8 +2136,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Animal Handling 3 (horses), Area Lore 2 (local), Awareness 3 (animals), Bargain 3 (equine), Brawl 2 (grappling), Carouse 3 (stories), Craft: Blacksmith 3 (15) (horseshoes), Craft: Farrier 5 (15) (shoes), Native Lan</div>
 <div>guage 5 (peasants), Organization Lore: Farriers’ Guild 2 (regulations), Ride 3 (jumping), Swim 2 (diving). Abilities at Age 40 (Master): Animal Handling 5 (horses), Area Lore 4 (local), Awareness 4 (animals), Bargain 3 (equine), Brawl 3 (grappling), Carouse 3 (stories), Craft (Blacksmith) 5 (horseshoes), Craft: Farrier 6 (shoes), Guile 4 (fraud), Native Language 5 (peasants), Organization Lore: Farriers’ Guild 3 (regulations), Ride 3 (jumping), Swim 2 (diving).</div>
 
-<div sidebars>
-
 <h3>Farrier Story Seeds</h3>
 
 <div>These story seeds feature a Farrier as a central character.</div>
@@ -2206,8 +2147,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>up, and wants to leave. He offers to help the characters to steal the fastest faerie horses, and hamper the lord’s hunting party. However, the ensuing hunt is tricky, since the dark forest is still to a certain degree controlled by the faerie lord.</div>
 <div>A Pawn Saved is a Pawn Owned</div>
 <div>A maga is tasked with setting up a Mercer house at her covenant, in order to secure the best possible mounts for the Redcaps. The orders are clear, the task is rushed along, but the resources are lagging. The covenant lacks a great deal of the resources due to other pressing matters or vis shortages. However, the covenant has a Mythic Farrier in its service, and the maga sees great opportunities. Significantly, a lot of what she thought she needed magic and vis for can be done by this simple craftsman. Can he be convinced to do with his skills what might have needed Hermetic magic?</div>
-</div sidebars>
-
 
 <h3>Grogs Farrier as Companion</h3>
 
@@ -2233,8 +2172,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Suggested Abilities</div>
 <div>Just about any Ability suits this character concept, and he is likely possessed of a number of Abilities that are unusual ones for grogs to have, such as Etiquette or Artes Liberales. It is likely that he is a soldier at base, which would enhance his usefulness in a turb by being able to turn his hand to anything, in addition to being able to fight as part of the trained group.</div>
 
-<div sidebars>
-
 <h3>Jack-of-All-Trades Story Seeds</h3>
 
 <div>A Jack-of-All-Trades character can end up embroiled in just about any kind of story.</div>
@@ -2243,8 +2180,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>or extract information. Or maybe it is simply an accident.</div>
 <div>A Problem Shared is a Problem Inherited</div>
 <div>The player characters first come across a jinxed grog as he struggles with a wagon that has broken an axle and is blocking the road. The quickest way to get by is to assist the flustered individual to reload his cargo and help repair his employer’s wagon. However, the spilled load has angered a local faerie — perhaps it was a consignment of iron horseshoes for the local town — and the faerie is incapable of distinguishing the responsible individual (the grog) from those who help him (the player characters). Throughout the course of their shared misfortune, the grog proves himself to be resourceful, and since he is probably going to be out of a job anyway (he’s frightfully late with this cargo), he asks if there is perhaps a job for him with the player characters.</div>
-</div sidebars>
-
 <div>Training Packages</div>
 <div>The character is likely to have taken several three-year packages, representing flitting from job to job in the course of his career. Just about any package is possible. He probably has spent the most time in professions providing Martial Abilities.</div>
 <div>Sample Ability Scores</div>
@@ -2288,8 +2223,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>I know they say what I done was wrong, but I’d do it again, I would. An’ I’d look into ‘is eyes while doin’ it too.</div>
 <div>The covenants established and managed by magi of the Order seem to suspend some of the normal rules of the world around them. Whether by negotiated charter or the power to impose their will, covenants manage their own affairs within their own walls. And this de facto sanctuary attracts those that the outside world might dispose of, those like thieves and murderers.</div>
 
-<div sidebars>
-
 <h3>Misguided Mystic Story Seeds</h3>
 
 <div>A character who regularly misinterprets genuine signs of the supernatural is likely to complicate many stories, even when she doesn’t cause them.</div>
@@ -2298,8 +2231,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>to be tried as a witch. Should the characters step in to save her, then she will have no place in the town following her rescue, and her skills could prove useful at the covenant.</div>
 <div>Cry Wolf</div>
 <div>After a while, the magi grow used to the misguided mystic’s frequent and inaccurate predictions of doom. However, she suddenly acquires an infallible sense of the future, correctly predicting that the cook will spoil the dinner, that the chambermaid’s cat will be found in the chimney of the great hall, and that the seamstress is having an affair with the doorward. The magi might be interested in her new-found prophetic ability; could it be the stars, or the influence of faeries — or worse, demons — or something else? While they are investigating, she predicts that the covenant will burn, and an unspecified magus will perish in the blaze. Can this prediction be thwarted by discovering the source of the oracular knowledge?</div>
-</div sidebars>
-
 
 <h3>Grogs General Background</h3>
 
@@ -2424,8 +2355,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>area), Concentration 2 (reading), Etiquette 3 (Hermetic), Folk Ken 3 (magi), Intrigue 2 (rumormongering), Latin 5 (Hermetic usage), Leadership 1 (junior librarians), Living Language 5 (expansive vocabulary), Order of Hermes Lore 3 (personalities), Organization Lore: Former Covenant 3 (resources), Philosophiae 2 (natural philosophy), Profession: Librarian 4 (ensuring order), Profession: Scribe 3 (copying) Abilities at Age 45: Artes Liberales 4 (grammar), Charm 2 (first impressions), Civil and Canon Law 3 (laws and customs of a specific area), Concentration 3 (reading),</div>
 <div>Etiquette 3 (Hermetic), Folk Ken 3 (magi), Greek 3 (academic usage), Intrigue 3 (rumormongering), Latin 5 (Hermetic usage), Leadership 3 (junior librarians), Living Language 5 (expansive vocabulary), Order of Hermes Lore 3 (personalities), Organization Lore: Former Covenant 3 (resources), Organization Lore: Current Covenant 3 (customs), Philosophiae 3 (natural philosophy), Profession: Bookbinder 4 (academic), Profession: Librarian 5 (ensuring order), Profession: Scribe 4 (copying) Abilities at Age 60: Arabic 3 (academic usage), Artes Liberales 5 (grammar), Charm 3 (first im</div>
 
-<div sidebars>
-
 <h3>Refugee Librarian Story Seeds</h3>
 
 <div>This particular option has enormous potential for story. Covenfolk provide obvious witnesses to the events that befell a magus or a covenant, and their testimony could be troublesome to the guilty. The knowledge they bring with them also provides seeds into numerous treasure-hunting opportunities, as new vis sources, auras, and regiones are disclosed. And the prescient among the grogs may take such books and devices as they can before finally abandoning their home.</div>
@@ -2439,8 +2368,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>and vis sites have fallen to nobles as they build their estates. The magi seem not to have noticed the growing weight of troubles, but there are those who have lived through this before, many years ago. Only they can rouse the magi from their complacency and make them learn the mistakes of a former generation, and only they can save the covenant.</div>
 <div>A Covenant with No Magus</div>
 <div>When the last magus of a winter covenant dies, the covenfolk agree to continue operating the covenant as though nothing has changed. The covenant, after all, has mundane sources of income, enough land being farmed to feed the covenfolk, and more. The books in the library describe where the vis sites are and how the vis can be harvested, so a faux trade in vis is started with the visiting Redcaps, and secretaries to the old dead magus maintain his correspondences. And so the great deception begins. But what happens when the Order finds out?</div>
-</div sidebars>
-
 <div>pressions), Civil and Canon Law 3 (laws and customs of a specific area), Concentration 4 (reading), Etiquette 3 (Hermetic), Folk Ken 3 (magi), Greek 3 (academic usage), Hebrew 4 (mystic texts), Intrigue 3 (rumormongering), Latin 5 (Hermetic usage), Leadership 4 (junior librarians), Living Language 5 (expansive vocabulary), Order of Hermes Lore 3 (personalities), Organization Lore: Current Covenant 5 (customs), Organization Lore: Former Covenant 3 (resources), Philosophiae 4 (natural philosophy), Profession: Bookbinder 4 (academic), Profession: Librarian 5 (ensuring order), Profession: Scribe 4 (copying)</div>
 <div>Personality Traits</div>
 <div>Refugees who have been forced to leave a failed or destroyed covenant may retain a Loyal to Former Covenant Personality Trait, which comes into play when dealing with connections to their former covenant, such as other covenfolk, magi, or apprentices. This loyalty may work against the character, as there may be a perception of bias which his new colleagues may resent.</div>
@@ -2494,8 +2421,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Crime is an inescapable part of life, especially in the towns and cities of Mythic Europe. Several covenants</div>
 
-<div sidebars>
-
 <h3>Role-Bound Ferryman Story Seeds</h3>
 
 <div>In many ways, the Role-Bound grog is a story seed.</div>
@@ -2506,8 +2431,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>of binding devices to the living, or binding a living mind into a device. Can the covenant find their man before the Verditius experiments tear him from his boat?</div>
 <div>What Sorrows Have Bound This Man?</div>
 <div>Nobody has ever asked what binds the ferryman to his ferry, not really. Magi have wondered what magical force sustains him in all weathers, unchanging and unflinching. But nobody has ever wondered at the tragedy that turned him into the creature he is. Until now. An old text, written by a monk describing his journey through the region, has been found in a nearby church that tells of a man whose wife became lost and disappeared out on the marsh. The text describes how he waits for her to return. The text was written centuries ago, but the man it describes seems to be the ferryman. Do the magi search the text for clues? Do they find the ferryman’s wife and set him free from his curse?</div>
-</div sidebars>
-
 <div>across the Order, especially those in Tribunals where city life is fast becoming more common, have explicit connections with street gangs. In some cases, the connections run far deeper than the covenant would ever publicly admit to. Street gangs have several things to offer a covenant keen to maintain a presence within a city. Firstly, the gang, through its extended network of social contacts, can be an effective intelligence network. Information on the movement of specific targets can be tracked and fed back to the covenant; the mood of the city can be felt in the markets, taverns, and docks; and violence can be bought as easily as bread. The deeper the covenant goes with one or more street gangs, the more these can be used. Ultimately, the activities of a criminal network can be used as a source of income as described in Covenants, page 59. But covenants wanting to use a street gang will need a man on the inside. A contact. A Street Thug. The Street Thug is any member of the street gang with the sense to see the magi as an opportunity. He may be a lowly petty criminal, or someone with brains enough to be running the outfit. He will know the streets of his city and have social contacts all over. He’s not a thief in the manner of a cutpurse, confidence trickster, or palmist. He’s a thug. He’ll demand protection money in exchange for not burning down your workshop. He’ll work the girls along the waterfront. He’ll stab you in the legs and rob you while you’re bleeding. There’s nothing dashing or benign about him and he’ll probably hang one day. He is best suited to stories set within the town or city and can be used as an effective bodyguard, lookout, thief, or agitator. If the magi need a diversion to be created in the city, he’s the man to go to. And if they need someone roughed up a little, they need look no further.</div>
 <div>The Street Thug probably doesn’t live at the covenant, even if that covenant is based within the city walls. In fact, when the Street Thug does spend time at the covenant, he probably causes disruption and upset. But he’s a frequent visitor, coming to the kitchens to eat at his paymasters’ expense; badgering their steward for new boots, cloak, or unspecified expenses; or just to hide out while the heat is on.</div>
 
@@ -2533,8 +2456,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Personality Traits & Reputation</div>
 <div>The Street Thug has three Personality Traits. Rather than having true bravery, the Street Thug is Aggressive, an important distinction. And he is also Ruthless, prepared to commit crime, to hurt and harm others, and to betray those in his way. He’ll very rarely find himself as the vanguard in any combat group; while he’s aggressive enough to start the fight, he’s also ruthless enough to make sure other people get hurt first. But ultimately, the Street Thug is Pragmatic. This pragmatism is what draws the Street Thug to the magi and their covenant, and it is this pragmatism that stands in place of loyalty; he</div>
 
-<div sidebars>
-
 <h3>Street Thug Story Seeds</h3>
 
 <div>The story seeds that follow use the city streets as a backdrop, and the Street Thug himself either as part of the lead-in or as a tool to be used in the in the story resolution.</div>
@@ -2545,8 +2466,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>disruptive. The magi need to find a job for him to do. It’s either that or turn him into a tree for the next month. But as it happens, the magi have heard that a tax collector of ill repute is arriving in town in the next week, and the taxes he’s collected will be stored in the sheriff’s keep. There might be a way to keep the Street Thug occupied and make a little money after all.</div>
 <div>The Takeover</div>
 <div>The magi receive an interesting offer from the leader of a group of street thugs. He knows that the magi provide a little backup to his rival gang leader, but he can cut them in for bigger stakes if they’ll support him over their current associates. But this new face is harboring an Infernal secret, and the offer is a temptation to betrayal. The wheels are already in motion. Can the magi root out the demons before they take hold in the city, and can they stop the violence before it spins out of control?</div>
-</div sidebars>
-
 <div>can overlook their oddness if there’s money to be made and protection to be gained. An older Street Thug may have gained a reputation before being brought into the game, most likely among his underworld associates. This reputation might reflect a ruthless streak, or a the strength with which he runs his gang or holds his turf. If creating an older character from scratch, you might want to swap out one of his flaws for Infamous, which would give a bad reputation with a score of 4.</div>
 
 <h3>Street Thug as Companion</h3>
@@ -2570,8 +2489,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>These notes will help you create a Time-lost Witness character.</div>
 
-<div sidebars>
-
 <h3>Time-Lost Witnesses Story Seeds</h3>
 
 <div>The following story seeds use people from particular places and times, but can be easily adapted to refuges from other fallen civilizations or historical eras.</div>
@@ -2581,8 +2498,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>An Accidental Invasion</div>
 <div>Alarming reports have reached the town of an army that has forti</div>
 <div>fied a mountain pass slightly to the northwest. The invaders have made no demands, and beyond levying a toll on passing merchants, they appear to be doing little. Noblemen and magi skilled in military matters are likely to guess, correctly, that the invaders have formed a defensive position, and are sending scouts into the nearby territory. This force is acting like the beach-head for an invader, and so the region prepares for war. Characters who question the merchants who have paid a toll to pass the encamped army can gather some intelligence. The tax is in goods, and is requested from the merchants by a priest who speaks the local language. The priest says he is a captive of the invaders. The invaders speak Latin among themselves. Their camp is a wooden stockade with ditches around it. It has been laid out geometrically, like something from an ancient strategy manual. Magi may immediately assume this is a Hermetic plot. Only members of the Order have sufficient interest in the ancient empire to recreate a section of its military. The disruption this is causing is</div>
-</div sidebars>
-
 <div>Suggested Virtues and Flaws</div>
 <div>Time-lost characters can come from any era, and so can have a wide variety of Abilities, Virtues, and Flaws. As examples, this section uses Roman legionaries lost in a faerie wood, who re-emerge in 1220. These grogs require the Warrior Virtue, and must take the Worthless Abilities Flaw.</div>
 <div>Suggested Abilities</div>
@@ -2594,8 +2509,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Using Roman legionaries as examples, this set of Abilities requires the Warrior Virtue:</div>
 <div>Abilities at Age 21: Animal Handling 1 (pack animals), Athletics 3 (marching), Awareness 3 (in battle), Bargain 1 (drink), Brawl 3 (grappling), Carouse 2 (looking sober), Etiquette 1 (military), Latin 5 (cursing), Profession: Legionary 3 (not getting caught), Organization Law: Roman Army</div>
 
-<div sidebars>
-
 <h3>Time-Lost Witnesses Story Seeds (cont’d)</h3>
 
 <div>enough to make it a High Crime. The magi might instead assume this is an elaborate faerie game, since a significant occasion has recently passed. In truth, the significant day weakened the barriers between Faerie and the real world, allowing this group to escape. The Roman commander, noticing a sudden change in landforms, has encamped his eighty men in a well-defended position where they can get water from a stream. They have some supplies, which are extended by foraging and taxing passing traders. He is sending out scouts to get the lay of the land. Following this, he is going to march toward the largest city, to re-establish his connection with the army’s command structure. This will be met, by the confused locals, as if it were an invasion. Player characters can most easily intervene in this scenario by capturing and then negotiating with one of the Roman scouts. The Roman commander, if convinced the empire is gone, may wish to use his force to conquer a significant town, to supply his army and act as the kernel of a new empire. He may seek out the Emperor of Nicaea, to offer the</div>
@@ -2603,8 +2516,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Confused Faeries</div>
 <div>Faeries love games involving social roles. The return of a character central to a great tragedy can allow them to play interesting games. In 1120, William Adelin, the only legitimate son of Henry I of England, vanished during a shipwreck. He was considered dead and, after his death, the realm fell into anarchy as his cousin and sister fought for dominance. Following this turbulence, a line of sacramentallycrowned kings continued until the incumbent king. Henry III has not been crowned king of England in the correct way. His father lost the Crown Jewels during his wars with the nobility. At his father’s death, Henry was hastily crowned with a piece of his mother’s jewelry, by the Bishop of Gloucester. The Archbishop of Canterbury, who has the right and duty to crown the king, was supporting Louis of France, who had invaded England and held</div>
 <div>London. Even the Pope says that Henry has not been crowned properly — there is no King of England, in a mystical sense. This makes William Adelin the perfect pawn in a rags-to-riches story, but few faeries have the power to make kings anymore. What happens instead is that many faerie princes treat him as if he were King of England. They send him weird gifts, and they ask for strange treaties. The magi who control access to William have many opportunities for profit, but must act carefully: every gift must be matched with a gift of equal value, from the distorted perspective of the faerie that sent it, and every agreement made must be upheld, in some contorted way. William’s shipload of servants and warriors has difficulty interacting with the modern world. They speak a variant of French which is understandable, if accented. They are an older sort of Norman, ruthless Christianized Vikings, whose society is built around territorial expansion and plunder. Their society can’t find victims in the rapidly urbanizing, heavily armed states of the 13th century.</div>
-</div sidebars>
-
 <div>3* (own legion), Survival 2 (in a group), Swim 2 (in armor), Single Weapon 5 (gladius), Thrown Weapon 4 (pilum) Abilities at Age 30: Animal Handling 1 (pack animals), Athletics 3 (marching), Awareness 3 (in battle), Bargain 1 (drink), Brawl 3 (grappling), Carouse 3 (looking sober), Etiquette 1 (military), Latin 5 (cursing), Profession: Legionary 5 (not getting caught), Organization Lore: Roman Army 3* (own legion), Survival 3 (in a group), Swim 2 (in armor), Single Weapon 6 (gladius), Teaching 3 (Single Weapon), Thrown Weapon 4 (pilum)</div>
 <div>* See the Worthless Ability Flaw, in Chapter 6.</div>
 

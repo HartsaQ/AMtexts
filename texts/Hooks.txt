@@ -13,13 +13,9 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter One Introduction</h1>
 
-
-<div sidebars>
 <div>Welcome to Hooks, an adventure supplement for Ars Magica Fifth Edition. The library of Ars Magica Fifth Edition supplements contains many exciting and intriguing story opportunities for your saga. However, it is sometimes difficult to provide a rationale, in play, that draws the player characters in these new story directions. This book, Hooks, provides your troupe with a set of short scenarios that each lure the player characters into new story opportunities. Each scenario is intended to introduce another supplement for Ars Magica Fifth Edition, and has been been written to</div>
 <div>only take a single session of play, although depending on your troupe the scenarios may actually take longer to resolve. There is nothing wrong with your troupe if this happens! The scenarios all offer suggestions as to how your troupe can extend the story in later play using the target supplement, but your troupe does not need to extend the scenarios if you do not want to. Playing these scenarios gives your troupe the chance to see whether you enjoy a certain sort of story, and a launchpad for more of the same if you do. If you don’t, the scenarios are perfectly playable as one-off adven</div>
 <div>tures either by themselves or as interludes in a larger saga. Some chapters refer to the rules and terminology of their target supplement (or other Ars Magica Fifth Edition books). If understanding these rules and terms are critical to using the chapter’s scenario a brief explanation is given in the text. Otherwise, these references are not directly relevant now, but may be relevant later if the troupe continues to explore the story possibilities in later play. Note that your troupe does not actually require the target supplements to play these scenarios; they are intended as tasters.</div>
-</div sidebars>
-
 
 <h3>Hooks The Scenarios</h3>
 
@@ -59,8 +55,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Two Birth Right</h1>
 
-
-<div sidebars>
 <div>A naked and screaming baby boy is held aloft by a pale woman, wearing a long white lace bridal gown, standing in a verdant forest clearing. The forestedge is crowded with a fantastic audience: rank centaurs, fecund satyrs, valiant knights. Even the gnarled trees closely observe this ritual held at the forest-heart. A moment of irritation flashes over the pale woman’s otherwise calm face as she carefully pries open the baby’s chubby, clenched fist and slips a tiny gold ring onto his finger. The baby falls asleep and the beautiful, pale woman smiles serenely once more, sliding a larger</div>
 <div>gold ring onto her own slender finger. The creatures watching from the forest-edge applaud and cheer the marriage. From among the joyful throng a band of faerie knights turn away and head out from the green forest-heart. Out toward the world of men...</div>
 
@@ -69,21 +63,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The beautiful pale woman is the faerie queen Blegen. She has a Sovereign Ward that means that she cannot leave her forested fa</div>
 <div>erie kingdom. However, Blegen is insatiably curious about the mundane world. Her plan is to marry the infant, first-born son of a local noble and then have her faerie knights assassinate the noble. Her baby husband will inherit his father’s lands and, due to his infancy, she will rule until his majority. This will expand her faerie kingdom to encompass the local lands of men, allowing her to “break” her Sovereign Ward and venture into the mortal world. Blegen’s plan has three phases:</div>
 <div>•	 Kidnap the baron’s baby son. •	 Marry the baron’s baby son. •	 Assassinate the baron.</div>
-</div sidebars>
-
 <div>When the scenario begins the first two phases are already complete. The important consequence of Blegen completing her plan, from the player characters’ per</div>
 <div>spective, is that the covenant is within (or very near) the noble fief she claims via her infant husband. Her suzerainty over the fief will cause it to develop a Faerie aura.</div>
 <div>This may interfere with the magi’s magic, vis sources, and so on. This story is a hook for the Realms of Power: Faerie book.</div>
-
-<div sidebars>
 
 <h3>Faerie Queen Blegen</h3>
 
 <div>Faerie Might: 20 (Herbam) Characteristics: Int +2, Per +1, Pre +2, Com 0, Str –1, Sta –1, Dex +1, Qik +1 Size: 0 Virtues and Flaws: Focus Power (forest queen), Increased Might; Faerie Sight, Faerie Speech, Humanoid Faerie, Personal Power (castle eyes); Narrowly Cognizant; Enemies (loyalists, Old Nanny), Proud, Sovereign Ward (faerie kingdom); Obsessed (outside faerie kingdom) Personality Traits: Proud +6 Reputations: Forest Queen (local) +5 Soak: –1 Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Pretenses: Area Lore: Local 4 (forest), Awareness 5 (castle eyes), Bargain 6 (mortal men), Charm 4 (mortal men), Etiquette 5 (courtly), Folk Ken 3 (nobles), Guile 4 (mortal men), Intrigue 6 (plotting), Leadership 5 (faeries), Magic Lore 1 (court wizards), Music 5 (harp), Organization Lore: Order of Hermes 1 (House Merinita), Penetration 5 (castle eyes), Ride 3 (faerie beasts), Stealth 1 (courts)</div>
 <div>Powers: Faerie Sight: This power allows the faerie to automatically distinguish mundane things from glamor, and to automatically identify another faerie’s glamor, and to automatically see an Arcane Connection (and know to whom it is an Arcane Connection, if that person is present). The faerie can also use faerie sight to determine the motives and goals of other faeries (Awareness + Perception roll against an Ease Factor equal to Might of other faerie / 5). See Realms of Power: Faerie, page 50 for more details. Faerie Speech: This power allows the faerie to duplicate the language spoken by her human audience. See Realms of Power: Faerie, page 50 for more details. Forest Queen, 1 point per magnitude of effect, Init –4, Herbam or Animal: The faerie queen can duplicate any Hermetic Herbam or Animal effect, up to level 25, that affects the forest, or its inhabitants. The power costs 1 point per magnitude of effect. Castle Eyes, 0 point, constant, Mentem: While the faerie</div>
 <div>queen is within her castle she is aware of everything happening within the castle. To determine whether she notices something make a Perception + Awareness roll against an Ease Factor of 9. If she is specifically looking for the thing, the Ease Factor is only 3. Mundane and magical attempts to hide from the faerie queen have no effect, but this power needs to Penetrate the Magic Resistance of those sensed. Equipment: Long lace dress, silver tiara, wedding ring. Vis: 4 pawns of Herbam vis in a wooden heart. Appearance: The faerie queen Blegen appears as a beautiful pale-skinned woman wearing a delicate silver tiara. Her voice is crisp and authoritative, and it is difficult to judge her apparent age: mid-thirties seems plausible. Blegen usually wears a dark-green, long, translucent, lace dress, but she sometimes changes the dress’ color. Her hair changes with the seasons: in spring it is short and white; in summer her hair is long, sleek, and golden; in autumn wild, twisted and red; finally, in winter it hangs in black ringlets.</div>
-</div sidebars>
-
 
 <h3>Changing Location</h3>
 
@@ -155,16 +143,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>If the player characters travel to the faerie court they find the faerie queen Blegen either in her castle awaiting the murder of Baron Frederick, or in the green forest clearing holding a feast to celebrate the murder and her ascension to her mundane title.</div>
 <div>•	 Most of the court faeries avoid the player characters. However, if questioned, they readily say that baby Marcus is in the Nursery, looked after by Old Nanny. The faeries are excited about the recent marriage between Blegen and Marcus, and (if Baron Freder</div>
 
-<div sidebars>
-
 <h3>Faerie Knights</h3>
 
 <div>Faerie Might: 5 (Corpus) Characteristics: Int 0, Per +1, Pre –2, Com –3, Str +2, Sta +3, Dex +2, Qik +2 Size: 0 Virtues and Flaws: Faerie Sight, Humanoid Faerie, Lesser Power; Passes for Human; Dutybound, Incognizant, Tradition Ward (garlic) Personality Traits: Brave +6, Chivalrous +3 Reputations: Knight (local) +4 Combat: Long Sword + Heater Shield: Init +4, Attack +14*, Defense +14*, Damage +8 * 	 Add +3 if mounted. Soak: +12 (Stamina + chain mail) Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Pretenses: Animal Handling 2 (horses), Area Lore: Local 2 (forest), Athletics 2 (running), Awareness 4 (weapons), Etiquette 3 (courtly), Leadership 3 (faerie knights), Single Weapon 7 (long sword), Speak Living Language: German 3 (courtly), Ride 3 (combat) Powers: Faerie Sight, see Blegen. Each of the four knights has one of the following powers. Javelin of Earth, 1 point, Init –4, Terram: The knight throws a javelin made of earth at</div>
 <div>his target. The javelin automatically hits and does +10 damage, but must Penetrate Magic Resistance to be effective. (Lesser Power; 25 spell levels)  (Base 3, +3 Sight, +1 Rego Requisite; +10 two intricacy points to reduce Might Cost) Flame Sword, 1 point, Init –4, Ignem: The knight’s sword is wreathed in flickering blue flames. This adds +6 to damage with the sword, and the blade can be used to start fires. (Lesser Power; 25 spell levels)  (Base 5, +1 Touch, +1 Diameter; +10 two intricacy points to reduce Might Cost) The Quaffing Knight, 0 points, Init –1, Aquam: This power vastly increases the alcohol content of wine or beer. The power can affect over 3,000 gallons — but has to be used multiple times to affect multiple vessels. (Lesser Power; 25 spell levels)  (Base 2, +1 Touch, +2 Sun, +1 size; +10 two intricacy points to reduce Might Cost, +5 increase Init) Fog of War, 4 points, Init –4, Auram: This power creates a bank of thick fog that covers an area of 16 acres (an area about 160 paces across). (Lesser Power; 25 spell levels)  (Base 3, +1 Touch, +3</div>
 <div>Moon, +1 size; +5 one intricacy point to reduce Might Cost) Equipment: Full chain armor, long sword, shield, warhorse. Vis: 1 pawn of Corpus vis (in sword). Appearance: The knights appear identical to the murdered knights of the baron. They are armored, carry swords, and ride the horses of the murdered knights.</div>
 <div>The speech of the knights is slurred and accented. This is because the faeries have concentrated their Pretenses in weapon skills rather than language — in fact, the faeries are marginally better swordsmen than the original mortals they are simulating. The unusual speech pattern of the faerie knights makes them sound slightly drunk. Apart from murdering and kidnapping for the faerie queen, the knights are dutybound to act in a chivalrous manner. However, being faeries, the knights are only simulating their chivalry, so a careful observer may notice something false. These knights are warded against with garlic. The knights cannot touch or harm a target carrying garlic and take +6 Damage if forced into contact with garlic.</div>
-</div sidebars>
-
 <div>ick has already been killed) the faeries are happy that Blegen’s faerie kingdom has extended into the mortal world. If asked, the faeries will explain that the Nursery regio entrance is the darkest place in the forest, but they do not know where this actually is. •	 Unless the player characters attack first, the members of the faerie court do not attack the player characters. Apart from the knights (see insert) the only combatant faeries are the tribe of centaurs. The satyrs are not combatants. The centaurs have Faerie Animal Might 5 (see Realms of Power: Faerie, page 76). The centaurs are Size +3, have +8 Soak, and attack with a lance and shield (Init +1, Attack +14*, Defense +11*, Damage +11; * includes +3 “mounted” bonus). The centaurs attack in squadrons of five, but are not trained groups. The centaurs may not attack (and greatly fear) anybody who carries the sign of the cross. •	 The faerie queen does not particularly fear the magi. Although she has heard of the Order of Hermes, she views the magi as irrelevant and, once Baron Frederick has been murdered, she expects magi to obey her like any of her other subjects — if the covenant is built within her new lands. If the magi attack her, Blegen retreats to her castle, ordering her knights</div>
 <div>and centaurs to cover her escape. Her wooden castle is incredibly and supernaturally large (it is actually another regio, with a Faerie aura of 6), and with her Castle Eyes power Blegen is aware of everything happening within it. This, coupled with the size of the castle, means that Blegen can quite easily avoid the magi once she is within her castle.</div>
 <div>King in Ashes</div>
@@ -183,16 +167,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>is Aethele’s old drink-master Guma — a tiny dwarf responsible for providing intoxicating brews at the faerie court. Guma has carefully maintained his position in Blegen’s court, and does not aid the player characters directly, nor reveal information about Aethele until he trusts them completely. However, if</div>
 <div>the player characters investigate the forest clearing scattered with Aethele’s ash, Guma carefully observes them. Guma also quietly tells the player characters that baby Marcus is in the Nursery with Old Nanny, if it seems that they will not find this out by questioning other faeries. Guma has identical game sta</div>
 
-<div sidebars>
-
 <h3>Old Nanny</h3>
 
 <div>Faerie Might: 10 (Animal) Characteristics: Int +1, Per 0, Pre –2, Com –5, Str +8, Sta +1, Dex +3, Qik –1 Size: +4 Virtues and Flaws: Huge, Ritual Power (Web Weaver); Increased Might, Faerie Beast, Faerie Sight, Faerie Speech; Narrowly Cognizant; Driven (create webs), Enemies (faerie Queen), Monstrous Appearance; Reclusive Qualities: Aggressive, Ambush Predator, Skilled Climber (+3 Climb rolls), Tough Hide, Venomous Personality Traits: Secretive +3, Jealous +1 Reputations: Ancient Nightmare (local) +1 Combat: Bite: Init –1, Attack +12, Defense +6, Damage +9* Claws: Init –2, Attack +10, Defense +7, Damage +10** * 	 Old Nanny’s bite is venomous. If a character takes any Wound from her bite, check to see whether the character is poisoned too. Old Nanny’s venom is equivalent to an Asp bite (see ArM5, page 180).</div>
 <div>** 	Due to Old Nanny’s many clawed legs she inflicts 3 Wounds when she strikes. If you are using the Group combat rules these Wounds are distributed about the opposing Group as normal. Soak: +3 (Stamina + Tough Hide) Wound Penalties: –1 (1–9), –3 (10–18), –5 (19–27), Incapacitated (28–36), Dead (37+) Pretenses: Area Lore: Local 5 (forest), Athletics 3 (climbing), Awareness 3 (things in web), Brawl 5 (bite), Hunt 4 (prey), Profession: Weaver 10 (web), Stealth 4 (ambush), Survival 3 (forest) Powers: Faerie Sight, see the description given with the faerie queen Blegen. Faerie Speech, see the description given with the faerie queen Blegen. Web Weaver, 3 points, Init –9, Animal, ritual: This ritual power creates a thick rope of spider silk half a foot in diameter and two and a half miles long. The spider silk is as tough as iron and can entrap people as</div>
 <div>described in the text. It takes an hour for all the silk to be created, and Old Nanny uses her Profession: Weaver Pretense to fashion the silk into webs (or other items). (Lesser Power; 25 spell levels) (Base 5, +1 Touch, +2 Size; +5 one intricacy points to reduce Might Cost) Vis: 2 pawns of Animal vis (in spider silk gland). Appearance: Old Nanny is an enormous spider. She is a black, scuttling, primitive nightmare.</div>
 <div>Her usual tactic is to wait until prey is snared in her web, and then she moves in to deliver an incapacitating, poisonous bite to the comparatively defenseless victim. If a snared victim appears to be too tough (or armored), then Old Nanny merely waits for the victim to starve. Old Nanny flees from characters who are not affected by her webs and hides in a dark corner of the Nursery.</div>
-</div sidebars>
-
 <div>tistics to Mateos the Faerie Butler (ArM5, page 194–195).</div>
 <div>Faerie Knights</div>
 <div>The faerie knights are identical in appearance to the baron’s murdered knights. Blegen’s four faerie knights could be encountered in her court. Alternatively, the player characters might be present when the knights attempt to murder Baron Frederick. The knights can fight together as a trained group, receiving a +12 group combat bonus (see ArM5, page 173). If the knights are captured they can be compelled, by magic, to reveal that baby Marcus is being kept by Old Nanny in the Nursery. The knights are unlikely to succumb to mundane persuasion or torture. The knights have not been to the Nursery. They do know that the entrance is the darkest part of the forest, but they do not know where that might be.</div>
@@ -224,8 +204,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Three Echoes of the Ancient Dead</h1>
 
-
-<div sidebars>
 <div>A hooded figure searches through the ruins of a Byzantine fortress under the light of a full moon, trusting the stories of ghosts to keep the curious at bay. Reaching between two stones, he extracts a tooth from a shattered skull, his grin of triumph eerie in the wan light. “If anyone is watching,” he thinks, “those stories are about to get stronger.”</div>
 
 <h3>Introduction</h3>
@@ -237,8 +215,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Prelude</h3>
 
 <div>Prior to the first events of this story, the Seeker Argos</div>
-</div sidebars>
-
 <div>of Bonisagus made a deal with Vito, a Genoese merchant, to buy ancient clay tablets from the Holy Land. Vito took the advance payment but doublecrossed Argos, rationalizing that cheating such an unsavory character couldn’t be a sin. Vito sent the clay tablets by courier to the Teutonic Knights, who had shown an interest in the artifacts as well. Argos is now tracking the tablets by magic through an Arcane Connection to the courier.</div>
 
 <h3>Events</h3>
@@ -259,8 +235,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>it would be best for all parties if Argos simply took them and went his own way. If asked about the ghosts, he answers that the sinister Bellox from “some dirty necromantic cult” desires the artifacts as well. If not asked, he casually remarks that Bellox will probably try to get his filthy hands on them. He says no</div>
 <div>more at this time. Argos tells his story and answers but a few questions. Canaan should be mentioned. He acts slightly offended if the player magi don’t immediately roll over and obey; he is apparently expecting the whole affair to be a formality. He agrees to give the player</div>
 
-<div sidebars>
-
 <h3>Mechanics of the Tablets</h3>
 
 <div>Decoding is a seasonal activity requiring a stress roll of Intelligence + Hebrew against an Ease Factor of 18. If successful, the tablets are revealed to be a Summa in Area Lore: Canaan. A complete sequence of six tablets is Level 10 Quality 15, with each missing tablet subtracting three from Quality. In total there are seven sequences consisting of six tablets, each of which is a separate summa. Some tablets are safe at Durenmar and some are held by the Teutonic Knights, but most are unaccounted for since they were scattered in Constantinople long ago. A more detailed description of the tablets can be found in Ancient Magic, pages 34–36. Precisely how many and which tablets the Genoese merchant was selling to Argos is up to the storyguide. The number of tablets found influences the likely style of any follow-up story. A set of four tablets results in a respectable study source of Quality 9. Fewer means that it takes longer to finish reading the text, but it might send the magi searching for other sources, or</div>
@@ -270,10 +244,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>ing that these are secrets best left alone. Any scribe with even the slightest bit of knowledge about Judaism or Christianity soon recognizes the name EnDor and instantly remembers the warning about horrible necromancy. The player magi now have their hands full trying to contain the problem, as a conscientious scribe alerts his community. It should become clear that these tablets are something to be hidden by the magi and studied in the dark.</div>
 <div>Copying the Tablets</div>
 <div>Since the text is unintelligible copying carries with it the risk of making mistakes. Careful copying is done at half the standard rate, while copying at normal speed means –3 Quality for the final, translated text. Clever magi wanting to make rubbings or wax impressions need to take care as well, as the tablets are old, worn, and damaged. Such copies take but a few hours to complete, and have a –2 Quality for the text.</div>
-</div sidebars>
-
-
-<div sidebars>
 
 <h3>Veteran Kataphraktos Spectre</h3>
 
@@ -281,8 +251,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>spectre cannot be affected by or affect any physical object. By spending 1 Might point it can make a chilling attack that causes a single Fatigue level instead of damage, disregarding Soak. A weapon affected by a MuTe(Me) effect of Base 25 will affect it. Note the kataphraktos’ power Reaching Through the Veil. Their bodies may be affected by physical magic (e.g. Creo Ignem) with a Mentem casting requisite, as may their spectral mounts. This power is always active. Reaching Through the Veil, 1 point, Init +1, Mentem/Terram: The kataphraktos can affect the mundane world and corporeal objects with his entire array of weapons for Duration: Sun, making him very efficient. Against a mundane opponent with wholly mundane gear the kataphraktos has +3 Attack, Defense, and Soak, which is not included in the calculated statistics. Defense against the kataphraktos is as normal, but physical attacks still do not affect him. Fearsome Appearance, 1 point, Init +1, Mentem: Anyone seeing the ghost must succeed in a Stress Roll against an Ease Factor of 6, modified by Brave Personality Trait, to avoid cowering in fear. Affected victims miss their next action and need to roll again the following round until successful. Power affects a group of up to 10 people.</div>
 <div>Spectral Mount, 1 point, Init +1, Animal: The kataphraktos may conjure up a spectral horse as a prop for Duration Sun. He may ride across any terrain, including water, faster than any mundane horse can run on level ground. Affecting the mount is effectively affecting the rider, so it uses the kataphraktos’ Might for Resistance. When the kataphraktos is mounted, modify all Attack totals by +3. Appearance: Mounted warriors of impressive stature clad in archaic mail and helmets, from within a skull with thin, wilted skin can sometimes be seen staring with hollow eye sockets. Equipment: Full chain mail, spatha, shield, bow, camping equipment, and sometimes a warhorse if that power is used Encumbrance: 0 (0) Vis: 3 pawns Mentem, finger bones from right hand</div>
 <div>The kataphraktoi were the cavalry fighters of the Rhomanoi Eastern Empire. Statistics are given for veteran spectres from an elite unit; they have excellent training and years worth of experience. This unit consisting of an officer, two sergeants, and 12 soldiers were killed to the last man in the sixth century while on a mission to drive the pagans away. They have not received a Christian burial and have unfinished business.</div>
-</div sidebars>
-
 <div>magi a day to discuss and consider, while he collects his possessions from his camp. This is mainly because he needs to meet up with the ghosts yet again to arrange for further stages of his plan, in case he doesn’t get the tablets right away. If offered hospitality, kind words, and genuine interest, he appears to thaw out a bit but still declines hospitality for now. Should the player magi hand over the tablets at once with no questions asked, refer to the section “Argos Gets the Tablets.” Should they want to meet him again and offer their help, refer to the section “Working with Argos.” In such a situation they have more time and opportunity to investigate, but there is little more to learn about Argos, except perhaps for stronger hints that Bellox is entirely fictitious and that it is Argos himself who controls the kataphraktoi ghosts.</div>
 
 <h3>Further Investigation</h3>
@@ -305,8 +273,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 
-<div sidebars>
-
 <h3>Argos, Magus of Bonisagus</h3>
 
 <div>Characteristics: Int +2, Per –1, Pre +2, Com +3, Str –1, Sta +2, Dex –2, Qik –2 Size: 0 Age: 48 (47, Longevity ritual +5 used from the age of 35) Decrepitude: 0 (0) Warping: 2 (26) Virtues and Flaws: The Gift; Hermetic Magus; Secondary Insight, Lore of the Dead*, Affinity with Mentem, Deft Mentem, Minor Magical Focus (Ghosts), Puissant Guile, Well Traveled, Chaotic Magic, Deficient Creo, Restriction (Sacred Ground), Susceptibility to Divine Power. *	 New Virtue, see later Personality Traits: Greedy +3, Enjoys complex plans +3, Callous +1, Perfectionist +3 Reputations: Seeker (Hermetic) 2, Methodical perfectionist (Hermetic) 2, Bonisagus Acclaim (Hermetic) 1 Combat: Dodge: Init –2, Attack n/a, Defense +0, Damage n/a  Being no fighter himself he uses his kataphraktoi to fight for him. Soak: +2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6– 10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Levant* 3 (Canaan), Area Lore: Italy 3 (pagan burial sites), Artes Liberales 3 (writing systems), Awareness 2 (alertness), Bargain 2 (spirits), Charm 2 (spirits), Folk Ken 4 (magi), Guile 5+2 (long term), Greek 4 (Romaic), Hebrew 3 (reading), Infernal Lore 1 (infernal ghosts), Italian 5 (Abruzzo), Latin 5 (Hermetic), Lore of the Dead** 5 (eyes of the dead), Magic Lore 3 (spirits), Magic The</div>
@@ -318,8 +284,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>F Includes Focus</div>
 <div>Argos originally came from a tribe of shepherds in northern Italy. From a</div>
 <div>young age he had some strange abilities and was drawn to old, pagan burial caverns where no sane man would set foot. In such a place he crossed paths with Lucretia, a non-Hermetic necromancer, who taught him Lore of the Dead. Soon after, he was taken on as an apprentice by Pharla of Bonisagus, a Seeker from the Levant with an interest in necromancy. Pharla died a decade ago and Argos has continued her work, focusing on single aspects of her initial forays into necromantic secrets. He spreads rumors about the made-up character Bellox, whom he invented as scapegoat and deterrent in order to further his plans. Using the fixed Arcane Connections to the bodies of the Kataphraktoi ghosts, Argos dominates them by use of the spell Coerce the Spirits of the Night. This way he gets them to promise one favor to him at a time, each favor being defined as obeying him for a single long-term action. He orders them to ravage the countryside, and they do this over the course of a few days. Afterward, he may order them to stand by and come to his aid if called. If Argos is not sufficiently powerful to challenge the magi he can easily be modified to present a greater challenge. Making him older leaves room to raise Arts and invent new or more powerful spells. A higher Rego Mentem Penetration total allows Argos to command more powerful spirits using only the spells he already has. Within the scope of the core rules he could benefit greatly from an owl Familiar, a Talisman (staff, cypress wood, or with green turquoise), or enchanted devices. Several other books for Ars Magica Fifth Edition contain potentially useful material, and some of these are briefly outlined in Additional Material later.</div>
-</div sidebars>
-
 <div>refine Hermetic theory. Seekers are nominally under the control of House Bonisagus, the House containing the most Seekers, but they are in reality individuals working autonomously. The first Seeker was Lucian, Trianoma’s first apprentice. For more details see Houses of Hermes: True Lineages pages 12 & 15.</div>
 <div>Canaanite Necromancy</div>
 <div>The biblical land of Canaan and its culture is mentioned in religious works like the Bible as well as by some classical authors; see Ancient Magic, page 35. The Canaanite necromancers had mastery well beyond Hermetic magic: they were able to affect the dead regardless of physical range, able to create Arcane Connections to the dead with only a trivial effort, and able to sense whether named persons were dead. There are also dire warnings about the consequences. If Hermetic limits are suddenly surpassed, contacting individuals thought dead and gone might easily resurrect old and implacable conflicts, like those of the Schism War. Houses Tremere and Guernicus would rather the secrets stay lost forever.</div>
@@ -399,8 +363,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h2>Into the Valley</h2>
 
-
-<div sidebars>
 <div>“Antunnos, the collectors will soon come,” whispered Rani. “The trail has been cut. What shall come has been prepared for.” The sharp eyes of the magus glinted with cold cunning. “We have the harvest, now we return to the den. Today, we shall be prey. Tomorrow, we shall commission the hunters.” Antunnos put his robes in a saddlebag, concentrated, and took the form of his stag heartbeast. All that remained of the covenant’s vis harvest were the tracks of a deer and a boar leading off to a nearby town.</div>
 
 <h3>Storyguide’s Information</h3>
@@ -408,8 +370,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This story begins when an outer-covenant vis harvest returns empty handed. When the harvest site is investigated, it is found that the vis has been properly removed. Spells (InCo or InAn)  reveal that the magus Antunnos performed the harvest. Furthermore, it is common knowledge that he maintains a sanctum in town.</div>
 <div>This story is designed to be linear. Seeking Antunnos brings the characters to a nearby town where he has a sanctum. The characters’ investigations incite a gathering at the town’s church. This, in turn, forces Antunnos to perform a “Great Ceremony” that awakens a number of heartbeasts in the mundane population. It is during this Great Ceremony that</div>
 <div>the troupe are best positioned to end his plans. Thus, what appears to be a simple theft of vis spirals into a much larger threat to the covenant, on both a practical and legal basis. This adventure has been designed to allow the storyguide to use a nearby urban location. It is assumed that the player characters know of Antunnos. He may</div>
-</div sidebars>
-
 <div>have spent time at the covenant during the past year, or used its Redcap services.</div>
 
 <h3>Part I: Seeking Antunnos</h3>
@@ -513,16 +473,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 
-<div sidebars>
-
 <h3>Mystagogue Antunnos, Dark Strider of Bjornaer</h3>
 
 <div>Characteristics: Int +2, Per 0, Pre +3, Com 0, Str –1, Sta +1, Dex –1, Qik –1 Size: 0 Age: 63 (45) Decrepitude: 0 Warping: 4 (6) Confidence Score: 1 (3) Virtues and Flaws: The Gift; Hermetic Magus; Gentle Gift; Berserk, Clan Ilfetu (training in House Rituals), Heartbeast (Black Stag), Inspirational, Second Sight; Ambitious, Weak Spontaneous Magic; Deficient Form (Ignem) Personality Traits: Brave +3, Angry +2, Obedient (House Bjornaer) –3 Reputations: Wise One +1 (Clan Ilfetu) Combat: Dodge: Init 0, Attack n/a, Defense +5, Damage n/a Fist: Init 0, Attack +3, Defense +3, Damage 0 Fist, berserk: Init 0, Attack +5, Defense +1, Damage 0 Soak: +1 (+2 when Berserk) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6– 10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Local 3 (wilderness), Area Lore: Local Town 2 (nature spirits), Artes Liberales 2 (rhetoric), Athletic 2 (endurance), Awareness 3 (people), Brawl 3 (dodge), Finesse 2 (targeting), Folk Ken 4 (hunters), Local Language 5 (rural dialect), Gothic 4 (Hermetic usage), Guile 3 (Christian rhetoric), Heartbeast 4 (taking animal form), Hunt 4 (small animals), Latin 4 (Hermetic terms),</div>
 <div>Magic Theory 3 (Animal), Organization Lore: Church 2 (Bible quotes), Organization Lore: House Bjornaer 5 (modifying Initiation scripts), Parma Magic 2 (Animal), Penetration 3 (Muto), Second Sight 3 (ghosts), Survival 3 (forests), Teaching 5 (heartbeasts) Arts: Cr 5, In 12, Mu 14, Pe 10, Re 6; An 10, Aq 5, Au 5, Co 13, He 5, Ig 5, Im 5, Me 13, Te 5, Vi 5 Encumbrance: 0 (0) Spells Known: Aegis of the Hearth (ReVi 20/+14) Blunt the Viper’s Fangs (PeAn 20/+21) Eyes of the Cat (MuCo(An) 5/+25) Gift of the Bear’s Fortitude (MuCo 25/+28) Grip of the Choking Hand (PeCo 25/+26) Mastery 2 (quiet cast, still cast) Lifting the Dangling Puppet (ReCo 15/+20) Peering into the Mortal Mind (InMe 30/+26) Recollection of Memories Never Quite Lived (MuMe 4/+28) Seed of Betrayal (MuMe 15/+31) Mastery 3 (quiet, still, multiple (x3) casting) R: Eye, D: Moon, T: Ind. Changes the target’s emotions toward their master(s) to contempt, such that she will readily betray him. Subtract 5 points from the target’s relevant Loyal Personality Trait, for the duration of the spell.  (Base 3, +1 Eye, +3 Moon) Transformation of the Ravenous Beast to the Torpid Toad (MuAn 25/+25) The Unbidden Task (MuMe 25/+28) R: Eye, D: Moon, T: Ind. This spell creates a simple prospective memory in the target, which repeats itself so</div>
 <div>often that the target infers a reason for the memory. Simple memories, like, “I need to leave the back door unlocked tomorrow night” draw out reasonable inferences like, “because his lordship is sneaking out for a night on the town after her ladyship falls asleep.” Characters cannot be convinced to do things that are dangerous unless the character regularly faces that sort of danger as part of his profession. Houses of Hermes: Societates page 70.  (Base 5, +1 Eye, +3 Moon) Viper’s Gaze (ReAn 15/+17) The Wound that Weeps (PeCo 15/+24) Vis: 5 pawns of Animal vis, in the form of clean bear claws on a string around his neck. Appearance: Antunnos is a tall, trim man with pale skin, deep brown eyes, and dull black hair that shimmers auburn in the sunlight. He appears regal, yet friendly to those who speak with him. His sigil may be heard as the distant rumble of hoof beats.</div>
 <div>A Wilderist, Antunnos believes that humankind must be penned. The modified heartbeast ritual will tether the humans to RossenAntunnuac. He also firmly believes that the six Clans of his House are fragmenting; dispersing it as a political force within the Order. From the town, he plans to strengthen Wilderist allegiances within House Bjornaer. This would enable the Wilderists to secure spiritual places, and potentially strengthen the Order’s fonts of magic.</div>
-</div sidebars>
-
 <div>magi who are intertwined with the landscapes mystical spirits? Think of the new sources of vis that may develop! •	 It has been two years. Do you believe I have been idle? He has allies within the Clans of Ilfetu, Maruhs, and Midusulf. He knows the landscape, and its resources. His followers know of the covenant, should Antunnos be martyred.</div>
 
 <h3>Preventing Railroading</h3>
@@ -628,8 +584,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Five New Deal</h1>
 
-
-<div sidebars>
 <div>An elderly merchant clutches the rigging on a ship as it is tossed about in a violent storm. His frightened gaze flickers between the struggling helmsman and a weak light in the darkness, which he hopes fervently is the lighthouse showing the way to the safety of the port. A wave the size of a castle rises from the sea and swallows the ship. In the foam and churning waters no debris can be seen.</div>
 
 <h3>Introduction</h3>
@@ -645,8 +599,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Going To Town</h3>
 
 <div>A proactive approach is to send envoys to town to check up on things, and to see if any information on Charles is to be found. The journey is uneventful, although since at least the latter half of the trip takes them through populated areas any Gifted individuals in the group draw attention to themselves. This is a good opportunity to get socially adept companion characters into play. There are a number of logical places to start in town, among others the warehouse Charles usually rents and the taverns frequented by the laborers and teamsters employed by the merchants. Activities of this kind lead to a minor investigation covered below on a location by location basis in The Town.</div>
-</div sidebars>
-
 
 <h3>Waiting</h3>
 
@@ -672,8 +624,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>within four seasons, all labs need to be closed down completely. If using the rules for labs from Covenants page 106–124, the covenant can only support the equivalent of half of the sum of Upkeep values of all labs (round down). Labs need to take</div>
 <div>Flaws (or remove Virtues) in order to reduce Upkeep to half of the usual value immediately, distributed in any way the magi see fit. Even though the funding in Mythic pounds is there, the materials are missing. Once the shortage has ended, any</div>
 
-<div sidebars>
-
 <h3>Use of Magic</h3>
 
 <div>Magic is the obvious tool to use for solving this problem, but this is neither easy nor safe.</div>
@@ -685,8 +635,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>will raise a case with the Quaesitores. Making Simon disappear isn’t hard either, but since he is an influential merchant this is also investigated.</div>
 <div>A Hermetic Case</div>
 <div>The Order does not know every thing that goes on in the mundane world. However, if the case with Simon is resolved using considerable magic or foul play the Order might find out in a number of ways. Simon knows he is dealing with wizards, and if he senses interference he will raise a complaint with his guild. The guild knows of the Order and has a way of contacting the Order with a grievance; the same goes for the Church and major nobles. Depending on the player magi’s situation there may be a rival or enemy who smells a rat and fingers them. Once this happens a Quaesitorial investigation starts, which could end with Tribunal proceedings for meddling with mundanes. An allied magus in the city could foresee problems arising and give a friendly warning in advance.</div>
-</div sidebars>
-
 <div>new Flaws are removed without needing to spend time doing this, but lost Virtues take time to regain. If the shortage is not dealt with within four seasons, the sum of Upkeep of the labs needs to be reduced to zero.</div>
 
 <h3>The Town</h3>
@@ -720,14 +668,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Breaking and Entering</div>
 <div>If player characters think to break into the house to learn more or steal something, it should be</div>
 
-<div sidebars>
-
 <h3>Peter the Merchant</h3>
 
 <div>Peter is a moderately successful and well-off merchant in his early forties dealing in cloth and leather wares. He does not see himself as a rival of Simon but will, in time, notice that Simon is in fact trying to take over his market. He grudgingly respects Simon’s success but fears his schemes rather than admires him. Peter was chosen as a neutral third party to hold the shipment of goods which Charles used as collateral when borrowing money from Simon. Peter expected this to be a straight-forward transaction and is genuinely sorry for the player characters about the whole mess. However, he can’t in good conscience give them the wares before a settlement or official ruling is reached. If he is approached with good sense and treated well he will testify on behalf of the covenant, and he may even offer to</div>
 <div>make their case before the Trade Guild officials. Full game stats are not given for Peter. He has above average mental characteristics and all relevant Abilities for his trade. Key stats are Artes Liberales 3 (arithmetic), Civil and Canon Law 3 (commercial), Organization Lore: Trading Guild 4 (personalities) and Communication +2. If the player characters do not take matters before the officials but instead do Simon’s bidding, they might attempt to sabotage the leather goods in his warehouse. They may then be facing him as defendants in a future court session. If the situation ends amicably with Peter, he may become a future supplier to the covenant, albeit of necessary consumables and clothing rather than exotic goods and lab supplies.</div>
-</div sidebars>
-
 <div>possible for determined and skilled specialists. Naturally, all doors and windows are secured with deadbolts, and a single thug makes regular patrols through the house. For game statistics use the Tough Guy template on ArM5 page 22, except that no armor is worn, for Soak +6 and his only weapon is a Club with Init +2, Atk +7, Dfn +7, Dam +4.</div>
 
 <h3>Smiling Simon</h3>
@@ -735,16 +679,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>If the player characters answer the invitation Simon sent, or if they identify themselves at the house as representatives of the magi, they are received politely and with little waiting. If they assume other identities, their reception and waiting time</div>
 <div>depends on how important Simon believes they are and how profitable a deal he thinks he can strike. In any case, a meeting is easy to set up. Simon receives his guests in a gaudy room cluttered with various tapestries, furniture, and nicknacks. Simon is devious and scheming, he is good at what he does, and outfoxing him by mundane</div>
 
-<div sidebars>
-
 <h3>Simon the Merchant</h3>
 
 <div>Characteristics: Int +1, Per +1, Pre +2, Com +1, Str 0, Sta +1, Dex 0, Qik 0 Size: 0 Age: 32 (32) Decrepitude: 0 Warping Score: 0 (0) Confidence Score: 1 (3) Virtues and Flaws: Capo*, Wealthy; Vernacular Education*; Avaricious, Dark Secret; No Sense of Direction * 	 These Virtues and Flaws are found in City & Guild page 109. Capo is a Major Social Virtue: Simon manages the trading company in this town. Vernacular Education is a Minor General Virtue, granting additional experience points for trade-related abilities. Personality Traits: Avaricious +6, Smiling +3, Devious +2 Reputations: Powerful Merchant 2 Combat: Dodge: Init +0, Attack n/a, Defense +2, Damage n/a Dagger: Init +0, Attack +5, Defense +3, Damage +3 Soak: +1</div>
 <div>Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Town 4 (business), Artes Liberales 1 (arithmetic), Bargain 6 (selling), Brawl 2 (dagger), Charm 4 (customers), Etiquette 4 (nobility), Folk Ken 4 (while trading), Guile 4 (half-truths), Intrigue 4 (plotting), Latin 4 (trade), Leadership 2 (merchant), Local Language 5 (upper class), Organization Lore: Trading Guild 3 (personalities), Profession: Merchant 6 (rare goods), Ride 3 (walk) Equipment: Fine merchant’s clothes, writing implements, dagger Encumbrance: 0 (0) Appearance: Simon is a handsome man, fair-skinned with a healthy complexion. His lightly curled hair is dark brown as is his neatly trimmed beard. He is al</div>
 <div>most constantly smiling, giving rise to his nickname, but the smile has a sneaky and predatory quality. His sleek frame looks slightly more imposing due to the cut of his clothes, as well as padding in the right places.</div>
 <div>Simon’s merchant father recently died of old age, and the four sons split the business between them. Simon was tasked with setting up a new venture in this town. It was perhaps the hardest task, but he relishes the challenge as well as the freedom to do as he pleases without interference. Besides his trading, he is also a successful moneylender. Since Christians don’t charge interest, his profit comes from impounding wares, ships, or buildings from debtors who fail to pay, and adding any expenses for storage and transport he can get away with.</div>
-</div sidebars>
-
 <div>means is hard, as he is well versed in social abilities. Contrary to what one might think, Simon did not contribute by any direct action to the demise of Charles, but he did lure Charles into borrowing money with the covenant’s shipment as collateral; this in turn drove Charles to take unnecessary risks, even</div>
 <div>tually leading to his death. Simon does not feel responsible for Charles’ tragedy, but is quick to take advantage of it. His long term goals are simply profit and overshadowing his rivals and competitors. It is obvious that he intends to milk the covenant for all the money and magical favors he can. The important point here</div>
 <div>is that Simon genuinely believes the shipment to be rightfully his.</div>
@@ -752,8 +692,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The New Deal</h3>
 
 <div>A business meeting with Simon is straight to the point. He offers the exact shipment Charles failed to deliver for a quarter more than the original price. He believes he can rightfully do this due to Charles’ unpaid debt; he does not know that the covenant paid in advance. If</div>
-
-<div sidebars>
 
 <h3>Court Mechanics</h3>
 
@@ -766,6 +704,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Situation Modifier: +3 for having the better Reputation</div>
 <div>Situation Modifier: +3 if the defendant is actually innocent. Note that Simon isn’t guilty of fraud, he has a credible contract for the loan. However, if the case focuses on the ownership of the shipment, then the player characters get this bonus.</div>
 <div>The court finds in favor of the side which rolls higher. Court officials quickly settle the issue and pass sentence on the basis of the town charter or appropriate written law. In this case it is simply a question of the ownership of the shipment; no punishment will be administered. However, a moderate sum is to be paid by both sides for the court’s time.</div>
+
+<div sidebars>
 
 <h3>Story Seed: Double Scandal</h3>
 
@@ -832,8 +772,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Six Salvation</h1>
 
-
-<div sidebars>
 <div>Thick smoke, stinking of roasted human flesh, rises above a devastated church. Charred corpses, the brittle black bones rendered of fat and meat by hot fire, are scattered through the still-warm rubble. The burnt skulls blindly grimace at the ash-flecked sky. Furiously digging through the rubble is a black-robed,</div>
 <div>soot-smeared young monk. As he digs, plaintively, like a lost lamb of God, he cries out names — “Luke… Paul… Gregory…” — either saints, or his dead brethren; in his hysteria he can no longer be sure. The monk’s hands are bloody, blackened, and blistered by his futile search for another survivor, and, with a final despairing cry, he collapses</div>
 <div>among the smoldering ruins. Hours later, the monk wearily trudges away from his dead home. As the monk departs, a bitter wind rattles through the ruined monastery. The rustling ashes almost sound like laughter…</div>
@@ -841,10 +779,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>The Damned Monastery of Saint Sylvester</h3>
 
 <div>The monks of the Benedictine monastery of Saint Sylvester, in the parish of West Brockshire, were massacred — burned alive in the monastery church by a cruel band of outlaws. Only one monk survived, and the ruined monastery now lies haunted by Infernal spirits. At its heart, in a fiery regio, waits a demon monk who traps hapless mortals behind walls of hellfire so that he can offer a simple choice to his victims: “sell your soul or die in flames.” This Hook introduces Realms of Power: Infernal.</div>
-</div sidebars>
-
-
-<div sidebars>
 
 <h3>Hooks Who Burned The Monastery?</h3>
 
@@ -860,6 +794,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Here are the ways the player characters can become involved:</div>
 
+<div sidebars>
+
 <h3>What Could the Player Characters Already Know? A player character well-traveled within the diocese may have already heard of the ruined monastery. If an Intelligence + Area Lore: Diocese roll against an Ease Factor of 9 is made, the character knows which parish the monastery was located in, and that it was burnt a</h3>
 
 <div>couple of decades ago by Owen the Beast. If an Ease Factor of 12 is beaten, she also knows that there was a surviving monk. Finally, an Ease Factor of 15 means that the character additionally knows that the monk relocated and became a canon at the cathedral.</div>
@@ -869,16 +805,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>•	 The marauders who burned the monastery have not yet been captured and hanged, are still active, and also attack covenant property (or the property of the covenant’s allies). The player characters discover the burned monas</div>
 <div>tery while following the vile trail of Owen the Beast. For this is to be plausible, the monastery has probably been burned only a few years, or even months, ago. •	 The bishop (or the local Benedictine authorities) com</div>
 
-<div sidebars>
-
 <h3>Father Guthrie</h3>
 
 <div>Characteristics: Int +1, Per +1(1), Pre +1, Com 0, Str +1, Sta +1, Dex +1, Qik +1(1) Size: 0 Age: 47 (47) Confidence Score: 1 (3) Virtues and Flaws: Priest; Greater Immunity (fire); Skinchanger (crow), Student of the Infernal Realm; Dark Secret (sold soul to hell); Coward, Depraved, Tainted with Evil Personality Traits: Coward +3, Depraved +3 Reputations: Unpleasant canon +3 (local), Expert on demon worship +2 (ecclesiastical), Survivor of monastery inferno +1 (ecclesiastical) Combat: Dodge: Init +1, Attack n/a, Defense +1, Damage n/a Soak: +1 (Sta) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Diocese 5 (evil), Artes Liberales 1 (logic), Awareness 3 (evil), Civil and Canon Law 3 (demon worship), Concentration 2</div>
 <div>(vigil), Dead Language: Latin 5 (church usage), Etiquette 1 (bishop’s court), Folk Ken 5 (clergy), Guile 5 (lies), Infernal Lore 5+2 (demons), Intrigue 5 (bishop’s court), Leadership 2 (clergy), Living Language: English 5 (London dialect), Music 1 (hymns), Organization Lore: Church 3 (exorcisms), Ride 3 (horse), Stealth 2 (hiding), Survival 2 (disasters), Teaching 2 (minor orders), Theology 2 (hell) Equipment: Habit and priest’s stole, necklace of crow feathers (not worn). Appearance: Father Guthrie has a hooked nose and a frightful scowl on his face.</div>
 <div>The father has a bad reputation in the city for setting unpleasant, almost perverse, tasks as penance and so city-folk hope he is not their confessor. Within the church the father is also thought of as unpleasant, although this is charitably attributed to the trauma of the massacre. This means the father is usually left to his own quiet studies within the cathedral complex, without frequent need</div>
 <div>to attend to the care of souls. The few who confess to Father Guthrie are those that the other canons find distasteful, such as prostitutes, witches, and the insane. Conflicted and troubled by the dark path he is upon, Father Guthrie uses his quiet solitude to study the records of the bishop’s court concerning evil and the worship of demons. He is considered expert in dark matters, and when cases of devil worship are brought to the bishop’s court Father Guthrie provides expert testimony. This dubious specialty feeds the father’s unpleasant reputation and greatly amuses the demons who appear in his dreams. Sometimes he has knowingly convicted innocents of devil-worship, who were then burned alive by the secular authorities. In reward for these sacrifices, hell has granted the father a magical necklace of crow feathers, which he can use to turn into a sleek black crow. As Father Guthrie is a clergyman with unconfessed sins he is irregular, which means he cannot spend Faith Points (see The Church, page 37).</div>
-</div sidebars>
-
 <div>mission the player characters to investigate rumors of the demon-haunted monastery. For this commission to be offered, the player characters must already have reputations within the diocese as supernatural specialists, but not be considered an infernal liability themselves. Ironically, Father Guthrie — an ecclesiastical expert in dark matters — may also be assigned to investigate.</div>
 
 <h3>Moving the Monastery</h3>
@@ -907,14 +839,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Black and soot-stained, the ruins of the monastery stand by a small gurgling stream in an empty, rockpocked field. The ruined church is splayed open and the half-fallen stone arches, which once held beautiful stained-glass images of devotion, now point skyward like the bleached bone ribs of a carrionpicked corpse. The silent courtyard, which formerly echoed with murmured prayers to God’s glory, is now overgrown with grasses. The burned-out Benedictine monastery of Saint Sylvester is composed of half a dozen ruined</div>
 
-<div sidebars>
-
 <h3>Agatha</h3>
 
 <div>Characteristics: Int 0, Per +1, Pre +1, Com 0, Str –1, Sta 0, Dex +2, Qik +2 Size: 0 Age: 19 (19) Virtues and Flaws: Peasant; Puissant Ability: Second Sight, Second Sight, Student of the Infernal Realm; Infamous (Devil Worshiper), Lost Love (Sara), Offensive to Animals. Personality Traits: Lonely +3, Scared +1 Reputations: Devil Worshiper +4 (local area) Combat: Dodge: Init +2, Attack n/a, Defense +5, Damage n/a Knife: Init +2, Attack +7, Defense +6, Damage +1 Soak: +0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapaci</div>
 <div>tated (16–20), Dead (21+) Abilities: Animal Handling 3 (cattle), Area Lore: Parish 4 (farming), Athletics 1 (climbing), Awareness 1 (searching), Bargain 2 (demons), Brawl 3 (knife), Chirurgy 2 (cuts), Folk Ken 2 (clergy), Guile 2 (fast talk), Infernal Lore 3+2 (curses), Leadership 1 (coven), Living Language: English 5 (slang), Second Sight 4+2 (demons), Stealth 1 (sneak), Survival 2 (cooking), Swim 1 (rivers & streams) Equipment: simple peasant clothes, a knife. Appearance: Agatha is a lonely young blonde woman. She works on her father’s farmstead, but many parish folk will not drink the milk she collects — with great difficulty — from the cows. (Milkmaid is not the best occupation for someone who is Offensive to Animals.)</div>
-</div sidebars>
-
 <div>and unoccupied buildings. The largest and most damaged ruin is the church, once the heart of this monastic community. The other buildings are fire-damaged too, but less so, and were once sleeping, kitchen and dining facilities, a workshop where the monks worked at manufacturing fine leather goods, and (beside the stream) the remains of a small tannery. Nearly 50 monks lived at the monastery. The only inhabitants of the site, now, are a large, proud, black cockerel and his harem of hens. The birds roost in what was once the monastery kitchens. The field surrounding the monastery lies fallow, too rocky to be easily farmed. Other features that the player characters can discover follow.</div>
 <div>•	 The site has an Infernal aura of 3. Characters with Infernal Lore should be able to infer that evil acts occurred at the site, either in the past or currently. •	 The relics and other church treasures have been looted long ago by Owen the Beast. There is no hidden treasure to be found. •	 A few hundred feet to the north of the monastery is a mass grave. •	 There is a crypt underneath the church. The entrance is obscured and obstructed by fallen stones. •	 The black cockerel, located in the ruined monastery kitchens, is possessed by the Cloven Hoofed Monk.</div>
 <div>•	 There is an Infernal regio within the church. The Infernal regio has an aura of 5. The presence of the regio can be detected via the usual means (see ArM5, page 189). From the outside, the regio appears black, empty, and quiet; it smells of soot and tastes of ash.</div>
@@ -930,16 +858,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>the cockerel. The copy is entirely independent of the original demon and has the same powers and statistics (but no physical body and less Might). The possession allows the demon to use the senses of, and to manipulate the body of, the cockerel. The demon amuses</div>
 <div>himself by running the cockerel into walls, and making it fall off its perch in convulsive fits; this abuse has turned the cockerel mad. A spell equivalent to Demon’s Eternal Oblivion can exorcise the demon from the cockerel. This has no other effect on either the cockerel</div>
 
-<div sidebars>
-
 <h3>The Cloven Hoofed Monk</h3>
 
 <div>Order: Lord Abbot of the Unholy Order of Tempters (tentator) Infernal Might: 20(19) (Corpus) (1 Might Point used to possess the black cockerel). Characteristics: Int +2, Per +2, Pre +1, Com 0, Str +2, Sta +2, Dex +3, Qik +3 Size: 0 Confidence Score: 1 (3) Virtues and Flaws: Greater Immunity (fire); Tough Personality Traits: Deceitful +3, Depraved +3 Reputations: Profane Abbot +3 Hierarchy: +3 Combat: Fist: Init +3, Attack +8, Defense +8, Damage +2 Long Sword: Init +5, Attack +14, Defense +11, Damage +8 Soak: +5 (+2 Sta + 3 Tough) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6– 10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Athletics 3 (grace), Awareness 4 (sin), Bargain 5 (infernal), Brawl 4 (fist), Civil and Canon Law 3 (heresy), Code of Hermes 1 (infernalism), Guile 6 (infernalists), Infernal Lore 3 (demons), Leadership 3 (demons), Penetration 3 (ball of hell</div>
 <div>fire), Single Weapon 6 (sword), Stealth 4 (urban) Powers: Ball of Hellfire, 1 point, Init +3, Ignem: The demon launches a ball of black flame at the target (within Voice Range), which automatically hits and causes +30 damage. Coagulation, 2 points, Init –1, Corpus: Allows the demon to form the physical body described below. He can return to his spiritual form at will. When the demon is in his spiritual form he is invisible and undetectable by Hermetic magic (and if he cannot be sensed he cannot usually be targeted by Hermetic magic). In his physical form the demon can be killed, but in his spiritual form the demon can only be destroyed by destroying his Might (see Realms of Power: Infernal page 31). Envisioning, 1 point, Init 0, Mentem: Allows the demon to appear in the dreams of a character (see Realms of Power: Infernal page 32). Obsession, 1 point, Init –5, Vim: Whenever a character sins in the presence of the demon he can use this power to infect the character with the Personality Trait: Depraved +1; see Realms of</div>
 <div>Power: Infernal page 31. Possession, Variable, Init +2, Mentem: The demon uses this power to possess the black cockerel; see Realms of Power: Infernal, page 32. Equipment: Red robes, long sword, book, black cockerel tail-feather on a silver chain. Weakness: Abhorrent Material: salt. Vis: 4 pawns of Corpus in book cover. Appearance: The demon abbot wears dark red robes and carries (in a leather harness) a large book bound in flayed human skin. Unlike a mortal Christian monk, the abbot follows no prohibition against the shedding of blood and carries a plain-looking yet finely made long sword. Around the monk’s neck is a silver chain with a black feather (from the cockerel) woven into it.</div>
 <div>The book the monk carries is The Book of the Morning Star (Infernal Lore Ability Summa; Quality 10, Level 4). A character who makes a Perception + Awareness roll against an Ease Factor of 6 notices that the monk has cloven hoofs instead of feet. He otherwise appears to be a normal middleaged man.</div>
-</div sidebars>
-
 <div>or the original demon. Full rules for possession are given in Realms of Power: The Infernal, page 32. When the player characters arrive at the monastery, the demoncockerel observes them as they explore the site and tries to gauge the extent of their powers. If the player characters look ready to leave the ruined monastery before midnight then the demon tries to maintain their interest. He can do this by manipulating the cockerel in an unusual way, stealing items, or attacking the characters with his Ball of Hellfire power. As the copy of the demon possessing the cockerel has only 1 Might he can only use this particular power once per day. Player characters who can speak to the cockerel rapidly discover that it is insane. Although the demon can speak through the cockerel, it probably will not. If the player characters enter the regio, the cockerel enters the regio too, whereupon he dashes to the regio crypt where the original demon waits. The two copies of the demon need to see</div>
 <div>each other for the cockerel copy to relay information about the player characters.</div>
 
@@ -967,17 +891,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>“I am abbot and priest of this profane church. Pledge your immortal soul to me, and I will save you from fiery death.”</div>
 <div>Characters who accept the infernal deal immediately fall unconscious and awake outside the regio in the cold, black ruins of the church. From the perspective of characters who remain in the regio, the corrupted characters merely disappear.</div>
 
-<div sidebars>
-
 <h3>Burned Monks</h3>
 
 <div>Order: Tempters (maligenii) Infernal Might: 5 (Ignem) Characteristics: Int 0, Per 0, Pre +1, Com –3, Str –1, Sta 0, Dex +2, Qik +2 Size: 0 Virtues and Flaws: None Personality Traits: Hysterical +6 Reputations: None Hierarchy: 0 Combat: Dodge: Init +2, Attack n/a, Defense +4, Damage n/a Soak: 0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Athletics 3 (run), Brawl 1 (dodge), Concentration 5 (A Problem Shared Is A Problem Doubled) Powers: Coagulation, 1 point, Init –1, Ignem: Allows the demon to form a physical body (see Realms of Power: Infernal page 31). The</div>
 <div>“physical” body manifested by the burned monks is immaterial (made of hot air, ash, and smoke) and cannot be damaged by normal physical means. Envisioning, 1 point, Init 0, Mentem: Allows the demon to appear in the dreams of a character (see Realms of Power: Infernal page 32). Obsession, 1 point, Init –5, Vim: Whenever a character sins in the presence of the demon it can use this power to infect the character with the Personality Trait: Hysterical +1; see Realms of Power: Infernal page 31. Whenever a stress roll is made for a character with a Hysterical Personality, roll an additional number of botch die equal to the value of the Personality Trait. A Problem Shared Is A Problem Doubled, 0 point, Init –1, Imaginem: This power allows the demon to create a duplicate image of itself. The demon can do this multiple times, but it can only control a</div>
 <div>number of images equal to his Perception + Concentration Ability Score. If the demon ceases to concentrate, the images remain but continue repeating their recent actions. The images are of Imaginem Form, have no powers, and can be dispelled. The images must remain within Sight Range of the demon. Equipment: Robes, torn shreds of bible. Weakness: The Lord’s Prayer. Vis: 1 pawn of Ignem in ash (the images contain no vis). Appearance: The screaming, burned monks rush backwards and forth, leaving a taste of ash and fluttering torn pages from the bible in their wake. The monks are transparent and colored in smoky, orange sepia tones. Each demonic monk has produced nearly half a dozen images of itself, so the relatively small number of demons appear to be a larger crowd of panicked ghosts.</div>
-</div sidebars>
-
-
-<div sidebars>
 <div>If the characters attack the Cloven Hoofed Monk he fights back. However, the demon is a coward, so if he receives a Medium Wound (or heavier) he enters his spiritual form and hides in the darkness of the crypt. If the characters attack the demon’s Might (for example, with Demon’s Eternal Oblivion) he immediately turns into his spiritual form and hides. If the characters have attacked the demon, but not destroyed him, they can still pledge their souls (regardless of the demon’s form). If the Cloven Hoofed Monk is destroyed, the hellfire extinguishes, allowing the characters to freely leave the regio.</div>
 
 <h3>Further Tales</h3>
@@ -986,6 +904,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>nal realm, if the troupe wishes.</div>
 <div>•	 If a character has sold his soul to the Cloven Hoofed Monk, the demon tries to tempt him into other sins. The demon can provide vis (tainted, of course, by the infernal), the true names of other demons (which the magi can use as Arcane Connections to summon the demons and negotiate for other powers), and he is more than happy to engage in other bargains with the magi. •	 The church believes that confession and penance can save the characters if they have sold their souls. However, a character might not know or believe this (particularly if a demon has told him otherwise), or he may (rightly) fear an arduous or dangerous penance. Also, even though the church may forgive, the secular authorities may not, and may thus still attempt to burn the character as a diabolical witch. For magi the particular risk of confession is that the Order of Hermes may learn of the characters’ demonic pact. Under the Hermetic Oath there is never forgiveness for dealing with demons (see ArM5, page 14). •	 There are a number of demonhunters in the Order of Hermes (see Realms of Power: Infernal, page 120). If it becomes suspected that the player characters have dealt with demons, then demon-hunters will investigate the covenant. On the other hand, if the player characters</div>
 <div>make it known that they have slain demons, then demonhunters may instead come to the covenant seeking recruits. •	 If the demon is destroyed, then the magi may gather (infernally tainted) vis from the church ruins, but is using this vis a sin? See Realms of Power: Infernal, page 18. •	 If they have not yet done so, the characters might track down and confront the survivor, Father Guthrie. Successfully exposing the corrupted monk earns the bishop’s gratitude, who may call upon the magi to solve other problems with heretics and demons. It is also twenty years since Guthrie sold his soul. He may have since founded a secret corrupt clerical sect that can likewise be tracked down (see Realms of Power: Infernal, page 133). •	 Was the bandit, Owen the Beast, who burned the monastery an infernalist? If so, what demons did he and his outlaws unleash at the sites of their other crimes? If Owen was a powerful black magician, hell might have returned him to the realm of the living as an infernal ghost (see Realms of Power: Infernal, page 36). •	 The confessed witch Agatha (who is shunned by the villagers) may seek to return to the covenant with the magi. She may again be tempted by hell. •	 Some of the other parishioners may be secret diabolists who worship at the damned monastery.</div>
+
+<div sidebars>
 
 <h3>Alternative Deals</h3>
 
@@ -998,8 +918,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h2>Small Game</h2>
 
-
-<div sidebars>
 <div>In the hazy dawn light, two men leave the city. One man rests his heavy head against the side of their fully-laden cart, while his companion narrowly avoids steering into the path of the itinerant merchants arriving at the city gate for the day’s fair. The heavy-headed man sadly contemplates the lightness of his coin purse — emptied last night into an extraordinary number of tankards — while two small shapes watch this ignominious departure from a vantage atop the city battlements. One of the observers chimes, with a delicate, silvery metallic voice, “Are we really relying on these men to outwit magi?” “You worry too much, Ailuros,” the other replies, lazily lifting a long leg to scratch behind his ear. “What is done cannot be undone.” The two small observers then turn, elegantly leap onto a nearby house, and chase each other’s shadows over the rooftops. Below, the fairground is being prepared.</div>
 
 <h3>Introduction</h3>
@@ -1007,8 +925,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>This adventure seed pits the player characters against a pair</div>
 <div>of animae – self-aware magical automatons created centuries ago by members of a forgotten magical tradition. Details regarding the mechanicians and how their powers can be integrated to improve Hermetic Magic are described in Ancient Magic, but that book is not required to run this story. Because the antagonists do not directly interact with the characters for most of this story, they</div>
 <div>should be usable by most troupes without alteration. Storyguides wishing to increase the challenge presented by the animae are advised to portray them more assertively and ruthlessly. It should be noted, however, that Ailuros and Maahes can be very dangerous adversaries as they will not hesitate to sic nobility, church officials, or urban mobs upon the magi if they feel threatened.</div>
-</div sidebars>
-
 
 <h3>Prologue</h3>
 
@@ -1052,25 +968,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 </div sidebars>
 
 
-<div sidebars>
-
 <h3>Ailuros (Silver Cat)</h3>
 
 <div>Magic Might: 9 (Terram) Characteristics: Int +1, Per +1, Pre –2, Com –4, Str –7, Sta +1, Dex +3, Qik +4 Size: –3 Confidence Score: 1 (3) Virtues and Flaws: Perfect Balance, Puissant Awareness, Sharp Ears, Tough; Nocturnal. Personality Traits: Curious +4, Mischievous +3, Timid +2 Combat: Claws: Init +3, Attack +8, Defense +10, Damage –5 Teeth: Init +4, Attack +8, Defense +7, Damage –6 Soak: +4 Wound Penalties: None, see “Mechanica & Damage” insert. Abilities*: Arabic 5 (cultured discourse), Area Lore: Alexandria 4 (libraries), Area Lore: Eastern Roman Empire 6 (history), Area Lore: Town 2 (personalities), Artes Liberales 5 (rhetoric), Athletics 3 (jumping), Awareness 4+2 (at night), Brawl 2 (claws), Classical Greek 6 (Koine), Folk Ken 5 (scholars), French 3 (peasants), Guile 5 (obfuscation), Hunt 6 (birds), Intrigue 3 (elaborate schemes), Latin 5 (eastern), Magic Lore 2 (magic users), Organization Lore: Order of Hermes 2 (Verditius), Organization Lore: Imprisoning Covenant 2 (wards), Philosophiae 3 (sympathies), Stealth 4 (stalking). *	 Cats are excellent climbers and jumpers, gaining a +3 bonus on appropriate rolls.</div>
 <div>Powers: Child of Hephaestus, 0 points, Init +0, Terram: The anima is able to move under its own power in a manner appropriate to its shape. Ailuros & Maaes are somewhat heavier than flesh and blood felines, but not by enough to affect their mobility. ReTe 20: Base 2, +1 Concentration, +2 metal; +5 levels for device to maintain concentration, +10 levels for unlimited uses. (Mechanica Level: 12) Gift of the Muses, 0 points, Init +0, Auram: The anima has a sophisticated panpipe system in its neck. By selectively opening and closing vents to expose different reeds, the cat can approximate human speech. CrAu 20: Base 2, +1 Concentration, +2 highly unnatural; +5 levels for device to maintain concentration, +10 levels for unlimited uses. (Mechanica Level: 12) Gown of the Night Predator, 0 points, Init +0, Terram: The anima can camouflage itself by altering the coloration and pattern of its “coat”, conferring a +3 bonus on Stealth or Hunt totals. MuTe 13: Base 2, +2 Sun, +2 metal; +3 levels for six uses per day. (Mechanica Level: 9) Unbound Stalker, 0 points, Init +0, Terram: The anima can temporarily become incorporeal, allowing it to pass through walls unhindered or slip free from ropes and fetters. The magic only persists for a few</div>
 <div>seconds, but this is sufficient for the intended purpose. PeTe 20: Base 5, +2 metal; +5 levels for 24 uses per day. (Mechanica Level: 12) The Wish of Your Mistress, 0 points, Init +0, Mentem: The anima is able to implant a single complex suggestion into the target’s mind, which must be obeyed to the best of the victim’s ability. Combined with Maahes’ “Voice of the Demagogue” power, the cats are able to rapidly recruit a host of servants. ReMe 50: Base 20, +1 Touch, +3 Moon; +5 levels for a Penetration of 10, +5 levels for 24 uses per day. (Mechanica Level: 30) Vis: None. Appearance: Ailuros is a lithe silver cat with sparkling emerald eyes, built to resemble an Egyptian Mau. Mischievous by nature, she appreciates the sobering effect Maahes’ presence has on her, curbing her more capricious impulses and helping to keep her focused. She enjoys the thrill of the hunt, and Justinian’s nightingale (an anima described on page 84 of Ancient Magic) still holds a grudge against her for damaging its wing on more than one occasion. She is smarter than Maahes and acts as his adviser on important matters, but defers to his authority completely as she feels a wife should. The sound of a silver wind chime (Celmis’ sigil) can be heard when she uses her powers.</div>
-</div sidebars>
-
-
-<div sidebars>
 
 <h3>Maahes Tyreos (Golden Cat)</h3>
 
 <div>Magic Might: 13 (Terram) Characteristics: Int 0, Per +1, Pre 0, Com –4, Str –7, Sta +1, Dex +3, Qik +4 Size: –3 Confidence Score: 1 (3) Virtues and Flaws: Perfect Balance, Puissant Awareness, Sharp Ears, Tough; Nocturnal, Proud. Personality Traits: Curious +4, Prideful +3, Hedonistic +2, Timid +2 Combat: Claws: Init +3, Attack +8, Defense +10, Damage –5 Teeth: Init +4, Attack +8, Defense +7, Damage –6 Soak: +4 Wound Penalties: None, see “Mechanica and Damage” insert. Abilities*: Arabic 5 (cultured), Area Lore: Alexandria 3 (Library of Alexandria), Area Lore: Eastern Roman Empire 5 (history), Area Lore: Town 1 (geography), Artes Liberales 3 (rhetoric), Athletics 3 (jumping), Awareness 4+2 (at night), Brawl 2 (claws), Classical Greek 5 (Koine), Folk Ken 3 (nobility), French 3 (merchants), Hunt 4 (mice), Intrigue 2 (alliances), Latin 5 (academic usage), Leadership 4 (servants), Magic Lore 3 (items of quality), Normandy Lore 2 (cities), Organization Lore: Order of Hermes 2 (hierarchy), Philosophiae 6 (reagents), Stealth 4 (stalk</div>
 <div>ing). *	 Cats are excellent climbers and jumpers, gaining a +3 bonus to appropriate rolls. Powers: Child of Hephaestus, 0 points, Init +0, Terram. See Ailuros. Gift of the Muses, 0 points, Init +0, Auram. See Ailuros. Gown of the Night Predator, 0 points, Init +0, Terram. See Ailuros. Unbound Stalker, 0 points, Init +0, Terram. See Ailuros. Voice of the Demagogue, 0 points, Init +0, Mentem: The anima appears more intelligent and majestic than it actually is. Those affected by this power are inclined to regard the caster as their natural superior, to be respected and obeyed to the best of their ability. Targets do not find it particularly unusual or noteworthy that their superior is a metal cat. ReMe 40: Base 5, +2 Voice, +2 Sun, +2 Group; +3 levels for a Penetration of 6, +2 levels for three uses per day. (Mechanica Level: 24) Tranquility of the Purring Cat, 0 points, Init +0, Mentem: The anima can inspire a sense of supernatural calm in a small group of people by purring. Those affected are oblivious to strange goings on (rhinoceroses crashing through the door, a pair of animated metal cats walking down the street, and so on.) The targets perceive events</div>
 <div>normally, but while Maahes purrs, they react to even the most outlandish events as if they were perfectly normal occurrences unworthy of comment. The power persists for as long as Maahes keeps purring and, with repeated applications, can affect several groups simultaneously. ReMe 34: Base 4, +2 Voice, +1 Concentration, +2 Group; +5 levels for device to maintain concentration, +4 levels for 12 uses per day. (Mechanica Level: 21) Vis: None. Appearance: Maahes is a golden cat with dazzling ruby eyes who was designed to look like a majestic Persian. Larger and more heavily built than Ailuros, Maahes attracts even more attention than his lovely mate, something he secretly enjoys. Given to indolence and pride, he values his wife’s keen intellect and enjoys the sense of whimsy she injects into his life, which prevents him from getting too complacent.  Maahes enjoys sunning himself and has a passion for academic debate, particularly on his pet topic of alchemy. Whenever Maahes uses his powers, those in his immediate vicinity can feel the spring sun shining upon their shoulders regardless of the time of day or meteorological conditions.</div>
-</div sidebars>
-
 <div>the grogs’ activities should be sufficient to worry the other characters without prompting them to incinerate the unfortunate grogs first and ask questions later. For example, they might be trying to infiltrate areas reserved for magi, making sketches of the battlements, or asking the sergeant about the covenant’s magical defenses. Ultimately, it should be obvious to everyone that the teamsters are trying to gather information about the covenant and its magi beyond what is known to most covenfolk. If interrogated through mundane methods, Marc and Jean fall into a dogged silence. Intellego Vim magic reveals them to be under a powerful non-hermetic Mentem effect of 10th magnitude (base level 1 to detect the Form, base 3 to determine Form and Technique). The sound of a silver chime is also heard. If magically forced</div>
 <div>to talk, the grogs reveal that a well-dressed gentleman in hooded cape commanded them to investigate the covenant’s defenses and ascertain the resident’s attitudes toward non-Hermetic magic, magical creatures, and Hermetic property, then report back to him in a month’s time. Nothing more can be extracted from the pair since they simply don’t know what the hooded man is planning to do with the information. Although they were supposed to return to the city next month to deliver their report, neither grog knows where the rendezvous is set to occur — the man said that he would find them. Peering into the grogs’ minds reveals the image of a sun-shaped gold pendant hanging around a man’s neck. A non-Hermetic magic user inquiring about their magical secrets and facilities should prompt the characters to in</div>
 <div>vestigate. If they don’t, after a few months they notice that another pair of teamsters (most covenants have several) have been traveling to the city every month, even when they had no covenant business there. Magical investigation reveals that they are being controlled by the same magical effect that afflicted Marc and Jean. These new spies are just smarter than the previous ones.</div>
@@ -1170,8 +1078,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Eight The River</h1>
 
-
-<div sidebars>
 <div>As loud as a thousand galloping knights, the river surges, washes up over its banks, over the piers and into the town. Like an invading army the swirling waters crash down the streets. The ramshackle slums skirting the town instantly disintegrate as the flood engulfs them. The more substantial buildings in the established areas hold for a little longer before either bursting into jagged splinters, or being dragged whole into the waters and thrown against neighboring properties. Even a few of the tall brick towers of the wealthy teeter and fall under the watery siege. Then the waters slowly retreat. The river’s rapid, unexpected in</div>
 <div>vasion leaves the town devastated and confused. Dozens of battered and drowned corpses drift down the river or lie tangled in the wreckage of buildings. The river has slain the town.</div>
 
@@ -1179,8 +1085,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>This hook introduces Guardians of the Forests: The Rhine Tribunal into a saga that is not set in the Rhine Tribunal. The Tytalus magus Trajan, from the Rhine Tribunal, claims to be</div>
 <div>the Guardian of the Danube river. This status, he asserts, allows him to defend the river, even in ways that violate the Hermetic Code. He bases this upon a Rhine Tribunal Peripheral Code ruling: The Guardians of the Forests. Recklessly, he has acted on this and destroyed several mundane towns (killing hundreds) on the banks of the Danube in the player character’s Tribunal. Effectively, Trajan is trying to export the Rhine Tribunal’s ruling into the Peripheral Code of another Tribunal. The young Rhine Quaesitor Siegfried is vehemently opposed to this interpretation. In fact, Siegfried is opposed to the entire Guardians</div>
-</div sidebars>
-
 <div>of the Forests ruling and is trying to take advantage of Trajan’s recklessness to engineer the ruling’s suppression by the Grand Tribunal. This political story is about the player characters’ support for (or indifference to) either Trajan or Siegfried’s position.</div>
 
 <h3>The Guardians of the Forests</h3>
@@ -1203,17 +1107,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Trajan has used his Wizard’s Flood ritual (see insert) to destroy half a dozen towns along the Danube in the player’s Tribunal (or another river: see Moving the River). This has killed hundreds of mundanes. Many magi find the sheer scale of</div>
 
-<div sidebars>
-
 <h3>Trajan: Master of House Tytalus</h3>
 
 <div>Characteristics: Int +2, Per +1, Pre +1 (1), Com –1, Str +3 (1), Sta +3, Dex 0, Qik 0 Size: +2 Age: 64 (50; +5 Longevity ritual, +2 Bronze Cord) Decrepitude: 0 (2) Warping Score: 3 (11) Confidence Score: 2 (5) Virtues and Flaws: The Gift; Master Magus; Giant Blood; Gild Trained (Hawthorn Gild), Improved Characteristics, Inoffensive to Animals, Lesser Immunity: Exposure, Minor Magical Focus: Rivers, Self-Confident, Tough, True Friend (Cattus); Oath of Fealty (Danube river), Waster of Vis; Incomprehensible, Obsessed (Danube), Reckless Personality Traits: Loyal (Cattus) +3, Reckless +3, Obsessed +1 Reputations: Guardian of the Danube 2 (Hermetic), River Spirit 1 (local) Combat: Trident + Heater Shield: Init +3, Attack +10, Defense +13, Damage +8 Fist: Init +3, Attack +3, Defense +3, Damage +3 Soak: +8 (+3 Tough, + 3 Sta, +2 Bronze Cord) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–7), –3 (8– 14), –5 (15–21), Incapacitated (22–28), Dead (29+) Abilities: Animal Handling 3 (fish), Area Lore: Greater Alps 2 (rivers), Area Lore: Rhine Tribunal 4 (rivers), Artes Liberales 1 (rhetoric), Athletics 3 (jumping), Awareness 3 (searching), Bargain</div>
 <div>3 (spirits), Brawl 2 (fist), Code of Hermes 2 (forest guardians), Concentration 3 (spells), Dead Language: Latin 4 (Hermetic usage), Faerie Lore 1 (river creatures), Finesse 3 (Aquam), Hunt 3 (fishing), Intrigue 4 (Hermetic), Leadership 2 (river creatures), Living Language: High German 5 (Bavarian), Magic Lore 1 (river creatures), Magic Theory 5 (inventing spells), Nature Lore: Danube 6 (finding places of power), Organization Lore: Durenmar 1 (library), Organization Lore: Order of Hermes 2 (politics), Parma Magica 5 (Vim), Penetration 4 (Aquam), Single Weapon 6 (trident), Stealth 3 (rivers), Survival 4 (river), Swim 5 (diving) Arts: Cr 10, In 8, Mu 7, Pe 7, Re 11; An 7, Aq 14, Au 6, Co 17, He 6, Ig 5, Im 5, Me 5, Te 6, Vi 8 Twilight Scars: Trajan’s voice is like swirling water, which makes him difficult to understand (other characters need to make a Perception + Concentration roll against an Ease Factor of 6 to comprehend him), but does not affect spell casting or Voice Range. Equipment: Copper neck-torque, bracelet of topaz beads, robes of rushing water. Encumbrance: 0 (0) Spells Known: Tongue of the Fishes (InAn 20/+18) Mighty Torrent of Water (CrAq 20/+27) Wizard’s Flood (CrAq 35/+37*) Eyes of Danibus (InAq(Im) 20/+21*) Lungs of the Fish (MuAq 20/+24)</div>
 <div>Comfort of the Drenched Traveler (PeAq 5/+24) Chaos of the Angry Waves (ReAq 30/+28) Danibus’ Favour (ReAq 35/+39*) Whispers Through the Black Gate (InCo(Me) 15/+16) Return to the Flow (ReCo 40/+31) Wizard’s Sidestep (ReIm 10/+19) Arms of Neptune (CrTe 25/+19) Fist of Shattering (PeTe 10/+16) Sense the Nature of Vis (InVi 5/+19) Piercing the Magic Shroud (Magic equivalent of Piercing the Faerie Veil) (InVi 20/+19) Demon’s Eternal Oblivion (PeVi 5/+18) Bane of the Fae (Faerie equivalent of Demon’s Eternal Oblivion) (PeVi 5/+18) *	 Includes Minor Magical Focus: Rivers Vis: 12 pawns of Aquam vis in topaz bracelet. Appearance: Trajan is a giant, strong man with a ragged, steelblue beard, clothed in robes of cresting waves. With his voice like swirling water, Trajan appears as the very incarnation of Danibus, the Roman god of the Danube river. Many fishermen have seen a wild river spirit stalking the shallows of the Danube, and Trajan is well known in the Rhine as the guardian of the Danube. Trajan’s body is covered in abstract tattoos, which are a coded astrological map of the places of power along the Danube. The tattoos are fixed Arcane Connections to four different locations along the Danube, which all have strong Magic auras (6+).</div>
-</div sidebars>
-
-
-<div sidebars>
 
 <h3>Trajan: Master of House Tytalus cont.</h3>
 
@@ -1233,11 +1131,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>ReCo 40 R: Personal, D: Momentary, T: Individual This spell instantly transports Trajan to a point that he has an Arcane Connection to. He often uses his tattoos as the Arcane Connections for this spell; his tattoos are fixed Arcane Connections to the river (see character insert). (Base 35, +1 size modifier)</div>
 <div>Arms of Neptune</div>
 <div>CrTe 25 R: Touch, D: Diameter, T: Group This spell creates, in Trajan’s outstretched hands, an intricately wrought trident and a metal shield engraved with the image of a raging river. The weapons have standard game statistics. When the spell is cast make an Intelligence + Finesse roll against an Ease Factor of 6. If the roll succeeds the weapons are beautiful, if it fails the weapons are serviceable but ugly. If the Finesse roll botches the weapons are flawed and break when used. Record the Penetration of this spell, as the weapons must Penetrate the Magic Resistance of opponents. (Base 5, +1 Touch, +1 Diameter, +2 Group)</div>
-</div sidebars>
-
 <div>these casualties to be abhorrent. However, murder of mundanes is not actually a Hermetic crime (although it is, of course, a mundane crime). For Trajan to face Hermetic justice he must be convicted by the</div>
-
-<div sidebars>
 
 <h3>Cattus, Daughter of the Danube</h3>
 
@@ -1245,8 +1139,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>+8, Damage –4 Soak: +5 (+1 Thick Scales, +2 Sta, +2 Bronze Cord) Fatigue Levels: OK, 0, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–2), –3 (3–4), –5 (5–6), Incapacitated (7–8), Dead (9+) Abilities: Awareness 2 (food), Brawl 3 (teeth), Dead Language: Latin 4 (Hermetic usage), Dowsing 5 (vis), Hunt 4 (smaller fish), Living Language: High German 5 (Bavarian), Magic Theory 3 (lab assistant), Stealth 2 (shallows), Survival 3 (rivers), Swim 5 (upstream) Encumbrance: 0 (0) Vis: None. Appearance: Cattus (Cat) has been Trajan’s familiar for 14 years. She is a playful, speckled brown trout, and very difficult to spot as she swims along the Danube. When Tajan is away</div>
 <div>from the river Cattus patrols for perils to the river’s spirit (unless set some other task).</div>
 <div>Cattus is not a magic creature, but she was born with the Supernatural Ability to find things in the river bed (Dowsing) and she found Trajan when he was ready for a familiar. Trajan later paid another Rhine magus to cast rituals to increase Cattus’ Intelligence to 0. As she has no Magic Resistance of her own, Cattus uses Trajan’s Form Art Scores as her Magic Resistance. Trajan created the Familiar Bond with an InAq Lab Total of 25 (Gold Cord +1, Silver Cord +1, Bronze Cord +2). The bond has been enchanted with Mental Communication which allows Trajan to speak telepathically with Cattus (and vice versa, thus, two powers; see ArM5, page 105).</div>
-</div sidebars>
-
 <div>Tribunal of a Hermetic crime, such as “interference with the mundane.”</div>
 
 <h3>Siegfried the Quaesitor</h3>
@@ -1350,8 +1242,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>the mundane by destroying towns and drowning hundreds of mundanes. At face value this is a High Crime. However, as the mundanes do not associate this devastation with Hermetic magi (unless this has changed during play), it may be questionable whether Trajan’s interference has really resulted in “ruin to his sodales.” The excessive mundane deaths may be a factor in the Tribunal’s decision. If Trajan’s actions have damaged covenant property, vis sources, or other magical resources, then Siegfried also (or instead) accuses Trajan of deprivation of magical power. Trajan claims he is the river guardian, and that this excuses both his intended actions and any collateral damage.</div>
 <div>If Trajan is Found Guilty</div>
 <div>If Trajan is found guilty he could be fined, Marched, or the Tribunal might decide to impose some other penalty, such as labor, or the execution of his beloved familiar, Cattus. Trajan pays any reasonable vis fine (although he needs to return to the Rhine Tribunal or the Danube to collect it). Usually, he would be granted time until the next Tribunal to pay the fine. Trajan likewise completes any reasonable labor fine. If Trajan is Marched, or if he is asked to give up Cattus, then he immediately attempts to use his Return to the Flow spell to return to the Danube. Once at the Danube he — with Cattus — hides along</div>
-
-<div sidebars>
 <div>the river until he can escape back to the Rhine Tribunal. This escape strategy is not infallible. For example, very quick characters may be able to disrupt Trajan’s Return to the Flow spell, or forward thinking characters may have acquired Arcane Connections to Trajan, which might allow Trajan to be followed (or killed from Arcane Connection Range). The player characters may also search for Trajan’s hiding place and confront him there. Siegfried, flush with success, tries to gather support for the Tribunal to appeal and thus over-rule the Rhine Tribunal’s Guardians of the Forests ruling at the Grand Tribunal. If Trajan has been Marched, and especially if he has then escaped, there could be considerable support for this idea. However, if Trajan has only been fined, then the Tribunal is probably reluctant to challenge the Rhine Tribunal in this way.</div>
 <div>If Trajan is Found Innocent</div>
 <div>If Trajan is found innocent, this Tribunal has effectively imported the Rhine Forest Guardians ruling by creating a similar ruling (pertaining to rivers) in this Tribunal’s Peripheral Code. Whether this precedent can be effectively used by other characters may be the basis of future stories. If the player characters helped Trajan they earn the enmity of Siegfried, and Trajan is grateful to them afterward. Disgruntled by proceedings, Siegfried still tries to gather some</div>
@@ -1362,24 +1252,18 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Further stories involving the Rhine Tribunal include:</div>
 <div>•	 If Trajan has testified to a regio linking the Danube and another river in the Tribunal as part of his legal defense, then the existence of this regio becomes common knowledge in the Tribunal. If the player characters can locate it (which should not be difficult if Trajan’s testimony is accurate), they can use the regio to easily travel to the Rhine Tribunal. Closer links between the two Tribunals may lead to conflict between the respective political structures. •	 If he survives, Siegfried tries to make a case for the Grand Tribunal to suppress the Rhine’s Guardians of the Forests ruling, supported by either his failure or success in prosecuting Trajan. The player characters might try to assist or hinder Siegfried and his Rhine allies.</div>
 <div>•	 If Trajan is Marched, but escapes immediate death, then Siegfried assembles a team of hoplites to hunt Trajan down, and the player characters may be recruited. The assassination team may need to travel to the Rhine Tribunal to find Trajan’s trail. •	 The magi may have accepted the offer of resources from either Siegfried’s or Trajan’s Rhine allies as payment for their help. They need to travel to the Rhine to collect these debts. •	 If the player characters have become close to Trajan (and he survives) he might try to recruit them as fellow minions of the river spirit. They can gain power from this, but need to perform quests for the river. •	 If Trajan is killed, Danibus may have the power (and inclination) to raise him as a ghost. Trajan might thus continue to serve the river after death, and his ghost may need to be destroyed by the player characters. •	 The player characters may acquire enemies or allies in the Rhine as a result of the case. •	 If Trajan is found innocent, the player characters (or others) may try to use the new precedent to declare themselves guardians of natural features within the Tribunal. •	 If Trajan is found innocent (or only fined vis or labor) he continues in the coming years to clear the banks of the Danube of human habitation. This may led to conflict with the player characters and more Tribunal cases.</div>
-</div sidebars>
-
 
 <h1>Chapter Nine</h1>
 
 
 <h2>To the Dark Tower</h2>
 
-
-<div sidebars>
 <div>Above, the sky is filled to the horizon with wrinkled gray clouds that race overhead like the mottled underbelly of a great beast swimming through the heavens; endlessly, blindly, searching for food, oblivious to the tiny dramas crawling beneath. Looking downwards, down the sheer face of the tall stone tower, a small group of figures is seen dismounting from their horses at its base. One figure holds the reins of his companions’ horses, as the others stride purposefully across the broken ground toward the tower gate. The horses’ nervous whinnies spiral up into the gray sky, and carry up to those watching from the parapets above. It is the end of day and the men’s long shadows, faint and ghostly, stretch out to touch the tower gate long before the men reach it. The shadows dance as the men draw swords and throw off their traveling cloaks. Beneath are emblazoned tabards — bright yellows, greens, and blues, embroidered with furled leaves, fierce beasts, and crazed geometries. All proud signs proclaiming ownership and descent, glorious deeds done, and threats of deeds</div>
 <div>yet to come. Deeper still, beneath the tabards, there are glimpses of the darker, solid, glistening patina of armor. The lead figure reaches forward with a gauntleted fist and bashes at the tower gates. Those watching from the tower heights, above, exchange glances. The younger sentinel races downstairs to the laboratories…</div>
 
 <h3>Sir Erwan</h3>
 
 <div>Sir Erwan and his companions have arrived at the player characters’ covenant. Sir Erwan is a noble, the younger son of Henry II of Avagnor, Count of Penthièvre. Sir Erwan had a vision which revealed to him that this towering wizard’s fortress — the covenant — on the border of his father’s</div>
-</div sidebars>
-
 <div>lands is a terrible evil. His vision revealed that the sorcery and rituals cast in the equinox dawn by these wizards will bring death and devastation to his father’s lands and peoples. Being a direct man, and a highly trained and skilled warrior, Sir Erwan has resolved to solve this problem in the most straight-forward manner he can think of. He has left his father’s court and traveled on a quest to the wizard’s tower. He intends to challenge and defeat the magi in single combat. The magi need to respond, somehow, to this challenge. The significance of this story is not really whether the magi can slay Sir Erwan (they almost certainly can), but about whether they choose to slay a major local noble and deal with the consequences, or find some other way to solve the problem. Whatever the magi do, Sir Erwan’s quest to their tower embroils them in the noble courts. This hook thus serves to introduce the Lords of Men to the saga.</div>
 
 <h3>Sir Erwan’s Vision</h3>
@@ -1405,15 +1289,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Sir Erwan has a Greater Malediction of Hereditary Madness. This curse has affected all the male members of his family for the last three generations. This Greater Malediction has no real effect in</div>
 
-<div sidebars>
-
 <h3>Sir Erwan</h3>
 
 <div>Characteristics: Int +1, Per 0, Pre +1, Com 0, Str +1, Sta +1, Dex +2, Qik +2 Size: 0 Age: 34 (34) Confidence Score: 2 (5) Virtues and Flaws: Knight; Wealthy; Affinity with Single Weapon, Educated, Improved Characteristics, Self-Confident, Tough, Warrior; Greater Malediction (hereditary madness), Oath of Fealty, Overconfident; Visions Personality Traits: Confident +6, Chivalrous +3 Reputations: Valiant Knight +5 (nobles), Huntsman +3 (local) Combat: Gauntlet: Init +2, Attack +5, Defense +6, Damage +3 Long Sword: Init +4, Attack +15, Defense +12, Damage +7 Heater Shield: Init -, Attack -, Defense +3, Damage Great Sword: Init +4, Attack +12, Defense +9, Damage +10 Short Bow: Init +1, Attack +11, Defense +8, Damage +7 Soak: +13 (Sta + Tough + Full Chain) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6– 10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Animal Handling 2 (falconry), Area Lore: Brittany 3 (Penthièvre), Artes Liberales 1 (rhetoric), Athletics 3 (racing), Awareness 3 (spotting prey), Bows 5 (short bow), Brawl 3 (fist), Carouse 1 (courtly), Charm 1 (courtly</div>
 <div>love), Chirurgy 1 (binding wounds), Dead Language: Latin 4 (clerical), Etiquette 2 (heraldry), Folk Ken 2 (nobles), Great Weapon 4 (great sword), Guile 1 (disguise), Hunt 4 (deer), Leadership 4 (battle), Living Language: Breton 5 (courtly), Living Language: French 2 (Orleannais), Ride 5 (battle), Single Weapon 8 (sword), Stealth 2 (forest), Survival 2 (forest), Swim 1 (rivers), Thrown Weapons 2 (throwing axe) Equipment: Long sword, heater shield, full chain armor, warhorse, great sword, short bow and arrows Encumbrance: 3 (4; armor + long sword + heater shield) Appearance: A tall man with black hair, strong arms, and dark eyes, Sir Erwan rides like a descendant of the centaur, hunts like a soaring bird-ofprey, and fights like a grinning yellow-toothed wolf. He is the incarnation of nobility: strong, violent, and entitled. Sir Erwan does not routinely carry a lance (although he can use one).</div>
 <div>Sir Erwan is heavily armed and rides a magnificent warhorse; reputedly, a descendant of Charlemagne’s steed. Over his armor, Sir Erwan wears a vibrant, expensively embroidered tabard. This heraldry proudly reveals his family’s lineage and lands and status as a branch of the ducal family.</div>
-</div sidebars>
-
 <div>this scenario, but if Sir Erwan remains in the saga it may become a source of further stories. The curse means that every time Sir Erwan’s Decrepitude Score increases he gains a Minor Personality Flaw, in addition to any other aging effects (see ArM5, page 17). To determine the Personality Flaw roll a simple die + Decrepitude Score and compare to the list that follows. If he already has that Minor Flaw then the Flaw</div>
 <div>becomes Major instead. There is no additional effect if he already has the corresponding Major Personality Flaw.</div>
 <div>Roll	 Effect 1-3 Gains Compulsion Flaw 4-6 Gains Delusion Flaw 7-9 Gains Short Attention Span   Flaw 10-12	 Gains Poor Memory Flaw 12+ Gains Depressed Flaw</div>
@@ -1422,15 +1302,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Sir Erwan has three companions: the twin vassal knights, Sir Louis and Sir Rudolph, and a young squire named Andru. All the characters, including Sir Erwan, are mounted on warhorses. If you need game statistics for a warhorse these can be found in the Book of Mundane Beasts (see Realms of</div>
 
-<div sidebars>
-
 <h3>Sir Louis and Sir Rudolph</h3>
 
 <div>Characteristics: Int 0, Per 0, Pre +1, Com 0, Str +2, Sta +1, Dex +1, Qik +1 Size: 0 Age: 28 (28) Confidence Score: 0 (0) Virtues and Flaws: Knight; True Friend, Warrior; Ability Block (Academic), Afflicted Tongue (Louis only), Missing Eye (Rudolph only), Vow (Code of Chivalry) Personality Traits: Brave +3, Chivalrous +2, Loyal +2 Reputations: Twin Valiant Knights +2 (nobles), Vicious Brawlers +1 (local) Combat: Gauntlet: Init +1, Attack +4*, Defense +5, Damage +4 Long Sword: Init +3, Attack +11*, Defense +8, Damage +8 Heater Shield: Init -, Attack -, Defense +3, Damage Lance: Init +3, Attack +13*, Defense +9, Damage +7 Long Spear: Init +4, Attack +10*,</div>
 <div>Defense +8, Damage +9 *	 Sir Rudolph’s Attack values have a penalty of –1 due to his Missing Eye. Soak: +10 (Sta + Full Chain) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Animal Handling 2 (hunting dogs), Area Lore: Brittany 3 (Penthièvre), Athletics 2 (racing), Awareness 2 (battlefield), Brawl 3 (wrestling), Carouse 2 (soldiers), Chirurgy 1 (brawling injuries), Concentration 1 (vigil), Etiquette 1 (heraldry), Great Weapon 5 (spear), Hunt 3 (tracking), Leadership 2 (men-at-arms), Living Language: Breton 5 (courtly), Ride 5 (battle), Single Weapon 5 (sword), Stealth 3 (forest), Survival 1 (forest) Equipment: Long sword, heat</div>
 <div>er shield, full chain armor, warhorse, lance, long spear. Encumbrance: 2 (4; armor + long sword + heater shield) Appearance: The twins Louis and Rudolph are heavily armed and wear virtually identical heraldry, such that only the most skilled heralds can distinguish them from each other on the battlefield. Even their warhorses appear to be twins.  When they remove their helms, both brothers reveal long mustaches, and blue eyes set in nearly identical faces, albeit both somewhat beaten and weathered by a brutal career of hunting, drinking, and fighting. Stripped of the anonymity of his steel helm, Rudolph is easily identifiable by a large, long-healed, scar that cuts through the entire left-side of his face.</div>
-</div sidebars>
-
 <div>Power: Magic). Alternative horse statistics are available in Lords of Men, page 55. Sir Erwan may also be accompanied by a dozen or more lesser retainers (use The Standard Soldier template; ArM5, page 22). If he needs to stay in the field for a long time he can recruit more such men from either from his home or from a local manor.</div>
 
 <h3>Sir Louis and Sir Rudolph</h3>
@@ -1439,14 +1315,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>empty socket. Sir Rudolph’s scar was inflicted in a vicious knife-fight that the twins were embroiled in as teenagers. After the brawl, Sir Louis tracked down and slit the throat of Sir Rudolph’s assailant in retaliation. To this day, the twins are still paying the fines consequently imposed on them by the town magistrates.</div>
 <div>Sir Louis has a stutter (Afflicted Tongue). He was born with this impediment, and so he usually lets Sir Rudolph speak for him. As the twins are identical a single set of character statistics is given for the pair (note the modification to combat statistics due to Rudolph’s missing eye).</div>
 
-<div sidebars>
-
 <h3>Andru, a Squire</h3>
 
 <div>Characteristics: Int +1, Per +3, Pre +1, Com –2, Str 0, Sta 0, Dex +1, Qik +1 Size: 0 Age: 21 (21) Confidence Score: 0 (0) Virtues and Flaws: Custos (squire); Premonitions (Magic Supernatural Ability), Warrior; Poor Student, Social Handicap, Weakness (solving social mysteries) Personality Traits: Curious +3, Loyal +3 Reputations: Interfering +3 (local) Combat: Gauntlet: Init +1, Attack +5, Defense +6, Damage +3 Long Sword: Init +3, Attack +11, Defense +8, Damage +6 Heater Shield: Init -, Attack -, Defense +3, Damage Soak: +9 (Sta + Full Chain) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6– 10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Animal Handling 3 (horses), Area Lore: Brittany 2 (towns), Athletics 2 (grace), Awareness 2 (things out of place), Bows 1 (short bow), Brawl 3 (gauntlet), Carouse 1 (courtly), Chirurgy</div>
 <div>1 (light wounds), Etiquette 1 (courtly), Folk Ken 3 (social problems), Great Weapon 1 (spear), Hunt 3 (falconry), Leadership 1 (battle), Living Language: Breton 5 (courtly), Premonitions 3 (domestic problems), Ride 3 (racing), Single Weapon 5 (sword), Stealth 1 (urban), Survival 1 (forest) Equipment: Long sword, heater shield, full chain armor, warhorse. Encumbrance: 4 (4; armor + long sword + heater shield) Appearance: A young, clean shaven man with short unruly, curly brown hair, Andru is a keen observer of how others interact socially. Andru is particularly adroit at spotting unresolved social tensions, which he often then attempts to resolve, despite the anger his interference usually provokes.  Like the others he is heavily armed and armored. He wears a simpler tabard than the others, which reveals to those with suitable heraldic knowledge that he is a retainer of Sir Erwan.</div>
-</div sidebars>
-
 
 <h3>Hooks Andru</h3>
 
@@ -1473,15 +1345,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>to look at the covenant (and the covenants of other magi) as sources of supernatural peril. Even if the magi do not personally know very much about the local nobility, the covenant servants who more routinely deal with the mundane world recognize Sir Erwan’s name and lineage and can inform the magi. However, only people who personally liaise with the court can positively identify Sir Erwan. Sir Erwan makes no secret of who he is. In fact, he loudly</div>
 <div>proclaims his identity, titles, and lineage upon arrival at the covenant. The magi may suspect that “Sir Erwan” is a mundane or supernatural imposter, but suitably skilled magi can prove Sir Erwan’s identity with Intellego magic. Andru, Sir Erwan’s squire, greatly fears for his master’s life, a fear reinforced by his supernatural premonitions. Andru will thus attempt to negotiate to save his master’s life.</div>
 
-<div sidebars>
-
 <h3>Supernatural Protection</h3>
 
 <div>If Sir Erwan is interfered with by magic, but not killed, he returns at a later time with supernatural protection. Alternatively, he can initially approach the magi with some of this supernatural protection if the troupe feels that it is necessary. However, remember that the significance of this story is not really whether the magi can slay Sir Erwan, but about whether they choose to slay a major local noble and deal with the consequences, or find some other way to solve the problem. It is common knowledge that church relics provide protection against the supernatural, so Sir Erwan may think to borrow a relic from the cathedral. Presenting the relic gives him a Magic Resistance (ArM5, page 189). If he has a relic Sir Erwan’s retinue expands to include a nervous cathedral canon, Father Otto, who tries to ensure that no harm comes to the relic. Use The Priest</div>
 <div>template (ArM5, page 23) for the canon’s game statistics. Sir Erwan may have a Guardian Angel (which gives him a magic resistance of 15; ArM5, page 43). The angel may in fact be the source of Sir Erwan’s visions. Alternatively, if Sir Erwan prays to a saint for intervention the saint may assign a temporary guardian angel to Sir Erwan. Sir Erwan may be able to obtain folk charms against magic. Sir Erwan has nothing against magic in general, and his vision only concerns the magi at the covenant, so he is perfectly willing to track down folk witches, learned magicians, hedge wizards, or even other Hermetic magi, for assistance. Of course, much “assistance” such characters can provide will be ineffective, but Sir Erwan does not know this. Possible folk charms that will actually be effective include:</div>
 <div>•	 Charm Against Shape-Shifting Magic, allows Sir Erwan to make Stamina roll against an Ease Factor of 6 to return to his normal shape if he has been shape-shifted. •	 Charm Against Befuddlement, allows Sir Erwan to make a Presence roll against an Ease Factor of 6 + Magnitude of Effect to shake off the effect of an ongoing Mentem spell. •	 Charm of Strength, gives Sir Erwan a +3 Soak bonus against magic sources of damage. •	 Charm of the Immovable Object, allows Sir Erwan to make a Strength roll against an Ease Factor of 6 + Magnitude of Effect to shake off the effect of an ongoing Rego spell. •	 Confounding Charm, raises the Concentration Ease Factor by 3 of Concentration Duration magic effects that target Sir Erwan.</div>
-</div sidebars>
-
 
 <h3>Hooks Rising to the Challenge</h3>
 

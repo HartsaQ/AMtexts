@@ -13,8 +13,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h2>The Mechanics of Initiation</h2>
 
-
-<div sidebars>
 <div>The process of Initiation into a Mystery is given a full treatment in The Mysteries Revised Edition, but a summary of the mechanics is provided here for reference.</div>
 <div>All of the Exoteric (that is, House) Mysteries are governed by a separate (House) Lore; thus there is a House Bjornaer Lore, a House Criamon Lore, a House Merinita Lore, and a House Verditius Lore. Initiates who have not been apprenticed to a member of the House need at least (House) Lore 1; the Mystagogue for any Initiate must also know the same Lore, but generally needs a high level if the Initiation is to succeed. To grant the Initiate a new mystery Virtue, the Mystagogue generates an Initiation Total, which determines the success or failure of the Initiation:</div>
 
@@ -83,8 +81,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>It may be necessary for a Mystagogue to modify an Initiation Script; for example, to add additional elements to it to make a diffi cult Initiation possible for an inexperienced Mystagogue. To vary the Script, the Mystagogue makes the following test:</div>
 
 <h3>Introduction</h3>
-
-</div sidebars>
 
 <div>The Mystagogue may only attempt one change in a given Initiation. If the test fails, the Initiation would fail (and the Mystagogue knows this), but the original Script (or a different variation) may be attempted in another season. If the variation test roll succeeds, the modifi ed Script is used as above to generate the Initiation Total, and if this equals or exceeds the Initiation Target Level, the Initiation succeeds with no further rolls. If the Script would fail, the Initiate does not need to make any of the sacrifi ces that the Script would require; the Mystagogue realizes the problem before that stage is reached.</div>
 <div>If a single change is not enough to make a particular Script work, then either a different Script is needed, or the Mystagogue must study more (House) Lore.</div>
@@ -179,8 +175,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h2>House Bjornaer</h2>
 
-
-<div sidebars>
 <div>The childhood of our House has passed. We were born into darkness, weaned in the wild places of the world, took our fi rst tottering steps in the shadows of our forefathers. Now it is time for us to come forth from the wilderness and experience the full light of the Order of Hermes. Now it is time for us to honor the memory of our ancestors by living our own lives, fi lled with the wisdom we have learned — and still learn yet — at their knees. Now is the time that we stand proud as heirs, as adults, as magi.</div>
 <div>— Primus Salmo, speaking to the House in 1023</div>
 <div>When asked, all that most magi know about the members of House Bjornaer is that they can change shape. The more arrogant magi dismiss them as practitioners of primitive magic; the more misty-eyed ones see them as the last remnants of a forgotten people — noble savages. Neither group will be easily able to fi nd a magus of the House who fulfi lls either stereotype, yet they endure. Few can mention a famous historical member of the House, fewer still know any historical event which involved a Bjornaer magus. Although the Order does not realize it, they know next to nothing about this secretive House, and what they do know is unsupported by fact. This is a result of deliberate efforts on behalf of the followers of Bjornaer, who recognize the power inherent in secrets. In truth, House Bjornaer is a cult of the ancestors, gaining power in the present because of the weight of all of those who have gone before. They believe that it is the ancestor-spirits that reside within them that gives them the power to change shape; through greater communication with these spirits inside them, they seek to become creatures of magic.</div>
@@ -192,6 +186,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Bjornaer the Founder</h3>
 
 <div>As with many Mystery Cults, the story of the central fi gure of House Bjornaer — the Founder herself — is as much legend as it is history. She was from a remnant tribe of the Gothic people who once occupied the whole of northeastern Germany, and her name was actually Birna, which means ‘she-bear’ in the language of her tribe. As an initiate of a witch-cult, Birna received visitations from an ancestor, who took the form of a spirit-bear. It told her that the witches enslaved ancestor-spirits with evil magic, and convinced Birna to try to fi nd a way to break the power of the cult. Birna pretended that she was magically weak, while learning the hidden lore of her tradition. She was scorned and mocked by the witch-cult for her meager powers, and her resentment for them grew daily.</div>
+
+<div sidebars>
 
 <h3>Key Facts</h3>
 
@@ -1226,16 +1222,7 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>The second stage of the Quest towards this Inner Mystery is to communicate with the Great Beast and convince it to impart the knowledge sought. Great Beasts have succumbed to Final Twilight and become creatures of the Magic realm; however, they were once human, and most</div>
 <div>are still in possession of true Intelligence. Despite this, they now possess wholly different motivations and goals, most of which are utterly inscrutable. Successfully communicating with a Great Beast can be a lengthy and frustrating process.</div>
 <div>Example: The Great Beast that was once Lupercus is a wily quarry, quite beyond Ulf’s ability to track. It takes him months to even get a glimpse of his ancestor, and Ulf starts to despair of any actual contact. Finally, one of Ulf’s nightly</div>
-
-<div sidebars>
-
-<h4>Revenge of the Bitten Toad</h4>
-
 <div>PeAn 20 R: Per, D: Diam, T: Flavor Any creatures who bite (or otherwise taste) the caster suffer a Heavy Wound. Any successful bite attack against the caster results in the creature tasting him, even if no wound is actually infl icted. The caster still suffers any damage infl icted by the bite, but his opponent is typically deterred from further attacks.</div>
-<div>(Base 15, +1 Diam)</div>
-
-<h4>Hibernation of the Slumbering Turb</h4>
-
 <div>ReMe 35 R: Per, D: Year, T: Texture, Ritual Req: Creo Anyone touching the caster falls asleep and does not awaken until the spell expires. The caster is not affected by this magic, and his own sleep is natural. Those affected by the spell do not need to eat or drink while it persists, but when they awaken, they are ravenously hungry. Despite the usual length of a Year Duration spell, this spell’s effects always end at the Spring Equinox. This spell was invented by Odorpes of the Sept of Urgen, who lives separate from the rest of her covenant. She hibernates and puts all her covenfolk to sleep with her, so she need not provision them during the winter.</div>
 <div>(Base 4, +4 Year, +1 Texture, +1 Creo requisite, +1 complexity)</div>
 
@@ -1243,7 +1230,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>CrMe 20 R: Per, D: Sun, T: Scent Anyone smelling the caster is struck by an overwhelming sensation of menace</div>
 <div>and hostility. The cowardly fl ee, whereas braver souls are intimidated, granting the caster a +3 to all attempts to cow the target into obeying him.</div>
-<div>(Base 4, +2 Sun, +2 Scent)</div>
 
 <h4>Marking the Territory</h4>
 
@@ -1255,9 +1241,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>MuMe 15 R: Per, D: Diam, T: Sound Anyone hearing the caster’s battle cry is heartened by its tone, and receives a +3 bonus to his Brave Personality Trait.</div>
 <div>Those attaining Brave scores greater than +3 through this spell perform acts of courage well beyond those expected of them.</div>
 <div>(Base 3, +1 Diam, +3 Sound)</div>
-
-<h4>The Rooster’s Crow</h4>
-
 <div>PeVi Gen R: Per, D: Mom, T: Sound Any demons who hear the caster’s shout lose Might equal to the spell’s (level – 5) if the spell penetrates their Magic Resistance.</div>
 <div>(Base effect, +3 Sound)</div>
 
@@ -1272,6 +1255,19 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>(Base 10, +2 Sun, +4 Spectacle)</div>
 
 <h3>Examples Spells with Sensory Magic Targets</h3>
+
+
+<div sidebars>
+
+<h4>Revenge of the Bitten Toad</h4>
+
+<div>(Base 15, +1 Diam)</div>
+
+<h4>Hibernation of the Slumbering Turb</h4>
+
+<div>(Base 4, +2 Sun, +2 Scent)</div>
+
+<h4>The Rooster’s Crow</h4>
 
 </div sidebars>
 
@@ -1606,15 +1602,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Minor, General The character is a dominant person with a demeanor that encourages others to do what he says. His self-assured manner gives him a +3 bonus to social situations</div>
 <div>in which he takes the lead; people are more likely to follow his orders or do as</div>
 <div>he suggests. If he is Gifted, this bonus can temporarily help to overcome the social</div>
-
-<div sidebars>
-<div>a Minor Magical Focus in Legendary Creatures and acquire one of the Form of the (Temperament) Heartbeast spells as their magical feat. These spells were originally modeled from Birna’s own innate abilities. The hereditary Minor Personality Flaw from Birna’s line is Slothful (see New Flaws, below).</div>
-
-<h3>New Virtues</h3>
-
-
-<h4>Clan Ilfetu</h4>
-
 <div>Every Bjornaer magus has the free Supernatural Virtue Heartbeast. Members of Clan Ilfetu are required to take the new Virtue “Clan Ilfetu”. Other common Virtues and Flaws are:</div>
 <div>Afﬁ nity with Heartbeast Animal Ken Deft Form Inoffensive to Animals Puissant Heartbeast Quiet Magic Special Circumstances: When in human or heartbeast form. Self-Conﬁ dent: Magi who experienced the Ritual of Twelve Years early in their apprenticeship are treated as equals by adults at a very early age, which gives self-assurance and confi dence. Study Bonus: Particularly useful for magi who spend a lot of time in heartbeast form. Subtle Magic Ways of the (Land): Particularly suitable for traditional “savage” Bjornaer magi. Wilderness Sense: Particularly suitable for traditional “savage” Bjornaer magi. Animal Companion: Some Bjornaer magi form deep attachments to ani</div>
 
@@ -1655,13 +1642,22 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h4>•</h4>
 
 
-<h4>•</h4>
-
-
-<h4>•</h4>
-
-
 <h3>Common Virtues & Flaws</h3>
+
+
+<div sidebars>
+<div>a Minor Magical Focus in Legendary Creatures and acquire one of the Form of the (Temperament) Heartbeast spells as their magical feat. These spells were originally modeled from Birna’s own innate abilities. The hereditary Minor Personality Flaw from Birna’s line is Slothful (see New Flaws, below).</div>
+
+<h3>New Virtues</h3>
+
+
+<h4>Clan Ilfetu</h4>
+
+
+<h4>•</h4>
+
+
+<h4>•</h4>
 
 
 <h4>Blood Magical Feat Minor Magical Focus Personality Flaw</h4>
@@ -1943,8 +1939,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h1>Chapter Two House Criamon</h1>
 
-
-<div sidebars>
 <div>You are already immortal. Time forms a great Circle. Every life is repeated, identical in every breath, each cycle of time.</div>
 <div>You will live this current life, invariably, forever.</div>
 <div>Isn’t that horrible?</div>
@@ -1952,6 +1946,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>House Criamon’s members want all people to escape from time. They believe time is circular, which means every person lives an infi nite number of identical lives. Every moment of suffering repeats inevitably forever. They believe Criamon found a refuge outside time, and that he holds the way there open for magi. This does not suffi ce.</div>
 <div>Criamon’s followers do not accept that they are superior to other humans. Abandoning the rest of humanity to infi nite suffering is so immoral as to prevent salvation. Criamon magi want to save everyone from time. Criamon was fond of teaching through posing riddles, and his fi nal question was “How can we all escape the circle of time?” This question is the Enigma, and lies at the center of the thoughts, actions, and identity of Criamon magi.</div>
 <div>Criamon’s followers have dedicated themselves to fi nding the answer. They acquire knowledge, to formulate possible answers. They seek wisdom, to discern the quality of the information they have uncovered. The search for the Enigma’s solution may take many centuries. During the interim, Criamon magi live as aptly as they can. They believe that a degraded spirit is unlikely to comprehend the answer.</div>
+
+<div sidebars>
 <div>Population: The house has 94 living members, divided into seven groups called clutches. A clutch consists of all the Criamon magi in a Tribunal. In the early years of the Order each clutch lived as a covenant, and followed a unique lifestyle and series of Initiations, called a path. In 1220, each clutch still has strong links to its original path, though all but one have members from other paths. Each clutch still has a covenant that is considered its center, but some of these are no longer House covenants. Some magi are wanderers: they are part of a clutch, but do not live with other Criamon magi. These magi, usually young, live in mixed House covenants and visit their clutches occasionally, to transmit their insights and receive instruction. Two paths have no clutch.</div>
 <div>Domus Magna: The Cave of Twisting Shadows, in the Greater Alps Tribunal, contains many of the older members of the House. Its resident magi, 12 living and numerous dead, are also called the Central Clutch.</div>
 <div>Prima: Muscaria, fi lia Demetrius. The Prima’s role is to support her house</div>
@@ -2144,17 +2140,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>A Criamon magus’s stigmata have no mechanical cause and cannot be removed, even by magic. If a magus loses a stigma, for example by suffering burns that destroy that patch of skin, the stigma regenerate, or migrate so that the burn forms part of their pattern. On rare occasions, a magus’s stigmata have migrated to a familiar, talisman, or apprentice. Magi shifted into other shapes retain their stigmata in the new shape.</div>
 <div>Certain symbols repeat across the bodies of the House’s members: the most common is the loop of the infi nite. This represents the prison of cyclical time. It appears on the forehead of each Primus. Criamon magi who have entered Twilight often develop loop marks on their wrists. This shows that they have broken their manacles, if only for a moment. Each path has stigmatic symbols, which are described in detail in their sections.</div>
 <div>Other forms of body modifi cation fi nd temporary popularity in the House, but most members think Criamon’s teachings forbid them. Criamon was branded repeatedly by his teacher, and suffered other physical mutilations. Criamon magi still know how to do these things, but have been told that these external interventions offer only power, not wisdom,</div>
-
-<div sidebars>
-
-<h4>Riddles Predict Conflict</h4>
-
-<div>The deep answer to a Criamon riddle refl ects a spiritual state that has blossomed in the magus, not the quickness of his mind or the eloquence of his speech. There are many correct, shallow answers to any riddle, but answers illuminate truths; they are more than an opinion. The following answers are, therefore, not defi nitive, but illuminate the simplest of the House’s beliefs.</div>
 <div>Abdkypris was traveling with his apprentice, and they stopped for the night in an ancient churchyard. Abdkypris found the child weeping at the grave of a married couple, long dead. Their grog asked “Why is he crying with joy?” What did Abdkypris answer?</div>
-<div>“Anticipation.” Time is circular: the boy had recognized one of the lives he had lived in the past, and so must live again in the future. He was overjoyed to know that he had met his lover, lived with her for decades, and must again, an infi nite number of times.</div>
-<div>An apprentice broke an egg in a faerie glade and used the vis within it to heal a damaged tree. The egg’s mother came to him and said “Heal my egg, as you did the tree!” He said he could not heal all of her eggs. She asked “Why?”</div>
 <div>“Water fl ows down hill.” The eggs were the only vis source available, so it would have been necessary to break another egg to heal the fi rst. The universe is falling into disorder. In the time of rising harmony, the opposite will be true.</div>
-<div>Criamon and Jerbiton were having a meal during the First Tribunal, and discussing theology. Criamon passed Jerbiton a bowl of wheat</div>
 <div>porridge and a glass of beer. “Have some of your angels and demons, Jerbiton!” he said. “Why are you laughing?” asked Flambeau.</div>
 <div>“Time.” Angels and demons differ because, following the Creation, some angels fell into moral decay. Demons are like fermented angels.</div>
 <div>Jerbiton wanted to have demons identifi ed as an enemy of the Order, in the Code of Hermes. Criamon agreed. Tytalus said “Angels too!” Criamon agreed. Flambeau proposed that Islamic wizards be included, and Criamon said “Ah, no. The two things are not the same at all.” Two,” asked Flambeau “not three?”</div>
@@ -2166,6 +2153,15 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Examples of Criamon Apprentice Riddles</h3>
 
+
+<div sidebars>
+
+<h4>Riddles Predict Conflict</h4>
+
+<div>The deep answer to a Criamon riddle refl ects a spiritual state that has blossomed in the magus, not the quickness of his mind or the eloquence of his speech. There are many correct, shallow answers to any riddle, but answers illuminate truths; they are more than an opinion. The following answers are, therefore, not defi nitive, but illuminate the simplest of the House’s beliefs.</div>
+<div>“Anticipation.” Time is circular: the boy had recognized one of the lives he had lived in the past, and so must live again in the future. He was overjoyed to know that he had met his lover, lived with her for decades, and must again, an infi nite number of times.</div>
+<div>An apprentice broke an egg in a faerie glade and used the vis within it to heal a damaged tree. The egg’s mother came to him and said “Heal my egg, as you did the tree!” He said he could not heal all of her eggs. She asked “Why?”</div>
+<div>Criamon and Jerbiton were having a meal during the First Tribunal, and discussing theology. Criamon passed Jerbiton a bowl of wheat</div>
 </div sidebars>
 
 
@@ -2469,8 +2465,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>At the fi rst station of the Path of the Body, the magus realizes that the body is the perfect tool for Hermetic magic because it is adapted for magic, and magic, in turn, is adapted for it. The magus’s close inspection of the body allows the development of Minor Potency in an aspect of the Art of Corpus. Magi who have found this station see the intrinsic links between the body and the magical energies it wields, and so can use their understanding</div>
 <div>of magical events to minister to the body. They may use Enigmatic Wisdom in place of Chirurgy and Medicine in rolls. They also know, instinctively, if their body is ill, and where, although they may not know the appropriate treatment.</div>
 <div>Initiates of this station are bound by the lifestyle of the House (Vow) and fi nd it more diffi cult to use their magic when their body is ill (Deleterious Circumstances). Some illnesses do not block certain mystical effects; the usual example given is that fevers do not restrict Ignem spells because they are caused by a surplus of fi ery humors. Wounds do not prevent magic use, of themselves, but open the body to infections, which may.</div>
-
-<div sidebars>
 <div>The Initiation Scripts for the Path of the Body are as follows:</div>
 
 <h4>The Avenue of Subduing</h4>
@@ -2515,8 +2509,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Script Bonus +12: Three Quests to legendary places +9, special time and place +3</div>
 
 <h3>The Path of the Body, Expressed Symbolically</h3>
-
-</div sidebars>
 
 <div>A process of purifi cation that involves abstinence reveals the second station of the Path of the Body. The magus travels to an area with a Magical aura of at least 7, and secures safe use of the site. Beginning on the fi rst day of the solar sign of Virgo, the magus begins progressively deeper degrees of fasting, avoids spellcasting, and performs labyrinth mediations. During this time, the magus is usually unable to perform other useful work, as he is only half-conscious of the mortal world. His feverish hallucinations, representing his addictions to fl esh and grain, hound him. Magi may leave their trance-like state for emergencies, but then need to begin the process of purifi cation afresh.</div>
 <div>Characters Initiated to this station have drawn themselves away from the universe suffi ciently that their bodies are sustained by the fl ux of harmony and strife within the Inspirato. Characters Initiated into this station gain a Warping Point each year, but do not age. While</div>
@@ -2593,14 +2585,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Magi who seek this level of Initiation fall into a coma as their minds fl it through the memories of the objects that surround them. The magus takes a role in these narratives, seeking to push them to the point where the magus acquires the object in whose memories he has become lost. The magus needs to recognize the object, then step into one of the roles in its memory, to press the story forward until the magus acquires the object.</div>
 <div>The magus, playing the role of another character in the object’s memories, rarely fi nds it simple to deliver the</div>
-
-<div sidebars>
-<div>The Path of Seeming draws upon the insight that the secrets of the Enigma are hidden within the distracting details of the world. The path provides tools that permit magi to examine the world. When the magi comprehend the design of their prison, they see where its walls crack. The Path of Seeming searches for weak points in the circle of time.</div>
-<div>Young magi commencing the Path of Seeming are fl ooded by sensation. This makes noise cacophonous, light garish, and food fulsomely rich. These magi perform labyrinth mediations while eating the blandest gruel and drinking only water until they undergo a series of investitures that teach them to tune their senses. These trials, under the guidance of teachers, are traditionally performed in a series of caves. Appropriate sites have been established in three Tribunals.</div>
-
-<h4>Avenue That Assaults the Modesty of the Universe and the Station of True Sight</h4>
-
-<div>Magi seeking this station can sense the underlying structures of the world, but have diffi culty understanding these new perceptions. They sometimes develop</div>
 <div>The Path of Seeming includes the following Initiation Scripts:</div>
 
 <h4>Avenue of Gruel, Water, and Starlight and the Station of Differentiation of Seeming</h4>
@@ -2623,9 +2607,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>The Avenue That Is a Crossroad</h4>
 
-
-<h4>And the Station of Passing Through Seeming</h4>
-
 <div>Target level 15, as Major Virtue 21 (spirit traveling), fi rst Initiation since Intermediate Ordeal –6</div>
 <div>Script Bonus +12: Mystagogue’s time +3, special time and place +3, sympathetic bonus +3, Quest +3</div>
 
@@ -2638,6 +2619,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Script Bonus +12: Ordeal (Major Flaw Twilight prone) +9, Mystagogue’s time +3</div>
 
 <h3>The Path of Seeming, Depicted in Digits</h3>
+
+
+<div sidebars>
+<div>The Path of Seeming draws upon the insight that the secrets of the Enigma are hidden within the distracting details of the world. The path provides tools that permit magi to examine the world. When the magi comprehend the design of their prison, they see where its walls crack. The Path of Seeming searches for weak points in the circle of time.</div>
+<div>Young magi commencing the Path of Seeming are fl ooded by sensation. This makes noise cacophonous, light garish, and food fulsomely rich. These magi perform labyrinth mediations while eating the blandest gruel and drinking only water until they undergo a series of investitures that teach them to tune their senses. These trials, under the guidance of teachers, are traditionally performed in a series of caves. Appropriate sites have been established in three Tribunals.</div>
+
+<h4>Avenue That Assaults the Modesty of the Universe and the Station of True Sight</h4>
+
+<div>Magi seeking this station can sense the underlying structures of the world, but have diffi culty understanding these new perceptions. They sometimes develop</div>
+
+<h4>And the Station of Passing Through Seeming</h4>
 
 </div sidebars>
 
@@ -2723,12 +2715,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Magi on this path have aligned themselves with strife. They can sense the increase in strife that occurs when magic is used. They, in turn, are so attuned to strife that they radiate it. They may use their Enigmatic Wisdom as the Magic</div>
 <div>Sensitivity Ability, but they do not subtract it from their Magic Resistance. They develop the Blatant Gift.</div>
 <div>Members of this path perform their labyrinth meditations while armed with weapons. The associated movements — a series of strikes, blocks, and feints performed with exacting slowness — seem graceful and dance-like to those unfamiliar with this path. A magus on this path</div>
-
-<div sidebars>
-<div>number of memories in moments, living untold lifetimes in mere weeks. These magi descend into comas and eventually fl oat into Final Twilight. What happens to the minds of these magi afterward is unclear, but many suggest that they will live in psychodrama until awakened by the answer to the Enigma.</div>
-
-<h3>The Path of Strife</h3>
-
 <div>Strife takes many forms, but has these Initiation Scripts:</div>
 
 <h4>The Avenue of Faith in Strife and</h4>
@@ -2775,6 +2761,12 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Script Bonus +12: Ordeal (four pairs of Incompatible Arts) +12</div>
 
 <h3>The Path of Strife, Portrayed With Figures</h3>
+
+
+<div sidebars>
+<div>number of memories in moments, living untold lifetimes in mere weeks. These magi descend into comas and eventually fl oat into Final Twilight. What happens to the minds of these magi afterward is unclear, but many suggest that they will live in psychodrama until awakened by the answer to the Enigma.</div>
+
+<h3>The Path of Strife</h3>
 
 </div sidebars>
 
@@ -2989,8 +2981,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 </div sidebars>
 
-
-<div sidebars>
 <div>On the path, sing praise</div>
 <div>Sing, in the heart, praise to your brother</div>
 <div>Final child of the primal shape</div>
@@ -3043,13 +3033,10 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <h3>Quindecim</h3>
 
 <div>aise for your sister. flightily constant,</div>
-<div>ive, as she waxes.</div>
 <div>er transience,</div>
 <div>nd repels, d fear her message, y salmon.</div>
-<div>se for your mother,</div>
 <div>cradle the stars</div>
 <div>er constancy. riamon’s hope</div>
-<div>er certainties.</div>
 <div>aise for your father , the measure of age ove tempests</div>
 <div>Cherish the g</div>
 <div>she emb and fi lls</div>
@@ -3062,6 +3049,11 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>and she</div>
 <div>Cherish the th</div>
 <div>Don’t be or you will s</div>
+
+<div sidebars>
+<div>ive, as she waxes.</div>
+<div>se for your mother,</div>
+<div>er certainties.</div>
 <div>Cherish those</div>
 </div sidebars>
 
@@ -3071,8 +3063,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h2>House Merinita</h2>
 
-
-<div sidebars>
 <div>When we admire nature, in fact we appreciate how her beauty resembles that of humanity. We admire a fi ne, healthy tree as we admire a stout yeoman of the forest; we see a face in the clouds and marvel at his moods. We see the nature of the world in human terms, and the Fair Folk are merely these fancies given form — the tree becomes the man, the cloud becomes the face — and to admire them is to admire the essential truth that is the foundation of their being. No, I have not abandoned nature: I simply visit her now through intermediaries.</div>
 <div>—Quendalon, fi rst Primus</div>
 <div>of House Merinita</div>
@@ -3089,6 +3079,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Before the Order of Hermes was formed, Merinita was already well known, at least by reputation. It was said among other wizards of the time that a whitehaired woman dressed in green traveled alone through the wild lands of Europe, often vanishing into the great forests without a trace of her passing, a woman without equal in nature magic. She could see everything that happened in these places, she knew every bird and beast that lived in them, she could take any shape she chose, and she could command the spirits of the very trees themselves. Yet she was not savage, according to those who had met her, but wise; a woodswoman and healer at home in the forest and perfectly attuned to the wild. She was also intensely shy, and said to only speak when absolutely necessary.</div>
 <div>Trianoma devoted an entire year to searching for Merinita, to invite her to come with her to meet Bonisagus and to join the Order of Hermes. Many times she approached one of the dark forests where Merinita was rumored to dwell and called out her proposal to the shadows of the trees, but never received</div>
+
+<div sidebars>
 
 <h3>Key Facts</h3>
 
@@ -3547,22 +3539,22 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h4>•</h4>
 
+<div>One of Merinita’s fi rst apprentices who later joined Quendalon, a maga named Alsia, developed a spell that allowed those with Faerie Magic to approximate binding a familiar, though of course the effect is only temporary. This unusual application quickly spread throughout the House, and it is particularly appreciated by those who favor taking many different familiars. Thus, it may be invented by anyone who has been Initiated into the Outer Mystery of Faerie Magic, and since it is old and popular, there are likely to be Lab Texts of it found in Hermetic libraries throughout Mythic Europe.</div>
+<div>spell comes to pass. The level of the ritual must be no less than (the creature’s Might + 15), though she may also need to penetrate its Magic Resistance if casting on an unwilling target. It has no effect if the target is already bound as a familiar to another.</div>
+<div>Casting requisites of a Technique and Form appropriate to the creature’s nature and physical form may be included. These two Arts are used to determine the Lab Total for any subsequent improvements to the bond. The cords connecting maga and familiar have initial values of 0, and the vis cost of this ritual does not apply towards these improvements. The maga can strengthen the bond in the lab, but the effect is still inherently temporary. If she casts this on a faerie, she gains the three special powers (Shared Powers, Shared Senses, and Shared Fatigue) associated with a faerie familiar, but the cords will decay as normal, though the bond is never completely broken so long as the spell’s duration remains in effect.</div>
+<div>Because the bond is often made under duress, the familiar is much more wild and independent than normal familiars, and typically must be subdued or guarded to ensure it does not try to escape. The two are probably at odds most of the time, and the faerie is likely to bear a grudge against the maga afterward if it is taken advantage of or treated badly.</div>
+<div>(Base effect, +1 Touch, +4 Until)</div>
 
 <div sidebars>
 <div>others, and after many years of experimentation she was able to isolate three of them. She called these the leaden cord, the iron cord, and the tin cord, and she documented her discoveries well, so that anyone Initiated into Faerie Magic could take advantage of them. She also believed that there was at least one more cord still to be identifi ed, but she did not speculate what it could do.</div>
 
 <h4>•</h4>
 
-<div>One of Merinita’s fi rst apprentices who later joined Quendalon, a maga named Alsia, developed a spell that allowed those with Faerie Magic to approximate binding a familiar, though of course the effect is only temporary. This unusual application quickly spread throughout the House, and it is particularly appreciated by those who favor taking many different familiars. Thus, it may be invented by anyone who has been Initiated into the Outer Mystery of Faerie Magic, and since it is old and popular, there are likely to be Lab Texts of it found in Hermetic libraries throughout Mythic Europe.</div>
 <div>The idea of the spell is surprisingly acceptable within the House, as it is a common bargain for faeries to agree to serve a maga for a specifi c length of time, and this effect helps enforce the arrangement. It is the maga’s responsibility to care for her slave, while it is expected to serve its master and do what she tells it to do. Those who abuse their familiars lose respect in the House, and may even fi nd that some of their sodales are willing to help faerie slaves escape the terms of their service.</div>
 
 <h4>Faerie Chains of the Familiar Slave</h4>
 
 <div>CrVi Gen R: Touch, D: Until, T: Ind, Ritual Requisites: see below This ritual binds a supernatural creature to the caster as her familiar, until a condition incorporated into the</div>
-<div>spell comes to pass. The level of the ritual must be no less than (the creature’s Might + 15), though she may also need to penetrate its Magic Resistance if casting on an unwilling target. It has no effect if the target is already bound as a familiar to another.</div>
-<div>Casting requisites of a Technique and Form appropriate to the creature’s nature and physical form may be included. These two Arts are used to determine the Lab Total for any subsequent improvements to the bond. The cords connecting maga and familiar have initial values of 0, and the vis cost of this ritual does not apply towards these improvements. The maga can strengthen the bond in the lab, but the effect is still inherently temporary. If she casts this on a faerie, she gains the three special powers (Shared Powers, Shared Senses, and Shared Fatigue) associated with a faerie familiar, but the cords will decay as normal, though the bond is never completely broken so long as the spell’s duration remains in effect.</div>
-<div>Because the bond is often made under duress, the familiar is much more wild and independent than normal familiars, and typically must be subdued or guarded to ensure it does not try to escape. The two are probably at odds most of the time, and the faerie is likely to bear a grudge against the maga afterward if it is taken advantage of or treated badly.</div>
-<div>(Base effect, +1 Touch, +4 Until)</div>
 
 <h3>Temporary Familiars</h3>
 
@@ -3698,8 +3690,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>When a maga becomes a faerie, she is affected by Merinita’s enchantment in exactly the same way as a faerie. The cords begin to feel like heavy chains, and the bond becomes a hateful form of oppression by her familiar. Unless she has forged the balancing negative cords, the connection between them decays as normal, even if both of them are faeries. Some Merinitae theorize that there must be another ritual to transform the magical cords into faerie cords, which could allow two faeries bonded together to suffer no ill effects, but if that is possible it has not yet been discovered.</div>
 </div sidebars>
 
-
-<div sidebars>
 <div>Animae spells are Creo or Muto. A Muto spell transforms a mundane thing into a faerie, usually something appropriate to its nature, while Creo simply summons a faerie associated with the Form, and the maga has very little control over what. Since all faeries have Might, and since their Might is added to the level of the spell, Animae spells must always be designed at a level greater than that given in the guidelines. For example, to summon a faerie insect with a Might Score of 1 is a base level 11 Creo Animal effect, and to change a pool of water into a water faerie with Might 10 requires an effect of base level 20.</div>
 
 <h4>Animal</h4>
@@ -3751,10 +3741,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h3>Animae Guidelines</h3>
 
-</div sidebars>
-
-
-<div sidebars>
 <div>produced with Aquam or Terram spells, and faeries of shadow are considered part of Imaginem.</div>
 <div>Creo Ignem Level 15: Create a faerie of fire, heat,</div>
 <div>or light.</div>
@@ -3803,8 +3789,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>(number of pawns x 5) Might Points, using up the vis in the process.</div>
 
 <h3>Animae Guidelines, Continued</h3>
-
-</div sidebars>
 
 <div>Altering the Enchantment: The maga can make herself appear older or younger, and can choose a different Technique and Form to determine her physical appearance; or she can alter the Arts that determine her faerie personality; or she can increase her Might Score and change the associated Form. The level of this enchantment is the same level as the transformation ritual she is altering.</div>
 <div>Inspired Knowledge: The maga can give herself a score of 1 in a new Ability, so long as she could learn it if she were human and has set aside 5 experience points for it. She can also master spells in this way, assuming she knows the spell she wishes to master. The level of this enchantment is the sum of her scores in all Abilities that belong to different categories. For example, when learning a Martial Ability she would add up her scores in non-Martial Abilities, including spell mastery Abilities, to determine the effect level.</div>
@@ -4243,8 +4227,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <h2>House Verditius</h2>
 
-
-<div sidebars>
 <div>Other magi see these devices as tools, like a sword or a spade. They do not understand what it takes to make magical devices and that is why they cannot make them as well as we can. They do not understand that what they call tools are part of our minds, extensions of ourselves as surely as our hands and our words. The simple truth is that the crafter must put himself in what he creates if it is to be worthy of him.</div>
 <div>— Verditius, the Founder</div>
 <div>House Verditius is home to the master enchanters of the Order, magi who create uniquely powerful magical devices. They are craftsmen fi rst and foremost, smiths, carpenters, jewelers, masons, shipwrights, bookbinders, and cloth-makers, who imbue their products with wondrous magic. United together under a common creed and trained in the Mysteries of their Founder, Verditius magi seek personal excellence through the crafting of enchanted items.</div>
@@ -4260,6 +4242,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>House Verditius’s legends trace its roots back to the ancient Greeks, who learned their smith craft from Hephaestus, the divine artifi cer and god of smiths. The legends say that he was the parthenogenetic son of Hera, who had little interest in the deformed god born lame. Zeus cast him out of Olympus and into the sea like so much refuse. The sea nymphs, Thetis and Eurynome, rescued and raised Hephaestus. They built Hephaestus a large forge beneath the sea in an underwater grotto. Hephaestus immediately began creating beautiful brooches and other jewelries for his foster mothers. One overly beautiful brooch caught Hera’s attention, and she asked Thetis where she got it. The nymph revealed her secret, that Hera’s son still lived and was forging these marvelous baubles. Hera retrieved Hephaestus and returned him to Olympus, building him a much grander forge and arranging his marriage to Zeus’s daughter Aphrodite.</div>
 <div>Hephaestus’s stay in Olympus was brief. To punish his wife after a volatile domestic dispute, Zeus threatened to torture Hera. Hephaestus begged Zeus for clemency, which only angered the Lord of the Sky. Cast from Olympus a second time by his father, the god landed on the island of Lemnos, weak, wounded, and near death. The friendly inhabitants of the island nursed him back to health. Furious at his treatment at his father’s hands, Hephaestus decided to remain on</div>
+
+<div sidebars>
 
 <h3>Key Facts</h3>
 
@@ -4543,8 +4527,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>For roleplaying purposes, the specifi c fl avor of a magus’ Hubris should be noted in parentheses after the Personality score. Hubris does not manifest in all magi exactly the same way. Some are overly proud, some arrogant, some pompous.</div>
 <div>Characters that already have the Minor Personality Flaw Proud have their Hubris score automatically increased by 1, and those with the Major version of the Flaw increase their Hubris by 3.</div>
 <div>Hubris increases over time, building like an Ability. Hubris cannot be deliberately changed by the player, unlike other Personality Traits. Specifi c situations grant experience points that are applied to a character’s Hubris score. If a Verditius magus receives recognition, fame, money, or vis for his magical efforts, his Hubris score increases. While a degree of pride is inevitable for every Verditius magus, a completely conceited nature is avoid</div>
-
-<div sidebars>
 <div>During the tenth century, a handful of Hermetic magi, recently Gauntleted in other Houses, wished to enter House Verditius and learn its Mysteries. The House was reluctant and initially refused these infrequent requests. Traditionalists from the House thought it irreverent to the old ways, when members worshiped the gods. House politicians thought including other magi would undermine the equality of its current members. The overriding concern was that Hermetic magi could already cast formulaic spells without the need of casting tools, and if they were accepted into the House, it would put the other House members at a severe disadvantage.</div>
 <div>However, by studying the House’s Outer Mystery, exploring Boethius’s philosophy, and building upon his vast knowledge of Perdo magic, Primus Turnis developed a ritual that would change the Gift of the probationer. Upon recovering, the probationer’s Gift would be permanently altered, with the mystical connection between her heart, head, and hands destroyed. Forever after she would be forced to use casting tools and would never be able to evoke a formulaic spell thereafter without these required components.</div>
 <div>There are dangerous side effects to this ritual. The probationer gains Warping Points and usually falls into temporary Twilight. He also develops the Personality Trait Proud 1, and an ava</div>
@@ -4558,6 +4540,8 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>PeMe 35 R: Touch, D: Mom, T: Part, Ritual Req: Vim, Corpus This spell damages the target’s mind, heart, and Gift, destroying a part of his understanding of formulaic spell casting and forcing him to rely on casting tools. This highly irregular spell was developed to initiate Hermetic magi of other Houses into House Verditius, and is only used in that rare instance. Because of the bizarre nature of this spell, the target receives 7 Warping Points and must check to avoid temporary Twilight.</div>
 <div>(Base 15, + 1 Touch, +1 Part, +2 necessary requisites)</div>
+
+<div sidebars>
 
 <h3>Initiating Hermetic Magi</h3>
 
@@ -4938,6 +4922,17 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Weakened Characteristic: The victim is instantly drained of his physical vitality. This curse lowers a target’s lowest physical Characteristic by one point, dropping a –2 Strength to –3, for example. (Perdo Corpus effect)</div>
 <div>Twisted Spine: The victim’s spine twists to a grotesque shape, bending him near double and prohibiting him from standing erect. The target suffers a –3 to any social roll he might make. Hermetic magic may return the poor victim to his proper posture, but only for as long as</div>
 <div>Warts: The victim is completely covered in warts, diminutive discolorations of the skin, and knobby protrusions. Social rolls that the target makes are penalized</div>
+<div>Fifteen years after his apprenticeship, Hephaestion’s venditor fi nagles an extremely lucrative deal with Lord Guigues of Dauphiné, who wants a mechanized magpie for his bedchamber. Having only recently been Initiated into the Mystery of Automata, Hephaestion begins the enchantment process with trepidation. He decides to make a tin magpie. Its Magic Might is 11, base 10 + Size (–4) + material (5 for base metal).</div>
+<div>Hephaestion attempts to craft the automaton in the fi rst season. His Intelligence is +3 and his Craft: Automata is 2. His stress die roll is a 3 for a total of 8, not enough to match the bird’s Magic Might. Failing the fi rst season, he tries the next, with a +1 bonus for the previously failed attempt. His second stress die roll is 4, which gives him a 10 total (die roll 4 + 3 Intelligence + 2 Craft: Automata + 1 previously failed season). Trying a third time, he rolls 6 for a total of 13 (die roll 6 + 3 Intelligence + 2 Craft: Automata + 2 previously failed seasons) and successfully builds the automaton. Using the conventional vis price (one pawn of vis equals ten Mythic Pounds), the material cost of these three seasons is 130 Pounds (Magic Might 11 + 2 failed seasons).</div>
+<div>In the fourth season, Hephaestion easily prepares the automaton for enchantment. Because he knows the Minor Inner Mystery of Elder Runes, the maximum vis he can use in a season to enchant an item is 20 (5 Magic Theory x 4 Philosophiae). Eleven pawns of Terram vis are required to open the magpie for enchantment.</div>
+<div>Already a year into the process, Hephaestion enchants the magpie to sing. Singing is a base 5 Creo Imaginem effect. He specifi es the trigger for the effect (saying “Sing,”) includes the command “Cease,” and gives it an effect frequency of three uses a day. The fi nal effect level of this power is 10.</div>
+<div>Hephaestion’s Creo Imaginem Lab Total + Hubris is 22. The power is instilled in one season and costs a pawn of either Creo or Imaginem vis. The automaton can hold ten more pawns of vis.</div>
+<div>Hephaestion would like the bird to fl y, but that is beyond him. However, he can enchant it to hop. He instills the “dutiful movement” power, a base Rego Terram effect of 20. He gives this power a similar trigger, a “Cease” command, and three uses per day for a fi nal level of effect of 25. His Rego Terram Lab Total + Hubris is 40, and he can complete this enchantment in two seasons for a cost of three pawns of Art-specifi c vis.</div>
+<div>Finally, Hephaestion decides that he should enchant the bird to explode if necessary, although only another Verditius magus would understand why this might be “necessary.” The power causes the bird to explode into pieces that fl y out in a circular spray and do +5 damage to anyone with a pace of distance. Player and storyguide decide that this is a level 5 Rego Terram effect (base 3, +2 Group). The Target is Group rather than Part because it affects the entire construction. It can only happen once, upon a verbal command, so the fi nal level of effect is 10. Hephaestion’s Rego Terram Lab Total is still 40. He easily instills this power at the cost of one pawn of Terram vis.</div>
+<div>Hephaestion has spent two years enchanting this automaton. As the last season ends, he casts a level 30 Tie the Threads that Bind, which is higher than the automaton’s Magic Might 11 + 15. This completes the process and costs six pawns of Vim vis. The total vis cost for the automaton is 22 pawns. Hephaestion charges Guigues 460 Mythic Pounds, 330 for the vis used and 130 for construction expenses. This is half the cost of an entire castle! Guigues baulks at the cost but accepts the bargain, much to the chagrin of his already overtaxed tenants.</div>
+
+<h3>Automaton Example</h3>
+
 
 <div sidebars>
 <div>vis, one pawn of Art-specifi c vis for every 10 levels of fi nal effect of the curse, rounded up.</div>
@@ -4950,17 +4945,6 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 
 <div>Susceptibility to Magic: The victim losses whatever natural resistance she might have had against magic. She suffers a –3 to any roll used to resist a magic spell or supernatural effect. Many spells do not offer any chance of resisting them, but those that do affect the target more readily. Hermetic magi suffer a –3 to their total Magic Resistance and must roll an additional botch die when botching using Hermetic magic. (Rego Vim effect)</div>
 <div>the restorative spell lasts. The constant use of restorative magic certainly causes Warping Points over time. (Rego Corpus effect)</div>
-<div>Fifteen years after his apprenticeship, Hephaestion’s venditor fi nagles an extremely lucrative deal with Lord Guigues of Dauphiné, who wants a mechanized magpie for his bedchamber. Having only recently been Initiated into the Mystery of Automata, Hephaestion begins the enchantment process with trepidation. He decides to make a tin magpie. Its Magic Might is 11, base 10 + Size (–4) + material (5 for base metal).</div>
-<div>Hephaestion attempts to craft the automaton in the fi rst season. His Intelligence is +3 and his Craft: Automata is 2. His stress die roll is a 3 for a total of 8, not enough to match the bird’s Magic Might. Failing the fi rst season, he tries the next, with a +1 bonus for the previously failed attempt. His second stress die roll is 4, which gives him a 10 total (die roll 4 + 3 Intelligence + 2 Craft: Automata + 1 previously failed season). Trying a third time, he rolls 6 for a total of 13 (die roll 6 + 3 Intelligence + 2 Craft: Automata + 2 previously failed seasons) and successfully builds the automaton. Using the conventional vis price (one pawn of vis equals ten Mythic Pounds), the material cost of these three seasons is 130 Pounds (Magic Might 11 + 2 failed seasons).</div>
-<div>In the fourth season, Hephaestion easily prepares the automaton for enchantment. Because he knows the Minor Inner Mystery of Elder Runes, the maximum vis he can use in a season to enchant an item is 20 (5 Magic Theory x 4 Philosophiae). Eleven pawns of Terram vis are required to open the magpie for enchantment.</div>
-<div>Already a year into the process, Hephaestion enchants the magpie to sing. Singing is a base 5 Creo Imaginem effect. He specifi es the trigger for the effect (saying “Sing,”) includes the command “Cease,” and gives it an effect frequency of three uses a day. The fi nal effect level of this power is 10.</div>
-<div>Hephaestion’s Creo Imaginem Lab Total + Hubris is 22. The power is instilled in one season and costs a pawn of either Creo or Imaginem vis. The automaton can hold ten more pawns of vis.</div>
-<div>Hephaestion would like the bird to fl y, but that is beyond him. However, he can enchant it to hop. He instills the “dutiful movement” power, a base Rego Terram effect of 20. He gives this power a similar trigger, a “Cease” command, and three uses per day for a fi nal level of effect of 25. His Rego Terram Lab Total + Hubris is 40, and he can complete this enchantment in two seasons for a cost of three pawns of Art-specifi c vis.</div>
-<div>Finally, Hephaestion decides that he should enchant the bird to explode if necessary, although only another Verditius magus would understand why this might be “necessary.” The power causes the bird to explode into pieces that fl y out in a circular spray and do +5 damage to anyone with a pace of distance. Player and storyguide decide that this is a level 5 Rego Terram effect (base 3, +2 Group). The Target is Group rather than Part because it affects the entire construction. It can only happen once, upon a verbal command, so the fi nal level of effect is 10. Hephaestion’s Rego Terram Lab Total is still 40. He easily instills this power at the cost of one pawn of Terram vis.</div>
-<div>Hephaestion has spent two years enchanting this automaton. As the last season ends, he casts a level 30 Tie the Threads that Bind, which is higher than the automaton’s Magic Might 11 + 15. This completes the process and costs six pawns of Vim vis. The total vis cost for the automaton is 22 pawns. Hephaestion charges Guigues 460 Mythic Pounds, 330 for the vis used and 130 for construction expenses. This is half the cost of an entire castle! Guigues baulks at the cost but accepts the bargain, much to the chagrin of his already overtaxed tenants.</div>
-
-<h3>Automaton Example</h3>
-
 </div sidebars>
 
 <div>Crow’s Voice: The victim caws throughout his speech. Communication rolls are penalized by –3, as is spell casting. (Muto Corpus [Animal] effect)</div>
@@ -5125,32 +5109,4 @@ Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Int
 <div>Alabaster +2 forgiving, +4 mental acuity Alexandrite +2 regeneration, +5 horses, +3 long life Amethyst +2 wealth, +2 hearing, +3 poisons, +7 drunkenness Basalt +3 Ignem, +3 Perdo Brass +4 demons, devils, and angels; +3 music; +3 Ignem Bronze +3 Terram, +5 darkness Cinnabar +5 dragons, +4 wealth, +4 language, +3 long life Copper +4 deftness, +4 effects that change its own shape, +2 sex magic Electrum +3 scrying, +4 Muto Terram, +3 deception Garnet +3 bonds of commitment, +2 vigor, +2 navigation Glass, Clear +4 invisibility, +5 seeing through something Granite +2 wealth, +3 Terram Ivory +5 healing Marble +5 wards, +3 Beauty Mercury +3 Terram and Aquam, +5 Muto Platinum +4 Air Sulphur +2 preserving or decaying, +4 demons Turquoise +4 necromancy</div>
 
 <h3>Appendix: Expanded Form & Material Bonuses</h3>
-
-
-<div sidebars>
-
-<h3>Mystery Cults Contributors</h3>
-
-<div>Erik Dahl lives and works in Davis, California, where he and his darling wife share blissful moments of ridiculous contentment on a regular basis. While writing his chapter of this book, he occasionally indulged his overdramatic tendencies by walking around the house in a heavy cloak with the hood covering his eyes. Fortunately, he didn’t break anything.</div>
-<div>Dedication: T. and Danielle, thanks for your brilliance, creativity, enthusiasm, and friendship. These shadows are cast in your likenesses.</div>
-<div>Timothy Ferguson is a librarian, who lives on the Gold Coast, in Australia. He became a vegetarian while writing the Criamon chapter, to see how it changes</div>
-<div>the way you think about animals, and has decided to stick with it. He collects succulents, but hasn’t found a way to include magical cactuses in Ars Magica yet. He’d like to dedicate this book to Linda, for being the sort of person people dedicate books to.</div>
-<div>Matt Ryan lives and works in the Finger Lakes region of Central New York. He drank a lot of coffee and listened to a lot of old Pogues records while writing this piece, his second major contribution to Ars Magica. He also received great support and many helpful comments from the line editor, the other authors of this book, and the authors of The Mysteries</div>
-<div>Revised Edition. A special thanks goes to Mario Cerame, fellow friend and gamer, who helped design the Expanded Shape and Material Bonuses chart.</div>
-<div>Dedication: To Wallace Michael Lumb and Stephen Cobb, who helped me through an extremely difficult stretch of the journey.</div>
-<div>Mark Shirley: According to his job decription, Mark is a ‘Biomathematician’ which is a fancy way of saying that he gets paid for counting badgers. He lives in the north-east of England with his ferrets, and complains about how grim it is up north.</div>
-<div>Dedication: Andrew and Camo, who’ve had to endure endless worries, rants, and one-sided discussions. Your forbearance is a lesson to us all.</div>
-
-<h3>About the Authors</h3>
-
-<div>Kelley Hensing (www. wickiearts.com) is a graduate of the Rhode Island School of Design. Creating creatures and mythological characters is one of her favorite subjects. Inspirations include myths, fairy tales, and religious texts.</div>
-<div>Brad McDevitt (www. bradleykmcdevitt.net), a 17-year veteran of gaming art, has done work for everyone from TSR to Pinnacle. He lives in Ohio with his wife Jessica.</div>
-<div>Working on Ars Magica since 1989, Jeff A. Menges (www. skaircrow.com) is currently pursuing a Master’s degree in Illustration, and has been freelancing in the gaming industry for nearly 20 years.</div>
-<div>Grey Thornberry (www.greystudio. com) is a self-diagnosed (and selfmedicated) illustrator based in Brooklyn, NY. “About art I’d say there’s few things more important than a well-drawn line; about myself, caffeine is the only thing</div>
-<div>standing between me and the evil person I really am.”</div>
-<div>From The Lord of the Rings to the World of Darkness, Kieran Yanner (www. kieranyanner.com) has crept into awardwinning publications for the past six years. Recent clients include DC Comics and The Upper Deck Company.</div>
-
-<h3>About the Illustrators</h3>
-
-</div sidebars>
 
