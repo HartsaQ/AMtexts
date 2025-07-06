@@ -49,14 +49,14 @@
 ===Noble Lords===
 
 ''Noble lords grant charters as a means of control, to ensure loyalty, and to gather revenue. The kings of England, for example, place a strong emphasis on the control of coastal towns and maritime ports, and have thus founded ports or granted royal charters to prosperous or strategically important coastal towns that were previously chartered by lesser lords (Liverpool, 1208; Newcastle upon Tyne, 1070; Portsmouth, 1194). Similarly, Derby, Leicester, Lincoln, Nottingham, and Stamford were all granted charters in the ninth and tenth centuries by Danish kings as a method of consolidating military''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Charter Documents==
 
 ''Rego vis may be extracted from charter documents that have been signed by town representatives and the granting lord. Most town charter documents provide only one pawn of Rego vis, which is tainted by the Divine, so this is a very inefficient method of obtaining vis, but very large towns might provide more vis. This action can be seen as an unnecessary interference with the mundane — a charge that most magi are unwilling to risk for such a poor return. Significantly, however, extracting the vis destroys the sympathetic connections created by the charter, so  a paranoid magus living in a town may wish to destroy the documents for this purpose. Charters are valued, so it requires considerable finesse to acquire the documents. Magi seeking them may need to substitute copies for the originals, and so on.''
 
-|]
+|}
 ''conquest, and currently, Christian lords in Iberia are busily granting charters to towns newly wrested from the control of the Almohad Empire. French kings rely on their ability to raise armies from both rural and urban areas, so they typically grant royal charters that include compulsory militia duty.''
 ''Lesser nobles primarily grant charters for financial gain, rather than any military strategy. Usually, they do not need to ask permission of their feudal superior to grant a charter, but there is always a risk that a particularly prosperous town will be claimed under a royal charter. In France, through a system known as paragium, small groups of nobles grant charters in partnership. In this''
 ''case, an agreement made between the lords, generally predating the town charter, describes how town revenue will be split. The Gascony region of France is under-developed and is now the site of many new, growing, pareagium settlements.''
@@ -70,8 +70,8 @@
 ===Supernatural Lords===
 
 ''Faerie nobility also grant charters, both to faerie and to mundane towns. Sometimes towns with faerie charters are entirely located within Faerie regiones, and so are removed from the mundane feudal system, but small isolated towns under the jurisdiction of mundane nobles may find themselves offered rival char''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''A company of soldiers, dressed in the livery of the local mundane lord, is discovered, lost, near the covenant. The soldiers’ captain, a young knight eager to please his lord, explains that the group is searching for the town of Nottingwood. The town once paid a tax to the lord, on whose land it is built, but for the last seven years the tax has not been seen at the castle. The lord himself is curiously unwilling to do anything about this behavior, but the young captain has resolved to personally collect the tax this year.''
 ''Nottingwood has, in fact, entered into a charter agreement with a local faerie king. In return for a mortal wife and a festival in his honor, held at each of the equinoxes, the king has allowed the town to elect a council of seven aldermen who run the town. Several faerie merchants, who sell faerie wine and livestock, own''
 ''property in Nottingwood, and the townsfolk have built a watchtower on the outskirts of the town, which is garrisoned by a dozen faerie knights. Most of the burgesses of Nottingwood are rather pleased with this arrangement, and they interact normally with the surrounding towns — although they are reluctant to speak about their charter to outsiders. The local priest is concerned, and has sent messages to his bishop, but he has yet to receive a reply.''
@@ -80,7 +80,7 @@
 ==Story Seed: The Faerie Charter==
 
 
-|]
+|}
 ''ters by local faerie lords. Some faerie charters are merely imitations of mundane charters and the faerie inhabitants may not quite understand what they have been granted. Other faerie towns, however, are fully integrated with the local mundane economy, holding markets that are attended by neighboring merchants and magi, electing town officers, and trying rambunctious satyrs in the town court. Faerie lords frequently require elected town officials to undergo a test or interview in the faerie court.''
 ''Worship of the Divine is discouraged by faerie lords, as they find the Divine upsetting and disconcerting, and so mundane towns that adopt faerie charters have a reduced Divine aura of 1 within the townwalls, which may become swamped by a stronger Faerie aura. Churches within a faerie town may still have a strong Divine aura, preserved by a small, zealous congregation of the faithful.''
 ''Demons also occasionally tempt townsfolk into entering demonic charter agreements. Demons use charters to manipulate entire towns into pacts for mundane riches. Generally speaking, only small, isolated towns fall under demonic charters, as the presence of the Divine is too strong in large towns. Some towns have a secret demonic charter and another, parallel charter with a mundane lord.''
@@ -89,8 +89,8 @@
 ''•''
 ''• Performance of dangerous or difficult labor for the townsfolk: the Polish town of Beuthen has''
 ''• a lead mine operated by the demon Szarlen.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The covenant is a town and has been granted a generous charter by the local lord, which frees the covenant from mundane interference and taxes, except as required by the charter. The covenfolk expect to be able to freely exercise their rights under the charter, which may occasionally interfere with the plans of the magi who are otherwise able to control the town — although daily town business is generally delegated to mundane representatives. The charter cannot compel the magi to render service to the lord, as this would contravene the precedent in the Peripheral Code that prohibits acting as a court wizard. Nonetheless, the lord may from time to time request service from the magi and hence the magi may need to defend themselves from accusations that they are in fact court wizards.''
 ''This is a boon, as it frees the covenant from any feudal obligations associated with the land that the covenant is constructed on, and the magi also benefit from having urban amenities (merchants and craftsmen, for example) readily available. The main benefit to the lord is that the presence of the magi is likely to increase the prosperity of the town, perhaps encouraging the growth of other towns that he controls, and increasing the amount of taxable traffic on the roads. The lord may also imagine that the magi will help to cope with any supernatural crises that occur in the area — although they may well cause supernatural perils, too.''
 ''This boon is incompatible with the Urban Hook (ArM5, page 74), and cannot be Unknown.''
@@ -104,7 +104,7 @@
 ==Major Covenant Hook: Charter Lord==
 
 
-|]
+|}
 ''In return for his services, the demon might appropriate the tithe normally granted to the Church, or require some form of worship. Towns with demonic charters do not necessarily have an Infernal aura, but they are used to stage other Infernal plots.''
 ''Some land-owning covenants have also granted charters to towns on their lands (see insert), but this is controversial and can be easily construed as an unnecessary interference with the mundane.''
 
@@ -115,8 +115,6 @@
 ''placing restrictions upon, or abolishing, trials by ordeal or combat, and setting limits on the fines that can be imposed by courts; for example, the law of Breteuil limits judicial fines to the sum of 12 pence — which is significant but affordable by a burgess of average wealth. A stable legal framework means that merchants can conduct their business without fear of arbitrary confiscation of produce or profit.''
 ''Monopolies and exemptions from feudal tolls are also granted in charters to encourage the activities of merchants. Toll exemptions may apply throughout a lord’s territory, and the townsmen of powerful towns''
 ''could have exemptions granted by many different lords, of which they can take advantage when abroad. A charter can grant merchants permission to hold a market or fair, although usually with conditions. For example, proportions of produce might be reserved for special groups (public stores, lepers, or Jews), sales of some produce might be restricted to preserve the monopolies of other nearby charter towns, prices may be set, or stall fees might be paid to the lord or town. For example, by their town’s charter, the merchants of Ipswich are granted a monopoly on the buying and selling of millstones within the local county — obviously,''
-
-[|
 ''Lorris, a small town in France, was first granted customary rights by King Louis VI, which were later confirmed by Louis VII in 1155. The grant of rights included:''
 ''The townsmen have the status of freemen, and anyone from another settlement, including a rural serf, who remains in the town for a year and a day, also becomes a freeman.''
 ''Each man in the town has the right to sell and trade produce and goods.''
@@ -128,8 +126,6 @@
 
 ==The Customs of Lorris==
 
-
-|]
 ''this effectively grants the merchants a monopoly on milling.''
 ''Another right that is very important to merchants is salvage. Typically, the local lord claims any cargo from a shipwreck, but some towns have managed to gain their merchants wide rights to salvage. The merchants of Lübeck, for example, have negotiated a right to salvage in many areas of the Baltic.''
 ''Charters also include procedures for electing or appointing town officials, such as aldermen, bailiffs, consuls, coroners, councilors, magistrates, mayors, ministerials, portmen, rectors, and reeves. Many different systems for choosing town officials are in use and which one is chosen depends upon the temperament of the lord, the relative power of the town, and the town’s history. Possible systems include election, appointment by the lord, selection by the lord from a list proposed by the town, or (rarely) inheritance. The term of office is usually a year and a day, but officials may be appointed for other periods including life. Apart from the ability to make decisions that benefit themselves, town officials are compensated for their service to the town, in the form of a wage or additional rights; for example the right to pasture their horses in a particular field. Women are usually excluded from office and the selection processes.''
@@ -142,14 +138,14 @@
 ''Town officials also perform daily duties like assessing taxes, setting prices, or holding criminal courts. Sometimes, officials have responsibility for particular areas — for example, portmen are appointed to assess tolls at port, coroners are primarily concerned with assessing the value of fines resultant from violent deaths (which typically accrue to the crown), bailiffs hold criminal courts, and guild-masters police the statutes of town guilds — but other officials have wide areas of concern. The exact titles and duties of town officials depends upon local language, local history and geography, and regional idiosyncrasy, which should all be considered by the troupe when choosing roles for town officials. For example, a town without a port obvi''
 ''ously has no use for portmen, but may have an official tasked with running a mine near the town. Another town, on the route of an important pilgrimage, may have an official who works with local churches to ensure that pilgrims are fed and housed, without causing aggravation to the burgesses of the town. The Customs of Lorris (see insert), the Law of Freiburg (see insert), and some of the illustrative town profiles (see Profiles, below) include examples of how town officials are organized in particular towns.''
 ''During the 13th century, most towns are growing rapidly, and although town officials are invariably wealthy they are not drawn exclusively from established town-families: new townsmen are equally acceptable as officials. Town officials may also be members of craft or merchant guilds, and in many towns the boundary between town and guild business is very vague; indeed, town charters and guild charters are often intimately entwined. Church representatives can sometimes serve as town officials, even''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Town Officials==
 
 ''As being a town official is usually a temporary office it is not really suitable as a Virtue or Flaw, and is perhaps better incorporated into a saga as part of a story. If a troupe desires, however, a Virtue modeled upon the Minor Social Status Virtue: Town Magistrate (see Crime) can be used. For a more general town official, the requirement to have a score in the Civil and Canon Law Ability and the benefit of being able to access Academic Abilities during character generation should both be dropped.''
 
-|]
+|}
 ''if they cannot be citizens, but they are unlikely to dominate decision-making, except in towns granted charters by ecclesiastical lords. In some towns, particularly in Italy, officials are politicized and form factions. This can result in rival factions, backed by wealthy families, dominating different quarters of the town, and preventing effective governance.''
 
 ==Families of Town Charters==
@@ -159,8 +155,6 @@
 ''The town of Lübeck received its charter in 1188 from Frederick Barborossa, Emperor and King of Germany, which superseded a charter previously granted by Henry the Lion. The Emperor’s comprehensive charter details the town’s constitution and administration and includes laws on inheritance, fortifications, coinage, and taxes. In 1208, Lübeck’s law was granted to Rostock, by Prince Borwin of Mecklenburg, and''
 ''other Baltic towns also use Lübeck’s law. The Teutonic Knights, a landowning monastic military order, are suspicious of Lübeck’s charter and promote their own, less autonomous, charter to Baltic towns.''
 ''The law or fuero of Cuenca contains one thousand clauses and regulates inheritance, criminal law, military service, irrigation and pasture rights, the use of public baths, and Christian-Jewish relationships. It was granted to Cuenca by Alfonso VIII of Castile, in 1190, soon after he liberated the town from the Muslims. Since then several other reconquered towns in Iberia have been granted the same charter.''
-
-[|
 ''The Law of Freiburg was first granted in 1120, by Conrad Zähringen, and has been revised several times since. Freiburg is located on the edge of the Black Forest (see Guardians of the Forests, page 64) and prior to 1120 the site was uninhabited, but by gathering merchants (mostly from Cologne) and granting them land in the town the lord was able to quickly populate the town. The charter has also been granted to several other towns, including Diessenhofen (1178) and Berne (1191). The main provisions of the charter are:''
 ''The original citizens were granted plots of land in the town, by the lord, and in return pay him an annual rent. Citizens may freely sell urban property, without restriction — the rent must be paid by the new owner — and the town council sells additional plots of land (from which the lord also accrues an annual rental).''
 ''The lord guarantees peace and safe-conduct to all who visit the market, and ransoms back stolen market goods.''
@@ -175,8 +169,6 @@
 
 ==The Law of Freiburg==
 
-
-|]
 
 ==City & Guild Communes==
 
@@ -299,8 +291,6 @@
 ''In lands where the influence of the Byzantine Empire is strong, evidence of this long heritage is clear. For example, Ravenna, which had strong links with the Eastern Emperor, contains several great basilicas and small baptisteries where the highly colored and detailed mosaics on the inner walls and ceilings, dating from the fifth and sixth centuries, far outshine any wall paintings in brilliance. Venice’s Basilica of Saint Mark was built in the 11th century in the Byzantine style and has glittering wall mosaics of its own. The basilica displays riches plundered from Constantinople quite recently, during the Fourth Crusade.''
 ''Beside it stands the Doge’s palace, in the style of a Byzantine fortress. Constantinople itself has the magnificent sixth century church dedicated to Santa Sophia (Holy Wisdom). Although it appears plain and mas''
 ''sive from outside, so marvelous is its construction of vaults, domes, and windows when viewed from within, and so dazzling its mosaics and colored marble, that one can immediately see it was divinely inspired.''
-
-[|
 ''The early 13th century sees a great surge of investment in building by the Church and the citizenry.''
 ''In France, England, Italy, Germany, and northern Spain, large ecclesiastical buildings have been built on much the same lines for some three hundred years. While there are local variations everywhere, churches typically have a cruciform plan, a bell tower, a main entrance in the west wall, a rounded apse containing the altar at the eastern end, rounded arches, stout columns, and, where it can be afforded, colorful wall painting and much carved surface detail. The images are usually at least vaguely related to a religious theme but can be very fanciful, the most amusing occurring in monastic settings. The churches intended mainly for pilgrims, and funded by them, are usually high and wide with large windows to allow as many people as possible to fit comfortably into the nave and not feel suffocated. Relics are often kept in a crypt beneath the altar, and the altar is''
 ''therefore reached by a flight of steps. An unobstructed ambulatory allows pilgrims to move around behind the altar, where other relics may be venerated. In contrast, town churches built to be shared by nuns or monks and the laity are more elongated, since the eastern end of the building is extended to accommodate all the monks and nuns in their own separate area.''
@@ -308,8 +298,6 @@
 
 ==Building Styles==
 
-
-|]
 ''The building or reconstruction of a cathedral is not infrequently hampered by demons. Their actions may encourage sloth in the workforce, mysteriously drain the coffers of the individual or group funding the current phase of construction, or physically carry off parts of the structure. Interference by fay and magical beings ranges from knocking things down and luring away artists and craftsmen to simply hiding tools.''
 ''Architects are becoming ever more daring now that they have adopted the pointed arch that guides the eye towards heaven. Not surprisingly, many observers believe that such structures can only stand with supernatural aid. Some artists and craftsmen really have grasped the principles of the new style, but some designers and builders have had supernatural help. A maga of''
 ''House Jerbiton might be persuaded to apply Terram magic to help realize an artistic vision. Heavenly aid might be sent to a worthy person building to the greater glory of God. For others, it is rumored that their building only remains standing because the architect has made a pact with a demon — a soul is so valuable a prize that Hell is willing to help further the work of Heaven to win one.''
@@ -317,8 +305,8 @@
 ''Groups of monks or nuns following the Benedictine rule prefer to live in a rural setting, but some of their foundations have been incorporated into expanding urban areas. Urban monasteries and convents have an inner courtyard and cloisters for their own sole use, and an outer courtyard''
 ''where they conduct business with the outside world, in addition to having a church of their own. It is quite common for monks’ enthusiasm for interaction with the people of the town to go further than it ought. The walls around their buildings serve to mark the distinction between those who have dedicated their lives to the service of God and the rest of humanity, but these same walls are sometimes a necessary defense when friction, or even violence, breaks out with the townsfolk. Monks and nuns are usually dependent on their associated rural manors for their dayto-day food supplies, making little use of regular markets, but the more affluent are eager patrons of the larger fairs to obtain wine and other luxuries (see Chapter 6: Fairs and Markets).''
 ''Among many of the clergy, cities are seen primarily as the breeding ground for every vice. Richard of Devizes, a monk living in Winchester, England, wrote at the end of the 12th century that London was home to all sorts of disreputable people including “actors, jesters, moors, flatterers, effeminates, pederasts, singers, dancing girls, quacks, sorceresses, extortioners, magicians, beggars and buffoons.”This may say more about the writer than the city; however, it is this reputation that calls the members of the newly established mendicant orders to live amongst the citizens, using their example or their oratory to combat sin. The order of the followers of St. Francis was founded in Italy in 1209 and has not as yet spread beyond Italy and France; there, friars are to be found preaching in the market places and public squares rather than in churches. The order of friars living according to the rule of St. Dominic was founded in 1216 but is still''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''In England, the roofs of olderstyle buildings are generally of wood rather than the stone that is used in France. Unlike the relatively compact French cathedrals, new ones being constructed in England have a very much longer nave, extended transepts, and no eastern apse.''
 ''German churches are almost all in the older style, as the French influence is being resisted. They are more likely to have a rounded apse at each end, and so are accessed by a door in one of the side walls. They often boast several ornamental round towers but are much more restrained than elsewhere with regard to internal decoration. The only examples built as yet with elements of the new style take the compact French ground plan further, approaching the shape of an aisled hall.''
 ''In Italy, churches are all in the older style and are usually built of brick or stone, often clad in marble if it can be afforded, and have wooden roofs. Delicate arcades in tiers often decorate the external walls. The developments in France have as yet been rejected as unsuited to the Italian climate, where the light is strong and the sun hot for much of the year with the result that thick walls and small windows are a blessing. Also, increasing window sizes reduces the area available for the painted frescoes that are so popular there as a good means of reminding churchgoers of their duties.''
@@ -326,6 +314,8 @@
 
 ==Regional Variations in Church Design==
 
+
+|}
 ''only thinking about taking its fi ght against heresy to the urban centers as preachers. Canons, too, live and work alongside the urban populations that support them, most often doing pastoral work including care of the sick and insane, the aged, and lepers. Although the urban populace celebrates the same holy days as everyone else, their festivities are adapted to their environment so that a procession through the streets, perhaps behind a banner, a crucifi x, or a statue of a saint, is a common sight.''
 
 ==Places of Learning==
@@ -384,9 +374,11 @@
 ''un a age the''
 ''prov''
 ''slee''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''a''
 
-|]
+|}
 ''will be persuaded by payment to give a visitor somewhere to sleep. The very rich living in the countryside maintain a town house to use when they or their servants have to stay, for example to collect rents. Others make use of their contacts to obtain shelter. A large city probably has a rudimentary inn where food and a sleeping space in the shared common room can be bought.''
 
 ==Housing==
@@ -406,14 +398,14 @@
 ''The number of people living in a particular urban community is said to be larger the further away it is, at least as far as cities are concerned. To those living in or near them, the vast majority of cities have less than 2,000 inhabitants and only about sixty have a population of twice that or more (see Town Profiles, below). In the lands bordering the eastern side of the Adriatic, Greece, and Bulgaria, once-great cities have shrunk and urban living has declined so far that only small towns exist.''
 ''In regions where cities are growing rapidly, as many as one in four of the total population are urban, while in areas with little enthusiasm for urbanization, it is only one in ten. The opportunities available in town for a peasant, free or otherwise, to change his lot in life are widely known, if often exaggerated; whatever the stories say, no city in Mythic Europe has yet been found that has streets literally paved with gold. The city spoken of may lie far to the east, although there are those who claim to know that it is in Arcadia. Laborers, paupers, and vagrants of all types are drawn to urban life by the prospect of money. A significant percentage of the inhabitants of towns were born elsewhere and came to the town in their youth. Most adapt quickly to the crowded conditions and adopt the customs and culture of the community. Citizenship is granted to newcomers according to rules that vary from town to town (see Town Charters, Becoming a Townsman, above).''
 ''Towns and cities that count knights and other nobles amongst their citizens are rare in Savoy, Sicily, Castile, Leon, Portugal, the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Place of Safety==
 
 ''In many towns, the only building of stone that can be made at all secure is the church. Visiting merchants who wish to keep their wealth safe, whether it be in goods or coin, often ask the priest to keep it for them so it is safeguarded both by the physical structure of the building and the sanctity of the place. Those with something valuable to protect who prefer not to discuss the matter with the clergy are likely to bury their precious items in the churchyard to take advantage of the assumption that hardly anyone would dare to steal from such a place. The ground there is often disturbed, so a new area of digging is rarely noticed.''
 
-|]
+|}
 ''Low Countries, and northern France, although in the last two there are knights who live in cities but are outside the city’s jurisdiction. In contrast, many German towns have citizens who are knights. Some kings and princes go so far as to forbid knights from becoming citizens since it suits them to maintain the distinction, but it is becoming harder to enforce this, especially in the Kingdom of Italy. Where a town is weak or a local ruler particularly strong, citizens may make efforts to exclude the nobility from taking up residence in an urban area or place restrictions on them, for example forbidding intermarriage between the nobility and citizens. Patrician dynasties, based on success in business that has allowed a lowly family to greatly increase its social standing, are growing stronger in Flanders, northern France, parts of Germany bordering the Rhine and, most of all, in Italy.''
 ''A great many of the people living in a city work to serve the merchants, craftsmen, and religious as servants, retailers, carriers, and clerks. A transient population of masons, glaziers, carpenters, painters, and carvers of stone and wood moves in when there is a major building project in progress and may stay for several years, and 1220 is a time when many cathedrals are being built or rebuilt. Such skilled workers move around, following the work, and are very likely to move on before the construction is complete if there is a hiatus in the funding.''
 ''In a few urban areas a group of supernatural beings may live in a regio quite apart from the mundane activities. Others choose to involve themselves with certain aspects of urban life. A brownie or similar household faerie may help a craftsman in his work, perhaps doing the finest, most detailed work. Another may help with sales by making sure goods are moved to where they can be seen or reached easily. Every city is likely to be home to a few animals naturally at home in urban areas but having supernatural characteristics. One such may be a fay cat that really can be simultaneously stealing food in the kitchen, tripping someone up on the steps, and watching every passerby while appearing to be fast asleep in the sun. There are also the magical dogs who epitomize loyalty, and so involve themselves in the affairs of their owner, working to protect them, or seeking out a lost child and guiding it home.''
@@ -431,8 +423,8 @@
 
 ''Grains (wheat, barley, oats, rye) are the most common foodstuff in the towns of Mythic Europe, and are imported from either the local countryside or from other towns. Of these, wheat is the most popular because it can be easily stored, and many towns have public granaries. Some Italian towns use their granaries to distribute wheat as a charitable dole, reminiscent of the practices in classical Rome. Town officials (backed by public funds) often guarantee high prices to merchants for grain, to ensure that the town is preferentially supplied in times of famine or shortage. These guarantees have also allowed many merchants to make their fortune shipping grain.''
 ''Town mills refine grains to make flour from which bread is baked. As few households own an oven, due to the expense of installation and fuel, it is common to prepare dough at home to bake in the local bak''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Occupations==
 
@@ -443,7 +435,7 @@
 ''Medium Town 10% 50% 30% 10%''
 ''Large Town 10% 30% 30% 30%''
 
-|]
+|}
 ''er’s oven. White bread, made from highly refined wheat, is a high status food. The majority of townsmen, however, eat brown breads that contain other, less refined, grains. Poorer town dwellers, who cannot afford bread, eat porridges or gruels.''
 
 ==Drink==
@@ -465,12 +457,14 @@
 ==Disease==
 
 ''The human body is composed of four humors. Each humor is a reflection of an element, a season, and a set of conditions: blood, corresponding to air and spring, is hot and wet; yellow bile, fire and sum''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed==
 
 ''On feast days, wealthy burgesses in the town host a sumptuous banquet at which the poor of the town are served for free. However, for the last year the burgesses have been unable to host a feast, not because they cannot afford it, but because some supernatural power has been sabotaging the feast preparation — roasting meat burns to a cinder, stored grain is found to have rotted, and wine turns to vinegar. Somehow, the townsfolk decide that this is the fault of the magi living in a covenant near the town. Unless the magi can quickly discover the saboteur of the feast, they have to contend with a riot, which may result in the deaths of many townsmen, causing both alarm in neighboring regions and consequences for the magi at Tribunal. The saboteur could be a faerie, a demon, or perhaps the agents of a rival covenant attempting to provoke an incident for political gain at Tribunal.''
+
+|}
 ''mer, is hot and dry; black bile, earth and autumn, is cold and dry; and phlegm, corresponding to water and winter, is cold and wet. Excess of a humor causes an imbalance in the body, which is disease, and treatment is often based on the application of a counter-balancing humor;''
 ''for example, an excess of black bile (cold and dry) can be treated by the application of hot and wet conditions that favor blood. Diagnosing and prescribing the correct treatment''
 ''for a disease is represented by the Medicine Ability (ArM5, pages 66, 179, 180). In addition magi can diagnose and treat many diseases using suitable Intellego and Creo Corpus spells (ArM5, page 130).''
@@ -493,12 +487,14 @@
 ''b''
 ''a''
 ''P b h''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Anachronism and Disease==
 
 ''In Mythic Europe disease is caused, as stated, by humoral imbalance. Sometimes this is prompted by living conditions, and the humors are often aggravated by demons and occasionally by other supernatural agents. In particular, troupes should note that diseases are not caused by viruses, or bacteria, nor are they usually contagious, nor can they be spread by vectors such as vermin.''
 
-|]
+|}
 ''leprosariums, for the convalescence of exiled lepers; there are over 2,000 such leprosariums in France alone. In some regions, including Scotland, leprosy is so feared that lepers are hanged or burned at the stake.''
 ''Town charters frequently contain rules for dealing with lepers, which may include special begging rights or restrictions for lepers. For example, in 1204 King John decreed that a proportion of all flour sold at market in England must be set aside for lepers; others expect lepers to announce their presence by wearing elaborate costumes consisting of long robes, gloves, footwear, and horns, or by ringing bells.''
 ''Lepers gain the Major General Flaw Leprosy. This Flaw may also be taken during character generation. The disease caused by the spell Curse of the Leprous Flesh (ArM5, page 133) is not true leprosy, but has similar effects.''
@@ -520,8 +516,8 @@
 ''Tarantism is an excess of yellow bile, caused by the bite of a faerie tarantula. The disease triggers an irresistible urge to dance — to the point of exhaustion — along with thirst, unusual sexual urges, and pain around the bite mark. Tarantism is at''
 ''its worst during summer, although it may take years to manifest, and the disease predominately afflicts young women.''
 ''A character bitten by a faerie tarantula is afflicted with tarantism unless a Stamina roll is made against an Ease Factor of 9. Once per season a Stamina Roll against an Ease Factor''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Living Condition Modifier==
 
@@ -534,7 +530,7 @@
 
 ''A leper has a permanent –2 modifier to her Living Condition (with an additional –1 if she lives in a leper colony), and whenever she undergoes an Aging Crisis (ArM5, page 170) the leper sustains a Heavy Wound in addition to any other result. Lepers cannot gain a positive reputation due to a pungent rotting smell that they emanate.''
 
-|]
+|}
 ''of 3 (or 6 in summer) must be made for each afflicted character. If this is failed she may do nothing for the entire season except dance every day until exhausted.''
 ''Tarantism is not fatal, but the character requires care during her bouts of frenzied dancing; at a minimum she must be fed by others. Hearing a particular tune, the tarentella, cures the listener, and often an epidemic of tarantism is followed by the arrival in town of faerie minstrels who offer to cure the disease — for a price.''
 
@@ -562,14 +558,14 @@
 
 ''Unlike the country, where populations are small and everybody knows their neighbor, towns are relatively anonymous and a character may attempt to literally get away with murder. In fact, murder is not the most serious crime in Mythic Europe — thievery is. This is because murder can be a “crime of passion” — and therefore primarily the fault of drink, demons, or another momentary madness — while thievery, burglary, and robbery are all only ever premeditated acts and hence worse sins.''
 ''Crimes are committed by ordinary people, and there are no guilds of thieves or other such criminal institutions, although gangs of criminals, particularly highwaymen, may act together. There are no formal police forces either, but large towns have city-watches who patrol the city, especially at night, largely to enforce curfew by escorting obstreperous drunkards home. The city-watch also''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Black Death==
 
 ''Black Death, or the plague, does not exist in Mythic Europe. If your saga follows history, then Black Death arises in 1347 in Constantinople. It is a demon that appears as the shrouded reaper, although it is invisible to the mundane senses. Black Death is summoned by an Infernal ritual, and members of the Hermetic Order might contribute to or avert earlier attempts by infernalists to summon Black Death.''
 
-|]
+|}
 ''interrupt and attempt to apprehend any criminals that they observe; but, unlike a police force, the city-watch has no formal investigative function and does not generally attempt to solve crimes that have already happened, unless perhaps they were committed against the city-watch itself. The city-watch only interrupts crimes that are in progress.''
 
 ==Judicial Procedure==
@@ -578,8 +574,8 @@
 ''The first step in a trial is an accusation, made by the plaintiff against the defendant, who either admits or denies the crime. The plaintiff need not be the victim; in a murder case the plaintiff will typically be a kinsman. If the defendant is not present in court, officials are sent to find and notify him of the case, and a trial date is set. A defendant who repeatedly fails to appear will be judged guilty in his absence. It is perfectly acceptable to accuse a non-human of a crime; for example, a farmer might accuse a neighbor’s stock of grazing in his field, or a nymph might be accused of seducing travelers that pass by her stream.''
 ''At the time of accusation, the court has to decide whether it has jurisdiction or not. Town courts do not hold jurisdiction over a man''
 ''who disciplines his wife or children, nor do they hold jurisdiction over Church officials, who are tried by their own ecclesiastical courts under canon law. Commercial law and heresy are also judged under canon law, by the Church (see ArM5, page 205). The court can also dismiss a case it deems frivolous. Otherwise, the town court claims jurisdiction over the town’s inhabitants. Additionally, there is a regional hierarchy of towns; thus, if a case involves men from several towns it is heard in the court of the most important town in the region. This only applies in relatively homogenous regions, like much of England and France. In Northern Italy, for example, a large town never cedes judicial authority to its rivals and such inter-town antagonism may lead a criminal to seek sanctuary in a rival town. Very small towns may also defer to the court of a larger neighbor. In the absence of any other agreement, town courts also claim jurisdiction over supernatural beings,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Minor Social Status Virtue: Town Magistrate==
 
@@ -600,7 +596,7 @@
 
 ''The teachings of Islam explicitly address criminal and legal matters, and thus Islamic law, or al-shari‘a, is well defined, although there are certainly different schools of law. Troupes wishing to resolve cases using Islamic law are referred to The Divine, page 105.''
 
-|]
+|}
 ''but a magistrate who doubts his ability to enforce a decision may decline to hear a case involving the supernatural.''
 ''Once the court decides that there is a case to answer, guilt or innocence is decided, often very quickly, on the basis of witness statements, sometimes known as oaths. The strength of each oath depends upon the perceived character of the oath maker, and whichever side assembles the best selection of supporting oaths prevails. Evidence may also be produced, especially seized property''
 ''that was allegedly stolen, but there are no formal procedures to gather evidence and many courts meet their costs by selling confiscated, stolen property. Forensic science does not exist and evidence gathered through magical means is normally treated very suspiciously. In some towns, particularly in Italy, the magistrate, or a panel of magistrates, decides guilt, while in other towns, especially in northern Mythic Europe, a jury of townsmen decides. A majority decision has traditionally been sufficient for panels or juries, but recently some town charters dictate that a unanimous decision is required.''
@@ -616,8 +612,8 @@
 ==Prison==
 
 ''Court buildings may include small prisons with cells for a few inmates. Prisoners are either awaiting trial or execution (as incarceration is not used for punishment), and are fed, but may be required to purchase their meals. Normally, visitors are not allowed, aside from Church and court officials, although some jailers are amenable to bribes. Towns without prisons may hold prisoners in stocks for short periods.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Approvers==
 
@@ -630,6 +626,8 @@
 ''Ordeal of Cold Water: The accused is thrown into a river; if innocent he sinks instead of floating.''
 ''Ordeal of Hot Water: The accused pulls a stone from a kettle of boiling water; if innocent the ordeal wounds heal after three days.''
 ''Ordeal of Iron: The accused carries a red hot iron a distance of nine feet; if innocent the ordeal wounds heal after three days.''
+
+|}
 ''Prisons can also house political prisoners, such as wealthy prisoners of war held for ransom, but these are usually the prisoners of nobles and are as likely to be incarcerated in a castle tower or the camp of a campaigning army.''
 
 ==Shows of Feeling==
@@ -646,8 +644,6 @@
 
 ''Florence (Florentia) was founded by Julius Caesar in 59 BC at the confl uence of two streams, the Arno and the Mugone. It was briefl y a center for the Cult of Isis, until conversion to Christianity in the third century at which time two churches, San Lorenzo and Santa Felicita, were built. There are now 48 churches within Florence, but much of the''
 ''from fun and into sin.''
-
-|]
 ''old Roman city still stands, including baths, pavements, and a sewage system.''
 ''Today, Florence has a well-developed cloth industry and a banking industry that, if your saga follows history, will dominate Mythic Europe within the next 50 years. The Florentine sky is pierced by 90 towers, each the preserve of a noble family. Alliances of these families, tower societies, control portions of the city, and since 1216 the city has been split by a feud between two factions: the Guelphs and Ghibellines. Imitating the tower societies, the city merchants formed, in 1182, their own societies, the Arte dei Mercanti, which have spread to many other cities. The final piece on the crowded chessboard of Florentine politics is the commune, whose officials are elected for two month terms and have governed Florence since 1138, except for a brief period from 1185, when Frederick Barbarossa conquered Northern Italy and imposed''
 ''a marquis. The paralysis of internal political squabbling has caused the city to institute the office of Podesta; this is an outsider arbiter invited by the city to lead it in times of external military threat.''
@@ -657,14 +653,14 @@
 ''The Greek city of Byzantium was founded in 658 BC by the sailor Byzas, at a site suggested by the Oracle at Delphi. The gateway between Europe and the Orient, it is a vibrant trading city, and has a market for religious relics. In 73 Byzantium became part of the Roman province of Bithynia-Pontus and, following a revolt in 196, the city was recaptured by the Roman Emperor Septimus Severus, who constructed the Hippodrome arena,''
 ''baths, and palaces in the city. The Emperor Constantine renamed the city Constantinople in 324, declared it the new Roman capital, and built within it many churches and monuments. The Roman Empire collapsed in the west, but with its new capital remained strong in the east, until 1204 when the knights of the Fourth Crusade captured Constantinople. They crowned Baldwin IX, Count of Flanders, the first emperor of the Latin Empire of Constantinople, but Baldwin did not reign for long and in 1205, while in battle against King Ivan of Bulgaria, he mysteriously disappeared. He is believed to be dead, but there are rumors of sightings in Flanders. The current Latin Emperor is Robert of Courtney.''
 ''Constantinople is partitioned into eight sections, each independently governed under the control of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Florence==
 
 ''In Piazza San Firenze, part of the old Roman settlement, is a magical regio within which stands the Roman Temple of Isis. The Temple appears abandoned, but it is in good repair and a covenant could be sited within it. The High Priestess and her immediate followers may still occupy hidden, higher levels of the regio and relics of both the Cult of Isis and the Cult of Mercury can be found in the Temple. The relics of the Roman cults could be a rich source of Hermetic innovation, but a covenant sited in Florence would run the risk of becoming embroiled in the feuds that dominate the city.''
 
-|]
+|}
 ''different Crusader groups. Venetian merchants occupy the three most favorable sections and the Venetian clergy, who deposed their orthodox Byzantium brethren, also dominate the many churches. Constantinople has declined since the arrival of the crusaders, as trading profits now flow to Venice.''
 
 ==London==
@@ -677,8 +673,8 @@
 ==Brugge==
 
 ''In 862, the first Count of Flanders, Baldwin I, was exiled for kidnapping and marrying Judith, daughter of the French king, Charles the Bold. When he arrived at the site of Brugge he fought a ferocious bear that attacked from the forest. Baldwin was victorious, but the bear, magically transformed, joined Baldwin’s retinue, and became the first citizen of Brugge.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The covenant is approached by an agent of the Byzantine Emperor, Theodore Lascaris, who lives in exile in Nicea. The agent explains that in antiquity the goddess Hecate saved Byzantine from siege by Phillip of Macedon, and he offers a rich reward to the magi if they will help contact the goddess to expel the city’s Latin usurpers. Hecate is a powerful faerie who lives in a regio coincident with''
 ''Constantinople, which can only be entered by a character following a ritual path illuminated by a crescent moon. The precise method to enter Hecate’s regio has been lost, however, and the magi need to find an archaic account of the ritual. If they do manage to contact Hecate, the magi must convince her to assist the exiled emperor, and she was sorely offended by the city’s conversion to Christianity under the Romans.''
 
@@ -694,7 +690,7 @@
 
 ''Brugge was once little more than a castle that collected tolls from merchants crossing the Reie river, but its fortunes changed in 1134 when a storm altered the coastline and carved a deep channel, the Zwin, that brought the town to within a mile of the sea. A sea dragon created the storm, in a secret agreement with Countess Jeanne’s great-grandfather, Derrick of Alsace. Two sailors, thought to have recently drowned, have arrived in town, claiming to be the dragon’s emissaries. They threaten to render the Zwin impassable if accumulated tolls owed to the dragon are not paid.''
 
-|]
+|}
 ''The current lord of the town is the Countess Jeanne of Flanders, who is without an heir. She is married to Fernando, Prince of Portugal, and lives in the nearby town of Lille.''
 ''Today, Brugge is a major power in the wool, weaving, and cloth industries. A council of elected officials governs the city, collects taxes, and supervises public works including the canals that link the city to the sea. Foreign merchants are permitted to own property and a number of foreign enclaves have begun to grow outside the walls of the town proper. Craftsmen are not allowed to own property and have fewer rights than merchants.''
 
@@ -708,8 +704,8 @@
 ==Ipswich==
 
 ''Ipswich has a population of around 300 burgesses, and is the chief town in the county of Suffolk. Originally an Anglo-Saxon settlement, it was granted a charter in 1200 by King John, of England, giving the townsfolk a court, exemption from tolls throughout England, a merchant guild with a monopoly on milling in the area, and the right to''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Ipswitch==
 
@@ -719,7 +715,7 @@
 
 ''An Hermetic covenant sited near Acre may be mistaken for an outpost of a military order, particularly if it has an obviously armed turb, and therefore it is likely to be attacked — probably by Muslim forces, but possibly by a military order seeking to gain an edge over their rival orders. If Hermetic magi are known to be in or near Acre, they are likely to be approached by one or more Crusader factions that either seek magical assistance for their military strategies or seek help to recover relics captured by Muslims.''
 
-|]
+|}
 ''elect two bailiffs and four coroners to administer the town. In return, the town pays the crown a yearly fee of 40 pounds.''
 ''Ipswich has a large grain market on Cornhill Street, which also sells local meat, timber, fish, wool, bread, and dairy products. Market day is Tuesday and traders pay an annual fee of three pence. At the quay, foreign imports can be purchased, including iron from Spain and Normandy. The bailiff’s tollhouse, St. Mary’s Church, St. Mildred’s Church, and the mills of the merchant guild are the most important buildings in town. The county jail has just been constructed in Ipswich.''
 
@@ -738,14 +734,16 @@
 ==Ilium==
 
 ''This port town, on the Aegean coast south of Constantinople, has magnificent walls built by Poseidon within which lives a population of 1,000. The town is located in a faerie''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Kolding==
 
 ''The townsfolk have just begun to plan the construction of a stone church, dedicated to Saint Nicholas, which will replace a small wooden church. It will take about 30 years to complete the church, partly because of the interference of a local faerie winter king who fears the encroaching Dominion aura. Eventually, the townsfolk approach the covenant for assistance in dealing with the faerie nuisance. Saint Nicholas is venerated, in northwestern Mythic Europe, for miraculously resuscitating three children who had been murdered by an innkeeper who pickled them in brine.''
 ''Story Seed: Ainzyle-Château''
 ''Despite the compromise charter, the bishop of Laon still places an impossible tax burden on the town, and the townsfolk are planning for mass emigration to the town of Soissons. The bishop’s agents have discovered this and approach the covenant, which also lies within the bishop’s diocese, for assistance in suppressing the brewing revolt in the town. If the magi assist the bishop they open themselves up to accusations of unnecessary interference in the affairs of the mundane; but, conversely, if they don’t assist the bishop’s agents the bishop may attempt to expel the covenant from his lands.''
+
+|}
 ''regio that can only be entered by ships guided by faerie pilots, and Ilium was recently granted a charter by its faerie lord, the elderly Priam, who claims descent from Z e u s . Ilium’s charter''
 ''grants the townsfolk a market, an assembly that judges criminal cases, and the right to sell property in the town to anyone who can prove Olympian descent. Ilium is famed for its mid-summer horse fair, which is attended by faerie merchants from throughout Arcadia, and a few privileged mortal merchants. Ilium’s merchants regularly travel to the markets of Constantinople.''
 ''Hermetic scholars are divided as to whether this actually is the Trojan town besieged by the ancient Greeks, or merely a faerie imitation. The''
@@ -754,6 +752,8 @@
 ''zlingly the invasion''
 ''army never''
 ''appears.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Ilium==
 
@@ -761,11 +761,14 @@
 
 ==Further Information==
 
+
+|}
 ''Guardians of the Forests provides some information about towns located in the Rhine Tribunal, and the supplements for the other tribunals provide relevant information about the towns within them. Troupes that wish to set an historically accurate saga in a large city may like to visit their local library for further information about the city, as there is insuffi cient room in this text to provide all details of interest. ships guided by faerie pilots, and Ilium was recently granted a charter by its faerie lord, the elderly Priam, who claims descent from Z e u s . Ilium’s charter''
 ''town’s nobility periodically prepa the town for siege by a hostile arm which they expect to arrive on t''
 ''winter solstice, but pu''
 ''zlingly the invasi''
 ''army nev''
 ''appears''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

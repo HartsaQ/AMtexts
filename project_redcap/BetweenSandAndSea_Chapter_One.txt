@@ -9,14 +9,14 @@
 
 ''Mythic Africa has two dominant themes: wonder and hunger. To the natives, elements relating to either theme are so commonplace that they are rarely noticed or mentioned, but to outsiders these themes should stand''
 ''out. Storyguides introducing Mythic Africa into a saga may wish incorporate elements from one or both of these themes, particularly during the characters’ ﬁrst experiences on the continent.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Note for Modern Readers==
 
 ''Some might be surprised to see that this book refers to a land called Africa, but covers only a fraction of the continent that currently bears that name. However, in the thirteenth century this was Africa, not North Africa. It was generally accepted that Africa had a southern shore on the Great Ocean somewhere north of the equator, but this had never been witnessed because the proximity of the sun to the equator formed a torrid zone that is hostile to all life. The black-skinned inhabitants of the continent are mostly Ethiopians who live on the fringes of the torrid zone. The historical empires and kingdoms of sub-Saharan Africa are relegated to legend, since in Mythic Africa they exist within or beyond the torrid zone. However, the border of the torrid zone is ill-deﬁned and need not be at a constant latitude throughout its extent. At the option of the storyguide there may be regions beyond the Great Desert that can support human life, or else these lands could lie within regiones. Art & Academe page 28 has a more complete discussion of the shape of the world in Ars Magica Fifth Edition, but pertinent material has been extracted here.''
 
-|]
+|}
 ''A Land of Wonder Africa is an exotic continent to Mythic Europeans. It is ﬁlled with outlandish beasts, strange spirits, and savage monsters. Further, it is the point of origin of one of Christendom’s biggest threats — the Moors of Al-Andalus in Iberia, an enemy that goes back half a millennium to the days of Charlemagne, originated in Mythic Africa. A European visiting the markets of Marrakesh will be overwhelmed by their strangeness; a welter of unusual smells, fabulous sights, and foreign sounds that he has never before encountered. Open plates are heaped high with fragrant spices, while at the next stall, impossibly-bright cloth ﬂutters in the wind. He might see a group of blemmyae — headless humans with faces on their chests — trading nuggets of raw gold, the bulging panniers of their camels guarded by savage looking dog-headed men, each ten feet tall and covered in black fur. Even at the edge of the desert, travelers experience heat like none they have experienced before save in a smith’s forge; the aridity consumes ﬂesh and saps willpower. It might seem that no''
 ''one could possibly live here, yet there are hidden oases and seasonal rivers that support pockets of hardy folk who seem to defy the savage dryness and heat. There are even some who dwell within the shifting dunes of the sand seas. An attack by diminutive raiders riding ostriches might be foiled by a group of Tuareg nomads who ride straight out of a desert mirage and disappear as quickly without saying a word. In the deep desert one’s sense of what is normal and what is strange is turned on its head. Distance and time seem to cease having true meaning; accidental travelers have reported visiting fabulous cities from ancient times, witnessing the congresses of demons, or speaking with angels.''
 
@@ -141,14 +141,14 @@
 ==The Torrid Zone and Beyond==
 
 ''The torrid zone has an ill-deﬁned border within the Great Desert. Some scholars talk of the torrid zone as a “ring of ﬁre,” as if it were a precise geographic border; if this is the case then it occurs further south than most travelers can reach. Throughout most of its length the torrid zone exists as an intensiﬁcation of the heat and aridity of the desert. Deprivation rolls for thirst (see Chapter 3, The Great Desert, “Hazards of the Desert”) increase to a two-hourly interval, and the sunlight on bare skin inﬂicts +5 non-combat damage over the same period. There are no known''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==What if I Don’t Want Characters to Cross the Torrid Zone?==
 
 ''Some storyguides might want the torrid zone to be an impermeable barrier that keeps the characters on the right side of the equator, and this can be an edict enforced by the power of the Divine. This is something that should be discussed with the players so that they know the bounds of the world in the saga; however, it needn’t stiﬂe the curiosity of the characters. As characters enter the torrid zone, a magus might expect to be able to ameliorate or negate the effects of heatstroke and sunburn, but could ﬁnd himself unable to do so in the torrid zone. If the damaging heat and light derive from the proximity of the sun, they are products of the superlunar world, and therefore beyond the reach of Hermetic magic. Insights into research concerning the Limit of the Lunar Sphere could be productive in the torrid zone. As the characters penetrate deeper, the heat becomes more and more intense, and eventually overcomes even the strongest of defenses. Magic used to overcome the effects of the Divine edict fails, perhaps spectacularly. Furthermore, the torrid zone could be patrolled by angels who turn away any who attempt to cross.''
 
-|]
+|}
 ''sources of water within the torrid zone; characters must bring with them whatever they want to drink. The torrid zone is inhospitable in the extreme, but it is not necessarily homogeneous. There could be regions which can sustain life and give some surcease from the heat, and those creatures who live in the desert are likely to know where they are. These areas may lie within Magic or Faerie auras or regiones, and may be connected to the regio network of the Great Desert. According to medieval maps, Aethiopia (or Ethiopia) lies to the south of the Great Desert; Aethiopia Orientalis is located to the south of Egypt, and Aethiopia Occidentalis is south of Mauritania. Aethiopia borders on the equatorial ocean. Whether this Aethiopia is the same as the torrid zone, or whether it is a separate land, is a matter for the saga to decide. Some other ideas of what might lie within the torrid zone include:''
 ''• A city built by refugees from Rome’s sack of Carthage, now ruled by a college of priestesses who masterminded the escape; • The Empire of Prester John: a land of tranquility and prosperity ruled by a Christian king; • Vast grasslands and dark jungles where tribes of nomadic pastoralists herd cattle and antelope in service of a race of sphinxes; • A river of gemstones and vis that ﬂows through a maze of black ravines capable of trapping the ghost of any who die there; • Aithiopia Occidentalis may be the true home of the Sudanese.''
 ''Logic dictates that there is another habitable zone on the other side of the equator, a twin to our own on this side of the meridian, but that it is forever unreachable due to the Great Ocean. Some have theorized that this might be the physical location of the Magic Realm.''
@@ -175,8 +175,8 @@
 
 ''When the ﬁrst incursions from Umayyad Egypt extended into Cyrenaica in 642, the Byzantines bribed them to leave. They returned in 670 led by''
 ''‘Uqbah ibn Naﬁ, who founded the city of al-Qayrawan as his base of operations. From Ifriqiyeh (the Roman Province of Africa), ‘Uqbah extended Arab rule over the whole of the Maghreb. In 683 he was slain by a Berber tribal chief named Kusayla, who vigorously opposed the Arab invasion. Under Kusayla, and later the Kahina (see Insert), the Berbers held out against the Arabs for twenty years. Umayyad wizards brought in to oppose native sorcerers found their spirits abandoned them when faced by Berber magic. The defeat of the Berbers came at their own hand: the Arab generals seduced certain Berber tribes with promises of rich rewards and choice territory. These new converts to Islam swelled the ranks of the Arab armies sufﬁciently to ﬁnally defeat the Berber resistance in 711. The Arabs did not stop there, and under General Tariq ibn Ziyad the mostly Berber army swept into southern Spain and conquered the Visigothic Kingdom of Hispania. By 720 the Umayyad wizards were ﬁghting a full-scale magical war in Africa against the rebellious jinn who has once served them; goaded by Berber''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Kahina==
 
@@ -185,7 +185,7 @@
 ''STORY SEED: THE GOLDEN IDOL OF GURZIL''
 ''Khalid ibn Yazid, the treacherous adoptive son of the Kahina stole Gurzil’s idol prior to her ﬁnal battle, perhaps explaining her defeat. His descendants were forced to leave the idol behind in alAndalus when they migrated to their new homeland, but they would dearly love to have it back. The characters learn of its current whereabouts from a disreputable merchant who also sells the information to a faction within the Banu Khalida. It is a race to see who can get their hands on it ﬁrst: if it is the Banu Khalida, then it could have dire consequences for the stability of the Almohads.''
 
-|]
+|}
 ''magic the spirits managed to drive the wazirs back east. In Africa, the governors appointed by the Umayyad caliphs were quick to enforce Arab dominance over the Berbers through discrimination and slavery. Discontent was rife, and there was widespread revolt in 739. This uprising was united under Kharijite Islam; this sect had been ﬁghting Umayyad dominance in Egypt, and its doctrines promoted egalitarianism that appealed to the independent Berbers. The timing of the revolt was fortunate; combined with the death of the caliph and a revolt in Egypt, the Umayyad dynasty collapsed under the pressure.''
 
 ==The Dissident Dynasties==
@@ -208,14 +208,14 @@
 ==The People of Mythic Africa==
 
 ''Africa does not in general consist of feudal states with clear national boundaries. Rather, each village is a member of a tribe, and the tribal leaders form confederations that usually generate or support a ruling dynasty. Currently, most of northern Mythic Africa is part of the Almohad confederation, whose rulers are Berbers.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Marinids==
 
 ''The Ayt Mrin (Arabic Banu Marin) is a dynasty of Zenata Berbers. They have battled with the ruling Almohads since the very beginning, but in 1217 they won a decisive victory in the Rif, despite losing their leader Abd al-Haqq. His son Uthman ibn Abd has secured control of Er-Rif, and is looking to extend his inﬂuence over more of Africa. The Almohads have counterattacked in vain, and have even fortiﬁed their Iberian cities against a possible Marinid attack.''
 
-|]
+|}
 
 ==Between Sand & Sea Berbers==
 
@@ -231,8 +231,8 @@
 ==Arabs==
 
 ''The Arabs arrived in Mythic Africa in two major waves: the Umayyids in the eighth century and the Banu Hilal in the eleventh. The invasion by the Umayyid Caliphate in the eighth century resulted in the building of cities and the subjugation of native Berbers, leading to a city-dwelling Arab upper class''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==African Languages==
 
@@ -244,7 +244,7 @@
 ''DEAD LANGUAGES''
 ''Lost to the past, several Dead Languages brought by invaders to the region no longer have living speakers but''
 
-|]
+|}
 ''dominating the rural Berber underclass in the coastal regions, while the interior remained predominantly Berber. This situation persisted until the Almoravid dynasty took control of the region: this Berber political movement placed its own in positions of power.''
 ''BANU HILAL AND ALLIES''
 ''The Banu Hilal are confederation of Bedouin tribes from the Upper Nile who arrived in Mythic Africa in the eleventh century. Their arrival destroyed the power of the Arab Zirid dynasty, and severely weakened the Hammadids. Before the arrival of the Banu Hilal there was a distinct separation between Arab and Berber, but the nomadic Banu Hilal have brought the Arabic language into traditionally Tamazight regions, along with Sunni Islam and nomadism. The Maqil accompanied the Banu Hilal on their invasion of the Maghreb.''
@@ -255,8 +255,8 @@
 ''The Ayyubid Sultanate founded by Saladin currently controls Egypt, Cyrenaica and Tripolitania, as well as much of the Arabian Peninsula. They rule the region from Tripoli. The rulers set in place over Cyrenaican cities are Kurdish in origin, and supported by Bedouin and Turkish forces.''
 ''BANU KHALIDA''
 ''The Banu Khalida occupy twelve oases in the very south of Mauritania. They live further into the torrid zone than any other human race. They have seemingly limitless quantities of gold, and are blessed with well-irrigated soil and a temperate microclimate for their cities despite the blasting heat of their surrounds.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==African Languages (Cont’d)==
 
@@ -271,7 +271,7 @@
 ''A NOTE ON PRONUNCIATION''
 ''While Tamazight grammar has its own rules for pluralizing nouns, it is a common convention in western writing to indicate the plurals of many words by simply adding s (e.g. Tuaregs). That is the convention used (with a couple of exceptions) throughout this book. As a (very approximate) pronunciation guide: c is pronounced ch as in “church,” i is pronounced ee as in “meat,” q as k in “kiss,” u as in “mood,” v is pronounced f as in “free,” ny is nye as in “mañana,” kh as in Scottish “loch,” sy as in “shield,” nng as in “bingo.” Other pronunciations are as normal for English with rare exceptions. Similar guidelines for the pronunciation of Arabic words are given in Realms of Power: the Divine Revised Edition, page 107.''
 
-|]
+|}
 ''TUAREG''
 ''The Tuareg are a nomadic people sharing a common origin with the Berbers. They roam the breadth of Great Desert, and probably know it better than anyone else.''
 ''NON-HUMAN RACES''
@@ -307,14 +307,14 @@
 ==Pick A Religion==
 
 ''The vast majority of characters who live in the Maghreb are Muslims. Muslim characters must publicly demonstrate certain virtues, or they gain negative Reputations. That being said, the True Faith Virtue is no more common in Mythic Africa than in Mythic Europe. Most Muslims fall short of the saintly ideal. As a rough guide, the further west an Arabic character comes from, the more religiously conservative he is likely to be, provided he is not from Marrakesh. Characters who are poor or nomadic are less likely to make excuses for luxuries than their urban co-religionists.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==This Is Not Real Islam==
 
 ''Real-world Islam is too complex to be described in a role-playing sourcebook. This book instead contains simple guidelines to allow non-Muslims to play characters who are superﬁcially suitable for telling stories similar to traditional folktales. No offense is intended by this. Players are encouraged to learn more about Islam, to enrich their game experience.''
 
-|]
+|}
 ''THE VIRTUES OF A GOOD MUSLIM''
 ''Islam has ﬁve key activities, referred to as Pillars, which demonstrate the submission of the worshiper to the will of Allah. Profession of Faith and Attempt to Follow The Faith’s Laws: To become a Muslim, a person must make the statement that there is no God but God, and that Mohammed is His Prophet, in the presence of Muslims. This serves a vaguely similar role in Islam to baptism in Christianity, in that it brings the person into the community of the religion. The religious instructions given to Mohammed are recorded in the Qur’an. In addition to this, Muslim jurists consult a series of folk-sayings which have passed down from the Prophet. Regular Prayer: A Muslim prays at ﬁve speciﬁed times each day, while facing Mecca. These times are between dawn and sunrise (preferably well before sunrise), slightly after noon, in the afternoon, after sunset but before dusk, and after dusk (preferably before midnight). Before prayer, the worshiper washes certain parts of the body. A Muslim need not to go to a mosque to pray, but many ﬁnd it convenient to do so. A mosque provides water for cleansing, and has a niche to mark the correct direction to pray toward. Friday is the holiest day, and many Muslims make a particular effort to get to the mosque at midday. Giving alms: Characters are expected to give alms. Some rulers also collect taxes for redistribution as alms. The idea that wealth is a reward for virtue, or conversely that the poor somehow deserve to be poor, is foreign to Maghrebi thought. Fasting: Particularly during the month of Ramadan, a character is required to fast, unless a child, elderly, pregnant, ill or traveling. Fasting includes not drinking water, so it can be difﬁcult to adjust to the fast when it occurs in hotter times of the year. During the evenings of Ramadan, people often break their fasts with lavish feasts, taking turns to host their friends and neighbors. There are certain other dietary taboos in Islam, like pork, alcohol, and garlic, which are observed''
 ''with varying degrees of stringency. Pilgrimage: Each Muslim, particularly every man, should try to visit Mecca, and preferably also Medina, at least once in his lifetime. A character who returns from pilgrimage is honored with the title of Hajj (masculine) or Hajja (feminine) and many wear green head coverings to mark their status. Poorer people often go on pilgrimages to other places: three pilgrimages to Kairouan are considered the same as a pilgrimage to Mecca, by poorer Maghrebis.''
@@ -355,8 +355,8 @@
 ''MURABITIN''
 ''People with fortune are often so thankful for their blessings that they become deeply religious. This leads them to True Faith and murabitinism, a sort of''
 ''sainthood. Once a murabit dies, some of his fortune resides in his relics and place of entombment, which is also called a murabit. Many families have a favorite local saint, who they pray to as an intercessor, and whose tomb they visit once a year. A man who fails to perform this duty would not be surprised if spirits of place or faeries came to torment him, for failing to show respect to his family’s benefactor.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Agencies==
 
@@ -372,7 +372,7 @@
 ''Local people usually socialize at home, but there are two major excep''
 ''tions. Characters attend the public baths. They also participate in sport, which must usually be undertaken outside the city. Bathing follows the Roman model, but public baths are less opulent than in Roman times. Characters can sweat, swim, and get massages together, while discussing political affairs, mutual acquaintances, or business matters. Barbers and physicians also sometimes attend the bathers. Sports popular in the Tell tend to be descended from military training. Archery, fencing, horse racing and throwing javelins are simply practice for war, now done with friends and refreshments. Polo is used to practice small unit cavalry tactics, while a ball and mallet game similar to croquet or hockey serves a similar purpose for infantry. Hunting and falconry are also popular. Falconers in the Tell take prey from birds quickly, then slit the animal’s throat. This means the animal dies of an injury caused by a human. This is important, because Islamic law forbids eating the ﬂesh of animals who have been killed by predators.''
 
-|]
+|}
 ''Although thought of as holy men — and, rarely, women — local saints and their tombs can be tied to any Realm. Some think that people who have lots of fortune, but aren’t particularly holy, can still become local saints. This is true, but in this case the “saint” is not aligned with the Divine Realm. It’s either a Magical spirit of place, or a faerie playing the role of saint. Intermediaries between man and God are speciﬁcally forbidden by the Qur’an, which is why conservative Muslims and those from outside the region worry that these saints are demons (particularly False Gods). Some murabits have local sects of followers, who practice secret teachings. A character able to observe the initiatory rituals or activities of a sect can sometimes determine which Realm a particular murabit is aligned to. Examination of the tomb, and detection of its aura, is also helpful in some cases, although Infernal murabits mask their true allegiance.''
 ''ACT AS A MEMBER OF YOUR SOCIAL CLASS''
 ''Wealthy or educated characters must reinforce their place in society by commanding those with less status. This means characters socialize within their own class. If your character has an education, or wealth, he must not do physi''
@@ -382,8 +382,8 @@
 ''social distinction. The clothing of rich people is brighter and has ﬁner embroidery than that of the poor. Similarly, rich people conspicuously display jewelry. In opposition to this characters on pilgrimage all wear white unadorned clothing as a sign of the equality of people before God.''
 ''MAINTAIN YOUR SOCIAL NETWORK''
 ''Characters from this area spend a lot of time with family, friends, and business contacts. This seems, to some Europeans, as if there’s a continual round of parties, which is a bit decadent. The point of this, however, is to maintain social networks, purchased at character creation with Virtues like Social Contacts, Gossip and Temporal Inﬂuence. A person needs to spend a lot of time demonstrating his usefulness to his social network. Many of the tasks which could be performed at home are instead performed in public to provide further opportunities for maintaining a character’s social network. Communal bathing and food preparation, for example, allow characters to avoid wasting social time on necessary functions. Whenever your character is doing anything alone, seriously consid''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Jealous Wife==
 
@@ -392,10 +392,10 @@
 ''0*. * These statistics are provided by the human host. Size: 0 (as host) Virtues and Flaws: Focus Faerie Powers (Possession, see below), 2 x Increased Might, Loosely Material*; Incognizant. *Modiﬁed to a Minor Virtue: may only take forms using possession power Personality Traits: appears Jealous +3, Vengeful +3, but as some scholars have pointed out, the faerie cannot itself truly be jealous because it, personally, has not lost anything to the victim. The faerie just chooses women who have some social prompting toward jealousy, and''
 ''possesses them, acting as it thinks it would be interesting for them to act. This is mechanically best represented by personality traits. Combat: Fingernails *: Init +1, Attack +3, Defense +1, Damage +0 * Modiﬁed by the body’s statistics. The ﬁngernails are no more dangerous than those of a usual human. The faerie prefers to use intrigue and, sometimes, poison. Soak: 0 Wound Penalties: OK, 0, –1, –3, –5, Unconscious. Pretenses: Intrigue 5 (servants), but may use Pretenses equal to the Abilities of the host.''
 
-|]
+|}
 ''er whether it might not be better to throw a party, or invite some friends around to gossip while you all perform the same task. Gift giving also plays an important role in maintaining each character’s social network. When gifts are given, they are not opened in the presence of the giver, and might never be spoken of again. This is because to show enthusiasm for a gift implies the receiver needed a thing, but could not buy it for himself. This brings shame. Even religious rituals are performed at home. Circumcision is celebrated with a party. Couples are married at home. Funeral rites are performed at home. All of these life-rituals are shared with relatives and friends in the person’s private space, not in mosques. Most magi live in a way that’s considered particularly alien by Maghrebi people. A person who disappears into a laboratory for hours, without seeing other people, is weirdly antisocial. Those magi who lock themselves away for three months are clearly holy, hiding shameful acts, or insane. That most magi do not live with members of their''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Jealous Wife (Cont’d)==
 
@@ -404,7 +404,7 @@
 ''STORY HOOK: THE CHAMELEON''
 ''A messenger contacts the player characters with an offer from a powerful lady in a nearby town. Her husband has been visiting prostitutes, and she wishes to regain his favor. In Tunisian folk magic a perfect way to reorient the desire of straying husbands is to put the bones of a chameleon into his food. She would like to buy a dead chameleon, and offers a valuable jewel in exchange for it. How will the player characters hunt a chameleon? It can be so similar to what stands behind it as to be virtually invisible and has a venomous bite. After the characters have given the dead chameleon to the lady’s servant, can they ﬁnd another use for its venom? What strange effects on the body does chameleon venom cause?''
 
-|]
+|}
 ''family is considered tragic. People may assume that some terrible thing has occurred in the magus’s homeland. That magi do not, generally, marry is considered both scandalous and extremely sad.''
 
 ==Segregate by Sex==
@@ -426,14 +426,14 @@
 ''Men wear a hooded woolen robe or tajellabiyt, with a wool cloak called an asilham for nighttime or in the mountains. Women veil themselves in a white cotton dress called a haik, and a headscarf called a tahruyt. If she might be seen by a man who is not a member of her family, the tahruyt is pulled over the face so that only the right eye is exposed. Women also have a ceremonial haik and tahruyt which is dyed indigo. This tahryut is embroidered with traditional symbols like those used in tattoos.''
 ''TATTOOS''
 ''Tattooing has a long history in Berber culture, despite the Islamic Hadith where tattoos are proscribed. Berber usage falls under aada or ‘normative practice’ and is permitted by local clerics. Amazigh women are far more likely to be tattooed than the men; it is generally accepted that women with tattoos are more beautiful than those without. The symbols used are passed down from mother to daughter, although inﬂuenced by personal preference. Women bear symbols called siyala on the face, neck, and chest. Siyala are marked in green, a holy color. A line from the lip to the chin is marked when a woman is married; and over time this''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Moors, Berbers, or Imazighen?==
 
 ''The term “Berber”derives from “barbari,” a term used by the ancient Greeks to describe the people of Africa. Despite its lack of general use, it is a handy English word to describe the people and the culture native to Mythic Africa. The Berbers refer to themselves as Imazighen (singular Amazigh), meaning “free men”; this is the origin of a Roman name for them, the Mazices. The Romans more generally called the Imazighen “Mauri,” from whence the Europeans get their term “Moor” which they apply indiscriminately to Berber and Arab alike. In this book we use the term “Berber” and “Amazigh” interchangeably, but reserve “Moor” for the Mauritanians.''
 
-|]
+|}
 ''line is extended and embellished with crosses and palm fronds that indicate the number of children she has, and records family events and tragedies. She might also have her eyes outlined with dots (called “ant-tracks”), or mark her nose, cheeks, or brow with other simple symbols. Body markings are called ahadjam, and are usually more extensive and occur on both sexes, but are still more common on women. Designs on the back prevent and treat infertility, those on the breast enhance sensuality, those on the wrists and ankles protect against the evil eye, whereas those on the hands and feet are supposed to prevent possession by the jnun. A necklace tattoo might ring the neck bearing many potent symbols. A later insert describes some of the forms and purposes of traditional ahadjam. For special occasions, these symbols may be elaborated with tawzayt, temporary symbols marked with henna (orangebrown), saffron (yellow), or harquus (a black dye); such symbols are often elaborate, and require a specialist cosmetician called a neggafa to apply them. Some ngagef are magicians who endow these ceremonial tattoos with power.''
 
 ==Berber Culture==
@@ -472,14 +472,14 @@
 ''porcupine has the wood splinters from her destroyed spindle on its back, and the tortoise was originally a calf who was crushed between her millstones. The moon god Ayyur is her son and Tafuyt the sun is her daughter. The evil of the Yemma-t n Dunnit is opposed by Awettuf the ant. Awettuf is the wise counselor of mankind, and the husband of Tafuyt. While he is not himself a creator, his advice enabled mankind to make the best of creation. Thus, the First Mother of the World created sheep, but Awettuf showed mankind how to use the meat for food and the wool for clothing. He demonstrated the growing of grain and making of bread, instituted rituals and sacriﬁce, and convinced the wild bulls to be domesticated by men.''
 ''THE NETHERWORLD''
 ''The Netherworld is an invisible world of shadows on the other side of the human, civilized world. It is the re''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Christians of the Desert==
 
 ''Swathed in their litham veils, carrying their long takouba swords, thin lances and cross-decorated shields of gazelle hide, Tuareg warriors sometimes appear similar to Frankish knights, albeit mounted on dromedary camels. Some Arabic writers refer to the nomads as Nasara al-Sahra (Arabic: “Nazarenes of the Desert”) from a belief that that the Tuareg are lost Christians adapted to life in the deep desert. Characters may hear tales using this terminology and seek out the nomads, perhaps believing they are representatives of the mythic Christian king Prester John. Unfortunately, the Tuareg are entirely unChristian in their behavior and will just as soon heartlessly rob and beat any explorers seeking their aid unless presented with goods of value: camels, slaves or clothing. Will the characters be stranded in a forsaken realm of sand?''
 
-|]
+|}
 ''verse of the human world: mountains are deep pits, and ravines form cliffs across the landscape. Rivers of water cross the sky. The black sheep eat coal, and the black goats give black milk. When it is night in the mundane world, it is day in the Netherworld, for this is where Tafuyt retreats at night; similarly when the moon is not in the sky, the Berbers say that Ayyur is visiting his mother.''
 ''The Netherworld is peopled by spirits of the dead, hideous giants like the teryelen (ogresses), and dwarfs that swarm everywhere like ants, with whom they share kinship. Pagan Imazighen believe that mankind was born in the Netherworld, but climbed up through a hole in the sky into the mundane world above. When they die, they return to the Netherworld, but''
 ''they are not entirely cut off from the mundane world. A network of communications between the human world and the Netherworld exists, through tombs, wells, caves, and occasional iron gates built by jnun. Snakes in particular are the messengers between the Netherworld and ours, and should be treated with respect less they speak ill of you to your ancestors.''
@@ -510,8 +510,8 @@
 ''The basic unit of Tuareg society is the “drum group” or clan (tewsit), a collection of families summoned by an amghar or war leader’s large hemispherical war drum (ettebel). The larger societal unit of a Kel or confederation is a loose series of tribes (tawsheten) bound together under an amenoukal, nominally equivalent to a greater chieftain. Although respected, an amenoukal acts more as an impartial adjudicator for his confederation, albeit one who can be ignored without signiﬁcant consequence. There are several well known Kel located within the southern parts of the Great Desert:''
 ''• Kel Ajjer (found near the oasis of Ghat and the Tassili n Ajjer plateau) • Kel Ahaggar (overlord confederation of the Ahaggar massif) • Kel Ayr (dominate the Air massif) • Kel Owey (roam along the southeastern mountains and the Fezzan road) • Kel Ifoghas (settled around the Adrar Ifoghas massif)''
 ''In addition, the two Iwellemmeden confederations (the western Kel Ataram and eastern Kel Denneg) and the Kel Geres dwell further south in the deeper''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Tuareg Story Seeds==
 
@@ -521,7 +521,7 @@
 ''INDIGO DYE''
 ''This blue dye with the color of European woad was once known as indicum to the Romans. It is produced from several natural sources, all of which must be imported by the nomads from beyond the southern desert, from Europe or from as far aﬁeld as mythical Hind. Indigo dyed clothing denotes high status among the Tuareg and the dye is a vital component in the manufacture of the traditional litham veil of an adult Tuareg male. Any clothing dyed with indigo is considered a valued commodity. Magi are able to reproduce colors comparatively easily using Hermetic magic and may intervene in the dye trade from as far away as Europe or supply cloth to local Tuareg tribes when seeking allies while journeying through the desert regions.''
 
-|]
+|}
 ''desert and perhaps beyond, although whether these tribes are composed of mundane humans, Magic-kin, Magic Humans or Faeries playing out the nomad raider role is uncertain.''
 ''TUAREG CASTES''
 ''The rulers of Tuareg society are the imajeghen (singular: amajegh), the nobles who lead raids and expect to be served by all other humans, but are bound by an unusual code of honor equivalent to the Dutybound Flaw. A Tuareg noble has the equivalent of the Knight or Muslim Emir Virtue, but with a focus on hunting and travel as well as military activities. Equivalents for greater nobility amongst the Tuareg exist — an amghar is equivalent to a Landed Noble or Muslim ‘Muqta, and an amenoukal is equivalent to a Great Noble (see Lords of Men, page 31). The amenoukal of the Kel Ahaggar is equivalent in power to a European Duke, although much of his power is nominal at the peripheries of the Tuareg lands. Noted for their remarkable arrogance and sense of racial superiority, Tuareg nobles commonly possess the following Virtues and Flaws: Fury (not respected as superior), Obsession (appearance), Overconﬁdent, Oversensitive (to disrespect or lack of grooming), Piercing Gaze, Proud, Self Conﬁdent, Social Handicap (Superiority complex), Strong Willed, Wrathful. Beneath the ruling nobles are the imghad (singular: amghid), a vassal caste who comprise the bulk of the warriors and pasture the tribe’s goats and camels and act as the common soldiery on raids. Some tribes such as the Kel Ulli (Tuareg: “the goat people”) are composed almost entirely of these dependent pastoralists. The ineslemen are the religious caste of the Tuareg. Descended from the families of Tuareg marabouts, their neutral stance allows them to mediate between feuding tribes and individuals. Their leaders and other exceptional individuals may have magical powers or abilities reﬂecting the baraka associated with their holy ancestors. Tuareg ineslemen usually lack the Dream Interpretation powers of their northern counterparts and substitute Purity''
@@ -552,21 +552,21 @@
 ''them have bestial characteristics or are said to have unnatural size, supernatural strength, or the power to enslave the minds of men. These are the Banu Khalida. This section presents a legendary people who fulﬁll the expectations of Mythic European prejudice about Moors. They could be villainous antagonists for the characters, lurking in distant lands and brewing their evil against the race of men. Travelers might come across the cities of the Banu Khalida by following trade routes across the desert. The Twelve Cities could even provide a source for a player character who is struggling to overcome his dark past.''
 ''BACKGROUND''
 ''Legend has it that the Moors of the Banu Khalida are descended from Khalid ibn Yazid, the adopted son of the Kahina. He was a traitor to the core: born an Arab, he rejected Islam to spare his life and professed Berber''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Unholy Trinity==
 
 ''Medieval European Christians have many misconceptions about Islam, perhaps the most common of which is that Muslims worship an unholy trinity composed of three deities known as Mahound, Termagant and Apollyon. This misunderstanding is in part due to early contact with the Banu Khalida in Iberia. In Ars Magica Fifth Edition the three deities are demons of the Order of False Gods (see Realms of Power: The Infernal, page 37), who seek to foment hostility between Christians and Muslims. They may be found operating anywhere within Mythic Africa, Europe or the Middle East, whispering their vicious lies into the ears of any who might listen. Like most False Gods, the demons usually take forms that will appeal to their listeners. In their original forms, though, they appear as follows: The demon Mahound takes the form of a grotesque parody of a monotheistic prophet, clothing itself in ﬁne robes of green silk and gold, and leering at those around it. It has immense ears, intended to mock the fact that such prophets heard the divine revelation. Termagant takes the form of a hag with an incredibly wrinkled face and bulging eyes, literally spitting venom at any who oppose it. It has sharp, jagged ﬁngernails with which it claws at its opponents’ eyes. Apollyon appears on ﬁrst glance to be a twisted parody of the Graeco-Roman Apollo, a hunchbacked, hideously ugly blond man with a lyre, dressed only in an oversized, ill-ﬁtting golden cloak. The cloak drips with acid and the lyre produces jangling discords that set teeth on edge and paralyze the senses.''
 
-|]
+|}
 ''paganism to ingratiate himself with the Kahina. He later tricked his foster brothers into becoming the captives of the Arab invaders. Khalid later appears, once again claiming to be a Muslim, leading a Berber army into Iberia with his apostate brothers. Khalid’s sons were amongst the survivors of the battle at Roncevaux Pass through base cowardice, and retained their territory in al-Andalus to become viceroys on the Iberian Peninsula. Their descendants, the Banu Khalida, were never amongst the more powerful taifa princes, but they navigated the delicate rivalries through secret alliances, clever marriages, and demonic assistance. The coming of the Almoravids was a major blow to the Banu Khalida power base. They had survived by keeping the factions ﬁghting each other, but a single Almoravid ruler enforcing a strict adherence to Islam was contrary to their way of controlling politics from behind the throne. The''
 ''Banu Khalida migrated en masse back to Mythic Africa, carving out a realm for themselves in southern Mauritania, beyond Almoravid inﬂuence. Here they still lurk, in the bled es-Siba, the “land of dissidence,” using their hellgotten powers to build a land of plenty on the edge of the torrid zone.''
 ''CULTURE''
 ''The Banu Khalida have a caste system that reﬂects their mixed ancestry. The Hassane are ruling warrior caste descended via Arab bloodlines from Khalid the Apostate. Below them are the Zawiya clerical caste, who gain protection from the Hassane in return for religious services and payment of a tributary tax. Subordinate to both Hassane and Zawiya are the Znaga, who are the laboring caste; this includes specialist professions such as the mraguen (ﬁshermen), mallemin (blacksmiths), and igawen (poets and praise-singers).''
 ''They must also pay tribute, and are forbidden from bearing arms. The Zawiya and Znaga have Berber origins, mostly from the Zenata tribe. The three upper castes are collectively called the bidan (“white”) castes, and are supported by the lower two castes who are black-skinned. The ‘Abid are the slave caste at the bottom of Banu Khalida society, and the Haratan are the freed slaves who form the bulk of the bureaucracy and army. Most bidan — even the commoner Znaga caste — have at least one house slave, and rich Hassani might own hundreds of ‘Abid and employ dozens of Haratan. The arrogance of the Banu Khalida is such that they believe they have total control over the lower castes, and for the most part this is true. Despite the designation of ‘bidan’ for the upper castes, skin color is no real determinant of caste. There are ebony-skinned members of the bidan just as there are pale ‘Abid and Haratan. The former come from high''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds: The Banu Khalida==
 
@@ -583,13 +583,13 @@
 ''TWICE-WON GOLD''
 ''A common tactic to keep the Hassane occupied is to trade gold with foreign merchants, and hiring out Haratan guards under the command of a Hassane scion. As the merchants return north, they are certain to be attacked by “bandits” — actually another band of Khalida. Whichever Hassane wins takes the gold back to the Twelve Cities. The presence of the characters amongst the merchant train might well ruin this scheme.''
 
-|]
+|}
 ''caste breeding with their slaves; such children inherit the higher caste if recognized by their parent, and suffer no stigma from skin color. White lower caste members derive from slaves taken or bought from the north, often European in origin. The Banu Khalida have their own language; they used Punic as a secret language during the taifa period, and now use it as their main language, although now cross-fertilized with Arabic and Tamazight. The Zawiya are taught Arabic, and many Hassane receive a formal education in that language as well. Znaga involved in trade may well speak some Tamazight. The Banu Khalida live in twelve cities named after the twelve peers of King Marsile who opposed the twelve peers of Charlemagne: Aelroth, Balaguer, Chernubles, Corsalis, Escremiz, Estorgans, Estramariz, Falsaron, Malprimis, Margariz, Moraine, and Turgis. They are placed just one''
 ''day’s journey from each other, with paved roads between to facilitate travel. Each of the cities is set in an oasis in the midst of a stony desert. The buildings are made from red clay baked hard in the sun, and are arranged around a central plaza. The oasis provides water for the nearby ﬁelds, which grow millet, dates, and forage for livestock. The population of these cities consists of three to six extended families each of Hassane and Zawiya, a dozen families of Znaga, ﬁve hundred Haratan (of whom a quarter to a half are soldiers), maybe two thousand ‘Abid. One of the Hassane families is dominant over the others, and is headed by the emir who is the absolute ruler of the city.''
 ''RELIGION''
 ''Khalidi culture does not appear particularly pious: they lack overt demonstrations of faith, they do not utter familiar prayers and blessings with their speech, and their mosques are often plain and poorly maintained. To outsiders they explain that their faith is a personal and private matter. Those questioning a Zawiya are left believing that they are Muslim clerics, although a scholar would spot a lack of consistency with respect to observances with the Sunni, Shi’ite, or any other sect. They are closest to Khariji practice, the eldest of Islam’s variants. Such religious pretensions are a sham; the Banu Khalida in reality worship a trio of gods. The Zawiya and most of the Hassane know the truth about their deities — that they are demons — but over ﬁve centuries of indoctrination have grown convinced that they have the upper hand in the relationship. Most of the Znaga and virtually all of the slave castes are ignorant of the true nature of their gods, having been deliberately kept away from the darker aspects of demon worship. The upper echelons of the Banu Khalida are goetic sorcerers (Realms of Power: the Infernal, Chapter 11), summoning demons during their profane rituals and stripping them of their Might through the Ablating Art to extend their lives, heal injuries, and enhance their physical Characteristics and Abilities. The Gift is no more common amongst the bidan than in Mythic Europe and most gain their powers through demonic pacts. Few Hassane ever go to battle without multiple enhancements and powers; a duel between two Hassane is often determined by whoever can Summon and Ablate the most powerful demon rather than any actual skill at arms. The Zawiya use their goetic powers mostly to support the Hassane and exert control over the lower castes; through the Commanding Art they construct and repair buildings and roads, and they Bind demons from the Order of Aerial Powers into stone pylons that dot Khalidi cities in order to keep the air cool and bring rain to the crops.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Khalida Characters==
 
@@ -598,7 +598,7 @@
 ''FREED SLAVE''
 ''Minor Social Status Flaw You were either born a slave and have been freed by your current master, or you were born of two freed slaves. You bear a brand to indicate that you are not a runaway slave, but which also marks you as a lower class citizen. You can expect to be paid for whatever work you do, but it is likely to be a pittance, and your only way to avoid poverty may be to join the army or become a clerk''
 
-|]
+|}
 ''WARFARE''
 ''The Banu Khalida are a warlike race. They do not conduct war for the acquisition of territory; they can carve as much as they need out of the torrid zone, limited only by the capacity of their priests to bind and command demons. They have little need for material wealth, having seemingly limitless gold reserves. Over the centuries Khalidi emirs have realized that sending their Hassane champions out to wage war on trade routes and nomad clans is the best way to prevent them from fomenting trouble at home. In the three hundred years or so that they lived in Iberia, there were''
 ''always Christians against whom the Hassane could test their mettle, but the Banu Khalida were forced to migrate to an area conquered and then vacated by their Almoravid successors. They must now travel further aﬁeld to ﬁnd opponents, which suits the emirs ﬁne.''
@@ -615,5 +615,6 @@
 ''Equipment: partial chain mail, infernal heirloom in the shape of a great sword. Encumbrance: 1 (3) Appearance: Nearly seven feet tall with ebony-black skin, Jurfaret shaves his head and paints his face with red ochre before going into battle. He wears a chainmail shirt covered by a black djebellah to keep the sun from it.''
 ''Jurfaret is a young Hassane who seeks renown as a warrior. He empowers himself by preying on the ghosts of those individuals he defeats in combat, and often seeks out particularly skilled opponents to test himself against. However, he is haunted by the remnants of the ghosts he has tortured for personal glory, and the stress of their constant presence at the edge of his perception has left him nervous and in possession of a strange compulsion to close jars, doors, shutters, chests, and other places where spirits might hide. Rules for Summoning and Ablating can be found in Realms of Power: the Infernal, pages 114–117; Hassane can cull experience points, Conﬁdence points, or increased Characteristics from ghosts, or heal his wounds. He gains Warping and Infernal Reputation for these deeds. These statistics reﬂect ﬁfteen such victories, and has left some of his Abilities tainted by his sinful methods.''
 ''tion, even the lowest member of Khalidi society is vulnerable to sin. The Unholy Trinity are amongst the upper echelons of Hell’s hierarchy, and are able to simulate patience in pursuit of the bigger picture, especially with the help of the council of twelve emirs and the senior Zawiyas. As is all too common with demons, the individual goals of Mahound, Termagant, and Apollyon are generally at odds with one another, and the emirs exploit this to create a stalemate in which the Banu Khalida state is permitted to continue. Mahound is principally focused on apostasy. It sends missionaries to northern lands to corrupt the faithful, but is also most watchful of visitors to the Twelve Cities, looking for opportunities to engender a fall from grace. Termagant wants blood to be spilt, as much and as often as possible. This demon has most inﬂuence amongst the Hassane, driving them to acts of meaningless violence. It also promotes callousness toward the slave caste, encouraging the bidan castes to consider them little more than livestock. Termagant is always on the lookout for new sources of slaves. Apollyon is obsessed with greed; it creates gold to encourage merchants from the north to come here for trade; it corrupts them before sending them back. False Gods like Apollyon are able to summon riches from thin air, but this gold is invariably stolen from somewhere else.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

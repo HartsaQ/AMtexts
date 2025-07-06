@@ -4,8 +4,8 @@
 
 =Brittany=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Brittany Covenants==
 
@@ -17,7 +17,7 @@
 ''St. Malo (commemorated at St. Malo) St. Broch (commemorated at St. Brieuc) St. Guirec (commemorated at Perros Guirec) St. Paul (commemorated at St. Pol de Léon) St. Samson (commemorated at Dol) St. Tugdual (commemorated at Tréguier) St. Corentine (commemorated at Quimper) St. Patern (commemorated at Vannes)''
 ''Bretons should visit each of these cathedrals at least once in their lifetime, completing the Tro Briez (Tour of Brittany) or else they will have to complete it after death, moving the length of their coffin every seven years.''
 
-|]
+|}
 ''other, their feet flat against a fixed, inch-high, ten-foot-long board. The most characteristic festivities are the pardons,  religious processions preceded by prayers and followed by feasting and fun. These take place at different times of year all over Brittany, each of the older parishes having its particular date, usually linked to the feast day of the local saint.''
 
 ==County of Rennes==
@@ -31,14 +31,14 @@
 ===Mount Dol===
 
 ''Mount Dol, a granite outcrop, dominates the area although only 210 feet in height. It was a sacred place to the Gallic druids. Branugurix, domus magna of House Diedne, was here, concealed in a regio (see Chapter 3: Hermetic Culture, Hermetic Landscape). Most Christians keep away from the mount. They tell a story that St. Michael fought the Devil here, casting him down with such strength that the indentation made by the impact and the scars left by his claws are clearly visible on the north side of the mount. Close''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Siting a Covenant==
 
 ''Brittany is the least-civilized, most sparsely populated part of the Tribunal, with many unclaimed vis resources. It contains numerous potential covenant sites — perhaps the PCs will find attractive one of the numerous small offshore islands, a patch of firmer ground in a deserted marsh, or a spot concealed within the forest. There are a great many more menhirs, tumuli, and dolmens scattered throughout its forests and along its coasts than mentioned here, many of which have a supernatural aura. All the land belongs to someone, so however remote the covenant, the player characters will at some time have to find a way to fit into, or evade, the feudal structure, and the enthusiasm of the Church to minister to them.''
 
-|]
+|}
 ''by is the cleft made by the saint’s sword and into which he thrust his opponent. But the Devil reappeared a moment later on the isle of Mont St. Michel, taunting the saint, and the indentation made by the saint’s foot when he leapt from the top of Mount Dol in pursuit is still there. In fact, what the story recalls is an assault on Branugurix. The small town of Dol stands on a cliff on the southern edge of the marsh. Construction of a fortified cathedral dedicated to St. Samson is in progress here. South of Dol is the menhir of Champ-Dolent (Field of Pain), 30 feet high with a roughly square base and tapering towards a point; it marks the place where the final battle of the Schism War took place.''
 
 ===St. Malo===
@@ -62,14 +62,14 @@
 ===Fougères===
 
 ''The town of Fougères lies northeast of Rennes to the extreme east, at what was for so long the border between Brittany and France. A strong castle stands on a spit of land beside the winding River Nançon, be''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Dolmen, Menhir, and Tumulus==
 
 ''These large stone features occur all over the western side of the Tribunal, but the landscape of Brittany is particularly rich in them. Dolmen: One or more fairly flat, horizontal rocks supported by several vertical rocks. Many are giants’ tables or meeting places of the fae, while a few are altars of the pagan past. Menhir: A single standing stone placed vertically, with its base firmly planted deep in the earth. Origins vary: saints, angels, demons, giants, and faeries have all been responsible for erecting some of these. Tumulus: A rounded hillock. Origins vary. Examples include a lump of earth thrown by a giant and a mound raised by the fae to cover an entrance to their home. If the mound of earth and stones is excavated, many contain a dolmen.''
 
-|]
+|}
 ''tween two towering rock faces and overlooked by the town that clings to the steep slopes above it. It is the home of the local baron. It was one of these, Raoul II, who led a band of rebellious Breton nobles against the takeover by Henry II of England. His castle was demolished in the three-month siege that brought the opposition to an end, but Raoul survived and started rebuilding at once. A chapel in the town contains a statue of Our Lady nursing the infant Jesus; some mothers who pray here receive miraculous help. The forest surrounding the town contains an unusually large number of megaliths, even for Brittany.''
 
 ===Faeries’ Rock===
@@ -101,15 +101,11 @@
 
 ''Pink granite forms the moor-topped cliffs between St. Brieuc Bay and Morlaix Bay. Many oddly shaped rocks surround small, sandy beaches and creeks. Many of the rock shapes resemble animals and people, and a few have supernatural origins. Offshore lie numerous islands; most are very small.''
 
-[|
-
 ==Korrigan==
 
 ''Anyone attempting to collect vis or investigate the mysteries of the forest will have to contend with the korrigan (singular: korred). A korred is a hunchbacked manikin about three feet tall with cat’s claws on its hands and goat’s hooves for feet; with the expenditure of Might, it may take on the form of a beautiful young woman. They are known as dancers and magicians. Since their queen, Viviane, lost interest in the Brocéliande forest and them, the korrigan in this region have become very dangerous. Elsewhere, they may live in forests, caves, or dolmens, where they collect valuable objects. They administer severe punishments to those who annoy them, but periodically give rewards from their treasures. In some places, they like to dance in a circle holding hands under the moonlight at a crossroads and, if they are in a good mood, invite all who pass to join them. Those who accept may be given a gift, but those who refuse are punished. These statistics apply to the korrigan of Brocéliande. Those encountered in other parts of Brittany are less dangerous; they are more interested in dancing and riches, though still unpredictable and short-tempered.''
 ''Faerie Might: Typically 5–10; rarely 15 (Animal) Characteristics: Int –2, Per +1, Pre -2, Com +1, Str –1, Sta +3, Dex +2, Qik +2 Size: –2 Age: n/a Confidence Score: 0 Virtues and Flaws: None Personality Traits: Avaricious +2, Capricious +2, Short-tempered +2 Reputations: Dangerous 3 (local), Tireless dancers 1 (local), Magicians 1 (local)''
 ''Combat: Claws: Init +1, Attack 7, Defense +8, Damage +1 Club: Init +3, Attack +6, Defense +5, Damage +2 Stone (thrown): Init +2, Attack +5, Defense +4, Damage +1 Soak: +3 Fatigue Levels: n/a Wound Penalties: –1 (1–3), –3 (4–6), -5 (7–9), Incapacitated (10–12), Dead (13+) Abilities: Area Lore 3 (paths), Athletics 5 (dancing), Awareness 4 (gold, silver), Brawl 2 (claws), Guile 1 (bargaining), Speak Breton 4 (commands), Stealth 4 (hiding), Single Weapon 2 (club), Thrown Weapon 2 (stones) Powers (not all have this): Human Form, 5 points, Init 2, Corpus: The more powerful korrigan can assume the form of a beautiful young woman. The transformation lasts for one hour, or until the same amount of Might is expended to reverse it. In human form, the following changes apply: Characteristics (human form): Int –2, Per +1, Pre +2, Com +1, Str –1, Sta 0, Dex 0, Qik –1; Size (human form): 0 Club: Init +0, Attack +2, Defense +0, Damage +2 Stone (thrown): Init -1, Attack +3, Defense +1, Damage +1 Equipment: Usually none. Natural Weapons: Claws: Init -1, Attack +2, Defense +3, Damage +2. Encumberance: 0 (0) Vis: 1 pawn of Animal vis in hooves Appearance: A hunchbacked manikin about three feet tall with cat’s claws on its hands and goat’s hooves for feet.''
-
-|]
 
 ===Bréhat and the Seven Isles===
 
@@ -150,20 +146,20 @@
 ==Arrée Mountains==
 
 ''The highest part of the duchy reaches in an arc around the south and east of the County of Léon. Mist and fog often shroud the hills.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Ankeu==
 
 ''Death may appear at night in any part of mainland Brittany in the form of a skeleton in a white shroud, wielding a great scythe, and driving a spectral, creaking cart (Karrig an Ankeu) piled high with the bodies of the dead. Around the islands, he arrives in a boat (Bag Noz, the night boat). To hear the creaking of his approach is a very bad omen, indicating the imminent death of a loved one, and to meet him is almost certain death as he cuts people down with the scythe and flings the bodies on the cart.''
+
+|}
 
 ==The Black Dog==
 
 ''If the spirit of a deceased family member refuses to leave the house, a locally known folk ritual can trap it inside the body of a black dog. This involves taking the dog inside the house, tying a favorite article of clothing belonging to the dead person around the body of the dog, and making the dog eat a fist-sized gobbet of meat stuffed with scraps of plants gathered in the cemetery. The dog is drowned as quickly as possible, to release the spirit from its ties to the world of the living. The Black Dog is only different to a normal dog between the completion of the folk ritual and the death of the dog. If the dog is killed in any way other than drowning, the spirit remains tied to the world in the place the dog expired. Similar creatures with an Infernal Might can arise if the deceased person was a notable sinner, or even more rarely with a Magic Might if the deceased was a pagan. The Might of the dog containing the spirit is typically 5, but may be as high as 10 if the deceased was especially holy or evil. Some rare black dogs are almost as large as a person (Size 0).''
 ''Divine Might: 10 (Animal) Characteristics: Cun 0, Per +2, Pre –4, Com 0, Str 0, Sta +2, Dex +1, Qik +2 Size: -1 Confidence Score: 0 Virtues and Flaws: Improved Characteristics,''
 ''Long-Winded, Sharp Ears, Reckless Qualities: Domesticated, Keen Sense of Smell, Pack Animal, Pursuit Predator, Vocal Personality Traits: Loyal +3, Reckless +3, Brave +2 Reputations: Terrifying +3 (local) Combat: Bite: Init +2, Attack +8, Defense +7, Damage +1 Soak: +2 Fatigue Levels: OK, 0/0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –5 (9–12), Incapacitated (13–16), Dead (17+) Abilities: Athletics 3 (distance running), Awareness 3 (keeping watch), Brawl 3 (bite), Hunt 4 (track by scent) Natural Weapons: The weapon statistics for a dog’s bite are Init 0, Atk +3, Def +1, Dam +1. Powers: Fearsome Bark: 1 point, Init 2, Animal or Mentem; as the spell Panic of the Trembling Heart but with Range Voice. Dreadful Howl: 3 points, Init 2,  Animal or Mentem; as the spell Weight of a Thousand Hells but with Duration Sun and Range Voice. Vis: 1 or 2 pawns in the tongue when the dog dies by any means other than drowning. A drowned dog contains no vis.''
-
-|]
 ''The rounded summits reach to a little over 1200 feet in height at most, and are largely forested. The deciduous forest, home to deer, boar, and wolves, is particularly rich in mosses and ferns, which thrive in the damp air. Breaks in the tree cover are provided by a few bare, rocky summits worn into sawtoothed crests, gorse and heather moors where trees have been cleared, and a few fields in sheltered spots. Small, widely scattered communities mix Christian and pagan practices. At Huelgoat there are piles of boulders that accumulated when the inhabitants of the adjacent hamlets, Plouye to the south and Berrien to the north, were at war and tossed the large stones at each other, only to have them fall in the middle. Rock formations in the vicinity include the Devil’s Cave, the huge Trembling Rock (which rocks when pushed in the right place) and the Virgin’s Kitchen. In the same area is a chasm where the River Argent disappears underground, a pool frequented by the fae, and a cave where King Arthur once slept. At Brennilis, an entrance to Hell known as Youdig is reputed to lie in the Yeun Elez, a peat bog that extends eastward from the foot of St. Michael’s Mount. The entrance is only accessible in winter, when mists blanket the bog. Not far north is Mougau-Bihan, a giant’s tomb in the form of a 45-footlong covered walkway of megaliths. Civilization is kept to the edges of this region. There is a Cistercian monastery to the east, at Abbey du Relecq, a castle overlooking the Elorn river valley to the northwest, and, on the southeastern fringe, a small church where King Salomon was martyred in the ninth century. Nearby is Landernaeu, the main port of this inland region, at the head of the Élorn estuary.''
 
 ==Fudarus==
@@ -185,8 +181,8 @@
 ==Culture and Traditions==
 
 ''The Isle of Ushant belongs to the Heusaff family, who own the sole settlement on the island, a small fishing community on its south coast called Lampaul. The income from this minor industry is the main source of Fudarus’ supplies. The fishermen are unaware that Lord Heusaff is a magus, nor do they know that his castle is a magical place, for they have very little to do with the ancient Breton family. Members of the Order who are not followers of Tytalus have to earn the right to enter Fudarus, and if they fail or refuse they are housed in a dilapidated house just outside its walls. The challenge presented to visitors is set by the Primus, and is different for every magus; it typically involves conflict, in keeping with the philosophy of House Tytalus. Typical challenges are given in the nearby insert. By virtue of having passed the Apprentice’s Gauntlet of the House, all Tytali are considered to have already passed the required challenge, and are free to enter. Unlike some domus magnae of other houses, there is no particular cachet for a Tytalan magus in being a member of Fudarus. The philosophy of House Tytalus does not allow for empty gestures of pre-eminence and prestige; every magus is expected to make others recognize his superiority based on his actions. Consequentially, the membership of Fudarus is open to any member of House Tytalus that has sufficient reason to join, and sufficient puissance to force the current members to accept his right to join. Fudarus is an autocracy; the Primus is the leader of the covenant and makes all decisions on its behalf. Members are expected to act own their own initiative, but if the Primus feels that his authority has been usurped he can exact swift punishment using the enchanted Rod of the Primus. Fudarus currently has two vassals, one of which is also found in Brittany. This covenant, Exspectatio (see Finistere) has a vassal of its own in Burgundy called Atramentum Renatus. These vassals are currently bound into harsh contracts of obligation to Fudarus, and must compete hard at the Tourney to afford the feudal debt. Fudarus repays this loyalty with generous political support. Fudarus has a long history of taking on vassals that win their independence, many of whom founder soon after they sever their ties. It shows no especial preference for vassals of House Tytalus.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Three Great Spirits==
 
@@ -194,7 +190,7 @@
 ''Magic Might: 40 (Auram) Characteristics: Int +2, Per +4, Pre +5, Com +3, Str +3, Sta +2, Dex –2, Qik 0 Personality Traits: Watchful +5, Capricious +3, Playful +3 Virtues and Flaws: Ways of the Island Powers: Incorporeal, 0 points, Init Constant, Mentem: All three spirits are both invisible and intangible, and cannot be influenced by the physical world. Magic may only directly target a spirit if the caster can sense its existence. Presence, 0 points, constant, Mentem: The spirits are aware of everything that occurs on Ushant. Mastery of Mist, 1 – 8 points, Init 0, Auram: Mogidell can duplicate any non-Ritual spell of 40th level or lower pertaining''
 ''to mist and fog, at a cost of 1 Might point per magnitude of the effect. Mastery of Misdirection, 1 – 8 points, Init 0, Imaginem: Kerseenn can duplicate any non-Ritual spell of 40th level or lower pertaining to misdirection and concealment, at a cost of 1 Might point per magnitude of the effect. Mastery of Storms, 1 – 8 points, Init 0, Auram: Arnev can duplicate any non-Ritual spell of 40th level or lower pertaining to high winds, rain, and other bad weather, at a cost of 1 Might point per magnitude of the effect. Vis: The presence of these spirits causes 12 pawns of vis to manifest on Ushant each year, four each of Creo, Auram, and Imaginem. Only the inhabitants of Fudarus know what form this vis takes. Appearance: To those who can see them, each of the three Great Spirits of Ushant are immense, filling the sky. Mogidell appears as a huge gray bird; when she unfurls her wings the sea mist descends upon Ushant. Kerseenn is constantly shifting shape between weird amalgams of human and beast. Arnev takes the appearance of an immense serpent with the head of a horse.''
 
-|]
+|}
 
 ==Magi==
 
@@ -209,8 +205,8 @@
 
 ''Age: 70 (Apparent age early 50s) Personality Traits: Mercurial +3, Impulsive +1, Sincere +1''
 ''Harpax filius Bulcis has forever felt limited by his elder “sister,” and fought her with great vigor for the leadership of House Tytalus, only to lose to her in the end. He barely hesitated when she had seemed to pass on, but burst into her sanctum and stole the Rod of the Primus and the identity of Lord Heusaff (see Houses of Hermes: Societates, House Tytalus for more on deep cover disguises). Harpax uses the rod of his office to torture Buliste with distractions; one day her sanctum may be so hot that her candles melt, the next she might have to break the ice on her wash basin. Harpax has a better grasp of the politics of the tribunal and the plots of his fellow Tytalans than does Buliste. He governs the wealth (in terms of both vis and coin) of the covenant as Lord Heusaff, and maintains the oaths of fealty of Fudarus’ two vassals. However, without access to the agents of the covenant, he is limited to how much of the House’s business he can control; he is more powerful than Buliste in Normandy, but she has the edge in the Order as a whole. When playing the role of Lord Heusaff, Harpax uses his magic to change his appearance to that of the young lord, a dashing nobleman. However, Harpax played this''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Challenges to Enter Fudarus==
 
@@ -230,7 +226,7 @@
 
 ''A covenant sponsored or favored by Fudarus may receive a “gift” of some of its grogs. The Lesser Malediction that they suffer with regards to blindness to certain colors can be an annoyance, but anyone who knows their weakness (such as Fudarus itself) can exploit it to lethal effect.''
 
-|]
+|}
 ''role too well, and has had to develop some unpleasant personal habits to discourage the attentions of women of marriageable age. In his role as tenth Primus of House Tytalus, Harpax is a distinguished man apparently in his fifties, stick-thin and somewhat arthritic. He maintains several other disguises, and it is possible that he will be first met as a butler, or a sentry, or a tinker, or any number of other roles. His obsession (and sigil) of plurality has expressed itself on his body''
 ''through Twilight scars; the style of his clothing shifts gradually over the course of a day, while remaining the same signature color of forest green.''
 
@@ -238,8 +234,6 @@
 
 ''Most of the menial tasks of the covenant are performed by invisible spirits under the''
 ''command of the wearer of the Circlet of the Primus. These spirits do all the cleaning, repairing, lifting, food preparation, and so forth of the covenant, although there are a few human servants for performing skilled tasks, such as a chef and craftsmen. Due to these thronging spirits (it is never clear how many there are, other than “just enough”), Fudarus has little need for serving folk, laborers, or teamsters. This makes the covenant seem to be empty and silent most of the time. Fudarus employs a small cadre of specialists: an alchemist and glassblower to maintain the laboratories; a barber-surgeon who governs the regimen of health of the covenant; and two craftsmen. The covenant has a large turb of grogs, who have divided equally into two camps based on their loyalty to either Harpax or Buliste. They wear swatches of cloth indicating their allegiance, and thanks to the Warping effect of the aura, do not even acknowledge the presence of anyone wearing a substantial amount of the opposing color (such as a hood, tunic, or cloak). Thus, Harpax’s grogs cannot even see Buliste, or anyone wearing any purple clothing, and vice versa. This is not just affectation; someone removing a green hood can surprise one of Buliste’s grogs by seeming to appear out of nowhere, and someone wearing a green cloak could stab one in the chest without resistance. Wearing both colors seems to nullify the effect; a grog of Fudarus does not ignore someone appareled in their own color.''
-
-[|
 
 ==The Rod and Circlet of the Primus==
 
@@ -258,12 +252,14 @@
 ''Rego Vim 55 Pen: 20, unlimited uses per day R: Arc, D: Conc, T: Ind.''
 ''This power allows the wielder to command a single task of any spirit in her presence, or to whom the wielder has an Arcane Connection. The commands are issued mentally, and the circlet itself is inscribed with the names of (that is, Arcane Connections to) all of Fudarus’ servant spirits. Any spirit whose Might is less than the Penetration Total of the circlet can be affected by this power.''
 ''(Base 5, +4 Arc, +1 Conc; +10 unlimited uses, +5 item maintains concentration, +10 for Penetration Total of 20).''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Iasper’s Family==
 
 ''Iasper’s close relationship with his mundane family is a potential cause for trouble. The Foutins are a large clan of local roustabouts and ne’er-do-wells; who, while not actually criminal by nature, have a knack of getting into trouble. One of the player covenant’s grogs may be one of Iasper’s cousins, or end up on the wrong side of a fight with one of them. When Iasper is called upon to smooth over matters with the local authorities, he manages to implicate the PC magi in a grandiose plot of mayhem to destabilize the region. He then approaches the PCs in contrition, and tries to assist them in untangling the mess he has created without revealing his own role.''
 
-|]
+|}
 
 ==Exspectatio==
 
@@ -280,19 +276,19 @@
 ''Age: 68 (Apparent age 48) Personality Traits: Loyal to Buliste +3, Suspicious +1''
 ''A leading member of the Titanoi, House Tytalus’s cult of theurgists (see Houses of Hermes: Societates, House Tytalus). She is responsible for maintaining the enchantments that hold Fudarus’s spirits in check, and is a close friend of Prima Buliste. She specializes in genii loci, and carefully inspects every place she stays for evidence of such spirits. Kybella’s current interests revolve around her involvement of the Cabal of the Laden Cart (see Sagas: Plots of House Tytalus).''
 
-[|
-
 ==Iasper filius Adanos of House Tytalus==
 
 ''Characteristics: Int +3, Per –1, Pre +2, Com 0, Str 0, Sta +2, Dex –1, Qik –2 Size: 0 Age: 26 Decrepitude: 0 Warping Score: 0 (4) Confidence Score: 2 (6) Virtues and Flaws: The Gift; Hermetic Magus; Flexible Formulaic Magic; Affinity with Rego, Clear Thinker, Harnessed Magic, Magical Focus (Turmoil), Puissant Concentration, Puissant Terram, Self Confident*; Chaotic Magic, Meddler; Close Family Ties, Incomprehensible, Weird Magic. *House Virtue Personality Traits: Argumentative +2, Self-Disciplined +2, Brave +1 Combat: Fist: Init –2, Attack +1, Defense 0, Damage 0 Soak: +2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Artes Liberales 3 (literature), Brawl 2 (fist), Breton 3 (arguments), Concentration 2+2 (Rego), Finesse 2 (Terram), Etiquette 1 (politeness), French 5 (Norman), Latin 4 (Hermetic), Leadership 1 (brow-beating), Magic Lore 1 (earth spirits), Magic Theory 4 (Terram), Normandy Lore 1 (hostilities), Parma Magica 1 (Mentem), Penetration 1''
 ''(Terram), Philosophiae 1 (debating) Arts: Cr4, In 2, Mu 2, Pe 2, Re 10; An 2, Aq 6, Au 6, Co 3, He 0, Ig 3, Im 5, Me 5, Te 6+3, Vi 4 Spells Known: Chaos of the Angry Waves (ReAq 30/+24) Confusion of the Insane Vibrations (ReIm 30/+22) Confusion of the Numbed Will (ReMe 15/+22) Crest of the Earth’s Wave (ReTe 20/+21) Panic of the Trembling Heart (CrMe 15/+11) Prying Eyes (InIm 5/+9) The Earth’s Carbuncle (ReTe (Mu) 15/+13) Wielding the Invisible Sling (ReTe 10/+21) Appearance: A thin man with long shaggy black hair and an unshaven face. In contrast to his unkempt features, his clothing is always impeccably turned out.''
 ''Iasper is the youngest member of Exspectatio, having passed his Gauntlet just four years ago. He is a study in contrasts, since his magic is simultaneously tightly harnessed and unpredictable. He prides himself on his self-control, and yet has a natural affinity for turmoil and chaos, and delights in its execution. Given his master’s interests in Terram, he is fairly competent with this Art as well. Iasper is interested in reined chaos, which he believes is the route to self-understanding. Unlike many of his house, he provokes conflict beyond his capacity to control, seeing the vagaries of chance as a learning experience. There is no malice in his actions, although he rarely considers the implications of his actions for others.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Iasper’s Seeming Death==
 
 ''Seeking membership of the Cabal of the Leaden Cart (see Sagas: Plots of House Tytalus), Iasper attracts the interest of a crossroads faerie who governs the transition between life and death. The faerie blurs the border between the living and the dead, causing corpses to walk again and the living to fall into a death-like pallor. The player characters happen across the affected region, and must free Iasper from his death-state to break the faerie’s spell.''
 
-|]
+|}
 ''The Lion and the Lily County of Cornouaille''
 ''Cornouaille covers a broad peninsula with projecting points at both the south end and the north, and a landscape of wooded hills and valleys inland. Locronan is an unusual pilgrimage site, where visitors retrace the path up the hill that was the daily walk made, while fasting and barefooted, by St.''
 ''Ronan. A Benedictine monastery close by provides accommodation for pilgrims. It is sited in a forest once held sacred by druids and is used as a place of retreat by brothers from other monasteries needing a change of scene. Quimper is the main town of Cornouaille. King Gradlon founded it when he lost his former capital (see the nearby insert). Its first bishop, St. Corentine, lived off a magical fish that was caught daily from the river. He ate half of it and threw the rest back. The next morning the fish was whole again. The fish, which had a Divine Might of''
@@ -335,14 +331,14 @@
 ===Quiberon===
 
 ''An elongated island, Quiberon, which is separated from the mainland only at high tide, has dunes on the north end, a stretch of rocks, cliffs, caves, and reefs where the sea pounds savagely along the oceanward western side, and wide, gently curving sand beaches on the sheltered eastern side. A stone called Roh-en-Aod, situated at the north end of the western cliffs, has five cup-shaped indents, which, if tapped with hammers at night by women, will ensure favorable winds for their husbands’ boats. Auram vis can be obtained here, but only by females. Almost half way along the eastern side of Quiberon stand 22 menhirs in rows.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Town of Is==
 
 ''In the sixth century, Gradlon was King of Cornouaille and his court was based in the beautiful town of Is. It was protected from the sea by a dyke with huge gates. The king held the key to these floodgates. His daughter, Dahut, was seduced by the Devil, who disguised himself as an attractive young man. He persuaded her to steal the key for him while her father slept. When he opened the floodgates at high tide, King Gradlon fled on horseback with his daughter. He soon realized the horse could not outrun the waves. A voice urged him to throw off the wicked woman so, reluctantly, he threw his daughter off into the onrushing tide. At once, the waves retreated sufficiently to allow the citizens to escape to the mainland, but Is was submerged. As for Dahut, she was transformed into an evil siren known as Marie-Morgane. She still sings her deadly songs, drowning sailors and using them to people her sunken city. It is said that if Mass is celebrated in one of the drowned churches on a Good Friday, Marie-Morgane will be banished.''
 
-|]
+|}
 
 ===Belle-ile===
 
@@ -353,20 +349,20 @@
 ''One of the most powerful magical sites in Mythic Europe, Carnac haunts the imagination. Over a thousand menhirs, aligned in a broken pattern of great avenues of stone, cover the heath near the village of the same name. Constructed on a scale that dwarfs Stonehenge, the rough unworked stones completely dominate the landscape, and the feeling of ancient magic hangs heavy in the air here. The stones, mute guardians to forgotten secrets, range from the height of a child to well over twenty feet. By day, a Magic aura of strength 5 covers the heath, one of the largest Magical auras known to the Order, and in many places it is far higher. The location is vivid, brighter, and somehow more real than the surrounding heath; so strong is the magic that even the birds, flowers, and''
 ''animals that live here display unusual intelligence, strange powers, or sometimes the ability to converse with intruders. Once within the stones themselves and on the avenues, the aura is generally 6 or even higher, and many regiones are known to exist. Yet few would wish to come here at night. As the shadows lengthen the Magic aura fades away, and at night an Infernal aura replaces the magic. Then the sinister cackling of the hideous guardians of the stones ring out across the heath. It is for this reason that no covenant has ever been constructed here, and it is doubtful any ever will. The legends of the Order place the meeting of Trianoma with Diedne the Founder here, on a bright summer’s afternoon. Some say that the Diedne knew the secrets of the place, but who can tell? Here a fleeing remnant of the pagan magicians was hunted''
 ''down and killed. Some say the blood of that battle is what has led to the curse that haunts the area to this day, in the form of its strange and hostile inhabitants. Other disquieting legends hint at Diedne fleeing into the regiones, or even suggest that the stones may have magical portals, not dissimilar to Mercere Portals, which allow transportation to other groups of far-distant standing stones. Will the Diedne who escaped return through them one day, seeking revenge? The ignorant locals blame fairies for the construction, and some are so foolish as to use hedge magics and ancient charms to try to command them to build houses for them in a single night, for the faeries can not stand the light of day. Others, more pious, claim that St. Cornelius was chased across the heath by the evil faeries, and as the ox cart he drove neared the sea he finally turned and prayed fervently,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Jean and Jeanne==
 
 ''Two menhirs stand on a gorse-clad moor towards the north of Belle-ile, one of pale granite and one of darker schist. They are named Jean and Jeanne, and are the petrified forms of a young, betrothed couple who could not wait until they were wed. A suitable Hermetic ritual could free them from the enchantment. Once returned to flesh, the pair are keen to join the covenant since the world they knew is long gone. The woman is pregnant and her child is due three months after the petrification ends. The child is Gifted and has a close affinity with Terram magic.''
+
+|}
 
 ==Nain==
 
 ''Infernal Might: 10 (Animal) Characteristics: Int –2, Per +1, Pre -3, Com +1, Str –1, Sta +3, Dex +3, Qik +2 Size: –2 Age: n/a Confidence Score: 0 Virtues and Flaws: None Personality Traits: Sadistic +2, Lustful +2, Energetic +2 Reputations: Demonic 5 (local), Tireless Dancers 2 (local), Magicians 1 (local) Combat: Claws: Init +1, Attack 7, Defense +8, Damage +1 Stone (thrown): Init +2, Attack +5, Defense +4, Damage +1 Soak: +3 Fatigue Levels: n/a Wound Penalties: –1 (1–3), –3 (4–6), –5 (7–9), Incapacitated (10–12), Dead (13+) Abilities: Area Lore 3 (Carnac), Athletics 5 (dancing), Brawl 2 (claws), Folk Ken 4 (temptation), Guile 1 (lying), Speak Breton 2 (yelping), Stealth 4 (ambushes), Thrown Weapon 3 (stones) Powers: Glittering Treasure, 2 points, Init 3, Terram. Creates a number of silver coins that shine in the moonlight and tempt the greedy amid the stones. The coins vanish at dawn, but are usually used as a lure to bring the victim into an ambush.''
 ''Deadly Dance, 2 points, Init 3, Corpus. A group of up to 10 victims is compelled to dance wildly with the Nains until sunrise. Each hour’s dancing requires a Stamina stress roll against an Ease Factor of 6, and failure results in the loss of a long-term fatigue level until the dancer falls unconscious, after which Light Wounds are taken. A botch results in two levels being lost per 0 on the botch dice; if the victim is unconscious, the Wound increases by one level per 0. Many have danced themselves to death before dawn comes. Magician’s Desire Denied, 1 point, Init 3, Vim. Makes a pebble, leaf or other object appear to radiate magic as vis would to an InVi spell. If Sense the Nature of Vis is cast upon it, or dawn breaks, the “vis” collected simply vanishes. Equipment: Usually none. Natural Weapons: Claws: Init -1, Attack +2, Defense +3, Damage +2 Encumbrance: 0 (0) Vis: 1 pawn of Animal vis in hooves Appearance: Child-sized deformed humanoid creatures, with filthy heads of long hair, goat-like bandy legs, and eyes of burning red fire.''
 ''Nains usually attack in untrained groups of three per victim, relying on superior numbers to overwhelm their enemies if their magic fails to defeat them.''
-
-|]
 ''and God miraculously turned the pursuing faeries into the stones. Yet most who live near the stones are sure of one thing: demons, not fairies, haunt this place at night. What are the secrets of the stones? Investigation and a Hermetic Breakthrough may perhaps allow some of the mysteries of the stones to be decoded. Magi with an interest in the mysteries of Hermetic Geometry and Hermetic Astrology often come here seeking new insights, while others are convinced the remains are associated with Fertility Magics, but no one is sure. Magi fear the region, and no covenant has been established here because of the terrible denizens of the stones. The Nains are small, deformed, imp-like creatures with filthy heads of long hair, goat-like bandy legs, and eyes of burning red fire. They are the guardians of the mysteries of the stones, and can read the strange magical characters traced on the rocks, although these are only visible by starlight on moonless nights. Their unholy night is the first Wednesday in May, and it is said to be suicide to enter the vicinity of the stones then, when they conduct blood sacrifices and the Infernal aura rises to 6. Jacques Vert of House Merinita once speculated they are the dreams of the dead Diedne, taken living form in faerie flesh. No one believed him, or if they did they did not care to investigate. He vanished amid the stones on a moonless night some fifty years ago, while seeking the legendary treasure of Carnac — a treasure the very nature of which is unknown. Such treasures are dubious, however, as the Nains are know to have the power to create magical silver in the shape of modern coins that vanish in the light of day. More disquietingly, they can create fake vis that radiates magic to a simple Intellego Vim spell, but on further inspection to ascertain the Form, simply melts away. The Nains love to tempt fools into their clutches by playing on their victims’ greed. Malicious, cruel, and deceitful, the Nains dance in orgiastic rituals among the stones, yet always vanish into hidden regiones by the dawn. Those who try to treat with them sometimes find themselves compelled to join their weird dances, and to dance long after fatigue has rendered them unconscious. If the light of dawn does not arrive in time, the ensorcelled victim dances himself to death. As well as the Nains, many magical spirits haunt the ruins, and locals frequently report long processions of the ancient dead. They take shelter in the Church of St. Cornelius, bar the doors, and pray till dawn each Midsummer night, when the Infernal aura reaches 5 even in the churchyard. Long ago the Nains were''
 ''Korrigan, faerie creatures, but their wickedness corrupted them and today they are clearly aligned with the Infernal realm. Nains attack in large groups, and are often accompanied by even darker, more horrific demons.''
 
@@ -378,8 +374,8 @@
 ===The Statues of Josselin and Castennac===
 
 ''The castle of Josselin is to the west, on the banks of the River Oust. A wooden statue of the Virgin Mary was once discovered near Josselin, in a bramble bush. One day, a scruffy beggar woman came to the village asking for water, but the local women drove her off, sending their dogs to chase her away. At once, their cruel shouts turned to dog-like howls. It was Our Lady in disguise, who had come to test their charity and found it lacking. Every year, at the feast of Pentecost, the local women must beg forgiveness in front of the wooden statue or else the curse will return. Close to the border with the county of Cornouaille is Castennac, where a statue of a very different sort was discovered. It is obviously that of a woman and is known locally as their Venus, being used as the focus of pagan, sexually charged rituals. It has been thrown into the river on several occasions by the local churchmen, but so far has always turned up again.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Folk Tales==
 
@@ -387,7 +383,7 @@
 ''Two trees fighting; if spoken to in the right way, they turn back into an argumentative husband and wife. A stranded fish that is king of all fishes, a trapped bird who can command all birds, and a bound demon king, each of which, if saved, will give help in return. Three hermits, each of whom gives one piece of advice that builds into a solution.''
 ''Lushly fertile land where emaciated horses or cattle graze, beside barren land supporting plump, healthy animals. A crust or loaf of bread that never diminishes, though eaten. A silver whistle that brings help from birds. A shirt which, when put on, keeps an importunate would-be lover frozen immobile through the night. Apples that cause irresistible drowsiness. A honey cake that, when eaten, can make a girl give birth to a magical cat that will help her win a good husband, despite the shame of her pregnancy. A piece of cloth enchanted to serve food and drink when spread.''
 
-|]
+|}
 
 ==County of Nantes==
 
@@ -398,8 +394,8 @@
 ==Grande Brière==
 
 ''Deep layers of peat, trapped behind coastal sands, form an immense expanse of marsh between the estuaries of the rivers Loire and Vilaine. Fish, eels, and wildfowl are abundant, but hardly anyone lives here although a few patches of firm ground rise above the swamp. On one, Kerbourg, located to the southwest, stands a covered alley of megaliths with a low Magic aura. The fortress of Ranrouët, which is under construction, guards the area on the north side of the marsh. There is also a settlement overlooking the marsh on the southwestern edge, at Guérande, where the church of St. Aubin stands on the site of a baptistery used during the conversion of the pagans here. In the crypt is a Merovingian sarcophagus. A ridge of rock forms a peninsula on the seaward side of the salt marsh that lies between the village and the ocean. Salt extraction takes place on a small scale here.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Princess in the Tower==
 
@@ -412,5 +408,8 @@
 ==Story Seed: The White Fox==
 
 ''Characters from the covenant meet a white fox, near a menhir or a dolmen with a Magic aura. It is a Magic creature and, if they talk to it politely and promise to do it a favor, it gives them an ivory ball. If dropped, the ball rolls along the ground a little way, always in the same direction. If followed, it leads to a hermit dwelling in the forest.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

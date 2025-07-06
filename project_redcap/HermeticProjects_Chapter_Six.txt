@@ -5,8 +5,8 @@
 
 ''To create a living corpse, the magus needs to bind a ghost to an ani''
 ''mated corpse. The magus must create a spell that animates a corpse, a spell that summons a specific spirit, a spell that anchors the spirit to the corpse, and a spell that allows the spirit to control the corpse. The magus must decide how he will make these spell effects permanent, and a constructed enchanted item is the most obvious. A magus who knows the Minor Hermetic Virtue: Spell Binding could summon other spirits to maintain the spells, creating a small group of inanimate objects to sustain the spells and linked spirits (The Mysteries Revised Edition, page 27). While common, and reportedly widespread throughout the Order of Hermes, not every magus knows how to bind spells. But every magus does know how to enchant magic items, which means that a living corpse is attainable to all who seek to be one.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Fleshy Vessel==
 
@@ -14,7 +14,7 @@
 ''ghost. The container does not have to be a hollow vessel: a book, rock, or corpse all count as containers. Like spell binding, however, if this container is broken, the spirit is released. A magus creating a living corpse therefore selects a specific part within the corpse to house the ghost. If he chooses the entire corpse, any scratch, wound, or puncture counts as breaking the vessel. A clever magus binds the ghost to the corpse’s liver, stomach, heart, or skull. This ensures that the corpse can sustain considerable''
 ''damage without releasing the ghost, as long as the specified container remains whole. If the magus chooses a body part as the vessel, that part needs to be available for the spirit-binding, either by sight or by touch, depending on the Range of the spell or spell-like effect. It is impossible to enchant a spleen to bind a ghost, if the spleen remains hidden in the body. This can be difficult if the necromancer decides he wants to self-transform into a living corpse.''
 
-|]
+|}
 
 ==A Living Corpse Using Spells==
 
@@ -27,15 +27,15 @@
 ''ReCo(Me) 35 R: Voice, D: Sun, T: Ind A variant of Awaken the Slumbering Corpse (ArM5, page 134), this spell allows a caster to control a corpse through mental, rather than verbal, commands. (Base 10, +2 Voice, +2 Day, +1 Mentem requisite) Required Lab Total: 1 season (70), 2 seasons (53), 3 seasons (47), 4 seasons (44)''
 ''Passing the Reins of Corpus''
 ''MuVi Gen R: Touch, D: Mom, T: Ind Cast at the same time as another spell, this spell lets the caster pass control of the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Exempli Gratia: Bonding a Ghostly Warder to a Corpse==
 
 ''A magus wants to bind a weak ghost to a corpse. He has an arcane connection to a ghostly warder (ArM5, page 193) and has a fresh corpse. He first summons the ghost, using a variant of the ritual spell Incantation of Summoning the Dead (ArM5, page 152), with Duration Diameter instead of Duration Concentration. This Rego Mentem level 40 spell must penetrate the 10 Magic Resistance of the ghost. Once summoned, the magus casts the level 25 Rego Mentem spell Imprison a Ghost in a Vessel, which must also penetrate the ghost’s Magic Resistance. The magus forces the ghost into the corpse, which acts as the vessel. The magus then casts Animate the Slumber''
 ''ing Corpse (ReCo (Me) 30), and finally Passing the Reins of Corpus (MuVi 35). The magus has successfully created a living corpse that will stay active until sunset, when both Imprison a Ghost in a Vessel and Animate the Slumbering Corpse spells end (Duration: Sun). The living corpse has all the abilities and powers of both the ghostly warder and the corpse. It is not under any compulsion to follow the magus’ commands, although it can be compelled to obey through magic (Coerce the Spirits of the Night, for example). When the spells end at sunset, the corpse flops to the ground and the ghost is released.''
 
-|]
+|}
 ''first spell to another person. The level of the affected spell must be less than the level +1 magnitude of Passing the Reins of (Form), and it only works on spells with Duration longer than Momentary. The spell does not change the target of the affected spell. As with other Muto Vim spells, the caster must succeed at an Intelligence + Concentration roll against an Ease Factor of 9 (ArM5, page 159). (Base effect, +1 Touch) Required Lab Total: Dependent upon level of spell''
 
 ==A Living Corpse Using Magical Enchantments==
@@ -45,8 +45,8 @@
 ''to complete the task. If the assistant fails, there is little that the magus can do about it, since he will be dead at the crucial time of activation. A talisman is a good choice for the necromancer who is determined to become a living corpse, since it can hold many more powers than an invested device, and its total allotment of powers is not limited by its shape or form.''
 ''Lesser Enchantments: The Walking Centurion''
 ''Of the four necessary spells to create a living corpse, lesser enchantments can be used for two: the ghost-binding spell and the corpse-animating spell. A spell to summon a ghost cannot be instilled in a lesser enchantment — or any enchanted device — because it is a ritual spell. A Muto Vim spell cannot be instilled in a lesser enchantment because it must be instilled with the power it is working with, and only one power can be put into a lesser enchantment. Two examples of lesser enchantments are listed later. After constructing the two lesser enchantments, the magus is ready to make a living corpse. He first provides a fresh corpse for the ghost’s attachment. He places the Denarius to Hold the Recalled Centurion on the floor and the Greave of Reveille''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds==
 
@@ -57,12 +57,10 @@
 ''A recently acquired magic item that casts Ignem spells bears the sigil of Balento, a famous Verditius magus''
 ''who made many such devices during the Schism War. Magical investigation shows that the item isn’t that old, constructed just five years ago. Is it possible that Balento is still alive, working away somewhere and still making items of fiery destruction? The annals of the war state that Balento was almost 200 years old during the conflagration. If he is still making magic items, he must be more than 400 years old, an unheardof feat in the Order of Hermes. Curious characters might attempt to locate Balento, perhaps by following his selling agent, and discover that the magus is a living corpse.''
 
-|]
+|}
 ''on the corpse. He might encircle the area with a Ring of Warding Against Spirits to make sure the summoned ghost does not immediately flee.''
 ''After summoning the ghost using the regular Hermetic spell, Incantation of Summoning the Dead, the necromancer speaks the command word for the Denarius,''
 ''which binds the ghost to the coin. He then speaks the command word for the Greave and at the same time casts the spell Passing the Reins of Corpus. Because he''
-
-[|
 
 ==Muto Vim Spells and Enchanted Devices==
 
@@ -74,8 +72,6 @@
 ''Pertinent Material and Size Tables''
 ''Derived from the regular Material & Size Tables chart (ArM5, page 97), the following table lists the final number of points for specific items useful for necromancers. This number is both the pawns of vis needed to open the item for enchantment, and the maximum number of pawns of vis that can be instilled in the device to empower spell-like effects. The material is the determining factor rather than the actual item; for example, an amulet made out of bone has the same points as a figurine made from bone.''
 ''Item Points Amulet, bone 3 Amulet, precious engraved gem 15 Amulet, semi-precious engraved gem 12 Coin pendant, gold 10 Coin pendant, silver 6 Hamsa, clay 3 Phylactery, iron 5 Phylactery, wood 2 Tefillah, leather 2''
-
-|]
 ''is activating the lesser enchantment at the same time that he is casting the Muto Vim spell, the player must make an Intelligence + Concentration roll (see insert). Because the necromancer is not holding the lesser enchantment, the Range of the Passing the Reins of Corpus spell must be Voice. Against its will, the ghost is bound to the silver coin and given the ability to command the animated corpse. The ghost is not immediately forced to follow the necromancer’s commands. A few hectic seconds may ensue before the necromancer can command the ghost, using Coerce the Spirits of the Night. Note that while the spell-like effects of the Denarius and the Greave can last indefinitely, due to the Constant Effect duration, the spell Passing the Reins of Corpus has a much shorter lifespan, depending on the Duration chosen when the necromancer invented the spell. The Denarius to Hold the Recalled Centurion assumes that the ghost is weaker than Magic Might 20. A more powerful ghost would require that the device have a higher Penetration. The Greave of Reveille does not need Penetration because the corpse it targets does not have Magic Resistance. The coin and leg armor are merely examples of items that could hold these instilled powers, ones that a magus with antiquarian Roman affectations might use.''
 ''A Denarius to Hold the Recalled Centurion ReMe 44 Pen: 20, Constant Effect R: Touch, D: Sun, T: Room An antique Roman silver coin, a denarius, is instilled with the spell Imprison a Ghost in a Vessel, which forces a ghost inside the silver coin. The silver coin is place on the floor of the room in which the ghost is present, and once the command word is spoken, the magic targets the room and the enclosed ghost. (Base 5, +1 Touch, +2 Sun, +2 Room; +1 frequency, +3 environmental trigger, +10 penetration.) Required Lab Total: 1 season (88), 2 seasons (66), 3 seasons (59), 4 seasons (55) This effect costs 5 pawns of vis.''
 ''The Greave of Reveille ReCo(Me) 34 Pen: 0, Constant Effect R: Touch, D: Sun, T: Ind This iron leg armor is instilled with the spell Animate the Slumbering Corpse, which will animate the non-magical corpse wearing it. The command, “Stand at attention,” is issued as soon as the magic activates. (Base 10, +1 Touch, +2 Sun, +1 Mentem requisite; +1 frequency, +3 environmental trigger)''
@@ -110,8 +106,8 @@
 ''Perceive the Presence of Magic InVi 24 Pen: 0, Constant effect R: Touch, D: Sun, T: Room This is the same linked trigger described previously. The power The Turquoise Stone-Soul will activate this effect, which will in turn activate both Rousing the Receiving Fleshy Host and Grant Control to the Ghost. (Base 3, +1 Touch, +2 Sun, +2 Room; +1 frequency, +3 environmental trigger) Required Lab Total: 1 season (48), 2 seasons (36), 3 seasons (32), 4 seasons (30) This effect costs 3 pawns to instill. The total cost of all five spell-like effects is 27 pawns of vis.''
 ''After the book is enchanted, the necromancer creates a revenant using a ritual''
 ''spell. He ties the book to the revenant and commands it to lie on the floor facedown, so that the book touches both it and the floor. He then summons a specific ghost. As soon as the ghost enters the chamber, the linking trigger Detect the Presence of the Specter detects the ghost and activates The Turquoise Soul-Stone, which imprisons the ghost in the turquoise gem. Perceive the Presence of Magic detects the activation of the effect  The Turquoise Soul-Stone, and activates Rousing the Receiving Fleshy Host and Grant Control to the Ghost. Once completed, the living corpse is a combination of the summoned ghost and the revenant. The living corpse’s Magic Resistance is the ghost’s. Both ghost and revenant have Magic Resistance prior to combining the two into a living corpse, but after the living corpse is created, the ghost’s Magic Resistance supersedes the revenant’s Magic Resistance. The ghost is bound in the Grimoire, so its Magic Resistance protects the book, just like a magus’ Parma Magica protects his clothes and worn personal items. Because the revenant is wearing the book, it too is covered by the ghost’s Magic Resistance. If the living corpse detaches the book, the revenant is''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Spells to Make and Shape a Bone Book Cover==
 
@@ -122,7 +118,7 @@
 ''MuCo 5 R: Touch, D: Conc, T: Ind This spell changes the inelastic nature of bone, making it elastic and able to be reshaped under pressure. The skull becomes as pliable as clay for the duration of the spell. Once this spell is cast, a human skull can be pressed into a book-shaped wooden frame. When the spell ends, the skull reverts to its inelas''
 ''tic property, but retains its new shape. If later used in an enchanted item, the reshaped skull still gives the magus the same Shape & Material bonus (ArM5, page 110). (Base 3, +1 Touch, +1 Conc) Base Level Interpretation: A base level 1 Muto Terram spell will change one property of dirt. The base level to create dirt is Creo Terram 1, and the base level to create stone is base level 3. A base level 3 Muto Terram would change one property of stone. Bone is harder than dirt but softer than stone, so a base level 1 would not be enough, but base level 3 would. Thus: Muto Corpus base level 3, change one property of bone. Required Lab Total: 1 season (10), 2 seasons (8), 3 seasons (7), 4 seasons (7)''
 
-|]
+|}
 ''no longer protected by the ghost’s Magic Resistance. Note that once the living corpse is created, the book does not have to touch the revenant to allow the ghost to control it.''
 ''Invested Device: The Lesser Necromantic Manuals''
 ''These books are similar to the Necromancer’s Grimoire in appearance and function. Each is also a compound item, but with only two elements: a lead cover and a turquoise stone for adornment. The stone costs 12 pawns to prepare for enchantment (semi-precious stone [12] x tiny size [1]) and the lead cover costs 15 pawns (base metal [5] x medium size [3]). Most magi''
@@ -131,8 +127,6 @@
 ''If a necromancer wants to become a living corpse, he can instill the necessary''
 ''spell-like effects into his talisman. Unlike other types of enchanted devices, a talisman is not restricted in the number of powers, it can hold by its shape and material form. Rather, the sum of the magus’ highest Technique and Form determines the talisman’s maximum capacity of pawns of vis, which in turn determines the number of instilled powers the talisman can hold, and the limit increases as the magus improves his Arts. A second benefit of using a talisman is the Range of the instilled powers. Because a talisman is considered part of a magus, the spell-like effects can be instilled with Personal Range. This decreases the final spell-like effect total by a magnitude and bypasses any residual Parma Magica the magus may have (see “A Personal Living Corpse,” later). Two example talismans''
 
-[|
-
 ==Story Seeds: In the Graveyard==
 
 ''At some point in a necromancer’s life, he will probably go rooting around in the local graveyard, looking for material components or a supply of corpses. While it’s easy enough with Hermetic magic to create corpses, it costs vis to make them permanent. Most magi find it easier to send a group of grogs out on a rainy night to retrieve various charnel bric-a-brac from a nearby graveyard. In medieval parlance, a “graveyard” or “boneyard” is an enclosed space lying adjacent to a church. It is not interchangeable with “cemetery,” which refers to a subterranean burial crypt like the catacombs found beneath Rome. In many parts of Mythic Europe, the graveyard is surrounded by a stone wall to discourage vagrants and body snatchers, who retrieved corpses for natural philosophers and other more nefarious clients. A graveyard has an obvious opening, primarily to allow easy access to religious processions for feasts and ceremonies.  Several graveyards in England have a “lych-gate,” a roofed entrance where the priest and mourners gather before a body’s internment. A notable feature of French graveyards is a lanterne des morts, a''
@@ -140,11 +134,7 @@
 ''The best supernatural protection a graveyard offers is to the soul of the departed, for if he was buried with the proper Christian rites, his soul and spirit are immune to magical tampering. However, his body is not, and his parts and remains may prove useful to necromancers. A skull taken from consecrated soil provides the same Shape and Material bonuses as one found on a battlefield or conjured in the laboratory.''
 ''An Extraordinary Coincidence''
 ''On the night that a band of grogs is dispatched to retrieve something from the graveyard, another group of shadowy figures is exhuming a body when the grogs arrive. None of the figures are recognizable, especially the leader, who stands apart, hidden under the folds of a black cloak. Is he an infernalist, stealing corpses for his foul masters? Is he another magus, directing his turb of grogs in the same mission as the watching grogs? Maybe he is a priest and has decided that the body does not deserve religious burial, and is thus directing its removal''
-
-|]
 ''are the Hand Mirror of Circe and the Staff of the Witch of Endor. The Hand Mirror of Circe is a small, silver mirror with a shaped skull handle and decorative amber and turquoise stones set around the mirror’s face. This collection of materials provides several Shape and Material bonus for the talisman’s enchantments. A mirror provides a Shape and Material bonus of +3 for both summoning and controlling ghosts. Instead of shaping a human skull into a book cover, it is shaped into a handle, which provides a +3 bonus for corpses. A turquoise gem grants a +4 bonus for necromancy, and an amber stone provides a +3 bonus for corpses. A magus might also want to invent effects that make the item more durable. Circe was the most powerful necromancer in the Classical Greek myths, having taught''
-
-[|
 
 ==Story Seeds: In the Graveyard (cont’d)==
 
@@ -159,8 +149,6 @@
 ''demise, Lupersus still views itself as a protector, and spontaneously decides to protect all those buried in this consecrated ground. Will the grogs slay a Divine creature to continue their mission?''
 ''Mysterious Grave Goods''
 ''The practice of burying a corpse with personal goods is diminishing in the 13th century. The Church frowns on this because it is reminiscent of pagan practices, and secular rulers have found that burying people without possessions cuts down on grave robbing. Unearthing a corpse and finding personal artifacts is the exception, rather than the rule, and it should surprise even the most dull-witted grog when he finds a gold rod clasped in the hands of the corpse he has just exhumed. Later, laboratory investigation triggers a curse, and the magus realizes that he holds one of the rare enchanted items crafted by Himinis the Mad (Houses of Hermes: Mystery Cults, page 122). Who was this man buried with such a device, and will clues to his identity lead to the hidden sepulcher of Himinis himself?''
-
-|]
 ''Ulysses enough necromantic lore to journey to Hades. The Staff of the Witch of Endor is carved from a cypress tree. Cypress provides a Shape and Material bonus of +3 for necromancy, which would cover all the necessary instilled effects. It is not uncommon for a wizard to have a staff, and few would suspect that a living corpse’s staff is actually keeping him whole. Whereas Circe is the most famous pagan necromancer, the witch of Endor is the most famous necromancer in the Christian tradition.''
 
 ==A Personal Living Corpse==
@@ -168,15 +156,15 @@
 ''A necromancer who wants to become a living corpse has two options. The easiest is to ask a trusted associate to perform the living corpse operation after the necromancer’s death. The necromancer constructs the required enchanted items, instilling as much Penetration as possible. Once complete, he entrusts the enchanted items to a second magus, who promises to summon the necromancer’s ghost after death. The magus needs to provide a fresh corpse for the ghost, and affix the enchanted items to it. If the necromancer is particularly fond of his own body, he could''
 ''insist that his compatriot use it, instead of another. The necromancer might wear the enchanted items in anticipation of becoming a living corpse. Needless to say, the necromancer must trust this assistant implicitly, literally placing his un-life in the second magus’ hands. If the magus refuses to summon the necromancer’s ghost, then all is for naught. Not every necromancer has such a trusted friend. Because summoning a ghost is a ritual spell, and ritual spells cannot be put into enchanted devices, it would seem that an assistant is mandatory. There is a way around this, however, for the few daring enough to undertake it: ritual suicide. The idea is simple. When a person dies, his soul and spirit depart his body, rushing off to whatever destination awaits them. While manipulations of the soul are beyond Hermetic magic, containing the spirit is not. The plan is for the necromancer to kill himself and trap his departing spirit so that it cannot escape. The ghost’s presence triggers a cascade of spell-like effects emanating from a previously prepared enchanted device, whose effects bind the ghost, animate the corpse, and pass control of the corpse to the ghost. Once decided, the necromancer casts as powerful a Ring of Warding Against Spirits as he can, keeping in mind that the spell must Penetrate the Magic Might of the forthcoming spirit. Primarily designed to''
 ''keep spirits out, the ward can also keep spirits in, barring a spirit’s passing from one side to the other. The necromancer places the various enchanted devices about himself, on the floor, on his body, depending on how he has designed them. Without further, ado he kills himself. Drinking hemlock has a certain philosophical flair, and cutting one’s throat is dramatic, but any method that culminates in death works. When his heart beats its last, the spirit departs, to be barred by the Ward Against Spirits. The necromancer’s enchanted devices activate, grabbing the spirit and forcing it into a container, animating the necromancer’s corpse, and binding the two together. Becoming a living corpse unassisted is not a guaranteed process, and there are many complications. Most importantly, it is probable that a magus’ spirit will become a ghost, but not automatic. Hermetic magic can affect ghosts in many ways, but it cannot create a ghost, and no existing Hermetic process gives even the slightest chance of doing so. If a ghost does result, it could be aligned to any of the four supernatural realms, depending on the nature and prior experiences of the magus. Because Hermetic magic must be realm-specific, the ward and devices will have to target the realm that the ghost is actually aligned with. An overly cautious magus could cast four Wards Against Spirits, to anticipate all four possibilities, and create four binding devices. If a ghost results from the suicide, and if the necromancer has correctly anticipated to which realm the ghost is aligned, he should become a living corpse. If any of these falls short — the ghost flees, the spell-like effect is targeting a ghost from a different realm that it was designed for, or the effect fails to Penetrate — the process fails. Timing can be important. If the process works, the ghost is still stopped by the Ward Against Spirits. The necromancer must calculate how long he wants the ward to last, compared with when his device to bind the ghost will trigger. Using the Orb for the Spectral Sovereign example (see earlier), the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Third Method==
 
 ''Not every magus is prohibited from instilling Ritual spell-like effects into enchanted devices. The Minor Mystery Virtue: Hermetic Empowerment (The Mysteries Revised Edition, page 64) allows this very activity, and a magus privy to this secret lore can create an enchanted device that can summon a ghost. The frequency — or even existence — of this Virtue depends on your troupe and the saga you are playing. It might not exist. If it does it should be rare, like the other Mystery Virtues, and difficult to acquire. Because it is''
 ''so rare and not generally available for the typical magus, this chapter will not deal with it other than to mention its existence. After reading this chapter, it should be relatively easy to create your own spell-like effects to incorporate Hermetic Empowerment, if it exists in your game. A necromancer could construct a single enchanted device that summons a ghost, binds it to a vessel, animates a corpse, and passes control of the animated spell to the ghost through a series of linked triggers and cascading effects.''
 
-|]
+|}
 ''necromancer must ensure that the ward lasts past sundown, when the orb’s linking trigger activates the primary power, but ends afterwards. Using standard Hermetic Durations, this means that the ward must have a Duration: Moon, giving the living ghost plenty of time to acclimate to his new condition. Another solution would be to create a Perdo Vim device that the living corpse could use to remove the ward.''
 
 ==The Living Corpse==
@@ -207,15 +195,15 @@
 ''Magic Might''
 ''The living corpse’s Magic Might starts at 0, as described by the Major Supernatural Virtue: Transformed (Being) (Realms of Power: Magic, page 47). A player may change this by buying Magic Qualities that increase Might and paying for them with Magic Inferiorities. Because a magus is already affiliated with the Magic realm, a Gifted living corpse character may start with a Magic Might higher than 0, depending on the option the troupe used to determine if the magus’ spirit became a ghost. Such a character’s starting Magic Might depends on the power-level of the saga and the type of magical ghost it became: specter, shade, or apparition. Use the following guidelines when determining starting Magic Might.''
 ''Power Specter Shade	 Apparition Low 0 5 10 Medium 3 10 20''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Rate of Decomposition==
 
 ''Bodily decomposition is easy to prevent with Hermetic magic; a mere second magnitude Creo Corpus spell averts human putrefaction. Without such effects, however, a body decomposes fairly rapidly. It may be the case that a necromancer is animating a corpse not recently deceased. Perhaps he is animating a companion who has lain dead for a week, or tearing one from a month-old grave mound.  Using the original stats of the animated character, adjust them accordingly to the time between death and reanimation. Mental faculties fade immediately, and an animated corpse automatically has “n/a” in all four Mental Characteristics. Physical Characteristics decompose slowly. Reduce each Physical Characteristic by –1 for each day after the''
 ''character’s death. Characteristics linger at –5 for a year, at which point they too change to “n/a.” If animated after a year dead, use the animating wizard’s Finesse score in place of any formula that would require a physical Characteristic on the animated corpse’s part. This rate of decomposition assumes that the corpse is buried in a coffin in the ground, and different environments affect the rate at which the corpse putrefies. Tropical temperatures and remaining above ground quicken decomposition, and storyguides should increase the time it takes for the body to rot, for example, reducing physical Characteristics by one each hour. Cold or dry environments lengthen the time taken for decomposition, and periods of putrefaction should be extended.''
 
-|]
+|}
 ''High 5 15 30 Legendary 10 25 50 To increase the character’s Might, the player must purchase the Minor Magic Quality: Improved Might, which increases the character’s Magic Might by one point each time it is purchased. A character can have the same number of Qualities and Inferiorities as he had starting Virtues and Flaws (not counting the Free Virtue every magus starts with due to his House). You must also select the Form that the spirit character is associated with. For a magus, this could be his highest Form. For an unGifted character, the Form will likely be Mentem, the Form most magic ghosts are connected to. A side effect of possessing Might is that the character now has raw vis circulating inside of him, like other magical creatures. If slain, this vis can be harvested. The spirit has one pawn for every five points of Might, rounded up, of the Form that it is associated with. The ghost has Magic Resistance that is equal to its Might. If the ghost is bound within a vessel inside the corpse, the corpse has the same Magic Resistance as the ghost.''
 ''Virtues and Flaws''
 ''As soon as a magus becomes a living corpse, the character replaces the Special Virtue: The Gift with the Special Virtue: Magic Spirit. If the character did not have The Gift, he still gains the Magic Spirit Virtue. He also gains the Major Supernatural Virtue: Transformed (Being) and the General Major Flaw: Magical Air. Transformed (Being) counts against the total number of Virtues and Flaws the character can have, but Magical Air does not. If the magus had the Gentle Gift, the living corpse does not receive the Magical Air Flaw. If the magus had the Blatant Gift, the Magical Air Flaw is intensified to the Major Supernatural Flaw: Blatant Magical Air. It this case, Blatant Magical Air replaces Blatant Gift and counts''
@@ -229,16 +217,12 @@
 ''Type of Spirit Season Experience Animating Spirit Spring 120 Specter Summer 360 Shade Autumn 720 Apparition Winter 1200''
 ''Like Virtues and Flaws, the player can only buy Abilities for the living corpse that the character had in life. Supernatural Abilities are allowed only if the living corpse retained the associated Supernatural Virtue. If the living corpse does not have enough experience points to buy all the Abilities that the character had while living — and most won’t — the player has to choose which are most important. The player can always select the Minor Magic Quality Improved Experience Points and gain 50 experience points for each time he''
 
-[|
-
 ==Darius as a Living Corpse==
 
 ''This example takes Darius of House Flambeau (ArM5, page 34) and recasts him as a living corpse. It assumes that he constructed a Necromancer’s Grimoire as a talisman, the ritual suicide worked in creating a ghost, and his ghost was bound to a fresh corpse. Speculating that Darius’ saga is Medium Powered and that he became a shade at death, he begins with a Magic Might of 10 and 720 experience points to repurchase Abilities. He has 10 additional Qualities that are balanced with a like number of Inferiorities. He has magically created a fresh corpse (see stats listed later) for his ghost to control.''
 ''Magic Might: 21 (Corpus) Spirit Characteristics: Int +3, Per +1, Pre –3, Com –1, Str +2, Sta 0, Dex +1, Qik +2 Corpse Characteristics: Int –2, Per –2, Pre 0, Com –2, Str +3, Sta +3, Dex +1, Qik 0 Size: 0 Confidence Score: 1 (3) Virtues and Flaws: Hermetic Magus, Magic Spirit; Transformed Spirit; Enduring Constitution, Hermetic Prestige, Second Sight, StrongWilled; Blatant Magical Air, Driven (Hunt Enemies of the Order), Disfigured (horrific appearance). Qualities and Inferiorities: Focus Power (Master of Corpus), Greater Power (x2); Improved Might (x11); Major Flaw (Hunger for Corpus Magic), Temporary Might; Limited Speech, Minor Flaw (Weak Sight), Minor Flaw (Sensitive to Heat), Reduced Fatigue Personality Trait: Dedicated to Cause +6 Reputations: Dedicated Hoplite +3 (Hermetic magi) Combat: Fist: Init +0, Attack +5, Defense +4, Damage +3 Soak: +3 Fatigue Levels: OK, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Destroyed (21+)''
 ''Abilities: Artes Liberales 2 (grammar), Athletics 2 (running), Awareness 3 (alertness), Bavaria Lore 2 (geography), Brawl 3 (fist), Civil and Canon Law 1 (local customs), Code of Hermes 3 (Wizards’ Marches), Concentration 3 (spells), Dominion Lore 2 (divine creatures), Faerie Lore 2 (faerie forests), Finesse 4 (precision), Folk Ken 2 (peasants), German 4 (merchant slang), Guile 3 (fast talk), Hunt 2 (tracking), Infernal Lore 2 (demons), Intrigue 3 (plotting), Latin 4 (Hermetic), Leadership 3 (intimidation), Magic Lore 2 (creatures), Order of Hermes Lore 4 (criminals), Penetration 6 (Perdo), Philosophiae 2 (moral philosophy), Second Sight 3 (invisibility), Stealth 2 (shadowing), Survival 1 (forests) Powers: Clenching Grip of the Crushed Heart, 2 points, Init –2, Corpus: This power mimics the spell of the same name, one of Darius’ favorites in life. Because it is a magical power, the spirit’s Quickness was used to calculate the power’s Initiative. Grip of the Choking Hand, 0 points, Init +4, Corpus: Mimics the spell of the same name. Mastery points reduce the cost to 0 and increase the Init. Master of Corpus, variable points, Init (Qik – Might cost), Corpus: Duplicates any Perdo or Muto Corpus effect. The effect level must be lower than Darius’ Might. This power costs one Might point per magnitude of the effect. Equipment: Former robes and his Necromancer’s Grimoire talisman Vis: 4 pawns of Corpus vis Appearance: A dull-eyed corpse clad in Darius’ ominous robes, with his talisman tied to his chest.''
 ''As a newly created living corpse, Darius has lost several Abilities and a handful of Virtues. His new powers and Magic Might barely compensate for his lost Arts, spells, and Parma Magica. He will surely want to increase his Might and gain new powers.''
-
-|]
 ''buys that Magic Quality. There is a possibility that the attached ghost will have some of the same Abilities as the corpse. In this case, use the ghost’s Ability instead of the corpse’s Ability. If an activity calls for an Ability that the ghost doesn’t have but the corpse does, use the corpse’s Ability, since it is being controlled by the ghost.''
 ''Magical Qualities and Inferiorities''
 ''Spirits have magical powers, which are represented by Qualities. A living corpse character, like other magical creatures, may have as many Qualities as he has points of Might. He does not have to buy off these starting Qualities with Inferiorities. As a player character, a living corpse may buy additional Qualities as long as they are paid for by Inferiorities. He may have as many additional Qualities as he was allowed Virtues. Just as Flaws must balance with Virtues, Inferiorities must balance with additional Qualities. A player may select Qualities from the list on pages 36–41 in Realms of Power: Magic. Perhaps the best use of Qualities is selecting Powers. A newly transformed living corpse has no Powers, and the player can only gain magical powers by purchasing them with Qualities. A second good use of Qualities is to increase Magic Might, especially if the character started with Might 0. Most powers cost Might Points to invoke, and a ghost with powers and no Might is rather flaccid in play. Ghosts of magi do not have Arts nor do they know any spells. Instead they mimic their former Hermetic spell casting by using innate magical powers that mirror spells they once knew. The most useful Qualities in this regard are Crafter of (Form), which allows the living corpse to mimic any non-Ritual Creo or Rego effect for the chosen Form up to a level equal to the spirit’s Might or 25 (whichever is lower), and Master of''
@@ -265,8 +249,8 @@
 
 ''The living corpse transformation completely changes the necromancer, with physical, mental, and spiritual consequences. Physically, he retains a semblance of life and may pass for one of the truly living. Not every living corpse looks like a rotting, shuffling dead man. Hermetic spells and magical powers can easily alter the appearance of the host, disguising putrefaction, coloring pallid flesh, and growing lost hair. A living corpse is mentally impaired; at best, he retains many of his memories but not all, a condition that leaves him emotionally temperamental, probably unhinged, and''
 ''potentially volatile. A living corpse has a single, intensified Personality Trait that overrides his thinking, coloring every decision he makes. Spiritually, a living corpse is lost. The connection that bound soul to spirit is severed, and however a soul and spirit are connected in a living man, they are forever separated in an undead man. Although it can no longer cast spells, a living corpse has magical powers, many of which copy favorite spells the character could cast during life. A former magus who becomes a living corpse might try participating in Hermetic society. Many wizards are secretive, sanctums are private places, and Temporary Twilights leave scars from Warping. A living corpse may not seem that weird when compared to other, older magi. If he is only seen occasionally, the living corpse might continue to fool his sodales into thinking he is alive. If he is careful, other magi will not''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Hermetic Interactions==
 
@@ -276,7 +260,7 @@
 ''A player may decide that he wants his living corpse character to be contained in another corpse, rather than the one that currently houses him. Regardless of whether the ghost’s vessel is an interior organ or the entire corpse, this is not easy to do. A more powerful Rego Mentem binding spell needs to be cast, one that can overpower the spell currently imprisoning the ghost to the corpse, and bind the ghost to another vessel. Bound to a new vessel, the ghost''
 ''has to animate the new corpse, not a difficult task, but one that the ghost will need Powers to perform rather than spells. If successful, the ghost retains all the advantage of being a living corpse, but with a new body. Doing this does not cancel the effects maintained by the enchanted device that made the living corpse in the first place. Once the new binding spell ends, the ghost falls back under the magic that bound it to the original corpse. A living corpse can use this to his advantage. For example, he could hide his vessel, corpse, and enchanted devices in a distant location, and when he wants to travel, bind his ghost to another corpse. He is then bound to the new corpse for the duration of the new binding effect. Once this ends, the ghost is pulled back to the original vessel by the first binding spell. If this second corpse is damaged, breaking the vessel containing the ghost, the magic of the original enchanted device takes over and pulls the ghost back to the first vessel.''
 
-|]
+|}
 ''know he is undead and may treat him as they always have. A living corpse gains a host of new advantages — primarily that he no longer has to fear the ravages of time. But new concerns become paramount, and just as many disadvantages come along with the benefits.''
 ''Advantages''
 ''The primary advantage of becoming a living corpse is eternal life. The living corpse does not eat, sleep, or even breathe, and is immune to aging. The player no longer has to make annual Aging rolls for the character. Affiliated with the Magic realm — or one of the other supernatural realms — a living corpse is immune to Warping and Final Twilight. As long as the magic that holds the living corpse together persists, the entity exists. Physical afflictions are a thing of the past. A living corpse is not as hindered by damage and disease as living things. Physical wounds still provide a penalty for physical activities, but the living corpse cannot be Incapacitated. He literally needs to be hacked to bits to be destroyed, but even dismemberment can be remedied. A disease still inflicts a Disease Penalty (see Art & Academe, page 45), but this only reduces physical rolls that the damaged corpse must make. Die rolls that the ghost half of the living corpse charac''
@@ -284,8 +268,8 @@
 ''Disadvantages''
 ''The two biggest concerns of a living corpse are its vessel, which must be preserved and protected, and the enchanted device that holds the living corpse together. It is debatable which is more important, for the destruction of either causes the living corpse to disassemble. Constant protection of the two are the order of the day, and a living corpse who ignores sound precautions will not be a living corpse for long. For the combined spirit-corpse to properly function, the vessel must be kept whole. If the living corpse is unlucky''
 ''enough to have the entire corpse as the ghost’s vessel, he should shy from any activity that could damage the body. The ghost cannot voluntarily leave its vessel unless it has Powers that it can use to temporarily bind to a different vessel. If the vessel is substandard, attaching to a second is not easy. If the fleshy vessel is permanently destroyed, the character is merely the ghost of a magus. What happens next is up to the storyguide and the troupe, although in most cases the ghost will depart. A storyguide may allow a player to have a ghost character, but in most cases the ghost is whisked to the supernatural realm it is affiliated with, and removed from play. Protecting the enchanted item or items is equally as vital as protecting the vessel. If the item is destroyed, the body collapses, the ghost cannot control it, and the ghost is no longer bound to it. Perdo Vim magic that cancels the magic without destroying the device can also bring ruin upon the living corpse. As soon as the ghost is unbound from the vessel, either because the vessel is broken or the magic that connects the two ends, the ghost departs. If the Perdo Vim magic that canceled the enchanted item’s effects is not permanent, the enchanted item might activate its spell-like effects if the linking triggers’ conditions are met. However, the ghost is most likely not in proximity, and the enchanted item will not be able to target the ghost. Ghosts themselves are susceptible to''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Destroying the Enchanted Device==
 
@@ -294,7 +278,7 @@
 ''Stress Check: stress die + modifier vs. 15''
 ''A damaged enchanted device can be repaired only by a Verditius magus who knows the Minor House Mystery Virtue: Reforging Enchanted Items (Houses of Hermes: Mystery Cults, page 125). It seems logical that a destroyed enchanted device, whose destruction signals the end of the living corpse character, could be put back together and, once so reforged, would again create the living corpse.''
 
-|]
+|}
 ''Perdo Vim magic that destroys Might, and the living corpse is no exception. Might destroyed by Perdo Vim spells is permanently lost, and the living corpse also loses Qualities equal to the number of lost points, further decreasing its power. If the living corpse’s Magic Might is reduced to 0 through Perdo Vim spells, the ghost is permanently destroyed, erased from the supernatural fabric of Mythic Europe. Rego Vim and Rego Mentem spells are also problematic, although not as dangerous as Perdo Vim spells. Rego Vim and Rego Mentem wards prevent a living corpse from entering (or exiting), provided the spells are strong enough and carry enough Penetration to affect the living corpse. Because a living corpse is a combination of ghost and corpse, Mentem spells that summon and bind a ghost are also a threat. It is possible that a Rego Mentem spell more powerful than the one initially used to bind the spirit could control a living corpse. Death severs the magus-familiar''
 ''bond, and if the living corpse had a familiar prior to his transformation, he loses his connection to the beast. If the familiar survives the sundering of the bond at the magus’ death, which it may not, its powers may diminish. Furthermore, it will inherently loathe the magus’ ghost.''
 ''A story could revolve around a vengeful familiar seeking a player character living corpse’s destruction. Advancing Abilities, increasing Magic Might, and learning new powers are difficult. Like other magical creatures, it must undergo a transformation to learn new things (Realms of Power: Magic, page 52), and even then, the only new things it can learn must be represented as Magical Qualities.''
@@ -302,8 +286,8 @@
 ==A Necromantic Miscellany==
 
 ''A Hermetic wizard’s necromantic interests will likely spill over into other areas tangental to summoning ghosts and animating corpses, and it is reasonable to assume that he will have a collection of spells and magic items pertaining to this predilection.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Created Corpse==
 
@@ -317,7 +301,7 @@
 ''Language 5 (talking about fighting), Singe Weapon 7+2 (Heater Shield) Equipment: axe, heater shield, full scale armor Encumbrance: 3 (4) Appearance: A day spent dead makes a telling difference. The corpse is pallid and slightly bloated, although this might not be instantly apparent when he is wearing his armor. His movements are stiff and jerky.''
 ''The animated custos is an example of a slain grog character, animated to continue serving the magus. Based on the Specialist grog template, a common sample shield grog (ArM5, page 21), the example character has lain dead for an entire day before being animated. Without preservation magic, putrefaction will continue to reduce the corpse’s physical Characteristics.''
 
-|]
+|}
 
 ==Hermetic Projects Creating and Animating Corpses==
 
@@ -334,8 +318,8 @@
 ''CrCo 25 R: Touch, D: Mom, T: Group, Ritual This ritual creates 100 corpses. (Base 5, +1 Touch, +2 Group, +1 for larger group) Required Lab Total: 1 season (50), 2 seasons (38), 3 seasons (34), 4 seasons (32)''
 ''Control the Dead Army''
 ''ReCo 45 R: Voice, D: Sun, T: Group This spell causes 100 corpses to animate and follow the caster’s verbal commands. Individual commands cannot be issued to a particular member of the group; every corpse follows the caster’s command. While''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Created Revenant==
 
@@ -350,7 +334,7 @@
 ''Unconscious Wound Penalties: –1 (1–9), –3 (10–18), –5 (19–27), Incapacitated (28–36), Dead (37+) Abilities: Brawl 3 (fist)''
 ''The colossus is not a subtle creation. Standing over 15 feet tall and weighing around two tons, it will be difficult not to notice it. A magus who wishes to keep his necromantic proclivities secret should opt for another type of corpse minion. An egotistical necromancer need not worry about such things.''
 
-|]
+|}
 ''they each perform the same task, they are not considered a trained group for combat purposes. (Base 10, +2 Voice, +2 Sun, +2 Group, +1 for larger group) Required Lab Total: 1 season (90), 2 seasons (68), 3 seasons (60), 4 seasons (57)''
 ''Conjure the Horde of the Dead''
 ''CrCo 30 R: Touch, D: Mom, T: Ind, Ritual This ritual creates 1,000 corpses. (Base 5, +1 Touch, +2 Group, +2 for larger group) Required Lab Total: 1 season (60), 2 seasons (45), 3 seasons (40), 4 seasons (38)''
@@ -373,13 +357,16 @@
 ''(Base 10, +1 Touch, +2 Sun; +1 frequency, +3 environmental trigger) Base Level Interpretation: Rego Corpus base level 10 animates a corpse. Required Lab Total: 1 season (58), 2 seasons (44), 3 seasons (39), 4 seasons (37)''
 ''The Wand of Commanding Charon’s Pack''
 ''ReAn 39 Pen: 0, 12 uses per day R: Voice, D: Sun, T: Ind When pointed at an animal and the command word spoken, the animal will follow the orders of the wielder. Once so enchanted, the animal will follow the commands of the wielder until the effect expires. Multiple animals may be commanded individually or as a group, at the discretion of the wielder. While designed to allow the wielder to command dead dogs, animated by Collars of Charon, the wand affects living beasts just as easily. (Base 15, +2 Voice, +2 Sun; +4 frequency) Required Lab Total: 1 season (78), 2 seasons (59), 3 seasons (52), 4 seasons (49)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Grave Hound==
 
 ''Despite its name, a grave hound is simply a dead dog animated by Hermetic magic. A grave hound is not a magical beast and does not have a Might score or powers. Because the grave hound is not a Magical Animal but merely an animated corpse, it does not have mental Characteristics.  Its physical Characteristics and Abilities assume that it is either recently dead or has been magically preserved from putrefaction. As a dead thing, a dead dog does not have Fatigue Levels. Similar to revenants, a dead dog cannot be Incapacitated.''
 ''Characteristics:  Cun n/a, Per n/a, Pre n/a, Com n/a, Str 0, Sta +2, Dex +1, Qik +2 Size: 0''
 ''Virtues and Flaws: Improved Characteristics, Sharp Ears, Reckless Personality Traits: Loyal +3, Reckless +3, Savage +3 Reputations: Loyal 2 (local) Combat: Bite: Init +2, Attack +8, Defense +7, Damage +1 Soak: +2 Wound Penalties: –1 (1–5), –3 (6–10), – 5 (11–15), –5 (16–20), Dead (21+) Abilities: Athletics 3 (distance running), Awareness 3 (keeping watch), Brawl 3 (bite), Hunt 4 (track by scent) Appearance: Depending on how long the dog has been dead, it looks very much like a live dog. Closer inspection will reveal its glassy, opaque eyes and fetid breath.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

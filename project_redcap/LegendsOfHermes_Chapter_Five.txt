@@ -13,8 +13,6 @@
 
 ''At the conclusion of the Schism War, House Tremere hoped to trans''
 
-[|
-
 ==What the Order Remembers of Hermanus==
 
 
@@ -36,8 +34,6 @@
 
 ''•	 Amarantha of Tremere was one of the magi who searched for evidence of Hermanus after his passing. She continued her investigation after the vexillation had submitted its conclusions and dissolved. Amarantha disappeared in 1110 and no trace of her was ever found.''
 ''* 	 False information''
-
-|]
 ''form Coeris into the ultimate stronghold for the House. The greatest fear of House Tremere was the theft of their storehouse of vis and enchanted devices by powerful magi or spirits, who would then employ the House’s own resources against it. The Adamant Rook Vexillation took the responsibility of altering the covenant of Coeris to be to be the secure storehouse that House Tremere believed they needed. House Tremere could not be assured that they could man the defenses of their domus magna with magi of superior caliber to the enemies they feared that they might face, nor could the House rely on magics unique and unknown to their enemies. Hermanus set about his task of crafting defenses using the greatest advantage that the Tremere had: the organizational cohesion of the House. Hermanus capably employed as great a proportion of House Tremere’s magi and resources as he could obtain to assist in the creation of Coeris’ defenses. The strategy implemented by the vexillation was not only to make the Coeris stores themselves untouchable, but also to create a network of enchanted devices throughout the covenant that would detect and neutralize any entity that was acting against the Tremere. These devices were created to work in conjunction with the magi and other defenders of Coeris, but would not be useless without them. Hermanus threw himself into his work with a determination and dedication that continued unabated for the rest of his life. Yet the longer he worked and the more formidable the covenant’s defenses became, the less satisfied Hermanus was. Once he had set his mind to imagining ways that Coeris could be compromised he was unable to stop. Gradually, over the course of decades, Hermanus’ mind twisted itself to see nothing but weakness and vulnerability. For decades Hermanus was able to convey his concerns about the vulnerability of Coeris to his sodales in a suf''
 ''ficiently convincing way as to garner a wealth of support for his vexillation, but as years went by this task became more and more challenging for him. In 1070 the primus of House Tremere proclaimed that the preparations at Coeris were “embarrassingly fulsome”. The Adamant Rook Vexillation was dissolved. Others within the House were, by this time, wondering aloud if the cost in vis and time of creating the defenses had been well spent. The exarch of the Roman Tribunal was heard to say that it would have been less costly to have allowed the stores to be looted then to have paid the cost of constructing the defenses. Hermanus disagreed with this judgment and attempts to alter the opinion of the primus or become primus himself in order to further fund expanded defenses continued intermittently for the final twenty-eight years of his life. Hermanus did not abandon his (by this time personal) mission to strengthen the defenses of Coeris and spent most of his time studying arts, researching spells and crafting items to make the domus magna more secure.''
 
@@ -55,8 +51,8 @@
 ==The End of Hermanus==
 
 ''On the fall evening in 1098 when Hermanus’ laboratory disappeared from Coeris, its disappearance was, despite rumors to the contrary, the result of Hermanus’ Final Twilight. By 1091, Hermanus had realized that there was little hope he would ever get the support in vis and assistance that he desired to continue his life’s work from his House. Hermanus had reached the conclusion that he would need to find large sources of vis himself in order to create the additional defenses that his plans required. While he was an exceedingly powerful magus at this point of his life,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Using the Creations of Hermanus in a Game==
 
@@ -68,7 +64,7 @@
 ''The characters discover an item that was once owned by a Tremere magus, perhaps a set of Tremere robes. House Tremere would like the character who discovered the item to travel to Coeris with it and give a complete description of the circumstances under which the item was discovered. The House is willing to make the trip (at least barely) worthwhile for the player characters. Unknown to the characters, the discovered item is enchanted with a Waiting Spell, perhaps protected by Masking the Odor of Magic, that activates when the item is brought within the covenant of Coeris. When the waiting spell activates it summons a powerful spirit or creature of might whose goal is to do as much damage to the covenant of Coeris as possible. With the sudden appearance of the creature from the player characters’ group''
 ''it is likely that the player characters will not immediately be recognized as innocent bystanders. The stage is set for the player characters, the creature and the defenders of Coeris to rampage through the sentinels and justiciars of the covenant avoiding and getting affected by different effects as they chase one another in a three-way game of cat and mouse. When running games within Coeris it should be clear that sentinels and justiciars, outside of the vaults which contain the House’s valuables, are designed not only to delay and capture intruders but also (perhaps primarily) to sound the alarm and warn the defenders of Coeris of the intrusion. There are several items within Coeris that specifically detect and locate any triggering of sentinel items so that the Tremere can direct their defenses.''
 
-|]
+|}
 ''his practice of constantly dwelling on ways that he and his House could be attacked had developed within him a great fear of the world outside of Coeris and even many places within Coeris. The location where Hermanus felt closest to being secure was his own laboratory. Hermanus spent most of his time locked within his circular laboratory protected by no fewer then eight wards active upon rings that followed the lab’s circumference, and several enchanted devices designed to protect him from aggressors and accidents. Rather than go out into the possibly dangerous world unprotected or spend years developing protections that would allow him to travel in safety comparable to his laboratory, Hermanus enchanted one of the wooden mannequins which he and his sodales had created to defend Coeris to travel under his control and search out vis sources without Hermanus ever leaving his laboratory. That fall evening in 1098, Hermanus’ mannequin was on the sea floor off the south coast of Crete, looking through the debris where a great naval battle was fought between the forces of the Macedonian king Demetrios the Poliorketes and Ptolemy the first of Egypt in 306 BC. Hermanus attempted to transfer a quantity of vis from this location to his laboratory by means of a Rego spell that was inscribed on a casting tablet. The casting went horribly wrong. Hermanus, his familiar, his laboratory, and the surrounding building disappeared in a Twilight episode. Hermanus and his familiar were lost to Final Twilight but the laboratory and surrounding building still exist within the Terram province of the Twilight Void. They are tethered to the mannequin and the vis that were the subject of Hermanus’ final spell. Anyone who finds these items on the sea floor off the coast of Crete and disturbs them, disrupting the connection, will bring the structure that houses Hermanus’ laboratory back to the mundane world.''
 
 ==Adventure: Search for the Sunken Laboratory==
@@ -80,8 +76,8 @@
 ''The adventure presented here has the following structure:''
 ''•	 The player characters come across the notes collected by Amarantha of''
 ''Tremere detailing her search for the Laboratory of Hermanus. •	 After perhaps pursuing some other possibilities for the structure’s location, the characters travel to the sea floor off the coast of Crete where the mannequin is located. •	 The players deal with the undersea environment, a genius loci who wishes to protect the area containing the mannequin, and the violent ghosts of sailors lost in an ancient battle. •	 The characters then bring the laboratory structure back to the mundane world. The characters explore the laboratory structure and outwit the defenses to acquire the treasure within. •	 Finally, the characters bargain with House Tremere for the return of the enchanted devices and the protection of the House’s secrets.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Unexpected Copies==
 
@@ -93,22 +89,22 @@
 ''House Tremere may well choose to equip groups of its magi with some of the enchanted devices if they feel that the items are needed. Characters might possibly encounter these items wielded by magi outside the covenant of Coeris. A Tremere maga, along with a number of mundane assistants and protectors, has undertaken an effort to explore and possibly procure vis from a regio that, while not close to the player characters’ covenant, is less distant from the players’ covenant than it is from any other covenant. In the process of exploration''
 ''the maga has roused the ire of the regio’s inhabitants (elemental spirits of fire, demons, giant intelligent spiders or whatever fits your game). While defending her companions the maga entered into a Twilight episode. The maga’s familiar escaped from the regio and traveled to the players’ covenant to ask for assistance in rescuing the party now trapped within the regio. The player characters who come to the aid of the trapped group must deal not only with the inhabitants of the regio but also with a maze of sentinels and justiciars erected by the group to protect themselves.''
 
-|]
+|}
 ''Legends of Hermes Foreshadowing''
 ''As an introduction to the story of Hermanus, the story guide should have the characters encounter the remains of Amarantha of Tremere in a location that is both somewhat remote and could at least possibly be suspected to have a source of vis. Any regio, any wilderness location that might house a vis site, or any location that could have been believed to be the lair of a creature of might in the time of Hermanus would serve. With work this can be integrated into another adventure in the saga. One item with the remains is conspicuous in that it shows no evidence of decay whatsoever. This item is a large leather satchel which Amarantha created as a lesser enchanted device to keep the notes and books that she carried on her travels safe from decay. The satchel is enchanted with Enchantment of Incorruptible Vellum. Within this satchel is a bit of magi''
 ''cally preserved food (an apple, cheese, and some bread) and Amarantha’s collected notes on the matter of Hermanus and his laboratory. Constant exposure to the preserving magic of the satchel has, over time, warped both the satchel and its contents. The food can no longer be digested by any creature and will make anyone who tries to eat it somewhat nauseated. The satchel and the writings are slightly toxic to the touch and will cause a mild rash to anyone touching them with their bare skin.''
 ''The notes take approximately a day to read thoroughly. They contain the following information:''
 ''•	 Who Amarantha was and what she was doing (see next section). •	 A summation of relevant information of Hermanus’ life and behavior. •	 The fact that Hermanus was, at the time of his disappearance, collecting vis by sending a wooden mannequin (to which he had a fixed arcane connection) throughout the world and controlling it with spells cast through Opening the Intangible Tunnel. •	 The information that Hermanus’ lab certainly contained a considerable quantity of vis. •	 The information that House Tremere was very interested in the recovery of the texts and enchanted devices in the laboratory and surrounding structure because they contained information regarding the defenses of Coeris. •	 A partially checked off list of sites where Amarantha believed that Hermanus’ mannequin could be.''
 ''The list of locations remaining unexplored locations is large, but the intervening century of activity by the Order of Hermes has eliminated most of the locations that Amarantha had thought to be possibilities. The characters can check the lists of covenant locations and claimed vis sources maintained by House Mercere and reduce the possibilities for the location of the mannequin to a very short list, and, depending upon''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Enchantment of Incorruptible Vellum==
 
 ''CrAn(He) 24 Constant effect R: Touch, D: Sun, T: Group The satchel and all of its animaland plant-derived contents are protected from experiencing any natural''
 ''decay, including rot, mildew, and desiccation. (Effect: Base 2 as CrCo, +1 Touch, +2 sun, +2 group, +1 requisite; Modifications, +1 level 2 uses per day, +3 levels environmental trigger)''
 
-|]
+|}
 ''where the storyguide may wish for the characters to go, perhaps to only the actual location.''
 
 ==The Story of Amarantha of Tremere==
@@ -120,15 +116,15 @@
 
 ''Hermanus’ mannequin lies in a shallow sub-aquatic valley of barnacle-encrusted rocks and gently sloping sand amidst the broken wreckage of ancient ships sunk in the battle of 309 BC. Moving among the wreckages are dozens of ghosts of the ancient battle, each mindlessly continuing the battle over 1500 years after its conclusion. Apart from the specters pursuing violence without thought or comprehension, the sea floor in this area is an extraordinarily beautiful place. During the sunlight hours,''
 ''shafts of illumination strike down from the surface and play along the sea floor. The submarine valley has a Magical aura of 2. A genius loci inhabits the area (see later). The genius loci is constantly aware of the entire valley, and desires to have the natural beauty of the submerged valley lie undisturbed for eternity. The genius loci has, over the last fifteen centuries, absorbed the sunken ships as part of itself. It no longer sees these ships as something foreign that has entered the valley but as an integral part of the valley. In addition, the personality of this spirit has become altered by the unending struggle of the valley’s ghosts. The genius loci does not hope for a better existence; it only struggles to endure with a desperate ferocity, despite the fact that the spirit is not in any danger. While the genius loci is largely indifferent to the presence of the mannequin, any attempt to disturb the ancient ships or to permanently destroy the warring ghosts will rouse the spirit and be treated as an''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Setting the Story in a Different Location==
 
 ''The location of this story can be moved to accommodate the needs of a particular saga. Ancient naval battles that could serve as the setting for the adventure, more or less as written, are common throughout the Mediterranean Sea. Some other possible Mediterranean sites are the battle of Actium of 31 BC in the Ionian Sea, and the Battle of Alalia, off the coast of Corsica, in 540 BC. Moving the location out of the Mediterranean reduces the number of historical locations that provide a good match for the story as written. One possible northern location is Carlingford Loch on the northeastern coast of Ireland where, in 852, the Norse and Danes fought a naval battle that lasted three days. The storyguide should not feel''
 ''obligated to tie the adventure to the location of any historical battle at all. The ancient history of Mythic Europe certainly has enough unrecorded history that a battle could be inserted most anywhere if it were placed far enough back in time. With some adjustment, the storyguide could skip the underwater aspect of this adventure entirely. The remains of the mannequin could be placed in any location where Hermanus could have reasonably been hunting for vis, such as a regio full of gargantuan ice caves, an oasis in the Sahara desert, or at the most important vis source belonging to the player characters’ covenant, provided that the vis source was claimed at some time after 1098.''
 
-|]
+|}
 ''attack upon the genius loci itself. The genius loci will try to negotiate with characters if it hears of plans to harm the valley or its contents, but it does so without significant hope of success. This may or may not make dealing with the genius loci especially challenging. The spirit’s depression predisposes it interpret''
 ''the characters’ offers and motives in the most pessimistic way possible.''
 
@@ -137,16 +133,12 @@
 ''The ghosts of the ancient sailors are pale reflections of their ancient selves.''
 ''The ghosts mindlessly continue their struggle, reenacting their fatal battle every day as they have for 1500 years. The ghosts perceive all new phenomena in terms of their struggle. All creatures that they see are categorized by them as ally or enemy. Frequently this categorization changes unexpectedly, as living things''
 
-[|
-
 ==Typical Ghost of an Ancient Sailor==
 
 ''This creature is a spirit, and both the spirit and its equipment are insubstantial. While combat statistics for the sailor have been computed, these numbers only apply if the ghost is made corporeal or when the ghost uses its strike power. In combat the ghosts can form trained groups of 4 individuals. These groups have a group bonus of +12.''
 ''Magic Might: 10 (Mentem) Characteristics: Int 0, Per +1, Pre +1, Com -1, Str +1, Sta +2, Dex +1, Qik +1 Size: 0 Age: Appears to be between 16 and 35 years old. Decrepitude: n/a Confidence: 0 Virtues and Flaws: Veteran, Delusion Personality Traits: Obsessed with the Battle +3 Reputations: None Combat: Sword: Init +0, Attack +7, Defense +5, Damage +6 Javelin: Init –1, Attack +4, Defense +5, Damage +7 Soak: +4 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Athletics 2 (climbing), Carouse 2 (drinking songs), Dead Language (ancient Greek or Egyptian) 5 (nautical terms),''
 ''Leadership 3 (sailors), Profession Fisherman 4 (net repair), Profession Sailor 3 (warships), Single Weapon 3 (short sword), Thrown Weapon 3 (javelin) Powers: Eidolon, 0 points, Init –1, Imaginem: The spirit creates an illusory image of its former self. This image moves and speaks as directed by the spirit. The spirit does not have the awareness to refrain from creating this form. Rather the form is created anew every morning and exists until the spirit meets a temporary demise in battle with the other ghosts or until it is recreated the following morning. (See Realms of Power: Magic page 102 for more information.) Ghost Touch, variable cost, Init –1 minus Might points spent, Terram: This power moves objects that are not held by another person or fastened down. For 1 Might point a maximum of five pounds can be moved. Every additional Might point doubles this weight limit. If the item is hurled with force, the sailor uses his Thrown Weapon Ability and inflicts +5 damage per Might point spent. The spirit can enter combat with an object when using this power and uses its characteristics to calculate combat totals as normal. The sailor does typically not use this power to attack, instead it uses the Strike''
 ''power and it employs Ghost Touch only to manipulate objects. (See Realms of Power: Magic page 102 for more information.) Strike, 1 point, Init –5, Terram: For one diameter the spirit makes attacks using its sword as if the sword were a material object. This attack is magical and must penetrate Magic Resistance. (Lesser Power, no direct Hermetic equivalent, but treated as level 15, 2 Mastery Points used to reduce cost) Equipment: Leather scale armor, short sword, javelins, and other accoutrements of a sailor. Encumbrance: 4 (2) Vis: The spirit contains no vis in and of itself. However when it is destroyed — actually destroyed, as opposed to the phantasmal death the spirit experiences quite often — a single pawn of Mentem vis appears in the wreck of the spirit’s former ship. When this happens the ship alters itself to more closely resemble the condition it was in before it was sunk. The wood becomes less rotted, barnacles fall of the ship, and the structure becomes more solid. Appearance: The ghostly sailor appears as a pale, slightly transparent man dressed in 4th-centuryBC armor. The sailor is consumed by desperation and fear as he struggles against his nearly identical opponents.''
-
-|]
 ''fail to act in ways understandable to the single-minded spirits. A shout of agreement and a salute might mark a character as a friend; a failure to engage a specter’s opponents or to respond to a question asked in an ancient language may be enough to incur the ghost’s enmity.''
 
 ==The Return of the Laboratory==
@@ -155,16 +147,12 @@
 ''cient ships. This wreckage is devoid of ghosts. Standing upon this wreckage and holding the mast is a human-sized and -shaped wooden mannequin. The mast itself is suspiciously well preserved; it is waterlogged enough to sink yet it is completely free of rot and decay. The mast contains 8 pawns of Mentem vis. This is Hermanus’ mannequin. It and the mast are held in their positions by the power of Hermanus’ final, tragically miscast spell. Both the mannequin and the mast resist being moved by nearly any physical force. However, if either of the objects is targeted by a''
 ''spell, such as a spell to move them, an Intellego spell to investigate them, or a Rego Vim spell to transfer the vis from the mast, the results of Hermanus’ final spell are undone and the structure containing Hermanus’ laboratory returns to the mundane world. When the magic holding the mast and mannequin is broken, all of the water within thirteen paces of the broken spell is pushed out by the return of the warded laboratory structure, taking the much of the sand, debris and, presumably, characters with it. Swimming characters are pushed at least 20 paces''
 
-[|
-
 ==Genius Loci of the Aquatic Valley==
 
 ''Magic Might: 20 (Aquam) Characteristics: Int +1, Per +1, Pre 0, Com +1, Str +1, Sta +1, Dex +1, Qik +1 Season: Summer Confidence: 1 (3) Virtues and Flaws: Magic Spirit, Ways of the Sea Magical Qualities and Inferiorities: Personality Traits: Grim+3, Sensitive to Insult +1, Hopeful –3 Abilities: Area Lore 5 (nearby undersea environs), Awareness 5 (submerged humans), Bargain 5 (sahirs), Folk Ken 3 (sailors) Guile 2(pretending to be mightier than it is), Intrigue 2 (assessing threats), Living Language: Greek 5 (Cypriot) Powers: Crafter of Water, variable points, Init –4, Aquam: The genius can duplicate any non-ritual Creo or Rego Aquam spell at a cost of one Might point per magnitude of the effect. The level of the spell can not be greater than 20. Within the valley the genius is present everywhere, and this allows it to create most effects with a Range of Personal or Touch. Emissary of Foam and Sand 3 points Init –3 Aquam and Terram, The spirit''
 ''constructs within itself a humanshaped form of sand and water that can interact with people by use of speech and the clumsy and slow manipulation of objects. While the shape is made of inanimate material and can not be damaged in the same manner as a creature, it is not particularly stable and can be dispersed by a strong current or being hit with a large object. This form can leave the location of the spirit, but the spirit can not perceive and control the form more than a small distance from its borders. (Base 5 +1 Concentration, +1 Part, +1 Rego requisite, Terram requisite is free, Lesser Power, 1 Mastery Point spent to lower Might, cost: 20) Master of Water, variable points, Init –4, Aquam: The genius can duplicate any non-ritual Muto or Perdo Aquam spell at a cost of one Might point per magnitude of the effect. The level of the spell can not be greater than 20. Within the valley the genius is present everywhere, and this allows it to create most effects with a Range of Personal or Touch. Presence 0 points, Constant, Imaginem: The genius loci is aware of every''
 ''thing that goes on within the valley, and the genius is present at every location within the valley (see Realms of Power: Magic pages 103 and 106 for a more in-depth description). Vis: 2 pawns of Aquam vis are manifested annually as stones buried within the grotto, if not harvested this vis will not accumulate. Appearance: The genius loci occasionally manifests a human-shaped conglomeration of sand and water to communicate. This shape is only a marionette controlled by the spirit. The genius loci itself is the aquatic valley.''
 ''A genius loci is a spirit of a place. The spirit inhabits the entire area — in this case the underwater valley — as if the area were a body for the spirit. A genius loci can not move from its location. The genius loci of the grotto has been, over centuries, altered by the ghosts of the warring sailors. The spirit has a grim, dutiful mindset. For the genius, existence is something to be endured stoically rather than enjoyed. The spirit protects its locus with determination but has no hope of making it a better place, only of persevering.''
-
-|]
 ''if they take no steps to counter the rush of water. If the player characters are not submerged — such as characters protected by the ring of aquatic freedom, described later — the storyguide is encouraged to have the laboratory structure materialize in a way that will not crush the characters. The stirred-up sediment in the water blocks all vision for a few minutes until it settles. When the water clears the characters see the laboratory structure that has been in the Twilight Void since 1098.''
 
 ===a Less Conspicuously Convenient Return===
@@ -192,8 +180,6 @@
 
 ''MuCo(An) 40 R: Per, D: Sun, T: Part The caster’s body from the hips down is transformed into the tail of a large fish, keeping the same approximate size. The caster also develops gills on his throat allowing him to breathe water but inhibiting his ability to speak, imposing a –3 modifier on all rolls to communicate verbally and a –5 to spell casting totals, as if the character were speaking quietly.''
 
-[|
-
 ==Being a Fish==
 
 ''The included spells offer the possibility of transforming characters into fish. The mechanical descriptions of a human-sized fish and a large shark are provided for use with these spells.''
@@ -209,8 +195,6 @@
 ''Characteristics: Cun –3, Per –2, Pre –5, Com –6, Str +4, Sta +4, Dex +1, Qik –3 Size: +2 Confidence: 1 (3) Virtues and Flaws: Ferocity (attacking prey)*, Improved Characteristics, Greedy (major), Wrathful (major) Qualities: Aggressive, Aquatic, Large teeth, Pursuit predator, Slippery,''
 ''Tough hide Personality Traits: Greedy +3, Wrathful +3, Phlegmatic +2 Combat: Large Teeth: Init –3, Attack +11, Defense +8, Damage +7 Dodge: Init –3, Attack n/a, Defense +2, Damage n/a Soak: +6 Fatigue Levels: OK, OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+) Abilities: Awareness 2 (food), Brawl 5 (teeth), Hunt 4(prey), Survival 3 (home territory), Swim 5 (home territory) Appearance: This set of statistics is intended to describe a shark of +2 size.''
 ''* 	 Ferocity is a Virtue that allows the shark to use Confidence Points to alter its rolls, but only when the shark is attacking prey. The creature is not able to use Confidence in other circumstances (see Houses of Hermes: Mystery Cults page 40).''
-
-|]
 ''While in this form, the caster can move at full speed underwater and does not suffer any penalties due to pressure. (Base 20, +2 Sun, +1 Part, +1 complexity, requisite free)''
 
 ===Breeze From Within===
@@ -230,15 +214,15 @@
 
 ''Hermanus’ laboratory complex is contained within a single-story structure ripped from the top floor of the covenant of Coeris by the botched spell that led to Hermanus’ Final Twilight. Although this botch took place over 100 years ago the objects within the laboratory complex have been held in the Twilight Void, where nothing ages, for the''
 ''entire duration. From the outside the structure appears to be a disk-shaped building approximately 35 paces in diameter and three and a half paces tall. The structure has stone walls and a wooden roof. There are closed wooden shuttered windows on all sides of the building; a partially open door faces the characters. The structure is resting on the level sea floor. Surrounding the building is the scattered wreckage of the ship that the mannequin was standing on. There are also scattered remains of some sections of the floors beneath Hermanus’ laboratory that were wrested from the world by Hermanus’ spell along with the top floor that remains intact (these pieces do not contain anything of value). The ward against water that is inscribed on the walls of the three outer rooms of the structure—the hallway, scriptorium and storage room—creates a volume of space free of water not only within the laboratory complex but also as a sphere that extends above and below the laboratory. The former section of covenant containing Hermanus’ laboratory consists of seven rooms, each detailed here. Within each of the rooms Hermanus has placed enchanted devices to protect both him and the covenant. Many of these devices can be divided into two categories: sentinels, which detect intruders; and justiciars, which incapacitate the intruders that have been detected by the sentinel items. Sentinels are devices enchanted with one or more Intellego spells and the Herald of Imperative enchantment, which activates all of the justiciar items in the room. In the plans of Hermanus, a sentinel item’s Intellego spell would detect an intruder and the item would activate the Herald of Imperative enchantment. The Herald of Imperative enchantment would in turn activate one or more justiciar items in the room and trap the intruder. Because the sentinels and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Herald of Imperative==
 
 ''ReVi 29 50/day R: Touch, D: Mom, T: Room This effect simulates a single specific triggering action on all objects in the target room. Because this effect is designed to be triggered by a thoughtless enchanted device rather''
 ''than a person, the specific triggering action must be selected at the time of enchantment. All of the justiciar-enchanted devices in Coeris use the same triggering action (described later). (Effect: Base 5, +1 Touch, +2 Room; Modifications +6 levels 50 uses per day, +3 levels linked trigger)''
 
-|]
+|}
 ''justiciars were designed to be used in the covenant itself, where people lived and worked, rather than to defend the vaults, they are mostly non-lethal and serve only to imprison their targets. Within Coeris there are several devices that detect the triggering of sentinel and justiciar devices, so even if a justiciar does not have sufficient Penetration to affect a target, it still serves a purpose by alerting the defenders of the covenant.''
 
 ==Hallway==
@@ -246,8 +230,8 @@
 ''This hallway once was bedecked with documents and trophies extolling the accomplishments of the Adamant Rook Vexillation. After the vexillation dissolved, Hermanus and the other former members removed items that were of importance to them. The hallway is now nearly barren. A thin woven rug lies down the center of the hall and a''
 ''chandelier, bearing many partially burnt candles, hangs from the wooden ceiling. A small table sits along the interior wall of the room opposite the door to the exterior, and sitting on this table is a locked wooden chest. There are four doors in this room. When the structure is under water—which could quite possibly be the entire time that the characters are investigating it—a few inches of sea water collect along intersections of the ceiling and the floor with the''
 ''outer walls of the three outer rooms: the hallway, the scriptorium, and the store room. Along both the ceiling and the floor, there is space where the flat walls of the structure extend beyond the spherically-shaped protection provided by the ward against water. Inscribed along the outer wall of this room and the two connecting rooms (the scriptorium and the storage room) are bands of steel that have had the following spells cast upon them:''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Rego Vim Guidelines==
 
@@ -260,7 +244,7 @@
 ''action in a device, as written descriptions of the triggering action exist in Laboratory Texts for Herald of Imperative. A written description can also be compiled from a successful laboratory investigation of either an item enchanted with Herald of Imperative or one of the justiciars. The triggering action for the justiciars in the laboratory structure is the same triggering action that is used for the devices defending Coeris. While sentinels and justiciars were only one part of the defenses that the Vexillation constructed at Coeris, knowledge of the triggering action by someone outside of the House does constitute a significant weakening of the covenant’s defenses. The action is kept secret by House Tremere—all of the Laboratory Texts that contain the triggering action are kept within the Coeris vaults, with''
 ''the exception of the Lab Texts that are locked in Hermanus’ laboratory. Hermanus and the Adamant Rook argued among themselves about the wisdom of using one triggering action rather than many. While a single action was easier for enemies of the House to learn and left the covenant more vulnerable to a thief who knew the action, it also offered House Tremere the greatest flexibility in adjusting its defenses. Furthermore, the single triggering action could more easily be monitored with other devices within the covenant that raised an alarm when an item requiring the triggering action was activated. Intellego magics used by the House for vetting magi who constructed and maintained the defenses also provided some protection against betrayal.''
 
-|]
+|}
 ''Ward Against Water Circular Ward Against Demons (level 40 cast with 37 Penetration) Circular Ward Against Faerie Spirits (level 40 cast with 35 Penetration)''
 
 ===Ward Against Water===
@@ -288,8 +272,6 @@
 
 ''The Statue of Conjured Assistants is a small marble statue of a man. The statue is approximately the size of a person’s hand. This statue closely re''
 
-[|
-
 ==Ferox and Fidelius: Summoned Elemental Spirits==
 
 ''Ferox and Fidelius are spirits of the element of Terram (see Realms of Power: Magic page 104), the spirits of a matching pair of statues that stand within Hermanus’ sanctum. They are immaterial spirits who will use their abilities to manipulate items in the laboratory complex to drive out intruders but they will not (and in fact can not) physically manifest themselves.''
@@ -302,8 +284,6 @@
 
 ''Here are the combat statistics for a mannequin animated by either Ferox or Fidelius''
 ''Characteristics: Int +3, Per +2, Pre –3, Com –3, Str +3, Sta +3, Dex –1, Qik –1 Size: 0 Combat: Pole Arm: Init +2, Attack +6, Defense +3, Damage +11 Crossbow: Init +4, Attack +4, Defense -1, Damage +7 Soak: n/a''
-
-|]
 ''sembles one of the two statues in the Sanctum.''
 ''Summon the Stony Servants ReTe 52 Penetration 8, 6/day R: Arc, D: Mom, T: Group This effect summons two specific spirits of the elements, Ferox and Fidelius (see Realms of Power: Magic page 104, and statistics provided later), to the location of the Statue of Conjured Assistants. Arcane connections to the spirits are incorporated into the item. (Effect Base 15, +4 Arcane connection, +2 Group; Modifications, +4 levels 8 Penetration, +3 levels 6 uses per day)''
 
@@ -360,15 +340,15 @@
 ''was assumed that, when used, the mannequins would be destroyed frequently; as a result, there are large supplies of the mannequins at Coeris. Each Staff of the Wooden Soldiers is an invested device, created from a thick hazel wood staff with an eye of crafted silver mounted on the top. On each staff there is a small chamber near the top where an arcane connection to one of the wooden dolls can be inserted. The two staves located in the receiving room contain arcane connections to the mannequins located in the spare laboratory. The staff located in Hermanus’ lab contains a connection to the remains of the mannequin that Hermanus used to explore the sea floor. The staves were opened with 14 pawns of vis. Each is enchanted with four powers. These powers fill up all of the staves’ 14-pawn capacity.''
 ''Pretense of Humanity MuIm 19 12/day, item maintains concentration R: Arc, D: Conc, T: Ind The target mannequin changes in appearance to resemble a human the same size as the mannequin. (Effect: Base 1, +4 Arcane connection, +1 Concentration; Modifications, +5 levels item maintains concentration, +4 levels 12 uses per day)''
 ''Animate Mannequin ReHe 34 12/day, item maintains concentration R: Arc, D: Conc, T: Ind The target mannequin moves under the command of the staff’s holder. The mannequin moves as if it were the holder, it uses the holder’s Dexterity, Quickness, and Abilities. Mannequins have a Strength score of +3 and do not suffer damage in the same manner as living beings. However, it is possible to remove a limb from a mannequin (at least the ones used in Coeris and the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Note on Warping by Enchanted Devices==
 
 ''Modifications to the level of an effect—including Penetration, effect frequency, environmental trigger, linked trigger and effect use—are not used to determine whether or not an effect''
 ''causes warping to its targets through the power of the magical effect. Thus enchantments such as Alarm of Dissemblance do not warp their targets despite having a total level of at least thirty.''
 
-|]
+|}
 ''laboratory complex) with any blow that has a damage value of 10 or more (19 or more on the armored mannequins in the complex). Weapons used in melee by the mannequins are resisted by Magic Resistance; mannequins are frequently armed with crossbows which are not hindered by Magic Resistance, because the bolts are not being driven by a magical force. (Effect: Base 3, +4 Arcane connection, +1 Concentration, +1 complexity; Modifications, +5 levels item maintains concentration, +4 levels 12 uses per day)''
 ''View from the Mannequin InIm 34 12/day, item maintains concentration R: Arc, D: Conc, T: Special Upon activation, the holder’s sense of sight is transferred from his present location to the location of the object to which the staff carries an arcane connection. This effect allows the wearer to see his surroundings as though he were at the location of the targeted object (including being able to see creatures with Magic Resistance). The spell does not enhance the wielder’s natural sight, it only transfers the location of it. The target is based on Room but is more complex as it allows the staff’s holder to see as if he were actually in the item’s location (into adjacent rooms, out of windows and such). (Effect: Base 1, +4 Arcane connection, +1 Concentration, +3 Special target based on Room, and one grade higher; Modifications, +5 levels item maintains concentration, + 4 levels 12 uses per day)''
 ''Ears of the Mannequin InIm 34 12/day, item maintains concentration R: Arc, D: Conc, T: Special Upon activation, the holder’s sense of hearing is transferred from his pres''
@@ -463,15 +443,15 @@
 
 ''The Orb of Obedient Sunlight is a gold-colored wooden sphere hung from a hook on the brass wires that crisscross the ceiling. The orb is a lesser enchanted device with the following power:''
 ''Obedient Sunlight CrIg 20 Unlimited uses, item maintains concentration R: Per, D: Conc, T: Ind When commanded, the orb glows with bright light. This light is more than''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Breaking into the Laboratory==
 
 ''The laboratory should be challenging for characters to break into but not impossible. The storyguide should pay some attention to what would be exceedingly simple or annoyingly frustrating for the players and try to steer a course between them. If the players have little patience or less powerful characters, then Ferox and Fidelius may be less active or there may be clues to the nature of the defenses in Amarantha’s notes. If the party is especially powerful then the storyguide may choose to include more than two elemental spirits and the spirits may have significantly greater Might. Water is held outside of the laboratory complex by the circular ward on the outside ring of the complex.''
 ''It should be apparent to most players, and characters, that disturbing the rings on the walls in the outer rooms could well flood the complex (at least the outer rooms). If Ferox and Fidelius are able to enter the laboratory of Hermanus proper (room 7), they realize that both the Butterfly’s Gaze and the Tapestry of Confident Possession can be triggered by them at will. The spirits make use of these devices to trigger any justiciar that they think will help in their defense of the laboratory complex. The spirits are also aware of how to use the Helm of Unraveling and will impart this information to any non-magus who they believe has come under the influence of the Cross of Preempted Conflict.''
 
-|]
+|}
 ''sufficient to illuminate the laboratory. Hermanus used this item as the source of illumination for his laboratory in order to eliminate the risk of fire, and the defensive risk that he saw in unprotected, open windows. (Effect: Base 4, +1 Concentration; Modifications, +10 levels unlimited uses per day, +5 levels item maintains concentration)''
 
 ===Helm of Unravelling===
@@ -503,11 +483,14 @@
 ''secrecy of their magic item designs and triggering actions. It is clear to the House that information is much easier to distribute than to destroy. The House will open up negotiations with legal arguments regarding their rights to their materials, coupled with tempting offers of access to books and vis. They will not make threats of immediate Wizard’s War, for fear that frightened magi might make the Tremere’s secrets public. House Tremere is willing to pay any reasonable price for the recovery of their secrets, and the assurance that the information will not be leaked in the future. Since the alternative is to significantly overhaul the defenses of Coeris, a “reasonable” price can be quite high. On the other hand, such an overhaul is necessary in any case; House Tremere is not''
 ''so naive as to trust an agreement completely. Thus, they are willing to pay enough to buy time. Should the player characters not be willing to deal, House Tremere is willing to make life extremely hard for them until they do deal. If pressed, the Tremere should leave the nature of this difficulty vague, with the threat of Wizard’s Wars implied only in the event that the characters do spread the secrets. In the case of House Tremere, assurance that their secrets are safe includes assurance that specifics of the triggering action have been removed from the minds of people who, in the opinion of the Tremere, should not have the information. The Tremere suggest that the spell Scraping Razor of Memory can be cast by nearly any magus spontaneously and very possibly can be cast as a non-fatiguing spell, perhaps using Ceremonial Casting and props while in a powerful aura (see Houses of Hermes: Societates page 59), thereby avoiding the possibility of botching. Before delivering payment the Tremere will wish for the involved parties to provide testimony to a Tremere Mentem expert or a neutral Quaesitor skilled in magical investigation. Prior to releasing any payment to the player characters, the Tremere will insist that the testifying character submit him''
 ''self to spells such as Frosty Breath of the Spoken Lie or Ear of Truth (see Houses of Hermes: True Lineages page 73) in addition to spells to detect any magical tampering to the mind of the testifying character, such as Sight of the Active Magics. The Tremere realize that, legally, this must be done voluntarily by the testifying character and will make any reasonable arrangements to prove the purity of their intent, such as using a properly vetted Quaesitor of the testifying character’s choosing or submitting to a similar interrogation by a neutral Quaesitor regarding their intent in this particular matter. The Tremere insist that the investigator ask the testifying characters not only if they know the information, but also questions such as, “Do you have any reason to believe that you’ve made plans that will allow you to recover the information?”, “Do you know of anyone else who has the information?”, and “If you had wished to fool the Tremere by secreting away the information somehow then erasing memory of the event from your mind, how do you think that you would have done it?” If all of these tests are passed, the Tremere believe that they have enough time to overhaul the defenses in a considered manner, and honor any agreement.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Scraping Razor of Memory==
 
 ''PeMe 4 R: Pers, D: Mom, T: Ind The caster removes a single important detail from his or her own memory. (Base 4)''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

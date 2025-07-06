@@ -12,14 +12,14 @@
 
 =Confluensis=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Place to Begin==
 
 ''This covenant provides a detailed setting for troupes unfamiliar with the unique features of the Normandy Tribunal. Confluensis is part of the Tribunal, but is in many ways aloof from it. It is in France, but away from mundane French settlements. It is a liege, but deals straightforwardly with its vassals. It is subject to the Peripheral Code of the Tribunal, but rarely attempts to breach it. The Confluensis setting illustrates the distinctive features of this tribunal, but allows players to absorb these slowly, over a series of stories''
 
-|]
+|}
 ''The Lion and the Lily Buildings''
 ''The covenant’s major buildings were constructed with a mixture of magical and mundane tools. The central buildings were created magically, as is obvious from their whimsical design. They are raised above the water on platforms that form enormous stone flowers, which lends some weight to the conjecture that the site was colonized by followers of the Terrae cult tradition within House Guernicus. Any skilled stonemason can tell that the flowers are single pieces of unnaturally shaped rock. The buildings they support seem, superficially, to be made of dressed granite blocks. The stone is similar to that produced by the quarries that provided the stone for Mont Saint Michel. Some buildings were produced with human labor, while others appear to be dressed stone simply because it suited the aesthetic preferences of the magi who created them.''
 
@@ -54,16 +54,12 @@
 
 ''South of the Bell Flower is the Library Tower. It is square, three stories high, and rises directly from the ground. It is the oldest structure in the covenant, and it was created with a ritual that was not designed for this location. Its lowest floor is not used because it is always partially flooded and is filling with silt. The next floor is effectively the covenant’s council chamber. It is linked to the Bell Flower with a graceful bridge. The highest floor contains the covenant’s library and magical storeroom. The roof is used by sentries, for ceremonies, and very occasionally to light signal fires. A Mercere Portal between Confluensis and Dragon’s Rest is also here.''
 
-[|
-
 ==Story Seed: The Bud and the Venelli==
 
 ''The covenfolk awaken after a night of astrological phenomena to discover that a huge stone flower bud has emerged from the swamp. Subsequent research determines that the covenant is not, as was guessed, the creation of magi interested in Terram magic. It is the site of an older compact between the faerie powers and the native Celtic tribe of this region. A faerie with the body of a man and the head of a wild boar rises from the swamp to explain that to bring the bud to flower; the magi need to fulfill their half of the pact. He pours back into the marsh’s waters when his message is delivered. Very little is known about the historical Venelli because their culture was erased first by Romanization, then by Norman conquest. Characters seeking information about the Venelli, by subjecting ancient artifacts to examination, may find that although Christian foundations have obscured all trace of the Venelli on the mainland, on the Channel Island of Jersey some of their relics may still be found. Jerseymen were hired as mercenaries by the last King of the Venelli in his battle against Rome. Characters seeking the graves of Jersey mercenaries may be attracted to sites said to be haunted by shipwrecked men. Characters may have adventures with the undead, wreckers, and faeries that collect ghosts. Alternatively, it is also said that once a year, on All Hallows Night, a ship departs Le Havre carrying the souls of all drowned sailors off to Hell. The Captain is a terrible creature, but will play fairly for the soul of one of the men he collected hundreds of years ago, and deliver it if beaten. The ghost of a Jerseymen can describe the sacrifices of the Venelli. The pact between the powers of the marsh and the kings of the Venelli originally involved the sacrifice of enemy kings captured in battle, but by the coming of the Romans, the Venelli had found a simpler alternative. The Venelli would declare a pig their king, truss it up, and fling it into the swamp. The legs have to be trussed correctly, but fortunately the ritual is commemorated on the coins struck by the last king of the Venelli to hire mercenaries to fight Caesar. They show a pig skeleton, trussed with his legs spelling the initials of the king. Characters seeking such a coin may find it:''
 ''• On Jersey, allowing characters who dealt with the Ship of the Dead to instead visit the wreckers, ghosts, and faeries; • In the collection of a numismatic Jerbiton magus, who dispatches the characters to distant places to find a better coin for trade; • In the hands of a demon, who needs to be tricked into parting with it.''
 ''If the characters complete the story and drown a regal pig, the result might be any of the following:''
 ''• The covenant gains a source of Rego or Animal vis. • The covenant gains a new flower on which to build structures. Lacking a player character strongly tied to a floral motif, it is a valerian. When people rest inside the small chambers formed from the valerian’s flowers, they find a deep, restorative sleep that heals wounds rapidly and remedies many other medical complaints. It is perfectly suited for a hospital, but why would the spirit of the swamp give the covenant a hospital suited for dozens of people? • The senior remaining Venelli, the new king of the tribe, gains the ability to sense the proximity of vis, much as pigs can snuffle up truffles. • Select characters gain the ability to skinchange into gigantic boars, or creatures half-man, half-boar. These are the successors to the Venelli king’s bodyguard. • The characters gain the ability to call up the ghosts of past boar kings, which defend the swamp from intruders. They take the man-boar shape, but their bodies are constructed of water and debris, so they are very difficult to destroy with mundane weapons. • A white lady, a local faerie, is sent to the covenant as an emissary by the powers of the swamp. Over time she will teach them its mysteries, and lead them on other adventures.''
-
-|]
 ''The Lion and the Lily Magical Resources''
 ''Confluensis’s powerful Magic aura derives from its location. It lies at the precise center of the band where nutrient-rich fresh water turns back the sterile salt. Beneath the raised floors of the covenant, at the rise and ebb of the tide, the forces of creation and destruction strive ceaselessly against each other. On spring tides these forces create dancing vortices, which the magi snare in enchanted nets and harvest for vis. Most of the covenant’s buildings and infrastructure are scattered throughout the swamp, but many covenfolk reside on an island, called the Orchard, northeast of Coutances. This island has a useful aura and a vis source, which led to its seizure from a faerie court not long after the site was colonized. On the island is an orchard that produces small, sour apples. If a virgin peels one of these apples with her left hand, the skin takes the shape of her future husband’s initial. The flavor of the fruit varies by taster and is thought to predict the sweetness, or otherwise, of the marriage. Few apples have ever been used for this purpose, since the hedge magicians who knew of them were usually illiterate, and Hermetic magi value the Intellego vis they contain too much for them to be wasted. The island’s aura, once Faerie, has gradually been transformed to Magic, although a minor Faerie aura reappears on the solstices.''
 
@@ -175,6 +171,9 @@
 ''citizens are saved by St. Geneviève, who leads a party down the Seine at night to bring in food. 470 – 485 Successful campaigns of the Visigoth King Euric across Western Europe. 476 Fall of the Western Roman Empire as Italy is conquered by the Gothic king Odovacar; the beginning of the Dark Ages. 481 Clovis, a descendant of Merovech, rises to become King of the Franks; the start of the Merovingian dynasty. 496 Clovis is baptized and becomes the first Christian Frankish king. His people follow suit, although paganism takes centuries to fade among the Franks. 507 Clovis has by now defeated the Romans, the Burgundians, and the Visigoths, united the Franks, and established a capital in Paris. 511 Death of Clovis, though his magical lineage endures. One of his four sons succeeds him as Childebert I. 558 Childebert dies childless; the kingship passes to his brother Chlotar. Under him, the Frankish kingdom has grown to include all of Provence, Burgundy, and Swabia. 567 Sigebert wars on Chilperic, son of Chlotar; the Frankish kingdom fractures and becomes corrupted. 573 Gregory appointed bishop of Tours. 584 King Chilperic I dies leaving his wife, Fredegund, as regent for his unborn son, Chlotar II. 594 St. Gregory of Tours writes the Historia Francorum (History of the Franks). 613 Chlotar II “the Grand” reunites the Frankish kingdom and rules until 628. 628 Dagobert, king of Austrasia and son of Chlotar, becomes Fing of the Franks, ruling Austrasia, Neustria, Burgundy, and Aquitaine. 637 Dagobert I dies and the kingdom fragments again. 679 The kingdom of the Franks is again united, now under Theoderic III, but the monarchy is subservient to the Mayor of the Palace, Ebroin. 687 Pepin “the Large,” of the Frankish mayoral dynasty, gives himself the title Dux et Princeps Francorum, and rules most of the Frankish empire. The power of the Merovingian kings is by now''
 ''insignificant — they are little more than puppets. 731 – 767 Trianoma travels widely and contacts numerous wizards who visit with Bonisagus — many of these become Founders. 732 The Battle of Tours — Charles, illegitimate son and successor of Pepin II, wins a great victory over an Islamic army lead by Abd er Rahman, thereby halting the northward advance of Islam from Iberia. As a result of his tactical brilliance, he is hereafter known by the moniker Martel, meaning “hammer.” 738 Charles Martel campaigns successfully against the barbarian tribes. 742 Birth of Charles (later Charlemagne), son of Pepin III. 751 Pepin III “the Short” becomes king proper, crowned by St. Boniface; the start of the Carolingian dynasty, as the last of the Merovingians, Childeric III, is shorn and retired to a monastery. Pepin III is the first king to seek the pope’s anointment. 767 Foundation of the Order of Hermes. Bonisagus and the other Founders swear the Oath of Hermes. The first Tribunal gathering takes place at Durenmar. 768 Charlemagne becomes king of the Franks. 773 Second Grand Tribunal of the Order of Hermes. Procedures for lesser Tribunals are established: a Tribunal shall consist of at least twelve magi from at least four covenants. 774 Charlemagne defeats Desiderius and becomes King of Lombardy. He confirms the “donation” of these lands to the pope, and becomes protector of the Church. 778 The kingdom of Aquitaine is founded by Charlemagne. 782 Charlemagne initiates schooling in the Frankish kingdom, and promotes literacy and education. 789 The Founder Jerbiton meets with Charlemagne, after having adopted a number of apprentices of the emperor’s mage-smith, Carolinus. Charlemagne issues a decree outlawing sorcery and paganism, but permits “benevolent magic” such as that practiced by Jerbiton. 791 Branugurix, the domus magna of House Diedne, is founded in Brittany. 798 Tytalus steals the apprentice Hariste from Pralix, and founds Fudarus to provide a defensible''
 ''place to train her. Pralix becomes the acting leader of House Tytalus. 799 Third Grand Tribunal of the Order of Hermes. 800 Charlemagne is crowned emperor in Rome; re-establishment of the western (Holy) Roman Empire. 807 Tytalus leaves Fudarus dressed only in a leper’s robe and veil, and carrying a staff. After visiting his followers, he enters the Maddenhofen Woods in Bohemia, and is never seen again. Hariste becomes the first Primus of Tytalus. 810 Covenant of Confluensis is founded. 814 Death of Charlemagne; he is succeeded by his remaining son Louis “the Pious.” 817 Fourth Grand Tribunal of the Order of Hermes. 822 Covenant of Bibracte is founded. 832 Fifth Grand Tribunal of the Order of Hermes. From henceforth, Grand Tribunals will meet every 33 years, regional Tribunals every 7 years from 836 AD. 840 – 855 Reign of Lothar I. Covenant of Pagus is founded. 843 The Treaty of Verdun ends four years of civil war among the grandsons of Charlemagne — his empire is divided between them. 845 Paris is sacked by Viking raiders. 851 Covenant of Baiocassium is founded. 855 – 875 Reign of Louis II. Covenant of Sinapis is founded. 865 Sixth Grand Tribunal of the Order of Hermes. The boundaries of the Tribunals are formally set according to the break-up of the Frankish Empire, and they are also named as the Rhine, West Franks, Lotharingian,  Britannian, Roman, Theban, Eastern, and Greater Alps Tribunals. 871 Inaugural meeting of the Tribunal of the West Franks. 875 – 877 Reign of Charles II “the Bald.” Covenant of Rotomagus is founded. 881 Charles “the Fat” reunites Charlemagne’s empire, becoming emperor. By now his realm is beset by attacks from Norsemen. 885 Paris is besieged by Viking raiders. 887 Charles “the Fat” is deposed and the Frankish empire is split into half a dozen kingdoms, most of which are ruled by Norse kings. 888 Odo, Count of Paris, is chosen as king of the Franks on account''
+
+==Appendix A Timeline==
+
 ''of his brave and skillful resistance of the Norse invaders. 892 Covenant of Rotomagus is destroyed as Vikings sack Rouen. 898 Seventh Grand Tribunal of the Order of Hermes. Charles “the Simple,” son of Louis II “the Stammerer” and nephew of Charles “the Fat,” succeeds as king of the Franks on the death of Odo. 907 Covenant of Florum is founded. 910 The monastery of Cluny is founded. 913 Covenant of Ligurio is founded. 920 Covenant of Kerguntuil is founded. 922 Odo’s brother, Robert, drives out the discredited Charles “the Simple” and is crowned king. 923 Robert I dies in single combat with Charles “the Simple” and Rudolph, Duke of Burgundy, takes the throne. 931 Eighth Grand Tribunal of the Order of Hermes. 936 Louis IV, son of Charles “the Simple,” is recalled from refuge in England and crowned Fing of the Franks, but he has scarcely any influence over the feuding nobility. Covenant of Baiocassium Minor is founded. 941 Covenant of Montverte is founded. 954 Lothair inherits his father’s crown; conflict with neighboring states and within the kingdom continues throughout his reign. 961 The Betrayal of House Tytalus occurs at Fudarus. Tasgillia, the Prima of that House, is executed for diabolism, and replaced by her filia, Kalliste. 964 Ninth Grand Tribunal of the Order of Hermes. 969 Covenant of Bibracte is sacked by magi from Montverte. 983 The 17th meeting of the Tribunal of the West Franks decides to rename the Tribunal as the Normandy Tribunal. 986 Louis V “the Indolent,” Lothair’s son, becomes king, only to die the following year as a result of rivalries among the senior clergy and nobility. 987 Hugh Capet becomes King of France with the support of the Holy Roman Emperor, Otto III, and Archbishop Adalberon of Reims. He makes Paris his capital. 996 Robert II “the Pious” is crowned by his father Hugh in 987 and takes the throne on Hugh’s death. 997 10th Grand Tribunal of the Order of Hermes. 998 Covenant of Aedes Salii founded. 1004 The Schism War is declared against members of House Diedne. 1005 Covenants of Baiocassium Minor and Caput Capra destroyed. 1007 Covenant of Kerguntuil is destroyed. 1008 Covenant of Pagus destroyed. 1011 Covenants of Baiocassium and Ligurio destroyed. 1012 Branugurix is destroyed in the final battle of the Schism War, called the Tempest. 1018 The Schism War has ended. The Quaesitores present the''
 ''Tribunal with a list of magical resources seized from magi and covenants destroyed during the conflict. Fudarus attends the Normandy Tribunal meeting, adding Brittany to the Tribunal’s territories. Pertheus of House Tytalus successfully proposes that the aggressors have the right of conquest over these vis sources and books, but that in seven years’ time, a tournament should be held to redistribute them. 1020 Covenant of Orchard of Sour Apples is founded. 1021 Covenant of Lixivia is founded. 1025 The 23rd meeting of the Normandy Tribunal adopts several statutes proposed by Pertheus, which later become known collectively as “The Perthean Compact.” This compact sets out the rights magi have over vis sources close to their covenant, but also allows for the possibility of covenants acquiring more vis as they grow in power. The compact is refined over successive meetings of the Tribunal. 1028 Covenant of Oleron is founded. 1030 11th Grand Tribunal of the Order of Hermes. 1031 Henry I, having been crowned in 1027, succeeds on the death of his father. 1037 Conrad II, the German emperor, defeats Odo of Champagne in a massive battle at Bar in Upper Lorraine. 1048 Covenant of Vexatores is founded. 1051 Confluensis moves to Orchard of Sour Apples; the latter covenant is taken over and disbanded, and the covenant of Dragon’s Rest is established at the former site of Confluensis. 1061 Philip I “the Fair” succeeds his father at the age of 7. His mother, Anne, acts as regent with Baldwin V of Flanders until 1066. 1063 12th Grand Tribunal of the Order of Hermes. The conflict between Houses Tytalus and Flambeau is formally ended by the latter withdrawing from all hostilities. As a consequence, the Flambeau covenants of Sinapis and Aedes Salii are abandoned, and Lapis Crudus is founded as a joint covenant between the two Houses. 1064 Covenant of Vexatores is abandoned. 1066 The Battle of Hastings — William of Normandy defeats Harold Godwinson, the Anglo-Saxon King of England, near Hastings in southern England. This leads rapidly to the Norman conquest of England. 1072 Covenant of Nauche-Fleur is founded. 1079 Philip I defeats William of Normandy and supports the claims of his son, Robert. 1081 Perpauca’s books are declared the first tomes of the Library of the Normandy Tribunal. Access to these books is made into prizes in the Hermetic Tourney. 1096 The First Crusade. 1096 13th Grand Tribunal of the Or''
 ''der of Hermes. 1098 The monastery of Cîteaux, later to become the mother house of the Cistercian Order, is founded. 1099 Covenant of Infelicitas is founded. 1100 Covenant of Nidi is founded. 1102 The 34th meeting of the Normandy Tribunal determines the border with the Provençal Tribunal on linguistic grounds. 1108 Louis VI “the Fat,” Philip’s son, is crowned king in Orléans because his half-brother, Louis, prevents him reaching Reims. Ralph, archbishop of Reims, challenges the validity of the coronation and anointing. 1109 A plague of restless dead stirs in Picardy; they are banished by a group of hedge wizards who join the Order of Hermes, founding the Donatores lineage within House Ex Miscellanea. 1115 St. Bernard founds Clairvaux Abbey. 1116 The 36th meeting of the Normandy Tribunal makes a landmark ruling on mundane resources, implicitly permitting mundane raiding. 1117 The covenant of Florum moves; Spider’s Palace is founded at its former site. 1118 Peter Abélard comes to Paris. Lapis Crudus becomes trapped in its regio and is considered lost. 1123 Covenant of Requies Aeterna founded by Donatores magi. 1124 Covenant of Lixivia disbanded. Covenant of Alcuin’s Auberge founded. 1127 Geoffrey V of Anjou marries Matilda, daughter of Henry I of England. 1129 14th Grand Tribunal of the Order of Hermes. Normandy’s ruling on the border between itself and the Provençal Tribunal is upheld. 1130 Pope Innocent II takes refuge in France. 1134 A huge tidal wave strikes and reshapes the coast of Flanders; Bruges regains access to the North Sea. 1136 Covenant of Moles Magna is founded. 1137 Louis VII “the Young,” the second son of Louis VI, is crowned king and marries Eleanor of Aquitaine. 1144 Geoffrey V of Anjou conquers Normandy and becomes its duke. 1146 – 1147 The Second Crusade, preached by St. Bernard of Clairvaux. 1151 Henry Plantagenet, son of Geoffrey V of Anjou, inherits Normandy. 1152 Henry marries Eleanor of Aquitaine. 1154 Henry becomes Henry II, King of England; beginning of the Angevin Dynasty. 1158 Covenant of Infelicitas is abandoned. 1162 15th Grand Tribunal of the Order of Hermes. 1163 Construction on the Cathedral of Notre-Dame in Paris begins. 1166 Covenant of Nauche-Fleur is abandoned. 1180 Philip II “Augustus” is crowned''
@@ -185,36 +184,36 @@
 ''comes king. 1228 The Sixth Crusade. 17th Grand Tribunal of the Order of Hermes. Papal ban on teaching of Aristotle at the University of Paris. 1229 End of the Albigensian Crusade. 1235 The pope grants the cathedral school of Orléans the status of university. 1248 – 1254 The Seventh Crusade. 1250 The university of Angers is''
 ''formed. 1258 The Treaty of Corbeil, settling territorial claims between France and Aragon. 1261 18th Grand Tribunal of the Order of Hermes. Jacques Pantaléon, son of a cobbler from Troyes, becomes Pope Urban IV. 1263 Single currency adopted by the kingdom of France. 1265 Guido Le Gros from Saint-Gilles''
 ''becomes Pope Clement IV. 1270 The Eighth Crusade. Philip III becomes King of France. 1281 Simon de Brie from Touraine becomes Pope Martin IV. 1285 Philip IV “The Fair” becomes King of France. 1294 19th Grand Tribunal of the Order of Hermes. 1297 King Louis IX canonized as St. Louis.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Languages in France==
 
 ''The following Living Languages are spoken in France and bordering lands. Each consists of several distinct regional dialects, which are given in parentheses; most characters should take the appropriate one as a specialty. Educated or well-traveled speakers will have tried hard to rid themselves of their dialect, and may have standard specialties (see ArM5, page 66).''
 ''French (Orleanais, Norman, Picard, Walloon, Champenois, Bourguignon, Lorrain, Poitevin) Occitan (Gascon, Limousin, Auvergnat, Provencal, Catalan)''
 
-|]
+|}
 
 ===Breton===
 
 ''Low German (Frisian, Flemish)''
 ''French, the group of dialects also known as the Langues d’Ouiel, is spoken throughout most of the tribunal. Orleanais is the dialect of the Ile de France, including Paris. Those from other parts of the country who need to communicate with the nobility also speak this language. This includes many merchants and trades persons. Picard and Walloon are spoken in the northern-most region — Picard to the west and Walloon in Lower Lorraine. Frisian and Flemish are used in the far north. Lorrain is spoken in Upper Lorraine. Champenois is the dialect of the Champagne. Bourguignon is that of Burgundy. The Norman dialect is spoken in Normandy and the eastern parts of Brittany. Anglo-Norman, as spoken by the ruling classes in England and those in England involved in overseas commerce, is very closely related to the Norman dialect and a very similar dialect of French is spoken in the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Channel Islands, also. Poitevin is the dialect of Anjou and western Aquitaine. In the rest of Aquitaine, dialects of Occitan (also known as Langues d’Oc) are spoken; in the central region it is Limousin, and Auvergnat further east. Breton is spoken in all but the eastern region of Brittany; it is closely related to Cornish and Welsh. The Occitan dialects of Gascon, Provencal, and Catalan are spoken by people living beyond the southern borders of the Normandy Tribunal. Educated people speak and write some Latin, as usual. It is rare to find a book written in anything other than Latin, but accounts and letters are sometimes written in other languages. Breton is the only one that is hardly ever written.''
 
-|]
+|}
 ''Same language, different dialects: –1 penalty to both speakers French vs Occitan: –2 penalty to both speakers Breton vs Cornish: –1 penalty to both speakers Breton vs Welsh: –2 penalty to both speakers French (Norman) vs Anglo-Norman: –1 penalty to both speakers Low German vs English: –3 penalty (only –2 if Frisian dialect) to both speakers''
 ''The other pairs are so distinct from each other that comprehension is likely to be based on signing and good guesswork, or magic. Example: A character from Normandy with French 5 (Norman) speaks to fellow Normans with an effective score of 6, French speakers with no dialect with an effective''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''score of 5, Parisians with an effective score of 4, all Occitan speakers with an effective score of 3, and can communicate with visiting English merchants with ease, as long as they speak Anglo-Norman (effective score 4).''
 
 ==Lists of Names==
 
 ''Lists of suggested medieval names suitable for characters from the Normandy Tribunal are given below, for French, Breton, and Flemish. Many French names can also be used for Breton.''
 
-|]
+|}
 
 ===Male Names (French)===
 
@@ -223,19 +222,19 @@
 ===Female Names (French)===
 
 ''Adeline, Agnes, Agnesot, Alison, Ame''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
-==The Lion and the Lily==
+==Appendix B Languages and Names==
 
-
-[|
 
 ==History==
 
 
-|]
+|}
 ''N. F. Cantor (ed.). The Pimlico Encyclopedia of the Middle Ages. Pimlico, 1999. G. Duby. France in the Middle Ages 987-1460. Blackwell, 1991. J. A. Everard. Brittany and the Angevins, Province and Empire, 1158-1203. Cambridge University Press, 2000. R. Fawtier. The Capetian Kings of France, Monarchy and Nation 987-1328. Macmillan, London, 1960. G. Holmes. The Oxford History of Medieval Europe. Oxford University Press, 1992. G. Merion-Jones & Michael Jones (ed.). Manorial Domestic Buildings in England and Northern France. Occasional Papers of the Society of Antiquaries of London, Vol.15, S.A.L. London, 1993. A. McCall. The Medieval Underworld. Sutton Publishing, 2004. G. Parker (ed.). The Times Atlas of World History, BCA. Times Books, 1994.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Legend==
 
@@ -244,17 +243,24 @@
 ==Travel Guides (Geography, Local History, and Legends)==
 
 
-|]
+|}
 ''J. Dodd. The Rough Guide to Dordogne & the Lot. Rough Guide Travel Guides, 2004. J. McConnachie. The Rough Guide to the Loire. Rough Guide Travel Guides, 2004. A. Tillier. Paris (Eyewitness Travel Guides). Dorling Kindersley, 2002. Michelin Green Guides: Alsace Lorraine Champagne2001, Atlantic Coast 2005, Auvergne''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Rhône Valley 2004, Belgium Grand Duchy of Luxembourg 2004, Brittany 1995, Burgundy Jura 2006, Châteaux of the Loire 2000, Dordogne Berry Limousin 1998, Normandy 2006, Northern France and the Paris Region 2001. Michelin Travel Publications.''
 
 ==Internet Sources==
 
 
-|]
+|}
 ''The Catholic Encyclopedia: http//www.newadvent.org/cathen/ The Internet Medieval Sourcebook: http://www. fordham.edu/halsall/sbook.html Medieval France Maps: http://www.pitt.edu/ ~medart/menufrance/mapsmain.html Medieval Naming Guides — French: http://www. s-gabriel.org/names/french.shtml The Megalithic Portal: http://www.megalithic. co.uk/ Wikipedia: http://en.wikipedia.org/wiki/ Main_Page''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+
+==Appendix C Bibliography==
+
+
+|}
 ''line, Amelot, Anne, Aude, Blanche, Catherine, Chrestienne, Clarisse, Collette, Denise, Denisette, Dorian, Edine, Emmelot, Florence, Genevote, Gervaise, Guillemette, Guillette, Guiote, Honnorée, Ide, Isabelle, Jaqueline, Jaquette, Jehanne, Jehannette, Joie, Juliote, Loyse, Lutisse, Mahault, Margot, Marguerite, Marie, Marion, Martine, Mathilde, Mesot, Mirabelle, Nicole, Odette, Oudine, Pasquette, Pernelle, Perrette, Perotte, Philippote, Plantée, Poubelle, Rixenda, Serena, Sybille, Symonne, Typhainne, Ysabeau, Ysabel, Ysabelet.''
 
 ===Male Names (Breton)===
@@ -274,5 +280,6 @@
 ===Female Names (Flemish)===
 
 ''Aghete, Agnes, Alene, Alijt, Alisa, Annen, Aue, Auesote, Bela, Bata, Beatrix, Berta, Clemense, Elisabeth, Ermgart, Flore, Gele, Gertruid, Grieta, Haedwien, Heile, Helwigis, Hildegard, Iseburg, Johanna, Jute, Katrine, Kristine, Ligardis, Lisebette, Machteld, Marie, Matilde, Mabelie, Margareta, Mette, Nannen, Pernele, Reynildis, Sara, Siburg, Sophia, Sybillie, Tetta, Thedwi, Ude, Weindelmode, Yde, Ysabella.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

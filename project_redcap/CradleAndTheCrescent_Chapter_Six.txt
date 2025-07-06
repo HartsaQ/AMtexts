@@ -11,8 +11,6 @@
 ''Arabia contains three major deserts: the Nefud Desert to the north, the Empty Quarter to the south, and the Dahna corridor that links the two. These deserts present a range of hazards that must be overcome if characters are to travel safely within them. The sun burns hot in the deserts, meaning that characters need to take precautions against heat and sunstroke. This includes covering their skin to avoid sunburn and carrying adequate supplies of water to stave off dehydration. The De''
 ''privation check time for lack of water is reduced in the deserts to 4 hours, while the sunlight does +1 non-combat damage if skin is left exposed (see ArM5, pages 180–181). Another (usually natural) hazard is dry quicksands, which can swallow a man and his mount in seconds. If a character steps on one of these, he begins to sink immediately and is pulled under within two rounds. Death from suffocation follows if he is not rescued (again, see ArM5, pages 180–181). A character who is caught in an area of dry quicksand may make a Strength or Quickness stress roll against an Ease Factor of 9 in''
 
-[|
-
 ==Zawba’a, Whirlwind of the Desert==
 
 ''Magic Might: 18 (Terram) Season: Summer Characteristics: Int –2, Per –1, Pre –3, Com –1, Str +3, Sta +3, Dex +2, Qik +2 Size: 0 (+1 in material form) Confidence: 1 (3) Virtues and Flaws: Magic Spirit; Jinni; Greater Immunity (heat), Ways of the Deserts; Berserk, Keen Vision, Second Sight, Wilderness Sense; Blatant Magical Air, Driven (to kill), Greater Malediction (bound by bargains), Magical Air*; Baneful Circumstances (in contact with iron) Magical Qualities and Inferiorities:''
@@ -21,16 +19,14 @@
 ''The zawba’a is a bloodthirsty jinni of the Arabian deserts, which takes delight in slaying anyone unfortunate enough to stray across its path. It is, however, a rather single-minded creature and is unlikely to adopt any tactic beyond the frontal assault, making it relatively easy to outwit. Some experienced sahirs are able to bargain with zawba’a and bind them as servants using the khadim bond (see Chapter 3: The Order of Suleiman). Such sahirs often use these desert jinn as a form of travel — the sight of a powerful sorcerer being carried across the landscape by a whirling sandstorm instead of a mundane mount strikes respect into even the most powerful of mundane rulers!''
 ''Story Seed: Death by Zawba’a?''
 ''The characters are called in to investigate a murder. The victim was found flayed to death in his chamber, which was covered in a fine layer of sand. Investigating, the characters uncover a plot by a shadowy cabal of sahirs from a minor Islamic sect who have learned to bind the zawba’a, deadly jinn whirlwinds, to their service. The sahirs use them as weapons against their political enemies, unleashing them on unsuspecting victims. Is this what happened here, and if so, who was responsible?''
-
-|]
 ''the first round to leap or pull himself free before he sinks a significant distance, with a botch indicating that his arms are trapped in the following round. Thereafter it is up to his companions to help him escape its clutches, though if his arms are free he may assist in the second round, reducing any further Ease Factors that he may have to roll against by 3. Thereafter he has been pulled under and is not able to help. Characters also must be wary of brigands, who prey on caravans crossing the deserts. They are likely to avoid a caravan that is clearly well-guarded, but this depends on how desperate they are for goods to support themselves. Sandstorms may suffocate travelers or even strip the flesh from their bones. These may be natural, created by the magic of malevolent sorcerers or the manifestations of elemental jinn. The zawba’a, detailed in the nearby insert, is an example of a malicious jinn of whirling sand. Various other desert jinn and demons seek to harm unwary travelers. In some cases they may use powers that affect the mind or conjure illusions, presenting travelers with visions of lush, palm-filled oases where they may quench their thirsts. A character may only realize that she has been deceived when she takes her first long draught of water, only to find her mouth full of sand.''
 
 ==The Bedouin==
 
 ''Although the nomads of northern Arabia have nominally all converted to Sunni Islam, remnants of their pre-Islamic culture or code, known as muru’a, have survived. The importance of hospitality (diyafa), courage (hamasa), and honor (sharaf for men, ird for women) remain paramount and color aspects of even urban Arab society. Forgiveness, loyalty, and self-sacrifice are also integral concepts. The Bedouin tribes still revere the camel above all animals, according it''
 ''greater respect than even the magnificent Arabian horse or their prized falcons. Most Arabian sahirs belong to a Bedouin tribe and comparatively few dwell within cities or formal buyut, preferring to form alliances along tribal kinship and bloodlines. Due to the rich sources of vis in the area, the Bedouin wizards are heavily involved in magical trade with their urban sahir cousins, exchanging vis for rare books on the Solomonic Arts or even personal teaching. Bedouin characters may have Personality Traits or Personality Flaws that reflect these cultural legacies. The Minor Flaw Dutybound (Bedouin code) is all but universal among Bedouin characters and reflects a general obedience to these customs. Rare characters from the deep deserts may even have the Pagan Major Flaw. Many Faerie jinn mimic aspects of Bedouin culture, particularly the less powerful creatures referred to as jann. Most of the nomadic tribes have jinnblooded elders, are advised by wandering sahir viziers accompanied by powerful ‘afrit or marid servants, and count families of true Faerie jann among their blood kinsmen. Such jinn most often take the shapes of animals beloved of the tribes: camels, falcons, saluqi hounds, or the noble Arabian horses. The ancient Jurhumite tribe, former rulers of Mecca in pre-Islamic times, contains only dark Faerie jann-blooded members and still refuses to submit to Islam. Several other''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Saluqi==
 
@@ -42,7 +38,7 @@
 ''The Bedouin are known for their fine horses, but also use dromedary camels in war and trade. Their jinni cousins may ride more exotic mounts such as giant ostriches, leopards, or even stranger beasts. For a mundane Arabian racehorse, use the statistics for the Courser given in the Book of Mundane Beasts (see Realms of Power: Magic, or the Atlas Games website) and add the Imposing Appearance x2 Quality and the Great Quickness Minor Virtue, raising the beast’s Presence to +1 and Quickness to +3. Similar Arabian steeds bred for war or other roles can be created using the base Destrier or Charger as templates and adding the''
 ''aforementioned traits. For a single-humped dromedary camel, use the statistics for Bactrian camels (Chapter 9: On the Silk Road) with the following modifications: decrease Strength to +1 and Stamina to +3, and increase Dex to 0. Drop the Long-Winded Virtue and the Feral Scent Flaw. Drop the Hardy Quality and decrease Fatigue Levels by one. Reputation is Cranky +1 (much of Arabia). Change combat statistics to: Init 0, Attack +4, Defense +2, Damage +2 and Soak +3. Change to Survival 3 (home terrain). Full statistics for dromedary camels are given in Magi of Hermes, pages 10–11.''
 
-|]
+|}
 ''tribes from the ancient times are believed to live on in Bedouin memory as clans of Faerie jinn,such as the Jadis, the tribe of Tasm and the Thamudites Regardless of whether he is human or jinn, Muslim or pagan, a member of a Bedouin clan owes absolute loyalty to his clan first, his family second.''
 ''Bedouin Wizards''
 ''A disproportionately large number of Bedouin possess supernatural ability when compared to the town dwellers in the settled parts of Arabia. It has been noted that Bedouin sahirs are more often Gifted than their fellows in other areas of the Mythic Middle East. Such sahirs typically specialize in either Solomonic Storytelling or Solomonic Travel, although some Bedouin''
@@ -50,8 +46,6 @@
 ''in Realms of Power: Faerie, pages 117–118, may be equally appropriate. Details on Arabian poets are given in the sidebar on Arab Poetry later.''
 ''Brothers of the Tribe''
 ''Knowledge of muru’a is treated like a non-Hermetic Mystery Cult Organization Lore that can be learned like any other Ability. It is used to initiate various Faerie-aligned Supernatural Virtues of value to a desert nomad using the rules found in The Mysteries: Revised Edition, pages 8–20, with the tribe’s hakima acting as Mystagogue. The following Virtues can be initiated and are commonly possessed by exceptional Bedouin: Animal Ken, Art of Memory, Arcadian Travel, Cursing, Death Prophecy, Dowsing, Enchanting''
-
-[|
 
 ==Pagan Deities of Arabia==
 
@@ -61,13 +55,9 @@
 ''The nature of such old deities may vary and multiple entities bearing the same name can be found within miles of each other, but with widely different realm alignment and power. The benevolent version of Wadd venerated by a tribe from northern Najd may be an aloof Magic jinni, while the vengeful Infernal incarnation of the same deity feared by tribes in Uman may be a False God trying to subvert the nomads away from their faith. Others may be Faerie jinn woven out of the stories told by the Bedouin at their night fires about such fantastic natural locations. The weakest may be no more powerful than a minor elemental jinn with a Might score of less than 10, whereas the spirits of larger and more isolated landmarks may have Might scores approaching 50.''
 ''Story Seed: The Stone Lovers''
 ''A group of magi or sahirs wishing to settle a pair of uniquely shaped rock outcrops in a remote Magic aura inadvertently offend the local Bedouin tribe, who consider the stones ‘ashiras and thus part of their tribe. Their legends tell of two giants, Aja and Salma, banished lovers who dwelt for five hundred years at the site, slowly transforming into the vaguely human-shaped stone sentinels of today. The tribe fears that the wizards will awaken the spirits of the ossified giants or draw the attention of the dark Faerie and Infernal jinn that haunt the outcrops at night. To settle in the area or access vis from the site, the characters must not only deal with the representatives of the local tribe, but also the evil jinn that haunt it. Frequent magical activity may awaken the sleeping giants, who may not respond favorably to the interlopers depending on whether they are elementals, demons, pre-Islamic jinn or even cursed humans.''
-
-|]
 ''Poetry (as Enchanting Music), Entrancement, Greater Immunity: Thirst, Puissant Arabic, Spiritual Pact, Ways of the Desert, and Wilderness Sense.''
 ''Initiation scripts vary from tribe to tribe, but typically involve Ordeals related to the central concepts of the Bedouin code and inflict Major or Minor Personality''
 ''Flaws that reflect these tenets: Generous, Higher Purpose, Overconfident, Oversensitive (to breaches of honor), Proud, Vow (always keep your word), or Weakness.''
-
-[|
 
 ==Falconry in Arabia==
 
@@ -82,22 +72,20 @@
 ''Story Seed: The Seven Falcons of Lukman''
 ''Legend tells of the longevity of Lukman. One day, the son of ‘Ad heard a voice calling to him and discovered a nest with two falcon fledglings. Choosing the stronger, he brought it up as his''
 ''boon companion. The falcon lived for a full 80 years and the falconer aged not a day. When it died, he returned to the nest to discover another fledgling, which lived another 80 years. Once again, Lukman retained his youth. He repeated this another five times, growing sadder with the passing of each successive hawk. The seventh falcon he named Lubad, “the accumulation of all times,” and when it passed, the weight of five centuries crashed down on Lukman and he finally died. The nest lies within a Magic regio, accessible only after an arduous climb in western Arabia. Each fledgling, if raised and trained as a companion, grants its trainer immunity from all Aging rolls for a fixed duration of 80 years. Each year, the owner gains a single Warping Point. The falcon’s boon is incompatible with standard Hermetic Longevity Rituals or similar magic. Once the falcon dies, the owner suffers from the Age Quickly Flaw until he raises the next hatchling. Unlike a normally fragile hawk, the bird does not need to make Aging rolls until it reaches 80 years old at which point it suddenly dies without a roll. The bird has a Magic Might of 8 and the Unaffected by The Gift Minor Virtue. It can be slain or die by other mundane means. The tale of Lukman reaches the characters and they may wish to gain the secrets for themselves or to see if the bird’s power may provide insight into a potential Longevity Ritual Breakthrough. Unfortunately, the current falcon has been trained by a Bedouin sheikh who is unaware of his magnificent hawk’s value. The wizards may try to slay the immortal hawk and then follow its aggrieved owner to the secret location of the nest, but risk the ire of the tribe’s sahirs and their jinn allies. Even if they defeat or compensate the sheikh, will the bird accept a foreigner ignorant of the Bedouin code of honor?''
-
-|]
 ''Story Flaws such as Close Family Ties, Dependent, Enemies, Feud, Pagan, and Oath of Fealty may also be appropriate for Bedouin characters. European characters who seek to gain such Virtues may seek out the Bedouin and petition for membership of a tribe. Foreigners that demonstrate values admired by the Bedouin may be invited into the clan and eligible to undergo such ceremonies, forging a blood kinship with a nomad tribe and gaining both Dutybound (Bedouin code) and the Close Family Ties (adopted Bedouin clan) Flaw. To the Bedouin and their jinn allies, this bond of clanship (‘asabiyya) supersedes all other loyalties. This may create difficulties for Hermetic magi when their adopted clan’s interests do not align with those of their covenant or the Order of Hermes as a whole and they are forced to sacrifice either the Code or relations with their new kin. The Quaesitors may come looking for the transgressor, only to come face to face with a fully armed tribe of jinn-blooded Bedouin backing up the renegade, or that same tribe may turn up at a covenant, looking for vengeance.''
 
 ==The Najd and Yamama==
 
 ''The Najd and Yamama regions take the form of a high plateau that slopes down from the west to the east. Yamama is covered with a plethora of oases, making it home to a large number of settlements where the main form of subsistence is agriculture. The Najd is more mountainous and rockier, so settlements tend to be found in the valleys where the inhabitants make use of run-off rainwater. The majority of the population of the region is nomadic Bedouin, though the populations of some of the urban centers are quite large. Two ancient tribes of Faerie jinn — the Jadis and the Tasm — still wander through this area and are known for their unusual wares, unimpeachable honor, and offering the most marvelous hospitality.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Kohl==
 
 ''Various myths tell of the origin of kohl, the black or blue powder, made from frankincense and other spices, used by women all over the Mythic Middle East as eye makeup. Many attribute its origin to the jinn, as the powder can be readily purchased from the stalls of the hidden race within the bazaars of Golden Baghdad, although the price is seldom in money. In Yamama, they tell a legend about a blueeyed witch named Zarqa al-Yamama who was blessed with vision so keen she could see a man approaching thirty miles in the distance. In ancient times when the country was still called Tasma and Jadis, she was killed by an invading Yemenite king who ordered his physicians to examine her eyes to discover the secret of her magical vision. Her eyes were found stained and smudged with kohl.''
 ''The most common magical kohl in Arabia is equivalent to a potion created by Bedouin folk witches, and confers the Minor Virtue Second Sight on a character for Sun duration when applied. Other formulations of kohl have been noted to confer differing Virtues related to enhanced sight: Keen Vision, Magic Sensitivity, Piercing Gaze, and Wilderness Sense. Ability scores granted by magical kohl have a typical score of 2 or 3, equal to the folk witch’s Brew Potency/5 (round up) as detailed in Hedge Magic, pages 41–42. Sahiras or Hermetic magi may use such substances for their enchantments. Kohl powder has a Shape and Material bonus of +3 to affect vision. Its main component is ground from charred resin, usually frankincense obtained from southern Arabia (see later).''
 
-|]
+|}
 
 ==The Cradle & The Crescent Tayma’ and Khaybar==
 
@@ -108,8 +96,6 @@
 
 ''The region of Bahrayn, consisting of both the eastern coastal territories of Arabia and islands off the east coast, has had a checkered past. Perhaps its most notorious rulers were an Isma’ili (is-ma-’EE-lee)''
 ''Shi’i group known as the Qarmatians (qar-MAW-tee-anz), who reigned in the region from 899 to 1076. In 930 the Qarmatians sacked the holy cities of Mecca and Medina, stealing the Black Stone from the Ka’ba. It was returned under mysterious circumstances in 951, left wrapped in a sack in the major mosque in Kufa with a note saying, “By command we took it, and by command we have brought it back.” The Fatimids (FAW-ti-midz), an Isma’ili Shi’i dynasty who ruled in North Africa at the time, are generally credited with having persuaded the Qarmatians to''
-
-[|
 
 ==Story Seeds for the Najd and Yamama, Bahrayn, and the Empty Quarter==
 
@@ -123,8 +109,6 @@
 ''The Valuable Quarter''
 ''Due to the ease in which travelers can seemingly enter the Twilight Void and the Magic Realm, this area is sometimes known as Rub’ al-Ghali, the Valuable Quarter, among local sahirs and the few Hermetic magi who have learned of its existence. Potentially vast resources of vis and magic from the Magic Realm are within the grasp of even the most inexperienced wizard, but unfortunately for the hopeful, returning to the mundane world does not appear to be''
 ''as easy as leaving. Would-be explorers would be advised to secure some sure means of return or risk becoming lost in the eerie landscape for many lifetimes, perhaps even forever. Those who return often come back irrevocably changed and Warped — instances of mundane characters returning initiated into Sihr and one or more of the Solomonic Arts are not unheard of, but these unconventionally initiated sahirs are never fully trusted by their fellows. Criamon magi speculate that the Empty Quarter may contain a means to pass between this world and the Counter-Cyclical Alam. Merinita contend instead that the provinces of the Empty Quarter encircle a hidden entrance to Arcadia where reflections of the ancient deities of Arabia lie trapped — whether by God, Iblis, or some Magic entity. Perhaps both or neither are correct, but the joint sponsorship of a Hermetic expedition to investigate the Empty Quarter has recently been agreed on and the two Primi are looking for young magi willing to investigate the rival claims. Some sahirs speculate that al-Hajjar and al-Zill, two of the early contributors to Solomonic Magic, may have disappeared into myth in this manner, and will one day return from their extensive wanderings like King Baluqiya of old, confirming the speculations of Islamic theology on magical kingdoms beyond the known world.''
-
-|]
 ''return the stone, but no-one knows for sure. Whatever the truth of this, the Black Stone was broken into seven pieces as a result of its travails, and it is now held together with a silver band. The Qarmatians’ reign ended when they were ousted by the Sunni Arab Uyunid dynasty, who rule the region in 1220, but some Qarmatians still live in the area.''
 
 ==Hajar==
@@ -163,8 +147,6 @@
 ''and including Mecca and Medina (see Non-Muslims and the Holy Cities, earlier), but it is also used to indicate the Haram Mosque specifically. The divine influence on Mecca is clear: the climate is supernaturally mild, vegetation grows lush but never wild, and a sense of peace pervades the streets. As in Medina, all Dominion auras in the city are one point higher than they would be normally. Mecca is always densely populated. In addition to the townsfolk who serve the city’s needs, many religious scholars live and work in the Haram Mosque and the''
 ''other religious buildings here. In addition, the city sees constant traffic as pilgrims arrive, stay for periods ranging from a couple of weeks to a few years, then move on again. The majority of the people who live in Mecca are Sunnis, but there are also a large number of Zaydi (ZAY-dee) Shi’is here. Pilgrims come from almost all Muslim denominations. The city is ruled by a governor known as the Grand Sharif (sha-REEF), a descendent of the Prophet through his grandson al-Hasan and a member of the Hawashim clan; the current Grand Sharif is Qatada''
 
-[|
-
 ==Story Seeds for the Holy Cities==
 
 ''The Lava Flows of Medina''
@@ -179,8 +161,6 @@
 ''Divine aura. The spirit’s remaining magical power preserves the well’s amazingly pure water but it has come to resent its imprisonment by the Dominion. Ancient beyond belief, the Zamzam marid may also have knowledge of the past useful to the characters that cannot be gained from any other source, but how can one discreetly communicate with such an entity within the most holy shrine of Islam? If freed, what would its actions be and how would the Muslim authorities react to such desecration of the ancient spring?''
 ''The Mosque of the Jinn''
 ''A magus of House Merinita hires the characters to conduct an investigation into the Mosque of the Jinn at Mecca, demanding that they provide an extensive report on its denizens and visitors in the hope of understanding how and why such Faerie creatures seemingly ape the worship of the Dominion without producing a Divine aura. The normally hospitable Jinn become considerably less enthusiastic when it becomes apparent that the characters are there to observe, rather than take part in Muslim worship, since it is from human participation in the latter that the jinn derive vitality. Many of the jinn object to being treated like lab specimens. How can the characters resolve this situation without upsetting either their hosts or their employer?''
-
-|]
 ''(r. 1201–1220). If your saga follows history, in 1220, Qatada, along with many other members of his family, is killed when his son al-Hasan carries out a massacre to ensure his succession. However, the Ayyubid sultan of Yemen, al-Mas’ud Yusuf, steps in to quell the chaos and imposes military rule. The Grand Sharifs only regain control after the sultan’s death in 1229.''
 ''The Haram Mosque and the Ka’ba''
 ''The Haram Mosque is the most sacred of mosques, the building that holds the Ka’ba, the shrine built by Adam under the guidance of angels, and subsequently rebuilt by Abraham and his son Ishmael. It takes the form of a rectangular courtyard, around which are highly-decorated open halls supported by multiple rows of columns. Off the northwest hall is the Dar al-Nadwa (DAHR un-NAD-wa), a building constructed around a second hall, where consultation is carried out between religious scholars and the Grand Sharif. Off the southwest hall is a building used by scholars of the Maliki legal school. The mosque has twenty gates and seven minarets. The Dominion aura here is overwhelming, with a score of 10. Muslim characters may invoke baraka here to request any of the Saint Powers listed in Realms of Power: The Divine, pages 88–89; if required, the site counts as having Divine Might of 100. The Ka’ba itself takes the form of a cuboid shrine, about 40 feet on each side and 46 feet tall. Although it is richly decorated, the upper parts of the walls''
@@ -190,15 +170,15 @@
 ''Say (O Muhammad): It is revealed unto me that a company of the Jinn gave ear, and they said: Lo! We have heard a marvelous Qur’an, Which guideth unto righteousness, so we believe in it and we ascribe no partner unto our Lord. And (we believe) that He exalted be the glory of our Lord hath taken neither wife nor son, And that the foolish one among us used to speak concerning Allah an atrocious lie.''
 ''— The Qur’an 72: 1-4''
 ''On the northern edge of Mecca is the cemetery of al-Ma’la, where many of the Prophet’s family members and followers are buried, including Amina, his mother; Khadija, his first wife; and ‘Abd al-Muttalib, his grandfather. Near the cemetery is a mosque known as the Mosque of the Jinn, where a group of jinn heard the Prophet reciting the Qur’an and were thereby persuaded to convert to Islam. The mosque has since become the apparent center of jinn worship of God, and they continue to gather publicly at this place, so that at prayer times, and especially at the Friday noon prayer, it bustles with Faerie jinn of all manner of shapes and sizes. Even the mosque officials are undisguised jinn. Unspoken convention requires that all jinn attending prayers avoid assuming forms that are too monstrous or so large as''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Hajj==
 
 ''The hajj is one of the five “Pillars of Islam,” five practices that mark someone as being a Muslim. All Muslims are obliged to perform the hajj at least once during their lifetime, if at all possible. For most who undertake it, it is a life-changing event, often leading them to abandon inappropriate practices and make a new start in life.''
 ''Details of the hajj are presented in Realms of Power: The Divine, page 108. A Muslim who has completed the hajj gains a Personality Trait of Pious +3. The Muslim also gains 3 Faith Points. It is possible to undertake the hajj again to regain the Personality Trait and Faith Points, but repeated performance of the hajj will never raise the Personality Trait above +3.''
 
-|]
+|}
 ''to take up too much space in the mosque. A few humans also attend prayers at the mosque, interacting freely with its supernatural inhabitants. Respectful mortals, including sahirs and other wizards, are always welcomed, if sometimes a bit overenthusiastically. The mosque has a Faerie Aura of 4 which rises to 5 when the jinn are attending prayers.''
 
 ==Ta’if==
@@ -217,8 +197,6 @@
 
 ''Located in the highlands of Yemen, where the air is fresh and the temperature cool, the city of Sana’a is the administrative center of the Yemen-’Asir region, home to''
 
-[|
-
 ==Arab Poetry==
 
 ''Poetry has an important place in Bedouin culture, the earliest examples dating from before the rise of Islam. Thepoet (shai’ir ; not to be confused with sahir) and the reciter (rawi) hold a position combining elements of historian, soothsayer, and panegyrist. Verses in praise of the tribe or sheikh, known as qit’ah, and scathing attacks on the virtue of other tribes, referred to as hija’, form the bulk of the works transmitted through oral tradition. Zajal, mock battles in verse, remain popular as a way of resolving hostilities between Bedouin sahirs. This is mechanically an opposed roll of Communication + Solomonic Storytelling for sahirs, or Communication and Folk Ken for battles between mundanes, but characters with an Arabic score of 6 or greater gain a +2 to their total. Poetry and storytelling remain an integral part of Arab life in the 13th century and it is thought that exceptional performances may produce wondrous effects. The Art of Memory, valued by Islamic scholars for reciting the Qur’an, is believed to have originated among the pagan poets. Enchanting Poetry and Entrancement are common among Bedouin poets, even among non-wizards, and the former is the most commonly initiated Major Supernatural Virtue gained through devotion to muru’a. A fabled example is the irascible satirist, Abu Nuwas, a poet sponsored at the legendary court of Harun al-Raschid, who passed into the myth and legend of Golden Baghdad as a Faerie creature of Elysium, living within the tales of The Thousand and One Nights.''
@@ -227,8 +205,6 @@
 ''by the Faerie Friend, Magical (Being) Companion, or Impious Friend Minor Flaws, depending on the Realm affiliation of the artist. Many ‘abqari possess Enchanting Poetry and the Muse Minor Supernatural Virtues (Houses of Hermes: Societates, page 56). Some of these poets are granted such power over words that they may mimic the Folk Witch power of Cursing or the Gruagach Arts of Give, Blessing, and Curse, reflecting their ability to lampoon and satirize opponents into misfortune through their verse (see Hedge Magic Revised Edition for details of these non-Hermetic powers). Journeying to ‘Aqbar may compose part of an Initiation Script for a member of the Merinita “Keepers of Tales” Mystery Cult, or be of interest to Jerbiton magi or artistic Redcaps passionate about the stories and legends of The Thousand and One Nights.''
 ''Story Seed: The Poetry Festival at ‘Ukaz''
 ''Once a year the small oasis town of ‘Ukaz, situated halfway between Mecca and Medina, holds a poetry competition, a tradition dating back to ancient times. The seven great poems known as the Mu’allaqat (“the Suspended Odes”) that now grace the walls of the Ka’ba had their origin in this fair. Today, the winner’s prize varies from year to year as the sponsorship of the fair passes from one tribe of jinn to another. The prize is always something of great value — one year, the jinn may reward a winner with the secret path to ‘Abqar, another year they may bestow kinship with their tribe for eternity, and yet another they may offer the service of one of their younger jinn as an unconditional servant. Depending on the prize, magi and sahirs may be drawn to the festival, hoping to gain something otherwise impossible to acquire — something vital to their plans. Competition is always fierce, but the poetry is always breathtakingly beautiful.''
-
-|]
 ''the Ayyubid sultan al-Mas’ud Yusuf. It is renowned for its market, the Suq al-Milh (Salt Market), where all sorts of oddities may be found by the persistent, and for the quality of its food.''
 
 ==The Valley of ‘Abqar==
@@ -238,8 +214,8 @@
 ==Ma’rib==
 
 ''To the east of Sana’a lie the remains of Ma’rib, the ancient capital of Balqis (or Bilqis), the Queen of Sheba. It was once ruled by mukkaribs, hereditary priest-kings''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Farida’s Fears==
 
@@ -259,7 +235,7 @@
 ''Why is the food in Sana’a so universally good? The characters gain possession of a cooking vessel from Sana’a and discover that it bears a hedge magic enchantment that makes meals unusually tasty, but that also Warps those who use the vessel over an extended period''
 ''of time. If such cooking vessels are in widespread use, then the entire population of the town may be suffering from Warping effects unawares. Who created these vessels, and do they know of the damage that they are causing the people of Sana’a?''
 
-|]
+|}
 ''of celestial deities representing the sun, moon, and stars: al-Shams, ‘Ilmaqa, and al-Zuhara. Most of the palaces, temples, and gardens lie in ruins now, but the great jinn-built temple of Ghumdam remains, standing in solitary silence and bearing a Magic aura of 6, although smaller less powerful auras are scattered throughout the city, home to pagan jinn that once served the Queen at the bequest of King Suleiman. The great dyke that once held back the waters of the Wadi Udhana, protecting the city from the depredations of the uncontrollable water elementals that plague the river upstream, lies broken in the high mountains. The lands around here could be a good spot upon which to found a covenant, if the characters could overcome the difficulties of supplying such a remote site and the hostile supernatural inhabitants, who bear no love for wizards or summoners.''
 
 ==Hadramawt==
@@ -270,8 +246,8 @@
 ==Frankincense and Myrrh==
 
 ''Both these resinous materials are obtained from gnarled trees that grow predominantly in the fog-wrapped mountains of Hadramawt, although groves can be found in parts of Oman, Ethiopia, and on the isolated island of Soqotra. Harvesters tap the trees, making small incisions that allow the milky sap to exude slowly and then harden into “tears” of sticky resin over three months. The two resins form the main ingredients of incense used throughout the Mythic Middle East and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Nisnas==
 
@@ -282,12 +258,12 @@
 ''Story Seed: An Escaped Nisnas''
 ''The characters come across a nisnas that has escaped from its captors. It begs them to help it get away. This is likely to raise a moral or emotional dilemma for some characters. According to most religious teachings, only humans have souls. Yet this creature seems literally half-human; so does it have a soul? Even if not, will the characters willingly refuse aid to a creature that is begging for them to help it escape from being eaten?''
 
-|]
+|}
 ''Mythic Europe. Myrrh was traditionally more expensive in ancient Rome, although frankincense has always been more popular, and each is worth more than its weight in gold when traded. The resin trees are found on the more inaccessible wooded slopes of the area and guarded by flying serpents known as syrenii (or iaculii). These mundane guardians must be driven off by harvesters with smoke created by burning a similar resinous reagent imported from Anatolia known as storax. Frankincense, literally “incense of the French,” comes from the stunted and hardy mogar tree. It is commonly referred to as olibanum (al-lubban, “that which results from milking”). It is a light yellow resin, often tinted with green, known for its medicinal qualities, in particular its ability to quicken the blood. The quality of the resin depends on the exact climatic and soil conditions, with each tree having a specific time when it produces its best resin. When burned, it gives off a slightly balsamic and lemony fragrance characteristic of incense. The charred resin is one of the main components of the eye-powder referred to as kohl (see earlier). Frankincense resin has the following Shape & Material bonuses: +3 medicine, +5 promote life. Myrrh, in contrast, is a reddish-brown resin, with the best quality specimens being both darker and more translucent than''
 ''inferior examples. It has a sharp pleasant scent and when burned gives off a heavy, acrid smoke with a hint of vanilla. Apart from its use in incense, it is used as an additive in wine, for embalming ointment,''
 ''and in the holy oil used by the Eastern Orthodox Church. Myrrh has the following Shape & Material bonuses: +3 relieve arthritis or inflammation, +5 preservation, +2 sanctify.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Flying Serpent (Iaculus)==
 
@@ -295,7 +271,7 @@
 ''unusually rapid and lethal method of attack. As the ibis is linked to Thoth and therefore Hermes, most Hermetic magi consider an iaculus an ill-omened creature, but at least one Quaesitor uses them as aids to his investigations. Exceptional syrenii are believed to have additional powers allowing them to ignore wards and other protection magic in order to deliver their venom, but these claims have yet to be investigated by Hermetic magi. Their exact relationship to the magical Olibanum Serpents of Soqotra is unclear but the Arabian serpents are much less sociable than their kin and appear resistant to being tamed short of magical means. It is not known wheth''
 ''er the syrenii originated on Soqotra or the more aggressive variety represents a more primitive species that was then imported from the mainland. Syrenii use the base statistics for Adders listed in The Book of Mundane Beasts or Realms of Power: Magic, page 141, modified as follows: increase Quickness to +4; gain ability to fly; add Ferocity (when leaping) and Improved Characteristics Virtues; add the Fast Flyer and Good Jumper Qualities; add Athletics 4 (jumping). Any character who makes a Intelligence + Magic Lore or Intelligence + Arabia Lore roll against an Ease Factor of 9 will recall that these creatures can be scattered by burning the resin of the storax tree.''
 
-|]
+|}
 
 ==Iram, City of a Thousand Pillars==
 
@@ -307,8 +283,6 @@
 
 ''Located at the eastern end of the Arabian Peninsula, ‘Uman’s interior is mostly hot and dry desert, while the coastal mountains and plains are cooler and more fertile, supporting agriculture. The province also forms a channel for trade between Arabia and the Indian Ocean, which is conducted via various ports on its coasts. The majority of the population of ‘Uman follow a variant form of Islam called Ibadism.''
 
-[|
-
 ==Hadramawt and ‘Uman Story Seeds==
 
 ''The Trees That Cry Blood''
@@ -319,8 +293,6 @@
 ''The Witches of Nizwa''
 ''Perhaps the witches of Nizwa are a movement of Infernalists or Faerie wizards who become the arch-enemies of the characters. Banished Soqotran witches may have formed a secret community in exile, or the group may be agents of the Olibanum King trying to discredit and destabilize the Order of Suleiman (see Rival Magic, pages 110–141). The group may even be the last remnant of a tradition of sorceresses privy to the astral magic of ancient Sheba. Alternatively, the rumors may be utterly unfounded, which has interesting implications if the characters have found an attractive site for a covenant near the city, leading to stories, or even a complete saga, based on the theme of overcoming negative preconceptions and stereotypes.''
 
-|]
-
 ==The Cradle & The Crescent Muscat==
 
 ''Perhaps the same as the Crypto Portus (“Hidden Port”) of Ptolemy or the Moscha of Pliny, this coastal town is a prominent trade point for voyages traveling beyond the Mythic Middle East. Many voyagers dreaming of wealth depart, never to return, from its quays. Recently conquered from the Abbasids by the local Yahmad tribe, the city is looking to expand trade further eastwards. It is the home of a large group of sahirs specializing in the Solomonic Art of Travel, who have founded a bayt al-hikma dedicated to discovering the legendary islands encountered in the tales by Sinbad the Sailor.''
@@ -328,8 +300,6 @@
 ==Nizwa==
 
 ''Nizwa is the royal city of ‘Uman, home to the local Nabhanid kings and a center of religion, trade and art. It has numerous beautifully decorated mosques and palaces, as well as bustling markets that are particularly famous for their silver jewelry and finely crafted daggers. Several buyut of sahirs are found within the city and its hinterlands. However, Nizwa also has a darker side, reputed to be the home of witches and sorcerers. Among the deeds ascribed to these are instantaneous travel, achieved by crossing a line drawn in the sand to appear at another location, and, more sinisterly, turning people into mindless slaves by making them appear to die, then taking their “corpses” and controlling them.''
-
-[|
 
 ==Giant of ‘Ad==
 
@@ -340,5 +310,6 @@
 ''Magic Might: 20 (Corpus) Season: Autumn Characteristics: Int 0, Per +2, Pre –1, Com –1, Str +13, Sta 0, Dex +1, Qik –4. Size: +7 Confidence Score: 1 (3) Virtues and Flaws: Magic Human; Improved Characteristics, Magical Champion, Ways of the Desert; Pagan; Anchored to the Desert; (Magical) Animal Companion, Offensive to Spirits. Magic Qualities and Inferiorities: Gigantic x6; Focus Power, 3 points; Monstrous Appearance (free); Acclimation Prone; Susceptible to Deprivation. Personality Traits: Proud +2, Focused –1 Combat: Chisel (as knife): Init –4, Attack +3, Defense –2, Damage +15 Stomp (kick): Init –5, Attack +4, Defense –1, Damage +16 Soak: +3 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–12), –3 (13–''
 ''24), –5 (25–36), Incapacitated (37– 48), Dead (49+) Abilities: Animal Handling 2 (falconry), Arabia Lore 6 (cities), ‘Adid 5 (ancient), Bargain 3 (payment for services), Brawl 2 (stomp), Craft (stonemason) 6, Magic Lore 4 (Arabia), Survival 3 (desert). Powers: Stonesmith, 1–4 points, Init –4, Terram: Duplicates any non-Ritual Creo Terram, Intellego Terram or Muto Terram spell less than or equal to 20th level that affects stone, at a cost of 1 Might point per magnitude of effect. Equipment: mason’s tools, sand-colored Bedouin robes Vis: 1 pawn of Corpus vis in heart, 1 pawn of Terram vis in each hand. Appearance: Towering above the average human, a giant of ‘Ad stands over 30 feet tall but appears much more civilized than the primitive giants of Europe. They have an affinity for falcons and other birds of prey and are usually found accompanied by at least one nesting within their long hair or beard. Lone giants emerge from the deep desert to offer their building skills to sorcerers and emirs, in return for insights into the secrets of eternal life.''
 ''A giant of ‘Ad is balanced as a starting character, albeit a powerful initial Companion option. This character guide has 295 Experience Points available to spend on Abilities and 5 Virtue points free (to be balanced with 5 points of Flaws). His falcon companion may be either mundane or magical, although proportionately larger (up to Size +3) and has its statistics adjusted accordingly.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

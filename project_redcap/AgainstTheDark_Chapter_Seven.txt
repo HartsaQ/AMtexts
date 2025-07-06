@@ -11,8 +11,8 @@
 
 =Networks of Hidden Fortresses=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Plague House==
 
@@ -20,7 +20,7 @@
 ''that sick and injured characters who rest in its hall have a good chance of recovering from almost any ailment. The villagers have since been using the zenodochium as a kind of quarantine. At the first sign of any sickness, the strong men of the village carry ill villagers to the zenodochium, leaving them there and returning after one month to see whether they have survived, or left a corpse to bury. The Tribunal is unlikely to care if the villagers are making use of the zenodochium, as long as they leave it in good repair. However, the grogs may not be aware of''
 ''this, and they may take exception to the presence of this unknown woman. Then again, they may assume that she is a servant, or even a maga, of another oppidum. However, when the village men return to check up on Lucia, they will be surprised by and suspicious of the presence of the magus and his grogs. The plague house is a valuable resource for the villagers, and they will assume that the Gifted magus is trying to damage or interfere with the house in some way. Whether or not Lucia has survived may also help the men decide whether the magus means ill or well.''
 
-|]
+|}
 ''offered the chance to pay his debt by working for the Tribunal. Damaging or destroying a zenodochium is a High Crime, but a magus who arranges without prompting to repair a zenodochium he has accidentally damaged would not be prosecuted. It is important to realize that the Tribunal wants magi to use this resource. So, the Tribunal will not create unnecessary hurdles to the use of a zenodochium, and will not impose strict or harsh penalties on those magi who make mistakes. On the other hand, deliberately damaging a zenodochium deprives all the other magi of their magical resources. This is unforgivable.''
 ''Unfinished Work?''
 ''The zenodochia network was devised during the Schism War. The Tremere generals reasoned that a single hospital oppidum, even if hidden, would eventually be discovered and destroyed. However, although the nodes of a network of tiny hospitals would be individually quite vulnerable, the whole network would be much harder for enemies to destroy. The original logic was also that individual Tremere would only know of the location of a few zenodochia, reducing the risk posed by captured Tremere or traitors. Unfortunately, the ambitions of the wartime Tremere generals may have proven greater than the subsequent resources and dedication of the Tribunal. In theory, there are hundreds of zenodochia. In reality, many were never built. Precisely how many zenodochia exist, and whether the Tribunal is still enthusiastic in 1220 to maintain and expand the network, is left as a decision for your saga. There could be as few as a dozen functioning zenodochia, or there might be hundreds.''
@@ -34,15 +34,15 @@
 
 ''A special officer of the Tribunal, the Curantis, is appointed at each Tribunal meeting,''
 ''for a term that lasts until the next Tribunal meeting. The Curantis’ duty is to travel among the network of zenodochia, checking that each is in order and making repairs, and he is expected to construct at least one new zenodochium during his term of office. The Curantis spends about a season each year traveling the zenodochia network. It is also the Curantis’ responsibility to investigate the cause of any damage to the zenodochia and, if magi are the culprits, to bring prosecutions against them. The Curantis thus has the same legal powers, within the Transylvannia Tribunal, as a Quaesitor, but limited to investigations involving zenodochia. The Curantis receives a generous vis salary from the Tribunal, and he may requisition vis from Tribunal stocks to discharge his duties. The troupe should set the Curantis’ salary to reflect the availability of vis in your saga. The salary should be high, to reflect the fact that the Curantis needs to be a powerful character who is capable of fulfilling the office. Although the Curantis is technically voted into his office by the Tribunal, the election is often unopposed. The Tribunal elders meet prior to the formal Tribunal meeting and usually agree among themselves who will be proposed and supported as the single candidate for election. A character may not serve two successive terms as Curantis. The Curantis is accompanied by his Notary. The Curantis’ Notary is a magus, selected by the previous Curantis, who acts as aedile to the Curantis. The Notary is often a Redcap. Freshly gauntleted magi may also serve this function.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Casting Tablets==
 
 ''Zenodochia contain a number of spells written on casting tablets. Full rules for casting tablets are given in Covenants, page 89–90. Briefly, any magus may cast a spell from a casting tablet. A casting tablet may be used multiple times. Generate a Casting Total as if the magus knew the formulaic spell or ritual, and remember to include Wound and Aura Penalties. The magus cannot vary the spell in any way, and cannot expend vis on the Casting Total, although he must spend the required vis for a ritual spell. If the Casting Total equals or exceeds the Spell Level, then the spell is cast and the''
 ''magus loses one Fatigue level. If the Spell Level is up to 10 levels greater than the Casting Total, the spell is still cast, but the magus loses two Fatigue levels. If the Spell Level is up to 20 levels greater than the Casting Total, the spell is cast and the magus loses three Fatigue levels. If the Spell Level is up to 30 levels greater than the Casting Total, the spell is still successfully cast, but the magus loses four Fatigue levels and gains a Warping Point. Finally, if the Spell Level exceeds the Casting Total by more than 30, the spell is not cast; the magus loses five Fatigue levels, and gains Warping Points equal to the magnitude of the spell.''
 
-|]
+|}
 
 ==Zenodochium Items==
 
@@ -58,8 +58,8 @@
 ''The Hippocratic Staff''
 ''This enchanted staff of twisted hyacinth, encasing an amber gem, is usually mounted above the inner lintel of the hall of the zenodochium. It is invested with two effects. These give the character a +9 bonus to Wound Recovery rolls and a +9 bonus to Disease Recovery rolls. Obviously, a magus character must also lower his Parma Magica in order to be affected. Note that magi who are unconscious cannot cast their Parma Magica, and so it automatically falls at the next sunset or sunrise.''
 ''Wound Recovery Effect CrCo 34 Pen +0, Constant Effect R: Touch, D: Sun, T: Structure''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Minor Covenant Hook: Zenodochium==
 
@@ -75,7 +75,7 @@
 ''Disease Effect''
 ''PeCo 33 Pen +0, 1 use per day R: Touch, D: Momentary, T: Structure This effect activates every dawn and inflicts the ague upon any character in the Room. This has no effect on a character who already has the ague, but if a character is cured or recovers, the disease he will be re-infected if the staff affects him again. The ague causes a Heavy Disease Wound. (Base 15, +1 Touch, +3 Structure; +3 Environmental Trigger)''
 
-|]
+|}
 ''This effect gives characters within the Structure a +9 bonus to Wound Recovery Rolls. (Base 4, +1 Touch, +2 Sun, +3 Structure; +4 Constant Effect)''
 ''Disease Recovery Effect CrCo 34 Pen +0, Constant Effect R: Touch, D: Sun, T: Structure This effect gives characters within the Structure a +9 bonus to Disease Recovery Rolls. (Base 4, +1 Touch, +2 Sun, +3 Structure; +4 Constant Effect)''
 ''The Rite of Healing''
@@ -113,8 +113,8 @@
 ''Most of the time the magi of Kezdö Válasz lead lives much like their fellows. Seasons are spent in the laboratory or library, studying Arts, improving Arcane Abilities, and enchanting items. Different from their fellows, however, is the pledge to leave the fort immediately if a threat arises. As they wait, poised to act, the magi focus on spells and enchanted devices that allow long-distance communication and instantaneous travel. To ensure that they are the first on the scene, the oppidum keeps a network of spies and mundane agents in key positions throughout the Tribunal. Kezdö Válasz has approximately 55 grogs in total. Not all of the mundane staff live at one of the active forts. Many live apart, operating as field agents in courts, cities, and religious centers. Their duty is to keep the magi informed through regular reports. Each magus has a number of rings, bracelets, and small charms that can be used to contact one another. Many of these devices have been enchanted personally, but others have been invented by Leona. Each charm affects the magus in a specific way, and each is constructed with enough Penetration to pass through the magus’ Parma Magica. The magical effects are minor, and are used as signals. For example, Essedarius has a ring that when activated changes his left thumbnail blue. He has given the ring to a custos living in the city of Niš on the Serbian-Bulgarian border, who uses the ring to signal Essedarius if anything is amiss. Other agents who report to Essedarius have similar communication devices, but the minor magical effect is slightly different. If Essedarius’ thumbnail turns blue, he knows that his agent in Niš needs him. Every magus of Kezdö Válasz has a handful of such devices given to his agents and colleagues. Speed is essential and every member of the oppidum has developed ways to move rapidly to distant locations. Norsius originally thought magi should ride horses, a romantic yet impractical notion, and invented spells and enchanted devices that suppressed''
 ''the horse’s revulsion to a Gifted rider. Some current members ride — it is traditional for the leader to ride a horse, and some of the younger members enjoy being in the saddle — but horses are not the quickest means of moving around the Tribunal. The oppidum owns several enchanted devices that instantly transport a magus to different locations using Arcane Connections to those places, and the members are encouraged to learn Rego Corpus spells to accomplish the same method of transportation. While they can’t suddenly appear anywhere, they can instantaneously travel to designated locations.''
 ''Once a year, on the anniversary of the founding of the oppidum (August 12), the oppidum’s magi meet at Fort Sarmizegethusa to exchange information and ideas, and to generally catch up with each other. The meeting usually lasts a week. New members are introduced, if they have not been already, and assigned to a fort. When there are an odd number of members, a fort that normally holds two magi will hold three, the meeting room being replaced with a third Hermetic laboratory. Magi who want to form a vexillation announce their intentions at the annual meeting.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Fort Locations==
 
@@ -127,7 +127,7 @@
 ''In 105, the Roman Emperor Trajan invaded Dacia because the Dacian king Decebalus had broken the terms of a treaty. As the superior Roman army marched toward his palace, Decebalus hid his kingdom’s treasure. He ordered captive Roman soldiers to divert the Sargetias River, and hid the majority of his and his nobles’ wealth in the river bed, sealing the vast quantities of gold and silver in place with stones, and then allowed the Sargetias to return to its regular course. More treasure was hidden in the many grottoes and underground caverns along one stretch of the river. Killing every captive involved in the effort, Decebalus thought his treasure secure. Captive Dacian nobles proved otherwise, and told their Roman conquerors where the treasure was. According to a Byzantine official’s report, Decebalus’ treasure contained unparalleled amounts of gold and silver, and thousands of priceless heirlooms of the Dacian nobility. The''
 ''official’s report also says that the treasure wasn’t recovered, nor does it mention finding the caves that hid Decebalus’ personal goods. Was the treasure buried under the river discovered and then moved, or was it located but not retrieved? The ruins of Decebalus’ palace, Sarmizegethusa, have been found and, in 1220, are used as the foundation for one of Kezdö Válasz’s forts. The Sargetias River and the caves have not been discovered. There is a small river flowing from the western slopes of the Hargitta Mountains that the local Vlachs call the “Vargyas River” which might be the Sargetias. The magi of Kezdö Válasz have not specifically looked for the treasure because it pales beside the amount kept at Lycaneon. But there might be another reason the magi haven’t looked for it: dragons. Slavonic dragons love lining their lairs with gold and silver, and a horde of this size is very likely to have attracted a dragon over the years.''
 
-|]
+|}
 
 ==Against the Dark Magi==
 
@@ -140,8 +140,6 @@
 ''Age: 106 (apparent age: 56) Personality Traits: Quick-tempered +3, Competitive +2, Naturalist +2. Privilege: Cives''
 ''Leona is currently partnered with Essedarius, her former partner Macrobius’ replacement. Of average height and overweight, she also dresses in riding clothes like most of her sodales. An expert at Herbam magic, she gains most of her information from the local flora, asking questions directly from the trees and shrubs in the various areas she visits. Her magical sigil is the scent of lilac, which is stronger with higher magnitude spells. Many assume she is slow-moving and ponderous, but in truth she is quick to act and easily angered. Leona was not with Macrobius when he was slain by a griffin, and she still blames herself for her partner’s death. Tracking down and killing the beast did little to quell her rage, and she persists in hunting the magical creatures. When she can, she prowls the southern Dinaric Alps, focusing on the Prokletije range in southern Serbia. The locals call the Prokletije the “Accursed Mountains,” a name she finds particularly apt since it is where Macrobius fell. She has recently built a fort there, near the source of the Erenick River. Remote and difficult to''
 
-[|
-
 ==Story Seeds for Kezdö Válasz’s Magi==
 
 ''Kezdö Válasz readily accepts young magi as members, both newly gauntleted Tremere and foreign magi who would otherwise be coloniae. It is one of the easier oppida to join, and is an ideal way to introduce new magi to the Tribunal. New members might be paired with other new members or with older magi. They will be placed in a fort, and each receives an equal share of the oppidum’s privileges and responsibilities. New members are not free agents exactly, and must follow the commands of Essedarius, the oppidum’s leader. His agenda is always full, and he will never run out of errands and missions for the younger members.''
@@ -152,8 +150,6 @@
 ''The museum oppidum Tablinum calls for help. A zmaj has entered one of the hidden exhibits, arriving through a previously unknown entrance, or by some power possessed by the dragon. It is destroying the contained items and must be stopped immediately. The hidden exhibit is called “The Bones of the Founders” by the curator, but he will not say more, telling the magi that they should only kill the zmaj, not explore the regio.''
 ''Wrangling a Few New Steeds''
 ''Forever horse-lovers, the magi of Kezdö Válasz desire new mounts. Adulio has heard that a renowned faerie horse called “Golden Sunshine” has been spotted on the plain of horses, a vast area along the upper Danube. He asks the player characters to capture the faerie horse for him, as he is otherwise committed. Actually, Adulio has heard that faerie horses can be more trouble than they are worth, and wants to see what happens if the steed befriends one of the player magi first, before becoming property of the horse’s new owner.''
-
-|]
 ''access, her sodales complain that it is a misuse of Kezdö Válasz’s casting tablets and vis. Essedarius has assured them that it is only a phase, and the fort will be abandoned as soon as Leona’s anger cools.''
 ''Adulio of House Tremere''
 ''Age: 41 (apparent age: 36) Personality Traits: Ambitious +3, Restless +3, Loyal +2. Privilege: Cives''
@@ -162,12 +158,15 @@
 ''Age: 47 (apparent age: 39) Personality Traits: Observant +3, Agile +2, Grumpy +2. Privilege: Socius''
 ''Neculai is a Hungarian native, born in the Carpathian foothills. Found by a migrating Bjornaer magus, he was apprenticed and raised in the Stonehenge Tribunal. Once gauntleted, he yearned for his homeland, and petitioned several Transylvanian covenants for membership. Needing an aedile at the time, Kezdö Válasz quickly accepted his application, to which he reluctantly agreed. Neculai is small-framed and hawkish, with a beak-like nose and hair so black that it seems tinted blue. An Intellego specialist, Neculai can magically speak to almost any bird, beast, and fish. Neculai is a member of Clan Sirnas, the branch of magi within House Bjornaer who serve as protectors and guardians. Always suspicious of House Tremere, and being one of the few non-Latin Houses of the Order, Clan Sirnas keeps a watchful eye on the Tremere magi. Neculai serves these''
 ''interests well, and the clan expects him to return useful reports on the machinations of House Tremere. Personally, Neculai resents this role almost as much as he resents being paired with Adulio. He refuses to act covertly, either for his House or his oppidum sodales. He does not repeat what happens at the Gathering of Twelve Years to his oppidum members, but informs them that he may recount his personal observations at the Gathering, which he has twice attended since joining Kezdö Válasz. These observations may or may not contain Tremere business. Essedarius is unconcerned, saying that House Tremere has nothing to hide and House Bjornaer has nothing to fear. Neculai’s heartbeast is a pern, also called a honey buzzard: a kite-sized, migratory raptor that usually preys on wasp and hornet larva, but will also eat small reptiles, birds, and mammals. Flying is an ideal mode of transportation for the Tribunal’s rugged terrain. Recently, Essedarius has asked Neculai to visit Leona at the remote Prokletije fort, ostensibly to keep her informed of the oppidum’s business but also to keep her under observation.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds for Kezdö Válasz’s Environs==
 
 ''Every seven years, Kezdö Válasz’s magi leave their old forts for new forts. Not every fort is destroyed when the magi leave, and if they think they may use it again, the magi let the fort stand. Even if they never intend to return, if the casting tablet with the Destroy the Fort spell isn’t handy, the magi may just abandon the fort. A few forts lie scattered about in locations that no longer interest the magi of Kezdö Válasz. While all were originally constructed in Magic auras, things change. Some remaining forts rest in Magic auras, a few in Faerie auras, and one or two sit in Infernal auras. Abandoned forts could house new inhabitants. Wandering coloniae who know the operations of Kezdö Válasz might temporarily move into a fort, hoping that the oppidum won’t come visiting anytime''
 ''soon. While it once belonged to the oppidum, they left it. Who owns it now? A story could involve a powerful colonia taking up residence in a fort that the magi of Kezdö Válasz want to re-occupy. Elder magi might ask the oppidum’s newest members (the player characters) to figure out a way to deal with the interloper. Wandering magi are not the only possible squatters. Transylvania is thick with faerie creatures. Giants are always on the watch for a new home, especially if that home is near a local village. Unattended forts in remote mountain locations might suddenly become home to a magical dragon. Forts near human settlements could be taken over by wandering knights seeking refuge or local bandits seeking a hiding spot.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

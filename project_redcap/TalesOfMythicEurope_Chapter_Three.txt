@@ -17,8 +17,8 @@
 ''Characteristics: Int +2, Per –1, Pre –1, Com +2, Str 0, Sta +1, Dex +2, Qik –1 Size: 0 Age: 30 (30) Decrepitude: 0''
 ''Warping Score: 0 Confidence Score: 1 (3) Virtues and Flaws: Venditor; Gossip, Venus’ Blessing, Warrior, Well-Traveled; Enemies, Overconfident; Busybody Personality Traits: Loyal (to his mission) +3, Overconfident +3, Inquisitive +2 Combat: Dodge: Init –1, Attack n/a, Defense +1, Damage n/a Dagger: Init –1, Attack +7, Defense +2, Damage +3 Short sword: Init –1, Attack +12, Defense +7, Damage +5 Throwing knife: Init –1, Attack +8, Defense +4, Damage +2 Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Artes Liberales 1 (geometry), Athletics 3 (running), Awareness 2 (searching), Bargain 4 (enchanted items), Brawl 2 (dagger), Carouse 1 (staying sober), Charm 4 (first impression), English 3 (vulgarities), Etiquette 3 (tribunal gatherings), French 3 (tavern jargon), Folk Ken 1 (magi), Guile 3 (lying to customers), Intrigue 2 (Verditius vendettas), Italian 5 (merchant terminology), Latin 3 (travel guides), Normandy Tribunal Lore 2 (covenants), Order of Hermes Lore 3 (personalities),''
 ''Sardinia Lore 3 (Verdi), Single Weapon 6 (short sword), Thrown Weapon 4 (throwing knife) Equipment: Besides his clothing, Piccardo carries a sword, dagger, and throwing knife. Aboard ship he has his traveling gear, including a blanket, cloak, and other necessities for the road. Encumbrance: 1 (1) Vis: Piccardo carries an allotment of vis with him: 2 pawns of Muto (butterfly wings), 2 pawns of Rego (silkworm bodies), 3 pawns of Animal (boar teeth), 1 pawn of Herbam (white rose petal), 1 pawn of Mentem (gooseberry), and 1 pawn of Terram (obsidian sliver). He also carries a lesser enchanted device that can identify raw vis and indicate its number of pawns, called the Platter of Hermes. The Platter of Hermes is an enchanted ceramic plate with twelve gems set around its circumference. If an item that contains raw vis is placed on the platter, a number of gems will glow equal to the number of pawns contained within the item. If the item does not contain raw vis, no gems glow. If the item contains more than 12 pawns, all the gems glow. (Intellego Vim, base level 4, +1 Touch, +1 Requisites (Creo Ignem to make the gems glow), +3 (6 uses a day) equals a final effect level of 13.)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Changing the Story==
 
@@ -26,7 +26,7 @@
 ''or away from Rome and Toulouse. The latter is the easy change; simply make someplace else Carelia’s and Elena’s homeland. If your voyage is steering away from Rome, Pandulph could be gathering political allies before returning to the pope. Considering his heavy involvement in politics, this is not as odd as it first seems. Yes, he’s rushing to Rome, but first he has to take care of some political business, ensuring an ally or placating an enemy. It doesn’t ultimately matter; the action of the adventure is aboard the ship. The alternative method is to change Pandulph into another NPC. You can use the same stats but might have to make subtle changes to his motivation. Papal legates are appointed throughout Mythic Europe, and their political might varies from a full legate to a mere messenger. His''
 ''evidence — a book he wishes to use to accuse a group of scholar magi of heresy — does not have to be from Cambridge, but any scholastic group that has significance for your saga. Similarly, Piccardo does not have to be returning to Sardinia and the domus magna of House Verditius, but could be taking Argosus to any Verditius magus in any location. If adding a Verditius magus to your saga won’t work, Piccardo could simply be a companion character working for any Hermetic magus. Changing the date a few years will not cause undue problems, even if you wish your saga to follow European history. Historically, Pandulph was not replaced with another papal legate, and Stephen Langton, the archbishop of Canterbury, became the ecclesiastical leader of England. Langton died in 1228.''
 
-|]
+|}
 ''Appearance: Piccardo is portly, round-faced, and jovial. He is quick to smile and his blue eyes beam with an impish gleam. He is well dressed, wearing a striped jerkin of brown and green, dull yellow hose, and a widebrimmed straw hat.''
 
 ==Argosus the Faerie Watchman==
@@ -55,8 +55,8 @@
 ''Carelia is a musician and traveler. She has abandoned the normal way of life associated with a woman in exchange for hardships on the road, suspicion, danger, even death at the hands of an unknown highwayman or drunken''
 ''knight. Yet she perseveres, unwilling to sink into the ranks of mothers, whores, and washerwomen. Love is a foreign emotion to her; love does not fit into schedules, practices, performances, and life on the move. Love, for her, is confined to her notion of independence — of not needing a man, lord, or savior — and to her idea of freeing herself from society’s gender conventions.''
 ''Characteristics: Int +1, Per +2, Pre +1, Com +4, Str –2, Sta –2, Dex +2, Qik –1 Size: 0 Age: 30 (30) Decrepitude: 0 Warping Score: 0 Confidence Score: 1 (3) Virtues and Flaws: Wanderer; Free Expression, Great Communication, Puissant Music, Second Sight, WellTraveled; Dependent (Elena); Noncombatant, Offensive to Animals Personality Traits: Loyal (to being independent) +3, SelfSufficient +2 Reputation: Musician 5 Combat: Dodge: Init –1, Attack n/a, Defense –1, Damage n/a Soak: –2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Athletics 1 (running), Awareness 3 (audience reactions), Bargain 3 (performance remuneration), Charm 3 (potential patrons), English 3 (poetry), Folk Ken 3 (audiences), French 4 (poetry), Languedoc Lore 3 (cit''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Flavor of Love==
 
@@ -64,7 +64,7 @@
 ''within medieval notions of love. Medieval audiences loved the risqué, from the evidence in fabliaux and other poetry. Chaucer’s work, written in the mid-fourteenth century, is rife with lewd references, and paints an earthier, sexual picture of love. Running this scenario with a more explicit tone would still be perfectly within the paradigm of thirteenth century culture. The storyguide should use her assessment of her group in deciding how bawdy this adventure should be. This scenario also assumes only''
 ''heterosexual attractions between characters, again following examples of actual medieval romances. This does not mean that homosexual attachments didn’t exist, or that they can’t be found or hinted at in the corpus of surviving medieval texts. If it is within the players’ zone of comfort, Cupid could arouse romantic feelings between characters of the same sex. Again, a storyguide should use her sense of the group to determine exactly how feelings of romantic love will appear in the game.''
 
-|]
+|}
 ''ies), Music 6 (recorder), Occitan 5 (poetry), Second Sight 3 (ghosts), Stealth 2 (hide), Survival 4 (hills), Swim 1 (rivers), Teaching 3 (music) Equipment: Besides her clothing, Carelia carries a recorder, a thin reed instrument made of wood. Encumbrance: 0 (0) Appearance: Carelia has an almost regal bearing, despite being born from the lower class of society. She wears a tight red dress under a maroon traveling cloak. Her hair is dark and streaked with gray, braided and worn atop her head under a plain white cap.''
 
 ==Elena the Junior Troubadour==
@@ -91,8 +91,8 @@
 ==Expected Sequence of Play==
 
 ''The story begins with the player characters looking for passage aboard a ship. Their reasons for traveling this route should be determined by the storyguide prior to this adventure. This leaves great latitude in deciding the “hook” used to lure the players to this scenario, and should be based on events and happenings in the players’ saga. It could be as simple as a routine voyage, taken regularly to supply the covenant with annual provisions. Perhaps the group is returning home, after another adventure that has taken them far from the covenant. If a recently Gauntleted maga is among the group, the characters could be escorting her. “The Ship of Desire” is short and sweet, as adventures go, and a determined group could finish it in a single game session. Additionally, this scenario can be easily inserted within a larger adventure of the storyguide’s own design, bridging events or providing a travel story between destinations. Folpert plans to sail La main blanche from Dover to Harfleur. Most ships bound for France sail to Calais, the shortest route across the Channel, but Folpert is sailing further south. Although he is not averse to taking the shortest route, Pandulph would rather reach Harfleur, where he has''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Hooks==
 
@@ -100,7 +100,7 @@
 ''acters in. Several Story Flaws can be used to do this, especially those that grant a character a relationship with an NPC who can request their help. Close Family Ties and Mentor both work, with either a family member of the mentor requesting the character to visit or run some waterborne errand. A Dependent that does not live with the character could also re''
 ''quest a visit; perhaps they are being threatened by some mundane force and require the character’s presence. Any faerie-aligned Story Flaws are also appropriate hooks, with the faerie friend, nuisance, or plaguing entity guiding the character to the ship because he has somehow heard of Cupid’s plan.''
 
-|]
+|}
 ''friends waiting for him. The voyage should take approximately three days, if the weather stays clear.''
 
 ==The Docks==
@@ -111,15 +111,15 @@
 ==The Ship==
 
 ''La main blanche is a medium-sized vessel, able to ply rivers and seacoasts as well as hazard the open sea. She is a cog, a flat-bottomed vessel common to the northern seas of Mythic Europe. In sailor’s parlance, she is either a small''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Die Rolls and Roleplaying==
 
 ''Players will naturally want to make Folk Ken, Guile, and Intrigue rolls as they interact with the NPCs. Extensive rules for using these Abilities can be found in Houses of Hermes: True Lineages, page 24. After the player characters have interacted with an NPC, the storyguide should secretly roll a Perception + Folk Ken + stress die for each''
 ''player character. On a result of 9 or greater, inform the player that something does not seem quite right about the NPC. If the roll is 12 or greater, tell the player that the NPC is deliberately hiding something. Use these rolls to plant suspicion, not give away any secrets.''
 
-|]
+|}
 ''cog or a large hulk. Cogs are described on page 84 of City & Guild; a hulk is a smaller vessel, more streamlined and narrower than the tubby cog, although both types of ships are very similar. She measures 22 yards long from stem to stern (front to back), and her deck is 8 yards wide at its waist. Two raised decks or “castles” sit at stem and stern, which provide shelter for the passengers, who will spend the entire journey above deck. The forecastle is approximately 7 yards square and juts out over the bow. The stern castle is 9 yards square, extending slightly over the gunwales and stern. Both castles have closed wooden railings surrounding them, their names obviously taken from the fortress. Stairs allow access to both upper decks. The area underneath the decks is not closed in, only covered, making the sides open and exposed. While some privacy exists for passengers staying under the stern castle, it is minimal. La main blanche has only one deck, below which lies the cargo hold. The deck does not run flush to the ship’s sides, allowing water to drain from the deck to the hold. Everything stored below, from transported cargo and finished goods to the sailors’ daily supply of biscuits and their personal goods, has to be stored in sealed wooden barrels. This is a rather inefficient, but standard practice. The hold is packed as full as the captain can make it, to maximize his profits. On this ship, the captain has 20 tons of finished wool cloth and grain. She is steered by two rudders at the stern, one on either side. A pair of oars stationed at her middle aid in steering, but these oars are ineffectual for forward momentum. For this, she relies on her square sail atop a single mast. Folpert has four crewmen to assist him. In a pinch, he and two additional sailors could maneuver the ship.''
 
 ==The Sailors==
@@ -145,13 +145,13 @@
 ''become aware of any commotion. He could ask the PCs to help him handle any rambunctious passengers. All the while, Cupid stands by, watching the drama unfold. He must physically shoot an arrow to infect someone with love, although when he is in his disguised form, the bow remains invisibly hidden by his disguise power. It looks like he is pantomiming shooting a bow.''
 ''On the third day, Cupid decides that a lovers’ triangle is due, and shoots two different characters, who both fall in love with the same target. One of the shot characters will be a PC. The second is up to the storyguide. If the group can handle the tension of two of them vying for the same beloved, then shoot two PCs. Besides being merely tense, this could turn violent, so think this''
 
-[|
-
 ==The Mechanics of Love==
 
 ''Cupid’s arrows make characters fall head over heels in love with other characters. His hope is that the spontaneous bursting of the heart will suppress a character’s other agendas. If he is successful, characters act against their better judgment, making foolish decisions over sound ones. Instances will occur when the storyguide has to determine how a character reacts when under Cupid’s influence. The love induced by Cupid’s arrows is not permanent, with the effect only lasting for the day. Once struck, an NPC victim receives a temporary Personality Trait of Love +3, targeted at someone of Cupid’s choosing. Each NPC has a Loyal Personality Trait to determine how faithful he remains to his own cause. The target of this Loyalty is also indicated. For example, Pandulph is loyal to his revenge agenda, and Piccardo is loyal to his delivery errand. Each character’s degree of loyalty, +1 to +3, is listed in the statistical information. Whenever an NPC faces the choice of following Cupid’s induced love over his own self-interest, the storyguide should roll two stress dice and add the character’s Loyalty score to one and his Love score to the second. If the Loyalty total is higher, the character is able to diffuse love’s cravings and keep to his agenda. He is still enchanted, though, and this provides merely a temporary victory over foolishness. If the Love total is higher, the character abandons his''
 ''personal motivations to the raptures of love. Cupid can increase a target’s love for another by shooting him again with an arrow, continuing the effect for another day. If a character previously struck is hit again, preventing his amorous feelings from ceasing, his Love Personality Trait is increased to +4. By continuing this feat, Cupid can make a character’s Love Personality Trait reach +6, but no higher. Additional arrows extend the feelings, but the character’s Love Personality Trait will not increase. Also, Cupid is limited by his Faerie Might in the number of arrows he can fire. He uses them wisely. PCs struck by an arrow do not get this chance to momentarily quell the pull of love. NPCs have this ability in order to prolong the mystery of their secrets, rather than having them blurt them out during the first conversation. The PCs do not have secrets intrinsic to the plot, and so must follow Cupid’s love enchantments whole-heartedly. The storyguide should tell the player that his inflicted character is captivated with this new love, and cannot think of anything else. He is compelled to be near her love, craves his lover’s attention, and hangs on his lover’s every word and gesture. “Does she notice me? Is she thinking of me?” Plato called love a divine madness, and the storyguide should encourage a player to obsessively focus on his lover. Not every lover should act the''
 ''same way, however. A bold lover will stride towards his love, while a shy lover might linger nearby and hope he is noticed. An insecure lover frets more than acts, and may prefer secret love notes to face-to-face meetings. Use a PC’s most pronounced Personality Trait to help the player judge how best to act. Ignore a character’s Brave Personality Trait when determining how a character might act. This introspection is designed to force a player to explore the personality of his character. To help a player determine how his character might act, explain to him that what his character wants most is his new lover’s undivided attention. He wants to know all about his new love — her past, her hopes, her future dreams and goals. Due to Cupid’s arrow, the beloved already has the PC’s attention, and he can’t think of anything else except how to get near his love. The PC would like nothing better than to spend the day talking with his lover, walking with her, eating with her, requesting a favor — maybe a silk kerchief, a ring, or some other small, personal effect — and perhaps even stealing a kiss. Since love is blind, and deaf and dumb, the PC disregards any warnings and good advice offered by his companions. He won’t care, for example, that Elena seemed desperately in love with another PC the day before, and will easily construct any sort of reason to explain away her previous actions.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==An Interlude of Gambling==
 
@@ -159,25 +159,26 @@
 ''have additional Chances, based on the chart below. Any other roll means the caster has lost, and must match all the bets placed against him.''
 ''The Azar The Chance  5 5  6 6, 12  7 7, 11  8 8, 12  9 9 Azar is a very common dice game, and its rules will be compiled in 1283 in Libro de los Juegos (“The Book of Dice”), commissioned by Alphonso X, King of Leon and Castile. The game is called Hazard in English, hasard in French, azzardo in Italian, and az zahr in Arabic. The Azar rules presented here are a simplified version of the actual game.''
 
-|]
+|}
 ''through carefully. It is easier for the antagonist to be an NPC, so it might make more sense to shoot a PC and an NPC. Again, the storyguide should use her judgment. This game of love is more dangerous, and it is entirely possible that the two afflicted characters could come to blows over their beloved. Since this is the last day of the voyage, Cupid will not spare his arrows, and will shoot all ten of them to create a wild melee of love. This should be a frantic explosion of emotion, pursuit, and lover’s conquest. By this time, the PCs should be looking for the culprit of all this, and if he hasn’t been discovered yet, Cupid will likely be found out on this day.''
 
 ==Love’s Defeat==
 
 ''While love is Cupid’ weapon, it is also his Achilles’ heel. The troubadours both know love songs, and if they play them, Cupid may become infatuated with their performance. If a performer’s Dexterity + Music + stress die roll beats an Ease Factor of 15, Cupid will not target the''
 ''performer with his arrows. This brief respite will only last a day. Elena has the Supernatural Ability Enchanting Music, which she can use to counter the effects of Cupid’s arrows. She won’t figure this out for herself, and has to be instructed by a player character. If she becomes nervous during the voyage, which is likely during the second day, she plays her psaltery and hopes to enchant the listeners to calm them down. She needs to make a Communication + Enchanting Music + stress die roll against an Ease Factor of 9. To calm someone under the influence of Cupid’s arrows, Elena’s enchantment has to be more powerful than Cupid’s. Compare Elena’s Penetration total to Cupid’s, which is 10. Calculate Elena’s Penetration by subtracting the Ease Factor (9 in this case) from her Enchanting Music roll. At some point, Cupid should be discovered. Any characters with Second Sight can see through his disguise on a Perception + Second Sight + stress die roll against an Ease Factor of 10. Characters with Magic Sensitivity will not see Cupid, but may feel his presence on a roll of Perception + Magic Sensitivity + stress die against an Ease Factor of 11. Even without these Supernatural Abilities, characters may notice that one of the crewmen is acting oddly, or invent other means of uncovering him. Finally, Argosus can see Cupid, using his Faerie Sight power to see the faerie’s true glamour. He won’t spontaneously announce this information, but will disclose it if asked. Once found out, Cupid drops his disguise to claim the credit he feels he deserves. Hasn’t he made the voyage interesting? Isn’t life itself about love and nothing more? Cupid is not ashamed of his nature, and tells the players exactly what he has been up to. If confronted, he promises to stop. He won’t, of course, and his arrows of love continue to fly. He will accept a bargain, however. If two characters agree to marry, and exchange betrothal vows, he will stop molesting the passengers. Cupid will consider this a victory, and his Might will eventually increase. During the scenario, however, it will not, and the spoils of Cupid’s victory will happen offstage. If accosted physically, Cupid will lose his mischievous demeanor and react violently. He flies up into the air and fires arrows at the offender. These arrows aren’t enchanted, and can damage the target. Because of his faerie nature, Cupid can’t be killed. If wounds reduce him to Incapacitated, he falls to the ground, seemingly dead. At the next sunrise or sunset, however, he will gain his composure, looking none the worse for his defeat.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Storyguide Advice==
 
 ''This is a very fluid scenario, heavily dependent on the particular PCs involved, especially their gender. The large number of NPCs should provide enough potential romantic attachments for all the PCs. If the storyguide is going to have her players run some of the NPCs, she should make sure that the handed-out NPCs provide suitable matches for those playing PCs. It is important to include every player, and some forethought as to possible romantic matches will make the scenario run more smoothly. Cupid’s agenda is a guideline only. If it becomes difficult to follow, due to the genders and specifics of the PCs, change it. The tension of the scenario should build during the journey. Essentially, Cupid will test the waters with a few arrows on the first day, and increase his efforts (and arrows) as the journey progresses. The storyguide should make the first assault odd but not unusual, heighten the tension with the second assault of love, and culminate Cupid’s enchantments in a frenzy of love and jealousy. Do not let the suggested series of events limit your play.''
 
-|]
+|}
 
 ==Tales of Mythic Europe Rewards==
 
 ''There are few short-term rewards for this scenario. Regardless of how the PCs fare, they cross the Channel, their intention from the beginning. If they have successfully prevented violence during the crossing, or have somehow assisted its progress, Folpert rewards them with a small gift of vis, or returns any property they lost to him while gambling. There are potential long-term rewards, or consequences, depending on how the PCs performed. One of them could be returning to the covenant with a new husband or wife. If they uncovered and destroyed Pandulph’s evidence, they have his unending animosity, incurring a new enemy for their covenant. This does not entirely remove Pandulph’s''
 ''threat, but greatly diminishes it and postpones his plans. If they make their efforts known to Schola Pythagoranis, they could find new Jerbiton allies. If they assisted Piccardo, they have a new ally, one who rubs shoulders with powerful Verditius magi. This is not a particularly dangerous story, nor do the consequences have any immediate effect on the covenant as a whole. The storyguide should award characters 5 experience points each, and 2 to 3 Confidence Points. A player who jumped into the story, adding complexity or willingly acting out his character’s love-induced antics, should receive an additional Confidence Point. Finally, if a player accepted a marriage bargain to prevent Cupid’s manipulations, he should receive an extra experience point and Confidence Point.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

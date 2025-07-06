@@ -20,8 +20,6 @@
 ''to allow them to have precedence over other knights. To do this, they need to give their vassal sufficient land to maintain additional knights. This is usually requires five or more manors, or rights of equivalent value. There is, therefore, little economic difference be''
 ''tween a banneret and a Wealthy Landed Noble, although their status and spending patterns differ. Bannerets are always Knights and are generally Landed Nobles. Most have an Oath of Fealty to a liege and are under his Protection.''
 
-[|
-
 ==A Consideration of Virtues and Flaws==
 
 ''Oath of Fealty (Major Story Flaw)''
@@ -51,8 +49,6 @@
 ===Count Palatine and Marcher Lord===
 
 ''A.count.palatine.is.a.count.who.has.been. given.extra.powers.to.deal.with.a.difficult.border..In.England.there.are.several.counties.palatine:.Durham,.which.is.near.the.Scots.border,. and.Chester,.on.the.Welsh.border,.are.both.still. points.of.strength..Ely.and.Kent.were.points. of.resistance.after.the.Conquest,.where.local. churchmen. were. given. additional. powers. to. subdue.the.population..This.role.is.intertwined. with.the.role.of.marcher.lord. The.original.marcher.lords.were.placed. as.a.buffer.between.England.and.Wales.after. the. Conquest.. They. had. greater. authority:. the. right. to. do. anything. a. king. might. do,. such.as.build.castles,.levy.taxes,.make.war,. and. found. towns.. Powerful. marcher. lordships.were.eventually.elevated.into.earldoms,. and.some.of.their.rights.curbed,.but.the.legal.inheritors.of.Marcher.lordships.still.have. unusual.rights.compared.with.other.counts.. This.title.appears.in.France.only.in.the.title. of. the. Count. of. Marche,. whose. ancestor. had.a.similar.role.before.the.pacification.of. southern.France. Some. marcher. lords. are. effectively. Wealthy. counts.. Their. role. is. usually. de''
-
-|]
 ''fensive so they have fewer knights in their retinue than other counts, but proportionally more infantry. This allows them to garrison impressive royal or private castles.''
 
 ==Duke (Dux, Duc)==
@@ -68,8 +64,8 @@
 ==The German System==
 
 ''The German system presented below is an abstraction. The empire is such an amalgam of local titles, historical peculiarities, and special cases that there is insufficient space to detail its complexity. At its core the German system, like the French system, is a descendant of the Frankish Empire. Its roles''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==How Powerful is a King?==
 
@@ -81,7 +77,7 @@
 ''At the time of the signing of the Magna Carta, five years ago, there were only 197 lay baronies and 32 ecclesiastical baronies in England. Many barons hold more than one barony. Only 45 people were considered “greater barons,” landholders significant enough that the king sent them personal invitations to attend court. This includes the earls, of whom there were no more than a dozen. These 45 men are all closely related to each other by blood and marriage.''
 ''The chivalric class is somewhat larger. There are between 5,000 and 6,000 knight’s fees in England, although only about 1,500 of these are actually held by warrior knights, and another 1,500 are held by men who could become landed knights but have chosen not to for tax purposes. These squires have the Gentleman Social Status and Wealthy Virtues. Many other knights are found in the retinues of the king and nobles, but these are outside the landed class.''
 
-|]
+|}
 ''are similar in many cases, although the titles for various positions have been naturalized or replaced. In the lists below, ranks are given their title in German, then Latin, then English. Note that the English form is just what a person of that status would be called in English. These titles are not found natively in English-speaking areas. In the German system, there are three parallel sources of titles. Some titles come directly from the emperor, and these are marked with the prefix reichs-. Some titles come from the mists of history, for allodial land, and these are marked with the prefix frei-. Some come from local kings, and these have no particular prefix. Assume that an imperial knight has higher status than a free knight, who has higher status than a common knight. Many of the senior German nobles are sometimes referred to with the title fürst. This means prince, in the sense of being the first member of a particular family. The senior English nobility are similarly sometimes referred to as the Princes of the Realm. Prince, in the sense of a person who is the child of a king, is the separate title prinz.''
 
 ==Herr (Generosus, Lord)==
@@ -146,11 +142,14 @@
 ==Byzantine Models==
 
 ''The eastern Empire, before its division, had transformed from a centralized realm into a feudal state. Continual raids on the eastern frontiers of the empire led to the partition of the territory into themes, which were under the control of a strategos¸ or general, giving a system similar to the counties of the west. Following the fall of Constantinople, the leaders of the various successor states took over the role of general in their controlled provinces. Such leaders are called despots by those who prefer a different candidate as emperor. The despot grants revenues from lands to particular supporters in exchange for military support. These rights are called pronia, but are modeled on western fiefs. The armies of the Byzantine successor states are highly dependent on mercenaries for their field effectiveness. In the Latin Empire the structure used is essentially the French one.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Catalonia==
 
 ''The noble classes of all Christian Iberian states have some relationship to the Frankish rulers of the Spanish Marches. Despite the differences between their system and that of the Frankish or modern French, they see their knights as sharing the Carolingian heritage. This is most directly seen in the County of Barcelona. The rulers of Barcelona have such close historical links to southern France, particularly Provence, that Catalonian chivalry is better modeled by the French system. In Catalonia the condes are served by viscondes, who are served by valvasores. A valvasore is a noble with a retinue of five knights, similar to a banneret. These three classes are considered noble and called barones, collectively. The vassals of these, with subinfeudated holdings, are the vasallos or cavallers. Cavallers are rulers of single castles. Their vassals are called sotcastlàs, who hold fiefs sufficient to support a one knight. Despite this panoply of titles, the core of the Catalan army is the militias, which are similar to the levy in the English system. They differ in that they are usually based on the trade guilds of towns.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

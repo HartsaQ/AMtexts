@@ -7,14 +7,14 @@
 ''In large villages and small towns, the market is held regularly, in the same place on the same day of the week. Larger towns probably have two market days every week, and a city may well hold a market of some''
 ''sort every day. In many instances, a market has been held in the same town or village forever, and although strictly speaking it is necessary to have permission to hold the market, in such cases this is quite often overlooked. In towns that have recently grown to a size where a market is needed, permission to start one is necessary. This comes from the local landowner, be it nobleman, cleric, or — in the case of cities free of a feudal overlord — the local council. A charter giving permission to hold a weekly market often includes the grant of an annual local fair as well, both being opportunities for the owner to derive income from taxes and tolls (see Chapter 1: Towns and Cities, Town Charters, Common Privileges). In all but the very smallest or most fortunate markets, people with goods to sell have to pay a toll, the amount depending on whether they are happy to sell their wares while carrying them or standing with them laid out around their feet, or whether they want to sell from a booth or stall. It is not uncommon for an additional tax to be levied on buyers and sellers for a limited period to raise funds for a particular cause such as the repair of a bridge or the town’s defenses.''
 ''Market sites often persist for centuries, so any attempt to move a market, perhaps to make way for a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Sunday Trading==
 
 ''The Biblical Commandment to keep the Sabbath day holy was so widely and blatantly ignored in England that the Pope sent Eustace, Abbot of Flay in 1200, to lead a mission. So eloquent was his preaching, and so marvelous were the miracles that he performed, that many places closed down their Sunday markets entirely or moved them to another day of the week. The mission was such a success that by 1220 the transfer of Sunday markets to other days is almost complete throughout the country.''
 
-|]
+|}
 
 =Fairs & Markets=
 
@@ -36,8 +36,8 @@
 ''In cities and larger towns, rural products required by urban artisans are on sale and markets usually offer cloth, firewood, hides, rope, horses, oxen, cows, sheep and goats, and also a few exotic and luxury items acquired by merchants at a fair. If the market is in a port where foreign''
 ''traders come, or on a route they often use when heading to a fair, their wares are also available here to those who can afford them. Within a large market, it is likely that those offering similar goods are found together. The livestock market is likely held in a different part of the town to the food market, but coincides with one of the regular market days.''
 ''If the market is held in a place of pilgrimage, there are plenty of people catering to the pilgrims. There are certainly badges of lead or pewter showing a symbol connected with the history of the relevant saint that a pilgrim can buy to adorn his hat as proof that he arrived. Another common souvenir is a small tin or pewter''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Competition==
 
@@ -48,17 +48,19 @@
 ''The populace of a market town not far from the covenant is suffering under a heavy tax burden imposed by the local lord. His wife has taken the side of the townsfolk against her noble husband’s heavy taxes and has been nagging him for quite a while about the matter. Exasperated, he has promised to reduce them if she is willing to ride naked on a horse through the busy marketplace. He has no doubt that she will refuse to do this.''
 ''If the noblewoman knows someone at the covenant, she comes to him for help in meeting her lord’s demand without putting herself through the humiliation. If the covenant is in town, or regularly obtains supplies there, a contact tells them in confidence that they heard of the offer from the lady’s maid.''
 
-|]
+|}
 ''ampoule of holy water to be worn on a string around the neck as a portable source of blessing. This is particularly relevant where a sacred spring or well is involved, but the custom is often followed in other places''
 ''using water blessed by a priest. If the pilgrim has undertaken the journey to pray for healing on behalf of someone else, an ampoule is just the thing to take back to him since, if handled throughout with piety, use''
 ''of the blessed water — for example by dipping the patient’s fingers into it before making the sign of the cross, or reverently washing the patient’s face with it — can grant a +3 bonus to the next Recovery roll. While the badges are authentic when purchased at the site of pilgrimage and the water in the ampoules is usually blessed, any reputed relics on sale are less reliably genuine, for while there is no doubt at all that there are many miraculous relics of the blessed saints and holy martyrs, such are most often kept by the Church or the nobility in honor and safety; it would be a very fortunate woman indeed who bought something so''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Golden Grains==
 
 ''A chicken served up to the grogs at the covenant one feast day contains three grains of gold. It may be that the fowl sometimes scratch up and ingest grains of gold and if they can trace the origins of the bird, there may be riches for the taking! It was purchased locally last market day from a woman who has sold the covenant poultry before. She obtains birds from a number of suppliers, and not always the same ones. Recently she has had difficulty finding enough, so has bought from a few sources further away. It was from one of these that this chicken came, but the seller cannot identify the origin of a particular bird, least of all a plucked, cooked one. Will the magi care enough to help the grogs? Will they try to stop them going adventuring?''
 ''In fact, the hen had been feeding in a yard near a goldsmith’s workshop.''
+
+|}
 ''Across Mythic Europe, the units used to measure out goods vary. The same quantity can have different names, and the same word can mean different amounts, from one place to another. Even when using the same measuring vessel, the amount may be heaped or striked (filled to the brim then leveled off). Some goods have their own special systems of measure. Even counting is not uniform, for example in parts of England “one hundred” of something might as likely mean 120 as 100. This table based on the British system may be useful as a quick guide to units for retail transactions, with sufficient detail to add flavor to the game.''
 ''Length 12 inches = 1 foot 3 feet = 1 yard* 1.25 yards = 1 ell** * This was originally the distance between the nose and the tip of an outstretched arm. ** This is an English measure; the Scottish ell is only just over a yard.''
 ''Capacity 4 gills = 1 pint 2 pints = 1 quart 4 quarts = 1 gallon 2 gallons = 1 peck 8 gallons = 1 bushel''
@@ -68,13 +70,15 @@
 
 ==Weights and Measures==
 
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Some time ago, two traders fell out. One went to a cunning man and had a charm made, which he concealed in the part of the marketplace where his rival usually set out his goods. From then on, goods arrayed there have always looked rather shoddy. The first victim of''
 ''the charm soon went out of business, much to the other trader’s satisfaction, but he did not live long to enjoy the benefit of eliminating his rival, succumbing to an ague a few months later. So, the charm remains without anyone knowing why no seller prospers in that position.''
 
 ==Story Seed: A Run of Bad Luck==
 
 
-|]
+|}
 ''precious at a market. From time to time, one of the heavenly host guides a truly deserving person to where they can obtain a genuine holy relic. (See Realms of Power: The Divine, pages 44–46, for details of relics and their powers.)''
 ''On market day, the local population can more than double, and all these visitors need sustenance, so food and ale for immediate consumption is available from sellers in the marketplace and from buildings close by. Menfolk who have driven to market in a cart often spend much of the morning talking and drinking here while their wives are busy spending money. For many, attendance''
 ''on market day is a social highlight, and the opportunity to chat and exchange news is as important as any shopping. This can be an excellent opportunity to pick up the local gossip and ask questions of people who are more likely than many to have the time and inclination to be informative.''
@@ -85,15 +89,15 @@
 ''Fairly ordinary people sell ordinary goods at such markets, but where a visitor from Western Europe might expect to see a market cross there is a herm pillar, old and worn so it looks like a simple standing stone. (Originally it would have been a fertility symbol having a bearded human head surmounting a phallus. These were often set up in cities outside houses and on street corners, or set along roads as milestones in the Hellenic world.) Close by is a fount of water from a spring once sacred to the god. Before the market opens, superstitious traders pour a libation from the spring over the herm and sprinkle their booths and — if it will not damage them — their wares also, in hopes that it will help them turn a good profit. The marketplace normally has a magical aura of 1, rising to 2 when''
 ''the market is in progress, which may be sufficient to overwhelm any Dominion aura and make all natural foodstuffs and materials, and also goods manually crafted from natural materials, appear just a little more vivid and attractive.''
 ''Alternatively, this part of the market may be in a regio within a busy city market. The regio is reached by going down a certain narrow alley between two stalls. If the marketplace lies over a suitable pagan site, such as the foundations of a Roman temple, one or two of the people collecting dues from the stallholders inside the regio are devotees of Mercury or servants of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Other Traditions==
 
 ''In areas where the Norse pantheon was revered, the god who oversaw trade and commerce was Odin under his title Farmagud (god of cargoes), because he frequently took on human form to wander about the world; he was known as Wotan in German lands and as Woden in Britain. Among his many other areas of interest is magic. His symbols include the spear, raven, and wolf, any of which could take the place of the herm pillar in the Roman example. As a fickle god, any dealings with him are risky.''
 ''In places where Celtic and Gallic influence was strong, people held Lug as god of trade and commerce. He was known as Lleu in Wales, Lugh in Ireland, and Lugus in the lands that were formerly Gaul. While originally a sun deity, he was also associated with war, crafts, poetry, music, and magic. A sun symbol or menhir could take the place of the herm pillar in the Roman example.''
 
-|]
+|}
 
 ==Story Seed: Changeling==
 
@@ -106,8 +110,6 @@
 
 ''The most attractive market of all may appear wherever and whenever there is a good chance to corrupt people. It is run entirely by demons or their agents, some of whom may be human and others not. It is a bustling place, where the smell of good food and the sound of lively music draw people in. Infernal deceit makes the goods seem better than they really are. The goods on sale are cheap enough to be affordable, but not suspiciously so — indeed, the price asked may vary to fit the means of the potential customer. Tempting free samples are offered when someone is wavering on the edge of a fall.''
 ''Articles on sale may be the result of sin, for example a forged document or a unique item that must have been stolen, but mostly they are inducements to sin, where the reason for buying is potentially sinful. Visitors to the stalls may be urged to buy something specifically to arouse envy or lust in someone they know; to buy something they don’t need just to make sure a rival cannot have it; to over-indulge''
-
-[|
 ''Sellers tend to occupy the same spots in the market every week, but in a large, busy city market, sometimes a visitor or even a local resident can become confused. In a relatively quiet location, she may come across a previously unnoticed booth where the salesman is the patron saint of some trade.''
 ''The saint and goods discovered depends on the situation; many options are listed below. A pious, holy person in need of something particular might have the opportunity to acquire something very special indeed. The goods on offer are, at the very least, particularly fine examples, and may bestow blessings of some sort. The seller may appear exactly as he looked in his prime, or perhaps his dress and speech betray very little of his origin. If it is the saint’s feast day, the customer need not necessarily be pious at all to find the unusual booth, which could lead to an interesting meeting.''
 ''The patron saints of merchants in general are Homobonus (see below) and Nicholas (the fourth century Bishop of Myra in Turkey), and either of these might serve if none of the following are appropriate.''
@@ -141,12 +143,14 @@
 ''There are Redcaps at all the largest fairs, taking the opportunity to pass on messages, and to trade in gossip and information as well as vis (see Houses of Hermes: True Lineages, pages 84–89). A tent is designated as a temporary Mercer House, where all members of the Order and covenant representatives are welcome. Safe inside, Hermetic gossip is shared and trade in vis, books, and so on are conducted. A Redcap may pose as a trader of mundane goods outside the tent to defl ect unwelcome curiosity, possibly backed up by guards. Most''
 ''often, a suitably experienced companion attends the fair to conduct business for the magi, but covenants may commission a Redcap to make special purchases on their behalf if none of the covenant’s residents wish to attend. The presence of one or two Gifted people may be suffi cient to discourage mundane interference, since they are likely to be perceived as untrustworthy, but there is always the risk of inviting too much attention, so discretion is the rule.''
 ''If the owner of a fair also has control of the local town or city, it is usual for them to appropriate much of the town for the fair, as happens at Bury St. Edmunds and St. Ives in England, and Provins in Champagne. Here tenants renting properties in the town fi nd that they are obliged to vacate their ground fl oor rooms that give onto a main thoroughfare so that''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Lost Child==
 
 ''A child of about four years of age is found hiding underneath a stall towards dusk. The child is frightened, tearful, and lost. Few are inclined to help because the child seems alarmingly odd. She looks much like any other scruffy little child, but has The Gift or some other supernatural power — such as the Tainted with Evil Flaw — that repels most people. At fi rst, the child is too scared to make much sense if anyone does get her to talk. If she has The Gift, mundane characters do not trust the child, and the same effect makes it hard for a Gifted character to win the child’s trust.''
 
-|]
+|}
 ''the landlord, usually the same person as the owner of the fair, can let these out to traders for additional income. There are fines for anyone else who takes a fee for allowing someone to trade from a back room. Temporary wooden shops are erected in the streets and squares for the fair, making an already congested situation worse, and the whole town acquires something of a carnival atmosphere.''
 ''Where the owner of the fair lacks the power to take over the town, a fairground is established outside the urban area, and temporarily takes on the appearance of a thriving town. A fair booth is typically a''
 ''wooden framework with a wooden roof and canvas sides, but the largest fairs provide more durable booths that are left standing from one year to the next, most often of wood, but the most affluent merchants have been known to build in stone. Tents of all sizes are erected also.''
@@ -161,8 +165,6 @@
 ==Grant of a Fair==
 
 ''It is a great honor to be given the right to hold a fair. Such permission is usually only given by the ruling monarch to a member of the nobility, an abbot, or a bishop, but a town may be awarded the right. It is a highly desirable gift because the right to hold a fair comes with the right to make money out of it in a myriad ways (see insert), and also to dispense justice during it, and take profits from any court proceedings. A medium-sized fair, such as one drawing customers from across a''
-
-[|
 ''Any being that has or can assume human form could turn up at a mundane fair or market as buyer or seller. Such folk probably seem odd in some way, most commonly something about their eyes, teeth, clothing, or use of language, or unfamiliarity with local facts. Only the most cosmopolitan or sensitive person is likely to realize that these are not just signs of someone from a distant part of the country, or another mundane country entirely. In more isolated districts, many may think they are just from the other side of the forest, or from over the mountains.''
 ''Denizens of other realms attending a mundane fair might simply be there out of curiosity, or they may be after a particular commodity — perhaps just what the magi need to build into an enchantment. The question for sellers is, do these buyers have acceptable coin, and if not, how can they pay? Supernatural creatures may have very odd requests, for example trying to purchase something that is''
 ''not on sale. A rash, greedy, or gullible trader might regret agreeing to sell his nose or his good name. Magical or faerie creatures do not necessarily make such offers with malicious intent, they simply have a very different view of the world.''
@@ -170,8 +172,6 @@
 
 ==From Over the Hill and Far Away==
 
-
-|]
 ''county and having a special attraction like a large sale of horses, might provide the owner with over 100 pounds in profit, while a small fair for a single village might make him a few shillings. The cost to the owner for administration of a mediumsized fair is likely to be around three pounds a week, with most going to pay for staff to run the fair and its court. Once a fair has been granted to someone, the ruler may show his favor again by permitting an extension to the duration. In the past, the right accorded simply made official a fair that was already held regularly, but by 1220, in the most civilized parts of the continent, all but the most local fairs require explicit permission.''
 ''A covenant might find a way to become the owner of a lucrative fair, perhaps through a companion who is a minor nobleman, and use it as a significant source of income if they can continue it without attracting unwanted attention from the mun''
 ''dane authorities. A typical annual fair for a town counts as a Lesser Source of Income, a county horse fair combined with sale of cloth and a wide range of other goods counts as Typical, while one that draws traders from across Europe counts as Greater. See Covenants, page 16, for the Minor Resources Boon Rights, under which a covenant could have the right to hold a fair.''
@@ -181,8 +181,8 @@
 ''For the system of trade to work, making it economic for merchants to transport goods over long distances and risking the dangers of travel, it is essential that there is trust between trading partners and an understanding that agreements can be enforced. Courts of law set up at the great international fairs provide a means of settling disputes in front of an international audience. People pass on news of the''
 ''judgments made, the names of those found guilty, and fines levied against their fellow guild members when they return home, so reputations and knowledge of international trade laws spread.''
 ''Frequently goods are sold for cash or exchanged for other goods, but if delivery or payment is not to be immediate — as is often the case where large quantities are involved — a contract is required. This is commonly sealed by a payment of God’s penny (any small coin given as a token of the agreement) in front of a witness, by a tally, or by a written bond. A tally is a piece of wood several inches in length. Notches of varying size are cut on the upper and lower faces to denote the sum of money or value of goods involved in the deal, with identical''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Tolls: Payments required for carts,''
 ''people and beasts, to pass town gates and roads. Passage, Carriage: Tolls for carry''
 ''ing goods past a checkpoint. Portage: A fee for carrying cargo''
@@ -201,7 +201,7 @@
 ==Making Money from a Fair==
 
 
-|]
+|}
 ''identifying words also written on each face. A cut is made about half way through the stick on one face, about three inches from one end, and then the stick is split from the other end as far as that cut. Each of the people involved take one of the two unequal pieces so that the pair can be reunited to settle any later dispute about the debt. The instrumentum ex causa cambii, or recognizance, is a document signed by the seller, the buyer, or the buyer’s agent, and by an independent witness or notary, which is used to record a sale agreement. At the larger fairs, wardens are appointed to oversee contracts and ensure that the details are properly recorded.''
 
 ==Weights and Measures==
@@ -217,14 +217,14 @@
 
 ''At all the great fairs, royalty and other powerful customers makes purchases, either in person, or, more frequently, through agents or servants.''
 ''They often buy in bulk, to clothe and feed their large households, whether they consist of servants and men at arms, or monks or nuns. A royal customer is generally undesirable, since any kudos are outweighed by the loss of earnings due to the royal prise, which is a special low price that royalty expects, such that it is a form of tax on the seller. A group of merchants from the same guild may agree to share the burden jointly. Despite a low price, it is not at all uncommon for a powerful buyer to delay payment for a long time, or not to pay at all. This is often acknowledged by the king, so there is a public announcement made and a cer''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Cloth of Gold==
 
 ''A covenant requires a very special gift for a noble family and so commissions a Redcap or a companion to purchase a rare and rich fabric, perhaps an Italian silk brocade or cloth of gold, from the fair. When the agent tries to buy some on display at one of the stalls, the seller apologizes, saying that the clerk of the great wardrobe has demanded all that the merchant has on behalf of the king, or if more appropriate in the saga, that the archbishop requires it for a new vestment. How will the covenant manage if their agent returns without the gift? Will the potential purchaser insist, at the risk of drawing attention from crown or Church? The covenant is offering to pay immediately in cash, while the others insist on credit and may never pay — will the merchant take the money? If he does, will the covenant help him avoid the inevitable trouble?''
 
-|]
+|}
 ''emony conducted in which the royal agent’s credentials are presented to an official of the fair for scrutiny, to ensure that the merchants know who is buying on behalf of royalty. The royal agent may be instructed by his employer to only obtain goods from those merchants known to be affluent enough to not be much injured by the attentions of royalty.''
 
 ==Paying Up==
@@ -240,14 +240,14 @@
 ''also has the right to uphold justice during the fair, over-riding any such rights of a nearby town. This often extends beyond the bounds of the fair itself — the income from fines is so attractive that the fair court (sometimes known as the Court of Piepowder, from the French pied poudre, referring to the dusty feet of the itinerant tradesman) takes over all trade-related prosecutions in the vicinity for the duration of the fair, whether associated with the fair or not.''
 ''Merchant law concerns itself mostly with debt and contract, is less formal than the other legal systems in force, and is noted for common sense and swift decisions. Cases are conducted by making statements on oath and producing witnesses to testify to the veracity of the statements. These witnesses may be two or more people who can swear to the truth of a statement because they were present when the transaction in question was made, or might be a group of wellrespected persons who simply swear that they believe the statement to be true without having personal knowledge of the incident or agreement. In some cases, particularly where details of a contract are in dispute, a jury — typically of twelve persons who are believed to be in a position to know the truth of the matter — reviews the statements; their verdict is nominally unanimous.''
 ''The owner of a fair rarely presides herself, and is more likely to appoint someone with extensive administrative and legal experience to hold this prestigious office. Clerks are engaged to keep records of the cases, and bailiffs are recruited to carry out the orders of the court. Punishments are most often fines, though at some fairs a local building is rented to serve as a temporary prison for those convicted''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Money is the Root==
 
 ''In Christian countries it is usual to mark the opening of the fair by celebrating a special Mass, which tempers the aura to Just according to the rules for ceremonial influence (see Realms of Power: The Divine, pages 38–41). Initially, a fair starts under the protection of its patron saint, but as time passes people forget about the saint and the protection fades quickly. With so many opportunities to sin on hand, it is likely that Infernal agents are busy at work. Characters with Second Sight or Sense Holiness and Unholiness may notice demons urging sellers to give short measure, whispering in the ears of those collecting tolls that they should overcharge, prompting bankers to charge interest, or guiding those of weak morals to prostitutes.''
 
-|]
+|}
 ''of serious crimes, particularly theft, and occasionally a pillory is put to use.''
 ''Regulations particular to the fair are enforced, and watchmen and armed guards are employed to patrol the fairground and apprehend wrongdoers. Butchers can be required to obtain a license to operate at the''
 ''fair, as a means of reducing health risks and taking in money. Fires are forbidden on the fairground. Rubbish must be disposed of so as to leave the ways clear. Prostitutes and lepers are banned from the fairground and anyone discovered letting out a room to a harlot is fined (but it keeps on happening anyway).''
@@ -256,19 +256,15 @@
 
 ''See Chapter 8: The Goods of Europe for details on the sources of raw materials and everyday items on sale at every fair, and the luxury goods that may be available but can only be reliably found at the largest fairs. The closer the fair is to a major source, the more likely a commodity is to be on sale. It is perfectly possible for items of supernatural origin to turn up as exotica, and the seller may well be entirely unaware of the source.''
 ''Along with the wide range of goods on sale, the following craftsmen are likely to be available at every fair: tailors, leather workers, barbers, blacksmiths, wheelwrights, and farriers. Larger fairs are attended by armorers and weaponsmiths, where the rich visitor may take the oppor''
-
-[|
 ''Saint Godric’s veneration is centered in northeastern England, but his career took him over much of Mythic Europe. He started as a peddler, then became a merchant, shipping cargo between Scotland, Denmark, and Flanders. His business partner was lost at sea and, when hard times reduced his resistance to temptation, Godric took up piracy in the Mediterranean. An encounter with King Baldwin I of Jerusalem led to repentance and pilgrimages to the shrines of St. James at Compostela, Rome, and Jerusalem before he returned to settle in England. In a vision, St. Cuthbert told him to settle at Finchale near Durham, where he dwelt as a hermit. He became renowned for his austere lifestyle, the hymns he composed, and his prophecy. He died on 21 May 1170 at the age of 105. His grave is against what was the north wall of his church, although the monks of Durham have since built a shrine to St. Godric and established a priory on the site. Pilgrims often go there as part of a visit to the shrine of St. Cuthbert at nearby Durham cathedral.''
 ''Godric claimed that the shortest of his hymns, just four lines, had been given to him by his sister Burchwen, also a hermit, after she died; perhaps Godric will pass on''
 ''posthumous hymns as his sister did. He might make a prophecy or provide information to guide characters. The earthenware vessel which he would fill with cold water so he could stand in it praying all night might be a source of Aquam vis. Elements of Godric’s life story could also provide an unusual background story for a merchant player character.''
-
-|]
 ''Godric — Peddler, Pirate, Hermit, & Saint Story Seed: Joint Ventures''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''It is a considerable expense to build up sufficient stock to take to a fair, and to pay for servants, transport, and a booth to trade from. Sometimes merchants go into partnership with others who can provide capital in return for a share in the profits, including members of the nobility, ecclesiastics, and even rich widows. Such an arrangement might suit a covenant very well as a means of making money with minimal time and effort, although it is risky. Will the magi be tempted to provide their active partner with magical devices to facilitate his part of the arrangement, or to get involved if things go wrong?''
 
-|]
+|}
 ''tunity to place orders for items to be custom made and delivered later. If your saga follows history, it will be a few decades before Italian merchants regularly attend fairs as far from home as England, but they may already be found at the Champagne fairs, offering for sale fine silks, brocades, and cloth of gold suitable for rich church vestments or royalty.''
 ''On the fairground, whether it is in the city or outside it, booths are grouped according to the goods they are selling and, within that grouping, are clustered by the merchants’ city of residence. A city guild often takes responsibility for renting the booths on behalf of its members, so each is always well represented, but not always by the same merchants. Any one merchant probably attends a few fairs but not all. Merchants typically have their base in a town where they own property, and it is not unusual to find that the most prosperous make as much from money-lending and land speculation as they do from trade in goods.''
 ''There is often vigorous competition between merchants, although temporary partnerships may be created for short-term cooperation. A merchant bringing goods a long way might send a courier ahead to be there when the fair opens to cry the praises of the goods due to arrive in hopes of making an early sale. This is quite often successful, with goods being purchased sight-unseen. Rich merchants employ factors and brokers, who may be found mingling with the crowds while praising their employer’s merchandise.''
@@ -286,8 +282,8 @@
 ==The Five Fairs of Flanders==
 
 ''The Flanders cycle comprises fairs successively in Lille, Mesen, Ypres, Torout, and Bruges, held between February and November. Like the Counts of Champagne, the Flemish rulers make efforts to keep the roads safe for those going to or from their fairs. They are built on the cloth trade centered on Ypres, Ghent, Douai, and Bruges, particularly the trade in fine woolen and linen cloth. Transport of goods by water is very much the rule here, with tolls to be paid to different authorities along the way; at Lille''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Champagne Cycle==
 
@@ -298,7 +294,7 @@
 ''Generally there is an interval of about two weeks in between fairs.''
 ''Unlike other fairs, where everything on sale is available throughout the fair, the Champagne fairs regulate trade during the six-week fairs as follows: 1 week for setting up stalls, then ten days for cloth trading, 11 days for leather trading, and 19 days for trade in other goods, followed by a few days for settling accounts.''
 
-|]
+|}
 ''cargoes must be off-loaded and carried on horseback past rapids, while at Douai boats must negotiate a lock. Transport this way is quicker than by road, but costly.''
 
 ==England’s Great Fairs==
@@ -310,8 +306,8 @@
 ''A grid of streets with permanent buildings has been laid out around the church of St. Giles, outside the city walls. Many of these are only occupied part of the year. Open land around is used for temporary stalls, a parking area for carts, and a place to tether horses and other animals.''
 ''Hermetic MidSummer Fair''
 ''It is often inconvenient to trade in secret or through agents at mundane fairs, so for some years now a covenant in the Tribunal of the Greater Alps has held a gathering in early June, lasting for up to eight days. Here magi trade in vis, books, enchanted devices, and anything else.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The English Fair Cycle==
 
@@ -332,7 +328,7 @@
 
 ''If your saga follows history, the success of St. Giles’ Fair will be threatened when in 1245 King Henry III establishes a fair at Westminster to be held in midOctober to benefit Westminster Abbey and celebrate his devotion to St. Edward the Confessor. At this fair he promises that the king’s prises (the reduced prices of goods to royalty) will be dropped, and also that royal debts will be settled immediately. To make sure it is a success, he bans all other trading in London for the duration and has proclamations made at all the major fairs, putting pressure most heavily on Winchester.''
 
-|]
+|}
 ''Trades may be negotiated individually, or goods entered into an auction run by the Quaesitores, which takes place on the fourth day of the fair. All exchanges are by barter or by use of vis as currency.''
 ''The hosts are not expected to provide lavish hospitality. Very senior visiting magi are accommodated in guest quarters, but most visitors make use of the field set aside for tents and other temporary structures. Feasts are held on the first and last day of the fair, to which all visiting magi are invited, and on other days food and drink are available as at any other fair. Games and contests are arranged to keep grogs and servants occupied while the magi negotiate and chatter.''
 
@@ -351,5 +347,6 @@
 ''Saint Denis’s Lendit Fair near Paris was founded by King Dagobert in the seventh century and was the most important fair in France until the Champagne cycle took over. Now it attracts fewer foreign merchants but it is still regionally important. It runs from the feast of St. Denis (October 9th) for a month. More recently, in 1109, a second Lendit fair was initiated, starting on 12th June. Both Lendit fairs are for the benefit of the Abbey of St. Denis, although the University of Paris has the right to send representatives to the June fair to request their annual allowance of parchment and money donated, willingly or otherwise, by the merchants.''
 ''In the Rhineland, the most important fairs are held in Cologne at Easter and in August. Linen cloth and thread, glass, and metal goods from bells to copper dishes are produced locally, but a far wider range of goods is brought for sale from all directions.''
 ''In England, the university town of Cambridge controls three local fairs — Garlic, Midsummer (Barnwell), and Stourbridge —  and one at Reach, the fenland end of the Devil’s Dyke (a linear ridge and ditch earthwork). In addition there are fairs permitted at ten of the surrounding villages.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

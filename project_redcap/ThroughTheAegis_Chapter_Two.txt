@@ -1,5 +1,3 @@
-
-[|
 ''The Covenant of the Northern Seas is a spring covenant formed from a flotilla of ships that navigate Mythic Europe’s northern seas, charting courses from the Rhine to Hibernia, and Iceland to Iberia. The covenant’s magi are led by a magus of House Tytalus, who brings years of experience at sea and a desire to see his new covenant achieve its full potential. Behind this though, the Tytalus is really after something audacious; the founding of a new Tribunal in the one place nobody has yet thought to look.''
 
 ==History==
@@ -11,20 +9,24 @@
 ==Boons & Hooks==
 
 ''The covenant is described through the following Boons and Hooks, details of which can be found in the Covenants supplement: Mystical Allies (Major Surroundings Boon): Merfolk are more than just stories that old sailors tell for the price of an ale. They have their kingdoms beneath the sea, they have their princes and their rogues, and so long as the covenant of the Northern Seas treats them well, they make potent allies. Criminals (Minor Residents Boon): Whether on land or on sea, the covenant can call upon men willing to risk punishment under law on the covenant’s behalf. Difficult Access (Minor Site Boon): Knowing where the covenant is going to be makes for a good start, but those intent on visiting must have means to travel to the ships on the open seas. Famous Resident (Minor Resident Boon): Carles Magnus has built a reputation for himself and his bold idea of a sea-borne covenant. As a result, most covenants surrounding the northern seas have heard of him. His name carries influence either as an inspiration to magi with pretensions to forge their own path, or as a figure of scandal. Healthy Feature (Minor Site Boon): The open seas and the clean air, free from corruption, are excellent for the humors. At the expense of weathering storms and wintering in safe harbors, the magi and covenfolk are generally fitter and healthier than their landlocked counterparts.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Tribunal: Normandy Year Founded: 1209 Season: Spring Symbol: A Cog at Full Sail''
 
-|]
+|}
 ''Informants (Minor External Boon): The misfits of the Northern Seas may be the black sheep of their former covenants, but they still have their contacts. Some of the younger magi grew up alongside others still learning their Arts who are eager for stories of the high seas. This means the covenant receives word of the interests of important magi and covenants, which may help the covenant in trade. Local Ally (Minor External Boon): A prominent tax collector at Barfleur, nominally the covenant’s home port, is a strong ally to the covenant. He is a member of the town’s Jewish community and owes much to the covenant’s elder magi for help and protection they afforded him and his family some years ago. Further information is provided below. Ungoverned (Minor External Boon): No ruler can truly lay claim to the seas, although the trade alliances and mercantile families probably try. As a result, the magi of the Northern Seas govern themselves and, ports and harbors aside, can afford to be a law unto themselves. Sailors (Residents Free Choice): The covenfolk are virtually all sailors.''
 ''Missing Aura (Major Site Hook): A covenant at sea cannot expect to sail within a magical aura all year. There are auras out there, but they are small and widely distributed. As a result, the covenant has a base magical aura of zero. Tribunal Border (Major External Hook): While nominally in the Normandy Tribunal, the independent covenant of the Northern Seas sails the borderlands between multiple Tribunals. The covenant’s connection to Normandy is tenuous at best and its magi enjoy a freedom not often granted to others. As the covenant proves the sea’s worth, multiple Tribunals may try to tempt them into membership. However, when those approaches are rebuffed, proud Tribunals may decide to take action against the upstart covenant. Erratically Mobile (Minor Site Hook): Not only do the ships of the Northern Seas sail where they will, but they may not always sail together. This means that finding the covenant and/or specific members can be difficult. The covenant does have allies on dry land, but their visits may not be regular. Gender Imbalance (Minor Residents Hook): Many sailors agree that a ship is''
 ''no place for a woman. As a result, and despite the covenant playing home to a female captain, the ships’ crews are overwhelmingly male. Others may view the covenant as somewhat aggressive and there is little chance for family life within the covenant. Possession Victim (Minor Residents Hook): As the covenant lacks an Aegis, the ships rely on relics or on Hermetic spells to protect the ship and crew from the infernal. Despite this, there is an infernal presence on board one of the ships and the demon is playing the long game of influencing the crew and the magus to sin and damnation. One or more of the crew are possessed by a demon. Carles Magnus suspects that something infernal may be trying to influence his crew but does not know of the possession directly. See below for more details. Poverty (Minor Resource Hook): The covenant is young, with few resources. It has the Minor variant of the Poverty Hook and starts with a single Lesser Income Source, providing 40 Mythic Pounds per year. The magi may need to resolve that early on as the covenant currently runs a deficit.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Carles Magnus==
 
 ''Characteristics: Int +1, Per 0, Pre +2, Com +2, Str 0, Sta 0, Dex 0, Qik 0 Size: 0 Age: 80 (53) Decrepitude: 0 Warping Score: 4 (12) Confidence: 2 (5) Virtues and Flaws: The Gift; Hermetic Magus; Major Magical Focus (the sea), Ways of the Sea; Inspirational, Self-Confident*, True Friend (Ojo), Warrior; Driven (Found his own Tribunal); Magic Addiction; Infamous, True Friend (Hilde) Personality Traits: Driven +6, Gregarious +3, Loyal to Ojo +3, Daring +2, Reluctant to cast magic +2, Wanderer +1 Reputations: Daring scoundrel 4 (Normandy) Combat: Dodge: Init +3, Attack n/a, Defense +5, Damage n/a Fist: Init +3, Attack +5, Defense +5, Damage +0 Kick: Init +2, Attack +5, Defense +4, Damage +3 Long sword (Kilij): Init +4, Attack +12, Defense +9, Damage +6 Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11– 15), Incapacitated (16–20), Dead (21+)''
 ''Abilities: Area Lore: The Northern Seas 5 (geography), Artes Liberales 3 (astronomy), Athletics 3 (climbing), Awareness 2 (alertness), Brawl 2 (Bludgeon), Code of Hermes 4 (tribunal procedures), Concentration 4 (controlling Magic Addiction), Dominion Lore 2 (relics), Faerie Lore 3 (Naiads), Finesse 3 (casting speed), Folk Ken 2 (magi), Infernal Lore 2 (demons), Intrigue 3 (alliances), Latin 5 (hermetic usage), Leadership 4 (magi), Magic Lore 4 (auras), Magic Theory 7 (Auram), Navigation 4 (at sea), French 5 (storytelling), Order of Hermes Lore 3 (politics), Parma Magica 4 (Mentem), Penetration 4 (Aquam), Philosophiae 1 (natural philosophy), Profession: Sailor 4 (Northern Seas), Single Weapon 4 (kilij), Swim 3 (diving) Arts: Cr 10, In 9, Mu 9, Pe 11, Re 12, An 10, Aq 13, Au 9, Co 11, He 7, Ig 8, Im 5, Me 8, Te 8, Vi 9 Twilight Scars: Must drink brine in place of fresh water or suffer as a mortal might in drinking brine Equipment: Kilij (talisman), loose sailor’s clothes, golden earring. Encumbrance: 1 (1) Appearance: An aging man of the sea, Carles has a dashing grin and an athletic frame. He is weathered and tanned and his hair, turning from blond to gray, is thick with sea and salt.''
 ''Casting Sigil: A wind swirls around the caster, or devices created by him, during the casting Voting Sigil: A palm-sized crab shell inlaid with silver. Spells Known: Agony of the Beast (PeAn 15) +21 Clear Sight of the Naiad (InAq 5) +31 F Call of the Rushing Waters (InAq 15) +31 F Neptune’s Imprisoning Arms (MuAq 25) +31 F Break the Oncoming Wave (ReAq 10) +37 F Ward Against Faeries of the Waters (ReAq 20) +38, Mastery 1 (penetration) F Bind Wound (CrCo 10) +21 The Inexorable Search (InCo 20) +21, Mastery 1 (penetration) In Christ’s Footsteps (ReCo 5) +34 F† Piercing Shaft of Wood (MuHe 10) +16 Lamp without Flame (CrIg 10) +18 Hornet Fire (Mu(Re)Ig 10) +17 Quench the Raging Conflagration (PeIg 20) +19 ‡ Aura of Rightful Authority (ReMe 20) +20 Unseen Arm (ReTe 5) +20 Sense of Divine Power (InVi 2) +18 Sense of Faerie Power (InVi 2) +18 Sense of Infernal Power (InVi 2) +18 Sense of Magical Power (InVi 2) +18 Scales of the Magical Weight (InVi 5) +18 Sense the Nature of Vis (InVi 5) +18 Demon’s Eternal Oblivion (PeVi 10) +21, Mastery 1 (penetration) Gather the Essence of the Beast (ReVi 15) +21''
+
+|}
 
 ==Carles Magnus (Cont’d)==
 
@@ -36,8 +38,6 @@
 ''Ojo’s silver cord adds to Carles’ concentration rolls to hold his magic addiction at bay. Talisman''
 ''Carles’ talisman is a kilij, a single–edged sword with curved iron blade. It is of Turkish origin and is adorned with Islamic designs with a golden hilt containing an embedded topaz. The talisman has been opened for enchantment with 14 pawns of vis and contains the following effects: Waves of Drowning and Smashing ReAq 30 Pen +0, 1/day R: Sight, D: Momentary, T: Individual As per the spell of the same name in ArM5, page 124. (Effect: Base 10, +3 Sight, +1 size) Wizard’s Leap ReCo (Animal, Herbam, Terram) 18 Pen +0, 6/day R: Personal, D: Momentary, T: Individual The caster is instantly transported up to 50 paces in any direction, provided he can see his destination or has an Arcane Connection to it. His Talisman and any equipment associated with the forms of Animal, Herbam, and Terram comes with him. Otherwise, as per the description in Houses of Hermes: Societates, page 36. (Effect: Base 15; Modifications: +3 for 6/day) The Wound that Weeps PeCo 30 Pen +24, 6/day R: Voice, D Momentary, T: Individual As the spell described in ArM5, page 133. (Effect: Base 5, +2 Voice; Modifications: +3 for 6/day, +12 for +24 Penetration) Rusted Decay of Ten Score Years PeTe 20 Pen +24, 6/day R: Touch, D: Momentary, T: Individual As the spell described in ArM5, page 155. This effect is triggered in combat, when it strikes an opponent’s metal weapon or armor. If the effect penetrates, it rusts the target through and weapons become little more than bludgeons and armor drops to the next protection value as per the table in ArM5, page 176. (Effect: Base 2, +1 Touch, +2 metal; Modifications: +3 for 6/day, +12 for +24 Penetration) The laboratory texts for effects enchanted into this talisman have not been translated and are not available to the covenant. Attunements: Iron: +7 harm or repel faeries Sword: +4 harm human and   animal bodies Topaz: +4 leadership Topaz: +4 strength, courage,   pride''
 
-|]
-
 ==Through The Aegis Magi==
 
 ''Six magi sail the Northern Seas, two of which are experienced and represent the driving forces behind the covenant, while the remaining four are young and starting out in their magical careers. These four younger magi make for good player characters as none have taken familiars, enchanted talismans, or significantly modified their laboratories, leaving players with scope in those areas.''
@@ -46,8 +46,8 @@
 ''as its Praeco. Through the last forty years, he has developed a daring plan and his flotilla covenant is the first stage. His Tribunal will encompass all the waters between the shores of Hibernia, Stonehenge, Loch Leaglean, the Rhine, Normandy, and Provençal, and all the lands beneath the seas, and the sky above. Giving the covenant members a degree of freedom is part of his strategy. He intends them to gain their own followers, larger or more numerous ships, to control shipping lanes, etc. In essence, he wants them to outgrow his covenant and leave to found their own.''
 ''Hilde Oddfish of House Bjornaer''
 ''Hilde Oddfish has a problem. Her shark Heartbeast rages so fiercely that the only place she feels safe is at sea. It is not just her own safety that concerns her. The giant’s blood running through her veins, the berserk fury that seethes behind her eyes, and the lack of control she has over her magic combine to make Hilde an unpredictable woman to be around. She knows this and holds it all back as far as she can, but cannot ultimately fight what she is.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Columba==
 
@@ -60,6 +60,8 @@
 ''The Northern Seas was built with 1088 Build Points, as described below.''
 ''Resource    Build Points Enchanted Devices & Laboratories 291 Library & Laboratory Texts  408 Money & Wealth   74 Specialists & Teachers   155 Vis Sources & Stocks   160''
 
+|}
+
 ==Hilde Oddfish==
 
 ''Characteristics: Int +1 (1), Per 0, Pre +3 (2), Com 0, Str +2, Sta 0, Dex 0, Qik +2 (2) Size: +2 Age: 65 (50) Decrepitude: 1 (0) Warping Score: 4 (20) Confidence: 1 (3) Virtues and Flaws: The Gift; Hermetic Magus; Flawless Magic, Giant Blood, Mystery of the Epitome**; Berserk, Heartbeast (Shark)*, Improved Characteristics, Lightning Reflexes; Chaotic Magic**, Fury (blood in the water), True Friend (Carles); Careless Sorcerer, Clumsy Magic, Greedy, * House Virtue **	 Gained through initiation Personality Traits: Shark +3, Angry +2, Loyal to Carles Magnus +2, Studious –1 Reputations: Afflicted +3 (House Bjornaer), Dangerous +2 (Normandy) Combat: Dodge: Init: +2, Attack n/a, Defense +6/+4, Damage n/a Fist: Init: +2, Attack +4/+6, Defense +6/+4, Damage +2 Bite: Init: +2, Attack +5/+7, Defense +7/+5, Damage +2 Bludgeon: Init: +2, Attack +6/+8, Defense +6/+4, Damage +4 *** ***	Adjustments for the Berserk Virtue Soak: 0/+2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+) Abilities: Artes Liberales 3 (ritual magic), Athletics 3 (grace), Awareness 2 (in the water), Bjornaer Lore 5 (modifying initiation scripts), Brawl 4 (Bite), Carouse 1 (power drinking), Code of Hermes 3 (tribunal procedures), Faerie Lore 2 (faeries of the sea), Finesse 3 (fast casting), French 4 (slang), German 5 (slang), Heartbeast 6 (regain human form), Latin 5 (hermetic usage), Magic Lore 3 (giants), Magic Theory 6 (inventing spells), Order of Hermes Lore 2 (personalities), Parma Magica 5 (Animal), Penetration 5 (Corpus), Philosophiae 3 (ritual magic), Swim 5 (underwater maneuvering) Arts: Cr 10, In 8, Mu 5, Pe 12, Re 7, An 13, Aq 8, Au 5, Co 13, He 11, Ig 5, Im 3, Me 5, Te 5, Vi 7 Twilight Scars: None Equipment: None Encumbrance: 0 (1) Appearance: Hilde is very large, with broad shoulders and powerful arms and legs. Her wide grin is filled with too many teeth. Casting Sigil: Brine seeps from Hilde’s skin with each spell cast or device activated Voting Sigil: A shark’s tooth made of smooth black stone''
@@ -70,8 +72,6 @@
 ''Using the rules in Houses of Hermes: Mystery Cults, page 23, Hilde, in the shape of her shark Heartbeast, has stats as listed below. They include all modifiers for the House Bjornaer Inner Hearbeast (Epitome) Mystery Virtue. Any relevant Virtues and Flaws from human form still apply in animal shape, Social Status is irrelevant. No General Abilities from human form are usable except language and lores, but Arcane, Academic, and Supernatural Abilities are still accessible. In animal form she uses the General Abilities inherent to that beast at their fixed levels, although she may practice if she stays in animal form for an entire''
 ''season, or spend experience gained on adventures while in animal form.''
 ''Characteristics (Outer Heartbeast): Int +1, Per –2, Pre –3/+3, Com –6, Str +7, Sta 0, Dex +2, Qik +1 Characteristics (Inner Heartbeast): Int +1, Per –2, Pre –3/+3, Com –6, Str +10, Sta 0, Dex +2, Qik +1 Size: +3 Confidence: 1 (3) Virtues & Flaws: Berserk, Lightening Reflexes; Ferocity (hunting), Fury (blood in the water), Greedy, Tough Qualities: Aggressive, Ambush Predator, Aquatic, Large Teeth, Loathsome Appearance Personality Traits: Brave +3, Greedy +3, Cruel +2 Reputations: Deadly (mariners) 2 Combat: Large Teeth (Outer Heartbeast): Init +0, Atk +11, Def +6, Dam +10 Large Teeth (Inner Heartbeast): Init +0, Atk +11, Def +6, Dam +13 Soak: +2 Fatigue Levels: OK, 0/0, –1/–1, –3/–3, –5, Unconscious Wound Penalties: –1 (1–8), –3 (9–16), –5 (17–24), Incapacitated (25–32), Dead (33+) Abilities: Artes Liberales 3 (ritual magic), Awareness 2 (food), Bjornaer Lore 5 (modifying initiation scripts), Brawl 5 (Large Teeth), Code of Hermes 3 (tribunal procedures), Faerie Lore 2 (faeries of the sea), Finesse 3 (casting speed), French 4 (slang), German 5 (slang), Heartbeast 6 (regain human form), Hunt 4 (prey), Latin 5 (hermetic usage), Magic Lore 3 (giants), Magic Theory 6 (inventing spells), Order of Hermes Lore 2 (personalities), Parma Magica 5 (Animal), Penetration 5 (Corpus), Philosophiae 3 (ritual magic), Stealth 4 (stalking prey), Survival 3 (home terrain), Swim 5 (home terrain) Appearance: The heartbeast is a noticeably large shark with scarred and pitted grey skin and a wide gaping mouth filled with jagged teeth. Mythic Feat: At the cost of 1 Confidence Point, the Inner Heartbeast may inflict a Heavy Wound on any creature of size +1 or less on a successful attack. The shark is an unattractive beast, hence its low Presence score. However, its Loathsome Appearance Quality makes it fearsome and its Presence is treated as +3 for the purposes of intimidation. If using City & Guild, attacks by her Inner Heartbeast are sufficient to cause ships to make damage rolls.''
-
-|]
 ''Sharks are solitary creatures and Hilde’s one concession to humanity is her loyalty to Carles and she most often sails close to him. Carles may, however, send Hilde to accompany one of the other magi if he suspects anything untoward or underhanded, banking on Hilde’s presence to be enough to bring wayward youngsters into line. A member of Clan Maruhs, Hilde lives the life of a wanderer. Rebellious even to her clan, she has turned her back on their traditional magical leanings, distancing herself from them. She has no sept as the solitary aspect of her shark heartbeast asserts itself. See Houses of Hermes: Mystery Cults for more on House Bjornaer clans and septs. Hilde sought out her Bjornaer ancestor several years ago and initiated one of the Inner Mysteries of her House that further enhances her heartbeast. She still retains the scarring on her side, in both human and shark form, caused by her first encounter with that ancient and powerful shark.''
 ''Columba of Ex Miscellanea''
 ''Columba served her apprenticeship in House Guernicus, but even in the earliest years of her apprenticeship, she knew that a life in that House was not what she wanted. It was during the year before her Gauntlet that she met Carles Magnus and she saw in him an opportunity for freedom. They agreed that Carles would find her a sponsor within House Ex Miscellanea and the day before she was due to take her Gauntlet examination, she fled her covenant to Carles’ ship on the coast and they sailed for Stonehenge, where she was accepted into House Ex Miscellanea by Benedic of Oxeney. From there, they sailed south to Iberia where she stayed for several years before returning to Carles, bringing a book with her. This polemic on the founding of a new Tribunal draws upon her own study of the code and upon Carles’ grand scheme, supporting her own ambition to found a new Tribunal. The cross-House and cross-Tribunal nature of Columba’s flight meant that no charges of deprivation of magical power were brought, but her former parens has never forgiven the insult. Columba has the Tormenting Master Flaw and fate conspires to place Columba and her former Guernicus parens, Roman de Troyes, in the same place at the same time rather more frequently than chance alone would dictate.''
@@ -80,8 +80,8 @@
 ''She is keen to learn the mystery of Enchant Casting Tools (Houses of Hermes: Mystery Cults, page 123) once her Arts have improved as she believes this to be a means of enhancing her magical power quickly and efficiently. Jealous of the Rusticani ex Miscellanea tradition, who are able to craft charged items without spending a whole season on the exercise, she one day intends to integrate, research, or initiate her own version of the Rusticani Craft Magic Virtue (as described in Houses of Hermes, Societates, page 130). Mindful that others of her House might see this as a betrayal of their crafts and mysteries, she has not shared this information with any other Verditius.''
 ''Tibor Milos of House Tremere''
 ''As Carles Magnus began to make a name for himself, a clerk within House Tremere started to question just what the Tytalus magus was doing. He seemed to put into port but rarely and had distanced himself from the politics and contests of his native Normandy Tribunal. The clerk went to his superiors with an outlandish suggestion; Carles Magnus was laying the foundation for a new''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Tibor Milos==
 
@@ -98,6 +98,8 @@
 ''Matilda has a penchant for charged devices, particularly scrolls that she can either use herself without going to the trouble of spell-casting or to give to grogs and let them sort themselves out. She has developed the following scrolls, for which she retains the laboratory texts:''
 ''3 scrolls of Bind Wounds (as per ArM5, page 129), CrCo 10 (+0 penetration) 1 scroll of Pilum of Fire (as per ArM5, page 140), CrIg 20 (+20 penetration) 1 scrolls of Circular Ward Against Demons (as per ArM5, page 162), ReVi 15 (+20 penetration) 2 scrolls of Wreaths Of Foul Smoke (as per ArM5, page 125) CrAu 10 (+0 penetration) These are activated by opening them and speaking the illuminated trigger word or phrase written upon the scroll in Latin. Matilda has not yet developed a talisman, considering it perhaps too early in her career to settle on any one device.''
 
+|}
+
 ==Andrew of House Jerbiton==
 
 ''Characteristics: Int +1, Per 0, Pre +2, Com +2, Str 0, Sta 0, Dex 0, Qik 0 Size: 0 Age: 25 (25) Decrepitude: 0 Warping Score: 0 (0) Confidence: 1 (3) Virtues and Flaws: The Gift; Hermetic Magus; Flexible Formulaic Magic, Apt Student, Book Learner, Inspirational, Social Contacts (Magi), Free Expression*; Short-Ranged Magic; Envied Beauty, Carefree * House Virtue Personality Traits: Vain +2, Helpful +1, Charming +1 Reputations: Arrogant poet 2 (Stonehenge magi) Combat: Dodge: Init +0, Attack n/a, Defense +0, Damage n/a Fist: Init +0, Attack +0, Defense +0, Damage +0 Kick: Init –1, Attack +0, Defense –1, Damage +3 Soak: 0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Artes Liberales 2 (rhetoric), Athletics 2 (running), Awareness 1 (alertness), Carouse 1 (staying sober), Charm 1 (first impressions), English 5 (storytelling), Etiquette 2 (court), Finesse 1 (casting speed), Folk Ken 2 (nobles), Latin 4 (hermetic usage), Magic Theory 5 (Corpus), Medicine 2 (physician), Parma Magica 1 (Corpus), Penetration 1 (Corpus), Philosophiae 1 (natural philosophy), Craft: Poetry 3 (chanson de gesta), Swim 1 (long distances) Arts: Cr 6, In 1, Mu 3, Pe 1, Re 7, An 0, Aq 0, Au 0, Co 9, He 0, Ig 0, Im 0, Me 2, Te 0, Vi 5''
@@ -108,6 +110,8 @@
 ''The bonuses include (but are not limited to):''
 ''• Virtues like Inspirational and Free Expression add a +3 bonus. • An artist can double the time it takes to create a piece of artwork and receive a +1 bonus. • An artist can work overtime, taxing his physical and mental resources throughout the course of the artwork’s creation. He receives a +1 bonus, but must make an Aging roll as soon as the artwork is completed. • An artist can add one third of his Artes Liberales score (rounded up) to a piece of artwork that somehow incorporates knowledge of one of the liberal arts.''
 ''The poet determines their story, and the troupe determines which standard Abilities this covers. Area Lore, Magic Lore, Faerie Lore, Order of Hermes Lore, etc. are all valid subjects that a poem written by a Hermetic magus might touch upon. A new work of poetry typically takes at least one season to create. The actual length of time taken is one season multiplied by the Aesthetic Quality / 10, rounded up. Artists use this work as a study source for the associated artistic Ability with a source quality equal to the work’s Aesthetic Quality divided by 2. Others may read the poem and gain exposure experience (two experience points) in any of the Abilities that the work involves. Chapter Eight of Art & Academe provides more details and options to support Andrew’s artistic ambitions.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Tibor Milos (Cont’d)==
 
@@ -116,7 +120,7 @@
 ''Ears, Thick Fur, Vocal (choleric) Personality Traits: Brave when hunting or cornered +3, Cowardly when surprised +2 Reputations: Bloodthirsty (local) 4 Combat: Teeth: Init +2, Attack +11, Defense +9, Damage 0 Claws: Init +1, Attack +9, Defense +10, Damage +1 Soak: +7 Fatigue Levels: OK, 0/0, –1/–1, –3, –5, Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –5 (9– 12), Incapacitated (13–16), Dead (17+)''
 ''Abilities: Athletics 5 (distance running), Awareness 3 (smell), Brawl 5 (teeth), Hunt 4 (track by smell) Appearance: Erect, triangular ears, a narrow muzzle, and a coat of shaggy pale grey fur. His eyes are yellowish and they have a steady, unsettling gaze.''
 
-|]
+|}
 ''Tribunal. Of course, the notion was incredible – there was no land to claim, no kingdoms by which to mark a border, and any auras would be transient at best. The clerk received short shrift and, as far as Coeris was concerned, the matter was closed. However, the clerk had a filius who had just taken his Gauntlet. This Tibor Milos was assigned by his parens to the Covenant of the Northern Seas to act as House Tremere’s eyes and ears within what could be a unique political situation. Tibor is a man with two problems. Firstly, he is beholden to his parens and must report back on the covenant’s activities. Secondly, he carries the curse of lycanthropy. When the moon is full, he turns body and mind into a savage wolf. However, he is prepared and he has brought his companion, Laszlo, who is also his translator, who oversees his confinement on the appropriate nights. Laszlo is described below. At present, Tibor must send communications back to his parens by mundane means, such as using merchant houses or redcaps to transport messages. In time, he intends to invent or acquire a magical means of achieving the same. Despite herself, Hilde is intrigued by Tibor’s lycanthropy, although this is in much''
 ''the same way a shark is intrigued by something strange bobbing about in the water.''
 ''Andrew of Jerbiton''
@@ -126,8 +130,8 @@
 ==Notable Covenfolk==
 
 ''Like other covenants, the Northern Seas has its share of companions and grogs and like other covenants not all of these characters live or travel with the magi.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Otto-Pauels==
 
@@ -136,7 +140,7 @@
 ''his still-thick hair is turning from brown to gray. When at home, he wears robes appropriate to a clerk and keeps his armor, traveling clothes, and weapons upstairs in his chamber.''
 ''The objects of virtue and the vis listed above are bought with the covenant’s Build Points; 5 Build Points for each of the enriched items and 1 Build Point for the 5 pawns of Divine Perdo vis. Any creature with an Infernal Might of 25 or less struck with the Fennel of Virtue lose 5 points of Infernal Might (Penetration +35) at the cost of one of Otto’s Fatigue Levels. In carrying the Clach Crubain close to him, Otto gains the Lesser Immunity (Arthritis) Minor Supernatural Virtue, but gains warping through being under a constant magical effect. These are described in more detail in Realms of Power: Magic, pages 126 and 127. Otto’s personal library includes four books upon the subject of the supernatural realms. These are available to the covenant, although he has the only copies and does not allow them to leave his premises. Otto lives with his housekeeper, the young widow Madamoiselle Katarine Tempête, who occasionally assists him on his adventures.''
 
-|]
+|}
 
 ==Through The Aegis Companions==
 
@@ -148,8 +152,8 @@
 ''An ally to the covenant, Dolly is socially connected with a network of agents along the coast and beyond who feed information back to her. She has enemies within the king’s men, enemies that might well close her down but for the protection she enjoys from Carles. She also has the touch of magic about her and her Entrancement power helps her to get what she wants from those she encounters.''
 ''Otto-Pauels''
 ''Otto is an adventurer at heart. Despite his years and the occasional attack of arthritis, he is still fit, and as much as he tells himself that his impetuous days are behind him, adventure always conspires to lure him out for one last job. He is a learned man and has applied this learning to matters of the unseen world. Outside of the Order, Carles knows of few men who know as much of the four realms as Otto does, especially when it comes to the undead.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Dolly Price==
 
@@ -161,7 +165,7 @@
 
 ''Characteristics: Int 0, Per 0, Pre 0, Com 0, Str 0, Sta +1, Dex +2, Qik +2 Size: 0 Age: 30 (30) Decrepitude: 0 Warping Score: 0 (0) Confidence: 1 (3) Virtues and Flaws: Custos; Animal Ken, Second Sight; Warrior, WellTraveled; Unbaptized*; Nocturnal, Tainted With Evil * Realms of Power: The Divine, page 93 Personality Traits: Loyal to Tibor +3, Pensive +2, Tenacious +1 Combat: Dodge: Init +1, Attack n/a, Defense +6, Damage n/a Fist: Init +1, Attack +6, Defense +6, Damage +0 Kick: Init +0, Attack +6, Defense +3, Damage +3 Bludgeon: Init +0, Attack +8, Defense +6, Damage +2 Dagger: Init +1, Attack +9, Defense +8**, Damage +3 Throwing Knife: Init +1, Attack +8, Defense +7, Damage +2 Short Sword and Buckler: Init +1, Attack +9, Defense +8, Damage +5 **	 Laszlo uses two daggers when fighting, with the blade in his left hand used to parry and redirect as others might use a buckler. This gives him a +1 to his Defense score when using daggers. Soak: +3 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Animal Handling 3 (wolves), Animal Ken 5 (wolves), Brawl 4 (Dagger), English 3 (slang), Folk Ken 2 (peasants), German 2 (slang), Hunt 2 (wolves), Italian 1 (slang), Latin 3 (hermetic usage), Leadership 2 (animals), French 4 (Norman), Second Sight 5 (illusory disguises), Single Weapon 3 (short sword), Magyar 5 (slang), Stealth 2 (natural areas), Survival 2 (woodland), Swim 2 (underwater maneuvering), Thrown Weapon 4 (throwing knife) Equipment: Partial Metal Reinforced Leather Armor, knives, short sword, buckler Encumbrance: 2 (2) Appearance: Laszlo has mid-length white hair and long angular features. He remains scrupulously clean-shaven. His leather and iron ring mail is usually topped with a knee-length hooded traveling cloak, concealing the daggers at each thigh and the belt of small throwing knives around his middle.''
 
-|]
+|}
 ''Otto spends his days in his Boulogne home and office as a clerk, but supplements his income with commissions from all comers to investigate the strange, the untimely, and the impossible. His office is also the covenant’s nominal council chamber as required by Normandy convention.''
 ''Laszlo''
 ''Laszlo is a loyal servant of House Tremere and the guardian of Tibor Milos. He is no grog, however, for he is Custos; trusted and respected and first among covenfolk. He has traveled extensively in his time and learned a little of many languages. But it is not this that selected him for the role of Tibor’s man. It was his uncanny ability to speak with the animals. Laszlo has always had a deep understanding and affinity with the beasts of the world and given Tibor’s curse, this ability makes him valuable. He is a pensive man and given rather more to the night than the day. He suspects that’s what tends to make others suspicious of his motives.''
@@ -169,8 +173,8 @@
 ==Grogs==
 
 ''The description of a base covenant in ArM5, page 71 provides for about one grog (fighter) per magus and about two other servants of various trades or professions. The servants are likely to include clerks and cabin-boys to fetch and carry for the magus. These are not detailed here and you should consider the Urchin statistics in Apprentices, page 30 for any young cabin-boys in the fleet. Of the named grogs described nearby, you can assume that each of the covenant’s six magi have one on board their ship with them. Players may like to decide among themselves which of these grogs they claim.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Young Feeble Feeble is so called by the turb on account of his stammering and his morbid fear of dogs.==
 
@@ -204,7 +208,7 @@
 ''Damage +4 Axe & heater shield: Init +2, Attack +13, Defense +11, Damage +7 Soak: +7 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11– 15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Area 2 (brewers), Athletics 2 (climbing), Awareness 3 (in combat), Brawl 5+2 (Bite), Carouse 4 (drinking), Charm 3 (when drunk), Chirurgy 3 (cauterization), Organization Lore: Covenant of the Northern Seas 2 (personalities), English 5 (talking about fighting), Folk Ken 1 (magi), Great Weapon 3 (long spear), Guile 3 (lying to magi), Music 2 (drinking songs), Ride 1 (pack horse), Single Weapon 5 (heater shield), Survival 1 (on rivers), Swim 2 (underwater maneuvering) Equipment: Heater shield; Pack; Partial Metal Reinforced Leather Armor; Ax Encumbrance: 1 (2) Appearance: Bearded, hunched, and reeking. His armor is loose and filthy, possibly more use for carrying chunks of bread and cheese inside for when he gets hungry. He does have an ax and a shield, but frequently forgets them and so is just as often seen without them as with.''
 ''Fang enjoys grappling and brawling, which makes for an effective means of subduing enemies rather than hacking at them indiscriminately.''
 
-|]
+|}
 
 ==Through The Aegis Specialists and Other Covenfolk==
 
@@ -216,8 +220,8 @@
 ''Specialists''
 ''The covenant does not generally take its specialists with it, which means that the covenant must visit certain ports in order to use the services provided by their specialists. These invariably are Carles’ social contacts, all either paid by the covenant for prompt and preferential treatment or in debt to Carles and Hilde in some way. These specialists are always prepared to take on unusual or even dangerous commissions The following specialists are available, and unless otherwise marked they each cost 6 Build Points for their highest primary Ability. The Chaplain: Clovis knows enough of the Order to know that they frequently endanger their own souls and the souls of those around them. While he tends his parish near St. Malo, he may occasionally sail with the covenant if asked. He is useful as a messenger, a mediator, a neutral party, and as a conscience. He costs 51 Build Points as this includes the cost of his Bible. The Bible: Summa, Theology (Level 10, Quality 3), Summa, Church Lore (Level 3, Quality 3) The Sail Maker: Stephen is a sail maker working out of his Cherbourg sail loft. While skilled, he lacks the innovation in his workshop to make him stand out, something he intends to ask the covenant for help in.''
 ''The Carpenter: Hugh is master carpenter with access to wood and timber from across the known world. He is also able to find and pass on exotic wood by request, such as lightning-struck oak, or a cypress upon which a man has hanged for three days. Hugh costs 21 Build Points as this includes a +2 Raw Materials bonus to his workshop. The Rope Maker: Guerrier of Abbeville on the Somme operates a thriving ropewalk. Guerrier costs 21 Build Points as this includes a +2 Innovation bonus to his workshop. Shimon Avraham: Shimon is a prominent tax collector at Barfleur and a strong ally to the covenant. A member of the town’s Jewish community, he owes much to the covenant’s elder magi for help and protection they afforded him and his family some years ago. He can ensure that some cargoes go through the port unchecked and uncounted. He costs 8 Build Points for his Profession: Tax Collector Ability. The Merchants: The covenant has friendly merchants in Antwerp, London, and Paris, which accounts for the stability of their trade and transport income. These three merchants alone may not be able to increase this income, but they do look after the covenant’s interests.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Thrice-Dead Ned==
 
@@ -227,7 +231,7 @@
 ''Lore 3 (grogs), Single Weapon 7 (round shield), Stealth 3 (when armored), Survival 1 (when in a group), Swim 1 (staying afloat), Thrown Weapon 4 (knife) Equipment: Round Shield; Ax; Crossbow; Full Metal Scale Armor; Pack Encumbrance: 4 (5) Appearance: Despite his years, his welltrained arms and shoulders still fill his armor well. His beard may be gray, his eyes a little rheumy, and he may be a little hard of hearing, but he has a lightness to his step and ready smile.''
 ''Thrice-Dead Ned benefits from a Stamina of 4 +3 for Rapid Convalescence in all Wound Recovery Rolls, as detailed in ArM5, page 179. He does however have some Aging Points against a few of his characteristics, which puts him at risk during each winter. Ned isn’t clever, but he isn’t stupid either. He knows he’s getting on a bit and prefers to use his crossbow from range, reloading while others keep danger at bay. Ned uses the Crossbow Ability from Lords of Men, page 138, and spans his crossbow using a belt hook.''
 
-|]
+|}
 
 ==Through The Aegis Covenant Organization==
 
@@ -239,8 +243,8 @@
 ''Income and Supplies''
 ''There are few laws at sea and the Northern Seas takes full advantage of this. Merchants and smugglers risk their cargoes to pirates, storms, and the vagaries of the ocean. To these can be added the magi of the Northern Seas. Trade may ultimately make up some of the covenant’s income, but the more experienced of the magi are not above taking what they want from ships that cross their paths.''
 ''However, the current source of income is from trade; transporting goods from one port to another. On its own, with a fleet of six ships, this should provide a decent income for a wealthy merchant. However, the six ships need to support the same number of magi, which brings its own costs. As described later in the chapter, the small in''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Sailor of the Northern Seas==
 
@@ -251,7 +255,7 @@
 
 ''Characteristics: Int +1, Per 0, Pre +2, Com +2, Str 0, Sta 0, Dex 0, Qik 0 Size: 0 Age: 35 (35) Decrepitude: 0 Warping Score: 0 (0) Confidence: 1 (3) Virtues and Flaws: Merchant Adventurer*; Ways of the Sea; Arcane Lore, Inspirational, Vernacular Education*; (one of Favors, Feud, Fury, or Plagued by Supernatural Entity), Overconfident * Virtue from City & Guild Personality Traits: As per the individual Combat: Dodge: Init –1, Attack N/A, Defense +3, Damage N/A Fist: Init –1, Attack +3, Defense +3, Damage +0 Kick: Init –2, Attack +3, Defense +2, Damage +3 Bludgeon: Init –2, Attack +6, Defense +4, Damage +2 Dagger: Init –1, Attack +5, Defense +3, Damage +3 Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Normandy Coast 3 (coves), Artes Liberales 2 (astronomy), Athletics 2 (aboard ship), Awareness 3 (weather), Bargain 4 (grains), Brawl 3 (Bludgeon), Carouse 3 (drinking songs), Organization Lore: Covenant of the Northern Seas 1 (personalities), Dominion Lore 1 (saints), English 3 (naval terms), Faerie Lore 2 (sea faeries), Low German 4 (Flemish), Folk Ken 3 (port authorities), Guile 4 (lying about cargo), Latin 3 (hermetic usage), Leadership 3 (crewmen), Magic Lore 3 (sea monsters), French 5 (Norman), Order of Hermes Lore 2 (covenants), Profession: Sea Captain 5 (Normandy coast), Stealth 2 (hide), Swim 2 (oceans) Equipment: Quilted Armor, dagger Encumbrance: 2 (2) Appearance: As per the individual''
 
-|]
+|}
 ''come from legitimate trade is not yet sufficient to cover these costs. The covenant has a little time to decide, but the magi of the Norther Seas need to determine how they are going to keep the Northern Seas crews paid, ensure the ships are maintained, and buy the all-important devices and equipment used in Hermetic laboratories. Their trade income is there to be developed and piracy is still being debated. The covenant does have its own reserves of silver, a sizable sum in fact, which should support the covenant for a while, but before long the young covenant will need to earn its keep.''
 ''Study and Laboratory Work''
 ''The magi of the Northern Seas spend their time as other magi do, in their laboratories, inventing spells, and creating enchanted devices. They face several challenges in this that others do not, principally the lack of a covenant aura and the unusual situation of their laboratories. These laboratories are described in detail later in this chapter and take account of the inherent dangers of trying to work at sea. For particularly delicate work, or in times of severe weather, the magus might choose to anchor up and work from a safe harbor. The lack of aura does not prevent magic from being used of course, but the magi of the Northern Seas do not enjoy the same benefit that other more conventional''
@@ -262,8 +266,8 @@
 ''Life at sea is hard enough, but there are distinct challenges for a magus whose career consists of long months of study and delicate laboratory work.''
 ''Charting The Ocean''
 ''The magi of the Northern Seas, young as they are, rely upon their elder and more experienced captains for their knowledge of the ocean currents, storm fronts, and treacherous coastlines. These captains do not, however, have knowledge or understanding of the supernatural auras. The magi of the Northern Seas are therefore setting out to chart such auras that can be found both on the surface of the sea and beneath it. Just as a magus on land might find, follow, and exploit a magical stream, so the magi of the Northern Seas believe they can do the same for currents and flows in the ocean. This is not so far-fetched as some land-locked magi might first think. Consider that magical stream and where its waters come from and go. The waters are within that stream for so short a time, and yet they carry magic with them while part of that stream. The same is true for the currents, swirls, and eddies that every captain knows. The deep currents between Iceland and the Faroes may hold older and stronger magical auras than anyone suspects. Each magus has a copy of the Carta Ma''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Gift of Magestones==
 
@@ -281,7 +285,7 @@
 
 ''Having heard of a valuable cargo of silver and other treasures on its way to Denmark, the covenant resolves to take it. When they board the ship, however they find little treasure but a handful of monks on their way to save a village from the curse of devilry and witchcraft. The treasure on board is the sacred relics and paraphernalia that they carry with them. Do the magi take the treasure and leave the monks and the villagers to their fate, or do they take the virtuous path?''
 
-|]
+|}
 ''rina, a map of the ocean, which they update. See additional details on the Carta Marina later in this chapter.''
 ''The Charter''
 ''The charter of the Northern Seas is quite light on the kind of detail that other magi might expect. There are no degrees of membership. Here is a description of the principle clauses:''
@@ -339,8 +343,8 @@
 ''The laboratory on the Laurens has the statistics for the standard shipboard laboratory detailed above.''
 ''Captain''
 ''The Laurens is captained by a Breton by the name of Tiessot. He has a tendency to walk the ship at night, when things are calm''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Long Bone of Saint Epiphanius==
 
@@ -348,7 +352,7 @@
 ''Babel Rejoined''
 ''InMe 40 Pen +8, 2/day R: Touch, D: Sun, T: Hearing Those in the same structure as the long bone of Epiphanius understand the spoken words of all others within the structure regardless of the languages that any of them speak. To benefit, targets must at least nominally be members of either the western or eastern Churches. Jewish and Islamic characters do not benefit, neither do heretics, pagans, or those aligned with the Infernal. The power is activated by invoking Saint Epiphanius in the presence of the bone, something widely-known by the crew. (Effect: Base 5, +1 Touch, +2 Sun, +3 Hearing; Modifications: +1 for 2/ day, +4 for +8 penetration) This relic costs 35 Build Points.''
 
-|]
+|}
 ''est, and take his turn on watch. He enjoys these quiet moments when he can be alone with his thoughts. Those thoughts often turn to Columba, a woman he knows he can never have nor ever speak of his affections. His Personality Traits are Thoughtful +3, In love with Columba +2, Protective of his crew +1.''
 
 ==Le Genet: Tibor Milos==
@@ -374,14 +378,14 @@
 ''This race of aquatic faeries are anatomically similar to humans from the waist up, but they have a fish-like tail from the waist down. They also breathe water like a fish, having gills located just behind the jawline, often obscured in male Merfolk by prodigious tightly-curled beards. Merfolk have a tendency to the barbaric, though they might claim adventurous instead. Warfare between the different tribes of the sea is a part of everyday life, so much so that a young Merfolk boy does not become a man until he has made his first kill, whether that is another Merfolk, a great beast of the deep, or a human from the world above. Merfolk fight with the trident and net, often using the net to capture their enemies alive, so that they might be sacrificed to their gods. The magi of the Northern Seas have an uneasy alliance with the capricious Merfolk. The mutual respect was initiated not by Carles’ politicking but by the Merfolk’s awe at Hilde’ shark heartbeast. A warband chanced upon Hilde one day and tried to slay the shark. After Hilde had killed seven of her assailants, the others surrendered to the victor. Hilde is now viewed with reverence, like a legendary hero who walks among them. For her part, Hilde claims to find this all a bit unsettling. Regardless, the Merfolk recognize the ships of the Northern Seas and leave them to their business. Use the Triton statistics for Merfolk, as provided in Realms of Power: Faerie, page 90.''
 ''The Covenant of Favonius''
 ''The covenant of Favonius in the Tribunal of Thebes is, like the Northern Seas, housed on several ships. Like the Northern Seas it also has contacts and properties on dry land. But it differs from the Northern Seas in two important ways; Favonius has the power to enchant its ships and it is ideologically wedded to the current status quo with regards to Tribunals.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Rusted Bars==
 
 ''All iron rusts and corrodes at sea, but never as quickly as that fateful night. Although Tibor retired to his cage at the onset of the wolf, the bars quickly crumbled and broke under the wolf’s attack. This freed Tibor and the wolf had free rein all over Le Genet. Are the crew able to safely recapture their transformed master? Was the rusting of the bars natural or was there a malicious power at work? Who would want to seed fear and mistrust within the Northern Seas?''
 
-|]
+|}
 ''Carles has discussed both of these with the Favonius’ leader and principal enchanter, Memnos and hopes one day to both commission an enchanted vessel from him and to persuade him to throw off the Tribunal of Thebes and strive for freedom. For their part, Favonius sees Carles and his magi as following in their wake and wish them nothing but favorable winds and smooth sailing.''
 ''John Padbury of House Verditius''
 ''John Padbury is a Verditius with a dream. He is a carpenter and budding shipwright attempting to establish a small Hermetic shipyard in Smallhythe in the Stonehenge Tribunal. At present, he is working on his own with a small and hard-pressed band of mundane carpenters and has nothing even approaching the kind of expansive and open laboratory he needs. If Carles and the Northern Seas are keen to help him, however, he is willing to repay the debt in kind by providing such enchantments that they might request. Smallhythe is a little way inland, but the river that runs to the small town is deep enough that coastal busses, hulks, and unladen cogs can navigate quite easily. It is a place already well established in shipbuilding.''
@@ -394,15 +398,15 @@
 ''The covenant of Waddenzee in the Rhine Tribunal are rivals to the Northern Seas by virtue of operating their piracy in waters sailed by Carles and his followers. Although the covenant itself is housed on land, the magi of Waddenzee are notorious pirates and may not think twice about trying to take from the Northern Seas. If things were different, Waddenzee, with its reliance on ships, would make an ideal partner to Carles in founding a new Tribunal, but he cannot in all conscience include them in his plans for fear of the aggression and plunder that might follow.''
 ''Oculus Septentrionalis''
 ''The Rhine covenant of Oculus Septentrionalis was founded with the intention of extending the Rhine Tribunal’s reach northwards. While this has stalled, the covenant, along with others of similar mind, are examining the possibility of seceding from the Rhine and forming their own Tribunal. At first glance, this looks like a good fit for the Northern Seas. However, these covenants, and Oculus in particular, would bring too much history and politics to the venture to secure a decent start. However, Estrid Danesson of House Ex Miscellanea is a young magus and has a lifestyle very similar to those of the Northern Seas. It may be possible to persuade Estrid to leave Oculus and join the Northern Seas, which would bring new knowledge to the covenant, if only Estrid’s wife could be persuaded to leave her current life to start a new one.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Feliadexter==
 
 ''Order: Tempters Infernal Might: 20 (Mentem) Characteristics: Int +1, Per –1, Pre +1, Com +3, Str +3, Sta +3, Dex +2, Qik +2 Size: 0 Confidence Score: 1 (3) Virtues and Flaws: Weak-Willed Personality Traits: Selfish +5, Cruel +4, Angry +3, Spiteful +3 Reputations: None Hierarchy: 0 Combat: Claws: Init +3, Atk +6, Def +5, Dam +5 Tongue: Init +4, Atk +7, Def +7, Dam +0 Soak: 3 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20) Abilities: Brawl 3 (whip), Charm 4 (chosen victim), Folk Ken 6 (character faults), Guile 6 (imaginary faults) Powers: Possession, variable points, Init +2, Mentem: See Realms of Power: The Infernal, page 32. Coagulation, 2 points, Init –1, Corpus: See Realms of Power: The Infernal, page 31. Obsession (Cruelty), 1 to 3 points, Init –5, Vim: See Realms of Power: The Infernal, page 31. Weakness: Love, freely given Vis: 4 pawns of Mentem vis sordida found in the demon’s bowels Appearance: Feliadexter’s true form is that of a spindly bony man with rips tearing through his skin. His mouth is forced open so far that his head always tips back, and out of it spills a massive tongue as wide around as a grog’s arm. The tongue flails around and it is this he uses in combat as a whip.''
 ''The possessing spirit of Feliadexter has a Possession Pool of 15, which should be used in place of the Might Score listed above. Points from this Possession Pool are not regained. His Possession power has no other Might cost other than the points Feliadexter chooses to place within the host. This means that the demon can jump between hosts with no loss of power and, as the part has the powers of the whole, even split off further possessing spirits and place them within additional crewmembers.''
 
-|]
+|}
 
 ==Resources==
 
@@ -421,14 +425,14 @@
 ''Carles possesses an arcane connection to each ship in the fleet in the form of a carved miniature made from the wood of their frames. When these are individually placed onto this enchanted map, which is the triggering mechanism, the miniatures sail to their appropriate locations. Hilde knows of this map, and Matilda Page suspects, having found a recently cut section of Trinite’s keel. Hilde has a copy of the laboratory text for this device, which was commissioned from a magus of Verdi in the Roman Tribunal. The chart has two effects. The first finds the fleet through individual arcane connections to the vessels placed upon the chart. The second uses the information provided by the first to move these wooden tokens to their appropriate place on the chart. The large chart of wood and parchment has been opened with eight pawns of vis and the two enchantments currently use four of those pawns. This device costs 12 Build Points. Finding the Fleet''
 ''InHe 14 Pen +0, 12/day R: Arcane Connection: D: Momentary, T: Individual Provides information on the location of a target ship given an arcane connection to it. (Effect: Base 2, +4 Arcane Connection; Modifications: +4 for 12/day)''
 ''Mark the Fleet ReHe 11 Pen +0, 12/day R: Touch, D: Momentary, T: Individual Moves the token placed upon the chart to the location indicated by the Finding the Fleet effect. (Effect: Base 3, +1 Touch; Modifications: +4 for 12/day, +3 triggered by Finding the Fleet)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Fall of the Mercantile Families==
 
 ''When a series of sustained pirate attacks along the Rhine coast threatens to bring down several prominent mercantile trading families, the Northern Seas must act to protect its monetary interests. When it becomes clear that the covenant of Waddenzee is responsible, the covenant has some hard decisions to make. On their own, they may not be strong enough to oppose Waddenzee, but can they find aid from other covenants similarly affected and similarly intimidated? Perhaps the covenant could instead persuade these separate families to band together and coordinate their activities and their wealth for the protection of all.''
 
-|]
+|}
 ''Bell of Summoning''
 ''CrIm 30 Pen +0, 12/day R: Arcane Connection, D: Diameter, T: Individual Commissioned from a Verditius working out of Verdi, when rung this bell sounds throughout all six ships of the fleet, using up six of its 12 uses. This allows the bell to be rung twice with effect. The bell is housed on La Charytee to be rung when Carles gets to port ahead of a council meeting. The bell is usually rung twice in succession, once to alert the magi and again to give them chance to locate the direction of the magic using their Magical Astrolabes, described below. (Effect: Base 1, +4 Arcane Connection, +1 Diameter; Modifications: +4 for 12/day, +16 for +32 penetration) This device costs 12 Build Points.''
 ''The Magical Astrolabe''
@@ -504,21 +508,21 @@
 ==Player Character Roles==
 
 ''The four younger magi are suitable for use as player characters while Carles and Hilde are best used as storyguide characters, either to provide the impetus for ad''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Oyster Prince==
 
 ''The long-lost son of the Oyster King returns to the sea to take up his kingdom. His first decree is that those who murdered and robbed his most noble father should be found and made to pay for their crimes. When the creatures of the sea themselves turn against the covenant of the Northern Seas the magi must either go to war with an implacable foe or persuade Hilde to give up her hard-won trophies. Even then, is that enough for the Oyster Prince?''
 
-|]
+|}
 ''venture and story or as resources that the players may call upon to help confront certain challenges. Individual magi fulfill different roles. Matilda Page is a very much the quartermaster and is the maga to go to in order to develop the magical tools they need, including offensive capabilities. Columba provides a route into Order politics, partly because of her understanding of the Code and partly because of her notoriety. Andrew has the potential to be a great generalist, able to provide strong support to other magi, companions, and grogs in the party. Tibor Milos has the potential to protect and control using his strong Rego and spells concerning demons, spirits, and beasts. As a werewolf, he also provides an interesting combat option. The grogs are important as they provide the muscle that the magi individually lack.''
 ''Dealing with the Elder Magi''
 ''Setting up a covenant with two slightly elder magi NPC characters can sometimes present a challenge to storytelling as the younger magi may seek advice or help rather too readily from their elders. For the Northern Seas, however, this is less of a problem. Carles suffers from a magic addiction, as per the Flaw, and as such is reluctant to cast magic of his own when there are perfectly capable junior magi able to cast their own spells. It is also part of Carles’ plan to make the junior magi more independent of him; he wants them to outgrow him in preparation for the day they leave and found''
 ''their own ocean-going covenants. Hilde is prepared to help, but tends to do as directed rather than pro-actively solving problems. She is also generally unwilling to leave Carles for extended periods, especially if the suggested task is going to take her ashore. As for dominating council sessions, Carles only does so through holding the casting vote and that only through age. He abides by council decisions and while he may privately work on a backup plan in cases where he loses the argument, he also works as directed to uphold the council’s decision.''
 ''It is also possible that Carles and Hilde may decide to sail separately from their juniors for a season or two, perhaps hunting down a newly-discovered magical sea creature, or charting a new aura. The junior magi are left to determine the covenant’s course, deal with events as they arise, and hopefully grow as leaders and magi out of the experience. This very much places the player characters in charge of the covenant; they have elders they can turn to for advice, but elders for whom it is not in their interests to mollycoddle their juniors.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Covenant Finances==
 
@@ -532,7 +536,7 @@
 ''Base Loyalty    –30 Modifier Covenant Age  +2 Turb Captain   +5 Living Conditions   0 Austerity    0 Total    –23''
 ''Furthermore, this is simply the prevailing loyalty. Discipline on board ship needs to be carefully handled if the magi do not want to further alienate their crews. In order to reverse this trend, the covenant could employ a turb captain, steward and a chamberlain, all of whom help to improve the prevailing loyalty.''
 
-|]
+|}
 
 ==Through The Aegis Suggested Storylines==
 
@@ -580,5 +584,6 @@
 ''magic auras? How could such auras be sustained? The Northern Seas may be willing to fund such original research, given that success would open up the oceans of the known world to magi of the Order. As the covenant grows, the magi may acquire properties ashore, perhaps even in magic auras, that they might need others to watch over for them. Spring covenants may benefit from this arrangement as they gain use of Northern Seas properties, while making them available to the magi when needed. Vis sources might also be treated in the same way, with magi collecting vis on behalf of the Northern Seas and taking a share in return. Alternatively, The magi of the Northern Seas may not invest directly in land, but might instead pay a stipend for the use of facilities, resulting in frequent visits.''
 ''Filial Relationships''
 ''The magi of the Northern Seas are predominantly young, barely out of apprenticeship in some cases. This means that those characters could be used as or replaced by the filii of your saga’s magi. This gives your existing covenant a link to the Northern Seas, with perhaps obligations to support individual magi along with opportunities to be brought into their unique stories. Player apprentice characters may decide, like Columba, to run away to sea, swept away with the romance and adventure of it all. The Northern Seas would make a good backdrop to stories of these apprentices discovering more about themselves in an environment that contrasts with the more formal and more usual covenant that they came from. In such stories, the other troupe players could easily pick up and play the magi of the Northern Seas.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

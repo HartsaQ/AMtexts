@@ -41,8 +41,8 @@
 ''Fast Might Recovery Minor, Supernatural This Virtue allows faeries to recover spent Might in a quarter of the normal time. Instead of completely refreshing its Might over the course of 24 hours, the character restores its entire Might Pool in only six hours.''
 ''Feast of the Fae Minor, Supernatural This Virtue allows a faerie to recover 5 lost Might by receiving traditional sacrifices left from a human. Sacrifices include food left on doorsteps for the faerie to consume, but some dark faeries feed on the wards left to keep them at bay, accepting them as the price that humans pay for safety. This power can only be used once per day.''
 ''Feast of the Dead Minor, Supernatural This Virtue allows a faerie to recover 2 lost Might after draining a Long Term Fatigue Level from, or causing at least a Medium Wound to, a human. Different fairies employ various methods to extract vitality from humans. This Virtue does not, of itself, cause damage. For example, a faerie that feeds on the blood of sleeping shepherds must make a successful Bite attack to drink sufficient blood from a sleeping shepherd to cause the loss of a Long Term Fatigue Lev''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Quick Start Guideline==
 
@@ -51,7 +51,7 @@
 ''the presence of whatever the ward is, and cannot touch someone who has the ward, either personally, with the faerie’s equipment, or by using a power. Contact with the ward will burn the faerie. The faerie cannot regenerate Might in the presence of the ward.''
 ''Before play, balance up the Virtues and Flaws, paying attention to the Inappropriate Virtues and Flaws section. Skim the introductory text to each section, but pay particular attention to the powers of the faerie body. Read the detail of the Virtues and Flaws selected above. Select some Greater Powers if you like. They are based on a Major Virtue and allow your character to affect others mystically. Faerie Speech may prove especially useful if your faerie interacts with characters who speak a diversity of languages.''
 
-|]
+|}
 ''el. The faerie’s player can then claim 2 lost Might points.''
 ''Increased Faerie Might Major or Minor, Supernatural As a Minor Virtue, this increases the faerie’s Might Score by 5. As a Major Virtue, it increases Might by 15. With the approval of the troupe, this Virtue may be taken multiple times.''
 ''Time or Place of Power Minor, Supernatural The character’s Might Score is 10 points higher at a certain time or in certain places that are strongly linked to the character’s role. The time or place is known to any character who makes an Intelligence + Faerie Lore roll of against an Ease Factor of 9. This Virtue may not be taken multiple times.''
@@ -77,8 +77,8 @@
 ===Regeneration===
 
 ''The bodies of faeries are often damaged, but they consider that insignificant. A faerie may be required by its role to feel pain, or simulate it in the case of highly cognizant faeries, but pain isn’t meaningful to most faeries. They do not associate their pain with suffering in the way humans do. Some faeries''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Scale of Typical Might Scores==
 
@@ -86,7 +86,7 @@
 ''Score Example 1-10 An ordinary creature of a realm. 1 Black Terrors, Kubu 5 Brownie, Centaur, Dwarf, Faerie Dog, Faun, Kelpie, Satyr, Sprite 10 Barking Beast, Glanconer, Minor Knight, Triton, Unicorn 11-20 Moderately powerful. Comparable, at least, to a starting magus. Mormo, Orm (Size –2)''
 ''20 Ghula, Orm (Size 0), Valkyrie 21-30 Fairly powerful. 25 Faerie Champion, Gorgon 30 Fachan, Orm (Size +4) 31-40 Very powerful. Faerie lords, minor dragons, and the like. 35 Faerie Noble, Lamia, Orm (Size +6) 41-50 Extremely powerful. Pagan deities, major dragons, etc. 45 Lamashtu 51-75 Earth-shakingly important figures. Great dragons, Jove himself. n/a Black Faced Hermes''
 
-|]
+|}
 ''report, how truthfully cannot be known, that when the Summer and Winter Courts make war upon the Equinox, the knights often chop each other to pieces. Once the battle has been won, they cease pretending to be human for long enough to reassemble themselves, then resume their roles and feast. If a human witness were present, this would not be possible: the bodies of the faeries would have to remain dead to suit their role. One of the faeries present often has a role that allows it to bring faeries back from the dead, if this occurs. Faerie bodies regenerate as rapidly as is suitable to their story. Incognizant faeries heal swiftly and well, without die rolls, unless required to remain ill by their role. Narrowly and highly cognizant fairies can repair all but the cosmetic level of the damage their body has suffered, at will, once the scene they are participating in has concluded. Many do not even notice they are doing it, healing the superficial damage at a rate that appears reasonable to human viewers. If killed by humans, or with humans witnesses, faeries may eventually rebuild a body, although it takes time. The time taken to regenerate equals the faster of the Faerie Might Score in months or Faerie Might Score / Aura (as modified by the Realm Interaction Table) in months. An incognizant faerie that rebuilds its body believes itself to be linked to, but not actually, the previous faerie. It might, for example, believe that it is its own daughter or brother. Narrowly cognizant faeries may return with their memories intact, although the incident that caused their body to be destroyed is hazy. Highly cognizant faeries can change roles, at the player’s discretion, between bodies, so that they appear as an entirely different type of faerie following their death. They retain the same number of Virtues, Flaws, and Pretenses, but may swap the ones they currently possess for a new set.''
 
 ===Permanent Death===
@@ -124,14 +124,14 @@
 ''Strength, –(Size) Quickness Modifier: +2 Size: Huge Must Select: +4 Strength, –2 Quickness''
 ''Modifier: +1 Size: Large Must Select: Characteristics aren’t adjusted''
 ''Modifier: 0 Size: None Must Select: Characteristics aren’t adjusted''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==What Do Size Scores Represent?==
 
 ''Size Height Weight Comparison Wound Penalties –1 an inch less than 1 oz. butterfly Dead (1+) –10 4 – 5 in. 1 oz. mouse Dead (1+) –9 6 – 7 in. 1.5 oz. bat, frog Dead (1+) –8 8 – 9 in. .25 – .5 lbs mole, toad Dead (1+) –7 10 – 11 in. .5 – 1 lb rat Incapacitated (1), Dead (2+) –6 12 – 13 in. 1 – 2 lbs lizard –5 (1), Incapacitated (2), Dead (3+) –5 14 – 15 in. 2 – 5 lbs rabbit –3 (1), –5 (2), Incapacitated (3), Dead (4+) –4 16 – 20 in. 5 – 10 lbs adder –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5+) –3 21 – 32 in. 10 – 22 lbs baby, cat –1 (1–2), –3 (3 – 4), –5 (5 – 6), Incapacitated (7 – 8), Dead (9+) –2 2’9” – 3’9” 22 – 46 lbs child, sheep –1 (1 – 3), –3 (4 – 6), –5 (7 – 9), Incapacitated (10 – 12), Dead (13+) –1 3’9” – 4’9” 46 –100 lbs adolescent human, wolf –1 (1 – 4), –3 (5 – 8), –5 (9 – 12), Incapacitated (13 – 16), Dead (17+) 0  4’9” – 6’2” 100 – 215 lbs adult human, pig –1 (1 – 5), –3 (6 – 10), –5 (11 – 15), Incapacitated (16 – 20), Dead (21+) 1  6’2” – 8’ 215 – 465 lbs big human, pony –1 (1 – 6), –3 (7 – 12), –5 (13 – 18), Incapacitated (19 – 25), Dead (26+) 2  8’ – 10’ 465 – 1000 lbs horse, bear, lion –1 (1 – 7), –3 (8 – 14), –5 (15 – 21), Incapacitated (22 – 28), Dead (29+) 3  10’ – 13’ 1000 – 2150 lbs aurochs, moose, warhorse	 –1 (1 – 8), –3 (9 – 16), –5 (17 – 24), Incapacitated (25 – 32), Dead (33+) 4  13’ – 17’ 2150 – 4600 lbs elephant –1 (1 – 9), –3 (10 – 18), –5 (19 – 27), Incapacitated (28 – 36), Dead (37+) 5  17’ – 22’ 2 ½ – 5 tons killer whale –1 (1 – 10), –3 (11 – 20), –5 (21 – 30), Incapacitated (31 – 40), Dead (41+) 6  22’ – 28’ 5 – 10 ½ tons  –1 (1 – 11), –3 (12 – 22), –5 (23 – 33), Incapacitated (34 – 44), Dead (45+) 7  28’ – 37’ 10 ½ – 23 tons small dragon –1 (1 – 12), –3 (13 – 24), –5 (25 – 36), Incapacitated (37 – 48), Dead (49+) 8  37’ – 47’ 23 – 50 tons  –1 (1 – 13), –3 (14 – 26), –5 (27 – 39), Incapacitated (40 – 52), Dead (53+) 9  47’ – 61’ 50 – 107 tons humpbacked whale –1 (1 – 14), –3 (15 – 28), –5 (29 – 42), Incapacitated (43 – 56), Dead (57+) 10 61’ – 79’ 107 – 230 tons  –1 (1 – 15), –3 (16 – 30), –5 (31 – 45), Incapacitated (46 – 60), Dead (61+)''
 
-|]
+|}
 ''Modifier: –1 Size: Small Frame Must Select: Characteristics aren’t adjusted''
 ''Modifier: –2 or –3 Size: Little Must Select: –(2 x Size) Strength, +(Size) Quickness''
 ''Modifier: –4 or more Size: select Little twice Must Select: –(2 x Size) Strength, +(Size) Quickness''
@@ -204,14 +204,14 @@
 ===Folk Charms===
 
 ''Folk charms are trinkets made to protect people by repelling faeries. In Italy, for ex''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Unspecialized Role==
 
 ''Faeries do not require the Virtues that allow characters to have Martial, Arcane, or Academic Abilities to have Pretenses for them. These Abilities tend to be used by skilled professionals, and faeries attempting to use these pretences in military camps or universities are rapidly detected as fraudulent and supernatural.''
 
-|]
+|}
 ''ample, people make a finger sign as a charm, while in Greece they often paint eyes on things instead. A character with this taboo cannot face folk charms, deliberately used, from any culture; faeries from the Yorkshire do not emigrate to Italy to escape witch bottles, and Greek faeries cannot merely leave Greece to escape their weakness before the sign of the evil eye. Objects that were once the focus of worship may maintain their power over faeries, despite having no supernatural strength, insofar as Hermetic magi can detect it. On the Isle of Man, for example, it is traditional to plant a species of tree once sacred to the god Thor by the door, and carry a fishbone that looks a little like Thor’s hammer, to dissuade faeries. The locals no longer revere Thor, but the bones and trees continue to ward off faeries. Individual people may have folk charms that those skilled in Faerie Lore would not recognize, because they are not part of a traditional tale. These are items that are precious and meaningful to the human, and in whose power to grant aid the human devoutly believes. These items are an Arcane Connection to the human. They vary from “lucky” clothes, through the toys of children that scare away nursery bogies, to ships that never founder in unnatural seas.''
 
 ===Herbs===
@@ -272,8 +272,6 @@
 ''Personal Power Minor Virtue, Supernatural The character has a spell-like power, which is designed at character creation like a formulaic spell. Personal powers must have Personal Range.''
 ''This Virtue grants the character 25 levels to spend on a power, and may be taken multiple times to allow for effects of higher level. Personal Powers have a Might Point cost equal to (the magnitude of the effect / 2), and an initiative score equal to the char''
 
-[|
-
 ==An Exemplary Catalog of Faerie Powers==
 
 ''Faerie powers that could be simulated by Hermetic magic are designed using the Virtues given in this section and summarized in the adjoining table. Each Virtue gives a number of spell levels, a Might cost, and an Initiative score for the powers it permits. There are many other powers, collected from folklore, that are designed on a less-structured basis, but if they merely imply that faeries have targets or ranges that are inaccessible to Hermetic magi, they use these rules to help guide their cost. Faeries gain one use of a power each time they spend its cost in Might. Penetration for a Faerie Power is calculated as shown on page 191 of ArM5: Might Score – (5 x Might Point cost) + Penetration bonus. This means that to increase a power’s Penetration Total, you must decrease the power’s cost, increase the character’s Might Score, or improve the character’s Penetration score. Wound and Fatigue penalties do not apply to powers unless the character has the Role Requires Suffering Flaw, described in the Flaws for Physical Forms section above, although some faeries pretend that they are inconvenienced by wounds so that their story can be finished with a heroic victory by a human. A character whose Might pool has reached zero can no longer activate any powers unless it has a cost of zero. Powers that have already been activated continue until their duration expires. If they’re constant-effect powers with a non-zero cost, they cease at the next sunrise or sunset unless the character has regenerated sufficient Might points in the intervening period to reactivate them.''
@@ -291,8 +289,6 @@
 ==Faerie Power Virtue Comparison Table==
 
 ''Virtue Name Spell Levels Value Effect Type Might Cost Initiative Focus Power 25 Major Virtue Spontaneous magnitude Qik – maximum magnitude Greater Power 50 Major Virtue Formulaic (magnitude / 2) Qik – (magnitude / 2) Lesser Power 25 Minor Virtue Formulaic magnitude Qik – (magnitude x 2) Personal Power 25 Minor Virtue Limited (magnitude / 2) Qik – (magnitude / 2) Ritual Power 25 Major Virtue Ritual magnitude Qik – (magnitude x 2)''
-
-|]
 ''acter’s Quickness – (the magnitude of the effect / 2). Players should note the Forms associated with the effect, to calculate Magic Resistance. Any spell levels that are left over may be used to increase the effect level of other Personal Powers, or converted into intricacy points, with 5 full levels of effects equal to 1 intricacy point.''
 ''Ritual Power Major Virtue, Supernatural Players designing Ritual Powers should consult with their Troupes. The character has 25 spell levels with which to purchase Ritual-level effects. If this Virtue is taken multiple times, these spell levels can be combined into effects of greater magnitude. An effect needs to be a ritual if:''
 ''• 	 It would require a magus to perform a Ritual spell, • 	 It has a level higher than 50, or • 	 It breaks Hermetic limits in ways that faeries do not usually break Hermetic limits, as decided by the troupe.''
@@ -310,14 +306,14 @@
 ''pants are immediately aware of this. Humans who attempt to break their oaths are given a warning. This warning often takes the form of a memory or sensation this is reminiscent of the faerie’s motif. If the human fails to understand, or disregards, this warning he suffers a Major or Minor Flaw at the discretion of the Troupe. The Troupe should assign the Flaw based on the powers of the faerie, the nature of the oath, and the seriousness of the transgression within the framework of the story. This Flaw can be removed by powers that destroy mystical effects. The character may also end the Flaw by fulfilling the conditions of the oath, swearing a new oath with the wronged faerie, or destroying all of the oath’s other participants. Faeries cannot break their oaths, although some roles allow them to seek loopholes and alternative interpretations. Costs 50 levels. Special, No Hermetic equivalent (R: Touch, D: Mom, T: Group, Ritual)''
 ''Grant (Major Virtue) 10 points, Init (Qik – 20), Vim Imposes the named Major Virtue upon a target. Each creature may have more than one power of this type, each bestowing a different Virtue. The creature can decide to bestow the Virtue permanently or temporarily. If permanent, the power is a ritual-like power and costs points from the creature’s Might Score as well as Might pool (see Ritual Power, above). If temporary, the Might Points spent on this power are only recovered when its effects are withdrawn. The faerie may do this at any time simply by choosing to, but it also often occurs when a prohibition placed at the time the blessing was made is broken. The prohibition is often just a time limit, like a year and a day. If the Virtue requires Might to use, a human may instead spend a Fatigue level for every five Might required. Many enchanted objects given by faeries are actually uses of this power with a suitable prop generated from glamour. The material effects of the blessing do not disappear when the effect is over: fertile crops do not wither, and money earned from faerie gold does not vanish. Costs 50 levels. Special, No Hermetic equivalent. (R: Touch, D: Mom, T: Ind, Ritual)''
 ''Grant (Minor Virtue) 5 points, Init (Qik –10), Vim Imposes the named Minor Virtue upon a target. Each creature may have more than one power of this type, each bestowing''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Constant Powers==
 
 ''A Greater, Lesser, or Personal Power can be made constant, triggering automatically at both sunset and sunrise and continuing perpetually as long as the character has a Might Score and the Might Points needed to activate it. The effect must be designed with Sun duration, and costs an additional magnitude. If the power has a Might cost, it is subtracted from the character’s Might Pool each time the sun rises or sets, whether the character is aware of it or not. If the character does not have enough Might Points, the power is temporarily interrupted until the next activation.''
 
-|]
+|}
 ''a different Virtue. The creature can decide to bestow the Virtue permanently or temporarily. If permanent, the power is a ritual-like power and costs points from the creature’s Might Score as well as Might pool (see Ritual Power, earlier). If temporary, the power only costs points from the Might pool. Might Points spent on this power in its temporary form are only recovered when its effects are withdrawn. The faerie may do this at any time simply by choosing to, but it also often occurs when a prohibition placed at the time the blessing was made is broken. The material effects of the blessing do not disappear when the effect is over. This Virtue can allow humans to use faerie powers. If the power requires Might to use, the human may instead spend a Fatigue level for every five Might required. Many enchanted objects given by faeries are actually uses of this power with a suitable prop generated from glamour. Popular granted powers include regeneration, water breathing, flight, and the Virtue Puissant (Single Weapon). Costs 50 levels. Special, No Hermetic equivalent (R: Touch, D: Mom, T: Ind, Ritual)''
 ''Grant (Major Flaw) 10 points, Init (Qik – 20), Vim Imposes the named Major Flaw upon a victim. Each creature may have more than one power of this type, each bestowing a different Flaw. The creature can decide to bestow the Flaw permanently or temporarily. If permanent, the power is a ritual-like power and costs points from the creature’s Might score as well as Might pool (see Ritual Power, earlier). If temporary, the Might points spent on this power are only recovered when its effects are withdrawn. If this power can affect families, bloodlines, households, or villages add 5 levels to its price at character creation, and add 1 to the Might cost for each use. Curses can have immediate effect, or be triggered by an action like breaking an oath or stealing an object. The material effects of the curse do not disappear when the effect is over: burned crops do not magically regenerate, and lost stock is not found. Traditional curses cause pain, visions, paralysis, madness, nightmares, petty annoyances, and poverty. It is not possible to use this virtue to kill a victim directly. Players should recall that the props traditional to a faerie’s role, made of glamour, extend the Touch range of the faerie. Costs 50 levels. Special, No Hermetic equivalent (R: Touch, D: Mom, T: Ind, Ritual)''
 ''Grant (Minor Flaw) 5 points, Init – 10, Vim Imposes the named Flaw upon a victim. Each creature may have more than one power of this type, each bestowing a different Flaw. The creature can decide to bestow the Flaw permanently or temporarily. If permanent, the power is a ritual-like power and costs points from the creature’s Might score as well as Might pool (see Ritual Power, earlier). If temporary, the Might points spent on this power are only recovered when its effects are withdrawn. Add 5 levels and 1 Might to the cost''
@@ -331,14 +327,14 @@
 ''Allure 1 point, Init –1, Mentem This power causes the faerie to seem more attractive and pleasant than it really is, granting a +3 bonus on all rolls that involve impressing or convincing others. Costs 10 spell levels (Base 3 +1 Touch +2 Sun)''
 ''Cause Fatigue 2 points, Init –2, usually Corpus but varies This faerie can cause a human to lose a fatigue level. The mechanism that harms the human varies by faerie. Some harvest faeries cause heatstroke, for example. Costs 20 spell levels (Base 10 +2 Voice)''
 ''Cause Drowsiness 1 point, Init –1, Corpus or Animal Allows the faerie to cause a human it touches to fall asleep. Versions that are slightly more powerful allow the faerie to affect people at Voice range, or keep them asleep until a certain time. Costs 5 spell levels for Touch range (Base 4 +1 Touch), Costs 10 spell levels for Voice range (Base 4 +2 Voice). Costs 1 Might, Init –1. Add 20 spell levels for Until duration. Cost rises by 2 Might points and Initiative has further –2 penalty.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Conversion==
 
 ''To quickly convert any of the Greater Powers listed here to Lesser Powers, do the following: If the cost in spell levels is a multiple of ten, double the Might cost and quadruple the Initiative penalty of the power. If the cost in spell levels is not a multiple of ten, then the cost and initiative of the Greater Power were rounded up when they were calculated. For these Greater Powers, the Lesser Power equivalent has a Might cost of (double the current cost –1) and an Initiative modifier that needs to be calculated from scratch (equal to twice the effect’s magnitude.)''
 
-|]
+|}
 ''Cause Sickness 3 points, Init –3, Corpus The faerie can cause a specific, serious illness with its touch, or poison objects it touches so that they harm humans who consume them. See ArM5 page 133 for guidelines. Costs 25 spell levels (Base 20 +1 Touch)''
 ''Craft Magical Trinket 10/15 points, Init 0, as per target The faerie may create an object, from glamour, that allows the character with the trinket to use a particular Virtue once. The Virtue that the faerie’s trinkets permit is selected at character creation. The faerie does not automatically regain the Might spent to produce a trinket, but may refresh itself if it has Virtues that allow it to regain Might by consuming sacrifices or humans. The trinket ceases to function when a condition placed at the time of creation is met, or when it spends an entire day when no human with a passionate intention to use it for a specific purpose beholds it. This makes stockpiling trinkets impossible except in dire situations. In exceptional circumstances, large numbers of trinkets are possible: for example, in a covenant that knows it will soon have to withstand a Mongol siege, it might''
 ''be possible for the faerie to give a trinket to each of the covenfolk. A trinket costs 10 Might points if it invokes a Minor Virtue, and 15 points if it invokes a Major Virtue. Costs 50 spell levels (Special)''
@@ -385,30 +381,26 @@
 ===Personal Powers===
 
 ''The powers below have not been tailored using intricacy points. It is common for faeries with Personal Powers that cost 15 spell levels or less to convert the unspent''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Powers of Transformation==
 
 ''If a character is able to transform a specific substance into another specific substance, like weaving straw into gold, then that is best designed as a Greater Power. If the character is able to turn a wide variety of substances into a specific thing, like turning everything it touches into gold, then that is best designed as a''
 ''Focus Power. Similarly, if the character is able to turn a specific thing into a wide variety of substances, then that is best designed as a Focus Power. Faeries can also cloak objects in illusions and use misdirection, substituting one object for another and claiming they transformed the original into the new.''
 
-|]
+|}
 ''spell levels into intricacy points, and then use them to reduce the Might cost of their power to 0.''
 ''Appear Human 1 point, constant Allows a humanoid faerie of size –2 to +2 to look and feel human. This power is not required by humanoid faeries, only by shapeshifters who spend the majority of their time in a non-human form. This is an illusion, unlike Transform into Human, later, so a centaur that used it would still be unable to wander inconspicuously through a crowd,''
 ''ride a horse, or avoid leaving hoof prints. Costs 5 spell levels (Base 2, +2 Sun, +1 constant)''
 ''Extended Glamour 0 points, constant, Mentem Grants awareness of everything that happens within the bounds of a specific domain chosen by the faerie. In essence, the faerie is coterminous with its associated landscape feature, so it is present simultaneously everywhere within its boundaries. The faerie’s Might score determines the size of area possible: a Room (5–10 Might), a''
 ''Structure (15–25 Might), or a standard Boundary (30+ Might). The area controlled by the faerie can produce a yearly harvest of (Might/10) pawns of vis of an appropriate Form, which manifests as physical objects within the controlled region. Removing this vis does not harm the faerie if it is bargained for. This is the power that allows faeries to extend auras about themselves, as described in Chapter 1: Nature of Faerie. Costs 25 spell levels: may be taken as a Lesser Power on its own, or as part of a package of Greater Powers. (Special)''
 
-[|
-
 ==Power Design: An Example==
 
 ''Neil wants to design a faerie like the German doppelganger or Scottish fetch. These faeries appear to people as their exact duplicates, and drive them slowly mad. Neil’s troupe thinks this is an interesting idea, and so Neil designs a basic humanoid faerie, but needs to give it powers to spice up its opportunities in play. The first power he needs is one that allows his faerie to impersonate specific individuals. He uses the spell Disguise of the Transformed Image as a basis for his new power (ArM5 page 146,) but modifies it slightly so that it has Personal Range and Moon Duration (which does not change the level, 15). Since this power has Personal Range, Neil builds it as a Personal Power. To do this, he selects the Personal Faerie Powers Virtue, which grants him 25 spell levels of powers, then works out the cost of this power using the table given earlier. Personal powers cost (magnitude/2) points, rounding up, and have an Initiative score of his character’s Quickness – (magnitude/2, rounding up). With Personal and Greater Powers Neil finds it easier to just divide the spell level by 10 and round up for cost, and then apply the same number to his Quickness to work out Initiative. In this case, it’s a cost of 2 and since his character has a Quickness of 0, the Initiative score is –2. This costs him 15 of the 25 spell levels that the Personal Faerie Powers Virtue buys him. He can either buy another power to consume the 10 spare spell levels, or he can convert them to 2 Intricacy points. If he does this, he can spend them to make his power cheaper or faster, or a little of both. He uses the spare Intricacy points to reduce the cost of the power by 2, to 0.''
 ''(Players designing a power based on this example should note that perfect illusory copies require a Perception + Finesse roll against an Ease Factor of 12). There’s a ritual in House of Hermes: Societates called Donning the Mask of Another, that allows the user to duplicate the memories of a particular individual (page 97). Neil considers it, but since it is level 35, it doesn’t work. He’d need to buy the Ritual Faerie Powers Virtue twice to get his 30 spell levels, and he’d lose 6 Might for an extended period each time he used it. It would also be very slow (Initiative of –12). Neil reworks the spell description, dropping the Duration to Moon and the Range to Personal. This makes it a level 25 effect that can be purchased with the Personal Faerie Powers Virtue. It has a cost of 3 and an Initiative modifier of –3. Neil wants one final power: a sort of selective invisibility so that he, or the person he touches, can only be seen or heard by the person he is driving mad, and by those in his group. Selective invisibility is discussed in House of Hermes: Societates (page 64), and Neil’s troupe agree that what he’s trying is similar to Ambush on the Deserted Road, but with a Duration of Sun and a Target of Individual, making it level 20. Since this can affect others, but is not a ritual, it must be either a Greater or Lesser Power. As a Greater Power, it has a cost of 2, and an Initiative modifier of –2. Neil must take the Greater Faerie Powers Virtue and has 30 spare spells levels, which can be spent on other powers or traded for Intricacy points. As a Lesser Power, it costs 4 points per use, and has an Initiative of –8. Neil decides to have this as a Lesser Power, despite the extra Might cost and relative''
 ''slowness, because this is not a combat power, and it requires only a Minor Virtue. Since the Lesser Faerie Powers Virtue grants 25 spell levels, Neil has 5 spare. He trades them for an Intricacy point and uses that point to reduce the cost of his power by 1, to 3. Neil thinks his character through, and notices that two of his powers — invisibility and duplicating a victim’s appearance — are linked by a theme: they affect the character’s personal appearance. He notes that the two powers could instead be replaced by a Focus Power. If he took a Focus Power, the character could produce any Imaginem effect, up to level 25, that altered its appearance. Each use of the Focus Power costs the magnitude of the actual effect produced, and has an Initiative Modifier equal to the maximum magnitude the power can produce, which is –5 in this case. Neil’s troupe initially vetoes this focus because the selective invisibility power can be used on others, so it doesn’t fit his theme. He counters by redesigning the effect so that it has Personal Range, which lowers the level to 15 and fits the theme. The character’s two powers are both based on level 15 spells, which means each costs 3 points to use, and has an Initiative modifier of –5. The Focus Power Virtue grants 25 spell levels. Neil decides to trade away 10 levels for 2 Intricacy points, which he wants to use to reduce the cost of his Focus Powers by 2, but his Troupe points out that Focus Powers are unique: you can’t reduce their costs with Intricacy points. He reconsiders and decides, instead, to think up some new effects; in the end he uses the extra 10 levels in his Focus Power, and trades the points back.''
-
-|]
 ''Flight 2 points, constant, appropriate Form The character is capable of flight. The character may use the Athletics skill to simulate difficult maneuvers, but may not engage in combat while flying incredibly swiftly. The faerie may not fly when heavily encumbered, or with a passenger of its Size or more, unless assisted by another faerie that shares the load. Costs 15 spell levels: (ReFo Base 4, +2 Sun, +1 constant. This base is deliberately lower than Hermetic magic might suggest.)''
 ''Immateriality 4 points, Init –4, as suits faerie’s body Makes a faerie immaterial until sunrise or until nightfall. Costs 40 spell levels. (Base 30, +2 Sun)''
 ''Invisibility 2 points, Init –2, Imaginem A personal version of Veil of Invisibility, as per ArM5 page 146. Costs 15 spell levels. (Base 4, +2 Sun, +1 for moving image)''
@@ -444,15 +436,15 @@
 ''Faeries may gain adventure experience. They take experience in any Pretense that is equivalent to any Ability raised by any character who participated in the adventure, including adversaries, provided the Ability being copied is equal to or higher than the Pretense. Most player characters can only arrange to increase their Pretense about half the time. Characters who through luck, flexibility of role, or good planning can increase their Pretenses more often require a Virtue. Similarly, characters who pay little attention to humans and do not develop their Pretenses at this rate have Flaws.''
 ''Aloof Minor Flaw, General Aloof fairies play roles in which they do not find humans particularly interesting, and so rarely increase their Pretenses. Over the course of a saga, these characters can be expected to gain Pretenses for around one season per year. During character creation, an Aloof faerie has a Pretense multiplier of 10.''
 ''Freshly Sprung Minor Flaw, Supernatural Subtract 50 experience points from the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Player-Defined Pretense Example: Chivalrous Combat==
 
 ''A player, Dave, asks his troupe to allow his faerie knight to have a Pretense called Chivalrous Combat, which rolls together the ability to use a sword and a lance. His troupe members express concern that this seems broader than a standard Ability.''
 ''Dave agrees, and suggests that his knight may become confused in combat that is non-chivalrous, like ambushes and tavern brawls, so that he is unable to use his Chivalrous Combat Pretense, and must use Brawl instead. His troupe agrees.''
 
-|]
+|}
 ''character’s pool for purchasing Pretences. This represents the character losing some of its glamour. This Flaw may be taken more than once, but players cannot select this Flaw unless the character has at least 50 pretense points to lose.''
 ''Observant Free choice A typical faerie player character increases its Pretenses in two seasons per year. In the other season, it completes the tasks set by its role.''
 ''Ostentatious Major Virtue, General A character with this quality is closely interested in the bubbling vat of emotion that is the life of a human community. It finds ways of involving itself in useful stories every single season, and gains Pretense appropriately. During character creation an ostentatious faerie has a Pretense multiplier of 25 instead of 15.''
@@ -470,15 +462,15 @@
 ==Vitality==
 
 ''Whenever a character gains Pretenses, the player may choose not to spend those points, instead storing them for character advancement. When the character has sufficient Pretenses, which represent human vitality stored in its glamour, the faerie tends to seek humans who can evoke this potential. Only highly cognizant faeries are aware that they are deliberately seeking a human to provoke changes in their role, but all faeries have an instinct, when change is possible, to seek humans. The amount of vitality that a faerie requires to change its role varies — the greater the new power, or Mightier the role that the faerie seeks, the more its glamour must change. The more that a faerie’s glamour must change, the more vitality it requires. Faeries who already have complex glamours find the process of change more difficult, because their glamours are more rigid and constraining than those of simpler spirits. When the character is exposed to creativity, it may consume vis to reduce resistance caused by the current complexity of its glamour, however. This desire to consume vis at a particular time is why faeries encase vis, as described in Chapter 1: Nature of Faerie, rather than simply eating it like bread and beer. Faeries often hoard vis, placing a layer of their glamour over it so that other faeries will not steal it. This glamour makes the value of the vis obvious to human onlookers, however, so they may see it as mundanely valuable materials, like a pot of gold. This hoard disappears when the faerie uses it, and it reduces the Pretence Cost in the nearby table by 1 for every pawn of vis consumed, to a maximum of the faerie’s Might score. A faerie may only use encased vis for advancement where the outcome is determined by a creative human. If the faerie has left part of its glamour in Sleeping vis, then the presence of a creative, helpful human allows it to reincorporate its glamour and resume its old role.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Advancement==
 
 ''Several years ago, a narrowly cognizant faerie was drawn to a young woman prone to daydreams, and made straw into gold for her. She is used this gold to marry a local prince, offering, in exchange, to give the faerie her firstborn. Now that the child has been born, the faerie has relented to her pleas and given her a loophole: she may keep the child if she guesses its name. The magi travel to the faerie’s home at her bequest, but discover that it has no name. The reason for the change in price is that the faerie has reached the point where it is able to develop the Highly Cognizant Virtue. On an instinctual level, the faerie desires a personal identity of its own even more than it wants the enormous vitality expressed within the fate of the heir to the''
 ''kingdom. The reason the girl’s attempts to name it keep failing is that the human names she is offering are too mundane to resound through the faerie’s glamour and spark its transformation into a new, cognizant, role. The name the girl, or her magical advisers, choose needs to promise the faerie attention once it is cognizant, so that the faerie claims it willingly. When the faerie accepts its name, it will scream and rage and be consumed by the Earth, because its old role needs to end dramatically. Eventually, however, the same faerie will return with its new name and shape, perhaps as an ally of the royal family or the covenant who helped it, in order to keep the story of its old role alive for another faerie to follow.''
 
-|]
+|}
 
 ==Creativity==
 
@@ -487,8 +479,8 @@
 ''Ease Pretence Effect of Factor	 Cost Collaboration 6 0 + Might Lose a Virtue or Flaw and gain another of equal value 9 5 + Might Gain a Minor Virtue and a Minor Flaw 12 10 + Might	 Gain a Minor Virtue or lose a Minor Flaw 15 15 + Might	 Gain a Major Virtue and a Major Flaw 18 20 + Might	 Transform a Minor Virtue into a Major Virtue, or a Minor Flaw into a Minor Virtue, or a Major Flaw into a Minor Flaw 21 25 + Might	 Gain a Major Virtue and a Minor Flaw 24 30 + Might	 Gain a Major Virtue or lose a Major Flaw''
 ''Roll Bonuses +3 if for a Virtue like Inspirational or Free Expression. May only be claimed once, multiple Virtues do not stack. +3 if the local Reputation of the faerie better suits the character after the change than its current state.''
 ''At the troupe’s discretion, the faerie’s player, rather than the artist’s player, may make these dice rolls, given their vital importance.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Why Isn’t My Faerie a Genius At Every Ability?==
 
@@ -500,5 +492,8 @@
 ''This section summarizes how different Abilities apply to faeries.''
 ''Animal Handling: This Ability is useful for knowing how to take care of a being with an animal form, though not for social interactions with a faerie in an animal shape. To predict how such a creature might behave, use Faerie Lore. Animal Ken: This is a Supernatural Ability with an effect that allows communication with any animal, and it also allows communication with faeries that have animal forms, or have hybrid forms with animal-reflective personalities.''
 ''Bargain, Carouse, Charm, Etiquette, Guile, Intrigue, and Leadership: These can be used with any intelligent being. Faerie Lore: This may be used like Folk Ken when attempting to understand the motivations of a faerie’s role. Folk Ken: This is an understanding of human beings only, though it may give insight into the motivations of human-like beings or faeries who were once human. Some faeries have this as a Pretense, letting them understand human societies. Language: Any Faerie with a score in Faerie Speech can understand any language. Teaching: Faeries cannot be taught, since they do not learn by doing.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

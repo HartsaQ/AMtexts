@@ -102,9 +102,6 @@
 ''The character spends time selecting goods to be stored for a prolonged period, in the hope the price of those goods will rise. The character also arranges the details of storage for his goods, and the hiring of guards. The return for commodity speculation is 1 Labor Point per year for every 10 invested (with the invested Labor Point retained as well), unless story events intervene. If the magi burn down the warehouse during a duel, for example, all Labor Points are lost.''
 ''Commodity speculators must either own or rent storage space, which makes them either the employer of, or a valued customer of the employer of, a group of trained guards. These guards always welcome a little extra money, in exchange for duties that are suited to brawny, violent men. For a negligible cost, usually involving ale, a merchant can gather one guard per half-season’s worth of invested Labor Points, and suggest how he spends an hour of time per week. These suggestions may generally not include breaking the law, with exceptions for affray, which is the sort of mob violence often found at sporting functions and in public houses.''
 
-==City & Guild==
-
-
 ===Drawings===
 
 ''Players may trade labor for the finer things in life, like clothes and expensive craft goods. Every (1 x Wealth Multiplier) Labor Points spent is worth a single sumptuous item of hand tool size or smaller. Larger items cannot be traded for Labor Points. They are purchased either from the character’s annual profit, in Mythic Pounds, or available freely as part of the character’s Social Status Virtue, as described in each social status section.''
@@ -134,9 +131,6 @@
 ''As investments, a character can detect a boom coming by making an Intelligence + Area Lore roll and consulting the following list. Booms occur in response to story events, at the discretion of the troupe, and last as long as desired.''
 ''•''
 ''•''
-
-==City & Guild==
-
 ''A roll of 18 lets a character prepare for years in advance, automatically allowing her to claim a return of two seasons’ Labor Points for every season’s worth set aside, once the boom is underway. A roll of 15 allows the character to put all spare Labor Points and money into the industry as the boom starts, and guarantees a return of a season and a half worth of Labor Points for every season’s worth invested, in that one year. A roll between 7 and 14 offers no advantage. A roll of 6 or less loses the character 2 of every 10 Labor Points invested. A botch destroys the character’s business.''
 ''Crop Failure: Crop failure provides enormous commercial opportunities for the unscrupulous. Grain is shipped from the Baltic coast to Flanders, and the Black Sea coast to Italy, but when crops fail it is worth more, and can be carried far further. Fish, pickled meat, wine, and oil prices also benefit from crop failures.''
 ''Two crop failures in succession, however, cripple trade. Most European grain crops only yield four times the amount of seed sown, so a town with two failures in succession eats its seed corn, and then its people starve. Even very wealthy cities can be wrecked by famine, since the civil order that might permit a coordinated response to the crisis breaks down. During these crises, nobles usually flee to their rural estates, and traveling merchants avoid the city. Senior representatives of the Church stay or go depending on their piety.''
@@ -176,8 +170,6 @@
 ===Hard Time===
 
 ''A servant, friend, or sponsor has lost all of his money on a calamitous''
-
-[|
 ''If the father of the bride has a Social Status two levels above that of the groom, he uses his influence and money to improve his sonin-law’s circumstances. The groom becomes a Poor member of the Social Status immediately inferior to the bride’s father. Any surplus Labor Points the son-in-law has are lost.''
 ''If the father of the bride’s Social Status is the same as, or one level higher than, the son-in-law’s, the dowry is paid in coin and goods. This is figured by multiplying the father’s annual profit by 10, then dividing by the number of children he has, except any daughters already married. This figure can be spent as Mythic Pounds. Dowries tend to be larger if the daughter:''
 ''is marrying a groom from a less wealthy family. This is not unusual, because women outnumber men in Mythic Europe, particularly in the cities.''
@@ -197,8 +189,6 @@
 
 ==Calculating Dowries For Merchants’ Daughters==
 
-
-|]
 ''venture and been imprisoned for debt. The characters know that with the correct bribes his prison conditions can be made more tolerable, but after the prisoner’s term is served, how does the merchant rehabilitate the convict’s fortune and reputation? If the non-player character is returned to wealth and influence, the player character’s reputation and fortune also increase. (One season’s worth of Labor Points)''
 
 ===Legal Action===
@@ -529,8 +519,8 @@
 ===Resisting Nobles===
 
 ''Merchants are often the targets of extortion by noblemen. Many nobles seize goods, or request them at bargain prices. Some enact tolls that affect profitable new industries. In times of war, a nobleman may prohibit anyone from trading with his rival. Merchants may hire bandits to harass the servants of noblemen, or damage their property, but it is rare for individual merchants to raise armies. Town councils sometimes do this, but merchants prefer to encourage nobles to take militant action against a mutual enemy, compensating them for the trouble. (Turning aside the will of a powerful noble is worth one season’s worth of Labor Points)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Largesse: The Costs of Excellent Building==
 
@@ -546,7 +536,7 @@
 ''Chapel 40 pounds''
 ''Church 250 pounds''
 
-|]
+|}
 ''Characters who oppose nobles may attempt skullduggery, but often find it less dangerous to strike indirectly at their enemies, by supporting noble allies with money and information. For intrigue to find information or allies, they must exist. A character who has led a blame''
 ''less life is armored against Intrigue. The following Ease Factors, for an Intelligence + Intrigue roll, demonstrate what a character might learn about potential allies, or the harm they may cause by spreading gossip. The noble to be harmed is referred to as the target.''
 ''A character using the Intrigue ability in this way must entertain gossips, hire spies, bribe servants, and threaten people. For Ease Factors higher than 6, this takes (3 x Ease Factor) days and costs at least (Ease Factor / 3) pounds. Elaborate plans may cost far more, at the troupe’s discretion.''
@@ -707,5 +697,6 @@
 ''There is nothing Europe can offer the Sericans for their silk except silver. Around 14 tons of silver leaves Europe each year, for Arabia and ports beyond, to pay for the luxuries of the Orient. Arab intermediaries also accept the finest quality linen, which they use themselves rather than shipping it on to Serica. The Sericans also desire gold, but Europe does not produce sufficient gold to replace silver in the Serican trade.''
 ''Europe’s gold comes primarily from trade with North Africa, although small, sporadic mines do produce gold in Europe. These most frequently appear in Hungary, and particularly Transylvania. No town relies on the export of gold, although Siena’s goldsmiths are famous throughout Europe. In contrast, four towns mine silver by the ton. Three of these have appeared in the last 50 years.''
 ''The Order is afraid Europe will have either too little silver to buy Serican goods, as seemed likely before the mines at Freiburg were discovered in 1168, or that magically produced silver will flood the market, making it valueless to the Sericans. Even now, some Hermetic scholars of trade wonder how the Sericans receive so much silver every year, yet continue to want more. Some say that there are many nations between Europe and Serica, and these have not all suffered surfeit of silver. Others believe the Sericans are monsters who eat silver.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

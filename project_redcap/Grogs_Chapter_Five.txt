@@ -12,15 +12,15 @@
 
 =Creating & Maintaining Grogs=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Changes in Social Status==
 
 ''Among all the alterations to Virtues and Flaws, the Social Status Virtues and Flaws are perhaps the most likely to occur. One of the covenfolk can be promoted to custos after years of service. A freeman can take Holy Orders and become a priest. A knight can be disgraced and take''
 ''up life as an outlaw. If these changes occur, simply replace the old Social Status Virtue with the new one. Only in some circumstances do characters retain the old social status in addition to the new one, and these are clearly indicated in the Virtue or Flaw description.''
 
-|]
+|}
 ''pen — most characters will not go out of their way to make their life worse, but sometimes misfortune befalls them. An important distinction to make is that changing circumstances need not actually generate Flaws, even if there is a Flaw that describes the situation the character is now in. Only if the change in circumstance has an effect on the game, becomes a story seed, or alters how the character is roleplayed should this actually be treated as a Flaw. For example, a character who loses a hand to gangrene always gains the Missing Hand Flaw, because having only one hand always has a mechanical effect on the game. However, a character who gets married does not always gain the Dependents Flaw. Only if the player is interested in having adventures based on his character’s wife and children should he acquire the Flaw. The storyguide should be careful not to allow a grog character to gain a Story Flaw, unless it is temporary in nature or the character is destined for transformation into a more central role in the saga (see Transformation, later).''
 ''Gaining Flaws Through Mishaps''
 ''The easiest way to gain a Flaw is through misfortune. Most often, General Flaws are gained through mishap, particularly those that affect the body. Occasionally, chirurgeons have to amputate limbs to save a patient’s life (Art & Academe, page 62), and in the heat of battle, horrific injuries occur with startling regularity (Art & Academe, pages 43–44; Lords of Men, page 125). Furthermore, many of the diseases that abound in Mythic Europe can result in permanent injuries such as blindness, deafness, and palsy.''
@@ -69,8 +69,8 @@
 ''Characters who are 35 years old or older usually need to make aging rolls each year. When creating an old character, or updating a large number of grogs, making aging rolls can be time-consuming. The Aging Chart in the nearby insert presents the expected number of Aging Points''
 ''gained for a decade of aging. Since the results of the aging roll are quite variable, results have been presented for mild, average, and harsh years. To use the table, decide whether the grog has experienced mild, average, or harsh aging for each decade, then cross-reference the row that corresponds to the character’s Aging Score. The Aging Score is equal to the Aging Total excluding the stress die: age/10 (round up) – Living Conditions modifier – Longevity Ritual modifier. The character takes the indicated number of Aging Points. Apparent Age can be determined by rolling a simple die. If''
 ''it is less than or equal to the indicated number of Aging Points, then Apparent Age advances 10 years for that decade, otherwise it advances a number of years equal to the die roll. If the character has spent part of a decade at one Aging Score and part at another, use the higher score for the whole decade. To deal with fractional decades, just take an appropriate proportion of the numbers indicated, rounding all fractions up. Exempli gratia: Paul the Grog is designed as a 45 year old character. Rather than making 10 aging rolls, his player consults the Aging Chart. His Living Conditions Modifier is 0, so he has 6 years with an Aging Score of 4 (from 35 to 40 years old) and 4 years with an Aging Score of 5 (from 41 to 45 years old); but this is treated as 10 years at an Aging Score of 5. He therefore takes 5 Aging Points. Had the storyguide required him to use the harsh aging column, he would have had 6 Aging Points instead. At character creation, harsh aging might represent a character who has adventured a lot prior to his introduction as a player character, and he might be permitted to start with Ability Scores 1 point higher than his''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Starting Characteristics==
 
@@ -81,7 +81,7 @@
 ''The numbers in the nearby table indicate the number of Aging Points and the number of crises expected to be gained by a character in a decade at different Aging Scores. For more details, see ArM5, pages 169–170. The Aging Points listed exclude those deriving from crises. Aging Scores of less than 4 are provided for those with good Living Conditions Modifiers.''
 ''Aging Score Mild Aging Average Aging Harsh Aging   1 1 2 3   2 2 3 4   3 3 4 5   4 3 4 / 1 crisis 5 / 2 crises   5 4 / 1 crisis 5 / 1 crisis 6 / 2 crises   6 5 / 1 crisis 6 / 1 crisis 7 / 2 crises   7 6 / 1 crisis 7 / 1 crisis 8 / 2 crises   8 7 / 1 crisis 8 / 1 crisis 9 / 2 crises   9 7 / 1 crisis 9 / 1 crisis 10 / 2 crises   10 9 / 1 crisis 11 / 1 crisis 12 / 2 crises''
 
-|]
+|}
 ''age would normally permit (ArM5, page 31). Likewise, a character taking mild aging might be restricted to lower maximum Ability Scores. Characters with the Mild Aging Virtue or Poor Conditions Flaw (see Chapter 6: New Virtues and Flaws) would be required to suffer mild or harsh aging, respectively. After character creation, the storyguide might dictate that conditions around the covenant affect which type of aging characters suffer, due to mild winters, uncommonly good or bad conditions at the covenant, outbreaks of disease, and so forth.''
 ''Applying Crises''
 ''It is up to the storyguide as to whether the character suffers the crises listed on the table; in particular, she might be inclined to ignore crises for newly created characters,''
@@ -89,8 +89,8 @@
 ''a Decrepitude 2 and 15 Aging Points, plus an additional 2 (one-third of 6), for a total of 17.''
 ''Effects of Aging on Characteristics''
 ''All Aging Points must be applied to the Characteristics of the character in the usual fashion. The Aging Table (ArM5, page 170) is designed to affect certain Characteristics in favor of others. Just under half of all Aging Points gained (excluding those from crises) are applied to any Characteristic (that is, a roll of 10–12 on the Aging Table). Of the remaining Aging Points, approximately half are gained in Quickness or Stamina, 30 percent in Perception or Presence, 15 percent in Strength or Dexterity, and the remainder in Intelligence and Communication. Players should bear these distributions in mind when applying Aging Points to a character.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Childhood Training Packages==
 
@@ -113,7 +113,7 @@
 ''Traveling Childhood''
 ''Five Years: +5 Area Lore: Area A, +5 Area Lore: Area B, +15 Folk Ken, +5 Living Language, +75 Native Language, +15 Survival''
 
-|]
+|}
 
 ==Grogs Abilities==
 
@@ -147,15 +147,15 @@
 ''Five Years: +15 (Area) Lore, +20 Chirurgy, +40 Profession: Apothecary Three Years: +5 (Area) Lore, +10 Chirurgy, +30 Profession: Apothecary''
 ''Archer (Martial)''
 ''Five Years: +20 Awareness, +40 Bows, +15 Concentration Three Years: +15 Awareness, +30 Bows''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Wealthy and Poor Characters==
 
 ''For characters with the Wealthy Virtue, use the Training Packages method as described, but reduce the character’s post-childhood age by one quarter. So a character who takes 32 years’ worth of training packages after childhood is only 29''
 ''years old, rather than 37. For characters with the Poor Flaw, increase the post-childhood age by one half. That means a character with 13 years’ worth of training is actually 25 years old rather than 18.''
 
-|]
+|}
 ''Churchman (Academic)''
 ''Suitable for priests, friars, and nuns who have had some training within the church. Academic churchmen should also take the Theologian package. Parish priests probably have the Public Official or the Leader package, replacing some or all of the experience in Leadership with Profession: Preaching (see Art & Academe, page 13).''
 ''Five Years: +10 Artes Liberales, +30 Organization Lore: Church, +5 Latin, +30 Civil & Canon Law Three Years: +5 Artes Liberales, +20 Organization Lore: Church, +20 Civil & Canon Law''
@@ -274,14 +274,10 @@
 ''Forager''
 ''Someone used to relying on the land to supplement his diet would employ this package.''
 
-[|
-
 ==Combat Statistics==
 
 ''It is often tedious to calculate combat statistics for a grog. The following table has pre-calculated combat statistics for common weapons, with the following assumptions: the character has a 5 in the appropriate Ability with a specialty in the weapon indicated; the character has a Dexterity and Quickness of 0, a Strength of 0 or equal to the minimum Strength required for the weapon (whichever is greater); and the character has zero encumbrance. It is a quick job to apply the appropriate Characteristics to the combat totals and subtract encumbrance from Initiative.''
 ''Weapon Ability Initiative	 Attack	 Defense	 Damage	 Load Dagger Brawl 0 +8 +6 +3 0 Bludgeon Brawl 0 +8 +6 +2 1 Axe & Buckler Shield Single +1 +10 +6 +6 2 Short Spear & Buckler Shield Single +2 +8 +7 +5 2 Short Sword & Round Shield Single +1 +9 +9 +5 3 Long Sword & Heater Shield Single +2 +10 +10 +6 3 Mace & Heater Shield Single +1 +9 +9 +8 4 Great Sword Great +2 +11 +8 +10 2 Staff Great +2 +9 +9 +2 2 Warhammer Great 0 +12 +6 +14 3 Pole Arm Great +3 +10 +7 +8 2 Sling & Buckler Shield	 Thrown –3 +7 +7 +4 1 Javelin & Round Shield Thrown 0 +8 +8 +5 3 Short Bow Bow –1 +9 +6 +6 2''
-
-|]
 ''Three Years: +15 Area Lore, +15 Hunt, +15 Survival''
 ''Leader''
 ''This is suitable for anyone in a position of authority.''
@@ -297,13 +293,16 @@
 ''Wastrel''
 ''Someone who has wasted years of his life in taverns gambling and drinking would acquire these skills.''
 ''Three Years: +5 Brawl, +30 Carouse, +5 Folk Ken, +5 Guile''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The System in Action==
 
 ''Elaine wants to play a grog who is the younger son of a noble family that has fallen on hard times. Sir Edwin has nevertheless trained for knighthood. He has the Warrior Virtue, allowing Martial Abilities. Sir Edwin had a Social Childhood, and Elaine assumes that he has been a Courtier for three years, a Rider for six years, and a Soldier for eight years. Elaine ends up with a 22 year old character with the following experience points: +30 Animal Handling, +20 Athletics, +30 Brawl, +20 Charm, +30 Etiquette, +20 Folk Ken, +15 Guile, +5 Intrigue, +75 Native Language, +60 Ride, +70 Single Weapon. Since Sir Edwin will be principally using a lance, Elaine decides to change the score in Single Weapon to Great Weapon''
 ''instead. This leaves the character with the following Abilities: Animal Handling 3, Athletics 2(5), Brawl 3, Charm 2(5), Etiquette 3, Folk Ken 2(5), Great Weapon 4(20), Guile 2, Intrigue 1, Native Language 5, Ride 4(10). Since Sir Edwin has taken the Poor Flaw, he is actually 31 years old. She applies 35 of the experience points from the Warrior Virtue to the Great Weapon Ability, taking it to 6 (since Sir Edwin is older than 30), and puts the remaining 15 experience points into Single Weapon 2. She could make this a score of 3 with the left-over experience points in some of the other Abilities (5 from Folk Ken and 10 from Ride, for example) if she wanted. Further examples include:''
 ''Bandit: Athletic childhood; Fisherman, Woodsman, Scout, Soldier Beggar: Exploring childhood; Tinker, Conman, Local Burglar: Mischievous childhood; Local, Footpad, Tumbler Drill Sergeant: Athletic childhood; Soldier, Trainer, Leader Mercenary: Exploring childhood; Soldier, Leader, Brawler, Forager Townsman: Social childhood; Local, Trader, Public Official Skirmisher: Athletic childhood; Rider, Soldier, Javeliner Wandering Friar: Exploring childhood; Lay Brother, Student, Churchman, Tinker Villager: Athletic childhood; Laborer, Farmer, Local, Forager''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

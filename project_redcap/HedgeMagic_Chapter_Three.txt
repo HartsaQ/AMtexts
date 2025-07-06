@@ -1,12 +1,12 @@
 ''Folk witches are a widespread hedge tradition in Mythic Europe, and many small towns count one or two folk witches among their citizens. Other folk witches live in isolated country cabins, but the local folk know how to find these old women and men when they’re needed. And they know that witches use their fetishes, potions, and incantations to accomplish things beyond mortal ken. A witch might speak with the animals of the wild, curse one’s enemies, or dowse for much more than water. She might fly among the clouds, see with the second sight, or heal people and animals alike. Or she may even have the power to take the shape of an animal herself. Almost all folk witches are unGifted, so''
 ''common folk are unafraid to approach them for help when they are plagued by supernatural nuisances, including diseases, and these women thus form an important part of the community. On the other hand, a few folk witches are Gifted and thus suffer from the normal social penalties. These Gifted folk witches are treated with fear and suspicion, and are often regarded by common people as a source of supernatural hazard. The Church frowns upon folk witches, whom it (largely inaccurately) views as remnants of primitive, pagan superstition, but by-and-large folk witches are ignored by the Church hierarchy at all levels. A few Church officials believe that folk witches draw their''
 ''power from the Infernal, and do successfully mount prosecutions for executable crimes of heresy on this basis. Folk witches are not, in fact, connected to the Infernal at all — although some other hedge traditions of “witches” are. If your saga follows history, Church-inspired persecution of witches, of all types, and mass burnings of witches do not really occur until several centuries after the Ars Magica Fifth Edition period (1220 AD). Unlike Hermetic magi, folk witches do not have an equivalent to the Order of Hermes, with its Houses, Tribunal politicking, and Latinate pretensions. Instead, folk witches quietly practice their magic in small localized groups called covens, which usu''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: Slaves''
 ''The magi of a covenant dominated by a Tytalus cabal discovered (at least some) folk witches can brew potions to restore Fatigue ­ — a violation of the supposed Limit of Energy for Hermetic magic. Had this been discovered by Bonisagus magi it might have heralded a profitable new direction of research, but the Tytalus magi adopted a more direct approach. They tracked down, attacked, and captured a coven of folk witches, imprisoning them in a dungeon under their fortress-covenant. The magi use Rego Mentem magic to force them to brew potions. The Tytalus cabal has since won several certamen duels secretly using these potions, and they also enjoy the latitude to fatigue themselves while spellcasting without consequence. The players might become involved if they start to sell Fatigue potions, or if they create exuberant nuisances of themselves. Quaesitors may be sent to investigate, or Tremere certamen masters may suspect the Tytalus have a new strategy. Of course, the player characters could instead be members of the Tytalus cabal.''
 
-|]
+|}
 ''ally consist of an elder “mother” witch and a number of “daughters.” Like common folk, most folk witches never travel far from their place of birth, and consequently never meet a member of another coven except at the rare ill-fated sabbat. The insular lives of folk witches mean both that innovations stagnate in this hedge tradition, and also that the practices of covens can diverge wildly, depending on the nature and capabilities of individual coven members. The Order of Hermes at large certainly knows that folk witches exist, but the witches are, generally, arrogantly viewed as poor practitioners of peasant magic that is of no particular importance or threat. It is less well known that some folk witches are Gifted, and little is really known about the specifics of folk witch magic.''
 ''Creating a Folk Witch Character''
 ''A folk witch can either be generated as either a Gifted or an unGifted character. An unGifted folk witch may be created as either a companion or a grog character. In all cases you must obey the normal rules for assigning Virtues and Flaws to a character. Regardless of whether the folk witch is Gifted or not, you must also assign at least one Flaw that impacts on the folk witch’s magical abilities. Finally, all folk witches must take the free Social Status Virtue: Folk Witch. Assign the folk witch experience points as for a normal character — except that at some point, usually around age ten, the character is adopted by a folk witch, who initiates her charge into a folk witch coven. This is the folk witch equivalent to the Hermetic apprenticeship, and usually lasts for ten years. To represent the folk witch apprenticeship, you may spend 200 experience points for the character on any Abilities. This is less than a magus receives because a folk witch apprenticeship is shorter and folk witches do not have such a systematic and organized method of training. Following her apprenticeship, a folk witch is assigned the normal number of experience points for a character each year; that is, 15 XP each year, although this may be affected by the Wealthy Virtue or Poor Flaw. If the folk witch is Gifted then part of her apprenticeship is the Opening of The Gift, which gives her seven favored Supernatural''
@@ -25,12 +25,12 @@
 ===Flawed Folk Witch Gift Opening===
 
 ''Minor Hermetic Flaw The Opening of the folk witch’s Gift was flawed — she does not treat one of the seven folk witch Supernatural Abilities as favored, and she may not learn the Ability during character generation. This Flaw can be taken''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Male Witches''
 ''Male folk witches are uncommon, and some versions of the folk witch initiations only work on female characters. Some covens are entirely made up of male folk witches, although this is rare.''
 
-|]
+|}
 ''several times, each time for a different Supernatural Ability. She can still learn the Ability at a later date, but she suffers the usual penalties for learning a Supernatural Ability. In addition, even if she does eventually learn the Ability she suffers a –1 penalty on all totals generated with it. This Flaw is Hermetic as it can only be taken by Gifted folk witches; it is normally unavailable to Gifted characters who are not folk witches.''
 
 ===Cursing===
@@ -242,12 +242,12 @@
 ===Curse Fetish Weaving===
 
 ''If she has the Cursing Ability, the folk witch may weave a curse. The curse is woven on a loom and the fabric details the curse. She must do this (or brew a potion) in order to curse a character. The effect of various curses are described earlier in this chapter, and creating a single fabric (which targets an Individual) both occupies the character for an entire season, and requires a kitchen. The witch must have an active Arcane Connection to the target at the beginning of the season to create such a fabric, but it need not''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Folk Witch Magic Theory''
 ''This Arcane Ability is analogous to the Magic Theory Ability of Hermetic magi. It covers the technical details of folk witch magic and is used in laboratory activities. Any character can be taught this Ability. Specialties: particular laboratory activities.''
 
-|]
+|}
 ''be an Arcane Connection that lasts for the entire season. Disease, miscarriage, and aging curses take effect immediately, once the fabric is complete, and this destroys the Arcane Connection. Love, tongue, paralysis, beast, and reduction curses normally last until either the fabric is destroyed, magic cancels the effect, or the Arcane Connection expires. The lifetime of the Arcane Connection is counted from the completion of the fabric. Some folk witch traditions do not make curse fabrics, and instead make different objects (bowls, figurines, etc). These have the same effect as curse fabrics.''
 
 ===Dowsing Rod Binding===
@@ -326,8 +326,8 @@
 ===The Witch Moon===
 
 ''The Witch Moon lasts for at least one month, during which the character temporarily loses all her Supernatural Abilities. She also suffers a hot fever, which causes a Medium Wound — this wound is treated as a disease, and many''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Investigating a Potion''
 ''A folk witch can inspect a potion to determine its effect, which is represented by a Folk Witch Magic Theory Ability roll. This takes her a few minutes, and reveals the Brew Potency and precise effect of the potion.''
 
@@ -336,7 +336,7 @@
 ''To a Hermetic magus, a potion appears to be a magical effect of Magnitude equal to the Brew Potency / 5, and thus can be detected via an appropriate Intellego Vim spell. Note that a standard detection spell will merely note that the potion is “a magi''
 ''cal effect,” but an additional magnitude of effect will identify the potion as being “non-Hermetic,” and a second additional magnitude of effect will reveal the Form of the effect (see ArM5, page 158). To correctly identify the Form of the effect, the magus must be familiar with folk witch magic; a magus with a score in Folk Witch Magic Theory or Organization Lore: Folk Witches, or the Supernatural Ability granted by the potion, is sufficiently familiar. To precisely identify the effect of a potion, a magus may investigate it in his laboratory, and again can only do this if he is familiar with folk witch magic. Treat the potion as a single effect with a level equal to the Brew Potency (see ArM5, page 100).''
 
-|]
+|}
 ''folk witches keep a healing potion handy for dealing with it. The folk witch can still drink potions even though she can’t brew any. At the end of the month, make a roll for the folk witch to see if the Witch Moon has passed. If this roll fails, then the folk witch gains another Warping Point and the Witch Moon lasts for another month, inflicting another Medium Wound on the witch due to fever. Roll again at the end of the second month and so forth, until she recovers. If the roll to end the Witch Moon is botched, the folk witch gains an additional number of Warping Points equal to the number of 0s of the botch die. Note that the penalties due to wounds do not affect this roll.''
 
 ===To End Witch Moon: Stamina – Warping Score + Stress Die Vs Ease Factor 6===
@@ -374,13 +374,13 @@
 ===Folk Witch Initiation Total: Mystagogue’s Presence + Mystagogue’s Folk Witch Magic Theory + Script Bonus + Sabbat Bonus===
 
 ''Unlike some kinds of initiations, each folk witch may only initiate others in a Supernatural Ability that she knows herself, and some initiations can only be performed at certain times or places. Gifted folk witches can usually initiate other folk witches in any of these Supernatural Abilities. Some of these initia''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Organization Lore: Folk Witches''
 ''A character with this Ability (see the Introduction) knows the sorts of effects that folk witches are capable of, where coven members meet and live, and the names and reputations of some folk witches. The specialty for the Organization Lore: Folk Witches Ability must be a particular''
 ''“home” coven. Whenever a roll is made to determine what the character knows about another coven, it is always a stress die; also, roll an additional botch die for every week’s travel this coven is from the character’s “home” coven. Specialities: a particular coven.''
 
-|]
+|}
 ''tions are quite difficult and are thus almost always performed at a sabbat (see below). Once a girl has undergone her first initiation, she is considered to be a witch by her peers. Of course, a typical girl has no significant skills immediately after her initiation and so normally remains with her sponsor, learning the craft, for a total of 10 years. Some covens swap newly initiated witches between the coven members, so a girl might be trained by a succession of witches throughout her apprenticeship. And as she nears the end of her apprenticeship, she may even be assigned to train younger witches herself.''
 ''If playing a variant folk witch tradition, the troupe may like to create different initiations for the witches’ different Supernatural Abilities.''
 ''Rhyme of the Beast Initiation Ease Factor: 15 Script Bonus: +6 (+3 Minor Ordeal, +1 Time, +2 Sympathetic) The initiate must live as an animal for a season. She cannot talk or eat with people during this season. The initiate gains the Minor General Flaw Incomprehensible, and the Minor Supernatural Virtue Animal Ken.''
@@ -390,13 +390,13 @@
 ''Hands of Life Initiation Ease Factor: 21 Script Bonus: +10 (+9 Major Ordeal, +1 Time) This initiation may only be performed in the spring — the initiate performs purification rituals every evening of the season. The initiate gains the Major General Flaw Enfeebled, and the Major Supernatural Virtue Healing.''
 ''The Devil’s Eye Initiation Ease Factor: 15 Script Bonus: +7 (+3 Minor Ordeal, +3 Quest, +1 Sympathetic Bonus) The initiate must find an Arcane Connection to an invisible creature. She gains the Minor General Flaw Missing Eye, and the Minor Supernatural Virtue Second Sight.''
 ''Second Life Initiation Ease Factor: 21 Script Bonus: +13 (+9 Major Ordeal, +3 Quest, +1 Sympathetic Bonus) The initiate must make a cloak from the hide of a Beast of Virtue. She gains the Major Supernatural Flaw Age Quickly, and the Major Supernatural Virtue Shapeshifter.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Precocious Girls''
 ''It is not unusual for a coven to accidentally initiate a Gifted girl into the folk witch powers as if she was unGifted, particularly if none of the current witches in the coven have The Gift. Eventually this mistake may be noticed if the Gifted girl begins to learn the Supernatural Abilities of her mistress (via exposure) without completing the appropriate initiation rituals. At this point the''
 ''coven has two choices: either a Gifted folk witch can be found to Open the girl’s Gift properly (although this will be more difficult as the girl has already learned some Supernatural Abilities); alternatively, the girl can be taught Supernatural Abilities by the unGifted witches (which will also be difficult — as her Gift is not Opened she has no favored Abilities).''
 
-|]
+|}
 ''Hedge Magic Sabbat''
 ''A sabbat is a meeting of the coven, and most covens meet at certain times throughout the year (see insert). The sabbat is an opportunity for the witches to trade vis, discuss common threats, and gossip. As folk witches do not normally live together, this is often the only opportunity for the coven members to meet. This is fortunate, since because a folk witch does not have Parma Magica she is not insulated from the social effects of her Gifted sisters. In fact, this has led many sabbats to end in acrimonious bickering, and consequently some covens only hold annual or biannual sabbats. Usually a sabbat is held in neutral territory, away from the homes of individual members; but for most folk witches, attending a sabbat takes no more than a day or two, including travel. Thus, a sabbat does not count as an interruption to long-term tasks like study or laboratory work. Of course, this is not true if a witch lives a very long way from her colleagues, but such a situation is rare.''
 
@@ -420,8 +420,8 @@
 ===Maximum Number of Assistants: Magic Aura At Sabbat Site===
 
 ''For sabbat Openings of The Gift the apprentice is brought to the sabbat and other Gifted folk witches can recite incantations that increase the Opening Total. Only Gifted folk witches can assist in this way.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: The Grand Sabbat''
 ''Some magi claim to know of a grand sabbat held every 101 years, attended by folk witches from all over Mythic Europe. But given the disorganized nature of folk witches, such an event is likely to only occur in their imagination. However, in the Stonehenge Tribunal, a small number of folk witch covens do meet every All Hallow’s Eve for a festival they do indeed call a grand sabbat. In the Rhine, anoth''
 ''er group of covens meets together for a grand sabbat held on Walpurgis’ Night at the Witches’ Altar on Brocken Mountain (see Guardians of the Forests, page 80). Magi who stumble upon these events might be concerned at such organized activity, and even speculate that these “shadow Tribunals” are evidence of Schism War refugees, or their descendants, masquerading as folk witches.''
@@ -435,7 +435,7 @@
 
 ''Lammas/Lugnasad: 2 August Mabon: Autumn Equinox Samhain/All Hallow’s Eve: 31 October/1 November''
 
-|]
+|}
 
 ===Opening Total Bonus for Sabbat Opening: +1 Each Gifted Witch Helping Mystagogue===
 
@@ -463,8 +463,8 @@
 
 ''(143 build points) The coven of Reims is based in and around the French town of Reims (see The Lion and the Lilly, page 99). In the late 12th century several of the witches were burned at the stake at the order of the archbishop William, who mistook them for heretics.''
 ''The coven was not entirely destroyed, however, and mistress Greta escaped the stake by flying out of the window of the archepiscopal court. Initiation Scripts: Rhyme of the Beast (+6), Unbound by Land (+6), Hands of Life (+10), The Devil’s Eye (+7). Forest Cave: Mistress Greta (a Gifted folk witch) fled from the stake to this remote forest cave (Magic aura 6), where she has since lived, usually alone. The cave is in fact inside a regio, that can only be entered by someone who knows the correct path (the other coven members know the correct path). Mistress Greta only occasionally attends the coven’s sabbat. Hooks: none. Boons: regio (major), aura (x 3) (minor). Vis Sources: 5 pawns Herbam per year (mushrooms from a forest grove), 1 pawn Auram per year (from the first wind of autumn), 1 pawn Animal per year (from first rabbit of spring). Library: Ars Grammatica, by Donatus (a very poor copy; Artes Liberales Ability Summa; Quality 5, Level 4), Scent of Water, anonymous (Dowsing Ability Summa; Quality 10, Level 5), The Piercing Tongue, by Luzabel (Penetration Ability Summa; Quality 10, Level 3). Townhouse: This ramshackle townhouse is built inside the poor quarter of the town of Reims (Divine aura of 3), and it is haunted by the ghosts of the witches who were burned over twenty years ago. Eliza, an old unGifted folk witch, now lives in the townhouse and she is often called upon to help heal the poor of Reims. In return, Eliza is well looked after by the townsmen, who have kept her existence hidden from the episcopal authorities. Hooks: missing aura (major), urban (major), haunted (minor). Boons: loyal covenfolk (minor). Vis Sources: 3 pawns Corpus per year (from paupers’ graveyard), 2 pawns Animal per year (from city tanneries). Vineyard: Near Reims, on the banks of the river Marne is a vineyard (Magic aura 1) where the young Gifted folk witch Matilda lives. She is a daughter of a family of vintagers (grape harvesters) and finished training two years ago with mistress Greta in the forest cave. The workers at the vineyard know about Matilda’s Gift, but much of their suspiciousness was allayed when she healed a child who had been crushed by a cart. The absentee owners of the vineyard (a small monastery) do not know about Matilda. Hooks: monastery (minor) Boons: aura (minor). Vis Sources: 2 pawns Mentem per year (from wine).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Matilda''
 ''Characteristics: Int +3, Per +1, Pre +2, Com 0, Str –1, Sta 0, Dex +1, Qik 0 Size: 0 Age: 22 (22) Decrepitude: 0 Warping Score: 0 (3) Confidence Score: 1 (3) Virtues and Flaws: The Gift; Folk Witch; Cyclic Magic (positive) (spring and summer), Improved Characteristics, Quiet Magic; Dependent, ShortRanged Curses. Personality Traits: Loyal +2, Friendly +1 Reputations: Weird healer woman at vineyard 2 (local) Combat: Dodge: Init 0, Attack n/a, Defense +2, Damage n/a Knife: Init 0, Attack +3, Defense +1, Damage +1 Soak: 0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious''
 ''Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Reims 2 (river), Artes Liberales 1 (grammer), Animal Handling 2 (dogs), Animal Ken 2 (dogs), Athletics 1 (running), Awareness 2 (child), Brawl 1 (dodge), Concentration 1 (flight), Cursing 2 (tongue), Craft: vintner 2 (sorting), Craft: weaving 1 (wool), Dead Language: Latin 4 (magic terms), Dowsing 3 (river-side), Flight 1 (indoors), Folk Witch Magic Theory 2 (potion brewing), Healing 5 (children), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 1 (personalities), Penetration 2 (Dowsing), Second Sight 2 (faeries), Shapeshifter 1 (dog), Survival 2 (forest). Witch Moon Scars: None. Equipment: bandages, knife, dog, child, wooden toys. Appearance: Matilda is an attractive wom''
@@ -474,24 +474,24 @@
 ''Abilities: Area Lore: Reims 5 (town), Animal Handling 3 (chickens), Animal Ken 4 (rooster), Athletics 1 (flying), Awareness 3 (visitors), Bargain 1 (barley), Carouse 2 (quantities of beer), Charm 1 (elderly men), Concentration 3 (flight), Craft: brewing 3 (large volumes), Dead Language: Latin 2 (magic terms), Flight 3 (low), Folk Ken 3 (townsfolk), Guile 2 (clergy), Folk Witch Magic Theory 5 (potion brewing), Healing 6 (disease), Intrigue 2 (town), Leadership 2 (townsfolk), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 4 (personalities), Penetration 1 (Healing), Second Sight 4 (ghosts), Stealth 2 (town), Teaching 1 (folk witches). Witch Moon Scars: 1. Gains Painless Witch Moon (Minor Virtue). Equipment: pots and pans, brewing apparatus. Appearance: Eliza lives in a large ramshackle townhouse in the center of the poor quarter of the town of Reims. She is an old, portly woman, who has difficulty moving about her house. She is always willing to give advice''
 ''to those who visit her, and indeed she has many visitors as she usually has a large cauldron of ale brewing in the kitchen. Eliza also often has several poor families, who have no other place to go, sheltering in one of the rooms of the house. Eliza is consequently well liked by the townsfolk, who also come to her for special brews when a family member is suffering from some disease or another, and she has many contacts and friends among the townsfolk. The townhouse is actually haunted by the ghosts of a number of folk witches who were burned at the stake, at the archbishop’s court, about twenty years ago. The ghosts often bicker with each other (they blame one another for the outcome of their disastrous trial), but they usually keep out of the way of Eliza’s visitors. A large, black-feathered rooster (who rules a harem of hens that Eliza keeps in one room of the townhouse) often accompanies Eliza, and some speculate (inaccurately) that the rooster is the source of her powers. The rooster is her familiar; it is otherwise a mundane animal.''
 
-|]
+|}
 
 ===The Kilkenny Coven===
 
 ''(106 build points) This coven of witches is fractured. There are two Gifted witches in the coven, one of whom lives in the Irish town of Kilkenny, while the other lives close to the town. Both witches (who are cousins, taught by their now-dead Gifted grandmother) are the wives of rival wealthy merchants, and the witches are likewise bitter rivals. In fact, the rivalry of the witches dates from their childhood and has directly led to the merchants’ feud. The feud originated in a dispute over a vis source, which the two witches discovered together in a bog, but it has now escalated well beyond that. The witches have each initiated a number of unGifted servants as folk witches, and hold competing sabbats. Although the unGifted servants fear their Gifted mistresses, and are grateful for the power that they have shared, they do secretly communicate with each other across the lines of the feud. If your saga follows history, this coven and its feud survives until the early 14th century when a bishop adjudicating a property dispute between the rival families stumbles upon the coven, mistakes them for infernalists, and executes several coven members. Scripts: Unbound by land (+6), The Devil’s Eye (+7), Second Life (+13). Janine’s House: Janine is the older of the two rival cousins. Her townhouse has a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Mistress Greta''
 ''Characteristics: Int +2, Per 0, Pre 0, Com 0, Str –1, Sta –2 (2), Dex +1, Qik –3 (3) Size: 0 Age: 76 (50) (Longevity Ritual provides +4 bonus; she has a Lab Text for it) Decrepitude: 2 (5) Warping Score: 3 (7) Confidence Score: 1 (3) Virtues and Flaws: The Gift; Folk Witch; Life Linked Folk Witch Magic, Affinity with Ability (Dowsing), Animal Healer, Clear Thinker, Expert Potion Brewer, Inventive Genius; Blatant Gift, Poor, Arthritis, Reclusive. Personality Traits: Arrogant +3, Reclusive +2 Reputations: Folk witch who escaped the stake 4 (local) Combat: Kick: Init –4, Attack +3, Defense –2, Damage +2 Dodge: Init –3, Attack n/a, Defense –2,''
 ''Damage n/a Soak: –2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Reims 3 (forest), Artes Liberales 4 (grammer), Animal Handling 3 (oxen), Animal Ken 4 (birds), Athletics 2 (flying), Awareness 3 (forest), Brawl 1 (kick), Civil and Canon Law 1 (heresy), Concentration 2 (flight), Cursing 4 (disease), Craft: weaving 3 (wool), Dead Language: Latin 5 (magic terms), Dowsing 8 (in forest), Flight 2 (at night), Folk Witch Magic Theory 5 (vis extraction), Healing 4 (child-birth injuries), Leadership 1 (apprentices), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 4 (initiations),''
 ''Penetration 3 (cursing), Premonitions 1 (visitors), Second Sight 5 (ghosts), Shapeshifter 2 (cat), Survival 4 (forest), Teaching 1 (apprentices) Witch Moon Scars: 1. Gains Premonitions (Minor Virtue) 2. Gains Animal Healer (Minor Virtue) 3. Inflicted with Arthritis (Minor Flaw). Equipment: staff, herbs, tea pot. Appearance: Mistress Greta is a wizened and bent woman, with thick grey hair that flows untamed to her waist. She dresses in simple peasant clothes, and can often be found squatting at the cave-mouth of her home, where she brews a pungent tea made from wild herbs. She also spends a lot of time foraging in the forest for the nuts and roots on which she subsists. With her Shapeshifter Ability, she can turn into a cat or a black bird.''
 
-|]
+|}
 ''large secret basement of which half is used as an auxiliary warehouse by her husband, for particularly valuable goods. The other half is used by Janine as a kitchen. The basement has a Magic aura of 4, and a small spring rises in the center of the kitchen. The spring water is vis, but the amount of vis has declined over the last few years. Hooks: urban (major), dwindling resource (minor). Boons: aura (x4) (minor). Vis Sources: 5 pawns Aquam per year (from spring), 1 pawn Corpus per year (from town graveyard), 1 pawn Mentem per year (from merchant’s account books). Anne’s House: Anne has a manor a few miles out of town — her husband is the wealthier of the two merchants. Her laboratory is constructed in an outbuilding of the manor house, which has a Magic aura of 2. Unbeknownst to Anne, Janine has planted several spies on her staff. At the edge of the manor lands is a boggy ground out of which rises a number of large rocks. The large rocks pin a dying giant to the earth — which is damp as it is saturated with his blood. Hooks: monster (dying giant) (minor), spies (minor) Boons: aura (x2) (minor), manor house (free). Vis Sources: 5 pawns Corpus per year (from giant’s blood), 1 pawn Auram per year (a warm breeze rising from a cave near the manor house). Farmhouse: Several days distant from Kilkenny, this is the farm on which Janine’s and Anne’s grandmother taught them the folk witch craft. The farm buildings are built in a dell with a Faerie aura of 4. The family of an aunt now works on the farm, and Janine’s sister, Agnes, who is an unGifted folk''
 ''witch, also lives there. Agnes has tried to remain neutral in the feud, and sends vis from the farm to both of the town factions of the coven. Hooks: Faerie aura (minor). Boons:''
 ''aura (minor), peasants (free). Vis Sources: 2 pawns Animal per year (from last lamb of the year), 2 pawns Herbam per year (from crops harvested at midnight, Autumn equinox).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Janine Kyteler''
 ''Characteristics: Int +2, Per 0, Pre +1, Com 0, Str +1, Sta +1, Dex +1, Qik 0 Size: 0 Age: 32 (32) Decrepitude: 0 (0) Warping Score: 1 (9) Confidence Score: 1 (3) Virtues and Flaws: The Gift; Folk Witch; Wealthy, Piercing Gaze, Reserves of Strength, Temporal Influence; Feud, Obese, Unstable Magic. Personality Traits: Angry +3, Obsessed +1 Reputations: Strange, intimidating wife of merchant 4 (local) Combat: Dagger: Init: 0, Attack +5, Defense +2, Damage +4 Dodge: Init 0, Attack n/a, Defense +1, Damage n/a Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Kilkenny 3 (merchants), Artes Liberales 1 (astronomy), Animal Handling 1 (pigs), Ani''
 ''mal Ken 2 (pigs), Athletics 1 (flying), Awareness 1 (faulty goods), Bargain 2 (merchants), Brawl 1 (dagger), Concentration 2 (flight), Cursing 4 (beast), Craft: weaving 2 (wool), Dead Language: Latin 4 (magic terms), Dowsing 5 (bog), Flight 2 (rural), Folk Witch Magic Theory 3 (curse fabric), Healing 3 (disease), Intrigue 2 (merchants), Leadership 3 (intimidation), Living Language: Irish 5 (Kilkenny dialect), Organization Lore: Folk Witches 3 (initiations), Penetration 2 (cursing), Profession: merchant 1 (assessing penalty fines), Second Sight 1 (faeries), Shapeshifter 2 (pig), Teaching 1 (apprentices). Witch Moon Scars: 1. Gains Reserves of Strength (Minor Virtue). Equipment: Town clothes, dagger. Appearance: Janine is a heavy, red-faced woman, with narrow piercing eyes. She helps her husband run his mercantile business, principally by chasing down debtors — all of the Kilkenny merchants fear a visit from Janine and her maid. She can shapeshift into a pig and a seagull. Her familiar is a pig who lives in a sty attached to the townhouse.''
@@ -500,20 +500,20 @@
 ''Dodge: Init +1, Attack n/a, Defense +3, Damage n/a Soak: 0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Kilkenny 3 (countryside), Artes Liberales 1 (logic), Animal Handling 1 (horse), Animal Ken 2 (horse), Athletics 1 (flying), Awareness 2 (rural), Brawl 2 (fist), Concentration 1 (flight), Cursing 6 (tongue), Craft: weaving 2 (wool), Dead Language: Latin 4 (magic terms), Dowsing 3 (bog), Etiquette 1 (hostess), Flight 2 (rural), Folk Witch Magic Theory 3 (potion brewing), Guile 2 (husband), Healing 3 (stab wounds) (5), Leadership 2 (staff),''
 ''Living Language: Irish 5 (Kilkenny dialect), Organization Lore: Folk Witches 3 (vis sources), Penetration 2 (cursing), Second Sight 2 (faeries), Shapeshifter 1 (horse), Teaching 1 (apprentices). Witch Moon Scars: 1. Gains Additional 5 XP in Healing. Equipment: dagger, walking clothes, staff. Appearance: Anne is an attractive woman, although she has a very short temper. She usually stays in the manor house working in her kitchen, or wandering the nearby bog fields, and travels only occasionally into town. She has acquired a reputation for holding debauched parties while her husband is absent with his business. This is not really true, although she does host sabbats in the manor house. Anne can shapeshift into the form of a beautiful mare.''
 
-|]
+|}
 
 ===The Orleans Witches===
 
 ''(110 Build points) This coven of folk witches practices a variant tradition that replaces the Shapeshifter Supernatural Ability with the Premonitions Supernatural Ability; and, unusually, most of the members are men. The coven currently only has one Gifted member, Claude of Orleans) who is a man. Two other Gifted coven members died in mysterious circumstances several years ago, and it is rumored that Claude killed them with curses. There are a several unGifted coven members scattered throughout the Orleans area, and the coven has good relationships with the local judicial magistrates after several cases involving stolen property were resolved by Dowsing — although the magistrates only deal with unGifted members of the coven. Scripts: Sense of Place (+6), Sense of''
 ''Time (Script for Premonitions; +6). Claude’s Shack: Claude lives alone in a shack, on the banks of a small stream, about one day’s travel north of Orleans. There is a Magic aura of level 3 in the area, and nearby is a ruined Roman villa with a large magic apple tree growing in what was once the courtyard. Hooks: Roman ruin (minor). Boons: seclusion (minor). Vis Sources: 5 pawns Herbam per year (magic tree), 1 pawn Aquam per year (fish spawn). Magistrate’s Court: A clerk called Jean the Wise, working in the Orleans magistrate’s court, is an unGifted member of the coven. He uses his Dowsing powers to help the magistrate determine the location of stolen property — which often quickly results in a confession. The magistrate has come to respect Jean’s opinion when making legal decisions. Hooks: missing aura (major), urban (major). Boons: powerful ally (major; magis''
 ''trate). Vis Sources: 2 pawns of Corpus per year (blood of first and last gallows victim each year). Library: Reading the Perturbations of Place, by Goodwin (Dowsing Ability Summa; Quality 10, Level 3), Civitas Orleans, by Magistrate Bayne (Civil and Canon Law Tractatus; Quality 9). Joseph’s House: Joseph lives just outside Orleans in a large house constructed in a regio, with a Magic aura of 3. He is an unGifted member of the coven, and uses his Dowsing Ability to find objects for people in the city. He maintains a townhouse in the city, where clients come to seek his services. By collecting a fee for finding objects, Joseph has become a wealthy man. Hooks: city (major) Boons: regio (major), aura (x3) (minor), manor house (free) Vis Sources: 2 pawns of Animal per year (tannery), 2 pawns of Terram (blacksmith), 2 pawns of Vim (a spring in the regio).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Jean the Wise''
 ''Characteristics: Int +3, Per +1, Pre 0, Com 0, Str +1, Sta +1, Dex 0, Qik +1 Size: 0 Age: 28 (28) Decrepitude: 0 (0) Warping Score: 2 (3) Confidence Score: 1 (3) Virtues and Flaws: Folk Witch; Concentrated Potions, Dowsing, Educated, Improved Characteristics, Premonitions, Temporal Influence; Meddler, Motion Sickness, Offensive to Animals, Warped Magic. Personality Traits: Meddler +3, Studious +2 Reputations: Wizard in Magistrate’s Court 3 (local) Combat: Dodge: Init +1, Attack n/a, Defense +3,''
 ''Damage n/a Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Orleans 4 (criminals), Artes Liberales 3 (logic), Athletics 1 (running), Awareness 1 (ambush), Brawl 1 (dodge), Carouse 1 (students), Civil and Canon Law 2 (land rights), Charm 1 (women), Concentration 2 (writing), Dead Language: Latin 5 (legal terms), Dowsing 6 (made items), Etiquette 2 (legal court), Folk Ken 2 (liars), Folk Witch Magic Theory 3 (potion brewing), Intrigue 1 (legal court), Leadership 2 (clerks), Living Language: French''
 
-|]
+|}
 ''5 (Orleans dialect), Organization Lore: Folk Witches 1 (history), Penetration 3 (Dowsing), Philosophiae 3 (moral), Premonitions 3 (natural events), Profession: scribe 3 (legal records), Teaching 1 (Artes Liberales). Witch Moon Scars: 1. Gains Concentrated Potions (Minor Virtue). 2. Acquires Warped Magic (ringing noise) (Minor Flaw). Equipment: Writing equipment, legal documents. Appearance: Jean dresses in the simple clothes of a clerk; he is balding, with a long pointed nose. Whenever Jean uses his Supernatural Abilities, all other characters within Voice Range hear an irritating ringing noise in their ears (Warped Magic). Hermetic Integration''
 ''The following are some breakthroughs available through research projects to integrate the practices of folk witches with Hermetic magic. It may seem like a lot of breakthroughs, but they’re just examples. It’s up to the troupe to decide if any of them are actually possible in your saga. Or, you can use these as inspiration for your own integration projects.''
 ''Subtle Opening''
@@ -538,8 +538,8 @@
 ''pungent he must make a Stamina roll against an Ease Factor of 3 to avoid gagging, which wastes the potion. (Effect: Base 5, +1 Touch, +2 Sun; Modifications: None)''
 ''Traveller’s Respite CrCo Level 30 R: Touch, D: Momentary, T: Group, Ritual This ritual spell restores one Long-Term Fatigue level to up to 10 individuals. Note that as this is a Ritual spell, the caster will lose at least one Long-Term Fatigue level himself, and possibly more if his Casting Total is low (see ArM5 page 81). (Base: 15, +1 Touch, +2 Group)''
 ''Energy Sense InCo(Me) Level 20 R: Voice, D: Momentary, T: Individual The caster senses the Fatigue status of the target (winded, weary, tired, etc). (Base: 5, + 2 Voice, +1 Requisite)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''New Virtue: Subtle Opening''
 ''Minor Hermetic Virtue The magus had his Arts Opened using a more-subtle and flexible technique than normal. Consequently, he does not suffer a penalty to the study Source Quality for his Arts scores when learning Supernatural Abilities (see ArM5, page 166). The magus is still penalized for scores in other Supernatural Abilities.''
 ''Story Seeds for Subtle Opening''
@@ -560,7 +560,7 @@
 
 ''A Tytalus magus invents the Subtle Opening, but refuses to share his method and instead asks a fee from other magi to perform it on their apprentices. His price is reasonable, but the Subtle Opening becomes so popular that the magus can’t keep up with demand, and this bottleneck causes a delay in the training of a large number of apprentices in the Tribunal. Some concerned magi try to pass a Tribunal ruling that forces the magus to share the Subtle Opening method. It’s possible that other magi may try to steal the method, or alternatively race to perform the research themselves (damaging The Gift of several unlucky apprentices during the experimentation).''
 
-|]
+|}
 ''Circle of Lethargy PeCo Level 30 R: Touch, D: Ring, T: Circle Targets within the circle do not regain Fatigue levels by resting. This can keep a character unconscious indefinitely, unless he is moved from the circle or the circle is broken. (Base: 15, +1 Touch, +2 Ring)''
 
 ===Consequences of Integration===
@@ -573,8 +573,8 @@
 
 ''Intellego effects are the most suitable laboratory projects that may be produced from Insights to contribute to this breakthrough. Some example effects include:''
 ''Lens of Glimpsing Spirits InIm(Me) Level 34 Pen +0, constant effect device. R: Touch, D: Constant, T: Vision''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''New Energy Magic Virtue & Guidelines''
 
 ===Energy Magic===
@@ -607,7 +607,7 @@
 
 ''Emboldened by the ability to restore Fatigue — and thus operate more easily in a Divine aura — a Bjornaer sept erupts from the forest. The bellowing beasts destroy a number of towns that fringe the wilderness, and the attacks claim several bishops. The outraged papacy calls a crusade and thousands of knights, included groups armed with saintly relics, arrive at the forest edge ready for war. The Bjornaer are relatively secure — they are hidden in a number of forest regios, from which they occasionally sally forth to harass the crusaders — but the frustrated crusaders may attack neighboring covenants.''
 
-|]
+|}
 ''This device is a crystal lens about the size of a fist, which is inset into a brass ring etched with Hermetic script. When a character looks through this lens, he can see spirits with Mentem Mights even if they are normally invisible. The character can target spirits seen in this way with spells, but must add 3 to any Concentration Ease Factors due to the awkwardness of using the lens. The character can also use the lens to engage in melee combat with an invisible spirit, with a penalty of 3 to his Attack Score, although obviously if the spirit is incorporeal the character requires a suitable magical weapon. The lens does not need to penetrate the Magic Resistance of the spirit. (Effect: Base 3, +1 Touch, +2 Sun, +4 Vision; Modifications: +4 levels environmental trigger)''
 ''Eyes for the Prince InVi Level 15 R: Personal, D: Concentration, T: Vision The caster can detect Faerie creatures with a Might of 40 or higher. The effect allows the caster to recognize the creature even if it is disguised or invisible, and does not need to penetrate the creature’s Magic Resistance. The effect does not allow the caster to see through intervening objects, however. (Base: 2, +1 Conc, +4 Vision)''
 
@@ -622,8 +622,8 @@
 ''Suitable laboratory projects that may be produced from Insights towards this breakthrough include:''
 ''Stout Potion CrCo Level 60 Pen +0, charged item. R: Touch, D: Momentary, T: Individual, Ritual''
 ''The character who drinks this dark, bitter potion has his Stamina increased by 1 to a maximum of +5. (Effect: Base 55, +1 Touch)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''New Virtue: Sense of the Mystic''
 ''Major Hermetic Virtue Intellego effects cast or invented by this magus that grant magic senses (see ArM5, page 113) do not need to penetrate the Magic Resistance of the sensed''
 ''creatures. The effect must still penetrate the Magic Resistance (if any) of the person who is granted the sense. Note that this only applies to effects that have a Sense Target.''
@@ -631,7 +631,7 @@
 ''The magi learn this breakthrough, and when they return home they discover to their surprise that their covenant is home to a sleeping dragon (this could be an Unknown Monster Hook). The dragon is invisible while sleeping, and has not yet been disturbed by the activities of the''
 ''magi. However, it is unclear how long the dragon has been sleeping. Maybe it arrived recently, or perhaps it predates the foundation of the covenant. Now that they know it exists, can the magi resist the temptation to wake the dragon? The dragon is within the Aegis of the Hearth.''
 
-|]
+|}
 ''Oil of Prometheus CrIg Level 60 Pen +0, charged item. R: Touch, D: Diameter, T: Boundary, Ritual This oil is carefully poured onto the ground at a Boundary — a city wall, or the edge of a forest, for example — which erupts into flame. From the site of ignition, which is about a pace in diameter, the conflagration rapidly spreads through the Boundary doubling in diameter every round until it covers an area up to 60 miles in diameter. The fire burns incredibly fiercely (+20 damage) for the Duration of the effect — even stones burn and iron melts. When''
 ''the effect expires the fire no longer spreads with supernatural speed or heat, but any fires begun continue to burn naturally. The potion must be poured on the edge of a defined Boundary to have an effect (see ArM5, page 113). (Effect: Base 15, +1 Touch, +1 Diameter, +4 Boundary, +3 Size)''
 ''Dram of the Lion MuCo(An) 35 Pen +0, charged item. R: Touch, D: Year, T: Individual, Ritual Drinking this potion causes the character to change into a lion for a year. When the''
@@ -640,8 +640,8 @@
 ===Consequences of Integration===
 
 ''In some respects, this integration project has limited consequences; it does not really open up new powers to the magi. Its main effect is that it allows powerful magi to more effectively use subordinates, as rather than needing to accompany their subordinates to cast a ritual effect, the magus can send a ritual item.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seeds for Ritual Items''
 
 ===Covenfolk Rebellion===
@@ -654,5 +654,8 @@
 ''featureless towers are rapidly erected, each warded by powerful castings of Aegis of the Hearth. The towers are raised almost on top of known vis sources, and the Rhine magi soon find that their vis sources are warded against them. Early attempts to communicate with the inhabitants of the towers are unanswered, but a Quaesitor eventually recognizes in all the effects the sigil of a single powerful Novgorod archmagus. However, when questioned the archmagus in question claims no involvement — and he was provably well away from the area as the towers appeared. In fact, a small number of freshly Gauntleted magi, wielding a set of charged, ritual wands created by the archmagus, are behind the attack on the Rhine tribunal. The young magi may have stolen the wands, or they may be acting with the blessing of their Novogorod elders. In any case, the two Tribunals are now at the brink of war due to the reckless use of ritual magic.''
 ''New Virtue: Ritual Items''
 ''Minor Hermetic Virtue The magus may make charged items that incorporate ritual effects. Each charge requires the same number of pawns of vis that casting the effect normally would otherwise cost. For example, a wand that produced an effect similar to Curse of the Unportended Plague (PeCo 55; ArM5, page 133) would require 11 pawns of Perdo or Corpus vis per charge. The number of pawns of vis that the magus may use in a season is limited in the usual way, and the number of charges is also calculated in the normal manner.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

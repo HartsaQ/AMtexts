@@ -10,11 +10,8 @@
 
 =Introduction=
 
-
-==Societates==
-
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Erik Dahl is neither Welsh nor particularly crafty, but did experiment with drawing mystic symbols around his office for inspiration. He and his very patient wife live in Davis, California. Erik’s work on this book is dedicated to his very columbine and mechanical friend Mark Thomas, who possesses all the best qualities of these two traditions, and who first introduced Erik to Ars Magica mumbleteen years ago.''
 ''Andrew Gronosky is a software engineer specializing in Intellego Aquam. Currently living in Massachusetts with his lovely wife Vesna, he commutes daily to Rhode Island in search of adventure and glory.  This book constitutes his Wizard’s Gauntlet as an Ars Magica author.  He would like to thank the playtesters and his fellow authors for their support, particularly Erik Dahl for help with the Cult of Mercury. Dedication: To Matt Ryan, eternal thanks for introducing me to Vesna.''
 ''Timothy Ferguson is a librarian who lives on the Gold Coast. He thinks cats are estimable animals. He’d like to dedicate his section of this book to Damelon Kimborough, for encouraging his first attempts at writing House Jerbiton. John Post is an attorney who lives and works in San Francisco with his lovely wife. His city is filled with a wonderful variety of misfits, outcasts, and other nonconformists. Although none directly contributed to his Ex Miscellanea traditions, they did inspire him to look beyond the conventional depiction of members of the House. He hopes that his traditions will similarly inspire Ars Magica players. He owes a debt of gratitude to the playtesters and his fellow authors for making his traditions better.''
@@ -24,5 +21,8 @@
 
 ==About the Authors==
 
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

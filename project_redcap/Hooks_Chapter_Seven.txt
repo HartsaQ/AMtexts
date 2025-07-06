@@ -1,6 +1,7 @@
-
-[|
 ''In the hazy dawn light, two men leave the city. One man rests his heavy head against the side of their fully-laden cart, while his companion narrowly avoids steering into the path of the itinerant merchants arriving at the city gate for the day’s fair. The heavy-headed man sadly contemplates the lightness of his coin purse — emptied last night into an extraordinary number of tankards — while two small shapes watch this ignominious departure from a vantage atop the city battlements. One of the observers chimes, with a delicate, silvery metallic voice, “Are we really relying on these men to outwit magi?” “You worry too much, Ailuros,” the other replies, lazily lifting a long leg to scratch behind his ear. “What is done cannot be undone.” The two small observers then turn, elegantly leap onto a nearby house, and chase each other’s shadows over the rooftops. Below, the fairground is being prepared.''
+
+==Introduction==
+
 ''This adventure seed pits the player characters against a pair''
 ''of animae – self-aware magical automatons created centuries ago by members of a forgotten magical tradition. Details regarding the mechanicians and how their powers can be integrated to improve Hermetic Magic are described in Ancient Magic, but that book is not required to run this story. Because the antagonists do not directly interact with the characters for most of this story, they''
 ''should be usable by most troupes without alteration. Storyguides wishing to increase the challenge presented by the animae are advised to portray them more assertively and ruthlessly. It should be noted, however, that Ailuros and Maahes can be very dangerous adversaries as they will not hesitate to sic nobility, church officials, or urban mobs upon the magi if they feel threatened.''
@@ -8,15 +9,13 @@
 =Small Game=
 
 
-|]
-
 ==Prologue==
 
 ''In the city of Alexandria in 293 AD, a famed mechanician named Celmis Rodhios constructed his masterpiece, a silver cat anima whom he named Ailuros (a Hellenization of the Egyptian deity Bast). Beautiful, urbane, and welleducated, the feline was acknowl''
 ''edged as a paragon of the mechanician’s craft, earning her master, who regarded his creation more as a daughter than a pet, great prestige. Years later Celmis’ former pupil, Epimedes Daktyloi, crafted a golden cat whom he named Maahes, believing this would prove that he had surpassed his famous parens. While Epimedes’ peers agreed that the gold cat was impressive, most thought that it was too derivative of Celmis’ designs and failed to illustrate any real innovation on the part of its creator. Feeling cheated by the judgment of his colleagues, Epimedes urged Maahes to demonstrate his superiority by destroying his feminine''
 ''counterpart, but to his chagrin the cats were instantly smitten with each other and soon became inseparable companions. Being immortal, the felines outlived the magical tradition that spawned them and were residing in Tyre when that city fell to Arab armies in 636. Entering the service of a victorious emir, the felines acted as advisers to the city’s Islamic rulers. In 1124, Tyre was captured by the crusaders and the two animae arranged to be smuggled out of the city disguised as figurines. Unfortunately, they were attacked en route and came into the possession of a young knight from the player characters’ Tribunal. Shortly after escaping from the knight’s manor, Maahes and Ailuros came to the attention of a nearby Hermetic covenant, which promptly had them abducted for arcane experimentation. The cats do not have fond memories of their imprisonment. Considered little more than toys, they were subject to all manner of torments by the magi. Unable to escape the covenant themselves due to a series of magical wards, the cats eventually succeeded in tricking an apprentices into breaking the wards for them. Believing themselves to be hunted by their former captors, the cats are extremely wary of the Order of Hermes and suspicious of any friendly overtures from magi. Still, they are aware that they cannot oppose a Hermetic covenant by themselves and are looking for allies. They have settled''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Mechanica of Heron==
 
@@ -26,7 +25,7 @@
 
 ''Among the innumerable magical practices endemic to Mythic Europe, the ability to generate an anima (vital spark) is one of the most impressive, allowing a magus to imbue an otherwise inanimate object with a life of its own. Despite superficial similarities to Heron’s art, however, neither the Animae Magic of House Merinita, the Automata of House Verditius, nor the Augustan Brotherhood’s Animo ability can demonstrably create sentient life. Thus, while the relationship between the aforementioned powers remains hotly debated by Hermetic scholars, Maahes and Ailuros would be deeply offended at being mistaken for the products of what they haughtily dismiss as inferior magics. Details concerning the Animae Magic and Automata mysteries can be found in Houses of Hermes: Mystery Cults, while Animo is described in Rival Magic.''
 
-|]
+|}
 ''in a city near the players’ covenant and have entered into an alliance with a local goldsmith, covertly engineering his election as the city’s prevot (mayor). For further details on town governance, consult City & Guild, page 13.''
 
 ==Setting==
@@ -42,13 +41,15 @@
 ==The Hook==
 
 ''This story begins when it comes to the characters’ attention that two of the covenant’s teamsters, Jean and Marc, who have just returned from the city with supplies, are behaving very strangely. Soon, the other grogs come to the conclusion that the pair are spying on the covenant. The problem (for Ailuros and Maahes) is that the grogs they’ve selected are completely incompetent at espionage. Play the scene in a way that suits your saga, but''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Mechanica and Damage==
 
 ''Because animae are fashioned from lifeless metal, they do not have Wound Penalties like living creatures, but track damage using Damage Levels like other objects instead. Whenever an anima suffers damage exceeding its Soak, it must make a Stamina roll against an Ease Factor equal to the amount by which the damage exceeded the Soak. If the roll fails, the anima loses a Damage Level; if the roll botches it loses additional Damage Levels equal to the number of botches. Maahes and Ailuros each have 5 Damage Levels. They suffer''
 ''no Wound Penalties as they accrue damage, but when the last Damage Level is lost, they are destroyed. Animae do not heal naturally, but can be repaired by a skilled craftsman. Specifically, characters with the Mechanica of Heron or Craft Automata abilities (consult Ancient Magic, page 75 and Houses of Hermes: Mystery Cults, page 128 respectively) can repair a number of Damage Levels per season equal to their score in the Ability used. Non-functioning mechanica cannot serve as a source of Insight.''
+
+|}
 
 ==Ailuros (Silver Cat)==
 
@@ -61,8 +62,6 @@
 ''Magic Might: 13 (Terram) Characteristics: Int 0, Per +1, Pre 0, Com –4, Str –7, Sta +1, Dex +3, Qik +4 Size: –3 Confidence Score: 1 (3) Virtues and Flaws: Perfect Balance, Puissant Awareness, Sharp Ears, Tough; Nocturnal, Proud. Personality Traits: Curious +4, Prideful +3, Hedonistic +2, Timid +2 Combat: Claws: Init +3, Attack +8, Defense +10, Damage –5 Teeth: Init +4, Attack +8, Defense +7, Damage –6 Soak: +4 Wound Penalties: None, see “Mechanica and Damage” insert. Abilities*: Arabic 5 (cultured), Area Lore: Alexandria 3 (Library of Alexandria), Area Lore: Eastern Roman Empire 5 (history), Area Lore: Town 1 (geography), Artes Liberales 3 (rhetoric), Athletics 3 (jumping), Awareness 4+2 (at night), Brawl 2 (claws), Classical Greek 5 (Koine), Folk Ken 3 (nobility), French 3 (merchants), Hunt 4 (mice), Intrigue 2 (alliances), Latin 5 (academic usage), Leadership 4 (servants), Magic Lore 3 (items of quality), Normandy Lore 2 (cities), Organization Lore: Order of Hermes 2 (hierarchy), Philosophiae 6 (reagents), Stealth 4 (stalk''
 ''ing). *	 Cats are excellent climbers and jumpers, gaining a +3 bonus to appropriate rolls. Powers: Child of Hephaestus, 0 points, Init +0, Terram. See Ailuros. Gift of the Muses, 0 points, Init +0, Auram. See Ailuros. Gown of the Night Predator, 0 points, Init +0, Terram. See Ailuros. Unbound Stalker, 0 points, Init +0, Terram. See Ailuros. Voice of the Demagogue, 0 points, Init +0, Mentem: The anima appears more intelligent and majestic than it actually is. Those affected by this power are inclined to regard the caster as their natural superior, to be respected and obeyed to the best of their ability. Targets do not find it particularly unusual or noteworthy that their superior is a metal cat. ReMe 40: Base 5, +2 Voice, +2 Sun, +2 Group; +3 levels for a Penetration of 6, +2 levels for three uses per day. (Mechanica Level: 24) Tranquility of the Purring Cat, 0 points, Init +0, Mentem: The anima can inspire a sense of supernatural calm in a small group of people by purring. Those affected are oblivious to strange goings on (rhinoceroses crashing through the door, a pair of animated metal cats walking down the street, and so on.) The targets perceive events''
 ''normally, but while Maahes purrs, they react to even the most outlandish events as if they were perfectly normal occurrences unworthy of comment. The power persists for as long as Maahes keeps purring and, with repeated applications, can affect several groups simultaneously. ReMe 34: Base 4, +2 Voice, +1 Concentration, +2 Group; +5 levels for device to maintain concentration, +4 levels for 12 uses per day. (Mechanica Level: 21) Vis: None. Appearance: Maahes is a golden cat with dazzling ruby eyes who was designed to look like a majestic Persian. Larger and more heavily built than Ailuros, Maahes attracts even more attention than his lovely mate, something he secretly enjoys. Given to indolence and pride, he values his wife’s keen intellect and enjoys the sense of whimsy she injects into his life, which prevents him from getting too complacent.  Maahes enjoys sunning himself and has a passion for academic debate, particularly on his pet topic of alchemy. Whenever Maahes uses his powers, those in his immediate vicinity can feel the spring sun shining upon their shoulders regardless of the time of day or meteorological conditions.''
-
-|]
 ''the grogs’ activities should be sufficient to worry the other characters without prompting them to incinerate the unfortunate grogs first and ask questions later. For example, they might be trying to infiltrate areas reserved for magi, making sketches of the battlements, or asking the sergeant about the covenant’s magical defenses. Ultimately, it should be obvious to everyone that the teamsters are trying to gather information about the covenant and its magi beyond what is known to most covenfolk. If interrogated through mundane methods, Marc and Jean fall into a dogged silence. Intellego Vim magic reveals them to be under a powerful non-hermetic Mentem effect of 10th magnitude (base level 1 to detect the Form, base 3 to determine Form and Technique). The sound of a silver chime is also heard. If magically forced''
 ''to talk, the grogs reveal that a well-dressed gentleman in hooded cape commanded them to investigate the covenant’s defenses and ascertain the resident’s attitudes toward non-Hermetic magic, magical creatures, and Hermetic property, then report back to him in a month’s time. Nothing more can be extracted from the pair since they simply don’t know what the hooded man is planning to do with the information. Although they were supposed to return to the city next month to deliver their report, neither grog knows where the rendezvous is set to occur — the man said that he would find them. Peering into the grogs’ minds reveals the image of a sun-shaped gold pendant hanging around a man’s neck. A non-Hermetic magic user inquiring about their magical secrets and facilities should prompt the characters to in''
 ''vestigate. If they don’t, after a few months they notice that another pair of teamsters (most covenants have several) have been traveling to the city every month, even when they had no covenant business there. Magical investigation reveals that they are being controlled by the same magical effect that afflicted Marc and Jean. These new spies are just smarter than the previous ones.''
@@ -81,8 +80,8 @@
 ''One of the rumors described earlier relates to an accused murderer named Jacques. Depending upon the needs of your saga, Jacques can be either Gifted or simply cursed with the Magical Air Flaw. He is dirty, hungry, lonely, and miserable, but apart from the guards this is the same condition in which he’s spent most of his brief life. Freeing the boy by force is a simple matter for a Hermetic magus since a pair of village thugs are the only''
 ''thing that has prevented him from escaping, but staging a jailbreak can create political and legal problems with the mundane authorities. Players may also wish to make arrangements for Jacques’ legal defense in hopes of saving his life. The trial is scheduled to take place in a month’s time, however, so the matter isn’t a particularly urgent one. If the characters wish to talk to the boy themselves, the guards acquiesce so long as the characters turn over any weapons before entering the makeshift jailhouse. Jacques is lonely and eager to talk once he realizes that the characters don’t want to hurt him. He freely admits to killing Michael Le Long, but claims to have done so in self-defense. Asking around town will confirm that the victim was a well-known robber, and Jacques would not likely have been charged if not for his suspicious air. It is up to you if you''
 ''want to build a story around this hook or even make him a potential apprentice. Recognizing the supernatural loathing Jacques inspires as a sign of The Gift, Maahes and Ailuros visited the boy along with Philippe l’Orfevrier a few days ago. Jacques does remember the visit but because Maahes was using Tranquility of the Purring Cat he doesn’t consider the meeting to be worthy of note. If asked about visitors, cats, or the sun pendant, however, he remembers that he received a visitor a few days ago who wanted to know whether he was an “apprentice.” The man he saw appeared to be in his late forties with brown hair and a beard. The description of the man and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Masterminds of the City==
 
@@ -92,7 +91,7 @@
 
 ''Medieval cities are highly flammable. Thatched roofs and wooden walls are the norm and, as such, fire is a serious hazard because entire cities can go up in flames quickly if any part of them catches fire. Characters know this, so the use of Creo Ignem spells should be seen as a dangerous proposition in an urban environment.''
 
-|]
+|}
 ''the sun pendant leads the characters to Philippe l’Orfevrier. Jacques can describe the cats too if asked, but knows nothing of their plans or capabilities. Apart from him, only a handful of townsfolk have seen the animae and most of those have been sworn to secrecy.''
 
 ==Philippe l’Orfevrier==
@@ -100,8 +99,8 @@
 ''Philippe l’Orfevrier is a wealthy townsman in his late forties. He owns a large house in the richest part of town and sits on the town council. His business as a goldsmith is very lucrative and he maintains a number of busy workshops located throughout the city. He specializes in small intricate pieces of gold jewelry;''
 ''his delicate gold designs were one of the things that drew Maahes to him. Although Philippe believes himself to be the cats’ equal in their joint endeavor, the cats are under no such illusions. Philippe has the necessary skills and tools to perform routine maintenance on an anima’s delicate mechanisms (though he lacks the magical ability needed to truly repair them) and is in a position of influence high enough to interest the cats, but they have no particular attachment or loyalty to him personally. The cats are currently engineering Philippe’s rise to the position of prevot. This is a lifelong post, so it is very important. Obtaining such a lofty position requires the funding of important''
 ''works of art in the city cathedral and donations to hospices and church houses. Philippe is also contributing to the well-being of the city and has offered to host a feast for all the townsfolk on the last day of the fair. He is also pressing for improvements to some of the public areas of the city, offering to pay part of the costs himself. These activities have made him popular in town, but are also costing him a lot of money. He has had to secure a loan from a local money-changer despite the brisk business he’s been doing lately. The cats are engineering this streak of good business, and are trying to delay repayment of the debt, but the True Faith of the rabbi who lent Philippe the money is mak''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Gathering Rumors==
 
@@ -110,7 +109,7 @@
 ''•	 Philippe l’Orfevrier is gathering support to become the next prevot. He is a skilled goldsmith who seems to be doing good business with the Count. Philippe has earned a lot of money recently and is actively recruiting an entourage of learned men. •	 Michael Le Long, a fellow from a neighboring village, was murdered recently. The town watch captured a young boy named Jacques not far from the scene. The boy bears the taint of witchcraft and was caught red handed so there’s little doubt as to his guilt. He is currently being held in a''
 ''nearby barn awaiting trial. The results of the trial, however, are almost a foregone conclusion. •	 If the characters ask about a well-dressed man wearing a hood, they are informed that a number of people in the town fit that description. The sun pendant, however, is recognized as the mark of the incipient Merchants’ Guild in the city. Its members are the richest merchants in town. They adopted the symbol recently due to its inclusion in the local nobleman’s coat of arms and its association with gold and wealth.''
 
-|]
+|}
 ''ing things difficult for them. The felines are also influencing people’s perception of Philippe as a good and worthy member of the city council, and plan to brainwash as many people as possible when the actual election takes place. As it happens, the current prevot is quite old, so it’s not unusual for Philippe to have announced his candidacy. Other councilmen are making similar overtures, albeit without the same measure of success. Philippe’s house is a two story building with stout stone walls and strong wooden doors. The goldsmith lives on the second floor with his wife Maria, two daughters (aged 7 and 4), and his 3 year old son. Four servants and Philippe’s apprentice, Mathieu, inhabit the ground floor. The family and servants have been living with the cats for a while and have come to trust them as supernatural but benign creatures who must be kept safe at all costs. They will not volunteer any information about the animae to strangers, having been ordered not to.''
 
 ==Encounters in the City and Fair==
@@ -159,5 +158,6 @@
 ==Electrum==
 
 ''While insufferably condescending at times, the animae do acknowledge some limitations to their condition — most notably the inability to procreate. If a maga successfully integrates the Awaken Device virtue (Ancient Magic, page 80), the cats seek her out immediately to commission a kitten crafted from electrum (an alloy of gold and silver). Is the character comfortable undertaking such a project?''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

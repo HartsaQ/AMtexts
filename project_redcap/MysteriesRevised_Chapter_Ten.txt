@@ -12,8 +12,8 @@
 
 =The Great Talisman=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''When a maga first creates her talisman, she must take an item prepared for enchantment (ArM5, page 97) by herself, and then attune it as her talisman. Once attuned she can increase the enchantment spaces, and each time she reopens it for enchantment or instills an effect she can also open the talisman to one magical attunement based on the Shape and Material Bonuses available in the item (ArM5, page 98).''
 ''Although a maga may attune an item with instilled effects (instilled by herself), she cannot add components to an existing device, even a talisman. To''
 ''allow the most talisman attunements, she should create and open a compound item with as many components as her Magic Theory score permits. A compound item can be prepared either with the sum of the pawns of vis for each component, or with the vis required by the highest single component. Magi have a seasonal laboratory limit of handling pawns of vis equal to twice their Magic Theory score, so most will open their talisman with the “single highest component” option.''
@@ -23,7 +23,7 @@
 ==Standard Talisman==
 
 
-|]
+|}
 ''an attunement bonus over the course of a season, as if working on his talisman — even when he does no work on the talisman in the laboratory, or works on other tasks. He can still only open one attunement per season, even if he reopens or invests an effect in his talisman.''
 ''When a magus reopens his great talisman to increase enchantment spaces, he may also craft in one or more new components, although the total number of components is still limited by his Magic Theory score. The method of working new components into a great talisman is part of the enchantment process (similar to that of Verditius magi forging items from raw materials), and no Craft roll is required. The season’s opened attunement may be chosen from the Shape and Material Bonuses of the existing talisman, or from the new components.''
 
@@ -36,12 +36,15 @@
 ''This counts as an Minor Ordeal for Initiating the Consummate Talisman. If he already has similar Deleterious Circumstances, he may subject himself further and instead suffer the Major Ordeal Flaw Necessary Condition: must wield talisman (or else magic fails).''
 ''Gaining this new Flaw counts as a prior Ordeal for subsequent Initiations.''
 ''If he already has his talisman as a Necessary Condition or Restriction, then he may still count that as an Ordeal for this Initiation, and need no further Flaw. If he already has these Flaws, he gains the Initiation Script bonus for an Ordeal, but it will not become a prior Ordeal for subsequent Initiations.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Inscription on the Soul and Talisman Virtues==
 
 ''A magus with Inscription on the Soul (see Chapter 8: Spirit Magic, Inscription on the Soul) and Great Talisman can open magical attunements in his body or spirit while performing other activities. However, to incorporate components into his body he must use the methods of Blending With Substance even with Great Talisman.''
 ''A magus may use Inscription on the Soul (instead of Great Talisman) as a prerequisite to Initiate the Virtue Consummate Talisman.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

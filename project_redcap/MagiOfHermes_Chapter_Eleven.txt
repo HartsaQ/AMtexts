@@ -25,14 +25,10 @@
 ===Unmake This Cloth===
 
 ''PeAn(He) 10 R:Touch, D: Mom, T: Ind This spell unravels an item made of cloth, whether it be wool, linen, cotton, or silk. An Herbam casting requisite is required for for plant-based cloth. The garment, tapestry, or other item is disassembled carefully with all knots undone and stitching unpicked.''
-
-[|
 ''Familiar: Idmon the Spider''
 ''Characteristics: Int –3, Per –2, Pre –5, Com –6, Str –10, Sta +1, Dex +3, Qik +4 Magic Might: 10 (Animal) Size: –6 Natural Qualities: Ambush Predator, Grapple, Loathsome Appearance, Venomous Virtues and Flaws: True Friend (Petalichus), Piercing Gaze; Envious (Minor) Personality Traits: Sinister +2, Loyal (Petalichus) +3 Reputations: None Combat: Dodge: Init +4, Attack N/A, Defense +7, Damage N/A Teeth: Init +4, Attack +10, Defense +9, Damage –9 Grapple: Init +4, Attack +6, Defense +7, Damage N/A Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5) Abilities: Awareness 4 (prey), Brawl 3 (teeth), Climb 5 (webs), Hunt 4 (insects), Greek 5 (magical terms), Latin 4 (Hermetic usage), Penetration 4 (Mentem), Stealth 4 (stalking), Survival 3 (home area), Weaver 5 (webs) Powers: Panic of the Trembling Heart (CrMe 15) 2''
 ''points, Init +3 Weaver’s Trap of Webs (CrAn 35) 4 points, Init +1 Vis: 1 pawn of Rego in its legs. Gold Cord: 2, Silver Cord: 1, Bronze Cord: 2 Bond Powers: Mental Communication, as per the level 15 effect in ArM5, page 105. This effect works on both Idmon and Petalichus. Shared Senses, as per the level 30 effect in ArM5, page 105. Only Idmon’s senses are shared with Petalichus. Appearance: Idmon is an unnaturally large, fragile-looking spider with long, angular legs jutting out from a smooth armored body. Idmon’s many eyes glitter and they reflect the bright patterns that cover its carapace.''
 ''Petalichus named his familiar Idmon after the father of Arachne, but if the spider has a true name it has not yet revealed it even to Petalichus. Idmon often travels with Petalichus, but is aware of his physical limitations so prefers to remain close to his master. However, on many occasions the magus sends his familiar out into the night to find and retrieve an Arcane Connection to a new target. Petalichus found his familiar somewhat late in life, when he was into his mid-fifties.''
-
-|]
 ''The item is reduced to discrete piles of thread. A Dexterity + Finesse simple roll determines how orderly these piles are arranged and sorted. (Base 4, +1 Touch, +1 Herbam requisite)''
 
 ===Bind Fast===
@@ -174,5 +170,6 @@
 ===The Gaze of Others===
 
 ''CrIg 17 R: Per, D: Conc, T: Ind, Pen: +0, 50/day Triggered by The Invisible Eye Revealed also installed in the talisman. When The Invisible Eye Revealed effect detects a scrying attempt, several of the white inscriptions on the staff glow with a soft light. The effect is subtle and barely noticeable in daylight, but Petalichus is a suspicious man and always keeps a watchful eye on his talisman when he doesn’t have it in his hand. (base 2, +1 Concentration; +6 levels 50/day, +5 item maintains concentration, +3 triggered effect)''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

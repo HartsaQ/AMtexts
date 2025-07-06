@@ -12,8 +12,8 @@
 ==Storm Wizards and the Order==
 
 ''Most magi know little about storm wizards, apart from the fact that they summon and manipulate storms, and that there are supposed to be fewer than half a dozen storm wizards haunting Transylvania. Many common folk believe that all storms are called by storm wizards, but magi can plainly see that only a small fraction of the storms which wrack Transylvania have magical origins. Of course, as the storms created by storm wizards actually appear to''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Thietmar==
 
@@ -22,7 +22,7 @@
 ''Calling 5+2 (Storm Moving), Storm Fighting 5 (Attacking Giants), Storm Riding 5 (Travelling (Self)), Survival 4 (Mountains), Swim 2 (Rivers) Equipment: Warm fur and hide clothes, magic ice in satchel (6 pawns), knife.''
 ''Appearance: The storm wizard Thietmar is a tall, shy man. He hides his face deep within a wild, unkempt beard, and he dresses in fetid, poorly cured, ice-jeweled furs and hides. He has an uneasy relationship built on mutual fear and distrust with the villagers scattered about the foot of the mountain. Thietmar and the villagers have arrived at a complex routine of caches and paths, whereby they leave “gifts” of food for him, and he moves storms away from their settlements, all without needing to meet.''
 
-|]
+|}
 ''be natural storms, the magi could be wrong (and the common folk could be right). There may be many more storm wizards than suspected by magi. As storm wizards are Gifted, the “join or die” provisions of the Code technically apply to them. However, storm wizards have so far managed to dodge this danger, largely because they are rare enough and apparently non-threatening enough that few magi have had the opportunity or desire to find out that the storm wizards are actually Gifted. Several storm wizards did, in fact, join the Order of Hermes (as members of House Ex Miscellanea) during the Schism War, and fought alongside the Tremere. However, this fact has been forgotten by the wider Order, and there are apparently no surviving texts about their powers. One possibility is that (as the storm wizards’ non-Hermetic magic was useful to baffle and surprise Diedne forces during battle) the Tremere are deliberately trying to keep knowledge about the storm wizards’ powers obscure for use again as a tactical surprise in a future conflict. Quite what the storm wizards’ goals are (if any) is a mystery.''
 
 ==Storm Wizards and Giants==
@@ -30,8 +30,8 @@
 ''Storm wizards all have the Supernatural Virtue Giant Blood (see ArM5, page 43). If you are making a storm wizard character, this Virtue is free. Storm wizards do not gain this Virtue by being literally descended from giants. Instead, at the end of their appren''
 ''ticeship, storm wizards undergo a mystery initiation in which they must slay a true giant and eat his heart. Tracking down a giant and acquiring a suitable Arcane Connection to him (to aid Penetration) can take the young storm wizard several seasons. Undergoing this ritual marks a true storm wizard and gains him the Giant Blood''
 ''Virtue. Note that this initiation merely marks the end of the storm wizard’s apprenticeship, much like a Hermetic apprenticeship ends with his gauntlet. A storm wizard can use his full powers as soon as he has had his Gift Opened, although obviously he will not have the Giant Blood Virtue until he has slain a giant.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Largest Prey==
 
@@ -42,7 +42,7 @@
 
 ''The storm wizard initiate gains Giant Blood Major Virtue. Initiation Ease Factor: 21 Initiation Total: Presence + Organization Lore: Storm Wizards + Script Bonus Script Bonus: +15 (+3 Quest, Hunt and eat the heart of a giant; +9 Major Ordeal, Gain Feud (Giant Tribe) Major Flaw; +3 Sympathetic Bonus)''
 
-|]
+|}
 
 ==Storm Wizard Magic==
 
@@ -51,8 +51,6 @@
 ''Storm Calling''
 ''Supernatural Ability This Supernatural Ability allows the''
 ''storm wizard to either create or move a storm. To create a storm, make a Storm Calling roll against an Ease Factor that depends on the size and duration of the desired storm (see insert). The storm wizard must also sacrifice a number of pawns of Auram vis (see Ice Harvesting) that depends on the size of the storm (see insert). The storm is centered on the location of the wizard at the time of casting, but if he subsequently moves, the storm will stay in place. It takes a number of rounds equal to the required Ease Factor for the storm to manifest. If the storm wizard calls a storm while indoors, the storm will appear outside, above and around, his location. Creating a storm is a Supernatural effect, so the Storm Calling roll is affected by the aura like any other Supernatural Ability. However, once created, the storm is entirely natural; it does not need to Penetrate to cause damage to characters who have Magic Resistance, or to enter an Aegis of the Hearth effect. Any character with a Score in Magic Lore (or Wilderness Sense) who witnesses the creation of a storm can automatically identify that the storm is being created artificially, but unless he is familiar with storm wizard magic, he will be unable to identify the specific form of magic. To move a storm, make a Storm Calling roll against an Ease Factor that depends on the size of the storm (that is, the Ease Factor for moving a storm does not depend on the storm’s Duration). A storm can be moved at rate of about 1 mile per Diameter, and the storm wizard must be able to see the storm while it is moving. Moving a storm does not cost any vis, but while it is being moved, the storm is considered to be under a supernatural effect. If the storm wizard wishes to keep a storm moving for an extended period of time, make a new roll to keep the storm moving every Diameter. The speed at which the storm wizard moves the storm is not unnaturally fast, but the storm wizard may move the storm in an entirely unnatural way, for example, he can move the storm against the wind, or even inside through windows and doors. A storm wizard may move any storm, regardless of whom (if anyone) created it. If two (or more) storm wizards wish to move the same storm, then the storm moves according to the direction of whomever rolls the greatest Storm Calling roll (which also''
-
-[|
 
 ==Storm Wizard Magic Game Mechanics==
 
@@ -72,8 +70,6 @@
 ''Storm Trance Ease Factor: 3 + Warping Score''
 ''Inside the Storm''
 ''Some storm wizard powers affect characters who are “within a storm,” or “at any point in a storm.” This means a character (or other target) who is either on the ground, or in the air, and is affected by the storm. In some cases, this will be clear, but in others the troupe will need to use their best judgment. A good quick test is: is the character getting wet from the rain, snow, or sleet borne by the storm, or are they blown about by the wind of the storm? If so, then they are sufficiently “within the storm”. Characters inside buildings are not normally considered to be within a storm (even if the building is), unless there are large openings in the roof or walls or the storm itself is inside the building!''
-
-|]
 ''exceeds the required Ease Factor). Storm wizards cannot usefully work together to move a storm.''
 ''Storm Calling Roll: Communication + Storm Calling + Stress Die vs Ease Factor''
 ''Storm Creation Vis Cost: Depends on Storm Size''
@@ -89,8 +85,8 @@
 ''The Ease Factor depends on the type of attack used:''
 ''Buffet: Ease Factor n/a. The Storm Fighting roll is treated as a normal melee Attack Total against a target character. Shields and weapons can be used in a defensive roll against this attack. The storm wizard may make a number of Buffet attacks equal to his Storm Fighting Ability Score in a round. These attacks may all target the same individual, or can be spread without penalty among multiple''
 ''targets within the storm. If an attack is successful, the target takes +10 damage from being torn and thrown about by strong winds. In a round where this attack is used, the storm wizard may also make a Storm Fighting roll as a Defense Total. Storm Fighting has an Initiative modifier of 0. This attack type has no Penetration, and so a target with Magic Resistance cannot be affected by a buffet attack. Deluge: Ease Factor 3. This attack affects everyone within an area no more than 30 yards across. All mobile characters must make a Dexterity roll against an Ease Factor of 6, or lose their footing and fall. This attack is Aimed, and thus bypasses Magic Resistance (see ArM5, page 86). Hail: Ease Factor 6. This attack affects everyone within an area no more than 30 yards across. All characters take +3 damage (which can be soaked as usual). This attack is Aimed, and thus bypasses Magic Resistance (see ArM5, page 86). Erosion: Ease Factor 9. This attack affects a single Structure or a part of larger Structure. Examples include: a tree, a house, a small tower, or part of a castle wall. If this roll is successful, the storm washes away the dirt beneath the foundations of the structure, causing it to collapse. As the erosion actually attacks the earth beneath the structure, the quality of the built structure is largely irrelevant. However, the storyguide can elect to increase the required Ease Factor to represent, for''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Storm Calling Ease Factors==
 
@@ -102,7 +98,7 @@
 ''Example Storm Calling Uses''
 ''To create a storm that covers an entire province and lasts for 1 hour, the Storm Calling Ease Factor is 12 (6 Hour + 6 Provincial), and this costs 2 pawns of Auram vis. To move this storm, the Storm Calling Ease Factor is 6 (6 Provincial), and costs no vis.''
 
-|]
+|}
 ''example, a structure which is directly anchored to the bedrock by deep foundations. Such well-secured structures are very rare in Mythic Europe, especially among mundane architecture. Lightning: Ease Factor 12. This attack strikes a single target with a jagged arc of lightning, which causes +20 damage. Assuming the Ease Factor is met, this attack cannot miss, but it must Penetrate the target’s Magic Resistance.''
 ''Ice Harvesting''
 ''Storm wizards require special magical ice that does not melt in order to use their Storm Calling Ability to create storms. The magical ice comes from special mountain peaks and mountain caves, and requires a complicated ritual which lasts for an entire season to harvest correctly. The location of these special sites is a closely guarded storm wizard secret.''
@@ -115,8 +111,8 @@
 ==An Inauspicious Birth==
 
 ''The circumstances around a character’s birth can make him particularly suited to slaying vampires and other supernatural creatures. Throughout the Balkans, there are a number of unlucky circumstances and taboos regarding one’s birth — both when and how it occurs. An individual who breaks one of these taboos, through no fault of his own, is set apart from society, and occupies a liminal role in his community. This makes him the target of much supernatural activity, but also gives him a greater capacity to combat it.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Storm Wizard Virtues and Abilities==
 
@@ -137,7 +133,7 @@
 ''The player characters stumble upon a cave high in the mountains. The icy surfaces of the cave are carved with strange runes and depictions of hazy figures striding over stormy mountains. There is a strong magic aura in the cave, and the walls of the cave are imbued with a number of pawns of Auram vis, which the magi could extract using spells similar to Gather the Essence of the Beast. The cave is a site used by storm wiz''
 ''ards for ice harvesting, and if the player characters remain in the area for long enough, they will surely encounter one or more storm wizards. If the player characters utilize the ice cave as a vis source, they will need to compete for the resource with the storm wizards. The storm wizards are initially alarmed and angered at the discovery of their sacred site, but if they can be placated, they might consider trading or allying with the magi.''
 
-|]
+|}
 ''The Sabotnik''
 ''A common taboo on vampires is an inability to go abroad on Saturdays, or harm those born on a Saturday. Anyone born on a Saturday is therefore immune to the direct powers of such vampire. In Bulgaria, such an individual is called a sabotnik (pl. sabotnici), whereas in the rest of the Balkans he is called a vaperar (pl. vaperari), and further south in Greece, he is called an alaphroiskiotos (see The Sundered Eagle, Chapter 5: Customs). A sabotnik can also arise from being born during one of the Unclean Days (Mrâsnite dni) between Christmas and Epiphany, or during the Wolf Holiday (Vâlèite praznici) in November. These sabotnici are fated to become vampires upon their death, and those born during the Wolf Holiday are often capable of turning into wolves (and become a type of vampire called pricolici after death). Not all sabotnici become vampire hunters, but all benefit from the protective effect of their day of birth. You can either randomly determining the day of birth of all characters, or assume that only those with specific powers of the sabotnik had that auspicious day of birth. Sabotnici often have an instinctive sense of the unseen, and can detect the presence of a vampire even if it is immaterial. They can sometimes also detect the presence of magicians and witches. Most sabotnici who develop magical powers are men, but the rare female sabotnici are usually more powerful, and possess powers of dream interpretation. Not all sabotnici are human; dogs can also be a sabotnik, and can be easily identified as having black marks over each eye, leading to them being known as “foureyed dogs.”''
 ''The Glog''
@@ -146,8 +142,8 @@
 ''The Taltós and the Kresnik''
 ''The taltós is a Hungarian magician born with special powers to fight off evil creatures. They are marked at birth by being born with a caul, or with extra fingers and toes. At the age of seven, a taltós enters a deep sleep, and is visited in his dreams by an elder taltós in animal form. The two fight, and if''
 ''the younger taltós wins, he is initiated into a society of nightwalkers who leave their bodies at night to do battle with evil creatures to secure the safety of their villages. The kresnik is similar to the taltós, but is found in the Balkans, particularly in Serbia and Slovenia. Kresnici are specifically opposed to a group of sorcerers and vampires called the kudlaci. A kresnik is born with a clear or white caul and has powers to promote fertility, whereas a kudlak is born with a red or black caul, and works to kill livestock and sap the vitality from crops. When a kudlak dies, he becomes a type of vampire (see the Vampires section of Chapter 8: Creatures).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Zuban, a Four-Eyed Dog==
 
@@ -160,7 +156,7 @@
 ''Black hawthorn is a slow-growing wood that twists as it grows, and has little use in carpentry since it can’t be made into planks. It has these Shape and Material Bonuses:''
 ''Shape and Material Bonuses Protection from vampires +7 Protection from evil +4 Prevent disease +4''
 
-|]
+|}
 ''The powers of the taltós and the kresnik are fully described in the Nightwalker chapter of Hedge Magic Revised Edition.''
 
 ==A Dark Parentage==
@@ -178,8 +174,8 @@
 ==New Virtues==
 
 ''These new virtues are designed for vampire hunter characters.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Hunters’ Arts and Mortal Foes==
 
@@ -191,15 +187,15 @@
 ''Over 1000 years ago, a powerful tradition of hedge wizards walked the Balkans. They were called the taltós, and they possessed many varied powers, from shapeshifting to spiritwalking, from potion making to vampire slaying. The taltós were the wise men of the Hun tribes. However, the taltós were a fractious and argumentative people, a personality that was exacerbated by The Gift. Soon, factions arose within the taltós community, and battle lines were drawn up. As the tribes warred with one another, so did the''
 ''taltós. The turning point in the war came when one side adapted their vampire-slaying magic  to the slaying of other taltós. The other side was quick to ape the technique, and the war transformed from one of dominance to one of extermination. Within a few short years, the taltós were virtually extinct. A few souls survived the pogroms, and managed to transmit scraps of their knowledge to others; and there are surviving fragments today who continue to practice taltós-derived magic, but they are pale shadows of their forebears.''
 
-|]
+|}
 ''Dhampir''
 ''Major, Supernatural This is a variety of Strong Faerie Blood (ArM5, page 49). A dhampir has the Second Sight Virtue at no extra cost, and can see normally in darkness. Their eyes are a peculiarly vivid color. They do not start making aging rolls until the age of 50, and get –3 to Aging Rolls, cumulative with any other bonuses. Dhampirs may learn Faerie Lore during character creation, and they are so in tune with their faerie nature that they gain a +1 bonus to all Faerie Lore rolls. If a dhampir dies, he becomes a vampire after death unless the correct rituals are performed on his body. This Virtue was first described in Houses of Hermes: True Lineages.''
 ''(Foe) Art''
 ''Minor, Supernatural There are many different variants of this Virtue, each one specific to a particular supernatural foe. The foe chosen must be a distinct type of creature, or else a specific tradition of humans aligned to a Realm. A foe must have some supernatural power: wholly mundane groups cannot be foes. A foe can span Supernatural Realms as long as they have a unifying feature which identifies them. For example, Dragons can belong to any realm, but are clearly identified as a group. Other examples include Vampires, Ghosts, Aerial Powers (an Order of Demons), Witches (both folk witches and infernal witches), and Shapeshifters (humans with the Shapeshifter Virtue or similar intrinsic power). The storyguide is the ultimate arbiter of the breadth of a Foe Art. Choosing this Virtue gives the character the (Foe) Art with an initial score of 0. (Foe) Arts are Difficult Arts, meaning that they are treated as any other Art except that they use the Ability Advancement Table rather than the Art Advancement Table. (Foe) Arts must be combined with a Practice Art to be used.''
 ''Scry Art''
 ''Major, Supernatural Choosing this Virtue gives the character the Scry Art with an initial score of 0. Scry is a Difficult Art, meaning that it is treated as any other Art except that it uses the Ability''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Connections to a Foe==
 
@@ -210,7 +206,7 @@
 ''Sympathetic Connections''
 ''Item Bonus Name of vampire in life +1 Soil from a foe’s footprint +1''
 
-|]
+|}
 ''Advancement Table rather than the Art Advancement Table. The Scry Art must be combined with at least one (Foe) Art to be used.''
 ''Slay Art''
 ''Major, Supernatural Choosing this Virtue gives the character the Slay Art with an initial score of 0. Slay is a Difficult Art, meaning that it is treated as any other Art except that it uses the Ability Advancement Table rather than the Art Advancement Table. The Slay Art must be combined with at least one (Foe) Art to be used.''
@@ -234,8 +230,8 @@
 ''Scry Level 5  Strength of Connection: Hear everything that the foe hears, and also receives a vague impression of what is occurring in its vicinity, as if seeing through fog. Provides a sympathetic connection bonus to the foe of +1.''
 ''Scry Level 10  Strength of Connection: See and hear everything that takes place within five paces of foe. Provides a sympathetic connection bonus to the foe of +2.''
 ''These levels assume that the target is at Range: Touch when the connection is first made; add 1 magnitude for Range: Sight, and 2 magnitudes for Range: Arcane. Add 10 levels (not magnitudes) if the foe lacks a Might score. To forge a connection to a mortal foe at Range: Sight that can only detect direction and distance is Level 14 (Base 3, +1 Sight; +10 levels mortal foe). This magical roll must penetrate the foe’s (Mentem) Magic Resistance to be successful. As indicated in the table, a Scry connection to a foe may act as a sympathetic connection if of sufficiently high level. This sympathetic connection can be employed by the hunter in any Supernatural Abilities, Arts, or other powers he has that require Penetration Totals (ArM5, page 84) against that individual foe. If the Scry roll botches, the foe is connected to the scryer instead; the magnitude of the botch determines how much the foe can tell about his would-be hunter (as earlier). Thus a double botch might grant the foe muffled sounds and sense of smell (as per''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Penetration and the Hunters’ Arts==
 
@@ -243,7 +239,7 @@
 ''Penetration Total: Art Total + Penetration Bonus – Level''
 ''The Penetration Bonus is computed in the same way as for a Hermetic Magus (ArM5, page 84). Hunters rely on gathering Arcane Connections and sympathetic connections to their foes.''
 
-|]
+|}
 ''the Level 4 guideline). The foe is always able to determine direction and distance at least. A scryer can have a single connection to a foe at a time, and each has an indefinite duration. He cannot simply cancel a connection once forged; instead, he can attempt once, at each dawn or dusk, to make a Scry Total to the same foe. If he can achieve a higher Scry Total than he made to forge the connection in the first place, he can choose to cancel the original connection or replace it with the stronger one. Canceling a connection to a foe is typically needed after a botched Scry attempt, or if the foe becomes aware of the connection (see later). The connection is automatically broken with the demise of the foe.''
 ''Using the Scrying Connection''
 ''Once established, the connection between his prey has an indefinite duration and an unlimited range. He must simply concentrate on the foe for a round, and make a Stamina + Concentration stress roll. The Ease Factor is determined by the strength of the foe. This roll to sense a foe is not a magical roll. Consequently the aura does not add to this total, and it does not need to penetrate the foe’s Magic Resistance.''
@@ -293,8 +289,8 @@
 ''The Level is decreased by five points (to a minimum of 5, or 15 for mortal Foes) for every correct fact about the foe that the slayer has been able to discover. This represents the slayer’s ability to attune his weapon to a particular foe. See the nearby insert for examples of the type of facts that are relevant. However, incorrect facts included about the foe increase the level by five; it is better to omit information in the Slay ritual than to include potentially erroneous information. The slayer is generally unaware of the validity of the information he has used, so the storyguide should keep the final Level a secret from the player. Only when used does the slayer learn how deadly his weapon is. Note that the Aura bonus applies to the Slay Total, and uses the aura where the weapon was made, not where it is used. When the weapon is used against its designated foe, it must strike the foe to have an effect; this normally requires an Attack Total that is higher than the foe’s Defense Total, although the blow does not actually need to inflict any damage. If the hit is successful, and the Penetration Total is higher than the foe’s Magic Resistance, then the foe immediately takes an Incapacitating Wound. Slay is usually a Corpus effect, but can be any Form appropriate to the foe’s Might.''
 ''After Slaying''
 ''Once a slayer’s weapon has been successfully used against a foe, it loses all magical powers and cannot be used to slay a second foe, even if the powers of the second foe are identical to the first. If the foe for which it was designed is killed by a different means,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Relevant Facts About Foes==
 
@@ -302,13 +298,13 @@
 ''• True physical form — humanoid, winged human, sack of blood, etc. (some foes might be shape changers). • Detailed appearance — at least three identifiable features. • How people know that a particular foe''
 ''is involved, and not another. • The activity of the foe — three or more separate events. • The precautions against the foe that have worked up to now. • Name of the vampire before its transformation occurred. • Why a man became a vampire. • Date and place of birth or death.''
 
+|}
+
 ==Tibor of Borša==
 
 ''Characteristics: Int +1, Per 0, Pre 0, Com –2, Str +2, Sta +2, Dex +2, Qik 0 Size: 0 Age: 25 (25) Decrepitude: 0 Warping Score: 0 Confidence Score: 1 (3) Virtues and Flaws: Wanderer; Dhampir, Slay Art; Arcane Lore, Famous, Second Sight*, Tough, Warrior; Driven, Mistaken Identity; Faerie Antipathy**, Infamous, Missing Eye, Reclusive * Free with Dhampir Virtue **	 See Realms of Power: Faerie page 114 Personality Traits: Brave +3, Implacable +3, Uncompromising +2, Crossroads* –1 * Sympathy Trait: whenever at a crossroads, penalize all Ability rolls by 1. Reputations: Dead 4 (Local), Vampire Hunter 4 (Local) Combat: Short spear & buckler: Init +1, Attack +10, Defense +6, Damage +7 Fist: Init –1, Attack +6, Defense +3, Damage +2 Soak: +9 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Transylvania 3 (graveyards), Athletics 2 (chasing), Awareness 3 (searching), Bargain 2 (food), Brawl 3 (fist), Craft: Green Wood 2 (spears), Faerie Lore 4+1 (vampires), Folk Ken 3 (divining motives), Hunt 3 (two-legged prey), Penetration 2 (Slay''
 ''Art), Ride 1 (mules), Second Sight 3 (vampires), Single Weapon 5 (short spear), Survival 2 (scrounging from farmland), Swim 1 (fast-flowing water), Vlach 5 (Romanian) Arts: Slay 5; Vampire 0 Equipment: Metal reinforced armor, short spear, round shield, several spare spears made from black hawthorn. Encumbrance: –1 (3) Appearance: An unassuming man wearing a peasant’s smock. He only dons his leather hauberk when expecting trouble, but usually wears leather vambraces. He carries a spear carved from a single piece of wood, and a strip of cloth tied around his head conceals a gaping eye socket.''
 ''Tibor was conceived when his father came back unexpectedly from a war; it was only afterward that his mother discovered that her husband had died in battle a month before. At the age of 11, Tibor left his home in the Transylvanian grain-lands to hunt down his father’s vampire. Since then, Tibor has been a ruthless hunter of vampires. A few years ago he finally met his father’s vampire, who put out his eye and left him for dead. He was mourned by the nearby village; but, since they did not know the correct rites, they were unsurprised when his corpse returned from death to haunt them. Tibor was not dead, though, and the vampire who had appropriated his form still dogs his steps. The rumors of his death have spread far, and he often has to compete with his conflicting Reputations.''
-
-|]
 ''the weapon also loses its magic. An expired weapon made with the Slay Art is magically inert. While it can still be used as a normal weapon of its kind, it cannot henceforth be used again for the Slay Art, or in fact, be enchanted using any other magical procedure.''
 
 ==Hunting Vampires==
@@ -324,12 +320,15 @@
 
 ''If precautionary measures are not used, or the wrong ones are used, then a vampire may rise to stalk the area. Each vampire has a very precise manner in which it can be killed; if mistakes are made, then the vampire can reform and continue its predation on the region. As a consequence, the slaying of the vampire is often left to the professionals. The first task is to determine whether a vampire really is responsible for the depredations, and what type of vampire it is. The vampire’s daytime resting place must then be discovered. A character with the Scry Art proves very useful for this stage; many vam''
 ''pires do not reside in their graves, but do leave the corpse of their most recent victim inside, leading to the mistaken impression that the vampire has been found and dealt with. Hunting a vampire on a Saturday is a common tactic, taking advantage of the frequent limitation on vampires that prevents them from spending Might points on a Saturday. The Scry Art is not without its perils. A scryer can be lead into a trap by a cunning foe who has subverted the bond between hunter and vampire. A vampire’s resting place can be confirmed using certain animals: neither a white stallion nor a gander will step over a vampire’s grave. If the vampire is seen, then a sabotnik or dhampir (or anyone with Second Sight) can confirm that it is a vampire, as can anyone looking through the arms of a sabotnik’s shirt, or looking at the corpse from under his arm or leg. The latter two methods are very dangerous; should the vampire see the character doing this, then it can immediately use one of its powers on the character. Physical inspection of the corpse can also sometimes reveal the vampire; it might be red in the face or lips, turned downwards or lying on its side, or have a foot crammed into one corner of the coffin. Before the body is exhumed, the grave is usually banned in some fashion to weaken the vampire, should it suddenly animate before it can be killed. This usually requires exploiting a weakness of this particular vampire, such as the inability to touch thorns, or an obsession with counting millet seeds. The Ban Art is particularly useful when combined with these precautions, weakening the vampire as much as possible. Once the grave site has been warded, and the body exhumed, the vampire must be destroyed in the correct manner. Failure to use the precise method to dispatch the vampire can cause it to reform and return. While the body is immobile or incapacitated, the vampire must be laid to rest usually through some form of destruction of the body. If there are people who are sickening thanks to the activities of the vampire, then eating the ashes of its burnt heart or breathing the smoke of its burning body can restore them to health. Examples of appropriate methods to ward and dispatch a vampire can be found in the Creatures chapter.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Working Together==
 
 ''The various hunters described in this chapter work particularly well if they combine their powers and work as a team. The sabotnici are often immune to the powers of a vampire, and are therefore best employed researching their foe, gathering Arcane and sympathetic connections, and using the Scry Art to track them. This can be particularly effective if the connection with the foe can be made under a Weakening Ban. The glogove and dhampiri are strongest in a direct fight against their foes thanks to the Slay Art. Being able to draw a foe into an''
 ''area protected by a Weakening Ban, and equipping one’s allies with Physical or Supernatural Bans is an important role of the glogove, kresnici, or taltós on the team. Hunters also have a role working in concert with Hermetic magi. The Ban Art is particularly good for weakening foes, making Hermetic destructive and warding spells more likely to Penetrate. The Scry Art can perform feats that are difficult with Hermetic magic, and the Slay Art does not destroy the vis in a creature’s body like some Perdo Vim spells can.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

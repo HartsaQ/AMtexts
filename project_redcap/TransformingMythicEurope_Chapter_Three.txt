@@ -1,5 +1,3 @@
-
-[|
 ''The Code of Hermes does not prevent magi ruling land; it prevents them from contesting its sovereignty with noblemen, and thereby harming other magi. In some parts of Mythic Europe, like England, this means that magi cannot own land, for all land belongs to the King and is held in vassalage. In other places, like southern France or Hungary, covenants which predate the current royal houses hold their land free of royal claim. There is nowhere in western Mythic Europe, however, that a magus can claim suffi''
 ''cient land to establish a country without angering a king, risking war, and defying the Code. In this saga seed, a group of magi sidestep this restriction by creating a country for themselves, not by claim or conquest, but through Creo Terram rituals. This chapter describes in detail the creation of one such land: an island in the North Sea, made from a circular stone wall that jackets an infill of earth.''
 
@@ -17,6 +15,8 @@
 ''Tall Empty Cylinder''
 ''A tall cylinder is suitable for living in the deeper parts of the North Sea, and mocking the highest of waves.''
 ''• A level 30 spell creates a wall 240 paces high, two paces thick, and just over a third of a mile in diameter.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Simple Spells to Create Permanent Walls==
 
@@ -31,7 +31,7 @@
 ''The Wedding Ring of Gaea''
 ''CrTe 35 R: Touch, D: Mom, T: Ind, Ritual As Wall of Permanent Protecting Stone, earlier, but with five additional magnitudes spent on size. This creates ten million (10,000,000) cubic paces of stone, and a circular wall 30 paces high, 2 paces thick, and just over 94.5 miles long. (Base 3, +1 Touch, +7 size)''
 
-|]
+|}
 ''• A level 35 spell creates a wall of the same height and thickness, but 3.8 miles in diameter. • A level 40 spell creates a wall of the same height and thickness, but 37.6 miles in diameter.''
 ''Open Ended Rectangular Prism''
 ''A rectangular prism suffers greater ablation from the sea, and lacks the charming circular shape, so prized in Hermetic magic, of the cylinder. It is however, a shape that some characters may prefer. It is, for example, very easy to map, and to plan out the later use of land. Its walls form lengthy quays, which can be used directly for mercantile industry. For the same reasons that a hol''
@@ -50,8 +50,8 @@
 ''Fortified Wall''
 ''The sea wall protecting the island could, if the player characters wished, be designed with fortress-like features. These include:''
 ''Crenellation: A wall that has been designed with crenels (gaps) and merlons (upward projections) allows soldiers to take cover between firing missiles at enemies. Adding crenellations adds a magnitude. A Fire Step: A fire step is a Hermetic invention, probably pioneered during the Schism War. Unlike a crenelated wall, a wall with a fire step is complete, but has a raised step''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Note on the Columbae==
 
@@ -61,7 +61,7 @@
 
 ''Troupes should consider capping the number of magnitudes that complicated additional features add to the wall. They might, for example, agree that after adding three magnitudes for complexity, the magus can manipulate his creation into any shape he wishes, without adding extra magnitudes.''
 
-|]
+|}
 ''behind it. This allows the defenders to step up, see the foe, launch a spell, and then step down. This obscures the defender far better than standing behind a merlon, or even an arrow slit, protecting her from Sight ranged spells. Tremere magi, particularly, have spells which allow them to create one-way windows in walls, which help them to keep track of their enemies between castings. This doesn’t raise the level: it just uses up additional fill. Greater Height: Any wall is an obstacle, but one that’s too high for climbing lines to be thrown to the top of it is the most secure. Adding height to the wall doesn’t add to the spell’s level: it just takes more stone and so reduces the diameter of the final circle. Machicolations: These are holes between two wall supports (called corbels), which allow missiles to be dropped onto attackers at the''
 ''foot of the wall, by defenders still protected by the wall. This adds a magnitude. Another alternative is to leave beam holes in the walls so that wooden galleries, called hoardings, can be hung out over the walls, from which similar attacks can be made. These don’t add to the spell level. These defenses are rarely seen on sea walls, as direct attacks on sea walls are rare.''
 ''Sea Gates and Docks''
@@ -69,8 +69,8 @@
 ''sels, called lighters, transport cargo from vessels to the dockside. The dock area is not exposed to the hammering action of waves, so it does not suffer erosion like the sea wall does. It does not require a thick stone jacket. If the player characters just add the sea gate, it adds 1 magnitude because it has some metal parts, but requires no added material. If they add the sea gate and the internal harbor wall, it still only adds one magnitude, but requires material, depending on the size of the harbor the magi create.''
 ''Statuary''
 ''If the player characters wish to create statues atop the wall, or have relief figures carved in its surface, this is free if they are an expression of the sigil of the caster. If they are an artistic motif, they add a magnitude.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Attack of the Giant Magical Snails==
 
@@ -81,7 +81,7 @@
 ''Magic Might: 7 (Aquam) Characteristics: Cun –2, Per +4, Pre –2, Com –2, Str +6, Sta +3, Dex –1, Qik –4 Size: +1 Virtues and Flaws: Magic Animal, 9 x Large. Personality Traits: Hungry +3, Patient +2 Combat: Bite: Init –4, Attack +5, Defense +5, Damage +10 This bite is made using a tongue covered in tiny, rasping teeth.''
 ''Soak: +6 (partially covered by a stone shell) Fatigue Levels: OK, 0/0/0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–6), –3 (7– 12), –5 (13–18), Incapacitated (19–24), Dead (25+) Abilities: Awareness 9 (predators), Brawl 5 (bite), Swim 5 (ocean). Vis: 2 pawns Aquam, shell. Appearance: These giant snails are the size of a small pony each. They differ from garden snails in that they have hook-shaped feet, and a long, brightly colored, tail. Each also has a rack of tentacles atop its head, each terminating in a glowing, globular eye. These snails have a fringe of whiskers about their mouths, which give them the appearance of being mustachioed.''
 
-|]
+|}
 
 ==Transforming Mythic Europe Wall Materials Other Than Stone==
 
@@ -116,15 +116,15 @@
 ''In this model, the characters backfill the enclosure with magically created clay. Clay created by Hermetic magic is perfect. That is it lacks the bubbles, gravel and biological matter which can cause pottery to catastrophically misfire. Clay is also waterproof, which means that even if small cracks do occur in the wall, the water table of the island will not fill with seawater. Clay is as easy to create as soil. For fill which is topsoil on the upper two paces, and clay the rest of the way to bedrock, just calculate as soil.''
 ''Stone''
 ''Stone is more difficult for Hermetic magic to make than dirt or clay, but its use as fill for limited areas of the enclosure is likely. If the magi wish to build large stone structures upon the island, like watchtowers, castles, or mountains, it is sensible that pillars of stone be placed within the enclosure, to act as foundations. Characters creating stone may select what type of stone appears, except if they have a sigil which makes a particular variety the only suitable choice. Stone is three magnitudes more difficult to create than soil of the same volume. If the characters choose a variety of stones – for example some''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Basic Quote==
 
 ''So, if your troupe decides they want a circular island thirty miles across, with a standard wall and filled with soil, then that requires just two spells, a level 35 and a level 40, and 15 pawns of vis. A maga can cast both spells in under four hours, if the long term fatigue levels lost in the first casting do not need to be recovered before the second ritual commences.''
 ''An island 300 miles across requires a level 40 spell to create the wall, and a level 50 spell to create the fill. It costs 18 pawns of vis and takes an extra 45 minutes. An “island” of this size can easily join Britain to the Continent and leave sufficient material to create a defensive range of hills along the old coastlines.''
 
-|]
+|}
 ''soapstone for implements, and some marble for civic buildings, and some tin ore because they want to attract faeries – then that adds one to the magnitude for complexity.''
 ''Cisterns''
 ''The magical island, having no natural spring, must get its drinking water via magic or rain. The vast subterranean spaces of the island are perfect for creating cisterns which store this water. This allows it to be drawn up through wells. Cisterns might also be created on the higher parts of the island, perhaps replenished using magically powered pumping systems, to allow plumbing in houses to gain pressure via gravity.''
@@ -171,8 +171,8 @@
 ''There are no native animals on the island, unless the sigil of the creating maga causes their spontaneous creation. They rapidly appear even without the assistance of the player characters. Most insects are self-generating in Mythic Europe. Birds and bats rapidly colonise the island, the precise varieties being influenced by the placement of the new land, and prevailing weather patterns. If there are no elevated and hidden places on the island, the birds and bats settle''
 ''around human habitations. Once ships begin to arrive, mice, rats and cats are introduced to the islands. Larger animals may be introduced by magi, but may also be introduced by faeries.''
 ''A Pile of Rotting Beef CrAn 35 R: Touch, D: Sun, T: Group Bees, which are vital for the production of most crops, are generated by the decay of the corpses of cows. Player characters who create too many bees before they have flowers must watch them starve, but players who have flowers, and no bees, must watch them wither. Fortunately, things generated by magically created animals persist even if the spell’s duration ends. Clever magi''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds: Stolen Things of Natural Beauty==
 
@@ -194,7 +194,7 @@
 ''The Second Remove of the Giant’s Dance''
 ''ReTe 35, Ritual R: Touch, D: Moon, T: Structure This spell allows the magus to uproot a structure and float it through the air, at the speed of a running horse. The magus can ride the structure, if it is sufficiently strong to take his weight. (Base 3, +1 stone, +1 Touch, +3 Moon, +3 Structure)''
 
-|]
+|}
 ''can simply strew their island with dead cows, using Sun duration spells like this one, and the bees which arise from these corpses are natural. This spell creates ten cow carcasses. Magi wanting to absolutely ensure they have bees can add a Perdo requisite, to make the corpses rot as they wish. Alternatively they can use spells like Growth of Creeping Things, bees being one of the insects created when destroying beef. (Base 10, +1 Touch +2 Sun +2 Group)''
 
 ==Mystical Features==
@@ -204,8 +204,8 @@
 ==Auras==
 
 ''Magic auras develop in four main ways. Areas of great natural beauty develop auras through their innate connection to the Magic Realm. Ancient structures slowly develop magical tethers. The residue of powerful rituals can create an aura. Magical creatures live in Magic auras, and whether they create the aura, or merely strengthen them by their continued habitation, is unclear.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds for the Residue of Great Magic==
 
@@ -216,6 +216,8 @@
 ''Magi who Perform Great Works''
 ''Player characters can ask great magi from other Tribunals to travel to the island, and perform great works while guests. The player characters may lobby other covenants in their Tribunal to accept a Dedication, a legal recognition of the covenant as a place given a particular task. This draws specialists in the field, or at least their apprentices, from across the Order. This eventually allows the creation of new rituals, which as they are tested create magical residue, tethers and an aura.''
 
+|}
+
 ==Dexithea: a Telechine==
 
 ''The telechines were a small group of titans who fought on the Olympian side during the first Titanomachy. They were wizards and smiths. They created the sickle of Cronus and the trident of Posideon who was, according to some, their foster-son. After the first Titanomachy the home of the telechines, Rhodes, was invaded by the followers of Athena. The telechines hid within Poseidon’s realm, for he was always their ally and was a rival of Athena’s, and created a new weapon. The telechines emerged from the ocean and used a terrible poison to blight the land. This weapon, which could kill even gods, terrified and repulsed the Olympians. They destroyed the fortress of the telechines with lightning. What happened to the surviving telechines is unclear. Some say they were all killed. Other writers report that they were scattered and took refuge in the depths of the sea. Many others says a single telechine was allowed to live. The reasons they give vary: was she the wet-nurse of Poseidon? She went into exile, and made a home for herself deep in the sea, but she sometimes wanders the world, garbed with human contours.''
@@ -224,16 +226,12 @@
 ''Powers: Stygian Waters, 5 points, Init –4, Aquam. The telechines, betrayed by the Olympians, were the first race to create a weapon of mass destruction. They found that by mixing Stygian water (which is Perdo vis) with sulfur they could create a poison fatal to all men, beasts, and plants. This power requires vis to use, but produces sufficient poison to kill ten thousand men, or a vast number of plants and animals. The telechines can use their mastery of storms to spread this poison.  (Base: CrAq 25, +1 Touch, +4 additional doses) Toxic Visage, 5 points, Init. –4, Corpus or Animal. People or animals who catch sight of the true face of the telechine die. The telechine is such a competent shapeshifter that it can alter just its face, and for just a moment, so that a single person in a group conversation dies.  (Base PeCo 30, +1 for Animal requisite, +1 Eye, +2 Sun) Vis: 9 pawns Aquam, body Appearance: In her natural form, Dexithea looks like a human torso with flippers for hands and feet, the head of a dog, and flaming eyes. The sight of her, in this shape, is fatal for most people. She is an exceptionally skilled shapeshifter, and may take any human form she wishes. Dexithea can perfectly replicate a particular human, if she has time to examine his or her features.''
 ''Blood of the Telechines''
 ''A character who has the blood of the telechines adds +1 to her Dexterity and gains an additional Major Virtue, usually Ways of the Waters. All telechines, and their descendants, are hated by faeries that claim descent from Olympians, and have the Supernatural Nuisance Flaw.''
-
-|]
 ''Natural Beauty''
 ''Sites of great natural beauty can provide the tether for an aura. These can be incorporated into the magi’s island by finding an uninhabited rock which has an aura, and then wrapping the island about it. Alternatively, the player characters can find a place where the actions of the wind or waves are archetypal. These tethers are outside of the island, but conveniently close for the purposes of the magi. Finding places of archetypal elemental action is easiest in the Atlantic, which is the epitomic Ocean, and so has majestic waves of incomparable size. This may provide a weak tether, and an accompanying weak aura.''
 ''Ancient Structures''
 ''Structures gain mystical associations slowly. As a general rule, each century adds 1 to the strength of the tether. Structures can, however, be moved, and still retain some of their magical potency. Player characters who seek to create an aura on their island using ancient structures need to acquire and transport these — sometimes tremendously large and ungainly — stone objects.''
 ''The Residue of Great Magic''
 ''Magical tethers are created by rituals of level 45 or higher. The rituals required to create the wall and the fill are not of sufficient power to create a preternatural tether, unless the characters have elected to create a vast island. More detail on mystical tethers is found in Realms of Power: Magic, page 10. Player characters can, however, still seek the residues of great magic as rewards in stories.''
-
-[|
 
 ==An Aspect of Phorcys==
 
@@ -250,10 +248,14 @@
 ''Characters lacking spare vis may trade for it, but vis is valuable, and what can the magi of the magic land offer in exchange for it? One possibility is to design the covenant so that it provides services to magi from surrounding Tribunals.''
 ''the surrounDing seAs''
 ''The lack of readily available vis sources on land may force the magi to seek it on the surrounding seas. Some vis is generated by natural events, like waves and storms, the epitomize their type. Other sources have a more obscure origin, like ambergris and amber, washing ashore. Rumors of ghosts ships and strange natural phenomena become story hooks.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: A Spare Farthing==
 
 ''The greatest treasure with a link to the North Sea is that of King John. His baggage train was lost in a tidal surge as his forces crossed the Wash, just over three years ago. No part of the treasure has been recovered, save one tiny piece. A little, fl at crown, a hand span across and made of gold, was found by a laborer in the bog. It was perhaps the golden rim of a cup. This element of the hoard might act as an Arcane Connection to the rest. Sadly, the Redcap who heard the story of the fi nd, from the reed cutter, says that man sold it to a passing merchant for a farthing. How do the characters fi nd the merchant?''
+
+|}
 
 ==Story Seeds: Faerie Kings==
 
@@ -271,6 +273,8 @@
 ''es. With these, he has scared away invaders from his islands. This spell creates an illusory fleet of one hundred vessels, crewed with soldiers.  Costs 45 spell levels: CrIm Base 2 (sight, sound), +1 Touch, +2 Sun, +3 Structure, +2 size of group (100 ships), +2 move at command, 2 intricacy points spent on cost.) Grant Lost Love Flaw: Init –9, Vim: Manannan can shake his cloak between two people and ensure they never meet again. Being a cunning faerie, he has allies with potions of forgetfulness, which he administers after using this Ritual Power temporarily. This allows him to lift the curse and recover his Might. His wife, for example, underwent this procedure.  (Special) Growth and Shrinking: Magnitude/5 points, Init –Magnitude+1, Corpus: The character can reconfigure the matter and magic in its body into a series of increasingly large, or increasingly tiny frames.  (Focus powers work like Spontaneous spells: these two powers, each bought as a separate Virtue, allows Manannan to use any spell of level 25 of below that alters his size. Each use of this power costs 1 Might per magnitude of the effect. Remember also, that Mannanan’s Shift Human Shapes power resets his size to +0, if he wishes it to. This is unusual.) Manifestation: Magnitude/5 points, Init – Magnitude+1, Form as appropriate. This power manifests the faerie’s consciousness among animal and plant life its glamor touches, temporarily controlling their actions. This power allows the character to simulate any Creo Animal, Rego Animal, Creo Herbam, or Rego Herbam effect with a value of 25 spell levels or less, targeted at the animals within its glamor and suiting its motif. Manannan’s motif, that he’s the wizard king of the isle and the seas''
 ''around it, gives him very broad latitude in the use of this power.  (Focus powers act like spontaneous spells, assume he can cast any appropriate spell to level 25, and that it costs him 1 Might per magnitude) Shift Human Shapes: 0 points, Init 0, Corpus: Allows the character to change its appearance to any human configuration, although this cannot be used to replicate the features of a specific person. Manannan uses this to roam the countryside, performing tricks.  Costs 5 spell levels (Base 3 +2 Sun, 1 intricacy point to reduce cost) Spirit Away: variable points, n/a, Vim: allows Manannan to act as a threshold guardian, as described in the Faerieland Chapter of Realms of Power: Faerie. Indeed, Irish faeries think he’s the one who showed the rest of them how to enter Faerie in the first place. (Special) Stroke of Death: 0 points, constant, as target: This is the power that makes Manannan’s sword lethally sharp. The high level of effect would tend to make this spell ineffectual against the Parma Magica, but storyguides and players with Faerie Lore are reminded that Manannan can craft Arcane Connections to anyone who speaks to him while in combat (multiplier 2), who eats or drinks anything on his isle (2), who is wounded (3), or who has sex with one of his servants (varies). Base 30 (minimum for immediately fatal effects), +1 Touch, +1 constant, +8 intricacy points to reduce cost to 0. Summon the Rider of the Waves: 0 points, Init –1, Aquam: Similar to Push of the Gentle Wave (ArM5 page 124), but has a longer effect, allowing the faerie to appear to upturn small boats, pull objects across the sea, or swim assisted by a magical current. Despite the name, Manannan can also use this power to force ships away from''
 ''the island.  Costs 35 spell levels (Base 4, +4 Arcane, remembering that faeries can create Arcane Connections easily, +2 Sun, 2 intricacy points spent on cost) Transform into Impenetrable Fog: 0 points Init –3, Auram: Transforms the faerie into a great cloud, which can be used to hide the island.  Costs 40 spell levels. (Base 30 +2 Sun, 4 intricacy points spent on cost) Transform into Tide: 4 points Init–3, Aquam: Transforms the character into the upper layer of the sea, so that he can carry boats as he wishes. Transform into Thunderstorm: 4 points Init –3, Auram: Transforms the character into a vast, black bank of thunderclouds. Allows him to blow tempestuous winds and drive hail at his foes.  Costs 40 spell levels. (Base 30 +2 Sun) Transform into Wheel of Flame: 4 points Init –3, Ignem: Transforms the character into a wheel of flame.  Costs 40 spell levels. (Base 30 +2 Sun) Pretenses: Many, including Brawl 9 (giant flaming wheel), Charm 9 (getting people to talk to him), Penetration 9 (Stroke of Death power), and Single Weapon 9 (short sword) Vis: 11 Rego vis in a shattered Celtic crown. Appearance: Manannan’s shapeshifting powers are such that he may appear however he wishes. He uses his shapeshifting to a degree that’s extraordinary. When he chooses to look human, he is a tall, elderly man of noble visage and wealthy garb. He sometimes looks like a king, and for other audiences dresses as a wizard. Since the stories of wizards his viewers are most familiar with are those spread by Jerbiton magi, Manannan’s magus form wears a pointed hat and a blue cloak, with astrological symbols upon each.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Treasures of Manannan==
 
@@ -288,7 +292,7 @@
 ''Faerie Might, Faerie Sight, Faerie Speech; Monstrous Appearance, Incognizant, Traditional Ward (Norse sea chants to him). Personality Traits: Belligerent +3, Brave +3, Greedy +1 Combat: Brawl (fist) Init –7, Attack +8, Defense –2, Damage +20 Brawl (tusks) Init –7, Attack +12, Defense 0, Damage +25 Pole Axe: Init –6, Attack +13, Defense 0, Damage +25 Thrown Rocks Init –6, Attack +6, Defense –3, Damage +16 Soak: +7 (thick leather armor made of thousands of seal skins sewn together.) Wound Penalties: –1 (1–12), –3 (13–''
 ''24), –5 (25–36), Incapacitated (37–48), Dead (49+) Abilities: Awareness 3 (foes), Brawl 5 (bite), Carouse 2 (drinking), Faerie Speech 5, Leadership 3 (mortals), Single Weapon 6 (pole axe), Thrown Weapon 3 (rocks). Vis: 8 pawns Rego vis, in a walrus tusk embedded in a fish. Appearance: Imagine a vast walrus, but with a human torso, and arms instead of foreflippers. Then add a crown of corals and shattered ships across his pinnipedial brow. Tursus attempts to intimidate his foes by slapping his chest on the ground and roaring, which may require a Brave check, but is not a supernatural power.''
 
-|]
+|}
 ''The Deeps''
 ''The bottom of the sea is a wilderness, little explored by Hermetic magi. Vis on the ocean floor is so difficult to collect that there may be great reserves awaiting harvest. Some magi have developed bathyspheres to allow the exploration of the bottom of the ocean, but many other techniques can be researched which allow characters to access the sea floor. One possibility is to have rooms within the fill of the island that lie on the sea floor. These rooms have access to the ocean, but are Warded so they do not flood. Simple magic items allow player characters to walk along the seabed, encountering elemental spirits, faeries, and the ghosts of sailors.''
 ''First Faeries''
@@ -301,22 +305,16 @@
 ''tice that their island lacks faeries, their associated auras, and vis sources. Circle of Beat Warding (ArM5 page 120), Ward Against Faeries of the various elements, and Ward Against The Beasts of Legend (ArM5 page 120), may be useful during individual stories. A Ward’s level is selected by the caster, but the Touch Range, Sun Duration and Boundary Target add 35 levels.''
 ''Weather Made Good MuAq 40*, Ritual R: Touch, D: Moon, T: Boundary This spell prevents rain falling on the island for a month. It may prove particularly useful when first settling the island, as it allows peasants and supplies to lie unprotected without suffering damage. *	 remember to add further magnitudes to increase Boundary size. (Base 4, +1 Touch, +3 Moon, +4 Bound)''
 
-[|
-
 ==Auvekoejaks==
 
 ''This tribe of northern merfolk is more vicious than their southern cousins. When the two types come into contact, they often make war on each other. The relationship is, deliberately, similar to the relationship between the Vikings and the southern nations. As an extension of this, a race of Norse faeries might invade the lands of the Saxon and Celtic faeries. This may send merfolk noblemen to the court of the magi as refugees, perhaps followed by whole tribes of their subjects. Auvekojaks never run out of ammunition. They usually carry five javelins and their quivers refill each time they sink beneath the surface of the waves. They strongly prefer to murder their enemies with ambushes, by sniping, or by gathering in ranks and maintaining rolling fire. Auvekojaks are suitable as replacements for player character companions, although their Virtues and Flaws need to be balanced, and a Social Interaction Virtue needs to be selected. A higher Might would be useful; the Feast of the Dead Virtue is particularly suitable for this type of faerie.''
 ''Faerie Might: 5 (Corpus or Animal depending on type of merfolk) Characteristics: Int, 0 Per 0, Pre +1, Com 0, Str +1, Sta +1, Dex +2, Qik +1 Size: 0 Virtues and Flaws: 2 x Greater Faerie Powers; Faerie Sight, Faerie Speech, Hybrid Form, Personal Faerie Power; Restricted Might (on land), Sovereign Ward (Priests); Aloof, Incognizant. Personality Traits: Rapacious +3, although if they conquer an area, this changes to Greedy +1 Combat: Axe and small shield: Init +2, Attack +11, Defense +7, Damage +7* Brawl: Init: +3, Attack +5, Defense +3, Damage +5''
 ''Ivory-tipped javelin (thrown): Init +1, Attack +5, Defense +3, Damage +5* * Does not include Damaging Effect Soak: +5** **	 Sealskin armor Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Awareness 2 (riches), Brawl 3 (underwater), Faerie Speech 5, Carouse 2 (singing), Single Weapon 5 (axe), Swim 3 (endurance). Thrown Weapon 3 (javelin). Powers: Damaging Effect: 2 points, Init –2,: Terram: Increases the damage of one of the faerie’s weapons by +5 for two minutes. (Base 5, +1 Part, +1 Diameter: note that the Base is lower for faeries than humans.) Push of the Gentle Wave: 2 points Init –1, Aquam: Similar to the spell of the same name (ArM5 page 124), but has a longer effect, allowing the faerie to appear to upturn small boats, pull them out to sea, or swim, assisted by a magical current. Costs 15 spell levels (Base 4, +1 Touch, +2 Sun) Conversing with the Sea: 3 points, Init –2, Aquam. Allows the faerie to ask questions of their local part of the ocean. Similar to Voice of the Lake, ArM5 page 122, except that faeries can converse with portions of genuine lakes and seas. Costs 25 spell levels (Base 15 +1 Touch +1 Concentration) Transform into Human: 3 points, Init: –2, Corpus. This is treated as a level 25 effect, easier than a complete transformation into a fish (level 30). Equipment: Weapons, armor, buckler shield, stolen treasures. Vis: 1 pawn Animal, seal skull. Appearance: Thse merfolk are seals, or perhaps walruses, from the waist down. They also wear thick, leather clothing, apparently made of sealskins.''
-
-|]
 ''Other Boundary Spells''
 ''There are three considerations for magi wanting to use the island’s wall as a Boundary for spell casting.''
 ''• Boundary spells are Rituals, and Rituals cannot be cast spontane''
 ''ously. This means that the player characters need to have these spells prepared — at minimum written on a casting tablet – before they are required. • Some wards need a marked boundary between the thing they are protecting and the outside.''
 ''An example of this is The Shrouded Glen, which only works if the victim crosses the ward before they see the island. Similarly spells which make the sea rough, or control the winds, need a second marked Boundary, outside the walls, to act as their target.''
-
-[|
 
 ==Strategies For Players Feeling Swamped By Choice==
 
@@ -365,21 +363,15 @@
 ''A death shark is a psychopompic faerie, which comes into the shallows near a village where a person strongly connected to the sea is sick. It stays until the ebbing of the tide, and then departs as the human dies. Some people think that the shark carries the life of the dying person away, while others think it''
 ''more a herald of death, like a banshee. Regardless, it seems that slaying the shark, or driving it off, can do the ill person no harm. Death sharks are not suitable for player characters.''
 ''Faerie Might: 5 (Animal) Characteristics: Cun +1, Per 0, Pre –2, Com –5, Str +2, Sta +3, Dex +1, Qik +1 Size: +3 Virtues and Flaws: 2 x Lesser Powers, Monstrous Form, Incognizant, Personality Traits: Patient +3, Ferocious +2 Combat: Teeth: Init +3*, Attack +12, Defense +11, Damage +16** * prefers to attack with surprise, for a +3 Initiative in the first round. **	 Includes +5 for Damaging Effect. Powers: Damaging Effect: 0 points, Init –2, Animal  This creature’s bite is incredibly powerful (as per Realms of Power: Faerie page 58. 2 intricacy to reduce cost.) Hound: 0 points, Init –2, Corpus  Allows the shark to know the distance and direction of a particular human, usually the one who is dying, so that it can follow and loom in the harbor regardless of where the character flees to (as per Realms of Power: Faerie page 59. 2 intricacy to reduce cost.) Soak: +2 Wound Penalties: –1 (1–8), –3 (9–16), –5 (17-–4), Incapacitated (25–33), Dead (34+) Pretenses (as Abilities): Awareness 3 (dying people), Brawl 6 (in water), Hunt 4 (the dying), Swim 5 (ocean) Vis: 1 pawn Aquam, pieces of shark tooth jewelry Appearance: A shark, but with white skin and red eyes''
-
-|]
 ''each target needs to be prepared with a memory that can be altered with little trouble. For example, at sporting or cultural events, everyone may be asked to repeat the recipe for sea urchin soup, or memorize a string of flags. When this spell is required, the memory of the recipe is replaced with a single useful piece of information, or the flags are replaced with a single useful image. For example, an evacuation plan can be distributed in this way, or a series of mustering points for militias. * 	 Remember to add further magnitudes to increase Boundary size. (Base 1, +1 Touch, +2 Sun, +4 Bound)''
 ''Speech of the Warding Ring InTe 35 R: Touch, D: Sun, T: Ind. Stone Tell of the Mind that Sits (ArM5, page 153), the most popular Hermetic spell for interrogating rocks, does not work on the stone jacket of the island solely because the spell’s target is limited to a square pace cubic in size. Characters using this spell can speak with far larger stones. (Base 20, +1 Touch, +2 Sun. This spell uses the wall, but a mind is an Individual target.)''
 ''Strange Tricks Using Canal Contents MuAq 25 R: Touch, D: Sun, T: Boundary*, Ritual. This spell transforms the water in the canals of the island into another natural liquid. Oil, tar, turpentine, treacle, honey, wine, vinegar or whatever else suits the magus’ fancy is possible, save blood which requires a Corpus requisite. *	 Remember to add further magnitudes to increase Boundary size. (Base 2, +1 Touch, +2 Sun, +4 Bound)''
-
-[|
 
 ==Elemental Spirit of the Waves==
 
 ''Deep within the waters are potent elemental spirits. If the characters construct their island by first casting up a great wall of stone, it is possible that one of these creatures will be penned inside. It must be dealt with because it has the power to shatter the wall in its quest for the open sea. The characters may only discover the creature exists if they cast spells to fill the space inside the wall, and find a great well, caused by the Magic Resistance of the creature, diverting the infill from landing upon it. A powerful water elemental enclosed in a tube of earth like this is both dying and furious.''
 ''Magic Might: 35 (Aquam) Season: Summer Characteristics: Cun +2, Per +2, Pre –7, Com –9, Str +9, Sta +7, Dex +1, Qik 0 Virtues and Flaws: Magic Thing; Ways of the Waters; Poor Memory, Short Attention Span, Simple Minded Qualities and Inferiorities: Greater Power (Crafter of Aquam), Greater Power (Drown), Split Attacks**; 14 x Improved Attack, 14 x Improved Damage, No Fatigue, Temporary Magical Might.* *	 Wounds decrease the Might pool of the elemental by separating part of its material form. Each wound reduces the Might pool by the Wound penalty. If the creature manages to reconnect its parts, it regains that Might. Sections chipped off like this contain vis, in proportion, which may be used before the creature is defeated. **	 See note after Combat''
 ''Combat: Bludgeon*: Init+5, Attack +32, Defense +5, Damage +52** *	 Includes Ways of the Waters (+3) **	 Water elementals can only cause Scuffle damage (see ArM5, p 175) Each round the elemental can split this attack into as many attacks as it chooses, retaining the same Init and Defense for each smaller psedopod, but dividing the Attack and Damage pools as it wishes. Decide the division before the Attack roll is made. Soak: +12 Wound Penalties: –1 & 1 Might point (1–5), –3 and 3 Might points (6–10), –5 and 5 Might points (11–15), Incapacitated & 5 Might points (16–20), Dead & all Might points (21+) Immune to blades and piercing weapons; sources of fire that do less than +35 damage are harmlessly extinguished. Abilities: Awareness 5 (surface), Brawl 7 (pseudopods), Swim 7 (ocean) Powers: Crafter of Water, 1–3 points, Init 4 – Might cost, Aquam: Duplicates any Creo Aquam or Rego Aquam spell of level 35 or below at the cost of 1 Might point per magnitude of the spell. Drown, 0 points, Init –2, Aquam After a successful melee attack the elemental can engulf a target of smaller than Size 12, necessitating a deprivation roll (ArM5, pages 180-181). Each victim may attempt to escape each round by Grappling (ArM5, page 171) Vis: 7 pawns Aquam, body Appearance: A stormy stretch of belligerent sea''
-
-|]
 ''A Spell for the Defense of the Realm Against Expected Invasion MuCo 50* R: Touch, D: Sun, T: Boundary, Ritual. Adds +3 to the Soak score of all humans on the island, for the rest of the day or night. The spell makes the flesh of the targets tough and insensitive, so they suffer a –1 penalty on all dice rolls requiring sensitive touch. * 	 Remember to add further magnitudes to increase Boundary size. (Base 15, +1 Touch, +2 Sun, +4 Bound)''
 
 ==Location: The North Sea==
@@ -411,14 +403,10 @@
 ''Philip Augustus of France''
 ''The great master of politics in Western Europe, the player characters need to deal with Phillip in some way, so vassalage might suit. Phillip has already doubled the size of his personal lands, shattered the rivals on his southern border, and wrecked the economy of England by fueling civil war and invasion. His interests are held most strongly by these powerful''
 
-[|
-
 ==Story Seeds For Turbulent Kingdoms==
 
 ''A saga set on an island in the North Sea can harvest mundane story seeds from Tribunal books for Stonehenge, Loch Leglean, the Rhine, and Normandy. The North Sea is often used by rebellious noblemen or deposed princes to flee to the court of another ruler, and from there plot a return. French and English nobles, for example, are often in the court of their traditional foe, but flight to Denmark or the courts of the German princes also regularly occurs. When the magi create a powerful and officially neutral kingdom, at a far safer and more comfortable sailing distance, it is the obvious place of flight for dispossessed noblemen lacking family in other courts. If such a nobleman arrives, what do the player characters do? If assassins or ambassadors arrive from the court of his or her nominal ruler, what then? What if the refugee is arguably the rightful queen of a coastal state? Will the magi allow her to create a court in exile? Some noblemen, knowing the importance of having a place to flee to if politics goes sour, establish their younger sons, or cadet branches of''
 ''their families, in distant courts. If a group of young noblemen arrive in the country of the magi, what do the player characters do? The young noblemen may expect to swear fealty and be allowed to create manors, but do the magi want their island to be feudal? If all of the young men are from a particular faction, for example the pro-Scottish faction in the English court, does accepting them place the magical country in danger of taking sides in foreign wars? Medieval kingdoms occasionally expel the Jews, when religious mania turns against them, or the debts the noble classes owe them get too high. Consorting with magi is a sin, according to some interpretations of Jewish law, but fleeing to the magical country might give Western Jews surcease from persecution. If the characters discover a pogrom is coming, can they negotiate with the leaders of the Jewish community, overcome their suspicions, and carry the Jews away to safety? They need to time this perfectly: in many kingdoms farming the Jews is a privilege of the king’s, so whisking them away before they are formally expelled is theft.''
-
-|]
 ''states, but his land is primogenitural, which means he’s perpetually looking for land for his sons to inherit. If the island seems poor, the ruler he appoints is a cousin, or loyal follower from his wars. If the land seems rich, he appoints one of his younger sons as the ruler. Philip Hurepel, who is nineteen, landless and arguably a bastard, might be appointed.''
 ''Richard, Duke of Cornwall''
 ''Although still a teenager, Richard is already showing the flair and intelligence which, if your saga’s history follows real life, will make him the richest and most cunning politician in Western Europe. In real''
@@ -427,8 +415,6 @@
 ''The King of Denmark is an expansionist, and an experienced crusader, with a broad swath of territory in the Baltic lands, much conquered by himself. He usually strikes when he senses weakness in surrounding lands, grabbing territory''
 ''during civil wars and succession crises. If he becomes king of the new realm he might be persuaded that he now needs to administer what he has taken, a decision he takes, in realworld history, after a kidnapping in 1223. If he has the greater security of magical defenders, however, kingship of the new land might merely give him the resources to fish in troubled waters on a grander scale. If the player characters do go to war with a surrounding kingdom, Valdemar will be tempted to claim lands from whichever side is weaker, and has sufficient naval power to interfere with his enemy’s trading and fishing fleets.''
 
-[|
-
 ==Story Seed: The Coronation==
 
 ''If the player characters do create a king, and have him recognized, then they need to arrange coronation for their puppet. A coronation must occur, and must involve a vast panoply of people, and require great expense. Coronations cannot be simple. The only king in the region who has had a simple coronation in the last few centuries was Henry III, and the pope forced him to do it again, properly this time. At minimum, a coronation requires:''
@@ -436,8 +422,6 @@
 ''theoretically can modify that. The Church will convene an ad hoc convention to decide these matters, and the king’s advisors are welcome to attend. • A huge church. A king can be crowned somewhere else, but eventually some sort of ceremony must occur in a large church. This does not need to be a cathedral, although it may be. If the player characters lack a beautiful church of tremendous size, then they need to build one, or find an alternative which others will accept. For example, whisking the court magically to Jerusalem or perhaps Santiago would be suitable. • A lengthy ceremony, where the king is anointed with holy oil, and where strange rituals demonstrating the historical power of the throne are performed. Since the new realm does not have similar traditions, the player characters must design them. • The attendance of a large number of churchmen and vassals. The''
 ''coronation gives vassals the opportunity to renewal their oaths of fealty, and prevents them later saying that the coronation was irregular. The presence of many, wealthy, vassals is also required to impress the ambassadors from foreign kingdoms. • Royalty or ambassadors of other realms. These people are present to negotiate alliances, marriages, and trade links on behalf of their kingdoms, and to take stock of the strength and unity of the new court. Before the ambassadors, it’s important for the new king to seem wealthy, wise, and commanding. Magic can be useful for each of these.''
 ''Alternatively, if the player characters can arrange for the pope to personally crown their candidate in Rome, then they don’t need bishops, a vast chapel, nobles or ambassadors. A lesser, later, ceremony, when the king returns to his realm, is, however, required, to impress vassals and ambassadors.''
-
-|]
 ''William Longespée (Longsword), Earl of Salisbury''
 ''Henry II once claimed his bastard son was a finer prince than any of his legitimate sons. Given that one of his legitimate sons was Richard the Lionheart, that’s quite a commendation. William, unlike all of his legitimate brothers, remains alive in 1220. He is known for his loyalty, for his skill as a general, for leading a naval raid against a French invasion fleet, for the tremendous wealth seized in that raid, and his obvious nobility of blood. As a useful addition, his mother is the wife of the Earl of Norfolk, one of the most powerful of nobles of England, whose lands are heavily populated and face the North Sea. If your game’s history follows that of the real world, the Earl of Norfolk dies in 1221, and his young son is placed in his half-brother’s care. Selecting William may lead to trouble with England, however, because he hates and is loathed by Peter de Roches, the churchman who has the care of the young king and all but rules the country. William went missing once, shipwrecked while crossing the English Channel, and de Roches tried to force William’s supposed widow to marry one of Peter’s relatives. When William arrived back, having been stranded on an island for less than a month, it almost shattered the fragile peace between the Normans (the families who had come over with the Conqueror) and the Poitevins (who came to the realm with King John’s wife, and are currently in the ascendant.)''
 ''Patrick, Count of Dunbar''
@@ -462,8 +446,6 @@
 ''The player characters have created, for all intents, a kingdom, and so it will be granted a patron by God. Which patron he chooses is up to the troupe, but here are some options:''
 ''Saint Brendan is a patron for Irish sailors, and is arguably intercessor for islands in the Ocean. The Blessed Cyprian may perform a miracle sufficient to have him recognized as a Saint. In life he was a penitent magician, and House Jerbiton has been waiting for this miracle for centuries. Saint Nerius was a Criamon magus. He is the saint of pious magi. He has not been recognized by the Church. Saint Nicholas is the patron of sailors. He’s an interesting choice, because players are so used to Santa Claus, and the medieval saint varies from him so remarkably. Saint Nicholas is, in many local traditions, followed by a little demon that torments naughty children. Someone the magi choose. If the player characters quest for the relics of a particular saint, they may draw her''
 
-[|
-
 ==Story Seeds for the Hermetic Borderland==
 
 ''Each of the surrounding Tribunals has factions which would support, and others which would oppose, the addition of a huge territory to the Tribunal.''
@@ -477,8 +459,6 @@
 ''The pope claims sovereignty over the entire earth, theoretically, but in practice lets kings rule. As a display of this, newly baptized kings from previously pagan lands often gifted with a crown by the pope, demonstrating his acceptance of the king’s right to rule. The pope is not a fool: a powerful monarch who suddenly appears, and asks for a crown, gets one after some haggling. The players characters need to haggle for the crown. Will the pope get a penny per head per year and all the usual tithes? Will he get an extra contribution to the crusade, or the foundation of churches and abbeys? If the player characters take no steps to have a king accepted by the pope, he may be convinced to give the crown of their land to some other nobleman, or may conclude that the new land is part of an already established kingdom. The player characters may first hear of this when their king arrives. The spiritual welfare of the people of Western Europe is in the hands of the bishops of the church. New sees are created as the pope thinks necessary, and have seniority as he, and his predecessors, have decided. This means that some politically autonomous areas have churches that are governed by bishops from neighboring, hostile, kingdoms. Examples of this are the bishops of Scotland, who are almost all directly dependent on Rome with no intervening archbishop. This has not stopped agitation by the Bishop of Saint Andrews, the Bishop of Glasgow, the Archbishop of York, the Archbishop of Canterbury, and the Archbishop of Nidaros (now Trondheim in Norway) for them to be recognized as suffragans. One argument in favor of a particular area being under the authority''
 ''of an archbishop is that it was evangelized by people from his see, and that the early churches and congregations looked to his predecessors for leadership. When the player characters suddenly create land without an archbishop, it’s an obvious ploy to send a team of priests to found a church and lead the congregations of the people. The problem is that this ploy is obvious to the archbishops of York, Canterbury, Nidaros, Rouen, and Bremen, and the bishop of Saint Andrews. They all send missions: disputes break out. God Himself seems to take a hand in lands lacking churchmen, and often dispatches saints to evangelize and found churches. Player characters can oppose these saints if they like, but when the druids tried that with Saint Patrick, it didn’t go well for them. Outranking the bishops and archbishops, the pope sends special envoys, called legates, to represent his authority in distant realms. A legate is the perfect person to negotiate with, since they have most of the powers and authority of the Pope, but are nearer and not surrounded by the bureaucracy of the Vatican. Britain is so far away that in late 1220 there are two active there. Before July, Pandulf Marca, an Italian by birth but now bishop of Norwich, is the legate to Britain, Ireland and the Isles. He is the chairman of the Council of Regency which runs England on behalf of Henry III. Pandulf would prefer that, like England, the king of the magical land gave it to the Church, and received it back as a fief. Pandulf has many talents, but one of them (Intelligence + Church Lore against an Ease Factor of 15) is finding useful and well paid jobs for his family members. He does not betray the Church with his nepotism, but he can be swayed, on fringe''
 ''issues, by bribes not to him, but to his family’s welfare. Of course, any appointee from his family is a spy, both for Pandulf and the Pope. There is a conspiracy against Pandulf, by the Archbishop of Canterbury and some of the senior nobles of England. They plan to petition the pope that, when Henry reaches his majority in 1221 (an arbitrary time of their selection), the legate’s embassy should end, and no new legate be appointed. Pandulf has fallen sufficiently in the Pope’s estimation that, unless the player characters alter events, the legate will lose his role. Pandulf may not be aware of this, but once it becomes known, he’s far more willing to make agreements. In July 1220, a second legate is appointed, taking all of Pandulf’s legatorial responsibilities outside of England. The new legate, James, takes five months to travel to Britain. After Christmas, James arrives to act as legate to Scotland and the Isles. He is the Pope’s chaplain, but linked to the church of Saint Victor in Paris. One of James’ duties is to arrange a method of managing the Scottish bishops. They are independent of any archbishop, and ten independent bishoprics together is unknown in the Church, outside northern Italy. James is authorized to create special dispensations, allowing bishops so distant from Rome to appoint their own leaders, pending the approval of the Pope. If he sees the magical land as an “isle of the sea,” which places it within his remit, he can stretch the dispensation to include the magic land’s bishops. In exchange he wants to appoint all of the bishops, and to make sure the church has substantial tithe lands, preferably tied to the Augustinian Order, of which he is a member.''
-
-|]
 ''attention and special favor. Someone new. If a person of great piety dies during the foundation of the magical land, God may grant that person powers of intercession. The player characters may wish to campaign for the formal recognition of their local saint.''
 
 ==The Eye of Hell==
@@ -492,8 +472,8 @@
 ''This demon claims to be the god Neptune, the creator and destroyer of Atlantis. Magi with even the most ba''
 ''sic education in the Artes Liberales will notice that Atlantis was reported by the Greeks, and was ruled by Poseidon. Rumael is either unaware he’s using the wrong version of the god, or includes this flaw in his story to mock the stupidity of humans, being blinded by his pride to the possibility that he’s not so clever, and they not so stupid, as he imagines. He is served by the Wicked Boys of the Third Square, a race of tiny demons that take the form of men with the heads of horses (see nearby insert). Each has a pitchfork (or perhaps trident) design on its back. Rumael has many powers that aid his pretense, controlling water, storms and horses. It is unusual for False Gods, but these powers have small touches to them which make clear that they are Infernally tainted. This may be a further manifestation of Rumael’s hubris.''
 ''Order: Lord of the False Gods Infernal Might: 40 (Aquam) Characteristics: Int +2, Per +1, Pre +2, Com 0, Str +4, Sta +4, Dex +4, Qik +4 Size: +3 Confidence Score: 5 (5) Personality Traits: Proud +6, Taunts foes with clues that are obvious +2 Hierarchy: 5 Reputations: Patron of a Kingdom That No Longer Exists 2 (Infernal) Combat: Trident: Init +6, Attack +15, Defense +13, Damage +9 Soak: +8 (metal scale armor) Fatigue Levels: OK, 0, 0, –1, –1,, –3, –3, –5, Unconscious. Wound Penalties: –1 (1–8), –3 (9– 16), –5 (17–24), Incapacitated (25–32), Dead (33+)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Note on The Powers of Demons==
 
@@ -503,25 +483,25 @@
 ''Demon Weaknesses''
 ''Each demon in this chapter has a Weakness. Characters know this weakness if they are aware the demon exists, consult a relevant source, and make an Intelligence + Infernal Lore roll against an Ease factor of 9 + (Might / 5). If the weakness is a material, then in the presence of their weakness these demons must flee. They cannot regain Might while their weakness is present. If the weakness is a protected group, the demon cannot harm members of that group.''
 
-|]
+|}
 ''Abilities: Various, including Single Weapon 8 (trident) Powers: Coagulation, 1 point, Init –1, Corpus. Envisioning; 1 point, Init +0, Mentem. His Master’s Voice: Points equal Might, Init +1, Vim. This power summons lesser demons, although it does not control them. Rumael is intimidating enough that he can rule his minions without mystical compulsion. Master of Storm and Sea: 1 point per Magnitude of simulated spell, Init +1, Aquam or Auram: This power allows Rumael to create effects similar to Hermetic Creo, Muto or Rego spells that affect storms. Rumael may not create spells of level 41 or higher, nor ritual spells. Obsession, 1 point, Init –5, Vim. Sycophancy. Shroud the Stench of the Pit, 1 point per level of affected power, Init +3, Vim: This power can make an Infernal power appear magical, faerie, or mundane. The Wealth of Nations: 3 points, Init 0, Terram: This spell summons wealth from wherever its absence will cause the most trouble. Rumael can call forth up to 40 pounds of gold, or the equivalent in value, with each use of this power. The wealth created is never directly useful: for example it cannot create materials suitable for craftwork. It calls forth only those sumptuous goods which tempt to avarice. Weakness: Vulnerable to fire (the touch of any flame causes a Light Wound.) Vis: 8 pawns Aquam vis sordida in teeth. Appearance: As suits his role, Rumael uses his Infernal powers to appear as a bearded man in a white robe, armed with a trident. His teeth are thin needles, like those of a fish. Rumael could correct this, but does not. The same strange urge which forces him to use the wrong name when pretending to be an ancient Greek sea god prevents him. When False Gods appear, they are accompanied by an animal which is really an extension of the body of the demon.''
 ''When Rumael appears he is accompanied by a horse, sometimes with the tail of a fish, He is occasionally accompanied instead by a dolphin.''
 ''Neqael, The Lady of the Purple Bower, Corrupter of Lyonesse''
 ''This demoness takes the form of — and spreads through her mortal servants a reputation as — a faerieblooded but mortal noblewoman of great wealth and wisdom. She is a corrupter of etiquette in the courts of the nobility. Her particular vice is the corruption of the emerging principles of courtly love. Her pleasure is to suck the meaning out of fine amor, making it a sham, and a mask for adultery and fornication. Neqael corrupted, but did not destroy, the half-imaginary land of Lyonesse. Most people who are aware of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Note on Tainted Vis==
 
 ''Detailed information on tainted vis can be found in Realms of Power: Infernal, on pages 18 and 19. Those troupes not using that set of rules might instead assume that all tainted vis:''
 ''• Adds 5 instead of 2 to casting totals. • Adds three botch dice per pawn, for non-Infernally aligned users. • Causes a temporary Personality trait of 1, in a sin appropriate to the original demon, in any person who carries the tainted vis for a year. This trait becomes permanent if the carrier successfully acts on the Trait.''
 
-|]
+|}
 ''Lyonesse think it was swallowed by the sea as a divine judgment on the wickedness of its inhabitants. In truth, it was destroyed by the demon now known as the Red Knight of Ys. He and Neqael hate each other, and each would ally with the magi for the opportunity to humiliate, injure, or banish their foe. Each is aware that many magi refuse to deal with demons, and each can pass for human with care, so they simply may not inform the player characters of their nature. The Lady of the Purple Bower is served by a strange tribe of succubi who cannot attack people who have attempted to seduce them. They are unable to have sex with mortals, and so instead must manipulate their victims. Humans are usually seduced in pairs, each using the body of another victim as their instrument of sin. Some of these creatures instead select a particular human to act as their champion, and train him or her in all the techniques of courtly seduction.''
 ''Order: Lady of the Spirits of Deceit Infernal Might: 40 (Imaginem) Characteristics: Int +3, Per +2, Pre +4, Com +2, Str +1, Sta +1, Dex +1, Qik +2 Size: 0 Virtues and Flaws: Great Characteristic, Improved Characteristics Confidence Score: 5 (5) Personality Traits: Deceitful +6, Trustworthy -3 Hierarchy: 5 Reputations: Mistress of a fallen realm 5 (Infernal), Mistress of etiquette 2 (nobles). Combat: Dagger: Init +2, Attack +12, Defense +11, Damage +4* *	 Venomed: as per asp bite in Arm5, page 180. Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious. Wound Penalties: –1 (1–5), –3 (5–10), –5 (11–15), Incapacitated (16–20),''
 ''Dead (21+) Abilities: Various, including Brawl 8 (dagger), Charm 8 (nobles), Etiquette 8 (nobles) Powers: Coagulation, 1 point, Init –1, Corpus. Envisioning; 1 point, Init +0, Mentem. Forked Tongue of the Serpent: 3 points, Init –1, Mentem: The target believes any lie until he or she relates it to someone else. An hour after the lie is told, the hearer may make an Intelligence roll against an Ease factor of 9 to disbelieve it. The hearer may reroll every hour. Obsession, 1 point, Init –5, Vim. Unrequited passion. Change Form, 0 point, Init 0, Corpus or Animal: May take any animal or human form. The demon’s form is not resisted by the Parma Magica if the demon makes a physical attack. Summon Mavens of the Purple Bower: Points equal Might, Init +1, Vim.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Wicked Boys of the Third Square==
 
@@ -530,13 +510,13 @@
 ''Hierarchy: 1 Combat: Trident: Init +2, Attack +10, Defense +6, Damage +6 Soak: +2 (metal scale loincloth) Fatigue Levels: OK, 0, –3, –5, Unconscious. Wound Penalties: –1 (1–3), –3 (4–6), –5 (7–9), Incapacitated (10-12), Dead (13+) Abilities: Various, including Athletics 8 (acrobatics) Single Weapon 5 (trident) Powers: Coagulation, 1 point, Init –1, Corpus. Envisioning; 1 point, Init +0, Mentem. A Little Hop, A Little Jump, A Little Skip: 1 point, Init +5, Corpus and Animal. This power allows the demon to step through a solid object, like a wall, or an opponent in combat. The evil spirit remains intangible for''
 ''one round, but may trigger the power each round to prevent flickering into solidity. Obsession, 1 point, Init –5, Vim. Destructive japery. Weakness: Vulnerable to fire (the touch of flame causes a Light Wound.) Vis: 1 pawn Aquam vis sordida in eyes. Appearance: These little sprits look like small men, very muscular, with the heads of horses. Each wears a pair of bronze plates, joined by a shell encrusted belt, as a loincloth. Each also has a thick collar of shells about its neck. Although the creatures have the heads of horses, they lack the passive expressions of most of those animals: they bare their teeth, flick out long, discolored tongues, and flick their manes.''
 
-|]
+|}
 ''This power summons lesser demons, although it does not control, them. Neqael usually calls a particular type of demon, and rules her minions without mystical compulsion, using a mixture of pleasure and threats. Trust of the Innocent, 1 point, Init +1, Mentem: The victim believes a single, plausible lie until evidence to the contrary is presented. An Intelligence roll against an Ease Factor of 6 allows a character to resist this effect. The Serpent’s Oracle: 2 points, Init –3, Vim: The demon can duplicate the effect of any Intellego spell, or can gain an understanding of the immediate consequences of any specific act. Weakness: Protected group: nuns Vis: 8 pawns Imaginem vis sordida in clothes Appearance: The Lady of the Purple Bower is fairest by candlelight, or in the dappled light of her bower, with milky skin, fair hair and grey eyes. In direct sunlight her skin looks yellowed, and her eyes hollow.''
 ''The Red Knight of Ys: Bringer of Requested Inundations''
 ''The Red Knight is a demon who delights in drowning his victims. His proudest achievements are the destruction of whole kingdoms, like Ys and Gwenolod, but he similarly is responsible for some of the towns now covered by lakes in the Alps, for Italian merchant ships lost at sea, and for many thousands of people whose heads he has held in a rainwater butt. The Red Knight is, however, under a strange compulsion: he can only harm people once he has been given permission to, by a mortal. He destroyed the kingdom of Ys after its princess, in exchange for a kiss and the unspoken promise of his love, gave him the key to the kingdom’s sea defences. He claims his victims deserve their punishment, and that he acts as God’s chastiser, but this is false and he knows it. The mortal who grants the Red Knight permission to destroy his victims must have a social connection to them, such that by giving the permission, the mortal is acting''
 ''treacherously. Even a rival covenant, though it betrays the Code to call on him, is not sufficiently intimate a betrayer to allow the Red Knight to crack the wall and send towering waves against the player characters’ island. The family member of a magus, an apprentice, a familiar, a lover or a trusted servant could all give the Red Knight leave to destroy the land. The Red Knight prefers to kill the mortal who gives him permission to cause great inundations. If this cannot be accomplished he sometimes selects, as his next temptee, someone who hates the survivor. Some tribes of merfolk, around the coasts of France, and even further afield if interacting with Breton sailors, claim to be descendants of the people of Ys. They say they were changed into merrow as an act of mercy by God, when the sinners of Ys were killed. These merfolk have a traditional, intergenerational hatred of the Red Knight (or, at least, they believe they do). They will gladly die to see him destroyed. Characters who make an Intelligence + Faerie Lore roll against an Ease Factor of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Mavens of Etiquette in the Court of the Purple Bower==
 
@@ -545,7 +525,7 @@
 ''Short Sword: Init +1, Attack +10, Defense +6, Damage +8 Knife: Init 0, Attack +8, Defense +6, Damage +3 Soak: +4, clothes. On rare occasions, armored (+8) Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–50), Incapacitated (16–20), Dead (21+) Abilities: Brawl 5 (knife), Charm 8 (teaching), Etiquette 8 (teaching shallow manners), Folk Ken 3 (nobles), Single Weapon 5 (short sword) Powers: Coagulation, 1 point, Init –1, Corpus. Envisioning; 1 point, Init +0, Mentem. Mutable gender; 0 point, Init +0, Corpus:''
 ''A demon can switch gender at will. Obsession, 1 to 3 points, Init –5, Vim. Secret desire. Trust of the Innocent, 1 point, Init +1, Mentem: The victim believes a single, plausible lie until evidence to the contrary is presented. An Intelligence roll against an Ease Factor of 6 allows a character to resist this effect. Weakness: Protected group: those who have offered to have sex with the demon. Vis: 1 pawn Corpus vis sordida in the private organs. Appearance: Elegant women in lace and fur. Languid men with rippling muscles in leather trousers.''
 
-|]
+|}
 ''12 know that some merfolk claim Ysian descent. This number may be lowered by circumstances such as a Breton upbringing.''
 ''Order: Lord of the Avengers of Evil Infernal Might: 30 (Aquam) Characteristics: Int +1, Per 0, Pre +2, Com +2, Str +3, Sta +4, Dex +5, Qik +3 Size: 0 Confidence Score: 5 (5) Virtues and Flaws: Venus’ Blessing. Personality Traits: Relentless +5, Manipulative +4, Mentions his mustache far more than necessary +3, Flirtatious +2, Merciful –5 Hierarchy: 5 Reputations: A demon of shipwreck and mass drowning 5 (Infernal) Combat: Bite: Init +4, Attack +16, Defense +11*, Damage +11 *	 +2 if using his shield Soak: +10 in armor, +4 without Fatigue Levels: OK, 0, –1, –3, –5, Unconscious. Wound Penalties: –1 (1–5), –3 (5–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Various, including Carouse 6 (with women), Charm 6 (potential sexual partners), Single Weapon 7 (sword) Powers: Coagulation, 1 point, Init –1, Corpus. Change Form, 0 point, Init 0, Corpus or Animal: Allows the Red Knight to manipulate his shape so that his armor immediately congeals about him. Envisioning; 1 point, Init +0, Mentem. This demon uses this power to prepare his temptees for meeting with him while awake. Obsession:, 1 point, Init –5, Vim. Infatuation with the Knight. Inundation, 1 point per Magnitude of simulated spell, Init +1, Aquam or Terram: This power allows the Red Knight to generate effects similar to Hermetic Creo, Muto or Rego spells that allow him to break sea defenses or call up''
 ''waves. The Knight cannot create spells of level 31 or higher, nor ritual spells. To this there is a single exception: the Knight may create a single great wave, of level 60 or below, for each temptee. Weakness: Protected Group (those whom he has not been invited to harm by a traitor) Vis: 6 pawns Perdo vis sordida in mustache Appearance: The Red Knight dresses impeccably, in enameled armor or costly scarlet clothes. He has red hair, a jaunty mustache, and arching eyebrows. He’s roughish and charismatic. Unlike the other two major demons given here, he does not have Infernal servants. He often travels with a human squire or valet, who appears unaware of his nature.''
@@ -588,8 +568,8 @@
 ''The Black Sea is an interesting choice as site, located on the edge of the Hermetic world and lying between the Theban, Transylvanian and Novgorod Tribunals. This sea averages 1420 paces deep, which means that:''
 ''• A spell of level 35 gives a ring 1120 paces (0.63 miles) wide. • A spell of level 40 gives a ring 11200 paces (6.36 miles) wide. • A spell of level 45 gives a ring 112000 paces (63.63 miles) wide.''
 ''There are hundreds of faerie islands in the Black Sea, only one of which is geographically stable. Snake Island is described in greater detail in Against the Dark: The Transylvanian Tribunal.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds: Has Someone Else Has Done This Before?==
 
@@ -603,7 +583,7 @@
 ''language, who barter away rich goods for apparent trifles. • As time progresses, the tired story of Tartessos becomes revitalized, and the intrusions of the Faerie port become more overt. • Whole suburbs change on ancient, sacred days. • Strange ships, with faerie crews dressed in Cathaginian robes arrive, to trade fish sauce, gold and dye for local wares. • The people sleepwalk to build temples, filled with fire, bulls and bronze.''
 ''Do the player characters oppose the return of Tartessos, or find a way to communicate with the Faerie gods, and parley with them?  For inspiration, an alternative version of Tartessos is found in Rival Magic.''
 
-|]
+|}
 
 ==Transforming Mythic Europe The Mediterranean==
 
@@ -617,11 +597,14 @@
 ''• A level 30 spell creates a circular cap that, if 35 paces at its deepest point, is just under 800 paces wide. • A level 35 spell creates a circular cap around 2500 paces (1.4 miles) across. • A level 40 spell creates a circular cap around 14 miles across''
 ''Characters who create a floating island must find a way to steer it. If they have the aid of one of the vast magical monsters described earlier in this chapter, then smaller floating islands can simply be towed, if the creature will deign to perform such labor. Magic items may be used to push, drag or teleport the island. Alternatively, spells to control the island are simple to create.''
 ''Steering A Vast Stone Dish ReTe 40 R: Touch, D: Ring, T: Circle This spell allows the player characters to direct the voyage of a small floating island whose wall has been created with a level 30 spell. The island travels at the speed of a running horse, which is about 50 land miles per hour. An island with a wall created using a level 35 spell requires a level 45 spell to steer, and one created by a level 40 spell requires one of level 50. Larger islands, if steered by a single spell, can only be maneuvered with rituals. This spell does demonstrate the difficulty of steering with simple spells, however: a Ring 800 paces across requires over 250 concentration rolls to draw. Wise player characters would, instead, invest this spell in an invested device that maintained Concentration for them. (Base 2, +1 Touch, +2 Ring, +1 Circle, +6 Size)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Earlier Floating Islands==
 
 ''The island of Delos, in the Aegean Sea, was once a floating island. Zeus, lord of Olympus, tethered it to the sea floor with, depending on which source you prefer, great chains or thick pillars. Player characters intent on creating a floating island may wish to go to Delos, to see how it comes to float. Is it natural, is it the handiwork of ancient spellcasters, or is it the creation of creatures with supernatural powers? Delos is the meeting place of the Theban Tribunal, so characters may find collaborators in their research, or locals who do not want the mysteries of their region exposed to outsider eyes.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

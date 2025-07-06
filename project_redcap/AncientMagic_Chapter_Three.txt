@@ -1,5 +1,5 @@
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''In the ancient world, cults of sorcerers practiced a form of magic that allowed them to use spells on targets without needing an Arcane Connection. To understand this defixio magic, the investigator must delve into the secrets of ancient traditions and uncover the relics of the cultists who practiced defixio magic. Although cultists dedicated to the gods of the underworld — Hecate, Pluto, and Proserpina — made up the majority of defixio magic users, followers of Ceres and Minerva also practiced the art. These cults largely faded from prominence in the second century, but remnants of their magic remain to be discovered.''
 ''Cultists who practiced defixio magic could use it to coerce spirits into invoking curses, or alternately, could use those spirits as conduits through which they could channel their own magic to affect a victim. To perform this magic, the cultists created defixiones (singular: defixio), which are small magical devices that name or describe the target of the curse, the effects of that curse, and the events that cause the curse. Defixio magic could be used to affect anyone the cultist could name and could be held in abeyance until a specific event occurred.''
 ''The unique aspects of defixio magic may be incorporated into Hermetic theory as a new Duration or Range. A magus who understands this''
@@ -19,7 +19,7 @@
 =Defixio Magic=
 
 
-|]
+|}
 ''Insight into each cult grants the ability to invent spells that utilize that cult’s specific Art and Form combination (see the Defixio Lore insert). Before inventing a spell, the magus must investigate a defixio and formula for that cult in the laboratory. If the magus investigates a defixio and formula from the same cult simultaneously, the magus adds +3 to his Insight roll.''
 ''A defixio that has released its magic is useless for investigatory purposes, and each defixio or formula may only be studied once. A magus need not necessarily know the specific cult that created a defixio. An Intellego Vim spell (base level 4) reveals the following details about an “active” defixio: the spell or Supernatural Ability channeled, the level of the effect, the cult specialty of the creator of the defixio, the target of the defixio, and the triggering condition of the defixio.''
 
@@ -35,15 +35,15 @@
 
 ''This Duration is only available for Ritual spells. When the Ritual spell is cast, it is held in abeyance until a specific condition occurs. The circumstances necessary to activate the spell must be fully described when the Ritual is cast. A spell with Event Duration may be suspended in perpetuity, if the specific criteria never occur. No spell that requires aiming to affect its target may be used with the Event Duration. Unlike Defixio Lore, which is limited to specific combinations of Arts, a spell with Event Duration may have any combination.''
 ''Any spell that uses the Event Duration must have an Intellego requisite. If the triggering condition is dependent on the identification of some person, place, or thing, the appropriate Form is also required as a requisite. If the person who would activate the Event condition is protected by Magic Resistance, the spell''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Some members of House Tremere possess the Leadworker Virtue, which is derived from the defixio magic tradition (see Houses of Hermes: True Lineages, page 143). House Tremere probably gained access to this Virtue from one of two sources. Tremere may have learned it from his master, Guorna the Fetid, who was the leader of the remnants of the cult of Pluto and may have practiced defixio magic herself. The other possible source is the necromancers from Dacia who accompanied Tremere to the First Tribunal. Because the Leadworker''
 ''Virtue is not widespread among the followers of Tremere and its practitioners use the Greek terminology for defixiones, it is more likely that the Virtue derives from the eastern Hades worshipers. Regardless of the source of the Virtue, however, Tremere magi familiar with the history of their House are a potential source of information in researching this ancient tradition. Possessing the Leadworker Virtue neither hinders nor helps in the integration of defixio magic, but may provide the researcher with access to additional sources for study.''
 
 ==The Leadworker Virtue==
 
 
-|]
+|}
 ''Defixio Lore is a Major, Supernatural Virtue and corresponding Ability that allow a character to perform the rituals necessary to create a defixio. They are presented for illustrative purposes only. Magi are generally incapable of acquiring the Virtue or learning the Ability; the only practical way for a magus to utilize the secrets of defixio magic is to integrate its effects into Hermetic theory.''
 ''Defixiones allow their creator to use a Supernatural Ability or spell against a target that is not sensed and for which the creator has no Arcane Connection. A defixio itself does not possess any power other than the ability to provide a conduit to the target. Defixiones are not Arcane Connections. Although they allow their creator to cast spells or use Supernatural Abilities without regard for the distance to the target, they can never be used to improve a magus’s Penetration multiplier.''
 ''For every level in the Defixio Lore Ability, the character may select one cult from the list below. The cult limits the type of magic that may be used in conjunction with the defixio. The character may not utilize any spell or Supernatural Ability that has a Technique and Form combination or requires a requisite that falls outside of those listed for the cult specialties known by the character.''
@@ -85,8 +85,8 @@
 ''This Ritual wakes all of the grogs (or any other predefined group) in one room of the covenant if the condition described at the time of casting occurs within the walls of the covenant.''
 ''(Base 4, +4 Arc, +1 Event [Mom], +2 Room)''
 ''Darius wants to set a trap for anyone who might try to assassinate him in his sleep. He decides to cast a Perdo Corpus Ritual that wounds anyone who enters his sanctum and was not present at the casting of the spell. Because the triggering condition and the Form of the spell are both Corpus, no requisite is required. If Darius had created a spell that was triggered by the target’s intentions, it would have needed a Mentem requisite.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Trap for the Thief in the Night===
 
@@ -125,7 +125,7 @@
 
 ''The magus who understands Defixio Lore and incorporates it into Hermetic theory is able to utilize its underlying concepts to great tactical and strategic advantage.''
 
-|]
+|}
 
 ===Christianity===
 
@@ -150,8 +150,8 @@
 
 ==Naming Conventions==
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Using Duration Event===
 
@@ -174,7 +174,7 @@
 ''Defixiones are some of the most common artifacts recovered from the ancient world. Some graves or wells literally contain hundreds of defixiones in various states of degradation. Not all defixiones, however, are suitable for study. A magus may only study those defixiones whose magic has not yet been released.''
 ''There are a number of reasons that a defixio could have been created and never used. For example, if a jealous husband cursed his wife’s''
 
-|]
+|}
 ''lover and she had always remained faithful to him, the curse would still be pending and could be studied. If an absentminded person cursed the thief of his cloak and he later found that he had simply misplaced it, the curse would still be pending. In general, the storyguide should limit the number of suitable defixiones discovered to one or two per season the investigators spend searching.''
 
 ==Types of Defixiones==
@@ -206,8 +206,8 @@
 ===Toledo Scholars===
 
 ''Many texts from ancient Greece and Rome survived in Arabic translation throughout North Africa and other Moorish lands. Some of these texts have begun trickling back into Europe through Andalusia for the last century. The translation center at Toledo serves as a prolific source''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''of Latin translations of both ancient Greek and Egyptian texts.''
 ''Because the Church sponsors the translation of these texts, the search for defixio formulae is difficult. When most Church officials uncover a magical text, they simply destroy it. Not all translators agree with this policy, however. The investigator may need to identify a sympathetic translator or blackmail one to locate suitable formulae.''
 
@@ -232,7 +232,7 @@
 
 ''Rome has a current population of perhaps 10,000 permanent residents.''
 
-|]
+|}
 ''This number varies greatly depending on the season, being inflated by pilgrims and other visitors to the Holy See. Because vast areas of Rome have been destroyed and rebuilt over the centuries, potential gravesites exist in unexpected locations. The source of a haunted home, inn, or plaza could be the ghost of an ancient Roman who is restless because his grave is no longer marked.''
 ''The investigator might encounter many problems searching in Rome. The least of these problems is that within the city walls his actions come under close scrutiny from Church and city officials as well as innocent bystanders. In addition, the powerful Dominion impedes the use of most magic, including the search, discovery, and excavation of tombs.''
 
@@ -257,8 +257,8 @@
 ===Catacombs===
 
 ''While searching for defixiones, the investigators may stumble across the catacombs of Rome. The catacombs were subterranean burial places for early Christians that are located outside the walls of old Rome. Because Pre-Christian Roman law prohibited the interment of corpses within the city, Jewish citizens buried their dead outside the walls. When Christians came to the city, they continued the practice. The catacombs vary greatly and range from rough, narrow tunnels with small shelves for the dead to professionally finished stone tombs with stairs and shafts to the surface to provide light and ventilation. The catacombs fell out of use when the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Empire became Christian, and their existence was generally unknown during the Middle Ages. It is possible that still-active defixiones rest in the catacombs, especially if they were intended to call forth the spirit of a Christian or Jewish ghost protected by a Divine burial.''
 
 ===Vardian’s Tomb===
@@ -275,7 +275,7 @@
 ''in the catacombs, hidden from the authorities, and slip out at night to waylay travelers or raid villages. The bandits know the countryside well and are able to avoid the authorities with little trouble. The investigators might stumble across the Spectres’ lair or encounter them during one their raids.''
 ''Despite the popular belief that the restless dead are terrorizing the Roman countryside, the local officials and the Church correctly suspect something more mundane is the source of the problems. The officials are therefore combing rural Rome, going village-to-village in an attempt to find the parties responsible for the raids. Of course, whether the characters encounter the Spectres or the local officials, either group could complicate their investigation. Some of the troops traveling with the Roman officials are combat vet''
 
-|]
+|}
 ''erans of the Crusades. They are also often accompanied by clerics from the Holy See with the protection of relics and possibly True Faith.''
 
 ==Chthonic Sanctuaries==
@@ -300,8 +300,8 @@
 
 ''The cave complex is home to a colony of bats. The bats have lived in the strong magical aura of the sanctuary long enough to become warped by it. Some of these warped bats have a Magic Might of 15 and the ability to become invisible when stationary, as in Invisibility of the Standing Wizard. The warped bats do not attack the characters, and the characters may not even notice them. The body of each magical bat has three pawns of Perdo vis. The total vis available is equivalent to two high-level vis sources for the saga (see Covenants, page 72).''
 ''One of the covenants of the Theban Tribunal, Erebos, has discovered the sanctuary. The magi of Erebos have not entered it because of the various traps set by the cultists of Hecate. The covenant contains several Perdo specialists, and they consider the cave their most important vis source. The magi of Erebos harvest some of the magical bats each season as they exit the cave.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The covenant has clearly marked the entrance to the cave as its property. Its magi have set their own traps to immobilize any intruders and alert the covenant if anyone enters. They take trespassing very seriously and deal harshly with thieves, being concerned that any intrusion into the cave or disturbance of the defixiones may reduce its aura or cause the colony of bats to relocate, which would destroy their vis source.''
 ''The magi can be reasoned with, and a well-thought-out plan assuages most of their fears. However, they are not willing to endanger their vis source or give up the vis-laden defixiones without suitable compensation. The magi of Erebos may consider allowing the investigators access to the cave in exchange for assistance in resolving their conflict with the Daughters of Erictho.''
 
@@ -311,5 +311,8 @@
 ''The Daughters of Erictho once used the sanctuary and consider the encroachment of Erebos just the most recent in a long line of trespasses. They have also come into conflict with Erebos and other covenants of the Tribunal of Thebes over certain magical resources. As civilization and the Dominion encroaches on vis sources and weakens magical auras,''
 ''the conflict between the Order and the Daughters has only increased. The Daughters and the Order have also come into conflict regarding their relations with the faeries of the area.''
 ''To gain access to the defixiones, the characters may have to act as mediators between the Daughters of Erictho and Erebos. Some of their differences may be irreconcilable without introducing new magical resources. The characters may be forced to provide additional vis sources or locate magical auras to placate the Daughters. Smoothing relations between the Daughters and Erebos not only allows the investigators admission to the cave, but could also provide valuable assistance through access to ancient defixio formulae. Previous generations of the Witches of Thessaly practiced defixio magic and some of their formulae collections still exist.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

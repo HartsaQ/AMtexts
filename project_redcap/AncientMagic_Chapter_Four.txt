@@ -14,8 +14,8 @@
 
 =Fertility Magic=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Arcane Ability Fertility Lore==
 
@@ -48,7 +48,7 @@
 
 ''An unborn child, carried in the womb, is difficult for Hermetic magic to target as it is not quite a separate individual. Mainstream Hermetic magic can target a baby in the second trimester, and onwards until birth, as a Part of the mother, but targeting a Part of an Individual increases the magnitude of a spell (see ArM5, page 112). Thus, the Target Unborn Child allows a maga to effect an unborn baby with lower magnitude spells. In addition, mainstream Hermetic magic cannot usually discriminate at all between mother and child in the first trimester. This is a flaw in Hermetic theory, which is circumvented by the integration of fertility magic.''
 
-|]
+|}
 
 ===Midwife’s Eye===
 
@@ -100,8 +100,8 @@
 ==The Fertility Ritual==
 
 ''The Fertility Ritual is a special ritual performed during conception. It is similar to the Longevity Ritual: developing the ritual is a Laboratory activity that takes one season, and this produces a Lab Text describing the Fertility Ritual. Any Gifted character can perform a Fertility Ritual for which he has the Lab Text, and the Lab Text is required to conduct the ritual — this is the only benefit of a Fertility Ritual’s Laboratory Text.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The first step to devising a Fertility Ritual is to calculate the maximum number of Trait Points of the ritual. The ritual is worth 1 Trait Point for every 10 points or fraction thereof of the magus’s Creo Corpus Lab Total. The magus may receive a bonus to his Lab Total if he has a fertility fetish prepared by the intended mother (see below).''
 
 ===Maximum Trait Points: 1 for Every 10 Points Or Fraction of Creo===
@@ -135,7 +135,7 @@
 
 ''A maga may create a Fertility Ritual to influence the conception of her own child. In this case, the maximum number of Trait Points for the ritual is equal to 1 for every 5 points, or fraction thereof, of Creo Corpus Lab Total. However, this ties the ritual to the maga and it may not be performed for another mother. This bonus only applies to mothers.''
 
-|]
+|}
 ''formed by one of the parents (if either is Gifted), or it may be performed by a third party, who must be present. Conducting the Fertility Ritual consumes an amount of vis equal to the total Trait Point cost of the desired traits. Usually, the vis consumed is a combination of Creo and Corpus vis but, with the storyguide’s permission, other types of vis that match the traits of the child may be substituted. For example, a Fertility Ritual that is intended to grant a child the Major Hermetic Virtue Elemental Magic may use the vis of each element.''
 ''Nine months later the child is born and manifests the traits determined by the Fertility Ritual. The ritual is specific to the child, so normally a different ritual must be devised for each performance — although it is possible to repeat the ritual (see below).''
 
@@ -164,8 +164,8 @@
 ==Repeating a Fertility Ritual==
 
 ''A Fertility Ritual can only be successfully repeated, without risk, if the original child dies. A reckless magus may, however, experiment with a repeat performance of a Fertility Ritual, or a magus may discover a Lab Text for a Fertility Ritual and perform it without being aware he is duplicating the actions of another. In either case, the magus immediately gains a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Breakthrough Points from Fetish Creation==
 
@@ -185,7 +185,7 @@
 
 ''The character’s conception was influenced by a Fertility Ritual that had already been used to influence the birth of another. The character is physically similar to his predecessor(s), but not identical; he could even be of a different sex or race — as long as those factors were not determined by the ritual. The character has a sympathetic connection to his predecessor(s), and they to him, which provides a +2 multiplier bonus to the Penetration of spells or magical abilities that they use on each other (ArM5, page 84). The character also suffers a –3 penalty on all social interactions (as others perceive that there is something not quite right with the character), and every year, on his birthday, he gains a Warping Point. Upon the death of the character’s predecessor(s) he losses the Corrupt Fertility Ritual Flaw, although any Warping Points suffered remain.''
 
-|]
+|}
 ''ancient habitation. The super-fertility and the rich diversity of the wildlife in these dells also attracts various nature spirits, and these are frequently found living near the caves once inhabited by the fertility cult.''
 ''The ancient fertility magic practitioners were apparently well aware that the fetish figurines they created formed potentially dangerous Arcane Connections to mother and child, and so most figurines were destroyed once the mother passed childbearing age. Other fetish figurines have been destroyed in ignorance to extract the vis that they contain. A few, however, do remain — perhaps forgotten when the cave was hastily abandoned due to some threat, or left untouched when a mother died young and without children — and a typical cave system might contain two or three figurines.''
 
@@ -213,8 +213,8 @@
 ''Entrance''
 ''Gallery Birthing Chamber''
 ''50 feet''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''a local faerie lord. Orpee’s cave contains two fine galleries; one illustrates a hunting ritual, and the other details''
 ''a fertility ritual. Orpee is very fond of his galleries and, when he is not at the smithy, spends his time contem''
 ''plating and carefully protecting the images, which he fears visitors will damage or destroy.''
@@ -249,7 +249,7 @@
 ==Senna==
 
 
-|]
+|}
 ''Orpee’s wife, a forest sprite named Senna, lives in a fertile dell near the cave, which has a Faerie aura of 2. According to villagers who live in the region near the cave, Seena tends to the plants in the forest and is responsible for planting new trees where old ones have fallen. Seena is jealous of the time that Orpee devotes to his galleries and tries to convince travelers that pass to destroy the galleries while Orpee is at work so he will visit her instead. She is too frightened of Orpee’s reaction to attempt this for herself.''
 ''The cave contains two ancient fertility fetishes.''
 
@@ -271,8 +271,8 @@
 
 ''This cave system has a single entrance formed by a fissure in the side of a mountain, and is currently used as a burial site by a group of villages that are clustered together in the shadow of the mountain. The villagers have been using the cave for this purpose for centuries, and now the cave is filled with the skeletal corpses of their ancestors. Roman missionaries who adapted their own rituals, to ease the villagers’ doubts about conversion, preserved this eccentric burial ritual when they converted the region to Christianity.''
 ''The villagers would be very displeased to find a magus interfering with the remains of their ancestors. In addition, the priest, who preaches from a church in the largest village, fears that the presence of the characters will annoy the local saint whose bones are also interred in the cave, and so tries to rally the villagers against the intruders. The saint’s bones are housed in a shrine at the back of the cave, in what was once the fertility chamber. The villagers’ veneration of the saint has generated a Divine aura of 4 in the cave, and it contains three ancient fertility fetishes.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Consequences of Fertility Magic==
 
@@ -301,15 +301,15 @@
 ==The Worm in the Cave==
 
 
-|]
+|}
 ''magus from successfully inventing or performing the Fertility Ritual. Obviously, the magus also runs the risk of censure for interference in the affairs of the mundanes. A Mercere magus learns the Fertility Ritual Magic Virtue and develops a new Breakthrough to create Creo Animal Fertility Ritual variants, which he uses to create fantastic riding mounts for Redcaps. The magi of an isolated covenant learn the Fertility Ritual Magic''
 ''•''
 ''•''
 ''Virtue and set about creating and training an array of servants with optimal traits — including guards, assassins, courtesans, spies, and merchants. Depending upon the breadth of their ambitions the magi may have also researched a method of insulating themselves from the Warping effect of repeated performance of a Fertility Ritual. When the plans of the magi are brought to the attention of the broader Order they claim that this veritable army is a defensive contingency only, but''
 ''an investigating Quasitor fears that a massive attempt to interfere in the mundane world has been uncovered. Rumors of the Order of Hermes’s discovery of the Fertility Ritual reaches the Papacy in Rome, and a Dominican monk, carrying a letter of Inquisition, is tasked with investigating the Order of Hermes. The Church is concerned at both the revival of what it sees as pagan birthing rituals, and the prospect of an alarming explosion in the number of Gifted.''
 ''•''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''St. Anna-Marie was a girl who lived in one of the nearby villages 200 years ago. At the time, the local lord had imposed a harsh tax regime on the villages, which they were unable to meet, due to a poor harvest. Unconvinced, or unmoved, by the villagers’ claims of poverty, the lord sent his soldiers into the village to collect the unpaid taxes by force. A tense stand-off between the soldiers and the men of the village was miraculously defused by Anna-Marie’s offer to return with the soldiers to the lord’s castle so that she could plead for the village. Several weeks passed and then, to the villagers’ delight, AnnaMarie returned accompanied by the lord’s stonemason. Anna-Marie had prayed for the deliverance of her village on the journey to the castle and, upon her arrival, she not only shamed the lord into granting the village a tax reprieve, but also convinced him to send his stonemason to build a church for the villagers. All the villagers helped with the construction of the church, and it was rapidly completed. Over the next few years, the harvests improved and the village was able to meet the more reasonable tax''
 ''demands of the lord, who frequently attended mass at the new church. Anne-Marie spent the rest of her life cleaning the church and cooking for the itinerant priests who preached to the village. Upon her death she was interned in the bone cave, and since then she has been venerated by the villagers. Divine Might: 25 Characteristics: Int +5, Per +5, Pre''
 ''+5, Com +5, Str n/a, Sta n/a, Dex n/a, Qik n/a Size: 0 Age: n/a Confidence Score: 2 (10) Virtues and Flaws: None Personality Traits: Pious +3, Attentive +2, Benevolent +2 Reputations: Saint 6 (local), Saint 2''
@@ -322,5 +322,8 @@
 
 ==St. Anna-Marie==
 
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

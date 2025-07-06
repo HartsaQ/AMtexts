@@ -41,12 +41,12 @@
 ===Let This Fire Sing You To Sleep===
 
 ''MuIg(Im) 25 R: Voice, D: Sun, T: Part This spell affects a single fire, turning the very tips of the flames into pleasing music. The caster decides the kind of music he wishes to hear (a ballad, a whirly jig, etc.), and the spell accommodates. The music of the flames always incorporates a signature refrain, as though a sigil, with each casting. But the mood of that same refrain is adapted to the needs of the song. The flames play the same music all the while the fire burns, getting louder as the fire burns brighter, hotter, or larger, though the random nature of fire and differences in fuel mean that no two castings ever produce exactly the same performance. The spell ends when the flame is extinguished, its original source is fully destroyed or, for particularly long-burning fires, when the spell’s Sun Duration naturally expires. This spell cannot affect a fire that is already larger than a campfire or a fire in a hearth (essentially, any fire doing +5 damage), but a fire that grows larger than this retains the magic. Yestin originally designed this spell so that his fire, whether on the road or in his sanctum, could gently sing him to sleep. But the more he explored this new spell, the more he found new uses for it. It wasn’t just music that the flames could produce, but also speech (though limited in the range of words and voice to little more than those the caster imagines as he casts the spell) or other natural and unnatural sounds. These sounds always adopt the rhythm of the spell’s original melody, though. If left to sing (or talk) of its own volition, with no guidance from the caster, the fire sounds as''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''New Guideline: CrHe 15''
 ''Restore a manufactured wooden item that has been damaged to the peak of its capabilities. This spell can also restore decay, but the damage must be light.''
 
-|]
+|}
 ''though it is forming words, but this is an illusion; the sounds form true words by accident if at all. Yestin has used this spell in his sanctum to experiment with different harmonies, and has on occasion established choirs of candles each quietly singing a different refrain or a different note. The effect can be mesmerizing. A Finesse Stress roll (Mastery of the spell reduces this to a simple roll) determines how pleasant the sound is, but the size of the fire determines how loud it is.''
 ''Size of Fire Equivalent Sound A candle flame A whisper A burning torch A conversation A campfire A song or heated discussion''
 ''This spell has the side effect of reducing the intensity of the target fire by 1 as flame is turned to sound. (Base 4, +2 Voice, +2 Sun, +1 Part)''
@@ -156,5 +156,6 @@
 
 ''CrIm 15 R: Per, D: Conc, T: Ind Pen +0, 12/day This effect is restricted such that only Yestin is able to trigger it. This effect allows the crwth to join its voice with Yestin’s. The crwth sings in harmony with Yestin, as Yestin himself plays and sings. The effect is designed to produce intelligible words. These usually follow Yestin’s own words''
 ''but on some occasions, and for reasons Yestin does not know, the crwth changes words and tone and emphasis. These changes are always in keeping with the song, and serve to enhance the performance rather than detract from it. The best explanation Yestin has heard for this phenomenon is that perhaps a Twilight experience also affected the crwth. Any magus able to explain why the crwth sings so independently would have Yestin’s thanks, and may perhaps gain a deeper insight into the nature of enchanted devices. Adelbert the Tyrolean, a Bonisagus of some standing at Yestin’s covenant, suggested that a supernatural agent may have been present in Yestin’s laboratory when the effect was instilled, and that perhaps this caused the Warped effect. Yestin is unsure how much the Tyrolean suspects about Taliesin, but is disinclined to have others disturb his laboratory in search of evidence of faerie involvement. (Base 1, +1 Conc, +1 intelligible speech; +4 12/day, +5 item maintains concentration, +3 effect restricted to Yestin)''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

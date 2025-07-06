@@ -61,8 +61,8 @@
 ''Sometimes The Gift is subtle and difficult to detect. An infant with the Gentle Gift might never be''
 ''noticed, while a newborn with the Blatant Gift might be instantly and correctly cataloged. The Gift reveals itself in several unpredictable ways. Sometimes it is evident at birth, other times it is triggered by''
 ''puberty or an early traumatic event. It can also linger in a child well into adulthood. The sooner The Gift appears, the earlier a child can be discovered and begin her Hermetic training. The most difficult days of a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Fetch the Baby==
 
@@ -75,7 +75,7 @@
 ''ated fear that surges through the crowd forces the second (and other) Gifted character to have a Turbulence, at which point fear runs rampant. The Gifted children find themselves in the center of a quickly gathering crowd. Some of the townsfolk scream that the children are witches or demons and should be slain. United in their escape, the children run for their lives, gathering their loyal friends (the other player characters). Separated from their parents and barely escaping the frenzied crowd, the characters catch their breath while hiding in a nearby forest or back inside the town.''
 ''One of the characters has heard of a wise woman who lives nearby, and convinces his fellows that she might be able to help them. This woman is actually a Gifted witch, envious of the power wielded by the magi of a nearby covenant. With nowhere else to turn, they children head to the witch despite their mistrust of her. She offers to help the children, but this is (naturally) a ruse. While she eventually leads the characters to the covenant, she first befriends them, so they can then unknowingly act as spies for her. If she is advanced enough in her Hedge Arts, she might wish to take one of the children as her own apprentice.''
 
-|]
+|}
 ''Gifted child’s life are those between the time her Gift manifests and the time she is accepted into apprenticeship by an Hermetic magus. The negative social consequences of The Gift accompany its emergence. As soon as a child’s Gift presents itself, she suddenly finds herself shunned by her peers and village members. Even loving and dutiful parents can be affected, as The Gift pushes them away from the magical child. Friends depart and life becomes lonely and fraught with suspicious looks, secret accusations, and sometimes open hostility. While the Church forbids abandoning children, some Gifted children are still left in the wilderness to fend for themselves, and abandonment is an especially large risk for a Gifted infant.''
 
 ==Turbulence==
@@ -118,15 +118,15 @@
 ==Character Design Notes==
 
 ''Negative Characteristic and Size modifiers from age make an infant character extremely fragile. Because his Stamina is modified by age, his Soak is low, and his small''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Turbulences and the Aegis of the Hearth==
 
 ''Because your saga probably takes place in an Hermetic covenant, you need to know how a Turbulence interacts with the covenant’s Aegis of the Hearth. Essentially, treat the Turbulence like any other magical effect. If the child incurring the Turbulence participated in the Aegis of the Hearth spell, then the Turbulence is not hindered by the Aegis. If the child didn’t participate in the Aegis, then the Turbulence is affected, and likely won’t happen. Subtract half the level of the Aegis of the Hearth spell from the roll the player makes to incur a Turbulence. There is still a chance that the Turbulence happens, but it is very slim. Magi debate whether apprentices who still suffer Turbu''
 ''lences should participate in the Aegis ritual. An apprentice must be able to work magic, and her regular practicing of low-level spells and spontaneous effects would be crippled by even the weakest Aegis. Learning an Art means that the student practices it during instruction, which necessitates the casting of low-level spontaneous spells. Some magi argue that an apprentice should be given an invitation token, like a visiting magus, which can be taken away at will, allowing only specific times during which the apprentice can cast spells and practice magic. At other times, when he doesn’t have an invitation token, the apprentice can’t practice magic and can’t incur Turbulences.''
 
-|]
+|}
 ''Size means a smaller wound range. Any combat will likely prove fatal, and even a slight mishap could result in a Medium or Heavy wound. It is obvious that an infant should avoid combat, but because of a reduced Soak and narrow wound range, some players might (rightly) suggest that a player infant character should avoid any activity that could result in physical damage. There are two options for dealing with infant characters who suffer damage. The first is to exchange wounds for Flaws, as suggested in Lords of Men, page 125. The Option: Mitigating Deadly Wounds allows a player to reduce a wound’s severity if the character receives a new Flaw. A troupe could decide that accepting a Minor Flaw will reduce a wound one step, from Medium to Light for example, and a Major Flaw will reduce a wound three steps, from a Fatal wound to a Medium Wound. If the Flaw is accepted before one of the transitions of maturity, it can be exchanged for another Flaw as the child grows. The second option is add the child character’s age modifier penalty to any wound recovery roll that the character needs to make. Children are easily damaged, but they also quickly heal. This option allows for a severe wound but generally allows the character to recover from it rapidly. A fall from a tree might leave a severe wound, but hardly risks the child’s life. Despite the challenges, playing an infant allows a player to stumble through his early adventures while he explores Mythic Europe’s society and culture. Gender roles and their associated rules can be abused and''
 ''trampled, and adult characters usually laugh off social faux pas made by the child. Players can enjoy the looseness infancy offers. Their characters focus on play instead of work, and regularly disregard their responsibilities.''
 
@@ -152,8 +152,8 @@
 ''without magic. Is that fox interested in helping the character’s infant son, or eating it? A local superstition suggests leaving a newborn baby alone in a clearing overnight, in hopes that a faerie wolf will arrive to lick the infant and bequeath it supernatural powers. Will a covenant grog allow his wife to take their newborn and leave him overnight in the clearing? Perhaps the players’ characters are other grogs who must prevent another grog from following his wife’s advice. Many supernatural animals, especially magic and faerie beasts, can talk. Children won’t be left alone during the first years of infancy, but children who are four or five years old might be left in a safe place to play together. Agriculturally, many covenants are similar to small villages, and during the planting and harvesting seasons, older infants might be left to their own devices in one corner of the field where their parents are working. An innocuous beginning, skipping stones across a trickling stream while mother and father are threshing wheat, could suddenly turn sinister when a snake swims up to the children and asks them if they want to play. Older infants, those who are six and seven years old, would be helping their parents in this situation. Telling older infant characters to find the missing younger infants could lead to a spectacular adventure. Many supernatural animals ape the roles of their mundane counterparts, all for some otherworldly scheme incomprehensible to humans. Characters might help a Divine animal work or a faerie''
 ''animal find food. A curious character might wander to the next town for no known reason, only to find that an Infernal bull is terrorizing the local cows. Moral dilemmas, a staple of medieval and modern children tales, can be introduced by having an animal’s desire conflict with a covenfolk’s desire. A magical mouse wants to build a nest next to the hearth, but the cook continually chases the mouse away. The cook wants a clean kitchen and the mouse wants a warm warren; who do the children support? Gifted infants are often more curious and traditionally more in''
 ''telligent than their playmates, and might purposefully look for supernatural animals, often leaving the safety of home to wander aimlessly in pursuit of the fantastic and incredible. A Gifted infant character wouldn’t be the first to try to save a donkey from an oppressive master, ask a ravenous wolf to stop preying on a flock of sheep, of help a stranded blackbird find its way back to its nest. Supernatural animals may react to the Gift differently, although many do so in the same way as mundane humans. Mundane animals suffer the same negative social reaction to Gifted youths as mundane humans.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: A Toddler’s Tale==
 
@@ -165,7 +165,7 @@
 ''A Gifted baby is stolen from her cradle in the night. The family’s hue and cry brings the player characters (all grog-level villagers) in the morning, and the village elder charges the player characters with finding and returning the baby. The trail leads through the nearby woods and''
 ''into the unknown hills. Is the culprit a troll intent on eating the child, an elf who forgot to leave a changeling replacement, a hedge wizard planning to sacrifice the child, or an Hermetic wizard who plans on raising and training the baby? And which fate is worse?''
 
-|]
+|}
 
 ==Story Seed: The Curious Cleric==
 
@@ -178,5 +178,6 @@
 ''a fox and a lion, had agreed to go hunting together. He caught a large rat, the fox caught a goose, and the lion a scrawny crow. When it came time to divide the catches for dinner, the wolf suggested that each predator eat what he caught. The lion responded by striking the wolf. The fox then suggested that the lion take it all, and leave the other two leftovers. The lion agreed. The wolf slunk off, and now asks the characters to punish the sycophant fox and retrieve the large rat from the lion.''
 ''The Peacock Elected King of the Birds''
 ''A sparrow lands on the laboratory window sill and tells an apprentice a tale. The birds held a great congress, in which they elected the peacock as their king because of his beauty. A raven disagreed, asking if the peacock could protect the flock from attack using his beauty. The other birds overruled the raven, which flew off in a huff. The sparrow then saw the raven talking to an eagle, and he overheard the raven’s plan, that the eagle attack the birds to prove that the raven was right and the peacock weak. Terrified of the attack, the sparrow asks the child for help.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

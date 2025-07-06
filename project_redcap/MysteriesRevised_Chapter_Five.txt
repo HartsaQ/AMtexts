@@ -12,8 +12,8 @@
 
 =Hermetic Alchemy=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Alchemy is an ancient tradition. The earliest known Greek alchemical text, dating from the first century, is the Pysika kai Mystika by PseudoDemocritus. Synesius states that the work was originally in four books about the manufacture of gold, silver, gems, and purple. These, together with the school of Mary the Jewess (who was credited with inventing an efficient still, the water bath and the kerotakis), form the early basis for alchemical thought, although the ultimate origin of PseudoDemocritus’ alchemical tradition was probably Bolos of Mendes who lived two centuries before Christ.''
 ''This tradition was later amalgamated with Gnostic concepts, such as the Ouroboros, in the Gold-Making of Cleopatra, and the Dialogue of Cleopatra, which describe the working of metals in terms of the death and resurrection of the soul, and the late third century Visions of Zosimos. In Zosimos, the alchemical process is identified with Jesus Christ, who, as''
 ''the Son of God, became one with Adam, in order to restore him to his place among the Men of Light.''
@@ -25,7 +25,7 @@
 ==The History of Alchemy==
 
 
-|]
+|}
 ''Material Bonuses for the activity (see below).''
 
 ===Alchemical Vis Extraction Lab Total = Creo + Vim + Intelligence + Magic Theory + Aura Modifier + Shape and===
@@ -67,8 +67,8 @@
 
 ''Philosophic Alchemy builds on Hermetic Alchemy and lets the magus settle the alchemical object into the process so that it digests and ferments on its own, and extract Vim or Form-specific vis from the aura (by Hermetic Alchemy) with little attention from the magus. (This Virtue requires Hermetic Alchemy as a prerequisite.)''
 ''Alternatively, the magus may process the object to create ready-opened enchantment spaces instead of raw vis. The decision whether to extract vis or create ready-opened spaces is made at the start of the process.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''An assortment of the following equipment can be found in any Hermetic Alchemist’s lab.''
 ''Flasks: Ceramic, crystal, or glass con''
 ''tainers in a variety of shapes, sizes, and thicknesses. Still Heads: Flask lids, with glass pipes''
@@ -83,10 +83,10 @@
 ''or ceramic, designed for grinding down ingredients. Crystallizing Dishes: Shallow dishes''
 ''allowing for rapid evaporation.''
 
-|]
+|}
 ''Alchemical Equipment New Spell''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Hermetic Alchemy fills an object with several pawns of vis, but magi often find it useful to have individual pawns of raw vis in separate objects, handy for use when needed. The following spell divides raw vis among several objects.''
 
 ===Divide the Gathered Essence===
@@ -94,7 +94,7 @@
 ''ReVi 25 R: Touch, D: Mom, T: Group Transfers the raw vis from an item into one or more containers. The maga may freely choose how the vis is to be divided.''
 ''(Base 10, +1 Touch, +2 Group)''
 
-|]
+|}
 ''If a maga already has Minor Philosophic Alchemy when she seeks to Initiate the Major Virtue, the new Virtue replaces the old. The “loss” of the Minor Virtue counts as an Ordeal Flaw (loss of a Virtue) for the Initiation.''
 ''Minor Philosophic Alchemy requires a year (four continuous seasons) of fermentation and digestion before the vis extraction is complete and the vis may be used. Major Philosophic Alchemy allows a more efficient digestion to be established, which is completed in a single season.''
 
@@ -170,8 +170,8 @@
 ''Alchemists have an especially close affinity with bonus items they devise personally (by experimenting with Vulgar Alchemy), and the Elixir Points for such items are doubled. No single item may have a bonus exceeding the alchemist’s Magic Theory score.''
 ''Example: Desperata’s Longevity Ritual was created by her parens, and with her assistance he had a Lab Total of 74, so her Longevity Ritual grants an Aging Bonus of 15.''
 ''Now 53, she has learned the secret of the lesser Elixir, so she invests another (53/5) = 11 pawns of vis to create a dose of her Longevity Ritual. She adds bloodstone (+4 blood and wounds) as her first special ingredient, so her Elixir Level is 2. Her combined Aging Bonus is 15+2 = 17.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''When a Longevity Ritual is designed in the laboratory, the enchantment requires one pawn of vis for every five years of age (rounded up). The magus designing the Longevity Ritual can handle twice his Magic Theory in vis in a season-long laboratory activity. This places a ceiling on the age of the magus for whom the potion is designed.''
 ''When rebrewing the Longevity Ritual after an Aging Crisis (or to prepare a dose as base for the Lesser Elixir), using the Lab Text for the ritual, the process takes no significant investment of time — in practice, it takes about 15 minutes per magnitude of the Lab Text of the Longevity Ritual, as if casting a ritual spell. The limits on the vis handling for this process are those of a magus casting a ritual: Art specific vis is used, limited for each Art by the magus’s Art score.''
 ''Thus, if the magus obtained a Longevity Ritual formula from a specialist potion brewer, with a bonus set to last him several centuries (in principle), he can rebrew replacement doses for himself without needing to spend his whole life studying Magic Theory.''
@@ -181,7 +181,7 @@
 ==Longevity Ritual Vis Limits==
 
 
-|]
+|}
 ''Some time later, she has reinvented her Lesser Elixir twice more, adding amber (+3 Corpus), and laurel oil (+3 to healing oils, a Vulgar Alchemy bonus devised by herself, so the bonus is doubled). Her Elixir Points are now 3+4+5 (the laurel oil double bonus of 6 is capped by her Magic Theory of 5) = 12, and her Elixir Level is 4. Her Aging Bonus is now 15+4 = 19.''
 
 ===Repeating the Lesser Elixir===
@@ -292,5 +292,6 @@
 ===The Phoenix===
 
 ''The process of the seventh degree is that of coagulation, the planet the Sun, the metal and the color gold. The Initiates now learn the secret of the Virtue Great Elixir, taught by the Secret Master. Should they succeed, they rise like a phoenix, having transformed themselves from base led to alchemical gold, and achieved magical immortality. This is the true secret of alchemy of which mundane alchemy is but the slightest distorted reflection as though seen through a glass darkly.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

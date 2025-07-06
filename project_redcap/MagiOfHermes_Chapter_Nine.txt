@@ -52,8 +52,6 @@
 ===Touch of the Wild===
 
 ''MuAn 20 R: Touch, D: Moon, T: Ind The target animal reverts to a feral form and throws off all its training and domesti''
-
-[|
 ''New Virtue: Hermetic Metamorphosis''
 ''Minor, Supernatural & Hermetic You are able to graft organs onto an animal’s body to make a new creature. The donor organs can be from another animal or created magically using a Creo Animal ritual spell of Momentary Duration. The recipient must be an animal — a further breakthrough is needed to extend this Virtue to allow a human to be the recipient of an animal organ. The process of metamorphosis requires the casting of a special ritual spell that can only be invented by those who possess this Virtue. It’s not known if such creatures breed true, but most likely not. Note that this Virtue does not yet exist, but once Marcus has completed his work it will be integrated into Hermetic theory through Original Research, and may be taught to other magi either through personal instruction or by writing a tractatus describing the breakthrough. The source must grant at least 5 experience points in a single season for the Virtue to be conferred.''
 
@@ -62,8 +60,6 @@
 ''Cr(Mu)An 35 R: Touch, D: Mom, T: Ind, Ritual This spell can only be successfully''
 ''cast by those with the Hermetic Metamorphosis Virtue. It requires the immobilized body of the recipient animal, and the donor organ. If the donor derives from another animal, it too must be immobilized. During the casting of the spell, the caster removes the organ from the donor and grafts it to the recipient. The spell resizes the organ (if necessary) and joins up the blood supply and internal organs. The type of organs that can be transplanted are functional units of the animal — its head, pair of hind legs, tail, pair of hands, heart, and so forth. A replacement organ involves the removal of the recipient’s organ and putting the donor organ in its place. If the caster wishes he may take the recipient’s original organ and put it in the space left on the donor, but this requires two surgical rolls (see below), one for each animal. A transposed organ involves the recipient gaining an organ without removing something first; for example, giving it a pair of wings or a second head. The donor animal (if any) dies as a result of this type of surgery. Magical surgery of this type can be purely anatomical, or else confer a Virtue from the donor to the recipient. An anatomical change can grant the recipient a new ability (such as flight) or a Quality (see''
 ''Houses of Hermes: Mystery Cults, pages 40–43). A Virtue can be any General Virtue that derives from the body of the animal; such as Keen Vision, Long-Winded, or Tough. A donor who loses a Virtue due to this spell receives the Enfeebled Flaw if it survives the surgery. The ritual surgery performed as part of the magical actions of casting this spell needs to be performed accurately to ensure the success of the spell. This requires a Dexterity + Chirurgy roll against an Ease Factor of 9. If the organ is transposed rather than replaced, the Ease Factor has a +3 modifier. If the surgery grants a Virtue rather than an anatomical change, the Ease Factor has an additional +3 modifier. If the surgery roll fails then the animal dies soon after the casting of the spell. If the surgery roll botches, then the spell creates some dreadful monster instead. Example: Marcus wishes to swap the head of a lion and an eagle in his first step to creating a griffin. Eagles have the Keen Vision Virtue, so this is more than simple anatomical surgery. To successfully implant the eagle’s head on the lion’s body, his surgery roll has an Ease Factor of 12. He needs only a 9 to successfully implant the lion’s head on the eagle’s body, but the lion-headed eagle that results suffers from the Enfeebled Flaw. The spell compensates for the vast difference in size between the two heads. (base 25, +1 Touch, +1 Muto requisite)''
-
-|]
 ''cation, if any. In general the animal grows larger (although does not usually gain a point of Size), its hair grows longer and any horns, teeth and claws available as weapons become more vicious. The animal often loses its domestic coloration, becoming plain brown or brindled grey. Note that in Mythic Europe dogs are not domesticated wolves, and cows were not bred from the primeval aurochs — animals were created in the state in which they are found. Yet all are familiar with the process of a beast becoming feral if abandoned by man, and that is what this spell does. Marcus did not gain any breakthrough from this spell. (base 4, +1 Touch, +3 Moon)''
 
 ===The Griffin Reborn===
@@ -92,12 +88,12 @@
 ===Kiss of the Enigma===
 
 ''CrVi 15 R: Touch, D: Mom, T: Ind The target acquires two Warping Points, and, if a Hermetic magus, must check to see whether he enters Twilight in the normal way. Marcus invented this spell primarily to use on caged animals, to see if he could induce monstrous characteristics by infusing their bodies with pure magical energies, but the results were disappointingly random. He had to invent this spell three times before it yielded a breakthrough. The two prior versions both had Side Effects due to experimentation: the first spell changed the color of the target’s hair, while the other made the target’s skin transparent. (base 10, +1 Touch)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Disembodied Leg''
 ''Size –3 Combat: Kick: Init –1, Attack +0, Defense –1, Damage +3 Soak +0 Wound Penalties: –1 (1–2), –3 (3–4), –5 (5–6), Incapacitated (7–8), Dead (9+)''
 
-|]
+|}
 ''Magi of Hermes New Spells''
 ''Marcus has also created some spells that do not constitute part of his research.''
 ''Corpus Spells''
@@ -178,5 +174,6 @@
 ===Return To the Earth===
 
 ''MuTe 20 R: Voice, D: Mom, T: Ind Pen 10, 24/day A metal or stone object targeted by this effect is momentarily transformed into sand. This is sufficient to destroy most handheld weapons, as they become metal grains around the feet of the wielder. But if the object remains undisturbed, it is unaffected when it becomes metal again moments later. The effect can target any single object that can be carried in one hand, such as a sword. The effect is triggered by pointing the butt of the staff at the target in a short jabbing motion while speaking the command word. (base 2, +2 Voice, +2 affect metal; +5 Penetration, +5 24/day)''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

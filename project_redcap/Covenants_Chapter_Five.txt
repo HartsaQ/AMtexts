@@ -16,15 +16,15 @@
 
 =Wealth & Poverty=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Mythic Pound==
 
 ''Prices in this chapter are quoted in Mythic Pounds. This conveniently ignores the fact that Mythic Europe consists of a multitude of different realms with different coinages, whose relative value may be subject to significant variation. This is something that only need concern you if you use the Extremely Complex wealth management option; otherwise, it is suggested that you do your accounting in Mythic Pounds, and simply assume that this is being handled in the local currency at the appropriate rate of exchange.''
 ''One Mythic Pound is equivalent to a pound of silver, the annual income of a typical peasant, or enough money to maintain an average Hermetic laboratory for a year.''
 
-|]
+|}
 ''so, to cover a modicum of sundry expenses (see below).''
 
 ==Customization==
@@ -42,8 +42,8 @@
 ''There are, however, three main drawbacks to magical wealth-creation. Firstly, the creation of the relevant items or the casting of ritual spells requires seasons of lab work and the expenditure of vis. Secondly, such magical activity often attracts unwanted attention, if not done with great subtlety. It might attract the envy of a rival merchant, for example, or the questioning eyes and ears of overattentive villagers or visiting Redcaps. Since the Order of Hermes frowns on mundane interference, wise covenants try to keep quiet about their more dubious moneymaking schemes. That said, lowkey magics restricted to the covenant’s own lands are usually acceptable. Some covenants are even quite proud of the magically assisted productiveness of their own vineyards or mines, for example. The third and final drawback is that a sudden boost in income, while a great boon''
 ''for the covenant in the short-term, can potentially have a corrosive effect on the local economy, namely inflation. As the covenant gains more money, it will naturally spend it, and demand for goods will begin to exceed supply. After all, there is only so much grain that villagers can produce, and if the local covenant buys it all up, these peasants will find themselves with a surplus of silver pennies, but no food left over to feed themselves, and so prices will rise. This effect is more pronounced if the covenant procures much of its wares locally, less so if its spending is more widely spread. Redcaps are usually among the first to notice local inflation, and if it is a cause for concern, the Quaesitores (or irate merchants or noblemen) may not be far behind. Due to the inflationary troubles of a number of covenants, several of the Tribunals have recently passed measures limiting each covenant to the creation of at most 2 pounds of silver (or its equivalent) per magus per year (see Houses of Hermes: True Lineages, page 87).''
 ''The storyguide should decide upon the effectiveness of any magical improvement a covenant undertakes and choose an appropriate income multiplier (which is usually applied once, but permanently). For example, each Stone-Cutting Knife (see Chapter 4: Covenfolk, Lesser''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Source of Income Categories==
 
@@ -69,7 +69,7 @@
 ''Expansion x 1.2 10–19''
 ''Boom x 1.5 20+''
 
-|]
+|}
 ''Enchanted Devices) contributed to a quarry may enhance its productivity and thus merit the Growth income modifier. More powerful magical items or ritual spells may merit higher income modifiers. Some suggestions for magical improvement and example spells are listed below.''
 
 ==Sources of Income==
@@ -98,8 +98,8 @@
 
 ''Some few covenants are lucky enough to benefit from the charity of others, receiving a regular monetary gratuity. The donor might be an individual, such as a noble, a merchant, or a wealthy widow (if a player character, she should have the Wealthy Virtue); or an institution, such as a gild, another covenant, or the Church. The reasons for such generosity might be simple gratitude or altruism; alternatively, the donor might expect some form of protection or favors, or anticipate some future benefit from his or its “investment.”''
 ''Pros: You get money for nothing! Cons: Charity continues only for so long as the donor(s) are alive, solvent, and well-disposed towards the covenant.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Option: Extremely Complex Wealth Management==
 
@@ -109,7 +109,7 @@
 
 ''Not every troupe may want to bother to keep track of their covenant’s finances. If you prefer, you can simply neglect the bookkeeping altogether, instead introducing any monetary surpluses or shortfalls at the storyguide’s discretion. This requires some careful judgment to avoid giving the impression either that the characters have unlimited funds, or that they have no control over their own finances, but this style of play may be especially appropriate for a very rich covenant or a high fantasy saga.''
 
-|]
+|}
 ''Magical Options: Mentem magics in the form of charms or potions to make a potential donor feel more generously inclined.''
 
 ===Examples===
@@ -150,8 +150,8 @@
 ===Forestry===
 
 ''Many covenants have woodland nearby, in which skilled foresters can make a living. Timber can be cut, providing wood for construction, shipbuilding, and fuel. Alternatively, some creatures, including the bear, fox, ermine, sable, and hare, may be hunted for their fur. A third possibility is to hunt wild animals such as deer and boar, or foraging pigs, for their meat, although this is not usually a viable source of income — such game is usually destined to grace the tables of local lords, not for sale at the local market, since hunting is a privilege which noblemen like to reserve for themselves. Magi might also hunt for vis or supernatural beasts,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The covenant starts to experience a slow but steady leak of funds, as the corrupt autocrat embezzles money away. How has this person managed to get away with this for so long, and who else might be profiting from this corruption? The covenant’s debts begin to mount, until one day a powerful creditor comes calling. She agrees to write off a large portion of the money owed, in exchange for some service from the magi, which skirts at the edge of the Code of Hermes. A mysterious character arrives at the covenant and offers a seemingly generous loan of money. What is the catch? The nearby townsfolk begin to complain of fake silver coinage, and the blame falls on the covenant. This might be due to a faerie curse or''
 ''•''
 ''•''
@@ -165,7 +165,7 @@
 ==Story Seeds: Wealth and Poverty==
 
 
-|]
+|}
 ''although this is not (usually) a source of mundane wealth. Some forests have relatively few trees, consisting of hunting preserves rather than woodlands (see the Chase Boon, for example). A covenant is unlikely to possess both significant farmland and forest, unless their estates are large.''
 ''Pros: Forestry is a relatively discreet enterprise, free from most mundane interference.''
 ''Cons: Possible infringement on the domains and rights of mundane or faerie lords, earning their enmity.''
@@ -256,8 +256,8 @@
 ===Examples===
 
 ''Lesser: A wandering troupe of a dozen minstrels, modestly famed.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''CrTe 35 R: Touch, D: Mom, T: Ind, Ritual This spell fills a large chest or other sturdy container with up to ten cubic feet of silver pennies, an amount equivalent to about 2000 Mythic Pounds. The magus may choose the imprint on the coins, but this mark always bears some trace of the magus’s sigil, which does tend to make them traceable.''
 ''A copy of this spell resides at the Great Library of Durenmar, but it is infamous for causing inflationary trou''
 ''bles. Given the recent rulings in many Tribunals, a covenant of ten magi would only be permitted to distribute 20 pounds of such silver per year, so that it would take 100 years to exhaust the silver created by even a single casting of the spell. Therefore, while there is nothing to stop a magus from learning this spell in the Great Library, he would surely earn the instant suspicion and attention of the Quaesitores if he did so.''
@@ -266,7 +266,7 @@
 ==The Riches That are Rightfully Mine(d)==
 
 
-|]
+|}
 ''Typical: A king’s favored astronomer, paid handsomely for his astrological predictions.''
 ''Greater: A Greek navy of several dozen ships, with expert crew, for hire.''
 ''Legendary: Several hundred elite Ghulam bodyguards.''
@@ -298,8 +298,8 @@
 ''Typical: A large merchant ship chasing rumors of profit across Europe or trading manufactured goods to nearby regions. Alternatively, a small fleet of ships engaged in local trade of bulk goods like food, fuel, or salt.''
 ''Greater: A merchant company with warehouses in at least two cites, ferrying consignments in many ships each year. Alternatively, a fleet of up to a dozen ships, of varying sizes, all plying profitable routes.''
 ''Legendary: In Northern Europe, an annual fleet to Acre in the Levant, that returns laden with fine silk and aromatic spices. In Southern Europe, annual expeditions to the almost-fabled lands where gemstones are mined and spices grow, like India, Ethiopia, or Persia.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Twice-Gifted Coin==
 
@@ -307,7 +307,7 @@
 ''Some sneaky covenants have been known to enchant this effect into a toll-gate, for example. Travelers are asked to pay a toll before the gate, then allowed to proceed, whereupon they touch the gate and promptly forget having paid. Upon request, they then pay again, after the gate. The income from a toll station can thus be doubled.''
 ''(Base 10, +1 Touch)''
 
-|]
+|}
 
 ===Wizardry===
 
@@ -336,8 +336,8 @@
 ''For the purposes of accounting, the covenfolk (that is, everyone living at the covenant apart from magi and companions) should be separated into the following categories. (For characters that have a dual vocation, simply pick the most appropriate category.)''
 ''Craftsmen: People with a Craft Ability, employed by the covenant to practice their craft and produce wares for the covenant, such as a smith, a carpenter, or a weaver. Craftsmen allow for cost savings in one or more categories of expenditure — the covenant does not need to spend so much buying wares from outside. The exceptions are book-binders and illuminators, who do not save costs, but instead allow the covenant to produce quality books.''
 ''Dependents: Residents supported by the covenant who do no useful work, such as children, idle spouses, the infirm, and retirees. Children should only be counted from the age of five onwards (children younger than five consume negligible). Once they are old enough to work, children can be moved to another category.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Points of Inhabitants==
 
@@ -363,7 +363,7 @@
 ''Horse 1 n/a 1 n/a''
 ''When calculating a covenant’s sum of points in this area, do not include characters of independent means who pay for their own upkeep, nor any characters who work for one of the covenant’s sources of income. By sacrificing their privileged lifestyle (and the better Living Conditions Modifier), impoverished magi may reduce their point cost to 3. By adopting the same privileges as standard covenfolk (the same food, wages, and living quarters), magi and companions may even reduce their point cost to 2. However a covenant with such pauper magi will likely develop a negative Reputation as the Redcaps quickly spread word of their lamentable standard of living!''
 
-|]
+|}
 ''Grogs: Full-time soldiers whose primary vocation is the martial defense of the covenant and its magi.''
 ''Laborers: Workers who gather food for the covenant, such as farmhands, herders, fishermen, or hunters. Laborers allow for cost saving on Provisions, since''
 ''the covenant does not need to buy so much food.''
@@ -382,8 +382,8 @@
 ==Yearly Expenditure Categories==
 
 ''The regular expenditure of the covenant can be divided into the following categories. It is worth noting that the Buildings, Consumables, Provisions, and Wages totals usually amount to exactly one pound per point of inhabitants, and form the bulk of the expenditure. Thus, a very rough rule of thumb is that a covenant can afford a number of points of inhabitants equal to its income in pounds,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Points of Weapons and Armor==
 
@@ -417,7 +417,7 @@
 ==Points of Laboratories==
 
 
-|]
+|}
 ''provided it has a moderate amount of cost saving.''
 
 ===Buildings===
@@ -517,8 +517,8 @@
 ''Craftsmen employed by the covenant come in two types. Common craftsmen, such as blacksmiths, leatherworkers, and brewers, are those found in almost every village of any size in Mythic Europe, and are relatively easy to come by. Rare craftsmen, such as glassblowers, goldsmiths, and percamenarii, have a much more specialized trade and are encountered less frequently. They are harder to find and recruit, but are consequently more highly valued by a covenant.''
 ''A common craftsman reduces expenditure by a number of pounds equal to one plus half of his Craft Ability, rounded down. For example, a craftsman with an Ability score of five saves three pounds. A rare craftsman reduces expenditure by a number of pounds equal to his Craft Ability.''
 ''Craftsmen may save money in various categories of expenditure, as detailed''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Cost Saving Limits by Craft==
 
@@ -541,15 +541,15 @@
 ''Weapons and Armor swordsmith, armorer, bowyer 50%''
 ''Writing Materials percamenarius, ink-maker 50%''
 
-|]
+|}
 ''in the insert. For each category, there is a limit to the amount of savings that can be achieved with each particular craft. For example, a typical covenant with 100 points of inhabitants spends 20 pounds per year on Consumables, before cost saving. At most 20% of this (four pounds) can be saved in any one craft. Thus, no matter how many blacksmiths the covenant has (or how skilled they are), the maximum that can be saved by blacksmithing alone is four pounds. However, the covenant could (potentially) save its entire spending on Consumables by employing at least five different relevant types of craftsmen. In some cases, you may wish to make common-sense adjustments to the cost-saving limits. For example, if only a handful of your grogs carry bows, the cost-saving limit for a bowyer should be much less than 50% of the Weapons and Armor expenditure.''
 
 ===Magic===
 
 ''Magic can also be employed to save money; many of the options here are similar to those for magically improved income, except that product of the magic is consumed instead of traded for profit. For example, the fertility of the covenant’s own lands may be improved, or the magi might magically create tools or lab equipment instead of purchasing them. See Chapter 4: Covenfolk, Magical Alternatives to Covenfolk for examples of relevant magical devices and spells. A magical item might reduce the Consumables costs, for example, an oven which requires no fuel. Alternatively, it might save on labor, for example, a broom that sweeps by itself. In the former case, one or more pounds is saved directly; in the latter case, you can achieve the same results with fewer covenfolk (thus saving money indirectly). The minimum required numbers of servants and teamsters may thus be reduced.''
 ''Magical items can also perform the work of laborers and craftsmen, and may be treated as such for the purposes of cost saving. For example, the Motivated Plough (see Chapter 4: Covenfolk, Lesser Enchanted Devices) does the equivalent of about three laborers’ work, and thus saves three pounds per year. As a very simple rule of thumb, each magnitude of effect in such items can save one pound per year. Each casting of a Ritual spell may save approximately five pounds per magnitude, although this depends on the nature of the effect (and the discretion of the storyguide). Although Ritual spells may make dramatic improvements, such''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Buildings + Consumables + Provisions + Wages===
 
@@ -610,7 +610,7 @@
 ==Expenditure — A Simple Example==
 
 
-|]
+|}
 ''Semita Errabunda has no Hooks or Boons relating to income and thus has a single Typical source of income, providing an annual income of about 100 pounds. This consists of a trading enterprise, which exploits the property of the covenant’s regio that connects to different places in Europe, effectively allowing the covenant to rapidly “transport” large quantities of goods over very long distances. A sizable shipment of goods is bought cheaply near to their source, and then stored at the covenant’s voluminous central warehouse (and preserved with the aid of magic, if need be). At such time as a regio opening leads to a new region in Europe where these goods are in demand, they are sold off. The profits from this scheme do depend to some extent on luck, providing a somewhat variable income, but it often pays off handsomely.''
 ''The covenant currently consists of:''
 ''5 magi (Carolus, Darius, Mari, Moratamis, and Tillitus) (25 points) 4 companions (Isabelle, Jarvis, Mansur, and Uberto count here; of the three others, Jerome and Naimes count as scribes, and the Redcap Victor does not count — he travels and pays for himself) (12 points) 4 specialists (an autocrat, a turb captain, and 2 scribes) (8 points) 12 craftsmen of various types (10 common craftsmen with a Craft''
@@ -684,15 +684,15 @@
 ===Magi===
 
 ''The whims of magi and their need for silver are hard to predict. They may suddenly demand large amounts of “petty cash” from the autocrat to finance current pet projects or schemes. Modest amounts of such spending are already handled by the yearly expenditure on “wages,” but the costs for major purchases, such as''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''It is almost impossible to put a fixed monetary price on a pawn of vis. Magi prize vis, their currency of choice, far more highly than silver. Most consider that mundane things should be bought with silver, and magical things with vis, and that is indeed usually what happens. There are many wealthy covenants that would not even consider selling a pawn of vis for less than a hundred pounds, since vis can be employed effectively in various magical wealth-creation schemes. Yet at the same time, plenty of covenants would not be able to spare more than a few pounds to actually buy vis, since their silver is needed to run their covenants. For this reason, the trading of vis for silver is rarely''
 ''undertaken, although it is not unheard of, especially amongst House Mercere, who have a more practical sense of the relative worth of vis and silver (see Houses of Hermes: True Lineages, page 87). In the cases where vis is sold for silver, the price varies wildly between a couple of pounds to a hundred or more pounds per pawn, depending on such factors as geographical location, the particular Art of the vis, the wealth and whims of local covenants and magi, and the availability of vis relative to other Hermetic commodities in your saga. Having said that, a base guideline of roughly ten pounds per pawn is a reasonable rule of thumb for a typical saga.''
 
 ==The Price of Vis==
 
 
-|]
+|}
 ''a warhorse, a set of luxury furniture, a golden casket, and suchlike, should be added separately.''
 
 ===The Pound of Enumerus===
@@ -739,5 +739,6 @@
 
 ==Price List==
 
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

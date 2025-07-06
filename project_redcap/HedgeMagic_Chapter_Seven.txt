@@ -9,8 +9,8 @@
 ''Major Rune Focus Major, Supernatural The vitki has a magical focus in a type of rune magic, which is also associated with a particular material. Whenever the vitki inscribes runes into the proper material for an effect associated with the focus, you may double his score in the rune used for the script. (See the Vitkar Magic Foci sidebar for a list of these types and the materials associated with them.)''
 ''Mastered Rune Minor, Supernatural The character has mastered a single rune, reducing the frequency of magical accidents. Whenever he inscribes this rune in a rune script, your botch dice are reduced by three (to a minimum of one die), and all penalties to your casting rolls are halved. You may take this Virtue more than once, each time with a different rune.''
 ''Minor Rune Focus Minor, Supernatural The vitki has a magical focus with a single rune used in a particular type of rune magic (see the Vitkar Magic Foci sidebar). Whenever the vitki casts a rune spell with an effect appropriate to the focus and the chosen rune, and inscribes this rune into the material associated with the focus, you may double the vitki’s score in the rune used for the formula.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Order of Odin''
 ''The phrase “Order of Odin” is used by magi to describe their idea of an organized group of Scandinavian wizards opposed to the Order of Hermes. It is not generally used by the vitkir. It dates back to the time of the war against Damhan-Allaidh, when there was a great deal of fear and uncertainty about these wizards and their growing power in the British Isles. (For a more-detailed history of the Anglo-Saxon rune wizards, see Ancient Magic, pages 133-136.) Since then, magi have heard next to nothing about them; whether or not they still pose a threat to the Order of Hermes is a question that can cause a Tribunal to devolve into a cacophony of voices for''
 ''and against. It’s generally accepted that the Order of Hermes is still at war with them, should any of them reappear, and since the Oath states that “the enemies of the Order are my enemies,” it’s argued that magi have a legal obligation to fight them. Whether or not that means a vitkir must be slain on sight probably depends on the judgment of the magus who encounters him. If there is indeed a gathering army of rune wizards intent on striking at the heart of the Order of Hermes from the frozen wastes of the north, the relatively isolated vitkir described here are probably as unlikely to know about it as the magi they supposedly seek to destroy.''
@@ -33,7 +33,7 @@
 ''Vitki*''
 ''* New or revised Virtues''
 
-|]
+|}
 ''Nameless Runes Minor, Supernatural The character may cast rune spells without inscribing his name into the script at no penalty, though he receives no benefit when he does. The runes still form a magical connection to him that other magic characters can detect with their spells and use to identify him, but it is not obvious to those who can read the writing on the stone.''
 ''Secondary Insight Major, Supernatural When the vitki is studying any of the runes, he also gains a single experience point in all of the other runes in that same aett. He may not put more than one bonus experience point into a single rune during the same season, even if he studies multiple runes, and if he studies runes from multiple aetts, he must choose which group of seven runes receives the bonus.''
 ''Secret Runes Minor, Supernatural The character may hide the runes that describe the effect of his rune scripts without suffering a penalty to his Casting Total, and taking only a –5 penalty when he does not describe the effect at all. He gains no benefit from inscribing the runes normally, but does receive a bonus when he exaggerates the runes. He may take this Virtue twice to eliminate the penalty altogether.''
@@ -42,15 +42,11 @@
 ''New or Revised Flaws''
 ''Vitki also have these new or revised flaws:''
 ''Major Magical Deficiency Major, Supernatural The vitki has a magical deficiency with all of the runes in a single aett. Whenever''
-
-[|
 ''Vitkar Magic Foci''
 ''A vitkar magic focus is associated with spells that have a particular purpose, such as healing, making war, or seeking knowledge, and is tied to a specific material into which the runes must be carved, such as bone, metal, or stone. If the spell is applicable to the vitki’s purpose and uses the proper material for the inscription, he may double his score in the rune used in the spell formula. For a Major focus, any rune with an effect applicable to the magical focus may be used. A Minor focus is tied to a single rune, chosen when the vitki gains the Virtue, and the vitki’s spells must use that rune as either the target rune or the effect rune for the focus to apply. Like a Hermetic magic focus, a vitki can only take a single vitkar magic focus at character creation. Here are some examples of magical foci, taken from the medieval poem Sigrdrifumál in which the valkyrie Sigrdrífa teaches the hero Sigurðr the seven different uses of rune magic.''
 ''Victory Runes (Sigrúnar): These runes are used to ensure the vitki’s success in battle, and are carved into metal weapons and armor, usually the blades of swords or long knives. Runes commonly associated with this sort of magic include Tiwaz (T), Othila (O), and Ehwaz (E).''
 ''Ale Runes (Olúnar): These runes must be scratched into horn or hardened leather, like a drinking horn, or else into the vitki’s own fingernails. They typically give good luck and protect the vitki against poison or other hidden forms of danger; a minor focus might be associated with Algiz (Z), Naudiz (N), or Perth (P). Fertility Runes (Biargrúnar): These runes help to ensure the wealth and prosperity of the vitki and his family, and are carved into coins that they carry or jewelry that they wear. Common runes for this sort of magic include Fehu (F), Ingwaz (Ng), and Jera (J). Sea Runes (Brimrúnar): These runes are traditionally inscribed on a ship, carved into a cart, or woven into a sail: any object that is bigger than a man is possible. They allow the vitki to influence travel and travel conditions with his runes. For a minor focus, the runes Laguz (L), Raido (R), or Hagalaz (H) might be appropriate. Healing Runes (Limrúnar): These runes speed recovery from pain and injury, healing wounds and easing sorrow. They must be carved into bone, either human or animal. Runes commonly chosen for a minor focus include Berkanan (B), Dagaz (D), or Wunjo (W). Speech Runes (Malrúnar): These runes''
 ''must be carved into wood: a staff, a tree, a chest, or perhaps a table. They give eloquence and inspire others, and are used to improve the vitki’s relations with his fellow vitkir or his companions. For a minor focus, this might include the Ansuz (A), Gebo (G), or Mannaz (M) runes. Wisdom Runes (Hugrúnar): Wisdom runes are carved into stone, and are used to help the vitki gain wisdom by sensing hidden properties of his surroundings. A vitki’s minor rune focus might be associated with Ihwaz (Y), Sowilo (S), or Kauno (K). Strength Runes (Meginrúnar): Strength runes are associated with the magic of the wilderness and with dark, supernatural forces. Sigrdrífa did not teach Sigurðr about this type of rune magic, but the Sigrdrifumál describes it as runes that the gods inscribe on impossible things, such as mead, fire, the heart, or the sky. Strength runes could be written upon flesh, since it is said that only the gods are allowed to inscribe runes upon a living body. Of course vitkir with this focus may choose to ignore this commandment, or might instead carve strength runes upon the dead. For a minor focus, Uruz (U), Thurisaz (Th), or Isa (I) might be appropriate.''
-
-|]
 ''one of his rune scripts includes one of these runes, his casting total is halved. Or, the vitki may have a grave deficiency with three runes, such that he cannot use those runes in any of his spells.''
 ''Minor Magical Deficiency Minor, Supernatural The vitki has a deficiency with three of the runes. Whenever one of his rune scripts includes these runes, his casting total is halved. Or, the vitki may have a grave deficiency with a single rune, such that he cannot use it in any of his spells.''
 ''Nátt-thel Prone Major, Supernatural The vitki is particularly susceptible to being overwhelmed by the power of magic, and suffers the effects of Nátt-thel (described later) any time you roll a single supernatural botch, rather than a double botch.''
@@ -69,8 +65,8 @@
 ''This is knowledge of what the magic of the vitkir is and how it works. It deals with the technical details of each rune, how they may be used, and how to formulate a rune script. Anyone can learn Rune Magic if they have access to a teacher, but it is very little use to those who do not have The Gift. (If the players have Ancient Magic, this and the Rune Magic Ability described on page 140 of that book are basically the same, and may be substituted for each other.) Specialties: A single rune, teaching scripts, opening the runes, reading hidden runes. (Arcane)''
 ''Nátt-thel''
 ''(Pronounced “NOT-thull,” with an unvoiced “th” like in “thud”) The vitkir do not go into Wizard’s Twilight when exposed to Warping as magi do, as Twilight is only experienced by those who study Hermetic magic. Instead, vitkir experience Nátt-thel, which comes from a Norse word that means “darkest part of night.” During this period, the vitki loses The Gift, leaving him vulnerable and humbled, completely without his magic and other powers associated with it. Whenever a vitki gains 2 or more Warping Points from a single event, rather than from prolonged exposure, he must first add them to his current total (which might increase his Warping Score), and then make a Stamina + Concentration roll. The Ease Factor for this roll is the vitki’s (Warping Score x 3). The vitki must concentrate for about two minutes while trying to control his magic in''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Vitkar Flaws''
 
 ===Major, Supernatural===
@@ -86,7 +82,7 @@
 ''Characters who are interested in learning about the magic of the vitkir can track down a study source in the form of a “rune poem” — one of the rare and valuable works written by the vitkir to teach their followers the basics of rune carving and their magic. These texts name each rune and give a brief description in verse. The verses are typically four lines long, one verse for each rune, and describe the rune’s mystical properties through imagery. For example, “Wealth / source of discord among kinsmen / and fire of the sea''
 ''/ and path of the serpent” or “Hail / cold grain / and shower of sleet / and sickness of serpents.” There are three texts that have spread far enough from the vitkir that they might be found in Mythic Europe: the Icelandic Rune Poem and the Norwegian Rune Poem, both of which use the Younger Futhark alphabet (see The Runes, Modified Runes, later in this chapter, and the Anglo-Saxon Rune Poem, which uses the Futhorc and was translated into Latin by Christian monks, though with many revisions to the text.''
 
-|]
+|}
 ''this way, and any interruptions increase the difficulty (the player should add the Ease Factor from the Concentration Table in ArM5, page 82).''
 
 ===Nátt-thel Avoidance: Stamina + Concentration + Stress Die Vs. (Warping Score X 3)===
@@ -101,13 +97,9 @@
 ''The duration roll determines the base unit of measurement for the Nátt-thel, and this is multiplied by the number of Warping Points that the vitki gained to trigger the episode. For example, a vitki with a Warping Score of 3 gains 2 Warping Points and fails his Avoidance roll. The storyguide secretly rolls a 6 on the Duration roll, which is added to his Warping Score of 3 to yield a base duration of 9, or Moons. He gained 2 Warping Points, so he will be without his Gift until two Moons have passed. At the moment he realizes he has lost control, the vitki can project some of his power into one or more of his active rune spells, ensuring that their effects will continue during the period he is without his magic. Doing this lengthens the duration of the Nátt-thel, but guarantees that at least some of his magic will remain behind. This gives the vitki an additional Warping Point for each effect he wishes to protect. Note that these additional Warping Points might increase the character’s Warping Score, which would affect the results of the Nátt-thel Duration roll, and that they also contribute to the number of Warping Points gained, which increases the multiplier and ensures that the Nátt-thel lasts even longer.''
 ''Learning Vitkar Magic''
 ''A vitki may teach his powers to a laering (LYE-ring, “apprentice”) as long as the student has The Gift. He must spend a season instructing his student, which gives the new vitki a score of 0 in all the runes (described under The Runes). This is called “opening the runes,” like Hermetic magi “open the Arts.” If the student already has any Supernatural Virtues or Abilities, the vitki’s Opening Total is his Intelligence + Rune Magic + lowest rune + aura. If the master has a score of less than 2 in any runes when they are opened, the laering gains a Minor Magical Deficiency Flaw with that rune. The runes can still be opened if the master is in Náttthel or has lost his Gift through Nátt-thel, though in that case the laering also gains the Nátt-thel Prone Flaw. After about five years learning from the same instructor, a laering typically gains a Minor Virtue appropriate to his master’s specialty, usually a Puissant Rune or Puissant Ability. Supernatural Virtues that apply only to vitkar magic can be assumed to manifest after The Gift has been opened. Vitkir can study their runes in all the same ways that magi learn Hermetic magic:''
-
-[|
 ''Odin’s Sacrifice''
 ''It is said that Odin originally learned the runes through a special ritual in which he was hanged by his neck from an ash tree and stabbed in the side with a spear. After nine days of this torture, Odin had a vision in which he saw the runes and understood their power. Many vitkir believe that a person who undertakes this ordeal and succeeds can open the runes, just as an apprentice does with his master. They also say that if he does not already possess the power, the ritual gives the seeker The Gift. A character interested in undertaking Odin’s sacrifice must discover some means by which to survive nine days without food, water, or air. He must have his side pierced with the spear (suffering a Medium Wound) and remain hung upon the tree for nine days without being moved, wounded further, or affected by supernatural powers. At the conclusion of the ritual, he must make an Intelligence + Concentration stress roll, to which he adds the aura bonus or penalty for Magic. If he achieves a total of 24 or more, he gains The Gift, or opens his scores in all of the vitkar runes if he already has The Gift, or gains another Major Virtue if he has already been opened to the runes. (This does not remove a viktir from Nátt-thel or restore his Gift, though it might give him a new Supernatural Ability he can use.) A character can only perform this ritual once in his lifetime. It is said that in ancient times the gods knew how to brew a potion from raw vis,''
 ''mead, herbs, blood, and other more-exotic materials that would allow a person to survive the ordeal by placing him in a comatose state for nine days, during which time he would appear to be dead. If a character manages to discover the recipe, he will experience strange visions during the ritual, and does not need to apply Wound or Fatigue penalties to his Concentration roll. When he awakens from unconsciousness, he must recover all of his Fatigue levels as if from long-term fatigue. The strength of the potion also gives him a bonus to his Concentration of +1 for every pawn of vis used to brew it. However, once the ritual is complete, he must also roll one botch die for each pawn, as if he had botched a roll, and any 0s represent permanent physical or mental Flaws. Such potions are not easy to brew, and according to the legends they usually require seeking out one of the gods or the alfar (pronounced “ALF-ar,” roughly meaning “the elves”) for mystical insight into the appropriate ingredients for a given person. Traditionally, this advice always comes with a price. Ingredients might include mythical concepts such as the breath of a fish, stubble from a woman’s beard, the promise of a liar, or the ears of a bird. Often the potion must be accompanied by a blood oath, a solemn vow to serve the gods however they command. Such an oath is very dangerous, for commands from the gods are usually on the scale of nearly-suicidal heroic quests.''
-
-|]
 ''through books (if they learn the appropriate Academic Abilities), instruction, adventure, or exposure. Vitkir can also study from raw vis, in the same way that magi do, though vitkir may use any type of vis; they do not need vis of a particular Technique or Form. The vitki brews the vis into a potion that includes mead, some of the vitki’s own blood, and other ingredients appropriate to the rune being studied. When this is drunk, the vitki falls into a deep, trancelike state, during which time he is aware of his surroundings but may take no actions. This generally lasts for about ten days while the vitki witnesses visions associated with the rune. The rest of the season is spent contemplating these revelations and learning from the experience.''
 ''Viktar Magic''
 ''Dost know how to write, dost know how to read, Dost know how to paint, dost know how to prove, Dost know how to ask, dost know how to offer, Dost know how to send, dost know how to spend?''
@@ -150,11 +142,13 @@
 ''A, Ansuz, “Mouth”''
 ''(Pronounced “AN-sooz”) This rune has many meanings, including “mouth” as in the source of speech and also the beginning of a river. It originated''
 ''as “god,” as it is associated with the Norse gods who are called the Aesir (“AYS-eyr”), and particularly symbolizes Odin, the father of the gods, who first discovered the power of the runes. When used to describe a target, Ansuz most commonly refers to images, specifically sounds. For the purposes of Penetration, this application is an Imaginem effect. Ansuz can also affect the mind through speech, an aspect of Mentem, and in rare circumstances it can target the human mouth directly as a Corpus effect. It is also occasionally associated with Vim, to target intelligent supernatural beings that have the power of speech.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Rune Casting Variations''
 ''Variation Modifier  Hidden name –2  No name –5  Hidden description –5  No description –10  Extra effort +1  Emphasis +1  Vis (Makt) +2/pawn*''
 ''*  as appropriate to the effect''
+
+|}
 ''The Elder Futhark''
 ''The three aetts of the Elder Futhark are named after three gods, each one associated with the first letter in that aett. Freya was a Norse goddess of love and marriage, Heimdall was the god charged with guarding the rainbow bridge that leads from earth to Asgard, and Tyr was the god of justice and battle.''
 
@@ -169,8 +163,6 @@
 ===Tyr’s Aett===
 
 ''Letter Rune Name Meaning Effects T t Tiwaz “Tyr” justice, battle  B b Berkanan “Birch” health, youth  E e Ehwaz “Horse” speed, relationships M m Mannaz “Man” cooperation, duty  L l Laguz “Water” ocean, ships Ng q Ingwaz “Lord” family, security D d Dagaz “Day” time, growth O o Othila “Inheritance” lands, possessions''
-
-|]
 
 =b=
 
@@ -200,13 +192,13 @@
 ===I, (The Runemaster), Carve===
 
 ''runes to close the flesh. Berkanan 20, Method I This spell is usually carved onto an amulet and placed inside a piece of the target’s clothing. The target heals a Light Wound, and as long as the runes last for at least a week (the recovery period for a Light Wound) the effect is permanent. If the amulet is removed or damaged during this time, before the wound would have healed naturally, the character must make an immediate recovery roll for that injury (ArM5, page 179). If this equals or exceeds the Improvement Ease Factor, then the wound remains''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Ansuz Guidelines''
 ''General:	 The target receives a bonus or penalty equal to the magnitude of the effect to all Ability rolls associated with Communication. General:	 The target gains the power to recognize audible illusions of less than or equal to the level of this effect, recognizing them by ear much in the same way those with Second Sight perceive them visually. Level 10:	Give a target the ability to speak. If the target is not intelligent, it can only repeat what is specified in the effect. Level 20:	The target gains the power to recognize the Form associated with the''
 ''Might of any creature within about ten paces. This tells the vitki which runes can be used to target it. Level 25:	The target gains the ability to intuitively understand the surface thoughts of others within a ten-pace area, making it possible to make sense of foreign languages. Level 30:	Increase or decrease a target’s Communication by one point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.''
 
-|]
+|}
 
 =e=
 
@@ -241,8 +233,8 @@
 ===(the Runemaster) Tames===
 
 ''the wild stallion. Ehwaz 20, Method II The vitki takes three hairs from the horse’s tail and carves them into the runes. For as long as the runes last, the horse will be well-disposed toward the vitki and respond to him as if they had been rider and mount for years.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Berkanan Guidelines''
 ''General: 	The target receives a bonus or penalty to recovery rolls equal to (the magnitude of the effect x 3). This includes physical injuries, but not sickness from diseases or poisons. General: 	The target receives a bonus or penalty to all Ability rolls performed while injured. Level 15:	The target will not impregnate or become pregnant for the duration.  Ensure that the target is potent or fertile for the duration. Level 20:	Heal one of the target’s Light Wounds or the equivalent, or reduce one of a target’s wounds by one level of severity (changing a Heavy Wound to a Medium Wound, for example). Level 20:	Prevent all of a target’s Light Wounds from healing naturally for the''
 ''duration. Level 25:	Heal your target’s Medium Wound, or reduce a wound by two levels of severity. Level 25:	Prevent all of a target’s Light or Medium Wounds from healing naturally for the duration. Level 30:	Heal a target’s Heavy Wound, or reduce one of a target’s wounds by three levels of severity. Level 30:	Prevent all of a target’s Light, Medium or Heavy Wounds from healing naturally for the duration. Level 35:	Heal a target’s Incapacitating Wound. Level 35:	Prevent any of a target’s wounds from healing naturally for the duration of the spell. Level 40:	Heal all of the target’s wounds.''
@@ -250,7 +242,7 @@
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that involve a regular, day-long activity. General:	 The target receives a bonus or penalty to Aging rolls equal to the magnitude of the effect, so long as the rune lasts for the entire year.''
 ''Level 20:	Cause a target to grow twice its normal size with the passing of the sun. Level 20:	Shrink a target to half its normal size with the passing of the sun. Level 30:	Cause a target to grow to full maturity in a single day. Level 30:	Age target five years, as long as the target has already reached maturity.''
 
-|]
+|}
 
 =g=
 
@@ -279,8 +271,8 @@
 ===(the Runemaster) Gives===
 
 ''the gift of obligation. Gebo 30, Method II The vitki inscribes the runes on a piece of jewelry that is given to another as a gift. While wearing it, the target is compelled to do as the vitki says, generally deferring to his judgment in all things that are not obviously dangerous or against its own interests.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Ehwaz Guidelines''
 ''General:	 The target receives a bonus or penalty equal to the magnitude of the effect on all rolls performed while mounted, including Initiative, Attack, and Defense rolls. General:	 The target receives a bonus or penalty equal to the magnitude of the effect on Ability rolls involving Quickness (not including Initiative or Defense). General:	 The target receives a bonus or penalty equal to the magnitude of the effect to all rolls that involve trust and loyalty between two individuals, creating a bond similar to that of horse and''
 ''rider. This is similar to the effects of the True Friend Virtue. Level 20:	Tame the target, making it more loyal and sensitive to the vitki’s needs. Level 30:	Summon a mount, which obeys the vitki’s instructions and accepts him as a rider. Level 30:	Increase or decrease a target’s Quickness by one point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.''
@@ -288,7 +280,7 @@
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that support the target gaining wealth: working, gambling, investing, or treasure-hunting. Level 20:	The target gains the ability to detect precious metal he is within about''
 ''ten paces. Level 25:	The target gains the ability to detect domesticated animals within about ten paces. Level 35:	Summon wealth, usually in the form of precious metal or a domesticated animal.''
 
-|]
+|}
 
 =j i=
 
@@ -324,8 +316,8 @@
 ===Sample Jera Rune Spells===
 
 ''I, (the runemaster) bless the work. Jera General, Method I The vitki typically carves this rune into the floor of his home. After a year has passed,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Gebo Guidelines''
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect on all Ability rolls to influence others, including forming new relationships, courtship, charming others, and negotiation. Level 30:	Give the target a feeling of def''
 ''erence and obligation to the vitki. Level 35:	Force the target to obey a simple command. Level 40:	Force the target to obey a complex command. Level 50:	Completely dominate the target’s mind and emotions.''
@@ -336,7 +328,7 @@
 ''General:	 The target receives a bonus or penalty that’s equal to the magnitude of this effect to Ability rolls that involve ice or the cold: exposure, winter travel, or slipping. General:	 Chill a target, doing Damage equal to (the level of the effect – 20) and potentially freezing it solid. Level 10:	Cause water to freeze. If cast on''
 ''a target, this makes it cold to the touch; living beings lose a Fatigue level.  Cause ice to melt. Level 15:	Cause a target to feel depressed and apathetic for the duration, canceling out other strong emotions. Level 20:	Hold a target totally motionless. Level 25:	Cause the surface of a target to become completely covered in ice.''
 
-|]
+|}
 
 =l=
 
@@ -362,16 +354,16 @@
 ''fiery fever to burn bright. Kauno (Mannaz) 30, Method II The target person is afflicted with a serious illness, the equivalent of a Medium Wound. While this spell endures, however, the target cannot recover naturally; his condition can only remain the same or worsen, since the disease is constantly maintained by the runes.''
 ''L, Laguz, “Water”''
 ''(Pronounced “LAH-ghooz”) This rune represents water, especially of the ocean. There is great wealth and power in the ocean, and many hidden dangers that cannot be seen from the surface. As a target it is almost always associated with Aquam, though it can also affect things that are only found underwater, such as water-breathing animals and sea plants.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Jera Guidelines''
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect to year-long activities, so long as the rune lasts for the entire year, with the bonus gained at the end of the year. For example: harvest, study, teaching, craft work (but not aging, which is cov''
 ''ered by Dagaz). General:	 Target is immune to supernatural diseases of up to this effect’s Level. Level 5:	 Ensure that the target remains healthy and strong, immune to natural blight and illness for the duration. Level 15:	Summon food and drink.''
+
+|}
 ''Kauno Guidelines''
 ''General:	 The target receives a bonus or penalty equal to this effect’s magnitude to all Ability rolls associated with disease and sickness, such as diagnosing or curing others. General:	 The target receives a bonus or penalty to all Ability rolls performed while sick. General:	 The target receives a bonus or penalty to recovery rolls due to sickness and disease equal to (this effect’s magnitude x 3). This does not include recovery rolls for physical injuries. Level 10:	Ignite an extremely flammable target, or cause it to become warm to the touch. This does +5 Damage to the target or anything touching it each round, with the Damage total divided by 5 after rolling. Level 15:	Ignite a very flammable target, or cause it to become hot to the touch. This does +5 Damage to the target or anything that’s touching it each round, with the Damage total divided by 2 after rolling. Level 20:	Ignite a flammable target, or cause it to become hot enough to boil water. This does +5 Damage to the target or anything touching it each round. Level 20:	Cause the target to suffer from painful sores that last for the duration. These are distracting and unpleasant for the target, but have no other effect. Level 25:	Ignite a slightly flammable tar''
 ''get, or cause it to become hot enough to glow. This does +10 Damage to the target or anything touching it each round. Level 25:	The target is infected with a minor illness, which will not heal naturally for the duration. Level 30:	Ignite a barely flammable target, or cause it to become hot enough to melt lead. It does +15 Damage to the target or anything touching it each round. Level 30:	The target is infected with a serious illness, which will not heal naturally for the duration. Level 35:	Ignite a target, or cause it to become unnaturally hot. This does +20 Damage to the target or anything touching it each round. Level 35:	The target is infected with a major illness, which will not heal naturally for the duration. Level 40:	Ignite a target, or cause it to become unnaturally hot. This does +25 Damage to the target or anything touching it each round. Level 40:	The target is infected with a critical illness, which will not heal naturally for the duration. Level 45:	Ignite a target, or cause it to become unnaturally hot. This does +30 Damage to the target or anything touching it each round. Level 45:	The target is infected with a terminal illness, which will not heal naturally for the duration.''
-
-|]
 
 =n=
 
@@ -404,8 +396,8 @@
 ''men to greatness. Mannaz 20, Method II All the people fighting within ten paces of the runes function as a trained group, even if their leader does not have a sufficient Leadership score. The runes are typically woven into a flag or painted on the shield carried by the leader.''
 ''N, Naudiz, “Need”''
 ''(Pronounced “NOW-thiz,” with the “th” voiced as in “this”) Naudiz is a very negative rune, meaning hardship, trouble, and adversity, often scratched onto a fingernail to indicate great''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Laguz Guidelines''
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls performed while submerged in or floating upon water. Level 5:	 The target gains the ability to see clearly through water. Level 10:	Summon water, enough to fill an area about ten paces across and ten paces deep. Level 20:	The target gains the ability to sense the direction of the nearest large''
 ''body of water, or if any water is within about ten paces. Level 20:	The target gains the ability to breathe water. Level 25:	Speed a sea journey, causing the target ship or the target swimmer to travel through the water at twice the normal speed. Level 30:	Cause waves to knock over a large target or to pull a small target under water.''
@@ -413,7 +405,7 @@
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls that involve Dexterity (but not Attack rolls). General:	 Target receives a bonus or penalty equal to the magnitude of this effect to Ability rolls involving working with others, such as fighting in a group or collaborating on a project in a workshop. Level 20:	Inspire feelings of cooperation''
 ''and unity within a group of targets.  Cause a group of fighters to function as a trained group. Level 30:	Increase or decrease a target’s Dexterity by one point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.''
 
-|]
+|}
 
 =o=
 
@@ -449,8 +441,8 @@
 ''his children to his side. Ingwaz 35, Method II By incorporating an Arcane Connection into the rune spell, the vitki transports a member of his family to the runes, intangibly speeding him or her across the land. Family can include members of the vitki’s household, or blood relatives. This journey typically takes about an hour from anywhere within Scandinavia, though greater distances might increase the time it takes for the person to arrive.''
 ''O, Othila, “Inheritance”''
 ''(Pronounced “OH-thih-LAH,” the “th” unvoiced as in “thin”) The Othila rune means property, but specific material goods as opposed to Fehu, which represents general wealth. These are things that can be passed on from generation to generation, such as lands or possessions, and thus the rune is most often used as a target tied to Terram.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Naudiz Guidelines''
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect when in great need, such as when dreadfully wounded or in a desperate state of emotion. General:	 The target suffers a bonus or penalty equal to the magnitude of this effect on all Ability rolls that he has tried once and failed. General:	 Delay the resolution of another supernatural effect no greater than the level of this effect, putting it off for as long as this rune lasts, and casting it when this spell is broken. This spell must include the runes for the held effect as well as Naudiz. For example, to''
 ''delay an Ansuz effect of Level 20, the rune spell must be Naudiz (Ansuz) 20 or less. General:	 Bind an active rune spell of Level less than or equal to this one, so that the duration lasts as long as the runes used in this spell. The spell must include the runes for the bound effect as well as Naudiz. For example, to bind a Fehu (Ansuz) effect of Level 15, the rune spell must be Naudiz (Fehu, Ansuz) 15 or greater. Level 20:	Cause a target to feel a deep despair, which makes him unable to use Confidence Points for the duration of the spell.''
@@ -461,7 +453,7 @@
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect to all rolls that involve a specific tool or family heirloom, such as wielding his father’s sword or defending his lands. This includes Initiative, Attack, and Defense rolls. Level 15:	Make an object more effective at what it is designed to do. For example,''
 ''make a sword light and sharp, or a plow till the earth more quickly. The object functions as if it were exceptional quality, and reduces the number of potential botch dice by two when used. Level 20:	Summon a target to the caster; this must be a nonliving thing that is smaller than a person, such as a sword or chest.''
 
-|]
+|}
 
 =r=
 
@@ -499,8 +491,8 @@
 ===I, the Runemaster, Hear===
 
 ''the thunder of the north. Raido 20, Method I The vitki can sense which way is north for as long as the rune remains undamaged.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Perth Guidelines''
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect to rolls that involve pure chance, such as when playing at dice. This also influences events governed by some element of chance, such as shooting an arrow into the dark or determining whether or not a woman becomes pregnant. General:	 Whenever the target rolls for a potential botch, the number of potential botch dice is reduced or increased by the magnitude of this effect. General:	 All supernatural effects cast on''
 ''the target that are less than or equal to half this effect’s level are dispelled. Level 10:	The target can sense Magic or Faerie auras within about ten paces, and identify their strength. Level 20:	The target gains the ability to sense and identify vis that is within about ten paces. Level 25:	The target can recognize the caster of any active magic in the vicinity, or can get a general sense of the effects, much like reading the inscribed description of a rune spell.''
@@ -508,7 +500,7 @@
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect on all Ability rolls made while traveling, such as Area Lore, Folk Ken, Ride, or Charm. This does not include mounted combat. General:	 The target receives a bonus or penalty equal to the magnitude of this effect on all natural Ability rolls associated with Stamina (but not Soak or casting rune magic). General:	 The target receives a bonus or penalty equal to the magnitude of this effect to his Initiative. Level 15:	Repair a harness or wheel. Level 20:	Restore a lame animal, healing a''
 ''Light Wound for the duration.  The target gains the power to sense which direction it is traveling. Level 30:	Speed a journey, allowing the target to run and walk at twice the normal speed. Level 30:	Increase or decrease a target’s Stamina by 1 point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score. Level 35:	Summon a target to the caster; it must be a nonliving thing that is larger than the caster, such as a boat or cart.''
 
-|]
+|}
 
 =t s=
 
@@ -543,13 +535,13 @@
 ===I, (The Runemaster),===
 
 ''can sense the liar’s craft. Tiwaz 30, Method I For the duration, the vitki can sense if people believe they are telling the truth so long as he is within about ten paces of them. (Note that demons can easily foil this effect.)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Sowilo Guidelines''
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect to natural Ability rolls associated with Perception. General:	 The target can see through illusions of this effect’s level or less as if he had Second Sight, including seeing through regiones. Level 10:	The target gains the ability to see in the dark as if it were daylight.  The target can sense Divine or Infernal auras within about ten paces, and identify their strength. Level 20:	Extinguish all light within about''
 ''ten paces of the target.  Make a target invisible. Level 25:	The target becomes more resistant to cold, and is immune to the ill effects of exposure. Level 25:	Cause blindingly bright sunlight to shine on or from the target. Level 30: Increase or decrease a target’s Perception by 1 point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.''
 
-|]
+|}
 
 =u=
 
@@ -573,8 +565,8 @@
 ''(Pronounced “oo-ROOZ”) This rune represents the aurochs, a large and powerful breed of cattle that roams the wilderness of Scandinavia. Julius Caesar described them as slightly smaller than the elephant and the same color and shape as a''
 ''bull. They are extraordinarily strong, fast, and ferocious. Successfully hunting an aurochs makes a boy into a man, and the best way to do this is with a pit trap. Proof of the adventure is the display of the massive beast’s horns, which are often bound at the tips with''
 ''silver for use as drinking cups. Uruz is thus a symbol of strength and stamina, as well as manhood and masculinity. There is also a parallel implied in its defense against the hunter and a man defending his home, and in the great achieve''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Tiwaz Guidelines''
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect to Personality rolls that involve positive emotions like loyalty or bravery. General:	 The target receives a bonus or penalty equal to the magnitude of this effect to his Attack or Defense scores. General:	 The target may boost his Confidence Score by 1, as long as his Confidence Score is no greater than (the magnitude of this effect – 3). Level 15:	The target gains the ability to sense the direction in which the nearest person is located''
 ''Level 20:	The target gains an intuitive understanding of those people’s thoughts and motivations within about ten paces, allowing him to more easily make friends or figure out the social structure of a community. Level 30:	The target gains the ability to tell if people within ten paces believe that they are telling the truth or lying. Level 45:	The target can completely understand the minds and emotions of those people within about ten paces, and can accurately predict their actions and reactions.''
@@ -585,7 +577,7 @@
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect on natural Ability rolls that involve Strength (but not Damage). General:	 The target’s Encumbrance is increased or decreased by the magnitude of this effect. General:	 The target is immune to effects that target the mind that are less than this effect’s level. Level 30:	Increase or decrease a target’s Strength by one point, to no more than the average score for a being of that type. Each additional magnitude in''
 ''creases the number of points or the upper limit, but never more than 5 above or below the average score. Level 30:	Summon a wild animal that is up to Size –4. Level 35:	Summon a wild animal that is up to Size –1. Level 40:	Summon a wild animal that is up to Size +2. Level 45:	Summon a wild animal that is up to Size +5. Level 50:	Summon a wild animal that is up to Size +8.''
 
-|]
+|}
 
 =y=
 
@@ -624,8 +616,8 @@
 ===I, (The Runemaster), Walk Swiftly===
 
 ''through the murky wood. Ihwaz 15, Method I''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Wunjo Guidelines''
 ''General:	The target receives a bonus or penalty equal to the magnitude of the effect on all natural Ability rolls involving Presence, such as telling a story, charming a companion, or leading a group. General:	 Reduce the target’s Fatigue or Wound Penalties by (the magnitude of this effect x 3). Level 20:	Cause the target to feel a power''
 ''ful emotion. Level 30:	The target can ignore all Fatigue or Wound Penalties. Level 30:	Increase or decrease a target’s Presence by 1 point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score.''
@@ -633,7 +625,7 @@
 ''General:	 The target receives a bonus or penalty equal to the magnitude of this effect to natural Ability rolls associated with Intelligence, such as remembering lore or outwitting an opponent. General:	 The target can sense the presence of supernatural beings with Might Score less than or equal to the level of this effect. General:	 Summon a supernatural being with Might Score less than or equal to (the level of this effect – 10). Level 15:	The target gains the ability to sense the properties of plants within about ten paces. Level 20:	The target can sense dead bodies within about ten paces. Level 25:	Animate a corpse or carcass, as''
 ''long as it is not protected by consecrated ground. Level 30:	Increase or decrease a target’s Intelligence by 1 point, to no more than the average score for a being of that type. Each additional magnitude increases the number of points or the upper limit, but never more than 5 above or below the average score. Level 35:	The target can speak with the dead, so long as he is within ten paces of the corpse or grave, and it is not protected by consecrated ground. Level 35:	Summon a corpse or carcass, as long as it is not protected by consecrated ground. Level 35:	Summon a tree.''
 
-|]
+|}
 
 =z=
 
@@ -658,28 +650,31 @@
 ''Modified Runes''
 ''After the vitkir learned to use the first runes, many of them traveled to different parts of the world and settled there. Left to develop on its own for hundreds of years on''
 ''many opposite shores of the North Sea, their alphabet underwent noticeable changes. The Elder Futhark, the runes described earlier, were used in the earliest spells and engravings left by the vitkir, but over time the names and meanings of the runes changed, the language became more compact, and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Algiz Guidelines''
 ''General:	 The target’s Soak is increased or decreased by the effect’s magnitude. General:	 All supernatural targets with Might less than or equal to the level of this effect that are associated with the''
 ''spell’s secondary rune are warded away from the target. Level 10:	All things that are appropriate to the secondary rune used in this spell are warded away from the target.''
+
+|}
 ''The Anglo-Saxon Futhorc''
 ''In England, the rune wizards extended their alphabet. Scholars agree that it included the first 28 runes, and the last five may also have been included depending on era and area. Magi are certain that none of these vitkir remain in the British Isles in the 1200s, all of them having been eliminated in the war against Damhan-Alladh centuries ago, though evidence of their magic may still remain.''
 ''Letter Rune Name Pronounced Meaning Elder  F f Feoh FAY-oh “Wealth” Fehu U u Ur OOR “Auroch” Uruz Th T Thorn THORN “Thorn” Thurisaz O o Os OH-ss “Mouth” Ansuz R r Rad RAWD “Riding” Raido C c Cen CHEN “Torch” Kauno Gy g Gyfu GUY-voo “Gift” Gebo W w Wynn WIN “Joy” Wunjo H h Haegl HA-wull “Hail” Hagalaz N n Nyd NID “Need” Naudiz  I i Is EES “Ice” Isa  J j Ger YER “Year” Jera Y I Eoh EE-oh “Yew” Ihwaz  P p Peordh POHR-th “Cup” Perth X x Eolhx OHLHK “Elk” Algiz  S s Sigel SEE-wel “Sun” Sowilo T t Tir TEER “Star” Tiwaz  B b Beorc BORK “Birch” Berkanan  E e Eh EH “Horse” Ehwaz M m Mann MAHN “Man” Mannaz  L l Lagu LAH-wuh “Water” Laguz Ng N Ing ING “Hero” Ingwaz D d Daeg DAY “Day” Dagaz Oe E Ethel EE-thell “Homeland” Othila A a Ac AWK “Oak” Ae A Aesc ASH “Ash” Yr  Yr YAHR “Bow” Ea q Ear EAR “Grave” G G Gar GAR “Spear” K k Calc KAHLK “Chalk” Q O Cweorth QUORTH “Fire twirl” St p Stan STAYN “Stone” Or  Ior OHR “Water monster”''
-
-|]
 ''the runemasters began using fewer characters. This variation came to be known as the Younger Futhark. In England, the vitkir and Norse settlers expanded the alphabet instead, eventually adding four more runes and altering the meaning of many of the others, producing a very different set of runes called the Futhorc. Their rune poems were then edited by the well-intentioned monks who translated them from the foreign tongue into Latin, removing references to giants, demons, and other frightening ideas, and integrating the Christian God into many of the lines. The same magic system given in this chapter can be used to work magic with these other rune alphabets, though both are weaker than the original Elder Futhark. The magic of the Younger Futhark uses only 16 of the 24 runes (as shown in the insert), and so requires less experience to develop but is also less versatile — these characters open fewer runes when they are first introduced to the tradition. The Anglo-Saxon Futhorc has as many as 33 characters, and so the power of the Elder runes is similarly weakened as experience is divided among all of these additional runes.''
 ''Hermetic Integration''
 ''For magi seeking to expand the capabilities of their magic, the vitkir and their runes can be investigated and converted into Hermetic Virtues as a Major Breakthrough. The suggested mechanics for describing this discovery can be found in Ancient Magic, pages 138-140. In essence, the magus receives a new Rune Duration and a new Inscription Target, which work similarly to Ring and Circle but do not require penetration. Also, at the storyguide’s discretion, magi who undergo Odin’s Sacrifice (described above) may receive an automatic Discovery towards the development of Hermetic Rune Magic. Note that the Order of Hermes is generally considered to be at war with the Order of Odin — as many magi think of the vitkir — and has been since the ninth century. This may make things difficult for magi who wish to learn from a living vitki. Perhaps they could convince him to join the Order of Hermes and swear the Oath, giving him some degree of safety as a member of House Ex Miscellanea, but there may still be those in the Order of Hermes who will hunt down the vitki simply because of his ancestry, and he may be obliged to keep his magic secret.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Younger Futhark''
 ''In Denmark and Germany, the Futhark began to develop over time, both as it was used to communicate and to work magic. Many of the names of the runes and their meanings changed as the language became condensed, and the runemasters eventually settled on a set of 16 runes instead of the original 24. Instead of three aetts made up of eight runes, in this system the first aett had only six runes and the other two had five. Missing are Gebo, Wunjo, Perth, Algiz, Ehwaz, Ingwaz, Dagz, and Othila. This variation came to be known as the Younger Futhark.''
 ''Letter Rune Name Pronounced Meaning Elder  F f Fe FAY “Wealth” Fehu U u Ur OOR “Drizzle” Uruz Th  Thurs THURZ “Ogre” Thurisaz A  Ass AHSS “God” Ansuz R r Reidh RAYTH “Ride” Raido K k Kaun COWN “Sore” Kauno H h Hagall HAH-gall “Hail” Hagalaz N n Naudhr NOW-thur “Need” Naudiz  I i Iss EES “Ice” Isa  J a Ar AHR “Year” Jera  S s Sol SOHL “Sun” Sowilo T t Tyr TEER “Tyr” Tiwaz  B b Bjarkan BYAR-kahn “Birch” Berkanan M m Madhr mah-THUR “Man” Mannaz  L l Logr lah-GHUR “Water” Laguz Y y Yr EAR “Yew” Ihwaz''
+
+|}
 ''Eirik Svennson, Warrior Vitki''
 ''Characteristics: Int +2, Per 0, Pre –1, Com –1, Str +2, Sta +2, Dex 0, Qik 0 Size: 0 Age: 29 Confidence Score: 1 (3) Virtues and Flaws: The Gift; Vitki; Major Rune Focus (Sigrunar); Fast Caster, Puissant Othila (free); Natt-thel Prone; Susceptibility to Divine Power Personality Traits: Brave +3, Stubborn +2, Loyal (to other vitkir) +1 Combat: Long Sword: Init +2, Attack +10, Defense +7, Damage +8 Long Sword (when enchanted): Init +7, Attack +15, Defense +12, Damage +8 Soak: +6 (+11 when enchanted) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Brawl 2 (dodging), Carouse 1 (with soldiers), Craft: Runes 2 (in metal), Leadership 2 (in battle), Norse 5 (soldiers’ slang), Old Norse 3 (writing runes), Rune Magic 5 (Tiwaz), Single Weapon 5 (long sword) Arts: A 0, B 6, D 5, E 0, F 0, G 0, H 0, I 0, J 0, K 0, L 0, M 8, N 0, Ng 0, O 9+2, P 0, R 0, S 0, T 10, Th 0, U 5, W 4, Y 0, Z 10 Equipment: Partial leather scale, long sword Encumbrance: 0 (4) Scripts Known: I, Eirik Svennson, bound this wound. (B 15/+8)''
 ''Berkanan 15, Method I The target receives a +9 bonus to recovery rolls from combat injuries, as long as the rune remains intact for the entire recovery period. I, Eirik Svennson, will work well this day. (D 15/+6) Dagaz 15, Method I The target receives a +3 bonus to any activity performed all day. Eirik Svennson leads men to greatness. (M 20/+18) I, Eirik Svennson, strengthen the sword of my ancestors. (O 25/+24) Othila 25, Method I The target receives a +5 bonus to Initiative, Attack, and Defense rolls made with a particular sword. Eirik typically inscribes the runes on the sword he inherited from his father, so that the effect endures only as long as he wields it (since he is the target of the spell, the sword must be “part of him” for the duration). I, Eirik Svennson, invoke Tyr’s power. (T 25/+22) Tiwaz 25, Method I The target receives a +5 bonus to Attack rolls. Eirik typically inscribes the runes on another warrior’s sword, so that the effect endures only as long as he wields it. I, Eirik Svennson, invoke Tyr’s cunning. (T 25/+22) Tiwaz 25, Method I The target receives a +5 bonus to Defense rolls. Eirik typically inscribes the runes on another warrior’s sword, so that the effect endures only as long as he wields it. I, Eirik Svennson, call my helmet alu. (Z 25/+22) Algiz 25, Method I The target receives a +5 bonus to Soak. Eirik typically inscribes the runes on his helmet, so that''
 ''the effect endures only as long as he wears it. Eirik Svennson protects against the beasts of the wild. (Z 10/+7) Appearance: Eirik is a tall, lanky, and cleanshaven Norwegian man with dark hair, wearing a suit of leather mail and helmet. He holds a long sword carved with runes all along the blade.''
 ''Eirik is a vitki in the service of the king of Norway, specifically answering to his uncle Sven Svennson, a powerful duke. Like many of the vitkir in this part of Scandinavia, Eirik is a member of the political group known as birchfeet (the birkebeiners), who have supported the northern kings in the last forty years of civil war, which have just recently ended. At his command is a unit of soldiers and builders that his uncle has placed under his authority, the leaders of which he has trained himself and has worked long enough with for them to grow used to his Gift. This does not stop constant low-level murmuring among the lower ranks, but so far this has been kept under control and the veterans are gradually becoming used to him. His group is stationed on the outskirts of the city that will become Trondheim, the capital, to rebuild its defenses and guard against trouble. His uncle expects him to be a great leader and soldier, though he is still a little too naive to appreciate the privileged position in Norse society he currently occupies.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -16,14 +16,14 @@
 
 ===Opening Ease Factor: Twice Apprentice’s Supernatural Ability + Art Scores (+12 If Gift Already Open).===
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Opening the Arts==
 
 ''The Hermetic Opening of the Arts is the Order of Hermes’ equivalent of Opening The Gift. Rules for this are given in ArM5 (page 106) and again in Houses of Hermes: Societates (page 128), but they do not address the possibility of the apprentice’s Gift being already Opened by another tradition. If a magus attempts to Open the Arts of an apprentice whose Gift has already been Opened by a non-Hermetic tradition, add 30 to the Intellego Vim Lab Total required by the magus.''
 
-|]
+|}
 
 ====
 
@@ -56,8 +56,8 @@
 ==Magical Arts and Supernatural Abilities==
 
 ''Some magical traditions produce effects via combinations of Arts in a manner similar to how Hermetic effects are produced via combinations of Technique and Form Arts. Other magical traditions produce effects via Supernatural Abilities. Finally, some traditions use both Arts and Supernatural Abilities (although for separate effects). Magical Arts are not normally compatible with Hermetic Arts (or with the magical Arts of other traditions), so if a character somehow learns Arts from several traditions, they may not be combined to produce exotic effects. However, this could be a fruitful avenue for integration research projects (see later).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Limit of Magic Resistance==
 
@@ -65,7 +65,7 @@
 ''ent limit. It is unclear why this should be so, but it is undeniably convenient for the Order of Hermes. In fact, if a magical tradition did develop a method of breaking the Limit of Magic Resistance, its members would be ruthlessly eliminated by the Order of Hermes. This is because the wider Order fully understands that its hegemony over the magical traditions re''
 ''lies on magi’s ability to resist the magical effects of wizards, and the wizard’s corresponding inability to resist the magic of magi. Perhaps the historic efficiency of the Order of Hermes in identifying and destroying such challenges to their power is sufficient to explain the apparent Limit of Magic Resistance.''
 
-|]
+|}
 
 ===Difficult Arts===
 
@@ -141,5 +141,6 @@
 ==Hermetic Integration of Rival Magic==
 
 ''Some Hermetic magi, particularly those of House Bonisagus, eagerly hunt down rumors of exotic traditions so that they may gain insights into magic theory. This is because some exotic traditions accomplish unusual effects that could, with considerable difficulty, be integrated into the Hermetic theory of magic, and thus duplicated by Hermetic magi. A new effect might even break a limit of magic, and much prestige would accrue to the Seeker responsible for extending the power of Hermetic magic in this way. Since Hermetic encounters with the traditions mentioned in this book are likely to be hostile — at least at first — the probability that a magus could have a meaningful dialog with a rival magician regarding the differences between their magical traditions is slim. However, should a détente be reached, suggestions for the Hermetic integration of aspects of the rival magic traditions are given in their respective chapters. The process for the integration of exotic magic into Hermetic theory is given extensive treatment in Ancient Magic pages 7–9, and Hedge Magic Revised Edition pages 14–16.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

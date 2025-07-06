@@ -1,6 +1,4 @@
 
-[|
-
 =Introduction=
 
 ''Welcome to Grogs! In this book you will find a wealth of information and character ideas to bring life to that most overlooked and underused of characters — the grog. The first half of the book is devoted to telling stories about grogs, whether they are at the covenant, adventuring alone, or involved in stories with magi and companion characters. There is also a chapter devoted to the quick creation and maintenance of grog characters so that a troupe can support a fair number without being burdened with their upkeep. The second half of the book consists of a large number of character concepts to bring life to your turb. Each is presented with a number of character options, including at least one new General or Supernatural Flaw to make grog characters more interesting. Every character concept has''
@@ -15,13 +13,15 @@
 ''There are various origin stories for the term “grog,” which seems to be a word coined by the Order of Hermes. The most commonly held opinion is that it has its origins at Arae Flaviae, the first multi-House covenant. At this covenant, the men and women who accompanied the magi when they journeyed from home were called viri gregis (meaning “men of the band,” singular vir gregis). This became corrupted, so the story goes, by a hard-of-hearing captain and the nonLatin speaking covenfolk into “grog.” The term was spread around the Order through the liber gregis (see insert). Other terms entered the Hermetic vernacular at the same time: turb, custos, and consors.''
 ''Turb''
 ''The turb is a term used to refer to the fighting force of a covenant, the sum total of its warriors. Some put the origin of the word with the same captain that gave the Order “grog,” who shortened the Latin contubernium (meaning a squad of eight legionaries who shared a tent and cooking fire). The word has become conflated with turba, meaning “mob;” and this has become the word most commonly used in the modern Order of Hermes to describe its soldiers.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Liber Gregis==
 
 ''The liber gregis is a collection of the wisdom of Beorhtric of Saxony, the grog captain at Arae Flaviae. When it became apparent that the doughty Beorhtric was getting on in years, the magi assigned a scribe to follow him around and make a record of his wisdom, in preparation for the day that he would need to be replaced. These notes were then compiled into a book by an unnamed scribe. How much of the book is actually derived from''
 ''Beorhtric and how much was added by the scribe is unknown. The book had no formal title, but it became known as the liber gregis as copies of it were made and widely circulated within the Order of Hermes. Some of Beorhtric’s wisdom can be found in the following pages. If you wish to include a copy of the book in a covenant’s library, it can be considered to be a tractatus on Leadership of Quality 9.''
 
-|]
+|}
 ''Grex''
 ''The word grex (plural greges), meaning “troop” or “company” (whence vir gregis is derived) is occasionally used in a contemptuous manner by magi, since it also means “herd” or “flock.” Nevertheless, it is still used to describe the group of grogs that accompany magi on expeditions; it thereby has a meaning similar to unit or squad. A grex typically numbers up to six individuals, and a turb might be composed of several greges as permanent units who work well together, or each grex might be assembled anew, according to the demands of the task ahead of it.''
 ''Custos''
@@ -33,5 +33,6 @@
 ''tary skills. A consors is a Companion character, and beyond the scope of this book.''
 ''Autocrat''
 ''The autocrat is a mundane whom some covenants appoint to oversee the smooth running of the covenant. He or she is usually the most important of all the covenfolk, bar the magi themselves; the covenant of Arae Flaviae even permitted their autocrat to attend meetings of the wizards’ council.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

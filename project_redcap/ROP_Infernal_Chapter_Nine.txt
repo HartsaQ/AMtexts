@@ -20,8 +20,8 @@
 ==Mythic Companions==
 
 ''In Ars Magica, magi and other Gifted characters are inherently more powerful than mundane people, and so for reasons of game balance they are usually considered superior to companion characters.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Divine realm is utterly opposed to the Infernal realm; it sees anyone and anything associated with the Infernal as its enemy, to be either turned or destroyed. Divine beings generally treat the Powers of the Magic and Faerie realms as neutral; they either have the same choice between good and evil as human beings do, or they are like animals that have no existence in the hereafter and thus are not involved in the spiritual conflict between God and the Devil. The Infernal realm, however, does not consider anyone to be neutral. It embodies destruction and chaos, and is opposed to everything and everyone, even its own agents. Magical and faerie creatures are often the targets of its evil designs. But Hell does not only harm those it hates, for it also corrupts them and draws them into its service. Many demons are fallen angels, but others''
 ''are faeries or magical beings that have also been transformed. Hell continually swells its ranks with creatures taken from anywhere it can get them.''
 ''False Powers represent one of Hell’s most insidious ploys. Since the Divine must oppose the Infernal wherever it can, tainting magical or faerie beings forces their hands. They can no longer pretend to be outsiders in the war between good and evil, because in the eyes of the Divine they are supporting the enemy by benefiting from its power. This is why False Powers seem unholy to Divine investigation: the Divine can identify the presence of the Infernal, however slight, and rejects it. Luckily for most characters, tainting Powers isn’t something that demons or infernalists can do very easily, as it requires dedicated Infernal attention or long-term exposure to the Infernal realm.''
@@ -33,7 +33,7 @@
 
 ''Some whisper that the forces of Hell can even taint Powers granted by the Divine, so that a holy saint might seem Infernal, or an angel inspire the same stench of unholiness as a demon. Most people are reluctant to believe this, but fear that it might be true.''
 
-|]
+|}
 ''However, sometimes a player wants to design a character without The Gift who can still rival a magus, and may well play this special companion as her primary character instead. These characters are called Mythic Companions, and follow slightly different rules during character creation.''
 ''Mythic Companions have a special Free Virtue that describes what makes them unique, and like magi they receive a bonus Virtue point that describes their special focus. The player may then take up to ten points of Flaws as normal, but for them each of these Flaws is worth twice as many Virtues, so that a Mythic Companion with ten points of Flaws can have as many as 21 points of Virtues. The Free Virtue that describes the character often specifies how some of these points may be spent, and sometimes''
 ''includes other limitations such as forbidden Virtues and Flaws, and required scores in particular Abilities taken during character creation. Mythic Companions may not take The Gift.''
@@ -49,8 +49,6 @@
 ===Ablating===
 
 ''Major, Goetic Art When combined with Summoning, Ablating allows a sorcerer to leech away the power of a demon or other spirit for his own. This Virtue opens the Ablating''
-
-[|
 
 ===Major, Hermetic===
 
@@ -94,8 +92,6 @@
 
 ==New Virtues==
 
-
-|]
 ''Art for him at 0, the mechanics of which are found in Chapter 11: Ars Goetia.''
 
 ===Amorphous===
@@ -161,15 +157,15 @@
 ===Demonic Powers===
 
 ''Minor, Supernatural Only a character with the Demonic Blood Virtue may have Demonic Powers. She gains an extra 20 levels of Infernal Powers in addition to the levels granted by Demonic Blood. Note that this Virtue differs substantially from the Infernal Blessing Virtue (see below), in that the Powers can be overtly mystical rather than mimicking other Virtues. You may also take this Virtue more than once,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Characters with a Might score are not human, strictly speaking. No being with a Might score can have Virtues which affiliate them to another realm, for they are full members of the supernatural realm which gives them their Might. This includes The Gift, True Faith, Faerie Blood, Blood of the Nephilim (see Realms of Power: The Divine), and any Supernatural Virtues that draw on sources from a different realm than that of their Might. They may not even take corrupted versions of these Virtues, such as The False Gift. If a character receives Magic Resistance from more than one source, these totals do not stack, even if they derive from''
 ''the same realm (Infernal Might and an Infernal Power, for example); you simply use the higher total. Characters with a Might score are immune to all Warping (see Warping and Non-Humans, ArM5, page 168). They may, however, spend a point of their Might Pool to use any Ability or Power that normally incurs Warping (such as Incantation or gaining Confidence though sinning). Those with a Might score are immune to supernatural backlashes of their realm, such as Twilight, Hubris, Vituperation, and so forth, but still suffer any other consequences of a failed or botched roll when using their Powers.''
 
 ==Characters with Might Scores==
 
 
-|]
+|}
 ''though it can account for no more than half of the character’s total Virtues.''
 
 ===Devil Child===
@@ -308,8 +304,6 @@
 
 ''Minor, Hermetic, Tainted The character has studied one of the Hermetic Arts from a corrupted source. Use of a corrupted Art for a selfish or sinful action receives a +3 bonus to the character’s Casting Total and Penetration Total. Succeeding in a roll because of this''
 
-[|
-
 ===Major, Personality===
 
 ''Depraved''
@@ -358,8 +352,6 @@
 
 ==New Flaws==
 
-
-|]
 ''bonus (that is, when without it the roll would have failed) means he immediately acquires 5 experience points in that Art. However, uses of the Art that are neutral or selfless receive a –3 penalty, and if you fail the roll because of this penalty, he immediately loses 5 experience points in the Art.''
 ''Any use of a corrupted Art taints the character’s magic, causing it to appear unholy. You may only take this Flaw once, though it can affect multiple Arts.''
 
@@ -514,14 +506,14 @@
 ===Debauchery*===
 
 ''The character focuses her will through a physical act, usually ceremonial''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New Abilities==
 
 ''Supernatural Ceremony* Chthonic Magic* Consumption* Corruption* Debauchery* Diablerie* Effusion* Hex* Incantation* Malediction* Phantasm* Psychomachia* Sense Passions* True Name of (Demon)*''
 
-|]
+|}
 ''in some way. This activity is strenuous enough to cause her to lose a long-term Fatigue level or suffer a Light Wound, and calls upon her Stamina for the maleficium roll (see Chapter 10: The Maleficia). Specialties: affecting a certain person, a particular form of debauchery, over long periods of time (Supernatural)''
 
 ===Diablerie*===
@@ -567,8 +559,8 @@
 
 ''Through blasphemous words, phrases, and prayers, the character invokes the power of the Infernal. He must chant his ritual in a loud voice, or detail the terms of the maleficium in writing (see Chapter 10: The Maleficia). This adds his Communication to your roll, and requires that he spend a point of Confidence to call the effect into being.''
 ''Specialties: when invoking names, in writing, affecting a particular kind of target (Supernatural)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Ease Factor Severity Example===
 
@@ -580,6 +572,8 @@
 
 ==Hex Effects==
 
+
+|}
 ''Here are all of the Supernatural Virtues and Flaws that are referenced by this book, each with its associated supernatural realm for the purposes of evaluating realm interaction. For those that appear in the main book, these are the Infernal versions of those Virtues. All of them read as unholy if subjected to Divine investigation, any of them''
 ''may be gained through Infernal Warping (see Chapter 1: The Infernal Realm), and many of them may be learned from a teacher of an Infernal tradition (see Chapter 13).''
 ''Some abilities (Command Animals or Amorphous, for example) involve no die rolls or totals, and thus aura penalties are generally irrelevant. They are still,''
@@ -588,8 +582,6 @@
 
 ==Realm Affiliations==
 
-
-|]
 
 ===Malediction*===
 
@@ -683,8 +675,8 @@
 ''animal, black +6''
 ''human +8''
 ''human, innocent +10''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Devil’s Penance==
 
@@ -692,7 +684,7 @@
 ''“No,” said the devil, “that would be too humiliating for me.”''
 ''— A medieval German folk tale''
 
-|]
+|}
 ''Realms of Power Profaning the Holy''
 ''There is great power in the trappings of the Infernal realm, especially when it corrupts the mechanisms of the Divine, and many infernalists have learned that this Power can be harvested as a significant source of Infernal vis, repugnant though the process might be to outsiders. Anyone may profane, just as anyone may collect vis from a vis source, but it is most commonly done by infernalists and magi who have been seduced by power and seek more vis to use for their magic.''
 ''Profaning is the process whereby a person mystically abuses a holy thing, tainting it with evil and bringing about Infernal power. This must be an item that is clearly associated with the Divine — something that has been blessed by a holy character, or is a symbol of faith. The profaned object becomes a vessel for this Infernal power, producing vis that all magi can detect and use, though with evil side effects since it retains its Infernal nature, usually as vis infesta (see Chapter 1: The Infernal Realm, Infernal Vis), though a particularly holy object might become vis sordida, or even vis prava.''
@@ -736,13 +728,15 @@
 
 ''Demons designing tainted people have poor control over the process, since much of it occurs through a perversion of natural means. Some processes, like inheritance, are haphazard, so an element of randomness is inevitable. Most demons are able to accommodate their plans to the imperfections of their tools.''
 ''Demons choose the mother and father of their tainted person with care. They arrange for a surrogate father or mother who has desirable properties that the child might absorb and express. The''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Key Flaws for the Tainted==
 
 ''Tainted player characters have either the Tragic Life Flaw (see New Flaws, above) or the Plagued by Supernatural Entity Flaw. The first is suited for characters still living within the control of their demonic creator. The second Flaw is for those who have rebelled against the demon’s design, and incurred its enmity. Some nonplayer characters achieve freedom from their demonic creator. They lack both of these Flaws, but no tainted character begins play independent and unthreatened.''
 ''All tainted characters should have at least one Tainted Virtue or Flaw. Player characters may take up to five points of each (see Tainted Virtues and Flaws, above).''
+
+|}
 ''Most demonic attempts to create tainted people suitable for the Tragic Life Flaw fail. In the example characters given below, only one is following the path designed for him since before his birth. Demons find alternative uses for the products of their unsuccessful attempts.''
 
 ===Albert, a Merchant===
@@ -780,8 +774,6 @@
 
 ==Example Tainted Characters==
 
-
-|]
 ''child, they ensure, is born into a situation, and faces life-challenges, which temper it toward its ultimate use. Demons cannot ensure that this process will work: they merely create the situation in which the forces of inheritance and choice are most likely to favor them.''
 ''The randomness of inheritance, and inevitable expressions of free will, may prevent the person expressing those traits that the demon desires. Remedial action is attempted, either by tempting the person toward the desired traits, or by arranging for the person to be pivotal to an entirely different scheme than that for which the character was created. At worst, the demon’s scheme continues with the character replaced by a less apt, but still serviceable, pawn.''
 ''Most tainted people have traits that their designers did not wish to include. The chief of these is the Tainted with Evil flaw. This Flaw often occurs when the demon, or its servants, distort the human too far. The child may inherit other Flaws from their demonic foster parent. These include Disfigurements reflecting the parent’s preferred shape, or any of its vulnerabilities.''
@@ -804,15 +796,15 @@
 ==Characters with Demonic Blood==
 
 ''Demonic children are not in the best interests of Hell, for they have no greater propensity to sin than any other human. Because they have free will, they can also seek salvation, and such an event would place a creature imbued with the power of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Hell in the service of''
 ''Heaven, a situ''
 ''ation that the''
 ''Powers of Hell''
 ''would want to avoid at all costs.''
 
-|]
+|}
 ''However, a demonblooded human has more temptation placed in his way than many humans due to its basic nature. A character with demon blood cannot reproduce, although he feels the urge to do so. Similarly, he need not eat or drink, but still suffers hunger and thirst. It is therefore easier for such characters to fall prey to these impulses and indulge in sins of lust and gluttony, which serve no legitimate function, and thus are sinful. However, a demon-blooded human is no more prone''
 ''to evil actions than any other human, and despite having power deriving from an Infernal source, is not necessarily bound for Hell.''
 ''Demon-blooded humans make excellent storyguide characters, enemies with whom to challenge a group of player characters. They have many of the Powers''
@@ -838,8 +830,6 @@
 ''•''
 ''• •''
 ''•''
-
-[|
 ''Infernal Might: 11 Characteristics: Int –1, Per –1, Pre +5,''
 ''Com 0, Str +1, Sta +1, Dex 0, Qik +1 Size: 0 Age: 9 (18) Decrepitude: 0 Warping Score: n/a Confidence Score: 2 (5) Hierarchy Score: 0 Virtues and Flaws: Devil Child; Demonic''
 ''Blood; Demonic Might (x3), Demonic Powers (x3), Enticer of Multitudes, Great Presence (x2), Greater Immunity (iron), Premonitions, Privileged Upbringing, Puissant Guile, Puissant Leadership, Self-Confident, Venus’s Blessing, Well-Traveled; False Power (Premonitions), Tragic Life; Lesser Malediction (demonic weakness, vulnerability for obsidian), Delusion (destined for greatness), Proud (minor), Tainted with Evil Personality Traits: Ambitious+3, Vain''
@@ -860,5 +850,6 @@
 
 ==Malachi, Devil Child==
 
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

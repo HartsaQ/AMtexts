@@ -32,14 +32,14 @@
 ''Free Virtue, Supernatural This supernatural power is granted to characters by either the pope, or the Divine directly. It is an inherent benefit of Church office. The character has a power equivalent to the Hermetic spell Aura of Rightful Authority (see ArM5, page 151), but with Voice Range; this power has no cost, and no penetration. The character also has a Magic Resistance and a Soak bonus that depend upon his rank in the Church. If the character carries a relic, this Magic Resistance is added to that of the relic.''
 ''Pope: Magic Resistance 25, Soak bonus +5. Cardinal, or legatus a latere: Magic Resistance 20, Soak Bonus +4. Legatus missus: Magic Resistance 15, Soak Bonus +3. Archbishop: Magic Resistance 10, Soak Bonus +2.''
 ''Papal legates are the representatives of the pope (see Papal Legates, later in this chapter). If the legatus missus — a lower grade with limited powers — delays or deviates from his mission, then his Commanding Aura ceases to work until he completes penance. The Commanding Aura is also lost when a legatus missus completes his mission. Some lay rulers ordained by the pope (mostly kings and emperors) also have a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Clergy as Player Characters''
 ''Clergy characters are created, following the standard rules in ArM5 Chapter 3, as either grogs or companions:''
 ''•	 Magi or covenfolk could have relatives who are clergy. •	 The clergy of the nearby parishes could be player characters. •	 The covenant may hold benefices. The curates it employs could form a network of agents spread throughout the diocese or Tribunal. •	 A priest (with a license of absence) could live in a covenant as a companion character. He may be a com''
 ''panion of a magus who fights the Infernal, for example. •	 Clergyman scribes and notaries could be recruited to work at the covenant. •	 The covenant may have a chapel where magi and covenfolk to worship; the chaplain could be a companion character. •	 The covenant could be built within a monastery or church (possibly within a regio located there). Many of the covenant’s grogs and companions could be clergymen or other religious.''
 
-|]
+|}
 ''Commanding Aura. See Realms of Power: The Divine, page 42.''
 
 ===Dark Secret===
@@ -78,8 +78,8 @@
 ''The cathedral chapter is a legal corporation made up of the canons of the cathedral (see Chapters of Canons, later), and it is very influential in the governance of the diocese. Characters who wish to petition the bishop will often need to negotiate with the cathedral canons — the clergy who serve the cathedral.''
 ''Election of the Bishop''
 ''The bishop is elected by a simple majority, in a secret ballot, of the cathedral canons. A new bishop must be elected within three months of his predecessor’s death, and it is not possible for a canon to cast a vote by proxy. Although a canon is often elected, candidates do not need to be a member of the diocese, and the pope sometimes proposes a candidate for an important see — the office of a bishop. The candidate does not even need to be an ordained member of the clergy; he will be ordained as required upon his election. The Third Lateran Council (1179) decreed that a candidate for bishop must be aged at least thirty, have been born in lawful wedlock, and be worthy as evidenced by his life and learning. In game mechanics, this means that a character must be literate in Latin and must usually have a positive reputation within the Church. An illiterate bastard with a negative reputation can still be elected bishop, but this gives grounds for an election to be challenged. Elections can be challenged by appealing to the pope (see Petitioning the Church, later). Apart from the candidate’s poor education, birth, or reputation, other grounds for appeal include absence of some electors, people voting who were not entitled to, an election too soon or too long after the death of the previous''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Recommended and Required Virtues, Flaws, and Abilities''
 
 ===The Pope, Cardinals, & Archbishops===
@@ -99,7 +99,7 @@
 ''A magus at the covenant, who has good relations with the cathedral canons, is elected bishop. If he accepts the office he will inevitably have to defend himself from charges of interference with the mundane. On the other hand,''
 ''his canon friends may be offended if he refuses, and if he is careful he could use the bishopric to ensure smooth relations between the Order and the Church within his diocese.''
 
-|]
+|}
 ''bishop, or candidates who had committed simony. It may take several years for appeals to be worked through, and if the election is overturned the pope appoints a new bishop, who need not be one of the original candidates. In the past there has been considerable conflict over the appointment of bishops by lay lords; powerful nobles (for example, the Holy Roman Emperor) may still attempt to appoint bishops. Such appointments are typically overturned by the papacy.''
 ''In Partibus Infidelium''
 ''If a diocese is overrun by infidel forces, a bishop is still appointed by the pope. A bishop whose diocese is in partibus infidelium has the same powers as a normal bishop, but lives outside his diocese. Which functions of the diocese are able to continue in this state obviously depends upon the attitude of the new infidel rulers. If, in your saga, a diocese is lost to some supernatural catastrophe, a pagan revival, or a Muslim or Mongol invasion, then the papacy may declare the diocese to be in partibus infidelium.''
@@ -125,8 +125,8 @@
 ===Proctors===
 
 ''Proctors are the representatives of bishops, nobles, or religious houses who attend the papal curia to ensure that their client’s interests are represented. Proctors present petitions on behalf of their client, and appeal other petitions as presented. Appealed petitions are sent to the auditor litterarum contradictarum for arbitration. There are four rules for proctors: proc''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: The Proctor of Hermes''
 ''Quaesitors approach a player character (ideally a senior magus with the Gentle Gift) and explain that they want him to act as proctor for the Order of Hermes in the papal curia. The character will become a Quaesitor and travel to Rome. His task is to ensure smooth relations between the Order and the Church. He can do this by intercepting inappropriate''
 ''petitions from magi, presenting petitions on behalf of magi to the curia, and ensuring that no petitions that negatively impact on the Order are successfully brought by other parties. The position requires a magus so that he may resist both the Commanding Aura of Church officials and any efforts of other magi to interfere in Church processes.''
@@ -137,7 +137,7 @@
 ''The Church is present everywhere in Mythic Europe, and thus the papacy is aware, in some sense, of the existence of the Order of Hermes. Precisely how accurate papacy’s knowledge is, how well spread that knowledge''
 ''is, and what its attitude to the Order is, is up to your saga. In any case, it is very likely that papal legates have been sent to investigate individual Hermetic covenants, and perhaps even Tribunal meetings.''
 
-|]
+|}
 ''tors cannot remain in office for more than two consecutive years, proctors cannot keep a concubine, a client may only have one proctor, and finally the proctor cannot send a substitute to petition in his stead. There are similar rules for proctors in the courts of lesser bishops.''
 
 ===The Camera===
@@ -169,8 +169,8 @@
 ''There are two types of deans. A rural dean is the head of a group of up to two dozen rural parishes called a deanery. The other type of dean is the head of a chapter of canons; he is the leader of the priests of a large urban church. Chapters of canons and their deans are discussed later. The rural dean’s church is usually the oldest and largest in the deanery, and his office is an unusual one as the deanery is a subdivision of the archdeaconry; he is subordinate to the archdeacon, but the dean also represents the bishop directly. This means that the deans may be forced into choosing sides in the event of conflict between bishop and archdeacon. The dean convokes meetings of the deanery clergy several times a year, and he has visitation rights over his subordinate parishes. Some rural deans use the title archpriest, which dates from an earlier Church period.''
 ''Clerics''
 ''In 1220, around two percent of the population are clergy, but they are not evenly distributed. In poor rural districts there is just the curate and his parish clerk, whereas in towns there might be several parishes each with a chapter of canons. Since the 11th century, the Church in Mythic Europe has emphasized that clerics are a separate caste, but of course, not all of the clergy are as pure and pious as the Church would claim. Clerics are born''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: The Vicar-General''
 ''A new bishop is elected in the diocese, and he is appalled at the power that his predecessors have allowed to accumulate with the archdeacon. He creates a new office, the vicar-general, and assigns to him the duty of holding a canon court that visits the rural parishes — currently the main duty of the archdeacon. The archdeacon''
 ''approaches the covenant looking for assistance to thwart the bishop’s plans. He is after evidence to challenge the election of the bishop, but will be open to other suggestions, too. The archdeacon is powerful, and in return he could promise to reduce the covenant’s tithe, or he could even assign the covenant benefices.''
@@ -181,7 +181,7 @@
 ''The local archdeacon is an agent of the covenant. He ensures that the Church does not pry too closely into''
 ''the covenant’s affairs, and he keeps the covenant informed on changes among the local priests.''
 
-|]
+|}
 ''to common society, most are the sons of peasants, and they share all the faults of the laity. So there are always drunks, murderers, usurers, gamblers, robbers, and the wanton among the clergy. Indeed, in many dioceses much of the bishop’s time and correspondence involves correcting wayward priests. There is a constant tension between the heavenly loftiness that clergy are supposed to aspire to and their earthly origins. There are two main types of clerical members of the Church: those in minor orders and those in major orders. The minor orders are doorkeeper, lector, exorcist, and acolyte. The major orders are sub-deacon, deacon, priest, and bishop. A character progresses through each of these grades in order: becoming a doorkeeper, advancing to lector, and so forth. It is not expected, however, that everyone will progress through the entire sequence. In 1220 the ranks of acolyte, sub-deacon, and deacon are seen as life-long offices, and there is no sense that someone who lives to an old age as a deacon has failed because he has not become a priest.''
 ''Ordination''
 ''Each step a clergyman takes through the orders is marked by an ordination ceremony, and in a populous diocese there might be 300 ordinations per year. Usually, a person is ordained in his birth-diocese; to be ordained elsewhere he needs the permission of the bishop of his birth-diocese. Ordination is a seasonal activity, with a Source Quality of 2 in either Civil and Canon Law or Church Lore. Prior to ordination, characters usually study the liturgies (Church Lore) or canon (Civil and Canon Law), and candidates for doorkeeper are usually taught en masse by the archdeacon. During the ordination season, the ordinand is examined by the bishop (or the delegated archdeacon or dean). The examination is oral and can take up to several hours; there is no requirement for clergy to be literate. Normally, the ordinand must travel for the examination, or he will have to wait until his parish receives a visitation.''
@@ -218,8 +218,8 @@
 ===Exorcist===
 
 ''At ordination, an exorcist receives a scroll of exorcism rites. In the early Church, exorcists looked after those who were possessed and conducted daily exorcisms of adults who were being prepared for baptism, to clear them of any supernatural influences from their previous pagan faith. However, in 1220 adult baptism is rare (most characters are baptized as infants), and so there is less need for prebaptismal exorcism. In 1220, clergy are usually ordained to the grade of exorcist in their late teens, and some clergy progress no further.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Possession and Exorcism''
 ''Possession by demons is a common occurrence in Mythic Europe, and exorcists have a special responsibility to help the possessed. Rules for possession are given in Realms of Power: The Infernal, page 32; the demon invests a fraction of his Infernal Might Pool in the victim (the energumen) in order to control her. To perform the exorcism rite, the exorcist must spend at least 1 Confidence (or Faith) Point and an Exorcism Total is generated (each Confidence/Faith Point adds +3, as usual). If the Exorcism Total equals or exceeds an Ease Factor equal to the number of Might Points invested in the energumen by the demon, then the demon is exorcised.''
 
@@ -227,7 +227,7 @@
 
 ''Any clergyman can conduct exorcisms. Those who have been ordained as exorcists receive a +1 bonus, and using holy water and a crucifix adds a further +1 each. Exorcism is a Divine supernatural power and the Total is affected by the aura in the usual way. If the energumen has Magic Resistance, it must be Penetrated by the exorcism; Penetration is calculated as usual (see ArM5, page 184). A character must be literate in Latin to read the exorcism rite from a scroll, however an illiterate character (who has been told what to say) can still conduct the rite.''
 
-|]
+|}
 
 ===Acolyte===
 
@@ -255,13 +255,13 @@
 ===Secular Justice===
 
 ''Clergy are not subject to secular justice, so clergymen found guilty by a secular court are passed to the bishop’s court to be tried again. Most secular courts are thus observed by agents of the bishop to''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: A Catechumen Covenant''
 ''A pious pereginator (itinerant magus) visiting the covenant is appalled at the covenant’s isolation from the Church, and he fears for the immortal souls of the unbaptized covenfolk. He helps the covenfolk petition the Church for assistance, which dispatches a pair of bright young exorcists to the covenant. The eager exorcists spend the season at the covenant performing daily exorcisms''
 ''on the covenfolk, and providing verbal instruction on Christianity. At the end of the season spent as catechumens — adults undergoing instruction in Christianity prior to baptism — the covenfolk will travel to the nearby parish church and be baptized. As baptism dispels supernatural effects, this may cause problems if the magi are using magic to augment or control the covenfolk.''
 
-|]
+|}
 ''ensure that clergymen receive this protection. Secular judges find this exasperating, particularly as many clergymen are subsequently acquitted via compurgation (see Court Procedures, later). However, canon law also states that clergymen should not, under pretext of Ecclesiastical liberty, attempt to undermine the authority of secular justice. So a clergyman who commits very serious''
 ''crimes against town or lord may find himself punished by a canon court, or excommunicated and returned to the hands of secular justice.''
 
@@ -293,8 +293,8 @@
 ===Sanctuary===
 
 ''The church, churchyard, and cemetery are places of sanctuary, within which it is forbidden to spill blood or brawl. Many fugitives from lay justice thus seek the safety of a church. Sanctuary is granted for up to 40 days, after which time the fugitive should surrender to the lay authorities. In''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: The Heresy of Hermes''
 ''In parts of Mythic Europe, having a tonsure and demonstrating proficiency in Latin is sufficient evidence of being a clergyman. A magus accused of murder has thus claimed Ecclesiastical protection, and then (maybe via Rego Mentem magic) been acquitted of the crime via compurgation. Unfortunately for the nearby player-covenant, the''
 ''archdeacon is now suspicious of the Order of Hermes and has since pried into the covenant’s affairs, which he concludes show evidence of heresy. The player-covenant could probably prosecute the magus for interference in the mundane, but dealing with the archdeacon’s investigation is a more pressing concern.''
@@ -302,7 +302,7 @@
 ''Those bishops who are also feudal lords may have difficulty avoiding involvement in the shedding of blood. Confession lifts divine punishment for this transgression, though, and the pa''
 ''pacy can also take action to correct or replace bishop-barons. However, the papacy will be cautious, as the bishopbaron’s feudal allies may leap to his defense.''
 
-|]
+|}
 ''some dioceses sanctuary is also extended to chapels.''
 
 ===Simony===
@@ -339,8 +339,8 @@
 ''Rarely, minor cases of sorcery are brought to the canon court. A typical penance involves wearing a white sheet before the congregation, although canon courts are ambivalent about whether minor sorcery (except as evidence of infernalism or paganism) is a crime. Serious cases of sorcery are prosecuted by secular courts, which can impose death as a punishment.''
 ''The Parish''
 ''The parish is the main unit of Ecclesiastic administration in Mythic Europe, and a diocese might contain between several hundred and one thousand parishes. The size of parishes can vary considerably, from a few acres enclosed by town walls to a tract of land several miles across, encompassing thousands of acres of farmland.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Relics''
 ''Relics are the remains of saints, or objects used by the saint, and are described in detail in Realms of Power: The Divine, pages 43–46. The basics are summarized here:''
 ''•	 All relics have a Faith Score and an equal number of Faith Points. •	 Anyone who holds the relic has a Magic Resistance equal to 10 x the Faith Score, and may spend the Faith Points as if they were Confidence Points. The Faith Points replenish each day.''
@@ -349,15 +349,15 @@
 ''A desperate magus seeks sanctuary during Wizard War. Does his opponent ignore the laws of the Church? The player characters could be participants in the Wizard War. Alterna''
 ''tively, the players might be involved after the fact when the Church sends a legate to the tribunal to protest against, fine, or excommunicate a magus who has violated Church sanctuary.''
 
-|]
+|}
 ''The Church The Parish Church''
 ''Parish life is centered around the parish church, where the rector (a priest) recites the liturgy and conducts Masses and burials. The rites of the parish protect the parishioners from supernatural peril, and the priest provides a conduit to the Divine. During construction, the parish church is consecrated by the bishop and the relics of a saint are interred beneath the altar. Many churches contain other relics, and some wealthy churches contain hundreds or even thousands of relics. Wealthy churches are also often decorated with frescoes, mosaics, carvings, and statues depicting saints and biblical scenes. The two critical parts of the church are the chancel and the nave. The chancel is at the east end of the church, and the rear, east wall holds the altar. This is where the priest conducts the liturgy, and the chancel is often screened off from the rest of the church. Rarely, the chancel is placed at the west end of the church, so that the priest may face the congregation while he conducts the liturgy. The nave (at the west end of the church) is where the congregation stands during Mass. The congregation is responsible for the upkeep of the nave, and the priest is responsible for the upkeep of the chancel. This division of responsibility sometimes means that the two sections are rebuilt at different times and of different materials. The chancel is usually smaller than the nave, but an urban church with many canons may have a very large chancel. Some churches include aisles, which are extensions to the nave. A large church may have additional altars built in the east walls of the aisles, each served by extra priests. Large churches also normally have transepts. These are wings built at right angles to the nave, giving the church a cruciform footprint. Transepts may also have extra altars built in their east walls. Most churches contain towers, from which the church bells are rung. A few churches lack bells due to the expense of a tower, so their Divine aura does not extend beyond the consecrated ground of the church. Chapels do not have the right to ring bells, and so usually lack a tower. Many churches have a raised platform''
 ''in the nave, or in an aisle, that contains a table and a chair. This is where the archdeacon’s canon court is held. The parish church is often constructed of stone, and may be the only strongly built structure in the parish. The church is usually kept locked and barred, and many parishioners store valuable goods within the church nave, although this is technically against canon law except in times of enemy incursions, fires, or other emergencies. Parishioners often retreat to the safety of the church in times of war, but most churches in Mythic Europe are not built with the intention of defense: the windows and entrances are too large, and the walls are not thick enough. On the other hand, in those parts of Mythic Europe that are frequently wracked by war, fortified churches are common, and even in relatively peaceful areas it is not surpris''
 ''ing to find a few fortified churches scattered throughout the countryside. There is a considerable regional variation in churches. Multiple domes and cupolas are common in Italy and southern France, whereas spires are more common in Germany, northern France, and England. Older churches that date to the Roman Empire are usually built in the basilica style (a long, columned east-west hall) with the altar in a semi-circular apse at the east end.''
 ''The Parish Priest''
 ''The parish priest is the representative of the Church. He is usually locally born, or at least from within the diocese. For a priest from further afield, finding a common lan''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Church Auras''
 ''Divine auras radiate from the church altar for as far as the church bells can be heard, or to the edge of the parish boundary, whichever is closer. A small parish might be entirely covered by a Divine aura. The strength of the aura depends upon the distance from the altar and the size of the church:''
 ''Area Aura Level Large church/cathedral 5 Typical parish church 4 Chapel 3 Within city walls 3 Within town walls 2 Fields of a rural parish 1''
@@ -365,7 +365,7 @@
 ''Some churches are constructed from stone salvaged from Roman buildings. A magus receives a vision that indicates how a temple of Mercury was thus broken down and rebuilt as the local cathedral. The vision is specific enough''
 ''for the magus to rebuild the temple, which his vision seems to indicate will form a gateway to a regio or possibly the Magic Realm itself. Can the magus find a way to reclaim the temple from the cathedral?''
 
-|]
+|}
 ''Spells in Church''
 ''A typical rural church has a floor area of about 500 square feet, but urban churches can be much larger. For Hermetic magic, the nave and each floor of the tower count as separate Rooms. Aisles and the transepts are a part of the''
 ''nave. If it is petitioned off, the chancel is a separate Room, otherwise it is also part of the nave. The entire church may be targeted as a Structure, and unless the church is unusually large no size modifier is required.''
@@ -385,8 +385,8 @@
 ===The Parish Clerk===
 
 ''The parish priest is assisted by a clerk (often an acolyte, sometimes a sub-deacon). The clerk helps with the liturgy,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Hermetic Magic and the Sacraments''
 ''Magi can observe the supernatural effects of the Sacraments, and it is common knowledge within the Order that the Sacraments are supernatural Divine powers. For example, a baptismal name cannot be used as a Sympathetic Connection to aid Penetration (unlike a birth name), Mass does indeed change simple bread and wine into something Divine, and bodies that have received Extreme Unction cannot be affected by''
 ''magic for three days. Due to this overwhelming evidence of the Divine, most magi believe in the existence of God, and many would describe themselves as Christians. However, even a magus who identifies himself as Christian would almost certainly be considered by the Church to have a heretical view of the world, colored as it will be by the magus’ knowledge of the supernatural.''
@@ -394,7 +394,7 @@
 ''A priest exorcises the demons from an abandoned village in his parish, after which he returns to his church and appears well. Unfortunately, in the weeks that follow the priest goes mad, until finally he locks himself in the church tower, braying like a donkey. In fact, a fragment of the priest’s mind is trapped in an Infernal regio in the abandoned''
 ''village. The sundering of the priest’s mind has driven him mad. A co-adjudicator is assigned to the village and he quickly learns from the parishioners about the parish priest’s sojourn prior to his madness. The co-adjudicator seeks help from the nearby covenant, as the magi are famed locally for their knowledge and wisdom.''
 
-|]
+|}
 ''rings the church bells, and accompanies the priest in his travels about the parish. The parish clerk is often selected by the priest, but in some parishes the parishioners elect him. In either case, the position is usually held for many years, and in some parishes has become hereditary. There is no expectation that the parish clerk will succeed the priest. The parish clerk is paid a yearly wage by the parishioners, with the exact amount depending on the wealth of the parish; a London parish clerk could expect a wage of three or four pounds, whereas a simple rural clerk may only earn a dozen shillings. The clerk is a fulltime position, but he can supplement his income by picking up small fees for writing letters for the parishioners.''
 
 ===The Curate===
@@ -418,8 +418,8 @@
 ''•	 He could have leave to study in a university, to go on pilgrimage, or similar. A leave of absence of several years for these purposes is common.''
 ''•	 He could be in service elsewhere. The canons of the cathedral, for example, usually hold rural benefices within the diocese, as do the priests who serve in the private chapels of important nobles. •	 The final (and most frequent) reason for non-residence is the widespread practice of a single priest holding several benefices. Pluralism, as this is called, is technically outlawed in canon law, and arouses much hostility within the Church. However, even the papacy frequently engages in pluralism. Some clergy (consequently the wealthiest) hold more than a dozen benefices, from which they collect total incomes of hundreds of pounds a year.''
 ''A priest with a benefice who is resident at a covenant, or spends a lot of time adventuring with magi, might apply for a license of absence from the bishop (see Petitioning the Church, later, and the Minor Virtue License of Absence, earlier). Depending on your saga, he may need to find another pretext for the license and, in any case, he must arrange for a curate. Two priests can exchange benefices, the usual reason being a falling out between the priest and his parishioners. The exchange requires the permission of the bishop and if the benefices are in different dioceses both bishops must agree. In some parts of Mythic Europe, the bishop’s clerks act as brokers for these''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Minor Covenant Boon: Holder of Benefices''
 ''The covenant is an institutional holder of several parish benefices. The covenant collects the benefice incomes (a Typical Source of income) and is responsible for assigning curates to perform Mass. The parishes need not necessarily be geographically close to''
 ''the covenant, and could even be in a different diocese. On the other hand, if the covenant is built within one of its parishes, then the congregation may be mostly covenfolk. This Boon may be taken multiple times.''
@@ -435,7 +435,7 @@
 ''CrVi 55 R: Touch, D: Moon, T: Boundary, Ritual The whole parish is tainted by magic, and for the spell duration everyone in the parish suffers from the social penalties of The Gift: husbands and wives bicker and''
 ''feud, brawls erupt in the fields, and animals flee from their masters. The parish is paralyzed by the social breakdown, and by the end of the spell several parishioners may have been murdered. The parish immediately gains a reputation for being cursed, and it can take years for harmony to be restored. Also, as the parish animals have fled and the fields have been only erratically tended, it is likely that the parish will suffer from famine and starvation in the following year. (Base 3, +1 Touch, +3 Moon, +4 Boundary, +4 size)''
 
-|]
+|}
 ''exchanges and charge a fee for their services. These fees are strongly opposed by the papacy, which regards the practice as simony.''
 
 ===Benefices Held By Institutions===
@@ -460,13 +460,227 @@
 ===Private Chapels===
 
 ''Nobles usually worship at private chapels, and virtually every castle has a chapel, as do many manor houses, guild halls, and similar places. Private chapels are not open to the public, and the license granted by the bishop often explicitly limits their use to the members of the family or community that established them. The license is sometimes limited to a particular period of time, too (a few years). Occasionally,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: A Concerned Priest''
 ''Many of the covenfolk travel to a nearby village to attend church. The parish priest is concerned at the long journey that the covenfolk must make,''
 ''and suggests that they apply to the bishop for permission to build a chapel nearer to the covenant (see Petitioning the Church, later).''
 ''Covenant Boon: Covenant Chapel''
 ''A private chapel is built within (or very near) the covenant for the covenfolk and magi to worship at. It may be a room in a tower, or a separate building. The chapel has a Divine aura of 3, which will overwhelm auras of 3 or less aligned to other realms. However, unless the chapel has bells, the aura in''
 ''the rest of the covenant is unaffected. The covenant must pay the salary of the chaplain, who counts as a specialist for covenant expenses. The chapel is worth a +20 situational modifier to Loyalty, assuming that the covenfolk are normal, Christian humans (see Covenants, page 38).''
+
+|}
+''philanthropic owners open private chapels to the general public, but this is hardly ever done with episcopal consent. Private chapels sometimes lack a nave, because in theory there is no congregation. On the other hand, the private chapel of a wealthy noble can often rival a parish church in scale. The owner of a private chapel is expected to pay the salary of the chaplain and for the upkeep of the chapel itself. However, influential nobles can arrange for a priest with a benefice elsewhere to be granted a leave of absence to perform the service in their chapel instead.''
+''Urban Parishes''
+''Within town there is roughly one parish church for every 300 to 400 inhabitants. Most towns thus have somewhere between one and six parishes, and very large cities (like London, Paris, Florence, etc) have more than 100 parishes. Unlike rural parishes, the jurisdictions of urban parishes are usually very precisely defined: they follow street or property boundaries, which are sometimes marked to indicate the parish borders. In large towns, one of the churches is likely the cathedral — the church of the bishop. Usually, the cathedral is the largest church in the town, and the town is the largest within the diocese, or at least it was when the see was created. The bishop can move to a different church (it becomes the cathedral), and many bishops have moved to follow the growth of population and political power within the diocese. Such moves are rarely made more often than once every few centuries. In large urban churches there are often several altars. These additional altars are sponsored by guilds and wealthy individuals; the endowment pays for the benefice of an extra priest who performs the liturgy at the altar.''
+
+===Chapters of Canons===
+
+''The clergy who serve an urban church often live together, sharing a common table and holding common property. This''
+''community of clerics is called a chapter, and its members are canons. Many canons lead lives similar to those of monks but, unlike monks, canons must see to the care of the souls of the lay congregation. The priestly canons thus each take weekly turns to lead the liturgy. Some chapters follow a monk-like rule called the Rule of Saint Augustine, and these canons are called regular or Augustinian canons (see Chapter 4: The Rule). Other chapters of canons are more lax: the canons can eat meat, wear linen cloth, and even own private property. Most urban churches in Italy and southern France are served by regular canons, but elsewhere in Mythic Europe regular and secular chapters are equally common. The similarity between monasteries and chapters of regular canons means that it is often possible for bishops to transform monasteries into chapters and vice versa. In parts of France, Germany, and northern Italy there are also chapters of canonesses. These are always attached to and subservient to a chapter of canons. Chapters usually range in size from six to a few dozen canons. Chapter offices include the following:''
+''Provost: Historically this office was the head of the chapter, responsible for its administration. The provost is assisted by the camerarius and cellerarius. Dean: The dean is responsible for the discipline of the chapter, and he is the provost’s deputy. In 1220, the office of provost has disappeared from most chapters, and the chapter is headed by the dean instead. Cantor: The cantor is responsible for organizing the liturgy and the sacred rites. Scholasticus or Chancellor: This office is responsible for the church school (see Art & Academe, pages 81–83). Custos: The custos is responsible for the church’s treasury. He is assisted by the thesaurarius and sacrista. Hebdomadarius: This is the canon whose weekly turn it is to lead the liturgy (he may hold one of the other offices, too).''
+''The provost, dean, and hebdomadarius must be ordained priests. The other''
+''canons (even the office holders) need not be ordained as priests — some are only acolytes in minor orders.''
+''Visitations''
+''One of the duties of the bishop (which is frequently deputized to his archdeacons and deans) is to visit each of the parishes within his diocese, once a year. Monasteries and nunneries must also be visited, and an archbishop has visitation rights in any of the parishes of his subordinate dioceses. In addition, the Fourth Lateran Council (1215) ruled that any parish with known heretics should be visited at least twice a year. Most bishops also consider the (known) presence of a Hermetic covenant to be a good reason for more-frequent parish visitation. Visitation is an opportunity to check up on the parish priest (in case he has fallen into heresy), to ensure that the church is well maintained, and to deal with any Church business. It is also an opportunity for the parishioners to make complaints about their priest. Part of the visitation is to work through a formal checklist (of about 100 articles) which examines the state of the clergy and congregation, and the physical structure of the church. There are regional variations in the precise nature of the visitation articles, but a popular enumeration is given in Homilia Leonis (Church Lore Tractatus of Quality 8 by Pope Leo IV; 847-855). Visitation can be extremely expensive for the parish. Usually a feast is provided for the visitor’s retinue, and he may also claim visitation expenses from the parishes that he visits. Some members of the Church, and the papacy itself, are very uneasy about this practice and the abuses that it encourages (claiming for visits that never take place, for example). The papacy states that the guiding principle is that the shepherd (the bishop) should avoid burdening the flock (the parish), and should tailor the size of his retinue according to the resources of the parish. Consequently, the Third Lateran Council (1179) set the following upper limits''
+''on the size of the traveling retinue of the senior clergy:''
+''Archbishop: 40 to 50 horses. Bishop: 20 to 30 horses. Archdeacon: 5 to 7 horses. Dean: 2 horses.''
+''Most bishops, archdeacons, and rural deans spend at least one season a year in visitation. This can be one of his non-free seasons (as visitation is one of his duties). A season spent on visitation is worth 2 exposure experience points in Church Lore, Civil and Canon Law, Area Lore, or Ride for the visitor and his retinue.''
+''Visitatio ad Limina''
+''Bishops are also required by canon law to report, in person, to the pope every four years on the state of their diocese. Many bishops are reluctant to fulfill this obligation (the journey can be long, dangerous, difficult, and uncomfortable), and need frequent reminders of their duty. It is allowable for the bishop to send an archdeacon in his stead.''
+''Synods''
+''Synods are meetings of the clergy. The dean, archdeacon, bishop, and archbishop all regularly convoke synods to discuss the spiritual and material needs of their respective jurisdictions, and the meetings are usually hosted by their church. Most parish priests attend at least one synod a year, and maybe as many as one a season. Noble and monastic representatives are often invited to synods, and known Hermetic covenants might be invited to send representatives too. The synod itself takes a couple of days and, unless a character needs to travel an extraordinarily long distance, attending a synod does not disrupt his seasonal activities. Occasional absences from regional synods are willingly tolerated, but many absences will be seen as possible evidence of heretical beliefs.''
+''Ecumenical Councils''
+''Ecumenical councils are special synods called and presided over by the pope. The last Ecumenical council was called in 1213 by Pope Innocent III and began in November 1215. The council was held in Rome and was attended by more than 400 bishops, the heads of the military orders, and over 800 abbots and deans of chapters. Envoys were sent by most of the major nobles of Mythic Europe and several attended in person, but there was little participation by the Greek Church. A number of magi also attended the council in the retinue of either lay or clerical dignitaries. As far as the Order of Hermes is aware, these magi only witnessed proceedings; none are known to have interfered in the council using magic. The council process took about two weeks, and its main purposes were''
+''to make ready for a new crusade, to issue new Church doctrines, and to consolidate the pope’s reforms of the Church and canon law. There have been twelve Ecumenical councils: Nicaea I (325), Constantinople I (381), Ephesus (431), Chalcedon (451), Constantinople II (553), Constantinople III (680-681), Nicaea II (787), Constantinople IV (869), Lateran I (1123), Lateran II (1139), Lateran III (1179), and Lateran IV (1215). If your saga follows history, the next Ecumenical council is held in 1245 in Lyons. It is convened to excommunicate and depose the Emperor Frederick II, and to call a new crusade against the Saracens and Mongols. Another council is held in Lyons in 1274; it effects a (temporary) reunion with the Greek Church and refines the rules for papal elections.''
+''The Church Petitioning the Church''
+''In Mythic Europe, the Church has a lot of resources that your characters may want to use. Perhaps they want to borrow money or land, exhume a body, move a church, build a new church, excommunicate an enemy, appoint an ally to the bishopric, have a departed friend made a saint, or have a crusade declared against their enemies. As the Church is a bureaucracy, it can be mobilized to do all of these things and more. However, because the Church is a bureaucracy, it also takes time and effort to access its resources. Of course, the higher a character is in the Church hierarchy the more independent''
+''authority he has, but even a bishop must sometimes seek the permission or help of the papacy. The following rules can help the troupe decide whether a character can convince the Church to take some particular action. The rules can be used both for clergy and also for outsiders (peasants, nobles, and magi, for example) who are trying to sway Church decisions. Petitions can form the basis of rewarding stories, but sometimes your troupe will just be interested in whether or not a petition to the Church is successful, and not want to spend a long time on roleplaying events peripheral to the main story. These rules are intended to help in such circumstances. On the other hand, if you choose to tell stories about dealing with the Church, then these rules can be used as a guide to the sorts of resourc''
+''es that a character needs to get certain things done.''
+''The Petition Total''
+''The basic mechanic is to generate a Petition Total that is compared to an Ease Factor. If the Petition Total equals or exceeds the Ease Factor, then the request is granted by the appropriate officers of the Church.''
+
+===Petition Church: Petition Total Vs Petition Ease Factor===
+
+''The following are example Ease Factors for petitions. The list is not exhaustive, it is merely a guide.''
+''Modifiers to the Petition Total''
+''The following modifiers apply to both a written and audience petition. Some of the modifiers require the troupe to judge whether something is “significant.” Rather than provide hard rules for this, it is best for the troupe’s players to use their own judgment based on the circumstances of the petition and their saga. Some of the modifiers add a bonus if the petition is supported by arguments based on Ability Scores. To determine whether the argument is successful, roll as follows:''
+
+===Argument Success: Int + Ability Score + Stress Die Vs Ease Factor of 9===
+
+''If the argument is successful, the bonus is gained. If the argument botches, subtract the bonus from the Petition Total; it is a penalty instead. The storyguide may modify the Ease Factor of this test depending on the quality of the argument. Some of the modifiers require the petition to be supported by other characters (a bishop, a king, etc). Gaining the support of these individuals creates opportunities for the troupe to tell stories. Gathering this support also takes time, so in''
+''some cases it may take many years for the character to gather all the support that he needs for a successful petition. Modifiers are as follows, if the petition is supported by certain people or circumstances.''
+''Modifier: +1 Support: The testimony of a significant number of individuals, a priest or deacon*, a knight**, magical evidence***''
+''Modifier: +1 to +3 Support: A significant donation to the Church, an argument based on Civil and Canon Law, an argument based on Artes Liberales (Logic), an argument based on Intrigue''
+''Modifier: +3 Support: A holy vision, a senior clergyman (bishop, abbot, abbess, archdeacon, etc.)*, a nobleman (baron, count, etc.)**''
+''Modifier: +6 Support: One or more miracles, an archbishop or higher ranked official*, a king (duke, earl, or emperor)**''
+''Modifier: Variable Bonus Support: The character has a positive reputation with the Church, spell effects that make the petition more persuasive***''
+''Modifier: Variable Penalty Support: The character has a negative reputation with the Church''
+''* 	 These modifiers are not cumulative with each other; use the highest that applies, once only. ** These modifiers are not cumulative with each other; use the highest that applies, once only. *** Magical evidence includes the results of scrying effects that are intended to show the Church it should act in a particular way (for example, InMe effects that show a character is innocent of a crime is magical evidence). Spell effects to make a petition more persuasive are spell effects (successfully) cast on the clergy who are making decisions concerning the petition (for example, ReMe effects to cause the bishop to look favorably on a petition).''
+''Ease Factor: 3 Petition: A marriage blessing.''
+''Ease Factor: 6 Petition: Access to the parish crypt; access to the parish library (possibly just a single book, the missal); convince a priest to travel two days to administer last rites; enroll a child in a parish school; grant pilgrims a letter of safe passage.''
+''Ease Factor: 9 Petition: Access to the bishop’s chambers; access to the cathedral library; act to protect a local minority (such as Jews) from persecution; annul a marriage between common folk (given appropriate grounds); appeal an ordination exam; appoint a character to a vacant benefice; assist in a Quaesitorial investigation; attempt to interfere in secular justice to show leniency to a person sentenced to death; commission an extension to a cathedral; dispensation to reach a clerical grade despite not meeting one of the grade’s criteria; establish a chapel; excommunicate a freeman or a clergyman of a lower rank than priest; exhume a corpse; license for absence from a clergyman’s benefice; move a parish’s celebration of a saint’s feast day; swap benefices with another priest.''
+''Ease Factor: 12 Petition: Excommunicate a magus or a priest; move a church to a new location; rent land to a Hermetic covenant.''
+''Ease Factor: 15 Petition: Consecrate a parish church; excommunicate a nobleman; interdict a town.''
+''Ease Factor: 18 Petition: Appeal the election of a bishop; establish a monastery.''
+''Ease Factor: 21 Petition: Create a new diocese; crown a king; excommunicate a bishop.''
+''Ease Factor: 24 Petition: Change or reform canon law (priests can marry, for example); interdict an entire kingdom.''
+''Ease Factor: 30 Petition: Declare a deceased person a saint.''
+''Ease Factor: 42 Petition: Call a crusade; found a religious order.''
+''There are two ways to generate a Petition Total: one involves writing letters to Church officials, and the other depends on gaining an audience with Church of''
+''ficials. Even if your character is actually using both methods, decide which method your character is mostly using and use that total.''
+
+===Written Petition Total: Com + Church Lore + Modifiers===
+
+
+===Audience Petition Total: Pre + Church Lore + Modifiers===
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+''Henri of Toulouse’s Petition''
+''One night Henri of Toulouse has a vision in which he builds, stone by stone, a monastery on a hill overlooking a gently winding river. Some weeks later, while traveling between two towns, Henri finds the exact location. To found the monastery he directs his scribe to write a petition to the papal curia. In order to make a convincing case, Henri needs a Petition Total of 18 or greater:''
+''•	 Henri’s scribe has a Com + Church Lore Total of 4. •	 Henri is a wealthy merchant and can afford to pay for the construction of the monastery and to pay a generous benefice to the new abbot (which the storyguide decides is a +3 significant donation). •	 Henri is interviewed by the bishop, who establishes that the original vision was a holy one and also gives his support to the monastery (+3 holy vision; +3 support of senior clergyman).''
+''•	 Henri then visits the court of the Count of Toulouse who is impressed with Henri’s dedication and gives his support to the project (+3 support of a nobleman). •	 Next, Henri meets with the monks of a Benedictine monastery in Italy who agree to send some of their number to colonize the new monastery site (+1 testimony of a significant number of individuals). •	 Finally, Henri notes in his petition that the site is further than two days’ travel from the nearest chapel, and so the monastery chapel will serve travelers that pass through the region (+2 argument based on Civil and Canon Law).''
+''This gives the petition a Petition Total of 19, which is a convincing case. For the troupe, Henri’s attempts to gain all this support are opportunities to tell stories.''
+''The Petition of the Parish of Long Melford''
+''In 1220 the parishioners of Long Melford have a late harvest, and it is obvious that faithfully observing all the scheduled religious festivals will cause the parishioners to starve over the winter. Thus, their priest writes a petition to the bishop for permission to move the saints’ feast days until the winter. This requires a Petition total of 9, which is met by:''
+''•	 The priest has a Com + Church Lore Total of 5.''
+''•	 The parishioners testify that moving the feasts is necessary (+1 testimony of a significant number of individuals). •	 The local knight gives his support for the petition (+1 support of a knight). •	 The priest makes the argument that the parishioners will suffer over the winter if the feasts are not moved (+2 argument based on Artes Liberales (Logic)).''
+
+|}
+''Note that there is no die roll added to the Petition Total. Usually a character may only make one petition each season. Making a petition does not interfere with other seasonal activities. However, if the character needs to travel to Rome, or seeks audiences with Church officials elsewhere, then his travels could interfere with other seasonal activities. Petitions are often made directly to the papacy, where they are dealt with by the machinery of the papal curia, but petitions with an Ease Factor of 15 or less can be made to the local bishop, and those with an Ease Factor of 6 or less can be made to the local priest. Your character does not need to be literate to write letters to the Church; he merely needs to find a scribe who can read and write letters on his behalf. In this case, use the Com + Church Lore total of the scribe rather than the applicant. An audience petition is a social interaction so penalties for The Gift apply to this total, but they do not apply to a written petition. Of course, if a magus meets Church officials directly he could take the opportunity to cast spells to encourage officials to make the correct decision.''
+''Acting Without Authority''
+''A bishop (or equivalently ranked character) may grant any petition or take any action with an Ease Factor of up to 15 without consulting his peers or superiors. A priest (or equivalently ranked character) may grant any petition or take any action with an Ease Factor of up to 6 without consulting his peers or superiors. However, such decisions will not be automatically supported if the Church hierarchy is questioned later. For example, a priest is perfectly within his rights to grant a magus access to the parish church’s crypt, but he will still be held to account if it is discovered that the magus has been using this access to cast unwanted spells on the corpses in the crypt. Therefore, priests and bishops may still seek permission for doubtful actions that are technically within their remit. A character may also take actions that''
+''he does not have authority for. Whether this causes a problem or not depends on whether the character’s superiors find out, the personalities of the characters involved, and the particular circumstances.''
+''Appealing a Petition''
+''Your characters may appeal another character’s successful petition. An appeal is treated like any other petition: a Petition Total is generated, and the Ease Factor to overturn the original petition is 3 + the Petition Total of the original successful petition. If the appeal’s Petition Total is insufficient to overturn the original petition but exceeds the original Petition Total – 3, then the papacy, or the bishop’s court, will attempt to broker a compromise solution between the parties.''
+
+===Ease Factor To Overturn a Petition: Original Petition Total + 3===
+
+
+===Ease Factor To Open Negotiations for Compromise: Original Petition Total – 3===
+
+''If an appeal is not made in the same season as the original petition, then the appeal has a –3 penalty to its Petition Total. Politically active characters keep a close watch on the Ecclesiastical courts in order to rapidly appeal unfavorable decisions.''
+''Creating Game Statistics for a Church''
+''These rules allow the troupe to describe a church using Build Points, Hooks, and Boons in the same way that a covenant can be described using these terms (see ArM5, page 68-74). Describing the churches near the covenant helps indicate how the Church may have an impact on your saga.''
+''Basic Church Features''
+''Every church has an altar at which the liturgy is conducted, and it consequently has a Divine aura. You purchase resources such as books, relics, and specialist characters with Build Points. Each church has a number of Hooks. Hooks create stories and also provide points that may be spent on Boons for the church. Boons make the church better. Hooks and Boons can be either major (provides or costs 3 points), or minor (provides or costs 1 point). Some Hooks and Boons can be Unknown, which means that the characters living in the church are not currently aware of them. Some Hooks and Boons are about the church and its priests, while others are about the congregation and the surrounding diocese. You may usually choose up to 10 points of Hooks for the church.''
+''Cathedral: The cathedral is the seat of a bishop or archbishop. If that of an archbishop, it has a base Divine aura of 5 and 1000 Build Points. If that of a bishop, it has a base Divine aura of 5 and 500 Build Points. Monastery/Nunnery: A monastery/nunnery has a base Divine Aura of 5, and 500 build points. Large Urban Church: This church has a base Divine Aura of 5, and 500 build points. Parish Church: A parish church has a base Divine Aura of 4, and 250 build points. Chapel: A chapel has a base Divine Aura of 3, and 50 build points.''
+''Resources''
+''Churches may have these resources:''
+
+===Books===
+
+''Every church has a copy of the missal and many churches have substantial libraries, which largely concern Church Lore,''
+''Theology, Civil and Canon Law, Area Lore, and Artes Liberales. Texts on other subjects can also sometimes be found. Books cost a church the same number of Build Points that they cost a covenant; see ArM5, page 71. Note that a Bible can be purchased even though it exceeds the maximum summa level limit.''
+
+===Enchanted Items===
+
+''Some churches have enchanted items that have been donated, found, or purchased from magi. However, it is unlikely for a church to have an enchanted item that contains more than 50 levels of effects. As churches cannot create enchanted items, it costs a church more Build Points to purchase an enchanted item than it costs a covenant.''
+
+===Enchanted Item Cost: 1 Build Point Per Level of Effect===
+
+
+===Relics===
+
+''Practically every church contains a number of relics. Even a poor church should contain at least one relic interred beneath the altar. The cost of a relic depends on the Faith Score (see the chart) and its number of powers (in addition to the standard relic powers).''
+
+===Relic Cost: Cost for Faith Score + 5 Build Points Per Power===
+
+''Faith Score Build Point Cost''
+''1 1''
+''2 3''
+''3 6''
+''4 10''
+''5 15''
+
+===Specialists===
+
+''Specialists are characters who serve the Church in some limited way that does not require the troupe to generate an entire character sheet. Examples include teachers in a cathedral school, scribes working on illuminated scripts, and stonemasons working on the cathedral structure. Purchase specialists using the same number of Build Points as a covenant; see ArM5, page 72.''
+
+===Vis===
+
+''Some churches control vis sources, or have stocks of vis, which is usually tainted by the Divine (see Realms of Power: The Divine, page 69). Note that just because a church controls vis sources, or even has stocks of vis, this does not necessarily mean that the clergy have any use for the vis, or are even aware of the vis. Churches purchase vis at the Build Point cost of a covenant; see ArM5, page 72.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+''Some Common Christian Books''
+''The Bible: Summa, Theology (Level 10, Quality 3); Summa, Church Lore (Level 3, Quality 3). See Realms of Power: the Divine, page 86. (45 build points) The Parish Register: Treat the register as a Summa, Area Lore: Parish (or Diocese) of Level 1 + 1 for every century of records, it has a Quality of 5. (5 + 3 x Level build points) The Missal: Tractatus, Church Lore (Quality 7); Tractatus, Music (Qual''
+''ity 7). This contains instructions, text, and music for Mass. Each diocese has a slightly different version, which may each be treated as different tractatus. (14 build points) Breviary: Tractatus, Church Lore (Quality 6-10). This contains instructions for the prayers to be recited at the canonical hours. Breviaries designed for parish priests (rare in 1220) are lower Quality than the versions used in monasteries. (6-10 build points)''
+
+|}
+''The Church Hooks and Boons''
+''Most of the Hooks and Boons in Ars Magica Fifth Edition (pages 72–74) and in Covenants (pages 6–27) are suitable for a church, although some may require interpretation by the troupe. Some new Hooks and Boons are provided here.''
+
+===Major Church Boon: Military Order===
+
+''The church is an outpost of one of the military orders, with barracks for a number of knights and men-at-arms.''
+
+===Minor Church Boon: Anchorite/anchoress===
+
+''The church has a small cell built in it, in which an anchorite (male) or anchoress (female) lives, devoting his or her life to wor''
+''ship (see Chapter 5: Women for details). The presence of the anchorite/anchoress increases the Divine aura in the church by 1.''
+
+===Minor Church Boon: Burial Rights===
+
+''The church or monastery has a large cemetery, and it collects a fee for conducting burials. This is worth a Typical Source of Income. Some urban parishes have no cemetery due to lack of space.''
+
+===Minor Church Boon: Chantry===
+
+''The church or monastery collects a substantial income for reciting Masses for the dead. Masses are held for the dead when a person is buried, one month later, and one year later. Wealthy characters often leave substantial endowments for hundreds or even thousands of additional Masses to be said, for the good of their soul. Reciting''
+''the chantry Masses requires four seasons of work each year by a priest — for example, four priests could each perform for one season in the year. The chantry is worth a Typical Source of Income, and this Boon may be taken multiple times.''
+
+===Minor Church Boon: Chapter of Canons===
+
+''The church priests form a chapter of canons, and there are always at least half a dozen priests within the church. They collectively hold a number of benefices. This is worth a Typical Income Source.''
+
+===Minor Church Boon: Church School===
+
+''The church (usually a cathedral) has a school attached. There are many characters in minor orders attached to the church as either pupils or teachers.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+''Example Churches''
+
+===Urban Parish===
+
+''This parish is in one of the larger towns in the diocese. The town also has a substantial minority of Jews who the church canons must sometimes protect from persecution. The town guild master is a close ally of the dean, and the guild has sponsored its own altar in the church.''
+''Hooks: Urban; Protector (Jews) Boons: Chapter of Canons, Edifice (church tower), Local Ally (guild master), Minority (Jews). Resources: Divine aura 5. Books: 150 Build Points. Relics: Two relics (Faith Score 3; each with two powers), ten minor relics (Faith Score 1). Vis Sources: 5 pawns Creo (sound of the pealing bells at Easter Mass). Specialists: 6 Canons (Church Lore 5), 2 Notaries (Profession: Scribe 5), 1 Master Stonemason (Profession: Mason 6), 8 Churchwardens (Brawl 4). (295 Build Points)''
+
+===Village Parish===
+
+''This church serves three small villages constructed on the edge of a forest, which was once a nobleman’s hunting estate and is now used as a resource by the peasants. The church is very old and in a bad state of repair, which makes climbing the bell tower perilous. The decay is caused by spells cast by the lords of a faerie court, who haunt the dark places in the forest. In addition, perhaps due to the presence of the faerie court, unless the church relics are carried on the perambulation the Divine aura reduces to 3 for the following year. The curate’s cousin is the bishop of the diocese.''
+''Hooks: Absent Rector, Crumbling, Faerie Court, Flickering Aura. Boons: Powerful Ally (bishop); Chase. Resources: Divine aura 4. Books: Bible, Missal, Parish Register (Level 7). Relics: one relic (Faith Score 2; with two''
+''powers), three minor relics (Faith Score 1). Vis Sources: 3 pawns Animal (first boar of the hunt), 5 pawns Imaginem (mid-summer dawn light penetrating the bell tower). (141 Build Points)''
+
+===Covenant Chapel===
+
+''The chapel is a separate building built in a shaded glen a few minutes’ walk from the covenant tower. It was once the site of a pagan temple. The parish clerk secretly reports to the bishop on the affairs of the priest.''
+''Hooks: Fallen Temple, Spies. Boons: Burial Rights, Seclusion. Resources: Divine Aura 3. Books: Breviary (Quality 6), Missal. Relics: Saint’s Thigh Bone (Faith Score 3; Cure Blindness power). (29 Build Points)''
+
+|}
+
+===Major Church Hook: Corrupt===
+
+''The church priests are corrupt. The church has an Infernal aura instead of a Divine one. If the corruption is discovered by the archdeacon or bishop, the priests will be excommunicated and replaced.''
+
+===Major Church Hook: Heretics===
+
+''The church priests have heretical beliefs. If discovered, the church is likely to be frequently visited by the archdeacon, bishop, or even a papal legate. The priests run the risk of excommunication and even crusade.''
+
+===Major Church Hook: Jurisdiction===
+
+''The church is a cathedral, archdeaconry, or deanery, and has jurisdiction over dozens or even hundreds of subordinate churches. Regional synods are held at the church at least once a year.''
+
+===Minor Church Hook: Absent Rector===
+
+''The priest who collects the benefice does not live in the parish. The priest’s duties are undertaken by a curate.''
+
+===Minor Church Hook: Incompetent Curate===
+
+''The church curate is incompetent. If discovered, the curate may be removed and the church will be subject to many visitations. This cannot be taken for a major church.''
+
+===Minor Church Hook: Vast Sanctuary===
+
+''By custom, anyone may seek sanctuary within a vast area of land several miles around the church (this may be the entire parish). This means that the priest is often in conflict with the sheriff.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

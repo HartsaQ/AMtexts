@@ -44,8 +44,8 @@
 ==Petty Nobles==
 
 ''A landowner is noble in Hungary, regardless of how small his property is. Land comes to a family in a number of ways: ancient ownership; land grants from the king, the Church, or a nobleman; or invasion of surrounding lands. Inheritance in Hungary is by equal division among sons and grandsons of the property of the deceased. This makes even large estates implode into tiny fragments over generations. The usual way of preventing this is for a nobleman to give his land to a favored relative before he dies, cutting off tiny slivers to give to his other children so they retain their noble status. The royal house does not evenly divide its lands, which allows it to retain its strength. All land in Hungary not owned by the Church or loaned by the King to one of his officers is allodial. That is, it is owned by the nobleman, not held as fief from the king. A noble has no duty to fight on the king’s behalf in order to retain his own land. Many of the lesser members of this group own their land, but perform hereditary duties for it. Many of the greater nobles are counts. As royal officers, they have a duty to fight on the king’s behalf using the resources of their''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Nobility: A Clarification==
 
@@ -54,12 +54,12 @@
 ''service. • Doing what a noble does, via excellent manners.''
 ''A player character can claim to be noble if she has any of these attributes, but other nobles will not necessarily agree that they share status. Note that the victorious premise in this tussle, that the landed are noble, means that many magi are noble, or can become so with trivial effort. This does not require an Oath of Fealty, and so does not breach the Code.''
 
+|}
+
 ==Hungarian Social Classes as Virtues and Flaws==
 
 ''Serfs, udvornici, most free men, and castle folk use the Peasant Free Virtue. Conditionarii are usually Peasants, although some must practice the Ability which is referred to in their condition, and these are best designed as Craftsmen. Castle folk who act as soldiers use the Peasant Free Virtue, but should also select the Warrior Minor Virtue. Hospites usually have the Peasant, Craftsman, or Merchant Free Virtues. Those who are in the royal service are often Educated. Companions who are castle warriors have an Oath of Fealty to the king, and therefore to his local representative, the count. All are at least Warriors, and some are Knights. Player character grogs cannot generally be castle warriors, because they cannot have Story Flaws; a character with this sort of divided loyalty would draw too much story attention to count as a grog. A free man who does not own land, but fights as a horseman in the service of a lord, should take the Knight Virtue and the Oath of Fealty Flaw. Nobility in Hungary is not based on land ownership. Some nobles are simply Wealthy Peasants. A noble who maintains himself only with the aid of rich family members should take Gentleman. A noble''
 ''who can maintain himself as a mounted warrior only with constant currying of favor or raiding is a Poor Landed Noble. A Landed Noble, lacking other Virtues or Flaws, spends two seasons a year on maintaining his lifestyle, with a spare 10 pounds a year for largesse. He may call up ten peasant soldiers (doubled for defensive war) and three other professional horsemen, who will fight for him. A Wealthy Landed Noble has three seasons and 20 pounds per year to spend as he likes. He may call up fifty peasant soldiers (doubled if defensive) and nine professional horsemen. Note that no Oath of Fealty is required of nobles in Hungary. Hungarian nobles tend to have less expensive armor than western nobles. Lords who can call up more men than this are Greater Nobles. Players should discuss their characters with their troupes before designing greater nobles. Counts must take the Oath of Fealty Flaw. Bishops are both Priests and Greater Nobles. Troupes who find that the Oath of Fealty Flaw is preventing the player from taking an alternative and equally interesting Flaw may agree that the Oath will not be used to hook the character into stories, and so another choice may be made.''
-
-|]
 ''county. They are under no obligation, however, to rouse their personal servants.''
 
 ==High-Born Nobility==
@@ -83,15 +83,11 @@
 
 ''Esztergorm is the capital of Hungary, and its largest city. The city is ancient, and was a camp for the Romans, Attila the Hun, and the first king of the invading Hungarians. The Castle Hill (or Várhegy) lies close to the river, allowing fortification and the control of river traffic for taxation. The royal palace lies on the northern edge of the hill. One of the predecessors of the current castle was the birthplace of Saint Stephen, so he is expected to watch over his descendants with particular attention while they dwell here. The current palace was built a few decades ago by Western masons, and is considered a marvel. The court uses it to impress magnates from overseas. When foreign kings visit Hungary, for example when traveling to the Holy Land by overland routes, they are always received here. The center of the hill is topped with a basilica dedicated to Saint Adalbert, who first baptized the royal family of Hungary. This is the throne of the Archbishop of Esztergorm, who is the leader of the Hungarian Church. The Archbishop reserves the right to crown the King of Hungary. The Hungarian Church is, theoretically, firmly allied to the King, but in reality, the Church is highly critical of the King’s laxity with Muslims, pagans, and Jews. The proximity of the royal forces to the throne of the archbishop reduces public tension. The city lies between the hill and river. It has around 11,000 inhabitants, many of whom are foreigners. This large international presence comes from two main sources. The king''
 
-[|
-
 ==King Bela’s Finances==
 
 ''King Bela, the grandfather of the current king, prepared a list of his finances when attempting to arrange a marriage to a foreign princess in the late 12th century. He claimed income of 166,000 marks (110,666 pounds) a year, plus services. He may have been exaggerating for effect, but this is 50 percent higher than the income of the king of France, and double that of the king of England. Bela was ridiculously wealthy, and his income was in silver, not in service or agricultural products. Assuming Andrew’s income is similar:''
 ''• 36 percent of his income (60,000 marks a year) comes from coinage. The money of account in Hungary is the penza, and a penza is equal to 40 pence. Various weights and purities of coin are in circulation. Mark ingots are slightly more common than coins. A mark is divided into fertones (onequarter of a mark) and pondera (oneforty-eighth of a mark). Coins are reminted yearly, and a tariff of one coin in three goes to the king. All mines in Hungary belong to the king. Panning for gold is common in Transylvania, and one-tenth of all gold found is owed to the king. • 18 percent is from tolls for ferries and markets. The main trade routes are to Kiev, Constantinople, and Regens''
 ''burg via Vienna. Eztergorm sits at the junction of these three routes, and is on the obligatory itinerary for foreign merchants of most goods. The main imports are luxuries for the king and his court. One of the main exports is horses. These are lighter breeds, although heavier bloodlines are in development. Every noble who can afford it has a horse stud, as a matter of personal honor. Other exports include cattle, copper, silver, and gold. Slave exports stopped around 20 years ago, likely as part of the king’s drive to populate the fringes of the country. • 15 percent is the portion of the tax of the 72 counties due the king. • 10 percent of royal revenue is from a salt monopoly. Salt is mined in Transylvania in many places, and then carried by boat up the Mures to Szeged or overland to Sãlacea. It is shipped in cubes, and the unit of measure is the tumen, which is 10,000 cubes. The king makes his annual payments to the monasteries founded by the royal family in salt, and the salt cube is used as currency in many areas. • 9 percent is from a tax on the Saxons of Transylvania. • 6 percent is from an annual gift from the counts. • 6 percent is from a tax on Slavonians.''
-
-|]
 ''often hires foreigners to bring skills useful to the court into Hungary, and these servants live in the city to be near their employment. Second, the laws of the kingdom require all foreign merchants to offer their wares for sale at Esztergorm, so that they can be conveniently purchased by the court. Some of these merchants settle in the city, to act as agents and suppliers for their countrymen.''
 
 ==Székesfehérvár==
@@ -99,13 +95,15 @@
 ''This city is surrounded by marshland, which made it defensible in ancient times. When the Hungarians invaded, their king saw the military potential of the place and''
 ''fortified it. Saint Stephen built a basilica here and appointed a bishop. Since that time, it has grown as a center for ecclesiastical learning, with many monasteries, churches, and''
 ''the largest cathedral school in the kingdom. Székesfehérvár is not the capital, but it is the city that the royal family uses for many ceremonial functions. The king is always''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Estate of the Wizards==
 
 ''For as long as records have been kept, there has been a large, elegant building, similar to a Roman villa but three stories high, in the royal capital. Its residents say it was once outside the town, but that the city has expanded around it, leaving a moat of formal gardens. The Estate of the Wizards is a mansio, a place where magi can stay that is maintained by House Mercere. The local nobility know that if they''
 ''have complaints against magi, they can be lodged here. In cases where the right of justice is disputed, the king’s judges and the servants of the magi can contest jurisdiction here. That magi usually interact with mundanes through servants is a traditional right, protected by the Holy Crown of Hungary. Similar mansios are scattered around the Tribunal: some public, many private.''
+
+|}
 
 ==Story Seeds for the Royal Mint==
 
@@ -118,8 +116,6 @@
 ''A problem here is that a lot of faeries make coins, and sometimes mark them with prominent landmarks or the symbols of powerful mortals. A faerie has started spreading coins marked with the sigils of magi, or the mark of their oppidum. How do the players track down not just the faerie, but the coins he has created?''
 ''Missing Minter''
 ''One of the king’s inspectors of coins has disappeared. The king’s minister thinks the man has been taken so that the tests used to uncover forgeries can be extracted from him through torture. The Redcaps become aware of the missing man, and pass the word around the Tribunal. Some oppida want to return the coin inspector to gain favor with the king, others want to the information he has. Some want to make coins, others want to check rumors that the minters have magical items, or techniques, which allow them to perform their duties.''
-
-|]
 ''crowned, and preferably buried, in Székesfehérvár. Important pilgrimages start here. When the nobles gather for a diet (like a parliament), it generally occurs here. Although the king’s treasure is stored in Esztergorm, those pieces which have ceremonial functions are usually kept in Székesfehérvár. The most important of these is the Holy Crown.''
 
 ==Veszprém==
@@ -130,8 +126,8 @@
 ==Village Life==
 
 ''The average village has 30 to 40 households. The houses are scattered about, not confined to streets. Most Hungarians only use their houses for bad weather accommodation, and have tents near their houses that they use in preference. Huts are timberframed, lack windows or chimneys, and have''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Holy Crown of Hungary==
 
@@ -143,7 +139,7 @@
 ''• Fiddles with the ownership of lands he does not personally hold. • Imposes novel methods of justice. • Ignores the traditional rights of Hungarians. • Ignores the rights of foreigners. • Subverts traditional methods of land administration. • Fails in defense of the Christian religion.''
 ''Transylvanian magi have occasionally observed some strange effects due to this system. The Holy Crown, acting as regent for the Virgin Mary, makes it a moral duty for them to resist bad and corrupt nobles. If they do, sometimes miracles aid them. In addition, their right to be tried for crimes under the Code of Hermes is guaranteed by the Crown, a Divine being, not the king.''
 
-|]
+|}
 ''reed thatch roofs. They are recessed a foot into the earth. Famine is almost unknown in Hungary, which is so unusual the Quaesitores have checked for Hermetic tampering with crops. Wheat is plentiful and cheap in this Tribunal. The other main crop is barley. Other grains are rare, but rye is grown in some areas, and millet and oats are grown as fodder. Vineyards have been planted throughout the country, even in completely unsuitable areas, to supply wine for mass as part of the Christianizing process. In traditional Hungarian agriculture, a farmer does not own particular pieces of land. There is so much land that he just plants as much as he can manage, and when it is exhausted, he plants somewhere else. Only the most fertile land is planted, and this is why marginal grains are rare. Most villages have large areas of pasture and woodland at their disposal. Querns are used by individual households to turn grain into flour, rather than mills owned by lords. Villages move as land becomes exhausted. In 1092 a Church council demanded that once a village had a church, it could not move far from it. Only one village in ten has a church, however, and even villages with churches are only tethered to a circle of a few miles about the church. Where the population is densest, the field system is changing over to the open field style found in much of the rest of Europe. Walloon and Saxon settlements look Western, and bring the techniques of urbanization to Hungary. Animal husbandry hasn’t dominated agriculture in Hungary for a couple of centuries, but it still holds a central place in Hungarian culture. There are huge pasturages owned by nobles all across the country. Cattle and sheep are the commonest stock, followed by pigs which are fed on mast. Peasant animals are penned in winter. Peasants are permitted to fish, and sturgeons reach as far up the Danube river as Pozsony and Tokaj. Peasants are allowed to hunt — indeed, in some areas they are required to, because hospites often pay an annual tax in marten pelts, honey, mead, or wax. Bears, wolves, wisents, and aurochs are all found in the Tribunal, and are not reserved for noblemen, as in some other kingdoms.''
 
 ==The Church==
@@ -154,14 +150,10 @@
 
 ''The Church is a major landholder in Hungary. The largest holdings belong to the two archbishoprics, and to the bishoprics of Pecs and Ordea (which keeps the Divine Dexter, the mummified hand of Saint Stephen) The richest and most powerful cathedral chapter is at Székesfehérvár, which keeps the Holy Crown (which is alive, and Divine) and looks after the buried kings of Hungary. Its provost is like a count, with archdeacons administering each county on his behalf. The largest and richest monastery in Hungary is at Pannonhalma, which had 2200 households under its governance in''
 
-[|
-
 ==Witches Don’t Exist (So Magi Are Not Witches)==
 
 ''In the 11th century, King Coloman the Learned passed a law which said simply this: witches do not exist, therefore no trials for witchcraft may be held. The Quaesitors investigated this, as circumspectly as they were able, but were not able to find a Hermetic magus responsible for Coloman’s action. King Coloman’s law persists: witchcraft is not a crime in Hungary. What the Order does is not considered “witchcraft.” It’s treated, in a legal sense, as an ethnic custom, predating the foundation of Hungary. From the perspective of the Crown, magi retain their “customs” and have the right to live by their own laws, and appoint their own judges. The Crown has a similar duty to Saxon peasants, Dutch merchants, the Crusading Orders, the Szelkers, the Pechengs, and various other groups. Magi see to their own law. When they commit offenses in areas where someone else also has a right of law — for example, if a magus kills a Saxon peasant — then, theoretically, the king’s representatives mediate between the relevant judges to decide jurisdiction. Practically, the courts in Hungary operate the same way as courts in other countries: they don’t take cases where they can’t identify, or can’t capture, the defendant. This means that magi are only held to outsider law if they offend the powerful, which is a breach of the Code, allowing magi to deal pre-emptively with their own.''
 ''The greater nobles of the Tribunal know that magi exist, and that they have their own law. They know they can appeal to the judges of the magicians by approaching their ambassadors, Redcaps who dwell in expensive but discreet mansiones in some of the cities. The nobles do not, however, precisely differentiate between folk magicians and magi. The Order finds it easier to deal with minor magicians than expose more of its secrets to the nobility. As a result, the Tribunal polices lesser magicians. Most hedge magicians in this Tribunal know they need to be discreet, or only victimize those unable to interest the Tribunal in their problems. Hedge magicians in desperate trouble with someone else who has the right to dispense justice can claim the right to be tried under the Ancient Custom. This rarely occurs because the punishments in the Code are stricter than those in all other forms of Hungarian law. The Order does not dare to fail in its duty to police its own. The right to do so is guaranteed not by the King, but by the Crown, and the Crown of Hungary is a quasi-angelic presence whose body is co-terminous with the kingdom. The Crown is no more interventionist than its mistress, the Virgin Mary, but compared to the petty mortal kings of Stonehenge or Iberia, it is far more able to bring magi to task if they fail to deliver justice.''
-
-|]
 ''1200. It is Benedictine in its rule, and acts as a motherhouse for many other monasteries. The Church tithe in Hungary is less onerous than in other lands, because of the large lands the Church holds, and the low population of Hungary compared to the Western European kingdoms. The tithe is always collected on grain and wine, and in some places it is collected on other farming or mining products. Tithes are increasingly paid in coin, a recent, but almost complete, innovation. Romanians, being Orthodox, do not pay a tithe, but pay a sheep tax called the fiftieth instead.''
 
 ==Law==
@@ -176,8 +168,8 @@
 ==History==
 
 ''In its history, House Tremere has been plagued by vampires. The biggest threat has been infiltration following the death of a dhampir magus, which has become enough of a problem that House Tremere now forbids its members to take a dhampir as an apprentice. The last incursion was about a hundred years ago when the vampire of a deceased magus sought out dhampirs, had them trained, then killed them to make them into vampires. It was at this time that a famous vampire hunter called Murat of Terezin came to Coeris. He teamed up with Radomir of Tremere and, between them, they rid the House of every last vampire. Murat himself killed the chief of the nest. Radomir and Murat petitioned the Tribunal to form an oppidum devoted to training hunters, and after Murat joined House Ex Miscellanea, the Praeco agreed. Murat’s ace in the hole was an ancient store of initiatory scripts recorded by a Gnostic scholar who had covertly ob''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Founders of the Fectores==
 
@@ -189,7 +181,7 @@
 ''A character could be one of Murat of Terezin’s children, only finding out later in life that she has a dark legacy and is fated to kill her own father. Alternatively, if''
 ''Lexander (see later) discovers that Murat the Younger permitted a vampire to live, this news could bring down the wrath of House Tremere on the oppidum.''
 
-|]
+|}
 ''served a taltós clan for many months. Years of experimentation followed before Murat of Terezin and Radomir had discovered a means by which a Gifted individual could be Opened to the Hunters’ Arts (see Chapter 9: Hedge Traditions). Radomir called these individuals the interfectores, or the slayers, but this quickly became abbreviated to Fectores.''
 
 ==Setting and Description==
@@ -197,8 +189,8 @@
 ''The buildings composing Laniena’s oppidum lie immediately outside the entrance to the largest of the Aggtelek caves in northern Hungary. A few sturdily built houses abut a high semi-circular wall guarding the entrance to Baradla Cave. A thick hedge of black hawthorn has been cultured to surround the homes of the magi and their covenfolk. This complex is a training ground for the Fectores, and it has an arena, several workshops for metalsmithing and carpentry, and its own chirurgeon and apothecary’s laboratory.''
 ''Baradla Cave is over sixteen miles long, and is a maze of twisting passages, blind ends, and obscured chambers, some of which are believed to link up to other caves in the region. Only Lexander has investigated the caves in any great detail, and even he has not been everywhere. All entrances''
 ''he has discovered have been protected with powerful warding enchantments, for Lexander’s favorite training method is to release a supernatural creature such as a vampire or werewolf into the cave, and then send his pupils in to hunt it down through decidedly hostile terrain.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Aggtelek Caves==
 
@@ -213,7 +205,7 @@
 ''Some magi are of the opinion that training Gifted children as Fectores is equivalent to being a delinquent master,''
 ''since they are not being allowed to be all they could be, by being denied Hermetic magic. Laniena maintains they are within the law since the trainees are not members of the Order, and therefore not protected by the Code. As soon as training is complete, they are offered a place within the Order’s aegis, as demanded by the “Join or Die” provision of the Code. Ultimately, it is the opinion of the Tribunal (that is, House Tremere) that matters, and current policy is for Laniena to continue to train Fectores, considering them to be a valuable resource. Three Fectores can be trained in the time that it typically takes to train a Hermetic apprentice, allowing their numbers to swell despite the tradition’s notoriously short life expectancy. In a war against supernatural or magicwielding foes, House Tremere will be ready with Fectores on the front line. Laniena is aware that it exists only on the sufferance of the Tribunal. Should they displease House Tremere, it would be simple for them to be charged with the High Crime of depriving a magus of his magical power.''
 
-|]
+|}
 
 ==Against the Dark Culture and Traditions==
 
@@ -240,5 +232,6 @@
 ''Laniena employs several elite warriors who are trained to fight under the command of a Fector, whether Hermetic or non-Hermetic.''
 ''Bendis''
 ''Bendis is the most capable of the oppidum’s non-Hermetic Fectores. Named after the mother-goddess of the ancient Thracians, Bendis is both warrior and hedge magician. She typically wears leather armor, and carries a bow armed with vampire-slaying arrows. She is a strong leader, and has a hand-picked band of cohorts trained in both weapons and lore.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

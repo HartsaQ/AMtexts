@@ -1,5 +1,5 @@
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Most magi have heard of Claudius Ptolemaeus. He codified the movement of the planets, the names of the stars, and the shapes of the constellations. He invented the gnomon and the globe. But magi interested in astronomy or geography know that Ptolemy accomplished much more than this.''
 ''Ptolemy devised a system that precisely measures the location of any place on the surface of the Earth. Every location is expressed by two values that measure how far north and east the place is compared to an origin point far to the southwest of Europe. A magus skilled in Ptolemy’s techniques can use these coordinates as Arcane Connections to the places that they designate. This allows the magus to travel to these sites.''
 ''Ptolemy published his techniques and around 8,000 coordinates in a work of seven volumes, called The Geography. The last complete version of this book was lost with the Great Library of Alexandria. Small sections circulate in Mythic Europe, tantalizing magi with coordinates that they cannot use. House Mercere has offered 100 pawns of vis for a complete copy of The Geography, and many magi, knowing that it contains the exact locations of hundreds of ancient magical sites, would refuse to sell at that price.''
@@ -19,7 +19,7 @@
 =The Hesperides=
 
 
-|]
+|}
 ''places that no person in Europe has ever seen, because they are so far west, or south.''
 ''In war, Arcane Connections can be used to target Rituals, creating a form of magical artillery. This is far easier with Ptolemaic coordinates, because these cannot be changed. The coordinates also offer peacetime advantages, such as the rapid movement of people and material, up to the size of armies.''
 
@@ -50,8 +50,8 @@
 ''Ptolemy instructs his readers to use his methods to determine coordinates and construct maps with far greater precision than he has. His coordinates for places around Alexandria are perfect, and those within the borders of''
 ''•''
 ''• •''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''the fallen Western Roman Empire are often correct to within a few miles. Coordinates for places outside the Empire’s borders are usually far less accurate than this. As an example, all of the coordinates for Scotland are incorrect.''
 ''The flawed copies that Ladon has sent to Europe contain a few excellent coordinates. He has selected them carefully to demonstrate the usefulness of the system. He hopes this will encourage magi to reassess the origin point, as described below, so that they can derive their own coordinates.''
 
@@ -85,7 +85,7 @@
 ''An Intelligence + Artes Liberales roll, against an Ease Factor of 6, gives the following information:''
 ''Pliny named the Purple Islands because a lichen grows there that can be made into purple dye. Dye is one of the most expensive trade commodities in Europe. He also claimed that the beaches of the islands are plagued with the rotting carcasses of monsters, which the Atlantic constantly throws ashore. One island has a ruined temple filled with doves, dedicated to Juno, but the islands are uninhabited. This means that vis-containing creatures have been washing up on the islands’ beaches for thousands of years, undisturbed. Another island has gigantic buildings, but no inhabitants. (This refers to the Pyramids of Güímar on Ninguaria, but Pliny is mistaken. These are the home of one of the island’s ten wizard-kings.)''
 
-|]
+|}
 ''An Intelligence + Magic Lore roll, against an Ease Factor of 9, gives the following information:''
 ''Hesiod says the golden apples of youth grow on one of the Purple Islands. The goddess Gaea gave the apples to her daughter Hera as a wedding gift. The nymphs of dusk, called the Hesperides, tended Hera’s garden, but would occasionally steal some apples. Hera sent a 100-headed dragon named Ladon to protect the apples and ensure the honesty of her other servants.''
 ''If the Magic Lore roll is 12 or higher, then also give this information:''
@@ -115,8 +115,8 @@
 ''Pluvialia''
 ''Canaria''
 ''Canary Islands''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Some in the Order would suggest that direct rule of the Guan is entirely within the Code. The Guan are not Christians, and their kings are always magicians. This has interesting political ramifications, but these are beyond the scope of this chapter.''
 
 ===Religion===
@@ -148,7 +148,7 @@
 ''El Hierro Ecrós Pluvialia (without rivers, literally “island of rain”)''
 ''San Bronodon no common name Aprositus''
 
-|]
+|}
 ''All meceny can perform the following effects, if assisted by their villages:''
 ''Bless Crops and Harvests: As The Bountiful Feast (ArM5, page135), but only works on the crops of the community of which the meceny is ruler. Call Rain: This is the equivalent of a Creo Auram spell of level 20. It creates a natural, gentle rainstorm that last as long as the ritual continues. Calm Weather: This ritual acts as either Quiet the Raging Winds or The Cloudless Sky Returned (ArM5, page128). Speak With the Ancestors: As Coerce the Spirits of the Night (ArM5 page 153). This ritual only affects the spirits of the character’s family, by birth, marriage, or adoption. Only spirits from bodies that have been preserved with dragonblood lacquer are accessible.''
 ''Each meceny also has two minor effects that are unique to his tribe.''
@@ -185,8 +185,8 @@
 ''The Guan are excellent stoneworkers, particularly for people lacking metal tools or a mining industry. Terracing has created most of the cropland on the islands. Many villages have a simple aqueduct, carved from the rock, which brings rainwater from the mountains down through the village. As Guan families increase in size, they quarry additional rooms into their cavernous homes.''
 ''The Guan do not have metal weapons or armor. Warriors fight naked or in goatskin cloaks. All islanders use sharpened stones and javelins as thrown weapons, and clubs studded with obsidian, shells, or pebbles. The men of Canaria use battle axes with stone blades. Men of Ninguaria use wooden spears with volcanic glass tips. Most Guan also use sticks as dueling weapons.''
 ''Dueling sticks, which are carried as crosiers by Guan shepherds, are manufactured in three lengths. The''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''shortest sticks reach from the owner’s waist to the ground. Medium-length sticks are similar to European staffs. The longest sticks are taller than their owners are. These are thrusting weapons, used like pole arms, and they allow an unusual method of travel. Fit, skilled shepherds can travel across mountainous terrain at seemingly reckless speed, using their crosiers to vault between landing points. This is an expression of the Athletics Ability.''
 ''Guan men duel to settle their differences through a variety of martial sports, which are also pursued for pleasure. A popular sport is for each man to have a set of three rocks, and to take turns casting them at their rival. The rival is supposed to dodge the rock. In some communities a player is disqualified if he moves his feet. In many communities, after the combatants have used all of their rocks, they continue using dueling''
 ''sticks, or by wrestling. Wrestling is also a team sport.''
@@ -229,7 +229,7 @@
 ''Rock (sharpened) Thrown 0 +1 0 +3 5 –1 1 Inexp.''
 ''Javelin (stone-headed) Thrown 0 +2 0 +3 10 0 1 Inexp.''
 
-|]
+|}
 
 ===Emerald Adepti===
 
@@ -243,8 +243,8 @@
 ''The peasant class on the Purple Islands is descended from Berbers.''
 ''They fled Mauritania when their king was murdered, and their land invaded, on the instructions of the Emperor Caligula. Their king, another scholar named Ptolemy, was the son of Cleopatra Selene, the daughter of Cleopatra and Marc Antony. Cleopatra Selene was a priestess of Isis. Cleopatra Selene’s twin brother Alexander, the heir to the throne of Egypt, disappeared mysteriously from history. Many assume he was killed on the orders of Emperor Augustus, but if he fled to the Purple Islands, fragments of Egyptian sun worship may be found in the rituals that the Guan kings use to venerate their solar god.''
 ''Some Arabic accounts claim that on the western shore of Pluvialia is a great statue of a bronze horseman pointing his spear to the west. An ancient script across his chest reads, “Nothing lies beyond.”''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Garden of the Hesperides==
 
@@ -270,7 +270,7 @@
 
 ''Ptolemy calls the westernmost of the Purple Islands “Aprositus,” which means “Inaccessible.” The island is visible, intermittently, from the higher slopes of Junonia and Ninguaria, and is though to be up to 100 leagues long. Different people who have sighted it claim it may be anywhere from 15 to 90 leagues away. If a ship approaches the island, it disappears into the mist.''
 
-|]
+|}
 ''times, concerned with humans. The player characters interest them now, because they might prove useful aides. The Hesperides know that Hera has stopped collecting her apples: the uneaten fruit have grown into the orchard that Ladon still defends. Each Hesperid has her own ideas concerning what has happened to their mistress, and what the correct response should be.''
 ''Each of the Hesperides desires to leave the Garden for a few years to pursue these goals. The Hesperides fear they will face supernatural punishment if the Garden is not tended, and the work requires all three of them. Characters wanting to aid a nymph to leave need to find some other supernatural character willing''
 ''to take up the role of tending the garden.''
@@ -281,8 +281,8 @@
 ===Ladon===
 
 ''Ladon (“swift-flowing”) is a 100headed hydra. He has a copy of Ptolemy’s The Geography, bought to the island by a Criamon magus seeking True West. Ladon has asked the nymphs to carve an interesting Ptolemaic co-ordinate onto each of the apple trees. By resting a head in one of these trees, Ladon can see what is happening at the nominated point. He reports amusing events to the nymphs.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Magic Might: 30 (Imaginem) Characteristics: Int +1, Per +2, Pre''
 ''+3, Com +1, Str 0, Sta +2, Dex +2, Qik +2 Personality Traits: Vary, as guided''
 ''by the description given below. Combat: The Hesperides refrain''
@@ -331,7 +331,7 @@
 ==The Hesperides, Continued==
 
 
-|]
+|}
 ''Dexterity, and Stamina. Slightly before this occurs, the serpentdryad gorges itself on the living vis of magical animals, and then hibernates under its tree for a month, before shedding its skin. At the 60th head, the serpentdryad gains Ladon’s See Power. All serpent-dryads also develop unique abilities in addition to those listed here, which are''
 ''•''
 ''•''
@@ -341,8 +341,8 @@
 
 ''Ladon’s story — that he wants magi to find new coordinates to trade with him — may be true, but it fails to account for an odd story''
 ''from the beginning of the Order. Trianoma, seeking inspiration after failing to interest several magi in her new order, traveled to the end of the world. Her diaries, and the history of her lineage in House Bonisagus, say she “met a dragon in the Garden of the Hesperides, beyond Ethiopia” who counseled her to seek a particular magus, in the Alps. This was Bonisagus.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Magic Might: 45 (Animal) Characteristics: Int +6, Per +6, Pre''
 ''+3, Com +3, Str +3 (heads) +6 (main body), Sta +4, Dex +6, Qik +4 Size: 8 Confidence Score: 3 (12) Personality Traits: Inquisitive +5,''
 ''Loyal to Hera +5, Sneaky +3, Bored +1, Vain +1 Reputations: Dead (Students of the''
@@ -384,12 +384,12 @@
 ==Ladon, Continued==
 
 
-|]
+|}
 ''elemental being. The 100, in the last moments of their lives, bound it as the protector of their mystical treasures. The elemental took its shape from their ritual — 100 heads bound to a single heart — and became the hydra Ladon, guardian of the islands. He entered the service of the Olympians after the Titanomachy: a cataclysmic war of usurpation staged against the primordial embodiments of magic by faeries.''
 ''Ladon has not been permitted to rest, to simply fall asleep, for at least 5,000 years. To be free he needs to find another guardian. No such creature exists now; he was the last of his age. Ladon needs the Order because humans may eventually deserve to live forever and taste the final legacy of the Atlantean Age.''
 ''He is not confident of the Order’s continuing success. The Dominion is too strong for scattered magi, working at their own concerns, to tame. The Purple Islands, and their wizardkings, model the world Ladon wishes to create. By enhancing the Order’s ability to explore, communicate, and travel, Ladon hopes to create a global college of magicians, able to weather the storm he predicts.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Characteristics: Int +2, Per +2, Pre''
 ''+1, Com +1, Str –2, Sta 0, Dex +2, Qik +3 Size: –4 Confidence Score: 1 Virtues and Flaws: Lightning Reflexes, but this is lost once the serpent develops the See Power. Personality Traits: Vary, but usually''
 ''Inquisitive +1 Reputations: Venomous 4 (even if''
@@ -407,5 +407,8 @@
 
 ==Serpent-dryad Base Scores==
 
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

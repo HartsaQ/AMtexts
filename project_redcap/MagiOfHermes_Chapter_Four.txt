@@ -14,13 +14,13 @@
 ''Intuition of the Forest (InHe 10/+28) Converse with Plant and Tree (InHe 25/+ 28) Pass the Unyielding Portal (MuHe 5/+31) Thaumaturgical Transformation of Plants to Iron (MuHe 20/+20) Prune Plant (PeHe 5/+33) Prison Floral (ReHe 4/+44) Ring of Ever Bloom (ReHe 15/+44) Controlled Growth (ReHe 25/+50) Tree Top Walk (ReHe 15/+44) Warmth of the Wood (CrIg 4/+15) Frosted Timber (PeIg 20/+20) Tilled Soil (ReTe 15/+33) Mold the Earth within Sight (ReTe 25/+33) Appearance: At thirty, Gwidion traded his blade of grass for a sturdy walking stick. His skin is still tan, but is starting to wrinkle, although he still dresses more like a farmer then a magus. Activities in the last fifteen years: After much travel in his youth, Gwidion finds an unoccupied forest in which to locate his covenant, far from Durenmar and with only a limited aura. After setting up his lab, Gwidion struggles to help the peasants of the sounding villages as drought and famine wreak havoc. With the aid of his magic, Gwidion is able to help bring bountiful crops in each season and even keep many of the village homes warm during the following winter. During his travels, Gwidion earned 60 experience points in Abilities, 245 experience points in Arts, and designed 145 levels of spells.''
 ''Gwidion +30 Years''
 ''Characteristics: Int +3, Per 0, Pre 0, Com 0, Str –1, Sta +2, Dex –1, Qik –1 Size: –1 Age: 51 (51) Decrepitude: 0 (2) Warping Score: 4 (8) Confidence Score: 1/3 Virtues and Flaws: The Gift; Hermetic Magus; Major Magical Focus (trees); Affinity with Herbam, Affinity with Terram, Educated, Oak Gild Trained, Privileged Upbringing, Skilled Parens, Well-Traveled, Verditius Magic*; Curse of Venus, Twilight Prone; Gild Enmity (oak), Judged Unfairly, Slow Caster, Small Frame * House Virtue Personality Traits: Acquisitive +3, Charming +3, Independent +3 Reputations: None Combat: Dodge: Init –1, Attack n/a, Defense –1, Damage n/a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The World Tree''
 ''The Tree of Life has its roots in every religion and culture throughout the world. Often a symbol of immortality and fertility in Norse mythology, the taproots of this tree are thought to stretch deep down into underworld. Its branches reach high into the heavens, connecting the worlds together. To Jews and Christians the world tree is the tree from the Garden of Eden, from whose fruits eternal life might''
 ''be gained. Gwidion became particularly obsessed with the legend of the world tree after defending some villagers from bandits. He entered Twilight and while there he had a vision of the mighty World Tree. After returning to the real world, he stopped his wanderings and settled into a relatively uninhabited wood to study, to build, and to comprehend the depths of his vision. He has not left the forest since.''
 
-|]
+|}
 ''Fist: Init –1, Attack –1, Defense –1, Damage 0 Kick: Init –2, Attack –1, Defense –2, Damage +3 Soak: +3 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –5 (9– 12), Incapacitated (13–16), Dead (17+) Abilities: Artes Liberales 4 (ritual magic), Charm 4 (being witty), Concentration 4 (lab work), Craft: Gardening 2 (trees), Latin 4 (Hermetic usages), Leadership 2 (inspiration), Magic Theory 5 (enchanting items), Masonry 2 (buildings), Order of Hermes Lore 3 (politics), Parma Magica 5 (Herbam), Philosophiae 4 (ritual magic), Survival 5 (forests), Welsh 5 (storytelling) Arts: Cr 5, In 5, Mu 12, Pe 12, Re 21, An 3, Aq 1, Au 2, Co 1, He 21, Ig 8, Im 3, Me 1, Te 10, Vi 1 Twilight Scars: None Equipment: Gwidion keeps a pair of peasant work clothes in his pack, along with a basic survival kit, and some special handmade portable gardening tools (small rake, clippers, small shovel, etc.) Encumbrance: None Spells Known: Circle of Eternal Spring (CrHe 4/+28) Ladder Of Ivy (CrHe 15/+28) Fast Grow (CrHe 30/+28) Probe Nature’s Hidden Lore (InHe 4/+28) Intuition of the Forest (InHe 10/+28) Converse with Plant and Tree (InHe 25/+28) Pass the Unyielding Portal (MuHe 5/+35) Thaumaturgical Transformation of Plants to Iron (MuHe 20/+24) Gigantic Growth (MuHe 25/+35) Blades of Grass, Leaves of Cutting (MuHe 30/+35) Prune Plant (PeHe 5/+35) Wilt (PeHe 25/+35) Prison Floral (ReHe 4/+ 44) Ring of Ever Bloom (ReHe 15/+44) Controlled Growth (ReHe 25/+53) Tree Top Walk (ReHe 25/+44) Warmth of the Wood (CrIg 4/+15) Frosted Timber (PeIg 20/+22) Tilled Soil (ReTe 15/+33) Mold the Earth within Sight (ReTe 25/+33) Appearance: Gwidon’s skin is deeply wrinkled now, and he leans more heavily on his walking stick, a side effect of starting his longevity ritual so late in life. Activities in the last fifteen years: While he might not get out as much anymore to plow the fields with his fellow covenfolk, his magic is still quite active in the development of vast farmlands. That brings''
 ''in the majority of his covenant’s income. During the summer of his 50th year, Gwidion felt the effects of age at last creeping up on him, so he took a sabbatical from his usual research to trade his skills as a lab assistant for a longevity ritual. The ritual cost him 14 pawns of Creo vis and grants him a bonus of +5 to add to his covenant’s bonus of +1, for a total aging modifier of 6. During this period, Gwidion earned 225 experience in Abilities, 75 experience in Arts, and designed 120 levels of spells.''
 ''Gwidion +45 Years''
@@ -278,12 +278,12 @@
 ===Read Surface Thoughts===
 
 ''As the enchanted item effect described for Water Vines.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Enchanting Giant Plants''
 ''A magus cannot enchant something that does not fit in his laboratory. Gwidion can get around this with his plants by enchanting them while they are young and small, and then using magic to make them much larger once the enchantment is complete. In many cases, the magic to make the plants large is part of the enchantment. In others, it is allowed for in the initial enchantment, so that it does not count as damage to the item.''
 
-|]
+|}
 ''Magi of Hermes Talisman: Gwidion’s Riding Tree''
 ''In his old age, Gwidion found it more and more difficult to go outside the covenant and harvest vis, so he created his Talisman. Gwidion’s Talisman is a (now) fully grown oak, but due to its various enchantments it has become severely Warped over the years, so that its branches resemble hands, its roots feet, and upon its trunk is a great gnarled face whose expression seems to change with the seasons and the moods of its creator. In his advanced years, Gwidion uses the tree to move around his forest and visit the covenant’s farms and bee hives to make sure all is going well. Gwidion has even thought about expanding his tree’s size and then simply building his lab right atop it, but as yet he has not gone that far with the great oak. Vis spent to open: 10 (more vis added later, as a talisman)''
 ''Attunements +7 Protection from Storms''
@@ -311,5 +311,6 @@
 ===Ward Against Heat and Flames===
 
 ''Invested 3 Ignem vis, took 6 seasons to enchant ReIg: 54 Pen +0, constant effect R: Touch, D: Sun, T: Group Keeps heat and fire at bay, unable to approach within one pace of the tree or those riding atop it, rendering them all immune to damage from flames or heat of intensity less than that of molten iron. The target gets a +15 Soak against all fire-related damage. Any fire doing less than +15 damage per round doesn’t penetrate the ward. Such fires simply dim as the tree lumbers past and flare back up after it is gone. (Base 4, +2 for up to +15 damage, +1 Touch, +2 Sun, +2 Group, +1 lvl for 2 uses a day, +3 lvls for environmental trigger (sunrise/sunset), +3 Size)''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

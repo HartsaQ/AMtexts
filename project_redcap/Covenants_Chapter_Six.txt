@@ -34,14 +34,14 @@
 
 =Vis Sources=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Vis Source Yields==
 
 ''Saga Vis Level	 Low	 Moderate	High Low 1 2 4 Moderate 2 4 8 High 4 8 16 Numbers indicate a given source’s yield in pawns per year.''
 
-|]
+|}
 ''here would seem to indicate that this place is some sort of animal graveyard, but the reason that so many beasts come here to die is left to the storyguide’s discretion.''
 ''Some of the maggots that arise spontaneously in the rotting carcasses (animal or human) have a golden coloration and contain Creo vis. Approximately half a dozen such maggots can be collected each summer no matter how many carcasses are placed in the meadow, but one must go through the grim, unpleasant work of rooting around inside the festering corpses to find the maggots with the particular virtue. The maggots only live for about a day before they die, unless they are kept with rotting flesh. In this case, they can survive much longer.''
 
@@ -249,15 +249,15 @@
 ===By Oscar Diez Martínez===
 
 ''Maria was a beautiful young woman who lived in a nearby village. She had''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Distillation of the Purest Stream==
 
 ''ReVi 15 R: Touch, D: Mom, T: Ind Concentrates the essence of a stream of exceptionally pure water into a pawn of Aquam vis. The purity of the stream determines how often the spell may be cast successfully upon it.''
 ''(Base 10, +1 Touch)''
 
-|]
+|}
 ''been in love with a local farmer named Juan since they first met. They wanted to marry but her father was against the marriage because he had promised Maria to Lucas, the mill official appointed by the local baron. To avoid further problems, Maria’s father forbade her to meet Juan. This did not stop the love between Maria and Juan, but merely forced them to meet in secret.''
 ''They used to meet on the shore of a nearby river, near a thick formation of reeds that were swayed by the wind. Maria always reached their secret meeting place first, and sang a tune to indicate to Juan where she was. One day Maria’s father discovered that they met in secret and burst into the lovers’ secret place, accidentally pushing her into the river. Maria’s head hit a rock and she drowned in the stream.''
 ''Since that day, in the season when the winds are strongest, the reeds try to use the air to sing Maria’s song, but they cannot perform all the notes. If somebody completes the melody with the correct notes, the air that goes through the reeds can be harvested to obtain Auram vis.''
@@ -331,15 +331,15 @@
 ===By Nick Simmonds===
 
 ''A nearby town has an elderly wise woman who is critical of the local mayor and his cronies. She’s right to be so, as he’s done a poor job of running the town, and he unfairly favors his friends in disputes. He’s not done badly enough to be run out by the townsfolk, but some have voiced complaints to the parish priest, thus far without result. No one feels that things are bad enough that they can’t be borne. No one, that is, except the wise woman. A childless widow, she feels that she has nothing to gain from silence, and is more than willing to harangue these men. She is kind-hearted, but she speaks her mind, and the coterie in charge of the town has made her angry. They try to avoid her, as''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Sprouting Out of Season==
 
 ''CrHe 20 R: Touch, D: Sun, T: Ind By the use of this spell, the seed of any plant can be sprouted in a single day or night.''
 ''(Base 5, +1 Touch, +2 Sun)''
 
-|]
+|}
 ''she’s too well-respected to deal with as they’d like; from time to time, though, she catches one and brings down on his head a jeremiad that some townsfolk swear can scorch the thatching of nearby homes.''
 ''A magus with Rego Vim magic can catch these rants on a specially prepared comb, where they take the form of a bright red wool that contains Ignem vis. How many pawns are available annually depends on how often she catches one of the mayor’s friends out and about. Clever magi may be able to influence this, but too much invective may cause the mayor to take action. Some magi may also feel obligated to help the town.''
 
@@ -493,5 +493,6 @@
 ''for twenty years or more. No spider has used it since it was newly spun. It happens that this point is adjacent to, or in line with, a laboratory where vis distillation goes on periodically, or else it is close to the place where the magi store the covenant’s vis supply. Over the years, the dust in the vicinity has absorbed something of the surroundings and has collected on the web so that the dusty web, when first discovered, contains Vim vis.''
 ''If the web is removed, another will eventually be spun there and will start to accumulate dust that produces Vim vis. The web must be natural, and in just the right place with just the right orientation, and the time it takes for a new one to appear is variable. The characters have a choice of harvesting a little frequently and then not knowing how long it will be before they can start counting the time again, or of simply being patient.''
 ''Any covenfolk who work in the library need to know about this, especially any servants with the task of keeping the place clean.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

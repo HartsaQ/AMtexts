@@ -30,13 +30,13 @@
 ''''
 ''Aurulentus and his Ancestors''
 ''Aurulentus’ great-great-great-grandfather, Askanius, visited Greece where he met and fell in love with a nymph of Artemis. She bore him his seventh son (named Alexander) and an ageing priest of the goddess revealed to him that every seventh son of his family would hold a measure of Artemis herself in his blood. Furthermore, once seven continuous generations of seventh sons were born, this seventh son in the seventh generation would be able to reshape magic. Alexander started a mission to ensure that in every generation at least seven sons were born. Aurulentus is in the fifth generation. Not surprisingly, his corporeal father took him as his apprentice early in his childhood. At the age of 13, he was told of the full extent of the prophecy and the differing views his ancestors had on how to father seven sons — something that is now also expected of him. Around the age of 18, Aurulentus found the only comfort of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Familiar: Zeno the Tortoise''
 ''Magic Might:  15 Characteristics: Int 0, Per –2, Pre –5, Com –6, Str –1, Sta +5, Dex +2, Qik –5 Size: –4 Virtues and Flaws: Enduring Constitution, Long-Winded, Tough, Unaging; Noncombatant, Poor Eyesight, Reclusive Qualities: Camouflage, Hardy, Shell, Timid, Tireless Personality Traits:  Reclusive +3, Timid +2 Reputations: Aurulentus’ Familiar (Covenant) 2 Combat: Dodge: Init –5, Attack N/A, Defence: –5, Damage N/A Soak: +12 Fatigue Levels: OK, 0/0, 0/0, –2/–2, –4, Unconscious Wound Penalties: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5+) Abilities: Awareness 2 (food), Brawl 2 (dodge), High German 5 (Allemannisch), Latin 5 (Hermetic usage), Greek 4 (archaic vocabulary), Survival 5 (home terrain) Bond Scores: Bronze +3, Silver +1, Gold +1 (CrCo Lab Total 40) Powers: Retreat of Invulnerability, 1 point, Init –5, Ter''
 ''ram: By withdrawing completely into his shell, Zeno becomes invulnerable to all types of non-magical damage and attacks. He could be thrown off a 60-foot cliff, tossed into a huge bonfire, or hacked at with axes; he would emerge unscathed. Grant Virtue (Unaging), 5 points, Init –5, Vim: Zeno can grant a single person the virtue Unaging for as long as he deems appropriate. Cancelling this effect takes one round of concentration and can be done without Zeno being able to sense the recipient and also without his consent. See Guardians of the Forests, page 32. Familiar Powers: Mental Communication: Zeno and Aurulentus are in constant mental contact, and can exchange words, images, and emotions. (CrMe 15: Base 4, +1 Touch, +10 levels unlimited uses/day) Vis: Two pawns of Creo, in shell Appearance: A turtle of about 20 cm in length with a brownish, slightly drably colored shell. Along the back of the shell, 15 lumps are visible, which could be mistaken for spine bones.''
 
-|]
+|}
 ''his youth: Semira, the daughter of a Latin instructor. Because of this love, Aurulentus revised his understanding of the prophecy: the only woman whom he wanted to have children with was Semira. In order to have seven sons with one and the same woman, it was necessary to guarantee the health and fertility of both man and woman for a sufficiently long time, prompting his research into Creo and Corpus magics. During his career, Aurulentus invents numerous spells concerned with childbirth and healing, as well as creating a number of items and spells designed to facilitate the daily life of a mother of many children. His most impressive feat, however, will be the invention of a Longevity Ritual that preserves his fertility.''
 ''Longevity Breakthrough''
 ''If you use the Original Research rules from Houses of Hermes: True Lineages, page 26 these are the steps used by Aurulentus to complete his Minor Hermetic Breakthrough. He gained valuable breakthrough insights from the following research: studying the Bronze Cord of his familiar, exploring the''
@@ -86,15 +86,15 @@
 ===The Maculate Noblewoman===
 
 ''InCo 15 R: Touch, D: Mom, T: Ind Accurately determines the underlying reason for the infertility of the target. Aurulentus successfully used this spell to compare two groups: those infertile from natural causes and those rendered infertile by a Longevity Ritual. Exploring the fundamen''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Family Tree''
 ''Below is a short list of Aurulentus’ ancestors, each generation using a different approach to sire seven sons. Generation 1: Alexander. Alexander believes that in order to fulfill the prophesy, he may not use any magical “tricks” — Artemis is the patroness of women and children. He uses his natural charm to sire seven sons with different mothers. Generation 2: Antipater. He has considerable difficulties fathering seven sons, and dies in bed with a woman just after the conception of his seventh. Generation 3: Alboin. Alboin realizes that charm alone nearly failed his father, and starts to use passive Corpus magic to provide surveillance and protection from diseases. He argues that Artemis couldn’t''
 ''be against the use of passive magic, as long as the women participate voluntarily. Generation 4: Altus. He no qualms about using Mentem and love magic to manage the, by now large, family and to father his seventh son. Generation 5: Aurulentus. Wishing to sire all of his children with his True Love, Aurulentus believes that developing a Longevity Ritual that does not render the target infertile is the best way to fulfil the prophecy. Generation 6: Arbus Tutus. The seventh son of Aurulentus. So far, he has only managed to sire two daughters and does not seem too keen to father more children ... indeed, he does not seem to be too keen on other women.''
 ''The Prophecy: A Faerie Game?''
 ''What happens after (or if) the seventh son in the seventh generation is born? Maybe nothing — the priest of Artemis and the nymph both could have been faeries who started a bet to see if they could fool seven generations of magi.''
 
-|]
+|}
 ''tal differences between these two groups, he was able to gather further insights for his breakthrough. (Base 10, +1 Touch)''
 
 ===Verifying the Presence of Artemis’ Blessing===
@@ -206,5 +206,6 @@
 ''PeCo 14 Pen +0, unlimited uses/day R: Touch, D: Mom, T: Ind This razor, although blunt, will remove any and all body hair where it touches the skin of a human. The item has no penetration built into it, so a magus has to suppress his Magic Resistance while shaving. Aurulentus’ wife had always complained that his beard growth was too strong; after a twilight experience his facial hair growth increased manyfold and Aurulentus invented this lesser enchanted device to keep it under control. (Base 3, +1 Touch, +10 levels unlimited uses)''
 ''Traveller’s Comfort''
 ''ReAu(Ig) 24 Pen +0, constant effect R: Touch, D: Sun, T: Ind This sturdy and nondescript travelling cloak protects the wearer from rain and keeps him comfortably warm by keeping bodily warmth inside the cloak. Aurulentus invented the cloak as an invested item after his wife caught a cold from walking in the rain to visit him. (Base 4, +1 Touch, +2 Sun, +1 Ig requisite, +1 level 2 uses/day, +3 levels environmental trigger)''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

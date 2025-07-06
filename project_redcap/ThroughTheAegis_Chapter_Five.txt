@@ -1,5 +1,3 @@
-
-[|
 ''Few visitors come to this mist-shrouded valley in Hibernia’s northern Ulaid province, but it is home to faeries who live deep underground in the dark, giants, and an isolated and insular covenant of magi. Deep in Winter, the covenant of Longmist is dominated by two elder magi, one living at the top of the tower in the light and air, and the other in the cellars and cisterns amid the dark and the earth. Its magi live life according to a strict rule describing the structure of their days, their conduct, and even their studies. Despite this, Longmist is a conflicted covenant, bereft of leadership, and destined to fall in on itself; reprieve from Winter seems unlikely. Perhaps there is another way. As the elders continue their descent into Twilight and infirmity, the younger magi of the covenant could chart a course between the extremes represented by their elders. But will they work together to govern by accord, or will they succumb to the same in-fighting that has blighted Longmist for the last two generations? Winter may be inescapable, but the magi have it within their power to weather the storm.''
 
 ==History==
@@ -14,14 +12,16 @@
 
 =The Covenant of Longmist=
 
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Year Founded: 927 Season: Winter Symbol: A Wolf Pelt Cathach: The pelt of a Bjornaer Wolf''
 
-|]
+|}
 ''tower was conjured through ritual during Longmist’s long summer and is the work of a long-since dead Verditius specialist. Mystical Allies (Major Boon): Longmist’s name carries weight with the Fir Bolg of Ireland, with airy spirits of the land and sky, and with the non-Hermetic druids of Connacht. Aura x2 (Minor Boon): The covenant’s general aura is five. Seclusion (Minor Boon): Long before the Normans came to Ulaid, the people of that land learned not to interfere with the druids of the long mists, and so the covenant receives few visitors to the valley that shrouds it. Small Tower (Free Choice): The visible expanse of Longmist is a relatively small tower surrounded by walls. The walls offer some security but are not defensible against determined opposition. Divided Loyalty (Major Hook): The remaining covenfolk have loyalty to one of the two elder magi of Longmist. They hope to receive favor by supporting one over the''
 ''other. This extends to the younger magi too, and perceived allies of one elder magus may be treated with suspicion by servants of the other. Fractured Council (Major Hook): The council is in deadlock. The position of princeps is vacant and both of the elder magi desire it. The younger magi may be called upon to undertake tasks for these opposing masters and must chart a careful course between them. Contested Resource (Minor Hook): All Hibernian covenants must have a Cathach, or trophy, to prove their connection to Ireland and their worthiness to hold their lands. It must be kept outside the Aegis as a challenge to those who would test themselves against the covenant. In this case, Longmist’s Cathach is the pelt of a Bjornaer magus, ancestor to a covenant of Bjornaer wolves. The continued display of the pelt is an insult that has never been forgiven. Crumbling (Minor Hook): The covenant is poorly-maintained, with plaster''
 ''and mortar flaking from the walls, gates rusted shut, and doors and window shutters warped and ill-fitting. Deathbed Visitor (Minor Hook): The local Ulaidh people fear the cry of the banshee as it heralds a doom. There are few things that would drive the mundane to the walls of Longmist, but the ungodly wail foretelling death is one of them. The covenant itself is not immune from the banshee’s power and it may be heard circling the valley, portending the death of one of the covenfolk. If the magi can capture the banshee, however, they may be able to prevent the death. Dwindling Resource (Minor Hook): For years, the walls of Longmist have produced raw Vim vis. But the yield has recently been falling. Whether this is because the aura is generating less vis or the covenfolk have become less adept at finding it isn’t clear. This Hook applies to the From the Very Walls Themselves vis source as described later. From the start of play, the source loses 10% of its yield each year.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Hibernia==
 
@@ -31,7 +31,7 @@
 ''Ireland has not always been populated by man. In years gone by Ireland has seen a number of “invasions”, each of which has seen power change hands and the incumbent peoples marginalized. The Fomórach (pronounced FUH-mowrakh, singular Fomóir, FUH-mowr) are the original peoples of Ireland. In their day they were powerful giants, and they fought with all the subsequent tribes who came to Ireland, eventually being defeated. Those who remain in the mortal realm now live in the kingdom of Tír Fhomóraig, an island off Ulaid’s northern coast. Fomóir characters are Magic Humans (Realms of Power: Magic, page 32) possessing the Giant Blood Virtue. All have obvious deformations, but no two fomórach are the same. They have been cursed that they may not set foot on Irish soil. The Fir Bolg were the first to divide the''
 ''land into the four provinces. Having been defeated by the Túatha Dé Danann, they were given their choice of province in which to live. The Fir Bolg chose Connacht and then withdrew from the rest of Ireland. They have since been forced even from Connacht, and most live on the Isles of Aran off Connacht’s west coast where they scrape a hard living in the wind-ravaged soil. The Fir Bolg are Magic Humans and were once tall, handsome, and mighty. While subject to the Fomórach, their blood mixed with that of the giants and only the Fir Bolg royal lines are now free from Fomórach deformities. The Túatha Dé Danann are the offspring of humans, bested by the Fomórach and driven from Ireland. They worshiped the continental Celtic faeries and from them learned of art, warfare, and magic. On their return to Ireland, they drove the Fir Bolg to the west and defeated the Fomórach, cursing them with baneful circumstances should they set foot on Irish soil again. The humans native to Ireland in 1220 are the Sons of Mil. Mil was a knight whose sons were prophesied to rule over Ireland. His armies, led by druids, eventually defeated the Túatha Dé Danann and drove them underground, out of the sunlight and into the night.''
 
-|]
+|}
 ''Faerie Court (Minor Hook): The kings and princes of the Túatha Dé Danann take an active interest in the magi of Longmist, especially Conchobor and those who support him. They provide service to Conchobor, including maintaining a watch over the Cathach, but they frequently ask for service in return. Superiors (Minor Hook): The younger magi have few rights over the covenant’s resources. Requests for access or use must be put before the council and an inquorate council or veto from an elder means that the resource may be withheld. Negotiation and service is often required.''
 
 ==Magi==
@@ -43,8 +43,8 @@
 ''The two elder magi living at Longmist have been designed as NPCs able to guide and direct the player characters.''
 ''Lugh-éccnaid of The Younger House''
 ''Lugh-éccnaid of The Younger House, or House Ex Miscellanea to those outside Hibernia, occupies the top-most levels of the tower and watches all that goes on within the covenant. He considers himself the rightful leader of Longmist. He had been a vocal opponent to the influx of continental magi over the last 50 years, but in time, as he lost the argument, he stopped attending Tribunals and ceased correspondence with many friends turned enemies. His concern comes from seeing Ireland’s future in its past. Just as with the Fir Bolg, the Túatha Dé Danann, and the druids, he sees a time when the native Order will be sidelined and their Peripheral Code replaced by one from the continent. He has written a number of polemic texts that stress the independence of his Ordo Hiberniae. His aim is to see Hibernia secede from the Order and determine its own Code. He calls for residency to be limited to those magi who can trace their presence in Hibernia at least three generations back. Those who cannot should be re''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Covenant Summary==
 
@@ -56,7 +56,7 @@
 ''Many magi have called Longmist home, but only six remain. So what happened to the others? Here are some notable magi, the years they were active at Longmist, and notes on their fates.''
 ''Magus   Years  Notes Niall of the Younger House 927 – 1011 Founder of Longmist, negotiated peace with thedruids. Fergus of Merinita 927 – 1014 Founder of Longmist, forged the alliance with the Túatha Dé Danann. Hannewalt on Bar 937 – 1049 First of the Tytalus lineage to join Longmist. He came from England and brought with him       magic and rituals for perceiving and crossing boundaries. Marcus Cordo of Flambeau	 967 – 1002 The only Flambeau to have joined Longmist, killed along with his apprentice during the       Bjornaer raid that claimed the shield of Cú Chulainn. Cearnach of Verditius 978 – 1064 Faerie-blooded smith who brought the Verditius lineage to Longmist. Wielded the blade      that took the Bjornaer pelt that now serves as the covenant’s Cathach. Retired to Verdi       on training an apprentice to continue the line. Astwick of Bonisagus 1027 – 1070 Suspected of sharing the covenant’s magical secrets with others. He was ultimately      forced from the covenant, but he took his written works and researches with him,       spending the rest of his days cloistered in Durenmar. While he trained an apprentice       during his years at Longmist, no remnant of his lineage remains. Faventinus of Verditius 1087 – 1164 Creator of the Bronze Man automaton that stands in the covenant courtyard. It was       once assumed that his magic died with him when he succumbed to Final Twilight. Calvacius of Tytalus 1125 – 1218 Parens to Mícheál Amhreaidh, he disappeared from the covenant two years ago.       Conchobor’s investigations showed that Calvacius had fallen into Final Twilight. Tadhg an Tuir of Verditius 1128 – 1218 Parens to the Cailleach, Tadhg died nearly two years ago after his Longevity Ritual      failed. He suffered an aging crisis from which no magic could pull him back. He is buied       at Qui Sonant Pro Quieto.''
 
-|]
+|}
 ''moved. These texts have not been placed in the library and indeed none have yet been circulated to the Tribunal, though that may be about to change. As covenant Propraetor, he has final say over the covenant’s external relationships with mundanes, druids and hedge wizards, other covenants, and so on. He has used this influence to close down relations with magi and covenants taking a lenient view on the influx of foreign magi in the last 50 years, becoming a major contributor to the covenant’s continued isolation. Away from politics, his Corrguineach lineage (Houses of Hermes: Societates, page 109) means he is well-versed in the summoning of spirits, which he employs as his eyes, ears, and agents. He has a number of Aegis tokens that he uses for this purpose, granted to the spirits and retained in his sanctum. In addition, he is Longmist’s specialist in Corpus and the covenant’s crafter of Longevity Rituals, Laboratory Texts for which can be found in the library. A vain man, Lugh swathes himself in youthful illusion through an enchantment in his talisman. He has read in the Lebor Feasa Runda that those who drink of the well called Tobar Segais, on the plain of Mag Mell, on the island of Tir Na nÓg, ruled by the giant Fomórach, will live forever. His age hangs heavy upon him, and he may soon look to his filius to fetch him some of that water. He currently benefits from a +13 Longevity Ritual bonus, but he is aware that his age is outstripping his ability to hold nature at bay.''
 ''Conchobor Crosach of House Merinita''
 ''While Lugh lives at the top of the tower, Conchobor has his sanctum and laboratory beneath ground amid the cellars and the cisterns, and it has been many years since he has left the covenant. It is here that he holds council with Túatha Dé Danann princes and ambassadors, deep underground away from the light. Conchobor considers that these links to the Túatha Dé Danann make him Longmist’s natural leader. As with Lugh, Conchobor is an isolationist, but his concerns stop at the covenant gates; let Hibernia look to itself and let those who would assault Longmist look to their chances. He is allied with the Túatha Dé Danann and shares their enmity toward the Fir Bolg and the distorted giant Fomorach. He can be a demanding man and''
@@ -68,14 +68,16 @@
 ''of working. Lugh-éccnaid has seen her handiwork and is not impressed, believing that her design strays from that expected of a Longmist maga. The Cailleach spent some of her macgnímartha as a laboratory assistant to an itinerant magus of House Verditius called Peter, time she spent learning more of her House’s secrets ahead of her Initiations.''
 ''Dara Connachtach of The Younger House''
 ''The youngest of the magi and the most recently gauntleted, Dara is often treated as an inexperienced junior, despite being just three years younger than the Cailleach. Once apprenticed to Lugh, Dara is one of the Corrguineach (Houses of Hermes: Societates, page 109), and as such he summons, bargains with, and controls elemental spirits. He has also spent some time among the druids of Connacht and even the Fir Bolg.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Designing Your Own Magi==
 
 ''You could create your own magi instead of using the four younger magi described here, and there are specific story roles that could be filled:''
 ''The maga Cailleach Dhé Dherg provides an impetus to explore Longmist’s Verditius heritage and could be a focus for rebuilding the covenant’s magical assets. The magus Dara Connachtach provide a cultural link back to Connacht, providing reasons for either exploring that province outright or at least in reestablishing links to the hedge wizards and druids who live there. As a member of House Merinita, Eochaid Dubh provides an obvious link between the covenant and the faeries found across the valley and beyond. Mícheál Amhreaidh has a responsibility to the covenant. He represents covenant tradition as passed down through the generations. As such, he is an obvious future leader, one who may need to balance progress with tradition.''
 ''These places within the covenant’s story are independent of whether the individual magi want to maintain their seclusion or participate again within the Tribunal and they are independent of their view of the magi arriving from the continent. Magi with strong views on those subjects also enhance story potential at Longmist.''
+
+|}
 
 ==Lugh-éccnaid==
 
@@ -94,8 +96,6 @@
 ''Whispers Through the Black Gate InCo(Me) 25 Pen +0, Unlimited R: Touch, D: Concentration, T: Individual As per the spell in ArM5, page 130. (Effect: Base 5, +1 Touch, +1 Concentration; Modifications: +10 Unlimited Use)''
 ''The Youthful Visage MuIm 14 Pen +0, 12/day R: Personal, D: Sun, T: Individual Despite Lugh’s years, this effect returns his youthful appearance, becoming once more a man in his early thirties. In his vanity, he is rarely seen without this effect in operation, but mindful of additional Warping he suspends the effect when alone. (Effect: Base 4, +1 Concentration; Modifications: +4 for 12/day, +5 device maintains concentration)''
 ''Attunements: Agate: +3 Air Agate: +5 Protection from Storms Staff: +2 Repel things Staff: +4 Control things at a distance Staff: +4 Destroy things at a distance''
-
-|]
 ''During his macgnímartha or “beardless years”, he took to traveling with a man called Brea, schooled in spirits. Against his advice, and at the prompting of bravado, Dara summoned a spirit that he could not then control. The spirit, angry and powerful, attacked the pair. While Dara ran and escaped the druid lost his life to the spirit. Dara has not told anyone within Longmist of this secret shame. He respects and fears his parens, and knows about the books that Lugh has written, but does not share Lugh’s view of the Order.''
 ''Eochaid Dubh of House Merinita''
 ''Once apprenticed to Conchobor, Eochaid is an accomplished illusionist, and he has so far eschewed the Merinita Mysteries in favor of improving his understanding of Imaginem. Uncertain how much further he has to travel on that path, he is now coming round to the idea of learning more about his Merinita heritage. Eochaid is easily led and has a weakness''
@@ -103,8 +103,8 @@
 ''Mícheál Amhreaidh of House Tytalus''
 ''Mícheál is the covenant’s Censor, or master of rituals, and in a covenant that''
 ''strongly promotes communal spell-casting, Mícheál leads the communions. Unlike the other magi of Longmist, who are all nominally Christian, Mícheál has been taught a different path, one of veneration to the goddess Domnu. Rationally, he understands the power of the Dominion and understands that the entity he knows as Domnu is one of the primal Kosmokrators (Realms of Power: Magic, page 109) and as such subject to a greater power, but through years of tuition and study he accepts his faith in her power. He believes that the old magics of Ireland hold promise for the future and would like one day to see them integrated with Magic Theory, if not by his hand then perhaps under his sponsorship. His future talisman is a circlet of silver, into which are embedded numerous jewels and precious stones, a crown purportedly from the old times. It has been owned by generations of the covenant’s Censors, each disenchanting it before passing it to the next so that they may attune it as their own talisman. Mícheál views his wardship''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Conchobor==
 
@@ -113,7 +113,7 @@
 ''bossed and patterned around the edges. Spells Known: Image of the Beast (InAn 5) +34 Opening the Tome of the Animal’s Mind (InAn 25) +34 To See as Others See**** (In(Re)An 45) +45† The Gentle Beast (ReAn 25) +45† Viper’s Gaze (ReAn 15) +31 Mastering the Unruly Beast (ReAn 25) +45† Ward Against the Beasts of Legend (ReAn 25) +45† Voice of the Lake (InAq 25) +27 Gathering of the Stormy Might (ReAu 40) +35† Stir the Slumbering Tree (MuHe(Me) 25) +14† Lord of the Trees (ReHe 25) +41† Calling the Council of the Trees (Re(In)He 45) +47† Tales of the Ashes (InIg 5) +26 Leap of the Fire (ReIg 10) +29† The Obedient Fire (ReIg 20) +29† Prying Eyes (InIm 5) +26 Summoning the Distant Image (InIm 25) +26 Veil of Invisibility (PeIm 20) +17 Wizard’s Sidestep (ReIm 10) +23 Silence of the Smothered Sound (PeIm 20) +17 Sense the Feet that Tread the Earth (InTe 30) +29 Stone Tell of the Mind that Sits (InTe 30) +29 Earth Shock (ReTe 30) +26 Sense of Faerie Power (InVi 2) +31 Sense of Magical Power (InVi 2) +31 Opening the Intangible Tunnel (ReVi 30) +28''
 ''**** Houses of Hermes: True Lineages, page 139 † Focus applied''
 
-|]
+|}
 ''of the crown as an honor and is keen to design his own effects one day to increase its growing lore. He spent his macgnímartha traveling between old pagan sites across Hibernia, and his devotion to the old religion is known across the Tribunal. A decisive moment happened during this time: he was found and set-upon by Longmist’s traditional enemies; a covenant of Bjornaer magi. Gravely wounded, he was eventually rescued by a Fir Bolg war band. He has held a deep antipathy for all Bjornaer magi since then. His role as Censor makes him responsible for ensuring that the other younger magi behave as expected.''
 
 ==Notable Covenfolk==
@@ -125,8 +125,6 @@
 ''Given the covenant’s isolation, there are only two companion characters currently associated with Longmist.''
 ''Bran in Gai Móir''
 ''Bran is the turb captain responsible for ensuring that the grogs carry out their duties. He is distrustful of Conchobor’s allies so naturally favors Lugh. He is married to Ailbhe, a woman eight years his junior, but they are childless. Bran blames the magi, suspecting that they have enchanted him in some way. As he is not yet''
-
-[|
 
 ==Conchobor (Cont’d) Conchobor’s Talisman==
 
@@ -154,6 +152,8 @@
 ''• The light glows white in the presence of a Dominion aura. • The light glows red in the presence of an Infernal aura. • The light glows blue in the presence of a Magical aura. • The light glows green in the presence of a Faerie aura.''
 ''(Effect: Base 3, +1 Concentration; Modifications: +3 linked trigger, +5 device maintains concentration, +10 unlimited use)''
 ''Attunements: Wand: +2 Repel things Wand: +3 Project bolt or other missile Wand: +4 Control things at a distance Wand: +4 Destroy things at a distance Lamp: +7 Produce light Lamp: +4 Create fire''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Eochaid Dubh==
 
@@ -168,7 +168,7 @@
 ''Casting Sigil: A misty outline of the target is formed between caster and target, before dissipating. Voting Sigil: An iron disk, thick and roughly beaten. Spells Known: Charm Against Putrefaction (CrCo 10) +7 Whispers Through the Black Gate (InCo(Me) 15) +10 Words of the Unbroken Silence (CrMe 10) +9 Reveal the Lingering Spirit (InMe 20) +12 Lay to Rest the Haunting Spirit (PeMe 10) +13 Tip of the Tongue (PeMe 5) +13 Wizard’s Communion (MuVi 15) +8 Demon’s Eternal Oblivion (PeVi 10) +11 Dreadful Bane of the Fae (PeVi 10) +11 Lash the Wayward Spirit (PeVi 10) +16* Circular Ward Against Demons (ReVi 10) +11''
 ''Lash the Wayward Spirit PeVi 10 R: Voice, D: Momentary, T: Individual As per Demon’s Eternal Oblivion, described in ArM5, page 160, but for magical spirits. (Base, +2 Voice)''
 
-|]
+|}
 ''subject to a Longevity Ritual, their childlessness is nothing to do with that particular enchantment. As loyal as he has been, his resentment is growing and he might soon confront them. When he does, the magi may feel the need to research fertility magic in order to help. He has been trained in the Clesa by Úathach of the Túatha Dé Danann. These supernatural feats of martial prowess have been used in Ireland since before the times of Cú Chulainn in the age of legend. More details on the Clesa can be found in The Contested Isle: The Hibernian Tribunal.''
 ''Éamonn Cruittire''
 ''Éamonn Cruittire mac Aindileas Uí hEódhasa comes from the line of Baile Uí Eódhasa, magical Ulaidh bards, or filídh. Like his forefathers, he has the power to enchant others through his storytelling, a power that has been passed from father to son. He has spent many years memorizing stories, mostly of ancient battles, feuds,''
@@ -181,8 +181,8 @@
 ''A fallen priest, Columb’s diabolic excesses were finally discovered by Calvacius and Tadhg an Tuir of Longmist. He threw himself on their mercy and, for reasons that remain unclear, the magi stayed their hand and brought him back to the covenant where he now acts as priest and confessor. He is 70 years old, though he appears 65, with the protection of a Longevity Ritual with a –4 bonus. He has Communication of +1, Teaching (Infernal Lore) of 6, and both Infernal and Dominion Lore of 8. He costs 15 Build Points. The library contains a Laboratory Text for his Longevity Ritual. As described below, a further 108 Build Points were spent to outfit his chapel.''
 ''Cathal Gobha, the Blacksmith''
 ''Cathal is 40 years old and has been under the protection of a Longevity Ritual for the last five years. Warping has made him Offensive to Animals, so he tends to leave''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Mícheál Amhreaidh==
 
@@ -190,7 +190,7 @@
 ''Abilities: Artes Liberales 3+2 (Ritual magic), Athletics 2 (running), Awareness 2 (determining effect), Brawl 2 (fist), Code of Hermes 2 (wizards’ marches), Concentration 3 (spell concentration), Finesse 3 (precision), Infernal Lore 2 (demons), Gaelic 5 (prose), Latin 4 (Hermetic usage), Leadership 2 (magi), Magic Lore 3 (magical traditions), Magic Theory 5 (Vim), Organization Lore: Covenant of Longmist 2 (history), Parma Magica 2 (Vim), Penetration 3 (Vim), Philosophiae 3+2 (ceremonial magic) Arts: Cr 6, In 4, Mu 4, Pe 5, Re 6, An 4, Aq 0, Au 1, Co 5, He 0, Ig 1, Im 0, Me 4, Te 0, Vi 8 Equipment: Satchel of prepared casting props*** ***	 These are prepared props suitable for each of the spells he currently knows, and include candles, herbs, auspiciouslyshaped stones, and transcripts from the Vita Magnae. These count as medium props and give a +3 bonus to spells cast ceremonially. Given their size, Mícheál can carry props for three spells in his satchel, and he must choose before venturing out. If he has a packhorse, which the covenant currently lacks, he can take props for each of his spells.Encumbrance: 0 (0) Appearance: Always frowning, either in disapproval or in deep thought. His thinning hair is kept short and his''
 ''robes, over which he wears a white tabard, are always clean and free from wrinkle or blemish. Beneath his robes, he carries the scars of many bites and gashes inflicted upon him by the Bjornaer rogues who assaulted him. Casting Sigil: The target tremors slightly through the duration of the casting, which causes it to shed a light mist, like shaking stonework sheds dust. Voting Sigil: A small disk of gold with the impression of a crown punched into it. Spells Known: Doublet of Impenetrable Silk (MuAn 15) +12, Mastery 1 (ceremonial casting) Bind Wound (CrCo 10) +15, Mastery 1 (ceremonial casting) The Chirurgeon’s Healing Touch (CrCo 20) +26, Mastery 1 (stalwart casting) Disguise of the New Visage (MuCo 15) +13, Mastery 1 (ceremonial casting) The Wound that Weeps (PeCo 15) +13 Sight of the Transparent Motive (InMe 10) +11 The Unseen Porter (ReTe 10) +10, Mastery 1 (multiple casting) Wizard’s Communion (MuVi 30) +15 Demon’s Eternal Oblivion (PeVi 15) +17, Mastery 1 (penetration) Circular Ward Against Demons (ReVi 20) +19, Mastery 2 (ceremonial casting, penetration) Watching Ward (ReVi 30) +29, Mastery 1 (stalwart casting)''
 
-|]
+|}
 ''any farrier work to his son for fear of spooking the horses. Unfortunately, consistent with the sense of lethargy across the covenant, Cathal’s forge is rarely active. He has Communication of 1, Teaching (Blacksmith) of 6, and a Craft: Blacksmith of 8. He costs 15 Build Points. The library contains a Laboratory Text for his Longevity Ritual. His workshop costs 45 Build Points as it has been enhanced to provide an Innovation Score of +3 and a Raw Materials Score of +2, both of which are added to the craftsman’s Workshop Total as described in City & Guild, page 65. This allows him to create Superior quality goods. His son (Cináed mac Cathail) is his only apprentice. See below for more details on Cináed.''
 
 ==Specialists==
@@ -198,8 +198,8 @@
 ''Although they are not suitable as teachers, the covenant nonetheless has a number of significant specialists costing 103 Build Points.''
 ''Úna, the Herbwife''
 ''Úna is the covenant’s wise woman, knowledgeable about ailments and the herbs that cure them. She is 40 years old and has refused magical intervention in her aging, considering that her own knowledge of herbal compounds is sufficient to maintain her health and well-being. With an Intelligence of +1 and a Profession: Herbalist score of 7, she costs 7 Build Points. She also has a Chirurgy score of 5 and is frequently''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Partholon’s Crown==
 
@@ -208,6 +208,8 @@
 ''It has been disenchanted and is now ready to be opened for enchantment, but this requires a minimum of 20 pawns of vis and a Magic Theory score of 10. After passing through the possession of generations of magi, there are a number of laboratory texts that describe effects that can be enchanted into the crown, but these must be added before the device is attuned as a talisman if Mícheál is to take advantage of them. Alternatively, Mícheál could break with tradition and create his own talisman, although such a course of action would be met with disapproval by the elder magi.''
 ''Effect    Level     Details Aura of Rightful Authority  ReM20     ArM5, page 151 Strings of the Unwilling Marionette ReCo 25    ArM5, page 135 Calm the Motion of the Heart  PeMe15    ArM5, page 150 Sense the Lingering Magic  InVi30     ArM5, page 158 Piercing the Faerie Veil   InVi20     ArM5, page 158 Haunt of the Living Ghost  CrIm35    ArM5, page 144''
 
+|}
+
 ==Bran in Gai Móir==
 
 ''Characteristics: Int 0, Per 0, Pre 0, Com 0, Str +1, Sta 0, Dex +2, Qik +2 Size: +1 Age: 34 (34) Decrepitude: 0 Warping Score: 0 (4) Confidence: 1 (3) Virtues and Flaws: Knight; Faeborchless*; Large, Reserves of Strength, Warrior; Difficult Underlings; Covenant Upbringing, Prohibition (Must not suffer a dog in his house) * Described below Personality Traits: Daring +3, Conflicted Loyalties +2, Boastful +1 Combat: Dodge: Init –1, Attack n/a, Defense +6, Damage n/a Fist: Init –1, Attack +7, Defense +7, Damage +1 Dagger: Init –1, Attack +8, Defense +6, Damage +4 Sparra & Round Shield: Init +0, Attack +12, Defense +10, Damage +7 Long Spear (mounted): Init +1, Attack +14, Defense +10, Damage +6 Long Spear: Init +2, Attack +9, Defense +7, Damage +8 Soak: +9 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–6), –3 (7–12), –5 (13–18), Incapacitated (19–24), Dead (25+) Abilities: Area Lore: Ulaid 4 (geography), Athletics 3 (running), Brawl 4 (fist), Carouse 2 (games of chance), Chirurgy 3 (setting bones), Etiquette 2 (faeries), Great Weapon 3 (long spear), Hunt 3 (tracking), Gaelic 5 (slang), Leadership 5 (in combat), Organiza''
@@ -215,8 +217,6 @@
 ''** His arms and armor have been handed down from prior generations and have been altered to fit him. If using the rules for damaged goods from City & Guild, the armor has just one Damage Level left. He wants new equipment for himself and his men. Use the prices listed in City & Guild, page 144 to help decide how the magi treat his requests.''
 ''Faeborchless, or the Dancing Shield Feat''
 ''Faeborchless is a Cles learned from Úathach, a faerie resident at the Hibernian covenant of Leth Cuinn. This gives Bran the power to throw his shield or weapon in such a way that he can defend a number of characters equal to his Single or Great Weapon Ability, as appropriate. He must make a Dexterity + Single/ Great Weapon feat check against an Ease Factor of 9. If successful, the characters are defended and his shield or weapons return to his hands. If the roll fails, he must retrieve his weapons, which could potentially leave him defenseless.''
-
-|]
 ''called upon by the villagers to tend minor knocks and scrapes. Although married to the farmer Cormac, she has been cuckolding him with Fearghal (see below) for some years. This affair is not widely known.''
 ''Íomhar, the Librarian''
 ''Íomhar has just turned 36 and with the passing of old Thomas he is now the covenant’s librarian. He has an Intelligence of 0 and a Profession: Librarian of 7, and he costs 7 Build Points. While far from stupid, Íomhar is frustrated that he lacks the academic rigor of his predecessors in his role. If there were some way in which he could''
@@ -230,16 +230,12 @@
 ''Fearghal, the Animal Handler''
 ''Longmist once maintained notable kennels and stables and, in the days when the covenant would host kings and princes in the hunt, there was a dedicated team of animal handlers. Fearghal is the last of these and he has little to do with his time except''
 
-[|
-
 ==Longmist Grog==
 
 ''Characteristics: Int 0, Per 0, Pre 0, Com 0, Str +2, Sta +2, Dex +1, Qik 0 Size: 0 Age: 25 (25) Decrepitude: 0 Warping Score: 0 (4) Virtues and Flaws: Covenfolk; Warrior, Tough; Poor Living Conditions*, Weakness (Drinking) * New Flaw first presented in the Grogs supplement. Personality Traits: Brave +3, Lazy +2, Loyal +1 Combat: Dodge: Init +0, Attack n/a, Defense +4, Damage n/a Fist: Init +0, Attack +6, Defense +5, Damage +2 Kick: Init –1, Attack +5, Defense +3, Damage +5 Knife: Init +0, Attack +6, Defense +4, Damage +4 Sparra & Round Shield: Init: +0, Attack +11, Defense +8, Damage +8 Short Spear & Round Shield: Init +1, Attack +8, Defense +7, Damage +7 Throwing Ax: Init +0, Attack +8, Defense +5, Damage +8 Soak: +8 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11– 15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Longmist lands 3 (geography), Athletics 3 (climbing), Awareness 3 (keeping watch), Brawl 4 (fist), Carouse 4 (power drinking), Chirurgy 1 (binding wounds), Gaelic 5 (storytelling), Organization Lore: Covenant of Longmist 2 (personalities), Single Weapon 5 (sparra), Stealth 2 (natural areas), Survival 2 (woodland), Swim 3 (diving), Thrown Weapon 4 (throwing ax) Equipment: partial leather scale armor**;''
 ''round shield, sparra, short spear, two throwing axes, eating knife, warm cloak, and light camping gear. **	 As with their captain, their armor has one Damage Level remaining after being patched up as best can be. Encumbrance: 1 (3) Appearance: Dirty, with thick woolen clothing against the cold mists of the valley. Their oiled leather shoes still let in the damp, so they are often to be seen wrapped in their cloaks drying their shoes by the fireside. They look more rough than imposing; brigands rather than toll collectors. The Longmist grogs lack leadership capability in themselves, which means that while they have trained together, they fight as an untrained group unless their captain is there to lead them. They are loyal to the covenant, more through habit than desire, but they are also lazy, and while they may often complain about how much work they are told to do, they are rarely pushed.''
 ''New Flaw: Poor Living Conditions''
 ''Minor, General Either because of this character’s own poor living conditions or those of people he is in frequent contact with, he is more susceptible to the rigors of daily life. The character has an additional –1 Living Conditions Modifier. This is cumulative with the character’s base Living Conditions Modifier as per ArM5, page 170. In the case of the Longmist grogs, their poor living conditions arises from days spent away from the covenant, living off the land and exposed to the elements.''
-
-|]
 ''tend to the rare visiting horse, advise farmers on the ailments of their livestock, and look after the covenant’s bees. Aged 36, he frequently commits adultery with Úna the Herbalist. With no wife of his own and seemingly no prospect of one, it is a sin for which he is willing to forgive himself. He has a Dexterity of +2, an Animal Handling score of 7, and costs 7 Build Points.''
 
 ==Servants==
@@ -257,14 +253,14 @@
 ==Hierarchy and Governance==
 
 ''While age itself does not grant additional power at council, magi who have trained an apprentice are treated as elders and are afforded more respect than those who have not. A council may be called at any time, and for a council to be quorate all magi currently in residence must attend or face censure. Exceptions may be granted where a proxy has been appointed, or a magus is in Twilight, for instance. Decisions at council are only binding where that session is quorate. Each magus has one vote at council, which may be used on each matter brought before it. Crucially, in return for their assistance throughout the life of the covenant, the Túatha Dé Danann have a seat and vote at council, although they do not count for the quorum however much Conchobor might argue in their favor. Because all magi must attend for the council to be quorate, and only a quorate council can censure an absent magus, a magus could paralyze the council by refusing to come out of his laboratory. In addition, the charter provides for the following roles: Princeps: This role is vacant, having been held by Tadhg an Tuir of Verditius before his loss. Castellanus: This vacant role concerns the mundane and magical security of the covenant within the Aegis of the Hearth. Cancellarius: Responsible for the financial and magical well-being of the covenant. This includes accounting for vis and its expenditure on things such as Longevity Rituals. This role has been vacant for many years. Praefectus: This role is currently held by Conchobor and concerns the mundane and magical security of the covenant’s lands and property beyond the Aegis of the Hearth, which includes the cathach. Aedilis: Responsible for planning the covenant’s magical works. This role has been vacant for many years. Censor: Responsible for leading magical rituals and ceremonies and charged with maintaining the moral standards of the magi in the execution of their duties. Currently held by Mícheál. Propraetor: Responsible for maintaining relations with outside covenants, nobles, the Church, and so on. This role is cur''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Éamonn Cruittire==
 
 ''Characteristics: Int +1, Per 0, Pre +2, Com +3, Str –1, Sta 0, Dex 0, Qik 0 Size: 0 Age: 27 (27) Decrepitude: 0 Warping Score: 0 (4) Confidence: 1 (3) Virtues and Flaws: Bard*;  Bardic Education**, Enchanting Storytelling***, Free Expression, Sidhe Blood; Dependent****; Carefree Personality Traits: Confident +3, Friendly +2, Extroverted +1 Combat: Dodge: Init +0, Attack n/a, Defense +2, Damage n/a Fist: Init +0, Attack +3, Defense +3, Damage –1 Knife: Init +0, Attack +3, Defense +2, Damage +1 Bludgeon: Init –1, Attack +4, Defense +2, Damage +1 Soak: 0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Ulaid 3 (personalities), Art of Memory 3 (poetry), Awareness 3 (alertness), Brawl 2 (fist), Carouse 2 (drinking songs), Charm 4 (first impressions), Enchanting Storytelling 5 (love), Folk Ken 3 (peasants), Gaelic 5 (storytelling), Legerdemain 4 (“magic” tricks), Organization Lore: Covenant of Longmist 1 (personalities), Organization Lore: Uí hEódhasa 1 (history), Poet 2 (The Ulaidh Cycle), Storyteller 5 (heroic battles), Survival 1 (roadside) Equipment: Good quality clothes Encumbrance: 1 (1) Appearance: Éamonn is a handsome young man who clearly carries the refinement of the Sidhe in his blood. With his sparkling blue eyes, bouncy blond hair, and easy smile, he is every father’s nightmare and every husband’s fear. * 	 The Contested Isle: The Hibernian Tribunal, page 117 ** 	 The Contested Isle: The Hibernian Tribunal, page 116 *** The Contested Isle: The Hibernian Tribunal, page 116. Functionally identical to Enchanting Music, but using stories instead of music. **** His mother has depended on Éamonn for money since an illness left her weak some years ago, so without Éamonn she may lose her home.''
 
-|]
+|}
 ''rently held by Lugh. Magi holding one of these roles gains an additional vote at council upon matters pertaining to their responsibilities. A quorate council must be convened to elect a magus to one of these roles. The candidate(s) may not themselves vote, and the matter is treated as falling within the responsibility of each of the roles described above, allowing holders to cast a second vote.''
 
 ==Life at Longmist==
@@ -302,8 +298,8 @@
 ==Environment==
 
 ''Longmist was built in a mist-shrouded valley between Lough Beagh and the smaller Lough Inshagh in Donegal in the province of Ulaid in Hibernia. The weather-ravaged hillsides surrounding the covenant support few trees, but there is some woodland by the shores of the nearby lakes. Winters are generally mild but wet, and summers pleasantly warm, though midges and other biting''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Offices of Longmist==
 
@@ -311,7 +307,7 @@
 ''02:00  Rise 02:15  A reading from the Vitae Magnae, followed by a nap 05:00  Breakfast, accompanied by a reading. Aegis tokens    are returned to visitors Dawn  Perform the Parma Magica 07:00  Study, laboratory work, or undertakings on behalf of    the covenant 15:00  Dinner, accompanied by a reading Dusk  Perform the Parma 	 Magica. Aegis tokens are collected    from visitors 19:00  Supper, accompanied by a reading 20:00  Retirement''
 ''Each event through the day is announced by the tolling of a once-magical bell, now rung by one of the covenfolk. Should magi undertake a rare excursion beyond Longmist, they attempt to abide by the offices unless doing so is likely to cause problems either for them, their hosts, or their companions. Accompanying grogs are so well versed in the offices that they help their masters by keeping track as best they can.''
 
-|]
+|}
 ''insects are an annoyance. Longmist’s valley is typically obscured by a low-lying unnatural mist. In its early days, the covenant developed devices and spells to clear the mist, or to control it at will, allowing visitors a clear path. These have now either been lost or broken, and in any case the magi currently have no intention of making things easier for visitors. Buying supplies from nearby villages typically takes a long day’s round trip. The valley has a Magic aura of 2 and this rises to 5 at the covenant site. A level 6 regio sits over the central part of the covenant.''
 ''Main Structures''
 ''The main structure is a set of two intersecting oval courtyards with a four-story tower at their center. The outer walls were once plastered and whitewashed but these are now cracked, dirty, and flaking. The larger of the two courtyards has two large gates of iron latticework that once made for an impressive entrance. These have long been rusted shut and the two magical statues of warrior women that once hauled the gates open and shut have seized with them. The paved yard has a large fountain at its center, though the device that created the water has also failed. Alongside the fountain is a bronze man. Larger than a natural man and understood to represent the Fir Bolg in their glory days, this apparent statue is dressed as a blacksmith and he stands looking out to the gates. Some say he has a wistful look upon his face. The courtyard is overgrown and the paving stones have risen, uneven with the roots and small plants that grow up between them. It is no longer the grand entrance and all manner of broken carts, barrels, crates, and sacks find themselves stored here under the numerous wooden sheds and shelters built against the walls. A smaller courtyard at the rear of the tower, enclosed by a smaller wall, is now the functional entrance to the covenant. It was once used only by the covenant staff but since the failure of the magical gates, all visitors to the covenant must come through the humble wooden gates to this courtyard, which is littered with water troughs, chicken runs, and other signs of a working covenant. This is also where the stables and both Piaras and Cathal have their workshops. These courtyards have plenty of space should the magi wish to build additional structures within the walls.''
@@ -327,14 +323,14 @@
 ''Lugh-éccnaid’s laboratory occupies the upper-most levels of the hidden tower of Longmist, having been expanded in the past so that it spans two floors. Much of the work is done on the lower level where a great cauldron has been installed, but the gallery formed from the upper level provides areas for contemplation, writing, and space for Lugh’s personal library and stores. This laboratory is highly specialized toward the development of Longevity Rituals. Names Added to Sanctum Marker: None Characteristics: Size +0 (0), Refinement +5, General Quality +3, Upkeep +8 (36 Mythic Pounds per year), Safety +8, Warping +0, Health +1, Aesthetics +7 Virtues & Flaws: Greater Feature (Cauldron), Highly Organized, Priceless Ingredients, Spotless, Spacious, Gallery, Elevated, Greater Expansion; Greater Focus (Cauldron) Specializations: Longevity Rituals +11, Teaching +1; Creo +1; Auram +1 Features: Cauldron These enhancements cost 60 Build Points.''
 ''Conchobor’s Laboratory''
 ''Deep beneath the covenant, seemingly more accessible to the Túatha Dé Danann and the creeping faeries of the earth than the covenfolk, Conchobor’s laboratory is a cold and dark place. The main chamber is spacious and is a thing of rocky steps and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Warrior Women==
 
 ''The main covenant gates, though now seized shut, were once opened and closed on command by two magical bronzes each in the form of a heroic warrior woman. They are larger than a man and of an athletic build. Their hair is long and plaited, and appears to be banded by a circlet of bronze. Each wears a coat of plates and has a small sparra hanging from her belt. They are posed as though heaving upon chains that run through their hands to pull open the gates. Following the bronze man’s gaze from where he stands in the courtyard, it is clear that he is looking toward one of the two warrior women rather than at the gates themselves. What story, now unmoving, has been captured in the courtyard? Can the Cailleach free the blacksmith and see it finally play out?''
 
-|]
+|}
 ''platforms surrounding a slowly-rotating orb of granite magically suspended over a pool of still and clear water. Conchobor makes no claims as to the orb’s power, but those who have seen it have glimpsed the world beyond Longmist reflected in its polished surface. While the laboratory is within the Aegis of the Hearth, there is a gateway to the otherworld of the Túatha Dé Danann nearby, a magical path that allows pixies, brownies, and others of the fair folk to penetrate the laboratory. Most are content to watch and listen, but some provide occasional assistance, whether requested or not. Names Added to Sanctum Marker: None Characteristics: Size +0 (0), Refinement +6, General Quality +1, Upkeep +0 (1 Mythic Pound per year), Safety +4, Warping +2, Health –1, Aesthetics +3 Virtues & Flaws: Spacious, Faerie Ingredients, Greater Feature (Orb), Lesser Feature (Pool); Gateway, Subterranean, Gremlins Specializations: Experimentation +2, Binding Familiar +1; Intellego +4, Rego +1; Terram +2 These enhancements cost 50 Build Points.''
 ''The Cailleach’s Laboratory''
 ''A forge dominates the Cailleach’s laboratory and the external walls have are punctured by iron hollows and chimneys through which air is pulled and smoke expelled. The sound of the bellows reverberates as the fires reach magically high temperatures: perfect for forging and welding raw magic to devices. Her superior tools are made and maintained by Cathal Gobha and so do not increase the Upkeep cost of this laboratory. Names Added to Sanctum Marker: Conchobor Crosach, Lugh-éccnaid Characteristics: Size +0 (–2), Refinement +2, General Quality –1, Upkeep +0 (1 Mythic Pound per year), Safety +3, Warping +0, Health +0, Aesthetics +2 Virtues & Flaws: Greater Feature (Forge), Highly Organized, Superior Tools; Greater Focus (Forge) Specializations: Enchanting Items +8 These enhancements cost 20 Build Points.''
@@ -370,21 +366,19 @@
 ==Clan Mac Tire==
 
 ''The nomadic Clan Mac Tire, a collection of seven Bjornaer magi, is Longmist’s enemy. The founder of their line was murdered and skinned to provide Longmist’s cathach and it is an insult that the clan’s current leader, Cú Chonnacht Cluasach Mac Tire, has vowed to put right. This unofficial covenant moves across Hibernia with the seasons, setting up their mobile laboratories in one of the many booley villages, collections of simple dwellings occupied for only a season or two before the occupants move on to the next booley. Cú Chonnacht Cluasach Mac Tire is old and weak, and the faith of the clan has been shaken by too many failures to reclaim Ualgrimm’s pelt. His junior, Bán Mac Tire, who has a white wolf heartbeast, is growing impatient. In truth, he feels no connection to the cathach held by Longmist, but it is a wound to the clan that he is keen to exploit in order to strip Cú Chonnacht of his leadership. Bán wants to stop targeting the pelt itself and to begin targeted attacks against its protectors: Prince Ruadan and his subjects. Given their itinerant lifestyle, the clan lacks the raw magical power they need, but they now control a large band of robbers and mercenaries, enough to challenge the faerie powers that guard the cathach on Longmist’s behalf. It will not be long before''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Dwindling Fish==
 
 ''Few fish have been caught in the withies and those that have been are small. Where have all the fish gone? Is the covenant outstripping the land? Or perhaps the new magi upstream in search of a covenant location are stealing what belongs to Longmist. What does this mean for the vis sources?''
 
-|]
+|}
 ''an assault is mounted. Achieving peace with the Clan Mac Tire will not be an easy thing. The covenant’s cathach is at the heart of the conflict, and for Longmist to give that up they must first have a new trophy under which they are known at Tribunal.''
 ''Important Boons and Hooks''
 ''Troupes are free to provide as much or as little detail for Clan Mac Tire as they need, but there are some important covenant Boons and Hooks that help describe the covenant.''
 ''Criminals (Minor Residents Boon): Not only do the magi raid the resources belonging to other covenants, but they offer a haven to mundane criminals and outlaws. Difficult Access (Minor Fortifications Boon): Many of the booley villages that the covenant uses are built on islands in the middle of lakes, which provides protection against intrusion. As the covenant seeks out those with Magical auras, some even host regiones, which offer even more protection. Informants (Minor External Relations Boon): The covenant maintains links with''
 ''various robbers across Ulaid, whose information they use to plan their own activities. Hidden Resources (Minor Resource Boon): In order to reduce the amount that the covenant needs to carry with them, some of the covenant’s resources are stored in the booleys that they frequently visit. This means that not all covenant resources are immediately available. Hidden Ways (Minor Surroundings Boon): Both as wolves of the wilderness and as magi, the clan knows the best paths surrounding their regular booley camps.''
-
-[|
 
 ==Ruadan mac Goibhniu==
 
@@ -396,8 +390,6 @@
 ''MuCo 45 Pen +20, Unlimited R: Sight, D: Concentration, T: Group When the sword is drawn, members of the target group who consider themselves Ruadan’s allies see the sword of the moon glow brightly with pure moonlight. When in its presence, they can see in absolute darkness as though it were a clear night with a full moon. (Effect: Base 2, +3 Sight, +2 Group, +1 Concentration; Modifications: +5 device maintains concentration, +10 unlimited use, +10 for +20 Penetration)''
 ''The Knife of Sorrows''
 ''CrMe 45 Pen +50, 1/day R: Touch, D: Moon, T: Individual Poisons the target’s mind with inconsolable loss that lasts for a Moon. The effects are debilitating, requiring a Personality Roll against Ease Factor 9 to hold the thoughts back for a day. Failure imposes a –3 penalty on all totals. (Effect: Base 4, +1 Touch, +3 Moon; Modifications: +25 for +50 Penetration)''
-
-|]
 ''This allows them to travel quickly and to gain an advantage over those traveling through their lands. Indiscreet Resource (Major Resource Hook): Most of the Clan’s income comes from theft, robbery, and coercion. Erratically Mobile (Minor Site Hook): The Clan moves frequently, sometimes staying just a season in each booley. Infamous (Minor External Relations Hook): The Clan Mac Tire is well-known by other covenants across Hibernia.''
 ''Income''
 ''The Clan makes what money it needs primarily from robbery, raiding, and in hiring its services to other magi and covenants. Their grogs are proficient enough thieves that they earn enough to pay for the provisions the covenant needs.''
@@ -436,14 +428,14 @@
 ''InVi(Im) 30 Pen +0, unlimited use R: Touch, D: Momentary, T: Vision This door installed into a wall in the lesser tower opens into the greater tower by spanning the regio boundary. This allows covenfolk without Second Sight to move freely between the regio layers by simply touching the door, which reveals the regio. Movement through the door does not cause Warping. (Base 3, +1 Touch, +4 Vision, free requisite; +10 unlimited use) The door costs 12 Build Points.''
 ''The Broken Shield of Cú Chulainn''
 ''Split into two halves, this wooden shield trimmed with a sharpened iron edge was clearly designed for a very large man. It was once a faerie weapon that passed on the skill to use it to its wielder. If it could be magically mended, the wielder would generate a Single Weapon Defense Total as though he had a Single Weapon skill of 10. It is displayed in Longmist’s great hall and costs 10 Build Points.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: A Service for a Service==
 
 ''Ruadan’s Túatha may protect the covenant and its Cathach, but they demand service in return. These things may be simple, such as confronting a dangerous presence in their underground home, or more subtle, such as bringing them the tears of a mother bereft of her child. Ruadan leaves no option for the magi of Longmist: if the service is refused, then the bargain that protects the Cathach is broken.''
 
-|]
+|}
 ''Cearnach’s Mount''
 ''This device, in the shape of a small wooden figurine of a horse and rider attached to a leather thong, creates a horse, accepting of The Gift, suitable for a magus to ride. The device is normally worn around the neck, but the leather thong on the device is now very brittle and could easily break if mishandled.''
 ''Cr(Re)An(Te) 51 Pen +0, 2/day R: Touch, D: Sun, T: Group This effect creates a living horse and riding tack at the user’s command. The horse becomes fatigued as normal and must be fed and tended, but it is compliant to those with The Gift. In addition, a magus may substitute his Finesse Score for Ride or Animal Handling when riding or interacting with the summoned animal. An Intelligence + Finesse roll is used to determine the quality of the saddle, bridle, and reins. (Effect: Base 15, +1 Rego, +1 Touch, +2 Sun, +1 Size, +2 Group; Modifications: +1 2/day) The device costs 22 Build Points.''
@@ -451,8 +443,8 @@
 ''The large bronze statue of a bare-chested bearded craftsman standing in the courtyard has a classical countenance but the complex joints give away its true design. It is an automaton crafted by Faventinus of Verditius, the Cailleach’s grand-parens. He used it as a forge assistant, but something happened to make him send the Bronze Man into the courtyard never to return. Those in the covenant who took notice of the Bronze Man never asked why it was there and most now assume it to be just a statue. Its Might is damaged (it currently has an effective Might of 6 and –5 on any Ability rolls) and to repair it requires the Verditius Automata Inner Mystery (Houses of Hermes: Mystery Cults, page 128). This Inner Mystery is not required to investigate its powers, however. This can be done in the normal way as a standard laboratory action. Doing so reveals the command words to reactivate the Bronze Man. Although mute, the Bronze Man has seen and heard everything that has happened in the courtyard for the last 80 years. If it can be coaxed back to its normal functioning, the device can follow instructions of any complexity given to it that concern its blacksmithing and any other instructions that neither require a positive Intelligence nor an Ability score other than Craft: Blacksmith. The Bronze Man costs 48 Build Points. Similar automata had been created to open and close the main gates on command, but these are broken. There was once also a bronze bull, the prize of Longmist’s herd, but that has not been seen for many years.''
 ''The Observance Bell''
 ''There was a time when the covenfolk did not have to wake at all hours and ring the great bell for their masters’ convenience. Once upon a time, magic did that task for them, but the magic in the bell died nearly forty years ago. Nobody is quite sure why and as long as there are covenfolk to ring the bell by hand the magi have expressed no interest in finding out. This bronze bell is not large, counting only as a medium-sized device for enchantment purposes, and had been opened with 15 pawns of vis. A cursory examination shows the bell to have a crack in its side, a crack that seems to have been sufficient to break the magic. Closer inspection shows a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Missing Cathach==
 
@@ -462,7 +454,7 @@
 
 ''Éamonn reports seeing a mechanical bull amid the herd of a Leinster covenant. Is this the bull missing from Longmist for so many years? If so, do the magi take the matter to Tribunal or, in the manner of the old ways, do they plan a raid to snatch the bull and return it to Longmist?''
 
-|]
+|}
 ''shallow dent at the top of the crack, suggesting a strike with some kind of hammer. The Laboratory Texts for each of its effects are held within the library, and these give a magus the means to re-enchant it. Given the number of pawns used to open it, the bell would not need to be opened a second time to take the following effects.''
 ''Divine the Heavens’ Aspect InVi 29 Pen +0, Constant Effect R: Touch, D: Sun, T: Individual As per the effect detailed in The Mysteries: Revised Edition, page 51, the bell has the ability to “watch the heavens” and take constant measurements as to the movement of the sun and the moon through the day and night, the phase of the moon, the seasons, and the year. This provides enough information to trigger the other effects invested within the bell. (Effect: Base 10, +1 Touch, +2 Sun; Modifications: +1 for 2/day, +3 triggered at sunrise/set)''
 ''Toll the Offices ReTe 12 Pen +0, 12/day R: Personal, D: Diameter, T: Individual Designed into this effect are the hours and offices of Longmist. At the time for each, the bell tolls, sounding through the covenant, calling the magi to assemble. (Effect: Base 2, +2 metal, +1 Diameter; Modifications: +4 for 12/day, +3 triggered by Divine the Heavens’ Aspect)''
@@ -477,8 +469,8 @@
 ''additional cost in days distraction. This is a number of extra days that the magus needs to expend toward the activity. Normally, the magus may take a ten-day distraction without incurring a penalty toward the activity. A particularly heavy-weight book may require a five or even ten day distraction by itself in order to benefit. Some of the books below impose this distraction. A total of 1089 Build Points has been spent on the library across Abilities, Arts, Casting Tablets, and Laboratory Texts. Texts marked with an asterisk are written in vernacular Gaelic. All other texts are in Latin.''
 ''Arcane Abilities''
 ''218 Build Points have been spent on Arcane Abilities, such as Finesse, Magic Theory, Parma Magica, and Penetration. The library also contains texts on each of the Realms as well as texts concerning the Sihr Ability of the Corrguineach. One of these books was given to the covenant by Brea Mac Boru, the druid killed during Dara’s reckless summonings. A number of these volumes have been written in Gaelic, and one of these, the Lebor Feasa Runda,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Blade that Slew the Wolf==
 
@@ -487,12 +479,12 @@
 ''Death with Each Blow PeAn 38 Pen +40, 6/day R: Touch, D: Momentary, T: Individual If the effect penetrates a beast’s Magic Resistance, it is instantly struck with a Medium wound in addition to any wound that the ax blow itself causes. (Base 10, +1 Touch; +3 6/day, +20 for +40 Penetration)''
 ''Dull the Stamina of the Wolf PeAn 31 Pen +40, 6/day R: Touch, D: Momentary, T: Individual Triggered when the linked Death with Each Blow effect penetrates, this effect fatigues the target animal, causing the beast to lose a Fatigue Level. (Base 4, +1 Touch; +3 triggered by Death with Each Blow, +3 for 6/day, +20 for +40 Penetration) The sparra costs 28 Build Points.''
 
-|]
+|}
 ''is a translation of works written before the birth of Christ. It contains descriptions of the old magic: objects of virtue, rituals that produce vis, and powerful shape and material bonuses for using the sixteen characters of the Boibel Loth alphabet. No magus has so far integrated these ancient ways into Hermetic magic. Aelfric, De Initio Creaturae, Dominion Lore Tractatus, Quality 9. Part of a volume that also provides a Tractatus on Infernal Lore. (9BP) The Monks of Llancarfan, The Llancarfan Saints’ Lives, Dominion Lore Tractatus, Quality 6. As a twelfth-century book, this is evidence that trade was still occurring in the last fifty or so years. (6BP) Fergus of Merinita, The Manor of the Túatha Dé Danann, Faerie Lore Tractatus, Quality 7. Concerning the Túatha Dé Danann, but in particular Ruadan. (7BP) Eochaidh Ollamh Foghla, Lebor Feasa Runda*, Faerie Lore Tractatus, Quality 10, and Magic Lore Tractatus, Level 10. Written by an ancient High King of Ireland, this is a''
 ''most valued possession. (20BP) Aelfric, De Initio Creaturae, Infernal Lore Tractatus, Quality 9. Part of a volume that also provides a Tractatus on Dominion Lore. (9BP) Michael Psellos, De Operationes Daemonum Dialogus, Infernal Lore Summa, Level 5, Quality 12. A small book and clearly old. Apparently written by many different hands (a strange affliction that affects any copy made of this book). (27BP) Fergus of Merinita, The Wisdom of Fionntan, Magic Lore Tractatus, Quality 6. This is a Latin recording of a discussion Fergus held with an old druid. It touches upon the old magic used across Hibernia. (6BP) Callum of the Younger House, Remembered Ways*, Sihr Tractatus, Quality 8. Old and annotated by many subsequent hands. (8BP) Brea Mac Boru, Lebor Liathanach*, Sihr Tractatus, Quality 8. This book is less than 25 years old and is clearly not written by a Hermetic magus. (8BP) Lugh-éccnaid, The Ascendence of Hermetic Ways*, Sihr Tractatus, Quality 10. Argues''
 ''that the ancient ways of summoning are now eclipsed by Hermetic methods. (10BP) Cearnach of Verditius, In innectis de phylacterium, Magic Theory Tractatus, Quality 8. Casts Magic Theory in the role of mechanism, made up of the constituent Arts. Describes the Mysteries as mere application of that mechanism. (8BP) Calvacius of Tytalus, Bonisagi Apocrypha, Magic Theory Tractatus, Quality 8. Expresses the opinion that covenants should research their own enhancements outside of Bonisagus control. (8BP) Tadhg an Tuir of Verditius, Codex of Enchantments, Magic Theory Tractatus, Quality 9. Demonstrates principles of Magic Theory by examples of simple device enchantments known across the Order. The work makes reference to calculations and formulae apparently provided in another text, now sadly missing. This makes the book harder to work with and costs a three day distraction. (9BP) Niall of the Younger House, Ars Accuratio, Finesse Tractatus, Quality 7. (7BP) Calvacius of Tytalus, Per de Delicatum, Finesse Tractatus, Quality 8. The reader suffers from the Slow Caster Flaw during the season of study as they emulate Calvacius’ techniques. (8BP) Niall of the Younger House, In Demonstratio Vi, Penetration Tractatus, Quality 7. (7BP) Marcus Cordo of House Flambeau, Libro Fortitudo, Penetration Tractatus, Quality 8. (8BP) Hannewalt of Tytalus, Scutum Quod Protegit Nobis, Parma Magica Tractatus, Quality 8. Written as a guide to practice, requiring two magi to study at the same time. (8BP) Marcus Cordo of Flambeau, In Praesidia Praebuit Per Magica Formae, Parma Magica Tractatus, Quality 8. On harmonizing Parma Magica with the Hermetic Forms. (8BP) Dáire Boircech of Vigil, Occulta Magicis, Faerie Magic Tractatus, Quality 7. Concerns ranges, durations, and targets of Faerie Magic. (7BP) Anonymous, Nympharum Magicae, Faerie Magic Tractatus, Quality 6. Concerns the magic of the wee folk, not the Túatha Dé Danann. (6BP) Calvacius of Tytalus, Destruet Extremum Preiudicium, Demon’s Eternal Oblivion Spell Mastery, Quality 8. (8BP) Cearnach of Verditius, Magister Crystállum Pilum, The Crystal Dart Spell Mastery, Quality 8. (8BP) Marcus Cordo, Multa Partum Vulnera, The Wound that Weeps Spell Mastery, Quality 8. (8BP)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Bronze Man==
 
@@ -502,7 +494,7 @@
 ''Strength of the Master CrTe 29 Pen +0, Constant Effect R: Personal, D: Sun, T: Part This power gives the automaton a Strength of +1 as per the description in Houses of Hermes: Mystery Cults, page 130. (Effect: Base 10, +2 Sun, +1 Part; Modifications: +1 for 2/day, +3 triggered at sunrise/set)''
 ''The Master At Work ReTe(Me) 49 Pen +0, Constant Effect R: Personal, D: Sun, T: Part The automaton has been invested with the Craft: Blacksmith Ability to a score of 5. (Effect: Base 5, +2 Sun, +1 Part, +1 Mentem requisite, +4 for a score of 5; Modifications: +1 for 2/day, +3 triggered at sunrise/set) Further information on the powers detailed above and their costs is available in Houses of Hermes: Mystery Cults, page 129.''
 
-|]
+|}
 ''Mundane Knowledge''
 ''60 Build Points have been spent on volumes of mundane knowledge. Fergus of Merinita, Vita Diedne, Organization Lore: Order of Hermes Tractatus, Quality 7. Written in the twenty years before the Schism War, this book discusses several important Diedne magi of the time. (7BP) Cearnach of Verditius, The Houses in their Turn, Organization Lore: Order of Hermes Tractatus, Quality 7. Bound in split wood, this volume explores the character of each Hermetic House. House Bjornaer is treated with scorn and House Diedne with a degree of understanding. (7BP) Niall of the Younger House, Responses to the Younger House, Code of Hermes Tractatus, Quality 6. Reviews how the Code was amended or interpreted to allow House Ex Miscellanea to join the Order. (6BP) Fergus of Merinita, Arguments as to the Founding of Covenants, Code of Hermes Tractatus, Quality 7. A surprisingly broad view on the early peripheral code on the founding of covenants and assigning of residential rights. (7BP) Anonymous, Accalam na Senorach*, Area Lore: Hibernia (History) Tractatus, Quality 8. The Tales of the Elders. (8BP) Anonymous, Lebor Gabala Erenn*, Area Lore: Hibernia (History) Tractatus, Quality 9. The Book of the Taking of Ireland recounts the five great invasions of Ireland and the various conquests of subsequent peoples. (9BP) Calvacius of Tytalus, Tractatus Ethicorum, Philosophiae Tractatus, Quality 8. Calvacius’ influential style imposes a “Condescending +1” personality trait in the season during and following the study of this book. (8BP) Calvacius of Tytalus, Tractatus in Rhetoricæ Orationis, Artes Liberales Tractatus, Quality 8. Calvacius’ influential style imposes an “Argumentative +1” personality trait in the season during and following the study of this book. (8BP)''
 ''Books on the Arts''
@@ -510,14 +502,10 @@
 ''Occulus of Donum Chanuti, Disputations, Intellego Summa, Level 12, Quality 19. May be used as a prop for Ceremonial Intellego spells, granting a +3 bonus (31BP) Conchobor Crosach, Veritas Caeca, Intellego Tractatus, Quality 11. Using Intellego to gain information that would otherwise be unseen. (11BP) Anonymous, Innaturale Forma Quae, Muto Summa, Level 13, Quality 10. Guidance on making unnatural changes to natural forms. (23BP) Bohemond of Paris, Mutationes ad Figura Rerum, Muto Tractatus, Quality 6. Physical transformations between natural forms. (6BP) Ciprian Maxim, Remotionem Attributa, Perdo Summa, Level 14, Quality 9. The removal of magical or unusual qualities. (23BP) Cristescu of Tremere, Occidere Magicis, Perdo Tractatus, Quality 8. Using magic to cause physical wounds. (8BP) Faventinus of Verditius, In Invisibili Manu, Rego Summa, Level 12, Quality 9. A detailed''
 ''guide on using Rego to move and manipulate the Hermetic Forms. (21BP) Lugh-éccnaid, Adducam de Naturalis Mutata, Rego Tractatus, Quality 11. On making natural changes to a Form, notably Mentem. (11BP) Ualgrimm of Bjornaer, Anathomen Lupus, Animal Summa, Level 11, Quality 9. A detailed anatomy of the lupine form, taken as the spoils of victory when the author was slain by the covenant. (20BP) Ualgrimm of Bjornaer, Centum Bestiæ, Animal Tractatus, Quality 8. A bestiary of mundane and magical animals, taken as the spoils of victory when the author was slain by the covenant. (8BP) Aecor of Bjornaer, Aquas ex Aquilonis Maria, Aquam Summa, Level 14, Quality 10. Requires fresh seawater to be present every week during which this book is studied, otherwise the text fades and the work cannot be used. (24BP) Marcus Pluviam of Bonisagus, Praecipitatio, Aquam Tractatus, Quality 9. Ponders''
 
-[|
-
 ==Shape and Material Bonuses for the Boibel Loth==
 
 ''The Boibel Loth is an ancient writing system consisting of sixteen characters. In addition to their function in written language, each of the characters has mystical associations, which in their inscribed form contribute Shape and Material bonuses toward magical projects. A minor breakthrough (Houses of Hermes: True Lineages, page 26) is needed to rediscover this old magic and grant access to the power of the Boibel Loth. Doing so allows the magus to incorporate the symbols into their enchantments and also to design them into rituals, where they provide a bonus to the casting total. They can also be used in Charm Magic as distinct Charms. See Houses of Hermes: Mystery Cults, page 96 for more detail.''
 ''Name  Equivalent  Bonuses  Boibel  B   +5 Inception       +3 Sun  Loth  L   +5 Fire  Forann  F   +5 Spring  Salia  S   +5 Moon       +3 Witches  Neiagadon N   +5 Water  Daibhaith D   +5 Door       +3 Travel or Passage  Teilmon T   +5 Growth       +3 Gain  Cailep  C   +5 Women  Moiria  M   +5 Autumn  Gath  G   +5 Balance and Even      Handedness  Riuben  R   +5 Winter       +3 Decay  Acab  A   +5 Birth       +3 New Life  Ose  O   +5 Youth       +3 Initiation  Ura  U   +5 Maturity       +3 Consummation  Esu  E   +5 Aging and Old Age  Jaichim I   +5 Death''
-
-|]
 ''the relationship between Auram and Aquam through observable phenomena. (9BP) Tempestas Ventus ex Miscellanea, Auras et Magna Procellis, Auram Summa, Level 14, Quality 10. Imposes a ten-day distraction when studied as the volume requires certain atmospheric phenomenon to be present, or for the magus to summon them. (24BP) Anonymous, Controversias ad Aerea Phaenomenon, Auram Tractatus, Quality 10. A lengthy liber quaestionum. (10BP) Buffon of Jerbiton, Substantia Hominis, Corpus Summa, Level 11, Quality 13. A magical anatomy of the human form containing numerous detailed illuminations. (24BP) Anonymous, Vulnerant Humana Forma, Corpus Tractatus, Quality 8. Ways in which magic can harm or inhibit the functioning of the human form. Record of the author has been cut from the book. (8BP) Quintinus Roboreus, Nota Plantarum Naturale et Non, Herbam Summa, Level 14, Quality 9. Imposes a ten-day distraction as the magus must collect fresh examples of many common herbs and other plants and undertake magical investigations. (23BP) Cassano of Verdi, In Flexibus Mortuus Lignum, Herbam Tractatus, Quality 8. A light tractatus on altering dead wood through magic. (8BP) Elaine of Flambeau, Ars Flambonis, Ignem Summa, Level 14, Quality 12. As presented in Houses of Hermes: Societates, page 9. (26BP) Marcus Cordo of Flambeau, Punctis ad Quod Materias Ignire, Ignem Tractatus, Quality 9. A set of tables listing the relative points at which various materials combust. (9BP) Fergus of Merinita, Illusiones, Imaginem Summa, Level 12, Quality 12. Describes Hermetic equivalents to a journey through a faerie glamour to a great treasure. Probably apocryphal. (24BP) Fergus of Merinita, Procul Videre et Audire, Imaginem Tractatus, Quality 9. Concerning the collection of sensory information at a distance. (9BP) Valdés of Guernicus, Multa Status Cogitatio, Mentem Summa, Level 14, Quality 13. Reduce the source quality by five if not studied in a laboratory with a test subject upon which various mental states can be projected. (27BP) Wulthric of Criamon, Somnia et Memoriis Somnia, Mentem Tractatus, Quality 8. A treatise specifically on dreams and what is remembered of them. (8BP) Adamo of Guernicus, Index Lapides, Terram Summa, Level 12, Quality 13. Lists soils, sands, stones, glass, and metals described through the Art of Terram. (25BP)''
 ''Cearnach of Verditius, Vita de Aeramen, Terram Tractatus, Quality 9. Treatise on the qualities of bronze. (9BP) Bastian Özil of Bonisagus, Novum Interpretationem, Vim Summa, Level 12, Quality 12. Predates the Schism War. (24BP) Conchobor Crosach, Libro Scientia, Vim Tractatus, Quality 11. Looks at Vim’s relationship to the other Forms through Muto Vim effects. (11BP)''
 ''Casting Tablets''
@@ -534,8 +522,6 @@
 ''Long before Giraldus Cambrensis described this oddity in his History and Topography of Ireland, Longmist had acquired samples of the earth from both the village and the meadow and found that both contain spell-like vis. Both types are of Animal and they each have one of the following effects. Rego Animal 20 R: Touch, D: Mom, T: Group Each pawn of vis scattered on the ground, whether that is earth, stone, sand, or even inside a building, spontaneously generates 1000''
 ''fleas. While their production is a thing of magic, the magic is simply accelerating a natural phenomenon and as a result these fleas are natural and unaffected by Magic Resistance. These cost 3 Build Points per 5 pawns of vis. (Base 5, +1 Touch, +2 Group) Perdo Animal 45 R: Touch, D: Mom, T: Group Each pawn of vis scattered on the ground, whether that is earth, stone, sand, or even inside a building, immediately kills animals up to a standard group. The effect does''
 
-[|
-
 ==Lost or Broken Devices==
 
 ''There have been many devices created by many magi across Longmist’s long history, and many of these are unfortunately lost or broken. For some, the Laboratory Texts remain and they could be remade with just a little investment of time and vis.''
@@ -550,8 +536,6 @@
 ''This effect animates the wooden man under the control of the device user. Even relatively fine movements are no problem under calm conditions, although a Finesse roll is required under stress. The wooden man has physical statistics of 0 for each of Strength, Stamina, Dexterity, and Quickness and these are used in place of the magus’ own. (Effect: Base 10, +4 Arcane Connection, +1 Concentration; +5 device maintains concentration, +10 unlimited use)''
 ''His Sight Is Mine Pen +0, Unlimited InIm 60 R: Arcane Connection, D: Concentration, T: Special Allows the magus to operate all senses at a distance through the target wooden figure. (Effect: Base 5, +4 Arcane Connection, +1 Concentration, +3 for special Target; Modifications: +5 device maintains concentration, +10 unlimited use)''
 ''Clothe this Form Pen +0, Unlimited MuIm 45 R: Arcane Connection, D: Concentration, T: Individual This effect changes all species emitted by the target figure into those normally emitted by the device’s user. A Finesse roll is required, as described in ArM5, page 143 but the device creator gains a +3 to this roll. Cearnach’s original version of this effect included one experimental sideeffect; the image is mirrored such that a scar on the left hand appears on the right. The movement of the image is unaffected, however. (Effect: Base 5, +4 Arcane Connection, +1 Concentration; Modifications: +5 device maintains concentration, +10 unlimited use)''
-
-|]
 ''not discriminate between types of animals so great care must be taken in handling this vis. These cost 6 Build Points per 5 pawns of vis. (Base 30, +1 Touch, +2 Group) The covenant owns fifteen pawns of the flea-generating soil and five of the soil harmful to animals.''
 ''The Burning Hand''
 ''A macabre gift to the covenant from the Túatha Dé Danann, this lesser enchantment vis takes the form of a left hand cut from a corpse and any candle placed between its fingers never goes out. The hand contains 5 pawns of Ignem vis and the following effect. CrIg 9 A candle placed in the hand’s upturned fingers immediately ignites and remains lit with a magical flame until the candle is removed. (Effect: Base 2, +1 Touch, +2 Sun; Modifications: +1 for 2/day, +3 triggered at sunrise/set) The burning hand costs 2 Build Points.''
@@ -566,8 +550,8 @@
 ''The covenant has the following ten sources to draw from. These days, it is rare for them all to be collected in a single year.''
 ''Tribute from the Underworld''
 ''Four pawns of Corpus per Year The Túatha Dé Danann entered into a pact with the covenant of Longmist many years ago. As part of that pact, while good relations persist between the Túatha Dé Danann and Longmist, they promised to lead the covenant to vis that only the Túatha Dé Danann could see.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Summary of Vis Stocks (Cont’d)==
 
@@ -578,7 +562,7 @@
 
 ''Art Pawns Build Points Animal 0  0 Aquam 0  0 Auram 5  1 Corpus 15  3 Creo 10  2 Herbam	  5  1 Ignem 0  0 Imaginem5  1 Intellego	  10  2 Muto 10  2 Perdo 10  2 Rego 10  2 Mentem	  5  1 Terram 5  1 Vim 15  3 Total 105  21''
 
-|]
+|}
 ''The covenant could not have foreseen that this meant unearthing bodies from their graves. The Túatha Dé Danann lead the covenant to a single human body each season. When unearthed, this body is found to contain one pawn of vis. The secret, unknown to Longmist, is that the bodies themselves do not generate the vis, nor are they subject to the affects of a Magical aura or chance event; it is placed there through Túatha Dé Danann magic. The Túatha Dé Danann have their own sources of vis, but why would they go through this charade? It may be that the aim was to make the magi of Longmist party to something clandestine and unseemly, and so closer bind them in something secret. 20 Build Points''
 ''From the Very Walls Themselves''
 ''Four pawns Vim vis per Year Centuries within the strong aura have taken their toll on the lesser tower of Longmist and parts of it now express vis each year. One pawn of Vim vis may be collected each season, but the vis accretes in the roof tiles, in the cobbles outside, or even in the walls. Over the years, this has resulted in the tower, the courtyard, and the roof becoming pockmarked through stones having been taken away for the vis that they contain. Some gaps have been hastily patched with mortar or stones picked from the ground. This is, however, a Dwindling Resource, as described earlier. That means it is losing 10% of its yield each year. In effect, after''
@@ -605,15 +589,15 @@
 ==Wealth==
 
 ''30 Build Points have been spent on wealth, and this equates to 300 Mythic Pounds in monetary value. Very little of this is in the form of actual money as whatever is gained through the income sources is soon spent on running the covenant. Instead, there are large tapestries that once kept the walls insulated, and there is fine linen, silk, velvet, and fur bedding, glass for the windows, fine silver plates and cutlery. All these things hark back to the days when the covenant would entertain princes and receive gifts in exchange for their hospitality. None of this is used. It has all been stored away as the finery and comfort is considered a distraction. Longmist has a +1 Living Standards Modifier as appropriate for a Winter covenant (ArM5, page 170). However, the covenant’s vast store of wealth can be turned into an additional +1 if it is used as intended. Doing so requires a magus to spend a season dedicated to overseeing the installation of the glass back into the windows, the hanging of the tapestries, and so on, ensuring that the other trappings of wealth are used.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Summary of Vis Sources==
 
 ''Source   Pawns   Build Points''
 ''Tribute from the Underworld 4 Corpus per year  20 From the Very Walls Themselves 4 Vim per year   20 The Swine in the Woods 4 Herbam per year  20 Gold Teeth from the Pike Pulled 3 Terram per year  15 The Leeward Side  8 Vim per year   40 The Gifted Blacksmith  2 Spell-Like Ignem per year 12 The Needfire   6 Corpus per year  30 The Black Root  1 Perdo per year   5 The Floating Stones of Maghera 1 Lesser Enchantment Rego 6 The Hunt   6 pawns of various Arts per year 30 Total   39    198''
 
-|]
+|}
 
 ==Hidden Resources==
 
@@ -649,8 +633,8 @@
 ''Ruadan’s motives, he would make the ideal central character for these stories. Given his ability to commune with spirits and his connections with the other races of Hibernia, Dara would also figure prominently. These stories arise out of the Faerie Court Hook.''
 ''Rejoining Hermetic Society''
 ''Longmist has been distant from the Tribunal for a lifetime and more. Those within the covenant may see the time as right to rejoin Hermetic society, and embrace trade and exchange. Such a course may bring dangers, as magi take advantage of the covenant’s naivety. Eochaid, The Cailleach, and Dara specifically all have views at odds with both Lugh and Conchobor. Given his responsibilities, Mícheál is expected to uphold Longmist’s isolation, which sets up an important conflict. Conchobor, under the influence of Ruadan, wants the covenant to distance itself from all forms of Hermetic contact. He is likely to become a significant antagonist in such stories. The Cailleach, if she is to repair the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Covenant Finances The covenant, at present, costs more to run than the income it generates as it has an income of 80 Mythic Pounds per year but is currently spending 84 ½ Mythic Pounds across the same period. The largest cost by far is for the Hermetic laboratories maintained by the magi. In particular, Lugh’s laboratory represents the biggest draw on the covenant’s coffers. The expenditure in Mythic Pounds breaks down as follows:==
 
@@ -663,7 +647,7 @@
 ''Base Loyalty  –42.5 Modifier Covenant Age	 +42.5 Turb Captain  +5 Living Conditions +0 Austerity  –1 Total  +4''
 ''Furthermore, zero is simply the prevailing loyalty. Across numerous interactions with Lugh and Conchobor, not to mention the younger magi, the covenfolk may find themselves ignored or abused, each of which reduces their loyalty. In order to reverse this trend, the covenant can employ a steward and a chamberlain, both of whom help to improve the prevailing loyalty.''
 
-|]
+|}
 ''bronze man, needs to find a Verditius master to teach her the mystery of automatons and for that she needs to venture outside of Longmist. Eochaid can see little value in the persistent adherence to the rule and may challenge the control the covenant has over what they study and even how they conduct themselves. These stories arise from the Seclusion and Superiors Hooks.''
 ''Expelling Foreign Magi from Hibernia''
 ''There are those within Longmist who see Hibernia as subject to Hermetic invasion. Longmist could return as a beacon for all like-minded Hibernian magi, but forming a consensus among the magi may be difficult. Attracting the right allies and determining strategy would also be a challenge, as would taking the matter to Tribunal or even further. Lugh becomes the driver for these stories if he ever decides to distribute his books, and each of the younger magi must decide where he stands. Stories can also be sparked by the encroachment of foreign magi on lands Longmist considers its own, particularly their vis sources. The influx of foreign magi over the last fifty years means different things for each of the younger magi. For Dara and Mícheál they may represent a threat to the traditions they have grown up with, but for Eochaid and The Cailleach they may represent new opportunities for freedom and learning. These stories arise from the covenant’s Fractured Council and also the Seclusion Hook.''
@@ -672,11 +656,14 @@
 
 ''Magi within Hibernia may wonder what has happened to the covenant of Longmist. While Redcaps report being received politely, the covenant has not attended Tribunal in any meaningful way for many years. The player magi could be tasked with investigating Longmist to determine the cause of this withdrawal and to see what can be done to bring them back.''
 ''The nomadic Clan mac Tire may approach the player covenant to gain allies in a raid on Longmist designed to retrieve its Cathach, the pelt of the Bjornaer magus Ualgrimm, with a promise of a share of the spoils. Longmist may seek aid in recapturing its Cathach, in which case the player covenant can negotiate its price before tracking the Clan mac Tire across Ulaid, a hunt that may even take them into Connacht. As a silent voice within the Tribunal, Longmist’s six votes may be turned toward any political aim supported by the player magi. Engaging with the covenant and persuading them of the merits of the argument is one potential storyline. On the other hand, Lugh’s extensive and polemic work on Hibernia’s future may see publication. The books are divisive and serve only to drive conflict across the Tribunal. Longmist may be approached by both sides of the argument, either to disrupt the flow of books or to ensure their publication. The elder magus Lugh fears that his end is near and he is willing to exchange the wealth of the covenant for as many new volumes in Magic Theory as he can so that he may increase his ability to renew his Longevity Ritual. Such a bargain may be made secretly through the Redcaps, which could create conflict with the other magi of the covenant. And of course, as an old covenant, Longmist already holds some unique magical devices. Troupes may also add any others that their sagas need, and the withdrawn magi of Longmist make a challenging barrier to acquiring such devices.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Moving Longmist to Other Tribunals==
 
 ''Longmist is located in the northeast of Hibernia, in the land of the Ulaidh, but with a little work the covenant can be moved to another Tribunal. The central themes discussed at the start of this chapter can also be adapted. For instance, the division within the covenant between embracing the outsiders and preparing for conflict with them can be replaced with both sides of the Harmonist-Wilderist debate prevalent in the Rhine. Their isolation may come from relocating the covenant to the cold Alpine mountains, or to the Holy Land. The Cathach has a particular importance in Hibernia, but even in other Tribunals, the retention of the pelt of a slain Bjornaer magus is a provocative act. Those who consider themselves Ualgrimm’s descendants still want to avenge this insult and still work toward reclaiming the trophy, either through their own powers or through allies.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

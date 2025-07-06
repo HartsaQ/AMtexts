@@ -31,14 +31,14 @@
 ''ANCESTOR SPIRITS''
 ''Berber elders and marabouts use dreams to communicate with their honored dead, essentially creating a cult dedicated to the preservation of tombs and the interpretation of dreams sent by spirits. While not strictly necessary, the best place to communicate with an ancestor is within that ancestor’s tomb. The dead maintain the scope of inﬂuence they possessed in life, and dead rulers are considered to watch over the whole of their people. The tomb of the former king of Mauretania, Juba II, is still visited by dream interpreters. To better receive the ancestor spirits’ dream guidance, Berbers constructed special niches within their pyramid''
 ''tomb complexes in which to sleep and receive their advice. Called “dream houses,” these niches are surrounded by a courtyard, square except for an extension in the middle of the side facing east. In the larger dream houses, the extension contains a small building modeled after the main pyramid tomb. Those who use such a structure gain a +3 bonus to Dream Interpretation checks made to understand dreams received while sleeping there. (See Realms of Power: Divine, page 137 for the Dream Interpretation ability) The largest complex of these tombs sits atop two hills in Mauretania, where''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Tomb of Tin Hinan==
 
 ''Set into the mountainside in Tilﬁlalt, the tomb is ten days south of Fes. The Ahaggar Mountains surrounding the tomb have spiritual signiﬁcance to the settuten, since they are the center of the Great Desert, and may be the haunt of Lazz, “the Great Hunger.” The Tuareg tribes take turns enjoying the honor of guarding the tomb and fanatically defend it from outsiders, although they do not halt settuten, regardless of their origin. Tin Hinan’s tomb is the only remnant of her former palace at Abalessa, a multi-chambered structure built on top of a hill. The tomb and the immediate area have a Magic aura of 5. The queen lies in state on a leathercovered bed, wearing seven gold bracelets on her right arm and eight silver bracelets on her left. She is still consulted, via the Divination Ability, for assistance and advice. If a character can understand the Libyan script and language, the inscriptions on her tomb can be studied as summae on all of the settut Supernatural Abilities plus Divination. The Level and Quality vary from 6 to 12 depending on the subject. Anyone resting in the entryway of the tomb with a token of Corpus or Creo vis often beneﬁts from a magical healing sleep. Few realize their good fortune comes from the ghost of Tin Hinan herself.''
 
-|]
+|}
 ''a collection of Berber kings, high priests, and renowned ancestors rest. It is located south of Tahert, and the Imazighen regularly send their best dream interpreters there to divine potential threats to the region and the Berber people. Many other ghosts also haunt the area, and it has a Magic Aura of 3. The one of the most famous tombs is Abalessa, the resting place of Tin Hinan, Queen of the Berber, Progenitor of the Tuareg, and a powerful settut. Tin Hinan originated in the Atlas Mountains, but was driven by a prophetic dream to travel across the desert. She rode on a white camel laden with millet and dates, and was accompanied by her servant Takama. Finding the land empty of inhabitants, she established herself at Abalessa in the Ahaggar Mountains, where she gave birth to three daughters Tinhert (“antelope”), Temerwelt (“hare”), and Tahenkot (“gazelle”) who founded the royal tribes of the Imazighen and Tuareg. Takama was the progenitor of the servile caste. Tin Hinan was unable to abandon her people even at her death, and her shade is bound to the desert. She answers petitions from the Brides of Ayyur and shares what information she can with them. Her overwhelming goal is to aid and protect the Imazighen, and so she remains until the tribes no longer seek her out.''
 
 ==Tattoo Magicians==
@@ -103,8 +103,8 @@
 ''Making a Greater Amulet is a seasonal activity, but does not require a laboratory, just a sheltered spot in which to work and the necessary tools and materials. To make a batch of iharzen, the character gathers the materials she needs and performs rituals to the gods of the Berbers. The process is physically demanding, and the settut loses one Long Term Fatigue level for the whole season. A settut can take up to ten days absence from making Greater Amulets with no penalty; any more than that and she incurs a –2 penalty per day to the Potency of each batch. A settut can make up to four batches of Greater Amulets in a season, one batch for each Supernatural Ability requiring them. Each batch has a base cost of one pawn of vis per ﬁve points (or fraction) of the Supernatural Ability, and she has to pay this cost for every three amulets she makes. She can make a total number of Greater Amulets equal to twice her Craft: Iharzen Ability, and these are divided however she wishes between the batches. A settut with insufﬁcient vis may choose to make fewer amulets than her maximum.''
 ''Example: a settut has Craft: Iharzen of 5, Disjunction 9, Dismissal 5, Dissidence 6, Dissolution 12. She can make ten Greater Amulets in total. She makes a batch of six Disjunction amulets for a total cost of 4 pawns of vis, and a batch of three Dissolution amulets for a total cost of 3 pawns. With her last pawn of vis she makes a single Dismissal amulet, although if her Craft: Iharzen were higher she could make three for the same cost.''
 ''Each batch of Greater Amulets has a Potency, which is used to calculate a Casting Total. This Potency should be recorded on the character sheet. Greater Amulets beneﬁt from the aura modiﬁer of the place of manufacture rather than where they are used. A settut can incorporate Design & Inscription bonuses (see earlier) into a Greater Amulet; her total bonus cannot exceed her Craft: Iharzen Ability. Each amulet in a batch can incorporate different Design & Inscription bonuses.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Settuten and Vis==
 
@@ -114,7 +114,7 @@
 
 ''Experience points applied to the settut’s magical Abilities usually comes from Practice; Gifted settuten can also study from vis. Settuten who hound Solomonic sorcerers from Berber lands or exorcise hostile spirits can also earn story experience. Rarely, a settut will agree to teach another in exchange for vis or Greater Amulets. Certain grave sites in Imazighen lands have ancient inscriptions in Phoenician or Libyan, and settuten who understand these languages and read their scripts have found that they encode magical secrets. These texts are studied as if they are tractatus on one of the Supernatural Abilities of the settuten; the Quality is rarely more than 9, and often less if the text is exposed to sun and sand. Very rare and holy sites like the Tomb of Tin Hinan (see earlier) are superior sources of knowledge, and may be studied as summae.''
 
-|]
+|}
 ''GREATER AMULET POTENCY: Intelligence + Supernatural Ability + Craft: Iharzen + Design & Inscription bonus + Aura modiﬁer''
 ''TOTAL AMULETS CREATED: equal to 2 x Craft: Iharzen''
 ''VIS COST PER BATCH: (Supernatural Ability/5) pawns for every 3 amulets.''
@@ -129,8 +129,8 @@
 ''PENETRATION TOTAL: Casting Total – Ease Factor + Penetration Bonus''
 ''EQUIVALENT SPELL LEVEL: Amulet Potency''
 ''The die used in the casting Total is a simple or stress die, as the situation warrants. A Greater Amulet with a Design & Inscription Bonus can be employed in situations where the bonus is inapplicable, but the bonus does not apply to its Potency.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Durations Available to Settuten==
 
@@ -141,7 +141,7 @@
 
 ''Phase  Rises  Zenith Sets Duration New  6 am  noon  6 pm 3 days Waxing Crescent 9 am  3 pm  9 pm 4 days Waxing Half noon  6 pm  midnight 3 days Waxing Gibbous 3 pm  9 pm  3 am 4 days Full  6 pm  midnight 6 am 3 days Waning Gibbous 9 pm  3am  9 am 4 days Waning Half midnight 6 am  noon 3 days Waning Crescent 3 am  9 am  3 pm 4 days Note that these moon phases are approximated for simplicity.''
 
-|]
+|}
 ''DISJUNCTION''
 ''The power of the settuten most feared by other magicians is Disjunction: robbing a sorcerer of his supernatural powers. A settut devours the ability to use magic, rendering the target mundane. This Supernatural Ability works on Gifted and unGifted magicians alike, although the power is more difﬁcult against a character with The Gift. It also works on characters with Faerie or Infernal equivalents of The Gift, but not on characters with True Faith, who are immune to the effects of this Ability. The amulets crafted for this Ability are metallic in nature and heavy, but they are brittle and easily broken. The settut can affect a person in one of three ways: he must eat food or drink something that has had a dissolved amulet added to it; he must have it touched to his bare skin; or else he must be manipulated into breaking the amulet in the settut’s presence. Once this happens, the amulet is employed and must Penetrate any Magic Resistance (using the Vim Form) and have a Casting Total equal or greater than the highest applicable Ease Factor to take effect. For example, a character whose Gift has been Opened and also has Supernatural Virtues has an Ease Factor of 21.''
 ''Ease Factor Effect 12 Gifted character with   no Supernatural Virtues   other than the free one   that comes with The   Gift Virtue 15 unGifted character with   Supernatural Virtues 18 Gifted character with   Supernatural Virtues 21 Gifted character whose   Gift has been Opened''
@@ -176,8 +176,8 @@
 ''The amount of material destroyed depends on the type: one cubic pace of raw matter like plants, natural stone, water, or ﬁre; or one cubic foot of processed materials such as cloth, leather, wood, dressed stone, metal and processed liquids, although the settut can disintegrate part of a larger object up to this size. The settut can affect a greater number of individuals (or parts of the same individual) in a single use of this Ability as long as they all have the same source. So she may destroy all the water drawn from the same well, all the barley grown from the same batch of seed, all the stones from the same quarry, all the leather from one workshop. All affected objects must be covered by the dispersal of the amulet. For each +3 to the Ease Factor, increase the number of individuals tenfold. Berber communities tend to build walls from stones drawn from many different sources to ward speciﬁcally against this magic. If the settut desires precise Dissolution (such as carving a statue with this power), this requires Dexterity + Finesse rolls against an Ease Factor of at least 9, but it could be higher for complex or large projects.''
 ''DIVINATION''
 ''This is a variant of the Virtue found in Chapter Seven of The Mysteries Revised Edition. More information can be found''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Ceremonial Bonuses for Divination==
 
@@ -185,7 +185,7 @@
 ''Divination method   Description   Ceremonial Bonus Aleuromancy   burning or cooking ﬂour  Herbam +2, crops +5 Alomancy   patterns in thrown salt  Aquam +1, Terram +2, weather +3 Ashagalomancy   casting bones   Ghosts +3, Corpus +4 Capnomancy   fumes from burning poppies Imaginem +2, dreams +2, mental illness +3 Eosophoromancy*  movement of Venus   Romance +5, beauty +3 Geomancy   patterns in earth or dust  Kingdoms +2, Terram +5 Necromancy   the body of Tin Hinan**  +10 events affecting the Imazighen as a whole Ophidomancy   behavior of serpents  Supernatural creatures +3, health & medicine +4 Ornithomancy*   behavior of birds  Elections +3, judgments +2 Pyroeimancy*   movement of Mars  Ambition +3, war +5 Scapulomancy   roasting shoulder blades  Farming +2, herds +5''
 ''*used only by Tuareg diviners **see the Tomb of Tin Hinan, earlier''
 
-|]
+|}
 
 ==Example Divinations==
 
@@ -219,8 +219,8 @@
 ==Warping and the Tamzawit Curse==
 
 ''A settut gains Warping points through the usual methods, although she does not take Warping points from living within a strong Magic aura, as normal for characters with Magic abilities. However,a settut does not suffer the same effects of Warping as regular folk. Instead she suffers a unique form of curse, causing her body to dissolve into a whirling column of sand and wind called a tamzawit. Berbers believe that all sandstorms and dust-devils are the ghosts of witches, and they might not be far from the truth. Old settuten with a high Warping Score become immense storms incapable of returning to human''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds: The Settuten==
 
@@ -233,7 +233,7 @@
 ''FOREWARNED IS FOREARMED''
 ''A cabal of sahirs, perhaps as a prelude to an Arab invasion of Berber territory, concoct a plan to murder the tineqiqqiten at the grand convocation. Without these individuals, the settuten can no longer Open The Gift, and they may lose some or all of the Initiation Scripts. Through premonitions and omens the tineqiqqiten have an inkling of their fate, and are seeking allies. Of course, the settuten do not reveal the reason for the proposed alliance to the characters, at least not all at once.''
 
-|]
+|}
 ''form, and cursed to wander the desert wastes. The change comes upon her whenever she gains enough Warping Points to increase her Warping score by 1, and lasts for at least a month. While under the curse, she takes the form of a dust-devil of a Size equal to her Warping Score. The settut cannot use any of her Abilities or magic, although she is immune to aging, damage, fatigue, and deprivation. She can only really be harmed with magic, and is treated just like a mundane weather phenomenon. If destroyed she reforms at the next moonrise. She has no control over her form, but travels the land at random. She is aware of the world about her for the duration of the curse, and can be spoken to with appropriate magic. Wilderness Sense also allows a character to communicate with a settut tamzawit. A settut gains no experience points for the time spent as a tamzawit. After a lunar month as a tamzawit, a settut can try to end the curse. She makes a Stamina + Concentration roll against an Ease Factor equal to (6 + Warping Score); if she succeeds, then the curse is at an end. If the roll fails, then she must spend another month as a tamzawit before trying again. If she botches, she gains additional Warping points equal to the number of zeros on the botch dice.''
 ''REFORM HUMAN SHAPE: Stamina + Concentration + stress die''
 ''EASE FACTOR: 6 + Warping Score''
@@ -247,28 +247,28 @@
 
 ''The settuten are an integral part of Imazighen culture, a situation that is alien to magi of the Order of Hermes, but which is familiar to the Order of Solomon further east. They often use their magical powers on behalf of their community; although if treated badly, a disgruntled settut can be a true curse. Gifted settuten live apart from towns and villages, often within an ancient tomb or that of a local marabout. The unGifted settuten are not forced by circumstance to separate themselves in this manner, but often do; either way the''
 ''settuten do not marry, which is mildly scandalous within Berber society. They typically use herbal remedies to avoid pregnancy in emulation of their sterile goddess. When not using their magic, they teach women how to read and write, or act as healers, bone-setters and apothecaries. Some settuten (usually the unGifted ones) become prostitutes as a quick route to wealth. The advice of the local settut is sometimes sought, most often by the tala (the women’s court); although it is always kept in mind that the settut are devotees of Yemma-t n Dunnit, who is the dispenser of evil counsel. The settuten are also the priestesses of the pagan Berber religion; despite having small congregations, they are often asked to perform folkloric rites such as blessing a birth and burying the dead even within a predominantly Islamic area. They keep a close look-out for Gifted children during these rites; a male child is usually ‘cured’ of The Gift by a Disjunction effect lasting a Lunar Year, whereas a female child may be adopted as an apprentice when she is of sufﬁcient age. Of course, not all children manifest The Gift at birth, so inevitably some escape these fates. The Tisliten n Ayyur have irregular meetings between local practitioners; there is also a grand convocation held every nineteen years. When attending''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Note on Tuareg Males with Settut Powers==
 
 ''As Tuareg settuten lack the Disjunction power of their cousins, Gifted Tuareg boys cannot be magically neutralized as easily. If discovered early such children are either raised as girls and inducted as settut, growing up with the Transvestite Flaw, sold as slaves to northern traders, or abandoned in the southern deserts in the hope they will be adopted by the Faerie jnun of the Kel Asouf or die of exposure. Some of these abandoned males are found and assimilated by the Blue Men, accepted by the outcast inenden, or perhaps even adopted by wandering sahir and Hermetic magi as apprentices. Some male Tuareg with long experience in the deep desert and some of the Magic-kin referred to as Blue Men''
 ''(see later) have also developed the settuten power over distances referred to as Dislocation, either from a Mystery initiation or as a gift from the spirits of the deep desert. Males with this power can create either Lesser or Greater Amulets using the rules presented earlier but the amulets produced take the form of ﬁnely carved cypress wood or metal objects set with ancient Libyan runes. The menfolk keep this magic secret from the settuten and their warrior comrades for fear of being accused of witchcraft. Unlike their magical womenfolk, Tuareg men with this Accelerated Ability do not gain any magical Defenses, unless they are raised as a true settut and possess the Transvestite Flaw.''
 
-|]
+|}
 ''one of these meetings, a Gifted settut uses a Disjunction amulet on herself to negate her Gift or Supernatural Abilities. These amulets are provided by stronger sorceresses to those incapable of negating their own Gifts. This has a double advantage: it negates the social penalty of The Gift, and also prevents rivals from using magic to attack each other. The tineqiqqit use Magic Sensitivity to ensure that everyone has completed this requirement before negating their own magic. Local convocations take place on the instigation of one of the informal leaders of the settuten, the tineqiqqit (those who possess the Divination Ability). These seeresses are the last to use Disjunction on themselves, as their ﬁrst task is to Open The Gift of any new members and assist unGifted settuten in Initiation into the tradition’s Favored Abilities, both of which require the use of their magic. At a convocation, the settuten swap news, trade knowledge, and report on prior divinations. The local meetings also vote to blacklist individuals or towns who have treated a settut poorly, or to lift an existing ban. Blacklisting prevents the named person or persons from receiving help from any settuten, and makes them fair game for any malicious individuals wanting to practice their curses. Local meetings also report any sightings of Asehharen (sahirs), to whom the settuten are particularly opposed. Encroachment of a Solomonic summoner into Berber territory normally provokes the local settuten to band together to hunt him; they Dismiss his spirits and Disjunct his magic, then turn a warrior band on him to chase him out of the tribe’s lands. The settuten of nearby tribes are also warned of his presence. The grand convocation takes place when the full moon returns to the constellation of Cassiopeia on the shortest day of the year; an event that takes place every 19 years. The timing of the next grand convocation is left for the individual storyguide to decide. The convocation takes place at the Tomb of Tin Hinan, and many settuten try to make at least one of these meetings in her life; the tineqiqqiten are expected to attend every one. Apart from being much bigger, the grand convocation is not much different from a local one, although there are opportunities to meet with settuten''
 ''from far away, along with other exotic sorceresses and occasionally supernatural creatures that attend as guests. Before each grand convocation all the tineqiqqiten gather to independently seek the fortune of the settuten with Divination, and they repeat the divination until all have reached a consensus on what the future holds. Since they are all still inﬂuenced by the social tension engendered by The Gift, these divinations can be fraught with strife, and it is usually the strongest or most aggressive settut whose opinion holds the most weight.''
 ''TUAREG SETTUTEN''
 ''The Tuareg have their own settuten. For the most part these settuten are the same as those found amongst the Imazighen; the two groups recognize the common origin of their powers, but do not consider themselves to be members of each other’s tradition. A Taurgi settut has the Dislocation Ability rather than Disjunction, and the Dismay Ability instead of Dissidence. They transform into a waral lizard instead of dust-devil form when suffering from the Warping effects of the tamzawit curse and may possess the common Skinchanger (Waral lizard) Virtue rather than the Dust Devil Virtue. Tuareg settuten are usually adept at the Geomancy variant of Divination. The rare Tuareg seeresses are considered the appointed guardians of the shrine of Tin Hinan at Abalessa and the designated representatives for the southern settuten as a whole. Character creation is otherwise the same as for other settuten, taking into account Tuareg culture. Tuareg settuten cannot suppress their Gift as can other settuten. As a consequence, they tend not to co-operate with one another, and there is usually a single settut attached to each band. They use their powers to move the band across the vast spaces of the desert, and to make lightning raids on caravans and villages. Many Tuareg settuten disguise themselves as men to accompany these raids, wearing a litham veil to blend into the warrior band, and some possess the Transvestite ﬂaw. When Taurgi bands meet, they may trade their settut with another band that has need of her services; the settut usually has little say in this. This exchange ac''
 ''tually protects the settut from feelings of resentment engendered by her Gift, but also prevents close associates becoming inured to its effects. If ill-treated, a settut can be a dangerous foe, and this usually prevents her from being treated like a possession rather than a person. Tuareg settuten do not hold local convocations. Whenever bands meet, their settuten share any information they have gleaned with their sisters, but that is as much social structure that they have. However, Tuareg settuten do attend the grand convocation, where they form an exotic spectacle, keeping themselves aloof from the other magicians and sneering at the lesser humans. Settuten who prefer the raider lifestyle rarely attend the regular convocations for fear of being accused of being asehharen (sahir). They deign only to speak with the tineqiqqiten, and only then in their own dialect of Tamazight. Distrustful of Berber ‘witchcraft’, they must nevertheless accept a Disjunction effect or be refused attendance.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Entrancement and Induction==
 
 ''Entrancement and Induction appear similar, because they have a similar scale of Ease factors, but they differ in practice. Entrancement takes control of a character’s will, and dictates their actions, but does not affect what they believe or experience. Induction causes a character to sense things which are not real, and may convince them of things which are not true, but does not force them to act. It is possible for characters to have both Entrancement and Induction, and to use each to bolster the other. For example, “Speak to me” is an innocuous Entrancement, which allows Induction to begin. Inductions that convince a character that something is less risky, or more necessary, than it truly is alter the Ease Factors for Entrancement.''
 
-|]
+|}
 
 ==Minor Magical Traditions==
 
@@ -385,14 +385,14 @@
 ''also have the ability to make wondrous items. A single crafter is generally able to only make items which draw powers from one or two Hermetic Forms (and any Techniques), depending on whether they possess the appropriate Major or Minor Virtue. These magical effects have a Penetration score of 0. Detailed rules for creating wondrous items are found in City and Guild on pages 70–73.The character can incorporate Design & Inscription Bonuses into their creations (see earlier), but only up to the limit of their relevant Craft: Woodcarver, Craft: Jeweler or other relevant Craft score.''
 ''INENDEN CRAFTER''
 ''Major, Supernatural This character belongs to the minor inenden craft tradition of the Tuareg. The character possesses equivalents of the Maker of Water Vessels and Maker of Textured Vessels Minor Supernatural Virtues (detailed earlier), but produces wooden or metal tools if male or glass and metal jewelry if female. This Virtue also includes the effect of the Crafter’s Eye Minor Virtue detailed below.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Greater Inenden Craft Magic==
 
 ''Rare Gifted ineden may exist and possess more advanced magic at the troupe’s discretion. Relying on amulets created from leather and metal work, rather than the henna based tattoos of their northern Berber equivalents, the imerghi, they may be similarly modeled using the mechanics for Cunning Folk presented in Hedge Magic Revised Edition. Unlike their European counterparts, they cannot use spoken charms (equivalent to the Flaws Laboratory Magician and No Text Casting), but may have skill in Mythic Herbalism.''
 
-|]
+|}
 ''TOUCHED BY (REALM)''
 ''Major, Supernatural Through membership of the inenden caste, the character has a small amount of magic in his blood. This allows the inenden to craft non-Hermetic magical items limited to only two Forms (Terram and usually Animal, although some have ability with Corpus, Herbam, or Mentem). This supernatural ability does not interfere with any type of social interaction. You must determine the source of this power: Divine, Faerie, Infernal, or''
 ''Magic. He is considered to be afﬁliated with the realm you choose, and thus immune to Warping due to prolonged exposure to auras of that realm.''
@@ -415,29 +415,29 @@
 
 ''Magic abounds in Africa, and has left its mark in the blood of some craftsmen. Certain such individuals can instill minor magical enchantments into their creations. These items are called “wondrous” by their crafters and the buying public; Hermetic magi ﬁnd this title grandiose. This magic-work is not''
 ''Hermetic magic, although many of the resulting effects can be easily mirrored by minor formulaic spells. There are a number of styles of craft magic in Africa, and that used by crafters with a drop of magic in their blood is just one of the many varieties. Most produce items that are too minor to qualify them for membership of the Order of Hermes and have remained on the fringes. To create wondrous items, a character must have the Major Supernatural Virtue Touched by (Realm). You must also select two Hermetic Forms for the character at character generation. The powers of every wondrous item the character creates must fall within those two Forms, although you may use any Technique when determining the exact nature of the power instilled. While these effects and their use are similar to Hermetic magic, the power that a craftsman instills is based on less predictable forces. There are essential differences between wondrous items and Hermetically enchanted items, namely the latter’s predictable operation and ability to affect other magical entities or items. Wondrous items have no Penetration scores and cannot affect anyone with even the slightest Magic Resistance. Wondrous items are made for a speciﬁc customer. A blacksmith does not have a collection of wondrous horseshoes available for ready sale, but must create a set designed for a speciﬁc animal. Because of this close association, each wondrous item acts as an Arcane Connection to the person it was made for, rather than to its maker. The Arcane Connection lasts until the recipient dies, and for a number of years after that. Roll a simple die on the recipient’s death to determine how much longer the connection persists. This connection can be broken like any other, but if it is the item loses its powers. It takes a least one season to create a wondrous item, during which a character cannot perform any other seasonal activities, although he can work alongside his staff while they are engaged in the regular operations of the workshop. He may be assisted by one helper for every two points he has in his Leadership score. The assistant need only have a score in the speciﬁc Craft Ability. The process begins''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Common Wondrous Items of Africa==
 
 ''Here is a suggested list of some of the supernatural effects that African wondrous items can have. They can serve as guidelines for your troupe in creating such minor enchantments. Each item works once per day. Craft Levels have been included in the examples, determined by the magnitude of the Hermetic effect + 12. The Ettebel of the Chief: Carved from wood with a gazelle-hide skin, this drum creates the effect of an Aura of Ennobled Presence when struck by an amenoukal or Tuareg chieftain. Craft Level: 14: Magnitude 2 (Muto Imaginem Base 3, +1 Touch, +2 Sun) Odili of Soothing: This child’s ﬂute of sorghum wood holds an animal motionless as long as the ﬂute is played, as per Viper’s Gaze. Craft Level 15: Magnitude 3 (Rego Animal Base 5, +1 Eye, +1 Concentration) Saddle of the Temperate Camel: This carved wooden Tuareg saddle, when placed upon a stubborn camel, makes the animal follow commands as if well trained, as per Mastering the Unruly Beast. Craft Level 17: Magnitude 5 (Rego Animal Base 15, +1 Touch, +1 Concentration)''
 ''Jar of Potable Water: Filling this clay vessel with salt water triggers an effect which removes all salt, making the water refreshing and safe to drink as long as there are no other toxic impurities. Craft Level 15: Magnitude 3 (Perdo Terram (Aquam) Base 2, +1 Touch, +2 Mineral, +1 Complex). Bukar of Clear Sight: This simple black turban enhances the wearer’s long distance vision as per the effects of the spell Eyes of the Eagle. Craft Level 17: Magnitude 5 (Intellego Imaginem Base 3, +2 Sun, +4 Vision). Boots of the Tahr: These strong leather boots allow the wearer to climb like a goat, gaining a +3 to all rolls to climb and descend steep cliffs. Craft Level 13: Magnitude 1 (Rego Corpus (Animal) Base 2, +1 Touch, +2 Sun, requisite free). Hyena Pelt: This mantle and hood allows the wearer to change into a hyena. The pelt, but not his other clothes and items, change with the transformation. The wearer remains a hyena until the effect ends, at either sunrise or sunset. Craft Level 17: Magnitude 5 (Muto Corpus base 10, +1 Touch, +2 Sun).''
 
-|]
+|}
 ''by taking exact measurements and weights of the item’s recipient, as well as collecting her hair, blood, and other bodily excreta. After selecting the ﬁnest raw materials available, the character begins the enchantment process. The Craft Level of a wondrous item has a base of 12. Like other ﬁnished goods, the Craft Level can be modiﬁed by the storyguide according to the situation. Next, estimate the level of effect a Hermetic spell that mirrors the power the character wishes to instill would have, and add the magnitude to the Craft Level. The powers of a wondrous item are not as ﬂexible as Hermetic enchanted items. The Range of the effect must be Personal or Touch, since wondrous items can only affect themselves or the bearer of the item, the Duration cannot be''
 ''greater than Sun, and the Target must be Individual. The craftsman must also determine how often he wishes this power to occur. Consult the Effect Frequency Table (ArM5, page 98) and add this number to the Craft Total. A wondrous item can only have one instilled effect.''
 ''WONDROUS ITEM CRAFT LEVEL: 12 + Magnitude of Hermetic Effect + Modiﬁer for Number of Uses per Day''
 ''To make a wondrous item the Workshop Total must be higher than the Craft Level.''
 ''WORKSHOP TOTAL: Characteristic + Craft Ability + aura modiﬁers''
 ''If the craftsman has a helper, add half the helper’s Craft Ability score to the Workshop Total. The crafter of a wondrous item can only have one assistant. For each point the Workshop Total is above the Craft Level, the craftsman accumulates one point toward the item’s completion per season. Once the accumulated points equal the Craft Level, the item is ﬁnished. The craftsman may add any applicable bonuses listed on the Shape and Material Bonus chart (ArM5, page 110) for his wondrous item to his Workshop Total. This bonus is limited by his Craft Ability score. If starting with an excellent quality item, the bonuses from the excellent item may be added to the Workshop Total if the enhanced features of the wondrous item are similar to its ﬁnal instilled power. For example, an excellent quality cloak that provides a +2 bonus to Charm rolls can be added to the Workshop Total to make it a supernatural item with a power similar to the spell Aura of Ennobled Presence. A wondrous item can only be used by the person for whom it was crafted. Hermetic magic can learn this if the item’s enchantment is investigated in the laboratory. Wondrous items have verbal triggers to activate their power. The bearer touches the item and recites a speciﬁc word or phrase determined by the crafter during construction. Divine wondrous items are''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Hunger and the Dessicated Men==
 
 ''Deep within the Tanezrouft, the “Land of Thirst,” wander the Dessicated Men, a darker variant of the Blue Men. Variants of the Drowned Men presented in Realms of Power: Magic (see pages 96–97 for details), these Transformed Humans are created from Tuareg on the brink of death from thirst, heat and exposure. At the point of death, a magical pact is forged with the desert Daimon known as the Hunger or the Red and the nomad is brought back in a semblance of unlife as a servant of the greater spirit. Superﬁcially similar in appearance to the true Blue Men above, the Dessicated Men possess the following Virtues and Flaws: Transformed Human and the Major Story Flaw: Servant of the Desert. Neither free nor proud, although these unliving men have lost much of their humanity, they commonly use the patronymics Ag Lazz or ibn al-Ju’ to denote their supernatural allegiance to their Daimonic overlord. Dessicated Men appear to be aligned to Aquam, but in a negative sense, exhibiting powers over creating thirst and evaporation of water. Some possess additional powers and can control heat, create sandstorms, or summon swarms of desert creatures to do their bidding.''
 
-|]
+|}
 ''triggered by saying a small prayer, Infernal wondrous items by an unholy name, Faerie wondrous items by a quick song or pagan prayer, and Magic wondrous items by a special phrase or arcane word.''
 
 ==The Blue Men of the Desert==
@@ -457,14 +457,14 @@
 ''Inherited Virtues: Personal Power: Deceitful Tongue, Lesser Power: Trembling Fear of the Predator’s Gaze, Skinchanger (this does not require an item, but the bouda may only change into hyenas, and only at night), Wilderness Sense Common Virtues: Personal Power: Rending Fangs, Ripping Jaws, The Beast Between Common Flaws: Driven: Terrorizing communities (Major), Dark Secret, Offensive to Animals.''
 ''Deceitful Tongue 0 points, Init (Qik+3), Imaginem R: Per, D: Sun, T: Ind The bouda may alter its voice to sound like another person or creature, speaking with a human voice in any language known to the creature, regardless of form. MuIm 3 (Base 1, +2 Sun): Personal Power (5 levels, –1 Might cost, +3 Init)''
 ''Rending Fangs 0 points, Init Qik –3, variable Form R: Touch, D: Mom, T: Ind The bite of a hyena can destroy leather, bone, wood, cloth, stone, and metal with equal ease, as long as they can get their teeth around the object. In combat, they can use this power at the same time''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Predators and Prey Alike==
 
 ''A pack of bouda has begun hunting the local countryside and acquired a taste for the covenfolk of the magi. Will the magi discover the source of these killings and obliterate the bouda or bind them to their service? What happens if the bouda manage to inﬁltrate the covenant and start hunting from the inside? If the bouda do serve the magi, will their new masters satisfy the shapeshifters’ hunger for human ﬂesh with slaves or make true scavengers out of them?''
 
-|]
+|}
 ''as an attack to remove a point of Protection from their opponent’s armor. They can also deliberately attack an opponent’s weapon or shield to destroy it. Resolve such an attack against weapons or armor as normal, and it succeeds if the hyena beats the opponent’s Defense Total by 3 or more. No damage is inﬂicted, and this power cannot be used at the same time as the Ripping Jaws power. PeTe(An, He) 30 (Base 5, +1 Touch, +2 affect metal, +2 Requisites) Greater Power (30 levels, –3 Might cost)''
 ''Ripping Jaws 0 points, Init Qik–2, Corpus R: Touch, D: Mom, T: Ind The wounds inﬂicted by a hyena’s dreadful jaws are truly heinous, and take longer to heal. Chunks of ﬂesh are often ripped off, bones broken and organs ruptured. A character injured by a bouda with this power has a –3 to all recovery rolls, even those for wounds not inﬂicted by the bouda, until fully healed (ArM5, page 179). Incapacitating Wound recovery rolls remain unchanged, except that they should be described as being horriﬁc injuries with scars that never fade;''
 ''Fatal Wounds often result in the character being literally ripped apart. PeCo 20 (Base 15, +1 Touch) Greater Power (20 levels, –2 Might cost)''
@@ -501,29 +501,29 @@
 ''stant mystical effect with respect to Warping. Use of this Virtue in front of others (particularly mundanes) may have a strong psychological effect; a Brave roll (Ease Factor 9+the character’s Warping score) may be required to face such a creature. This Virtue can only be taken if the individual possesses either the Shapeshifter or Skinchanger Virtue, or the Lycanthrope Flaw. A similar Bjornaer Minor Mystery, Theriomorphy, is described in Houses of Hermes: Mystery Cults, page 29. Most Bjornaer magi dislike the Mystery and hedge wizards that employ this Virtue, but some manage to overcome their revulsion for shapeshifting in return for its utility.''
 ''FERAL SCENT''
 ''Minor Flaw, General Perhaps due to his beast blood or feral upbringing, the character has the strong natural smell of a wild animal. Humans tend to avoid being too close to him, and may be on edge in his vicinity without knowing why. He may well spook domesticated animals if he surprises them. He suffers a –1 penalty to social interactions (which stacks with the penalties imposed by The Gift, if he has it), and develops a negative Reputation of Unclean at level 2. However, if he has Initiated the Sensory Magic Mystery, any spells he casts with a Scent Target have twice their normal area of effect. (From Houses of Hermes: Mystery Cults, page 38)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Plinian Races as Faeries==
 
 ''Stories are told of the existence of the Plinian races, although they rarely fulﬁll any speciﬁc role in those stories other than as a wonder to behold. Nevertheless, a storyguide might prefer to use some or all of the monstrous races presented here as faeries rather than Magic Humans. This is a simple process, as most Magic Qualities have analogs amongst the Faerie Virtues. Faerie Powers are calculated the same way as Magic Powers. Faerie monstrous races will mostly be Incognizant of their status.''
 
-|]
+|}
 ''hanced control over their hyena form and gender, mind control powers, and either blacksmithing or woodcarving magic (typically Muto Terram or Muto Herbam effects). Some bouda have additional powers such as Animal Healing, Summon Animals, or additional smithing powers. Most human bouda are Gifted, but unGifted characters descended from bouda or Faerie-touched individuals can be initiated into the tradition using Initiations, following the rules presented in the Introduction of Hedge Magic Revised Edition. The Ordeal Flaws inﬂicted by these variant Folk With Initiations generally relate to the unsavory qualities of the hyena and their poor reputation or physical deformity: Feral Scent, Disﬁgured, Hunchback, Tainted by Evil, or Repellent. Required Virtues: Folk Witch; Gender Shift, Theriomorph, Touched by Faerie Realm. Required Flaws: Judged Unfairly, Short-Ranged Curses, Primitive Tradition. Favored Abilities: Animal Ken, Cursing, Entrancement, Healing, Second Sight, Skinchanger (hyena). Human bouda accumulate Warping in the same manner as other hedge magicians, but as their Warping Score increases they transform slowly into an inhuman Faerie bouda, similar to the way a gruagach transforms into a troll (see HMRE, page 71–72). This replaces the usual Witch’s Moon rules for this tradition.''
 
 ==The Monstrous Races of Africa==
 
 ''Africa is home to numerous tribes of monstrous races. These were mentioned, along with similar races in India, by ancient historiographers like Ctesias, Megasthenes, and Pliny, and are sometimes referred to as the “Plinian races.” In the main these peoples keep to themselves, living their lives much as their''
 ''human neighbors do. On occasion they come into contact with humans, either through encounters in the wilderness, or   because they visit towns to trade. While this is sufﬁciently uncommon to be a spectacle, knowledge of the existence and nature of these creatures is widespread, and they do not automatically provoke fear or hatred. In Ars Magica Fifth Edition, most of the Plinian monstrous races are Magic Humans (Realms of Power: Magic, Chapter 4). For sagas based in North Africa, they can be a curiosity born from the exotic''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Awful Truth About Anthropophagi==
 
 ''Anthropophagi share a Greater Malediction that prevents them from avoiding Acclimation through staying in a Magic aura; instead, they must conduct a ceremony at least once per year in which they eat human ﬂesh. Without this ceremony, they lose a Magic Quality each year until they have none left and become an ordinary (if hideous) mortal. Some are fortunate enough to have a family member die, and they can partake in feasting on his body: one corpse can feed ﬁve individuals. Failing that, an anthropophagus has to take matters into his own hands to keep his family alive. Those who tire of the constant quest for human meat and allow themselves to succumb to Acclimation are usually the ﬁrst to be preyed upon by their fellows. As a last resort, anthropophagi turn to nearby human settlements for their sustenance.''
 ''A well-kept secret of the anthropophagi is that not all of them were born into the race. A human who partakes in the ceremony gains the Transformed Human Virtue balanced with the Greater Malediction Flaw. A village of anthropophagi sometimes spares a victim’s life and share this secret, granting him continued immortality on the condition that he returns to his home and works to procure the sacred meal for them each year. A Transformed Human only gradually acquires the physical appearance of an anthropophagus: after partaking in ﬁve ceremonies he takes on the Disﬁgured Flaw to represent a degradation of his human features towards the horrid mien of an anthropophagus; after ﬁfteen ceremonies he has become sufﬁciently monstrous that he must leave human society and take up residence with his new kin.''
 
-|]
+|}
 ''backdrop of this land of fable, or central characters in the saga. Alternatively, players might use a member of the monstrous races as an unusual character. For a more exotic saga, the whole troupe could be drawn from one or more of these races. To create a character from a monstrous race one should follow the usual rules for Magic Characters (Realms of Power: Magic, Chapter 4). Most characters will be Spring season. Magic Might should be chosen according to the type of character and the saga constraints: a grog typically has a Magic Might of 0 to 5, and a companion character a Magic Might of 5 to 15. Each of the templates below have a set of Magic Qualities and Inferiorities that describe the race’s key characteristics; these are balanced for a net cost of zero. Note that in some circumstances not all the permissible levels of Lesser and Personal Powers have been spent. If created as Magic Kin (who have no Might score), any Powers can be translated to the appropriate Virtue. In common with all Magic Humans, the Plinian races have the Monstrous Appearance Inferiority for free, and like all magical entities they are immune to deprivation (hunger, thirst, and suffocation) unless stated otherwise. None of the races have their own language; they speak whatever languages are used by their human neighbors.''
 ''CHOOSING A SOCIAL STATUS VIRTUE OR FLAW''
 ''Magic Humans usually take one of the special Social Status Virtues or Flaws given in Realms of Power: Magic (Magical Master; Magical Champion; Magical Covenfolk; Magical Friend; Magical Monster) to represent how they are treated by human society. The monstrous races are better integrated into North African society due to long association, and as such the choices of a player in this regard are expanded to include many Virtues and Flaws available to regular humans. A Magic Human who moves into a town or city usually has the Outcast Minor Social Status Flaw: he is not human, and will never be completely accepted as human by his neighbors. However, at the option of the troupe, the character (or his family) might have a long association with the community in question, and may be able to choose a Free Social Status Virtue instead. Only in exceptional circumstances can a member of a monstrous race have a Major or Minor Social Status Virtue. One place where this might occur is at a covenant or amongst other supernatural characters. If a saga is set in the tribelands of a monstrous race, then a Magic Human could have any conceivable Social Status Virtue or Flaw. Note that a Magic Human who lives amongst humans needs some means of avoiding Acclimation (Realms of Power: Magic, pages 52 – 54); tribes of the Plinian races usually choose their homelands based on the presence of a Magic aura. Regardless of how he is treated by locals, when visiting a different region a Magic Human is treated as an Outcast. EThe exception is if his race is unknown or hostile to the populace, then he is treated as if he has the Outsider Major Social Status Flaw instead.''
@@ -532,8 +532,8 @@
 ''with an immense pot belly. His mouth is crowded with the tusks of a hippopotamus, and he has small piggy eyes and sparse hair. However, it is is not their appearance that repulses their human neighbors, but the anthropophagi’s habit of eating the ﬂesh of their dead. Any of their members that succumbs death through misadventure is ritually consumed by their friends and family. They avoid eating those who have died of disease, unless the malady is clearly limited to a single organ. The anthropophagi makes drinking vessels from the skulls of the most famous members of each family, and adorn themselves with other body parts. Unlike other Magic Humans, an anthropophagus is not tolerated in human settlements, for all they protest that they have no interest in eating those not of their own family. Modiﬁed by his Magic Qualities, the weapon statistics for an anthropophagus’s tusks are: Initiative 0, Attack +6, Defense +2, Damage +11''
 ''ASTOMUS, OR MOUTHLESS''
 ''Magic Qualities: Minor Virtue (Enchanting Music), Minor Virtue (Puissant Music), Personal Powers Magic Inferiorities: Minor Flaw (Fragile Constitution), Minor Flaw''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Astomus Power==
 
@@ -543,7 +543,7 @@
 
 ''Double Sighted No cost, constant effect, Imaginem R: Per, D: Sun, T: Vision A maritimus can see distant things clearly. No matter how far away something is, he can make out details as if it were only a foot away. Things do not all appear to be a foot away, he can simply make out details as if they were. He can still judge distances accurately, in fact more accurately, than normal, to within an inch or so at a distance of several miles. InIm 30 (Base 3, +2 Sun, +4 Vision, +1 constant effect) Personal Power x2 (30 levels, –3 cost)''
 
-|]
+|}
 ''(Warped Senses: Sensitive Smell), Reduced Fatigue The astomi have no mouth, but they have no need to breathe, eat, or drink. They get some form of sustenance through their sense of smell; they particularly like apples and often carry them around with them, from which they get their other name of “Apple-Smellers.” It is said that a particularly bad odor can kill them; this may not be true but it can certainly incapacitate one. An astomus is covered all over by soft and silky pale hair, but wears garments made of a soft cotton or down that is harvested from trees. Despite having no mouth, an astomus can still speak; they have high, trilling voices and superb singers. Emperor Frederick Barbarosa kept a choir of three astomi to entertain his court, although they did not thrive in the European climate, and soon sickened and died.''
 ''BLEMMYA''
 ''Magic Qualities: Minor Virtue (Puissant Bargain), Minor Virtue (Tough) Magic Inferiorities: Minor Flaw (Hunchback), Minor Flaw (Poor Hearing) The blemmyae are a race of merchants who live mostly in the deserts of Libya, although there is a large tribe living in the upper reaches of the Nile. They make very little produce themselves, but''
@@ -551,8 +551,8 @@
 ''mal human. Their hearing is poor, since their ears are positioned beneath their arms. Blemmyae have hairless bodies, and wear no clothes on the upper part of their body. Fortunately for them, their bodies are naturally more resistant to damage. Blemmyae who wish to wear armor must devise some means to permit themselves to see; this normally requires them to wear rigid armor like boiled leather or plate-and-mail with eye holes or a visor. They cannot use large shields effectively. Blemmyae warriors tend to be mounted skirmishers armed with slings rather than front-line ﬁghters.''
 ''CYNOCEPHALUS, OR DOG-HEAD''
 ''Magic Qualities: Gigantic, Minor Virtue (Sharp Ears) Magic Inferiorities: Major Flaw (Age Quickly); Susceptible to Deprivation The cynocephali are a race of dog-headed giants who can be found throughout the coastal region of North Africa. They are most common in Cyrenaica; some say that the Canary Islands are named after ancient Dog-Head inhabitants. According to lore popular in the Eastern Church (but known in the West), Saint Christopher was a cynocephalus born under the name Reprobus; upon baptism his fur turned white. A cynocephalus is of gigantic stature, reaching up to ten feet tall. Their bodies are human in form except for the covering of coarse black fur, thicker on the back and arms. Their heads are those of dogs, with erect ears and long snouts ﬁlled with dagger-like teeth. As well as having good hearing, a cynocephalus has an exceptional sense of smell, and receives a +3 to all rolls involving''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Panotius Power==
 
@@ -571,7 +571,7 @@
 
 ''Eyes of the Bat No cost, constant effect, Auram R: Per, D: Sun, T: Hearing A troglodyte can move around in complete darkness, as per the Hermetic spell of the same name (ArM5, page 127). InAu 30 (Base 4, +2 Sun, +3 Hearing, +1 constant effect) Greater Power (30 levels, –3 cost)''
 
-|]
+|}
 ''scents, including ﬁnding and following a trail. A Dog-Head often has the Afﬂicted Tongue Flaw, since his mouth and long tongue are not ideally suited to the production of words, although others of his race can understand him perfectly. The Dog-Heads have a primitive society that revolves around hunting with spears. Both males and females take part in this activity, and their prey are antelopes and wild goats. Occasionally they take livestock bringing them into conﬂict with humans. They do not cook''
 ''their meat; although capable of making ﬁre they have little use for it. They wear clothes made from the skins of their prey animals, and jewelry made from the bones; they occasionally trade skins and leather for wool garments, clay pots, and other consumables. Most cynocephali are pagan, worshiping the jnun and other spirits. Arab culture and Islam in general is hostile towards dogs, and this distaste carries over to the Dog-Heads.''
 ''MARITIMUS''
@@ -581,14 +581,14 @@
 ''obvious — when unfurled, they can be used as wings and enable the panotius to ﬂy. The panotii have skin as white as milk, but they are otherwise human in appearance, and dress in clothing typical of local humans. The panotii are a peaceful race who grow fruit trees in secluded valleys and oases, preferably in the shelter of tall cliffs. They do not eat meat or work metal, but are considered knowledgeable in legends and lore, and occasionally sought out for their wisdom. Most of them have the Noncombatant Flaw, and prefer to ﬂee to an inaccessible vantage point rather than ﬁght''
 ''TRIPITHAMUS''
 ''Magic Qualities: Greater Powers; Ignem Resistance, Improved Damage x 2*, Improved Initiative* Magic Inferiorities: Miniature, Major Flaw (Age Quickly); Minor Flaw (Small Frame) *These Qualities apply to the copper swords carried by warriors, see later. Only three spans high (27 inches, Size –3), the Tripithami come from the far south, on the edge of the torrid zone. They are also known as Pygmaei, ultimately from the Greek word for the length of the forearm. Their skins are black from being charred by the sun. They absorb the heat and light from the sun: their eyes shed light like a lantern letting them see in the dark, their breath is hot enough to boil water, and they can spit forth a bolt of ﬁre. They do not make any clothes, instead they braid their long hair into garments using grasses and beads. Tripithamus warriors carry a copper sword that bursts into ﬂame whenever drawn; these are prepared by the tribe’s priests, and only work in the hands of a tripithamus. Use the statistics of a short sword (ArM5, page 176) but increase Initiative by +3 and Damage by +6. Tripithamus society is matriarchal, and the involvement of their menfolk varies from tribe to tribe. In some tribes the men are little more than slaves, while in others they are almost equal to the women. Tripithami are mostly pagan and build shrines in honor of ﬁre and the sun. Tripithami grow crops and raise proportionally diminutive cattle for milk, and normal-sized goats or ostriches for mounts. They are at constant war with a race of supernatural cranes, who steal their grain.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Other Monstrous Races==
 
 ''An Amyctyra has a lower lip that protrudes so far it can be used as an umbrella against the sun. They live entirely on raw meat, and are unfriendly toward outsiders. The Androgynus, or Man-Woman has the anatomy of both sexes, and maintains a society that is independent of gender roles. An Artibatira walks on all fours, having shorter legs and longer arms than most humans, and a longer neck. They are otherwise human in form, but lack the power of speech. The Erythropodes, or Red-Feet, are twenty four feet tall. Their arms are white to the shoulders, and they have black ears, red feet, a round head, and long noses. They live near the river Brixon, a tributary of the Nile The Gorillae are a race of hairy humans mentioned by Hanno the Navigator, a Carthaginian explorer. They have six ﬁngers on each hand and boar’s teeth. The menfolk have tails in most tribes, although there are some tribes where both male and female gorillae are tailless. A Hippopod or Horse-Foot has just two long toes like those of an ostrich, and two broad ﬁngers like the claws of a lobster. They are exceptionally swift runners The Monoculus, or One-Eye, is often confused with cyclopes; while the race shares the single eye in the center of the forehead, the monoculus does not have the same gigantic stature.''
 
-|]
+|}
 
 ==A Note on Jinn and Realms==
 
@@ -609,14 +609,14 @@
 ==Jnun or Jnoun? – African Jinn and nonJinn==
 
 ''The terms jnun, jnoun and jinn are considered almost interchangeable, being just local dialect variations across the length of the Maghreb — the plural term jnun is used more commonly the further west one travels, whereas jnoun is used in the lands once dominated by the Carthaginians and the purer usage of jinn is heard more often in Egypt or spoken by Arabic merchants visiting from the east. In mechanical terms, a jinn is a specific class of creature subject to the Art of Sihr and its legacy of command passed down from the wisdom of Suleiman. Although many jnun (and jnoun) are jinn, there are many exceptions, giving rise to tales of Libyan and Tunisian “jinn” being much more difﬁcult to control than their eastern counterparts.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Awlad al-Hut==
 
 ''A secret brotherhood drawn from a select group of Tunisian ﬁsherman commonly known colloquially as the Ouata (“ﬁshermen”), the Awlad al-Hut are a small society of men who cling to pre-Islamic totemic beliefs amidst the orthodoxy emanating from Mahdia. Fisherman belonging to the society are initiated into a non-Hermetic Mystery Cult. They are predominantly unGifted, but some of their leaders may belong to hedge magic traditions and have the powers of Mythic Alchemists or Water Elementalists, seemingly aligned to the Faerie rather than Magic Realm (see Hedge Magic: Revised Edition).''
 
-|]
+|}
 ''GHOLAS: THE GHOULS''
 ''The ghola is a large female jinn that shifts shape to hide its normally grotesque form of a hairy goat-footed ogress similar to the teryel. Known as cannibals that attract their prey through softly worded mimicry of voices, these dark Faerie creatures resemble the ghula of other lands (see Realms of Power: Faerie, page 71). A more savage creature using the same name is found only in the eastern necropoli of the Siwah Oasis and has more in common with creatures living in Egypt or the Sinai mountains. These hulking ghuls possess sorcerous powers and assume the forms of jackals, hyenas, or vultures. Such ghuls are demonic jinn similar to the Infernal Ghul detailed in The Cradle and the Crescent, page 73.''
 ''SHAYATIN: THE DEVILS''
@@ -630,14 +630,14 @@
 ''Unique to Africa, and found in particular living in the coastal areas around the Tunisian peninsular, are the jnoun al-Bahar, the jnoun of the sea. Said to inhabit all the oceans, this highly hierarchical tribe of Faerie creatures is ruled by their own sultan, Sidi Moussa, who dwells in a vast Faerie regio off the southern Mediterranean coast named “the seventh depth.” Sidi Moussa in turn pays homage only to the Sultan al-Hut, the Lord of Fishes, a dark and powerful pre-Islamic Faerie deity that is the apex of a feudal court of marine animals. Baharia resemble mermen or tritons, with human torsos and their lower bodies resembling ﬁsh. They are believed to be responsible for storms and tempests, occasionally prompting sacriﬁces and rituals from superstitious locals despite the teachings of Islam. Details for mermen and tritons are given in Realms of Power: Faerie, pages 90–91. Although Faerie creatures with many similarities to their land-dwelling jnun cousins, baharia are not considered true jinn mechanically and cannot be affected by Sihr. They may share many of the Traditional Wards of jinn, including acknowledging the authority of Islam, and can be summoned using other magical powers, but the magic of Solomon’s legacy appears to have little effect on them.''
 ''SIADNA: THE MASTERS UNDERGROUND''
 ''The Walad al-Ahmar (“sons of the Red”) and the Walad al-Akhdar (“sons of the Black”) are faerie creatures that live mainly amongst the people, albeit invisible or in the form of animals such as dogs, donkeys, camels, serpents, chickens, ﬁsh,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Al-Maghrebi: the Dark Magicians of Morocco==
 
 ''Throughout the Thousand Nights and One Nigh, the motif of the evil Moroccan magician runs like a sinister thread linking together tales of foolish trusting youths transforming into wise heroes after falling foul of the wiles of Moorish enchanters. These Faerie wizards commonly have non-Arabic names, typically Berber but in some of the more western tales and retellings of the story a similar ﬁgure with magian origins and Persian features ﬁlls the role of the primary antagonist. Seemingly Zoroastrian versions of these faeries are referred to as al-Majusi.''
 
-|]
+|}
 ''or, particularly, cats. They dwell underground in secret lairs and palaces, corresponding to the common faeries of Europe in terms of roles and forms. These faeries most closely resemble the jinn of the east and are vulnerable to the traditional wards common to other jinn and the binding magics''
 ''of sahir. They can be created in more detail using the same rules for Pious jinn presented in The Cradle and the Crescent, Chapter Four: the Jinn.''
 ''KEL ASOUF: THE PEOPLE OF THE EMPTY PLACES''
@@ -680,14 +680,14 @@
 ''ABILITIES''
 ''These Abilities are often used by murabitin.''
 ''Craft Amulets The murabit tradition uses the Craft Amulets Ability in combination with their Holy Methods and Powers to aid and protect individuals and places. All amulets are created with Touch range and the new Worn duration, which is equivalent to Sun. The target may be Individual, Room, Structure, or Boundary. In the case of targets other than Individual, the amulet is considered Worn while it is in contact with or buried beneath the target. The Boundary target would normally imply a ritual, but in the case of amulets this instead adds a further 20 to the effect level. The Worn duration lasts until either the amulet is broken or is removed from the target. Two types of amulet may be created, Minor and Major. Minor amulets are designed for a speciﬁc Individual target and take (12 – Craft Amulets to a minimum of 1) hours to create. These amulets require the crafter’s Craft Amulets Total to be at least double the target level of effect. They usually last a matter of days or weeks, determined by the quality of their construction (Dex+Craft Amulets + simple die roll = number of days amulet lasts). Major amulets take a season or more to create. Once the level of effect has''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Dream a Dream of Days Past==
 
 ''The characters discover the talents of the local murabit and seek him out to learn the location of a speciﬁc spirit, lost site, or other fragment of antiquity known to the restless dead ancestors the murabit can call. With knowledge stretching back to the days of the Roman Empire, the dreaming ghosts offer a rare, though occasionally unreliable, source of knowledge based on experiences from their lives. Could the murabit’s talent serve as a stepping stone to the Ancient Magic of Canaanite Necromancy (see Ancient Magic) or Insight into creating an initiation for the Mystery of Dream Magic (See The Mysteries Revised Edition)? How do the characters intend to convince the pious murabit to share his wisdom — can a magus become an adopted son after rescuing the scholar’s ﬁrstborn boy from a bargain with a sahir and an unsavory fate at the appetites of an insatiable slaver jinn?''
 
-|]
+|}
 ''been determined, the craftsman must spend consecutive seasons working on the amulet. For each point by which the Craft Amulets Total exceeds the level of effect the crafter accumulates one point until the target level has been reached. The craftsman can work on only one Major Amulet in a season.''
 ''CRAFT MINOR AMULET TOTAL: Dexterity + Craft Amulets + Shape and Material Bonus + Aura Bonus''
 ''CRAFT MAJOR AMULET TOTAL: Dexterity + Craft Amulets + Holy Method + Holy Power + Shape and Material Bonus + Aura Bonus''
@@ -713,8 +713,8 @@
 ''Suﬁs believe the Qur’an speaks directly to their hearts as daily life’s stories. Their relationship of the Divine is a personal one of all consuming love. Through''
 ''one’s outward actions one expresses one’s piety. However, there are some who have sought other Islamic paths through asceticism and spiritual quest. These individuals are known as Suﬁs, primarily due to the fact that they often wear simple garments of wool (Arabic: suf). As of the 12th and 13th century, some mystical Suﬁ brotherhood orders began to spread into the region, though truly, they are much more popular in the Levant. Nascent groups have begun to evolve in Marrakech and Fes. These Suﬁs, though, played an integral role in the cementing the place of Islam amongst the Berber population through the Maghreb. They inspired leaders and spread their philosophy. Although its roots are undoubtedly''
 ''earlier, Suﬁsm acknowledges two writers in the early 10th century as the effective founders: Mansur al-Hallaj and Junayd Baghdadi. Later writers worked to formalize the theories of Suﬁsm, including Abu Nasr al-Sarraj and Abu Hamid Muhammad al-Ghazali. Currently, the most active thinker is the mystical poet Ibn-Arabi of Damascus. Suﬁs believe their philosophy originated from the Qur’an and therefore remains compatible with mainstream Islamic thought, and is in no way contradictory to Islamic Law. They see it as necessary to the complete fulﬁllment of Islam. Recently, Suﬁs have begun to gather in groups known as tariqas, usually based within a convent or the tomb of a saint and led by a senior Suﬁ, known as a shaykh. Others might consider this a school, with a shaykh or murshid (guide) who acts as a leader or spiritual guide for the organization of muridin (s. murid, “desirous”), but most Suﬁs see one another as peers, each with his own insights to share. They acknowledge the transmission of knowledge and the recognition of a murid as a new shaykh with the passing of the khirqa. The khirqa is a cloak representing the Suﬁ chain of spirituality. Receipt of the cloak marks the new shaykh as a part of the silsilah, the chain of shaykhs stretching back to the Prophet Muhammad. Suﬁs believe this chain serves as the channel through which wisdom ﬂows from the source of spiritual revelation to the being of the shaykh. The ceremony of giving the khirqa occasionally occurs between peers, as one shaykh acknowledges the wisdom of another. Perceptions of Suﬁs have begun to shift, and while they are often considered heretical, many view them as paragons of a devout and pious lifestyle. Some authorities encourage Suﬁ groups through the construction of various buildings for their use, including zawiyas (homes at tombs of saints), khanqahs (convents), and ribats (hospices). These gathering places also allow authorities to maintain more effective monitoring of the tariqas. Suﬁs seek a closer union with God, through both personal piety and participation in group rituals. Exactly which group rituals are practiced varies according to each individual tariqa, but through them Suﬁs attempt to achieve mystical insights into God’s nature and the world around them. Many murabitin are Suﬁs, and the uninformed often conﬂate the two groups,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Fae vs Infernal==
 
@@ -728,7 +728,7 @@
 ''De Superstitiones (Latin) Tractatus Area Lore: Ancient Carthage, Quality 5 Author: Plutarch Availability: Private libraries, Constantinople.''
 ''Plutarch discusses the acts of sacriﬁce in particular, mentioning how “the whole area before the sacriﬁcial statue was ﬁlled with a loud noise of ﬂutes and drums so that the cries of wailing should not reach the ears of the people.”''
 
-|]
+|}
 ''but they are distinct traditions. Particular pious Suﬁs, known as zahids, are also said to be able to work miracles, known as karamas, which enable them to ﬂy, heal with a touch, and conjure food and clothing with a simple prayer. (See Realms of Power: Divine, page 116) Other Suﬁs have found that through this process of philosophical introspection and ascetic lifestyle, they begin to not only alter their own personal reality, but the most erudite amongst them seem capable of altering the reality of the world around them in small ways. They “ﬁnd” the resources they need, or events seem to occur in their favor, such that some might call them blessed. Suﬁs say they simply follow the will of God. Some of the more renowned Suﬁs of''
 ''the Maghreb include:''
 ''• Abu Madyan was a very popular Suﬁ mystic from Iberia who traveled and studied throughout the Maghreb. Many Almohads feared he might challenge their authority. He died in 1198, answering a summons to the court of the Caliph in Marrakesh. He was buried in Tlemcen, and is considered something like the city’s patron saint. • Ali Hirzihim was often considered by Abu Madyan as his spiritual leader. He fervently distributed of the works of al-Ghazali in the region and taught at the Qarawiyin University in Fes. He was taught by his uncle, who, in turn, was taught by al-Ghazali. He received his khirka from Ibn al-Arabi''
@@ -765,8 +765,8 @@
 ''DOGMA''
 ''Punic worship had three primary tenets: celebration, sacriﬁce, and serpent worship. To honor and glorify their gods, they erected standing stones, or stelae (singular: stele), engraved with the symbols for their gods. Raising a stele dedicated to a particular god was one method for gaining the god’s favor, or to show gratitude for assistance provided by the god. Most stelae discov''
 ''ered at ancient Carthaginian sites bear the mark of Tanit, and she is the most invoked of the Punic gods, even thought to inﬂuence Ba’al Ammon. They also constructed pillars inscribed with Punic myths and stories, and remnants of such pillars might provide insight to Seekers attempting to recover lost magics. ASome may even have incorporated the True Names of worshipped beings. Sacriﬁce in Carthage involved burning the votive object in a great bronze statue of either Ba’al Ammon or Tanit. In doing so, the Carthaginian priests employed a now-lost method of Profane Sacriﬁce. A synthesis of the Infernalist methods of Sacriﬁce and Profaning the Holy (see Realms of Power: Infernal, pages 95, 96), this allowed the sacriﬁcial burn''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Right of the Victors==
 
@@ -774,7 +774,7 @@
 ''Praeparatio Evangelica (Latin) Summa, Area Lore: Ancient Carthage (Level 2, Quality 5), Theology (Level 3, Quality 5) Author: Eusebius Availability: Private libraries in the Levant and Egypt. In Constantinople.''
 ''One copy is kept as a collection of papyrus scrolls on iron rods in a dark cedar box with brass ﬁttings. The rods are capped with brass bull’s heads. Written in a ﬁne, narrow hand in a Roman dialect of Latin.''
 
-|]
+|}
 
 ==Ba’al Ammon, Lord of Carthage==
 
@@ -792,8 +792,8 @@
 ==Punic Deities==
 
 ''The gods of Carthage came with the Phoenicians from the Levant out of deep antiquity. A collection of beings with Semitic origins and African inﬂuences, they ruled over Punic culture for a thousand years and then simply took up the Roman masks the legionnaires brought with the rule of Republic and Empire. While their conquerors forbid their more abhorrent practices, and killed or enslaved much of the populace, the Punic gods Tanit and Ba’al Ammon and their coterie did not disappear, they simply gained different servants.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Ba’al Ammon, Lord of Carthage (Cont’d)==
 
@@ -802,8 +802,9 @@
 ''adorning his outﬁt. He shifts his form to the visage and gender the individual summoning him would ﬁnd most appropriate.''
 ''Ba’al Ammon delights in corrupting men, creating death and destruction, and driving societies into decline. His Vis Mastery quality means he can use vis in place of Might points, and he carries several rooks of vis with him when spending extended time manifested. The animal which manifests with him is always a snake; sometimes a small garter or viper, other times a larger one of indistinct variety.''
 
-|]
+|}
 ''According to what texts survived the destruction of Carthage, the Punics believed that their gods originally existed as men, kings who ascended to godhood through ancestor worship. Through this apotheosis, their rulers became the embodiment of cosmic elements, joined in a transformative union with the forces of nature and the sun, moon, and stars. They then attended to the petitions of their people, negotiating through the priesthood. Unfortunately, it was a lie. Whatever the gods of Carthage may have began as, the being worshipped by their society was, in fact, a single demon of Hell impersonating the deities of the Punics. The arrangement perfectly suited the capricious nature of demons. The ever-renewed and often selﬁsh goals of the Carthaginian citizens meant the demon always had something sinful to occupy it, and the regular sacriﬁces meant quite a bit of collected power. Through sheer, depraved glee, it managed the corruption of Carthage quite well, preying upon the people’s desperate hope for good fortune. Carthaginians believed they possessed many gods, similar in some ways to the Hellenistic or Roman pantheon. Their foci ranged from Carthage itself to fertility to healing or justice or war. They included Ba’al Ammon, Tanit, Eshmun, Dagon, Sydyk, and Melkart. These may have begun as demons masquerading as gods, perhaps even faeries who played the role of gods, but in the end, as Carthage burned, its pantheon was completely composed by a lone servant of Hell. The lord of the Punic pantheon was Ba’al Ammon, and his symbol was the spiraling horns of the ram. Nominally considered the god of the moon, he was the patron god of Carthage. The Egyptians linked him to Amun, the transcendental god of the essential and hidden. The Greeks claimed he was Kronos, who fathered the Younger Titans which so intrigued the founder Tytalus, consumed the ﬁrst Olympians, and sacriﬁced his son, Iarbus, to secure victory in war. A potent necromancer and master of ﬂame, Ba’al Ammon survived the ages as the Roman god Ba’al Saturn, and eventually revealed himself as the demon Baalzebub to the Goetics in search of his ruthless power. As a Pu''
 ''nic god, he often answered prayers of the nobility to aid the Carthaginian armies in battle, summoning up ghostly elephants and soldiers to ﬁght while causing the ﬁery artillery of the living to burn with the pernicious hunger of the Infernal. The Queen of Blood and Fire, Tanit held many roles, and in some ways, she was more popular than Ba’al Ammon. Her shrines were more numerous, and many worshippers appealed to her roles as a consort and conﬁdant of Ba’al Ammon, petitioned her for aid a goddess of war, or sought her blessing as a virginal mother goddess, nurse, and symbol of fertility. Occasionally represented with a lion’s head, her symbol was a circle atop a triangle with a straight line crossing the point, not unlike an anhk. In fact, the Egyptians associated her with Nit, the goddess of war and hunting. The Greeks saw her as Juno Caelestis, the African Juno. Dagon ruled over farming and ﬁshing, a god dedicated to the bounty of the land. The Greeks called him Zeus Arotrios. He also guarded the underwater prison of seven titans cast into the sea as punishment. Carthage considered Eshmun a god of healing, and associated him with the Greek god Asclepius. The eighth son of Sydyk, he always carried both the staff of his ofﬁce and a snake coiled around his other arm. His brothers were the secretive Cabieri of Samothrace. Sydyk discovered the uses of salt and sat as the judge of the gods, interpreting when Ba’al Ammon was absent. He was notably harsh and unforgiving, preferring righteousness to mercy, and his punishments were always severe. Sanchuniathon records Sydyk’s father as Magos, a follower of Zoroaster who ascended as a foreign god. The Punic god Melkart was sometimes called the Tyrian Heracles, and considered the patron god of both Tyre and Leptis Magna. The emperor Septimius Severus even constructed a temple to Melkart in Rome. A legacy of Carthage’s origin as a colony of Tyre, Melkart remained as a god of death and rebirth, protector of places dedicated to him and guardian of his most devout worshippers. The general Hannibal was a noted follower of Melkart. His cult was also widespread in the Punic colonies of Iberia.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

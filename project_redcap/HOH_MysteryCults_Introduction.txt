@@ -1,5 +1,3 @@
-
-[|
 ''The process of Initiation into a Mystery is given a full treatment in The Mysteries Revised Edition, but a summary of the mechanics is provided here for reference.''
 ''All of the Exoteric (that is, House) Mysteries are governed by a separate (House) Lore; thus there is a House Bjornaer Lore, a House Criamon Lore, a House Merinita Lore, and a House Verditius Lore. Initiates who have not been apprenticed to a member of the House need at least (House) Lore 1; the Mystagogue for any Initiate must also know the same Lore, but generally needs a high level if the Initiation is to succeed. To grant the Initiate a new mystery Virtue, the Mystagogue generates an Initiation Total, which determines the success or failure of the Initiation:''
 
@@ -70,6 +68,11 @@
 =The Mechanics of Initiation=
 
 
+==Introduction==
+
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+
 ===Stress Die + Intelligence + (House)===
 
 
@@ -78,7 +81,7 @@
 ''The Ease Factor is 9 to extend the Script with a new component, such as an additional Quest. Magi with lower Presence or (House) Lore often try to extend Scripts they acquire.''
 ''The Ease Factor is 12 to change a component, such as varying the place, the time, or the subject of a Quest. It is impossible to change the Virtue a Script Initiates; that requires a new Script.''
 
-|]
+|}
 ''The Mystagogue may only attempt one change in a given Initiation. If the test fails, the Initiation would fail (and the Mystagogue knows this), but the original Script (or a different variation) may be attempted in another season. If the variation test roll succeeds, the modifi ed Script is used as above to generate the Initiation Total, and if this equals or exceeds the Initiation Target Level, the Initiation succeeds with no further rolls. If the Script would fail, the Initiate does not need to make any of the sacrifi ces that the Script would require; the Mystagogue realizes the problem before that stage is reached.''
 ''If a single change is not enough to make a particular Script work, then either a different Script is needed, or the Mystagogue must study more (House) Lore.''
 
@@ -88,8 +91,8 @@
 ''Scripts demanding the Sacrifi ce of familiars, talismans, and the like, or similar Ordeals and Quests clearly beyond the ability of the character, should be vetoed by the storyguide.''
 ''For older characters who are advanced in years before play begins, the acquisition of a Mystery Virtue can take the place of a season of laboratory activity,''
 ''and thus subtracts 10 experience points from the character’s total. The Ordeals, Quests, and Sacrifi ces demanded by the Initiation Script must be suffered as usual; a player may, for example, have to pay to create a talisman during character creation, and then destroy it, if an Initiation Script demands it.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Mysteries Revised Edition has many examples of different Script bonuses, but the ones below are most commonly employed. See the following chapters for the bonuses of other Script elements.''
 ''+3 Initiate has to be at a special place at''
 ''a special time for the Initiation +3 Initiate has to complete a specifi c''
@@ -108,14 +111,14 @@
 ==Potent Magic==
 
 
-|]
+|}
 ''Potent Magic, a Hermetic Virtue available in Major and Minor versions, was described in The Mysteries Revised Edition, but is reproduced here as it is also used by some of the Mysteries in this book.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Potent Magic Virtue describes how a maga’s magic is particularly attuned to a narrow fi eld, much as in a Magical Focus. The benefi ts of Potent Magic are compatible with a Magical Focus; unlike a Magical Focus, a magus may have more than one area of Potent Magic, though only one Potent Magic Virtue applies to any single activity.''
 ''Potent Magic provides a maga with a bonus in her fi eld of magic, and permits her to devise Potent spells, which gain a casting bonus from the sympathetic magic in shapes and materials.''
 
-|]
+|}
 
 ===Description===
 
@@ -129,13 +132,13 @@
 
 ===Potency = Sum of Bonus From Each===
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Casting Item===
 
 
-|]
+|}
 
 ===Potency Bonus: Add Potency To===
 
@@ -157,12 +160,15 @@
 ===Designing Covenant Libraries===
 
 ''When creating a covenant and choosing Lab Texts for the library, add Potency (if any) to spell level when counting Build Points, and record the Casting Items required.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Potent Spell Example==
 
 ''A wand provides several bonuses including +2 “repel things” and +4 “control things at a distance.” A Potent version of Disguise of the Putrid Aroma could use either bonus in its Potency. Combining the wand bonus with a Magnetite bonus (+3 Animal) would allow a design with either Potency 5 (requires Magic Theory 5) or Potency 7 (requires Magic Theory 7). The caster would have to hold a wand and piece of magnetite (or a wand set with magnetite), and would then add the combined Potency to his Casting Score.''
 ''Potency applies only to Formulaic spells. Spontaneous Magic allows Ceremonial Casting to produce similar results, and enchanted devices use Shape and Material bonuses during enchantment.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

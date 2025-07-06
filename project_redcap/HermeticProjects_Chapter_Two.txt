@@ -30,8 +30,8 @@
 ''Campi Flegrei, or the Burning Fields, is an area of volcanic activity about five miles across located very near the city of''
 ''Naples. There are numerous craters and the last eruption was in the year 1158, in which the crater of Solfatara exploded. Some of the craters have been flooded by the sea, creating harbors. Mount Etna is one of the most active volcanoes in Mythic Europe. It is almost 10,000 feet high and it dominates the skyline above the Sicilian city of Catania. At the summit of the mountain there are two main craters (Bocca Nova, and Voragine), and together the craters are nearly continuously sending forth showers of ash and molten rock. Every few years there are larger eruptions that cause rivers of lava to flow from the mountain, and there are hundreds of frozen rivers of lava on the volcano’s flanks. The last large eruption was in 1194. Exceptionally large eruptions occur every few hundred years, and during these eruptions massive fountains of lava are ejected thousands of''
 ''feet into the air. Some legends say that the two main craters are inhabited by separate magical spirits who have trapped several brother-spirits beneath the earth. The escape of one of the brothers could cause a major eruption and the formation of a new crater. Other legends say that there is only a single magical spirit beneath the crater (see Realms of Power: Magic, page 111). Lipari is an island volcano in the Eolian Islands. The volcano has a number of small craters, which have been fairly quiet of late — although there are records of a large explosive eruption several hundred years ago. The island is the pre-eminent source of pumice and obsidian in Mythic Europe. Lipari has been continuously occupied since before Roman times and there are a number of settlements on the island. The largest is the town of Lipari, which is the seat of the bishop of Lipari (which has been a diocese since the fifth century). Stromboli is another island volcano in the Eolian Islands, with a number of craters. The volcano is nearly constantly active, and most evenings glowing fragments of lava are ejected hundreds of feet into the air from the crater. Although the intensity of this continuous activity varies from week to week, it is fairly predictable and not very hazardous. However, every few years, rivers of lava flow from the volcano into the sea. These outflows can overwhelm the unprepared, but even this hazard does not prevent people settling on the island, and there are a number of fishing villages on the coast. Even more rarely (perhaps once in a generation) a large explosive eruption occurs, which can cause damage within several miles of the volcano. Vesuvius is near Naples and is, like Stromboli, almost continuously active at a low level, though it sometimes falls almost dormant for periods of about a century. During times of activity, larger eruptions might send fountains of lava into the air, or rivers of lava down the mountain slopes. Vesuvius is also famous for unexpectedly erupting in a massive explosion, typically''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds for Mythic Europe’s Volcanoes==
 
@@ -41,7 +41,7 @@
 ''The Roman towns of Pompeii and Herculaneum were destroyed in an eruption of Mount Vesuvius in 79 AD. If your saga follows history, then these towns are buried and their location is not precisely known in 1220. However, the eruption and subsequent destruction was documented by Roman writ''
 ''ers, so magi may decide to search for the towns. It is possible that the violent eruption caused the towns to fall into a regio, and perhaps the inhabitants, or their descendants, still live within. Maybe there is even still a functioning Temple of Mercury within the towns. The entrance to the regio might be found within the crater of Mount Vesuvius (or even other volcanoes). The townsfolk (who are surely supernaturally changed by their experience) could be recruited as covenfolk by the Burning City. Alternatively, perhaps the towns really are merely buried beneath tons of ash and mud. In either case, the two towns are now inextricably entwined with volcanism. This means that any artifacts recovered from Pompeii or Herculaneum may be used as a Sympathetic Connection of +1 to aid the Penetration of effects that target creatures that live in volcanoes. Artifacts from Pompeii or Herculaneum also have a +3 Shape and Material bonus for volcanism effects. This Shape and Material bonus is in addition to any other bonuses for the artifact.''
 
-|]
+|}
 ''following a period of dormancy. The Roman towns of Pompeii and Herculaneum were destroyed in such an eruption (see nearby insert). Vulcano is formed by two islands in the Eolian Islands: the main island is Vulcano and just north is a smaller island Vulcanello. There are a number of small villages and monasteries on the larger island, and the island is reputed to be a very healthy place to live; many people bathe in hot mud pools on the beach. The rim of the main crater (La Fossa) is constantly blanketed in steam and sulfurous fumes.''
 
 ==Volcanoes in Iceland==
@@ -81,15 +81,15 @@
 ==Hazards of Volcanoes==
 
 ''The hazards of the volcano include lava, heat, noxious sulfurous fumes, and, of course, eruption.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Volcanic Rock as an Arcane Connection==
 
 ''A volcanic rock is an Arcane Connection to the volcano it came from that lasts for years and gives a +3 Penetration multiplier. Of course, the Penetration multiplier is only relevant in the rare case that the volcano has Magic Resistance, or if the volcano is within an Aegis of the''
 ''Hearth. A piece of volcanic rock would not usually be an Arcane Connection to any magical spirits, elementals, demons or other creatures dwelling at the heart of the volcano, but it could be used as a +1 Sympathetic Connection to such creatures.''
 
-|]
+|}
 
 ==Hermetic Projects Lava==
 
@@ -186,20 +186,18 @@
 ''This invested item is a beetle-shaped machine that crawls along the rim of the volcanic crater. It collects and sorts the volcanic debris for valuable and exotic materials, which can be used to reduce the Upkeep of Hermetic Laboratories''
 ''(see Covenants, page 110). Each Stone Harvester can provide the Free Outfittings Virtue Volcanic Minerals (see Insert) for up to 5 Hermetic Laboratories. Note that the laboratories do not have to be located in the volcano — the minerals can be transported to a remote laboratory. The Stone Harvester is a huge stone device. It requires 20 pawns to open for enchantment (taking one season and a Magic Theory Score of 10). The effects later require 13 pawns of vis to invest into the Stone Harvester. As the Stone Harvester is made of stone and only traverses the volcanic crater rim, it does not need any particular protection from either heat or fumes. A version of the Stone Harvester that actually enters the lava would obviously require some protection.''
 ''Harvest Stone ReTe 43 Pen: +0, unlimited uses R: Sight, D: Diameter, T: Part The Stone Harvester uses this effect to collect stone/mineral/metal material of a particular sort that it encounters — the stone is identifying material using the Stone Wealth effect. The collected stone is placed in a large stone basket on the back of the Stone Harvester which must be periodically emptied by a grog (precisely how frequently depends on the rarity of the collected stone). If the grog fails to empty the basket, the Stone Harvester will continue to harvest, but excess stone will fall out of the basket. (Base 3, +3 Sight, +1 Diameter, +1 Part, +2 effect metal; +10 unlimited uses, +3 linked trigger (Stone Wealth)) Required Lab Total to invest effect: One Season (86), Two Seasons (65), Three Seasons (58), Four Seasons (54).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New Virtue: Volcanic Minerals==
 
 ''Free Laboratory Outfitting Virtue The laboratory is supplied with exotic minerals from a volcano. The laboratory needs to be regularly resupplied, otherwise this Virtue is lost. There is''
 ''no benefit in taking this Virtue multiple times — once the laboratory’s demands for exotic minerals have been met, additional minerals are of little value. –1 Upkeep, +1 Terram.''
 
-|]
+|}
 ''Stone Wealth InTe 19 Pen: +0, constant effect R: Personal, D: Sun, T: Smell This effect grants the Stone Harvester the sense to smell whether a particular sort of stone, metal, or mineral is nearby''
 ''(within about 5 paces). The Stone Harvester contains a small compartment and it targets materials that match the material in the compartment. If there is no material in the compartment the Stone Harvester continues to move about the crater rim, but will obviously not find any matching''
 ''material. The Stone Harvester only identifies Terram based objects, but of course additional effects could be invented to allow the Stone Harvester to identify and manipulate Animal, Aquam, Corpus, or Herbam objects. This sense allows the harvester to smell''
-
-[|
 
 ==Story Seed: Tophet’s Gate==
 
@@ -215,13 +213,9 @@
 ''Guardians''
 ''The covenant magi might neither worship nor deal with the devil; instead they might guard the hell portal and try to prevent demons from escaping into the world. Destroyer demons (see Realms of Power: The Infernal, page 48) are the most likely to be involved in stories where Hell directly attacks the covenant. Some stories that might arise from this are:''
 ''Ward Masters: It is well-known in the Order that the covenant guards a portal to Hell. This is considered a worthy duty and many other covenants in the Tribunal send gifts of vis to help maintain a powerful Aegis around the covenant and to assist in the regular''
-
-|]
 ''things buried to a depth of about 1 pace. (Base 2, +2 Sun, +2 Smell, +1 smell through intervening material; +4 constant effect) Required Lab Total to invest effect: One Season (38), Two Seasons (29), Three Seasons (26), Four Seasons (24).''
 ''Stone Crawler Effect ReTe 14 Pen: +0, constant effect R: Personal, D: Sun, T: Individual This effect manipulates the legs of the Stone Harvester, enabling it to move around the crater rim. The Stone Harvester moves''
 ''constantly, at the pace of a walking man, in a clockwise direction around the crater rim. (Base 3, +2 Sun, +1 affect stone; +4 constant effect) Required Lab Total to invest effect: One Season (28), Two Seasons (21), Three Seasons (19), Four Seasons (18).''
-
-[|
 
 ==Story Seed: Tophet’s Gate (cont’d)==
 
@@ -233,8 +227,6 @@
 ''Accused of Infernalism''
 ''A very real danger, of course, from living in close proximity to a portal to Hell is that regardless of the intentions of the characters they are vulnerable to accusations of infernalism. For this reason, the magi may want to keep the hell portal secret. Some possible stories arising from this concern are:''
 ''A grog goes missing: Has he merely fallen into the lava, or has he run away? What does he know about the hell portal? Was he a spy from a rival covenant? Can the magi track him down before he reveals their secret? Visitors: Foreign magi unexpectedly arrive at the covenant. Can the hell portal be hidden from them? Can the visitors be encouraged to leave promptly without arousing their suspicions, or do they already know about the portal? Can the demons on the other side of the hell portal be relied upon to keep quiet? Framed: Even if the volcano is not really a hell portal, it is common knowledge (right or wrong) that many volcanoes are. This means that a rival covenant might accuse the magi of infernalism, anyway. If the rival covenant is politically well-connected, within the tribunal, the accusation could lead to an investigation by the Quaesitors. Dealing with the investigation could be bothersome and disruptive to laboratory work even if there is nothing for the Quaesitors to find. Of course, a diabolically clever rival could even make their own deal with the devil to plant evidence of infernalism in the volcano crater.''
-
-|]
 ''Stone Hammer Effect PeTe 33 Pen: +0, unlimited uses R: Sight, D: Momentary, T: Part This effect is activated when the Stone Harvester detects that its target material is beneath the surface of the earth. The Stone Hammer effect loosens up to one cubic pace of intervening stone or dirt. This allows the target material to be lifted out of the ground. (Base 3, +3 Sight, +1 Part, +1 affect stone; +10 unlimited uses, +3 linked trigger (Stone Wealth)) Required Lab Total to invest effect: One Season (66), Two Seasons (50), Three Seasons (44), Four Seasons (42).''
 ''The Thermal Bath of Good Humor''
 ''This invested item is a bath in which the covenfolk (and magi) can bathe in water heated by the volcano. Regular bath''
@@ -247,8 +239,8 @@
 ''This well is an invested item. It has two effects enchanted in it: one periodically fills the well with water from the sea, the other removes the salt from the water. As both effects are momentary, once the water has been affected it is no longer under a magical effect. The water is thus drink''
 ''able by characters with Magic Resistance. If there is a suitable river or lake near the covenant, then the well could source its water from there, without the need to remove the salt from the water. However, many naturally-occurring volcanoes are located on islands remote from sources of fresh water. River and lake sources can also be problematic as they may not be available year-round (through either evaporation or freezing), and may even dry up completely for years at a time. As the two effects require 6 and 3 pawns of vis respectively, the well must be opened for enchantment using at least 9 pawns of vis. A well (a huge item made of stone) takes 20 pawns of vis to open for enchantment (leaving room for extra effects to be invested if desired). It takes one season to open the well for enchantment, which requires a Magic Theory Score of 10.''
 ''Fill the Well ReAq 54 Pen: +0, 2 uses per day R: Arcane, D: Momentary, T: Individual This effect is triggered every sunrise and sunset. It instantaneously fills the well with water from the sea (which must be within seven leagues). The effect requires an Arcane Connection to the sea. Any water which remains from the previous triggering of the effect is sufficient for this. However, if the well is ever completely drained of water, it must be primed with a cup of water from the sea. If the well ceases to work (for some reason) for more than a few months, then the well must also be refilled with a cup of water from the sea, as the Arcane Connection to the sea will have expired. The volume of water that is transported daily into the well is sufficient to supply the water needs of a covenant of several''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Vulcan’s Forge==
 
@@ -261,7 +253,7 @@
 ''Forge Companion: Vulcan offers to train a character in the art of metalworking (or the magi request this). The character lives for several years in Vulcan’s court and gains an Affinity Virtue with either Craft: Metalwork, Rego, Ignem, or something similar. The years spent in the faerie court are also spent learning Abilities or Arts from Vulcan, working at his forge, or adventuring in the faerie court. Smith for Hire: Vulcan can make highly complex devices and can find exotic materials. He is willing to work for the magi, but they need to pay him with presents for his wife Venus. Items created by Vulcan are especially useful for magi, as when he uses his forge he automatically prepares the item for enchantment (see''
 ''ArM5, page 97). This means that the magi can invest items that are large or made of exotic components, even if they lack the required Magic Theory to prepare the item for enchantment themselves. Items forged by Vulcan are also very cost-effective as invested items — depending, of course, upon what Venus’ present costs the magi. Outside Influence: If it becomes known that the covenant is in contact with Vulcan’s court, then representatives of House Merinita and House Verditius are likely to both be very interested. The covenant can expect to be visited by many magi of these Houses, which could lead to competition over local resources, the establishment of a House Verditiusdominated chapterhouse on the very doorstep of a covenant, and legal wrangling at Tribunal over whether anyone is “molesting the faeries” of Vulcan’s court. At the very least, many visitors are likely to distract the magi from their own work.''
 
-|]
+|}
 ''hundred people. The effect is based on the Rego Corpus guidelines, applied by analogy to the Aquam Form. Note that the water is only transported a distance of seven leagues, so for this to be effective the well must be located with seven leagues of the water source. A version of this effect, using the guideline one magnitude higher, would enable the water to be transported any distance. (Base 30, +4 Arcane; +3 environmental trigger, +1 2 uses per day) Required Lab Total to invest effect: One Season (108), Two Seasons (81), Three Seasons (72), Four Seasons (68).''
 ''Cleanse the Undine’s Tears PeAq 24 Pen: +0, 2 uses per day R: Touch, D: Momentary, T: Individual This effect eliminates the salt in the water in the well. This effect is triggered by the Fill the Well power, and is activated one round later.''
 ''Note that the salinity of the water will not return once it has been removed. This is because salt is not part of the essential nature of water. (Base 15, +1 Touch; +3 linked trigger, +1 2 uses per day) Required Lab Total to invest effect: One Season (48), Two Seasons (36), Three Seasons (32), Four Seasons (30).''
@@ -272,8 +264,8 @@
 ''Basalt Cage''
 ''CrTe 20 R: Touch, D: Momentary, T: Individual, Ritual''
 ''This ritual creates a large cage made out of basalt stone with a single gate (also made of basalt) that can be opened and shut. The cage is large enough to hold ten man-sized creatures. Individuals in the cage may find it difficult to escape, if the gate is somehow locked or barred. However, the main purpose of the ritual is to create a cage which is subsequently enchanted as an item with the effect The Entrapped Flame. Note that, if your character is talented at Rego magics, he may find it easier to use a Rego Terram craft effect to sculpt such a cage from a hunk of basalt. However, remember to consider that the magus must make a Finesse roll against an Ease Factor of 24 to succeed in casting such a Rego craft effect, as it would be hard for a mundane craftsman to sculpt such an item and it would take him a long time to do so (see Covenants page 49). (Base 3, +1 Touch, +1 Size, +1 complex structure, +2 minimum level of a ritual) Required Lab Total to invent spell:''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Eternal Spirit of Flame==
 
@@ -283,7 +275,7 @@
 ''Elemental Magic, Major Hermetic Virtue (ArM5, page 41): Many of these projects use elemental Forms with other elemental Forms as requisites. A character with the Elemental Magic Virtue can ignore such requisites, making the projects easier. Greater Immunity, Major Supernatural Virtue (ArM5, page 43), or Lesser Immunity, Minor Supernatural Virtue (ArM5, page 44): Immunity to lava, heat, or''
 ''noxious fumes could be very convenient for living in the Burning City. Major Magical Focus, Major Supernatural Virtue (ArM5, page 45), or Minor Magical Focus, Minor Supernatural Virtue (ArM5, page 46): A major focus in volcanoes or a minor focus such as ash, fire elementals, lava, volcanic fumes, or volcanic rock. Mythic Blood, Major Hermetic Virtue (ArM5, page 47): The magus could have his blood mingled with that of Vulcan, a fire elemental, or a dragon, and thus inherit useful supernatural powers from this powerful lineage. Special Circumstances, Minor Hermetic Virtue (ArM5, page 49): Your magus gains a bonus to his magic when casting inside a volcano. Ways of the (Volcano), Major General Virtue (ArM5, page 50): Your character gains a deeper understanding of volcanic regions.''
 
-|]
+|}
 ''One Season (40), Two Seasons (30), Three Seasons (27), Four Seasons (25).''
 ''Commune with the Fire Soul''
 ''InTe 30 R: Touch, D: Concentration, T: Individual The caster plunges his hands into lava (which will cause damage if he is not protected) and communes with the spirit of the volcano. If the volcano’s spirit is a creature with Might, then this spell needs to penetrate its Magic Resistance. The length of time a conversation with a volcano spirit takes is highly variable, and depends on the activity of the volcano. The spell allows the caster to perceive and participate in the conversation at either great speed or very slowly, as appropriate. A conversation of a few simple sentences with a dormant volcano could take many days, and would therefore require either a spell with a different duration or magical effects similar''
@@ -293,8 +285,8 @@
 ''bonus of 22, +4 constant effect) Required Lab Total to invest effect: One Season (70), Two Seasons (53), Three Seasons (47), Four Seasons (44).''
 ''Sense the Hearts of Fire''
 ''InIg 30 R: Personal, D: Sun, T: Vision The caster detects whether creatures he can see have an Ignem Form Might. This is a magical property of a creature made of flame. It has no effect on creatures that are not made of Ignem, regardless of whether they have a Might or not. Creatures apparently made of flame (creatures of another Form, illusions, or the effects of Hermetic Rego Ignem magic) who do not have an Ignem Form Might are also not detected by this effect. Obviously, this spell needs to Penetrate the Magic Resistance of the detected creatures. (Base 4, +2 Sun, +4 Vision)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Eternal Spirit of Flame (cont’d)==
 
@@ -305,7 +297,7 @@
 ''Blatant Gift, Major Hermetic Flaw (ArM5, page 51): The character sweats, puffs, fumes, and rumbles like a volcano on the brink of eruption; other characters find him very unusual.''
 ''Chaotic Magic, Major Hermetic Flaw (ArM5, page 52): The character’s magic becomes like an erupting volcano and difficult to control. Difficult Spontaneous Magic, Minor Hermetic Flaw (ArM5, page 53): Like a dormant volcano, the character’s spontaneous magic becomes difficult to rouse. Incomprehensible, Minor General (ArM5, page 55): The character’s understanding of magic changes and becomes full of allusions to bubbling lava and drifting ash that other magi cannot readily comprehend. Missing Hand, Minor General (ArM5, page 56): The character cuts his hand off and casts it into the volcanic crater, linking him with the volcano’s spirit. Unpredictable Magic, Minor Hermetic (ArM5, page 60): The character’s magic can erupt unexpectedly.''
 
-|]
+|}
 ''Required Lab Total to invent spell: One Season (60), Two Seasons (45), Three Seasons (40), Four Seasons (38).''
 ''Sublimation of Flame''
 ''MuIg(Au) 30 R: Voice, D: Diameter, T: Individual This spell changes a fire elemental (or another creature made of fire) into air for a short period of time. This renders the fire elemental incapable of using many of its powers for the duration of the spell. If the target is in a well-ventilated area (such as outside), then the air that forms its body disperses. This inflicts an Incapacitating Wound on the fire elemental, and when its body returns to fire, numerous small fires erupt throughout the volume it has filled (about 50 paces across). These small fires cause +3 damage to anyone in the volume, and ignite flammable materials. If the target is in an enclosed area (such as inside a room), then the air is closely contained, and the creature suffers no damage. When the fire elemental’s body returns to flame anyone else remaining within the room immediately takes either +10 or +Might damage (whichever is greater) as the elemental’s incandescent body of flame coalesces. This spell must Penetrate the Magic Resistance of the fire elemental. This spell is able to affect creatures of up to Size +6 (this includes fire elementals of up to Might 25) (Base 5, +2 Voice, +1 Diameter, +2 size) Required Lab Total to invent spell: One Season (60), Two Seasons (45), Three Seasons (40), Four Seasons (38).''
@@ -361,5 +353,6 @@
 ''Living Condition Modifier. Note, that this side effect only affects the character once, even if he is affected by the spell/item effect multiple times. • The outer layers of the target’s skin''
 ''form a hard, black crust. This gives him a +3 bonus to Soak, which lasts for Sun duration. When this side-effect expires, the crust of skin peels off over a period of about one week. This has no game-mechanical effect, but it is visually unappealing: the peeling skin is broken, scabbed, and burnt. • The caster (or target) is imbued with''
 ''a warm internal glow. She does not suffer from exposure, hunger, or thirst until the glow subsides, which takes a simple die of Sun durations. This side effect appears to bypass the Limit of Energy, which could make the spell Lab Text an important source of insight for a magus attempting research in this area.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

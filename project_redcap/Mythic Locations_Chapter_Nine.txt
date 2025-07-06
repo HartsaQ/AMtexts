@@ -1,4 +1,10 @@
 
+=Chapter Header=
+
+
+==Chapter Number==
+
+
 =The Faerie Toy Market on Devil’s Lane=
 
 ''Devil’s Lane that trades in magical toys. Devil’s Lane is a small faerie regio which has multiple urban entrances throughout Mythic Europe. A pair of Merinita magi have made their covenant within the market and the player characters may visit the market to buy or commission toys, or to take advantage of the regio’s many entrances to travel to a distant Tribunal. The player characters might also join, or usurp, the Merinita covenant.''
@@ -43,8 +49,8 @@
 ''Extending out of Devil’s Lane are a dozen narrow, brick alleyways, each named after a city (apart from one nameless alley). The alleyways are one pace wide and 20 paces long. On the wall of each alleyway is a slate board that lists the guild rules in Latin (see Market Guild). The alleyways are the regio entrances (and exits) and each leads to its eponymous city. The market faeries refer to the mundane areas linked to the regio as “city-side,” or in the specific case “London-side,” “Paris-side,” and so forth. The terms “lane-side,” “Devil’sside,” “the market” and “Devil’s Lane” are all used to refer to the market regio.''
 ''The Alley Wards''
 ''The city-side alleyway entrances are warded against humans who do not have faerie blood. These wards manifest in different ways city-side (and also change from time to time): sometimes the alleyway is impossibly narrow, or barred with gates, or invisible, or''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Flying Down Devil’s Lane==
 
@@ -66,7 +72,7 @@
 ''Lost Secrets''
 ''A few magi know that Devil’s Lane is a bridge between hell and the faerie realm. Merinita and infernalist magi both have a +3 bonus to this roll''
 
-|]
+|}
 ''high above street level. Nothing prevents travel from Devil’s Lane to city-side. The alley wards have no Penetration, and thus do not keep out most magi (or others with Magic Resistance). The wards also do not keep out mundane or magical animals (including familiars). To Hermetic Intellego Vim investigation the wards are constant, faerie effects of magnitude four, analogous to Corpus, and can be dispelled. However, if dispelled the wards reappear at the next dawn or dusk (whichever is next). It is not clear whether specific faeries cast the wards or they are a “natural” feature of the regio.''
 
 ==The Rat Pack==
@@ -78,8 +84,8 @@
 ==The Merchants==
 
 ''Dozens of faerie merchants sell toys from cramped and crowded stores at the market. Most merchants are nearly human faeries, some are mortals with faerie blood, and a few''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: At The End of Upside==
 
@@ -96,7 +102,7 @@
 ''• Acre Avenue • Barcelona Street • Bologna Way • Bordeaux Street • Cairo Way • Cologne Avenue • Constantinople Street • Florence Avenue • London Street • Paris Way • Prague Street • No-Name Street''
 ''Cologne and Constantinople are unusual because the ends of these alleyways are bricked up (see Story Seed: Civic Reconstruction). No-Name Street is also bricked up and seemingly inaccessible. If asked, the faeries do not know where No-Name Street used to lead (or even whether it ever led anywhere at all). In your saga, the troupe should feel free to replace alleyways (or add new ones) to ensure that the toy market is as accessible (or inaccessible) as you want it to be.''
 
-|]
+|}
 ''are exotic creatures like centaurs. The wares are a combination of mere glamour and enchanted items like the magic toys (which are also glamour, detailed in The Toys); some even sell mundane wares. The main currency of exchange is vis (discussed later). If you have access to it, any faerie creature from Realms of Power: Faerie may be used as a merchant; if the character lacks it give him a Bargain Pretense of 3 to 7, depending on how competent a merchant he is (not all the merchants are competent!). Game statistics are also given for a typical merchant, Walter the Book Merchant ― vary his statistics as required to represent other merchants.''
 
 ==Market Guild==
@@ -105,14 +111,14 @@
 ''on slate boards mounted on the (lane-side) walls of each of the alleyways that lead into Devil’s lane. If the slate boards are stolen or defaced they are replaced within a day. Removal of the written rules does not have any impact on their validity. Punishments that the council can set include: warding Devil’s Lane against individual persons, seven years labor in the faerie queen’s salt mine, vis fines, and the first born child of mortals. The guild council can vote to change or add to these rules, of course.''
 ''Councilors''
 ''The guild council has five members. Votes are carried by a simple majority and quorum is three councilors. Any councilor may call the council to order. The magus Bartholomew is an additional, sixth, non-voting member of the council. The current guild councilors are:''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Market Rules==
 
 ''• Anyone may purchase from the market. • All merchants must be members of the guild in good standing, as determined by the guild council. • All merchants must be resident on Devil’s Lane. • Only guild members and worker elves may reside on Devil’s Lane. • The magus Bartholomew and the maga Julia may reside on Devil’s Lane. • Trading hours are from dawn until midnight. • The satyrs of the Black Forest are forever denied entry to Devil’s Lane. • The rats must not be fed. • All debts must be paid within a year and a day. • The workshops (and the worker elves) must not be interfered with. • Felix the wolf is the legitimate enforcer of guild rules.''
 
-|]
+|}
 ''The Three Sisters are beautiful, deceptively young, and seemingly naive merchant sisters who hold the office of councilor between them (that is, the sisters share a single vote). The sisters, whose names are Lo’relyn, Fi’noa, and De’dee, mostly sell Rain Parasols (see The Toys). Count Thorstein is a flamboyant centaur merchant whose main interests are beards and manes. He sports a variety of dashing styles himself, and is very interested in the beards (or manes) that other characters wear. The count sells hats but spends most of his day trotting up and down Devil’s Lane inspecting facial grooming. Guild-Master Wendell is the self-appointed leader of the merchant guild. He is a grey bearded man in his fifties, always dressed in official guild regalia modeled on the guilds of Cologne. Wendell is very serious and pedantic about meetings and procedures. He sells wands such as those listed in The Toys. Guild-Mistress Greta is a pleasant and kindly middle-aged woman. She is not actually a faerie, but a faerie-blooded folk witch who lives on Devil’s Lane and sells her own potions at the market (see Hedge Magic: Revised Edition, Folk Witch Chapter). The rest of Greta’s coven lives city-side (in Bologna and Florence) and uses the Devil’s Lane regio to travel to visit each other. Felix the Wolf is not a merchant (although''
 ''he is a guild member). He is a large, sleek black wolf who silently slinks up and down Devil’s Lane policing the guild rules. If you need game statistics for Felix use Tarlan the Wolf (ArM5, page 195).''
 
@@ -141,14 +147,14 @@
 ''The Girdle of Change MuCo 14 Pen 0, constant effect R: Touch, D: Sun, T: Individual When worn, this girdle changes the apparent sex of the character (male to female, or vice versa). The character appears like his sister (or her brother) would. (Effect: Base 3, +1 Touch, +2 Sun; +1 uses, +3 sunset/sunrise trigger) (3 pawns)''
 ''Green Flame Powder MuIg 10 Pen 0, charged item R: Touch, D: Sun, T: Individual This charged item is a gritty powder that when thrown into a fire causes it burn with a bright lime green flame. (Effect: Base 3, +1 Touch, +2 Sun) (1 pawn)''
 ''Hat That Grants the OverAnxious Father Peace of Mind InCo 24 Pen 0, constant effect R: Touch, D: Sun, T: Individual This delicate lady’s hat can only be worn by a virgin. The hat detects whether the wearer is a virgin, and if she is not, the hat falls off. (Effect: Base 5, +1 Touch, +2 Sun; +1 uses, +3 sunset/sunrise trigger) (4 pawns)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Devil’s Lane Goblin Rats==
 
 ''Characteristics: Cun +1, Per +1, Pre –2, Com –5, Str –11, Sta +1, Dex +2, Qik +5 Size: –7 Virtues and Flaws: Faerie Blood (goblin), Lightning Reflexes; Nocturnal Qualities: Crafty, Pack Animal, Sharp Ears. Personality Traits: Sneaky +3, Cowardly +3 Reputations: Diabolical rats (local) +1 Combat: Claw: Init +4, Attack +8, Defense +12, Damage –9 Teeth: Init +5, Attack +8, Defense +9, Damage –10 Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5+) Abilities: Athletics 3 (running), Area Lore: Devil’s Lane 5 (drains), Awareness 3 (food), Brawl 3 (claw), Stealth 4 (urban), Survival 3 (urban) Appearance: Black matted fur, vile yellow eyes, and a thick prehensile tail.''
 
-|]
+|}
 ''Hen Dust CrAn 40 Pen 0, Charged item, 1 use R: Touch, D: Diameter, T: Individual This dust, which seems to consist of ground up feathers and egg shell, is sprinkled over an egg. The chick immediately breaks out of the shell and over a period of one diameter grows into an adult. The dust works on any egg (bird, reptile, fish) as long as the adult creature is of Animal Form and no larger than Size +1. (Effect: Base 30, +1 Touch, +1 Diameter) (2 pawns)''
 ''Inverted Water Wheel ReAq 29 Pen 0, constant effect R: Touch, D: Sun, T: Part This item seems to be an ordinary water wheel, but when it is placed in flowing water, it forces the water back upstream against the flow. The wheel can affect either an entire''
 ''stream or a part of a larger body of water. (Effect: Base 4, +1 Touch, +2 Sun, +1 Part, +1 unnatural; +1 uses, +3 sunset/sunrise trigger) (4 pawns)''
@@ -156,8 +162,8 @@
 ''The Magic Money Box MuTe 45 Pen 0, unlimited uses R: Touch, D: Sun, T: Group Into this money box (about one foot square and six inches deep) the user places a''
 ''group of stones, and then shuts the lid. When the box is opened again, the stones have turned into gold coins! (Effect: Base 4, +1 Touch, +2 Sun, +2 Group, +2 metal; +10 unlimited uses) (7 pawns)''
 ''Miraculous Beer Mug CrAq 25 Pen 0, Unlimited uses R: Touch, D: Sun, T: Individual This mug miraculously refills with delicious, frothy beer. The effect is activated by emptying the mug. Note that this magic beer has no real nutritional value (the drinker is thirsty the next day), and although a character can get drunk on the beer, he does not get a hang-over. (Effect: Base 2, +2 Processed Liquid, +1 Touch, +2 Sun; +10 unlimited) (4 pawns)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Walter the Book Merchant==
 
@@ -165,7 +171,7 @@
 ''the rough content (such as a character might gain from quickly flicking through the book). Like Faerie Speech this power affects the faerie Walter (rather than his audience) so it does not need to Penetrate to have its effect. Faerie Sight. This power allows Walter to automatically distinguish mundane things from glamour, to automatically identify another faerie’s glamour, and to automatically see an Arcane Connection (and know to whom it is an Arcane Connection, if that person is present). Walter can also use faerie sight to determine the motives and goals of other faeries (Awareness + Perception roll against an Ease Factor equal to Might of other faerie / 5). See Realms of Power: Faerie, page 50 for more details. Faerie Speech. This power allows Walter to duplicate the language spoken by his human audience. See Realms of Power: Faerie, page 50 for more details. Equipment: Scribe’s robes, writing tools, and books. Vis: 1 pawn of vis in brain. Appearance: City-side, tales are told of a merchant-scribe, on Devil’s Lane, who sells completed exercise tablets to''
 ''young student scribes. This merchantscribe is Walter. He is a middle-aged, tonsured scribe, dressed in clerical robes, with small eyes and a large nose. Walter spends all of his time in his candle-lit shop, which is filled with books and stacks of parchment, and he is weary of his customers, who are mostly frightened student scribes wandering Devil’s Lane. Walter does indeed sell completed exercise slates. These are glamour that last for a year and a day (cost is 1 pawn of vis), but are otherwise completed exercise slates as advertised. Walter also sells mundane books (actually glamour facsimiles that last for seven years) (1 pawn of vis for tractatus and 1 pawn of vis per level for summae) and he sells copies of The Book of Beasts, see The Toys. The glamour facsimiles of mundane books that Walter sells cannot really be read, but the reader thinks they can. Treat any Season spent studying a glamour book as a Season of practice (with a Source Quality of 5). Note that although the player knows this, the character believes the book is real (unless he has evidence otherwise, of course). Walter does not sell books about Arts.''
 
-|]
+|}
 ''One Romantic Evening CrHe 10 Pen 0, charged item R: Touch, D: Sun, T: Group When this enchanted rose petal (a charged item) is kissed and thrown to the ground, the ground becomes carpeted in thousands of deep red rose petals. (Effect: Base 1, +1 Touch +2 Sun, +2 Group) (1 pawn)''
 ''Rain Parasol CrAu 40 Pen 0, 24 uses per day R: Touch, D: Diameter, T: Group When this parasol is opened with a particular flourish, a miniature storm (about a''
 ''pace across) forms beneath the parasol. The storm features dark clouds, rain, thunder, and lightning. (Effect: Base 3, +1 Touch, +1 Diameter, +2 Group +4 wholly unnatural; +5 (24) uses) (6 pawns)''
@@ -173,8 +179,8 @@
 ''many hundreds of individual creatures. (Effect: Base 15, +2 Voice, +1 Concentration, +3 Structure; +10 Unlimited uses) (8 pawns)''
 ''The Siege of Constantinople CrIm 15 Pen 0, unlimited uses R: Personal, D: Sun, T: Individual This tapestry illustrates the 1204 siege of Constantinople. When activated, the tapestry animates, and acts out the critical battles and events in the siege. Similar tapestries depict other battles and legends. (Effect: Base 1, +2 Sun, +1 moving image, +1 intricacy; +10 unlimited uses) (3 pawns)''
 ''The Silvery Miraculous Daffodil Wand CrHe 15 Pen 0, 1 use per day R: Touch, D: Moon, T: Group When touched to the earth, this silver wand, delicately wrought as a simulacrum of a daffodil, causes a bed of almost nearly one thousand yellow daffodils to burst from the earth. The daffodils last for a month. (Effect: Base 1, +1 Touch +3 Moon, +2 Group) (3 pawns)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Negotiating with the Workshop==
 
@@ -182,7 +188,7 @@
 ''a holiday of one season per year, amenities constructed within the workshop (such as baths, a theater, or catering),''
 ''freedom to regularly leave the workshop and explore city-side, pay in gold nuggets, more hats, mortal wives for the worker elves, recovery and return of items that “should not have been sold,” and are now held by other magi, mortal kings, or powerful supernatural creatures, replacement of older worker elves with mortal children (who change and become worker elves), rescuing friends of the worker elves from slavery in a faerie mine.''
 
-|]
+|}
 ''The Scrying Bowls InAq 30 Pen 0, unlimited uses R: Arcane, D: Concentration, T: Individual This item is two bowls that are each Arcane Connections to the other. Both bowls should be filled with water and while looking into one bowl the user recites a short poem. While the user recites the poem he sees reflected in his bowl the reflection that appears in the other bowl (and his reflection appears in the other bowl). The bowls can be used to scry or communicate (visually, only) across large distances. (Effect: Base 3, +4 Arcane, +1 Concentration; +10 unlimited uses) (4 pawns each bowl)''
 ''Wand of Dancing Flowers MuHe 40 Pen 0, 24 uses per day R: Sight, D: Concentration, T: Group This wooden wand is used like a conductor’s baton to cause a bed of flowers to dance.''
 ''(Effect: Base 5, +3 Sight, +1 Concentration, +2 Group; +5 (24) uses) (6 pawns)''
@@ -190,8 +196,8 @@
 ''The Wooden Knights This pair of wooden knight puppets (each about two feet high) are invested items. The knights are each invested with two effects, one to read the thoughts of a puppeteer, and the other to move the wooden puppet about. The idea is that two characters can mentally command the knights to fight each other. (18 pawns)''
 ''Read the Master’s Thoughts InMe 50 Pen 0, unlimited uses R: Sight, D: Concentration, T: Individual This effect reads the thoughts of the puppeteer. (Effect: Base 15, +3 Sight, +1 Concentration; +5 item maintains Concentration, +10 unlimited uses)''
 ''Move the Limbs ReHe 23 Pen 0, unlimited uses R: Personal, D: Concentration, T: Individual This effect moves the puppet at the puppeteer’s direction. If the skill of this direction needs to be determined use the puppeteer’s Finesse Score in any relevant rolls. (Effect: Base 4, +1 Concentration; +5 item maintains Concentration, +10 unlimited uses, +3 Linked trigger)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Worker Elves==
 
@@ -203,7 +209,7 @@
 ''These special familiar cords are created between faerie familiars and their master (in addition to the normal gold, silver, and bronze cords; see Houses of Hermes: Mystery Cults, page 90). Briefly, the special faerie cords are required to balance the normal familiar cords and have the following negative effects (on both the magus and the familiar):''
 ''Leaden Cord: The magus rolls this number of additional botch dice when casting within a Divine aura or when touching a holy relic. Also subtract the cord value from rolled attempts to resist Divine influence. Iron Cord: If the magus is touching iron, subtract the cord value from all rolls made, and reduce his Soak by this value if hit by an iron weapon. Also add this number of additional botch dice when casting within an Infernal aura. Tin Cord: If the magus is not within a supernatural aura (of any sort) subtract the value of the cord from all Personality Trait, healing, deprivation, and aging rolls, and from his Soak total.''
 
-|]
+|}
 
 ==The Workshops==
 
@@ -218,8 +224,8 @@
 ==The Devil’s Lane Covenant==
 
 ''The Devil’s Lane Covenant is a Merinita covenant occupying a two storied build''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Foremen Elves==
 
@@ -231,7 +237,7 @@
 
 ''Mengalaz suspects that Julia will be the only available Merinitia magus to bind him when Bartholomew dies. He tries to prevent her from binding another creature as familiar (because he knows that a magus can only have a single familiar at a time). If he cannot prevent Julia binding a familiar Mengalaz tries to kill this other familiar. If a Merinita (especially one without a familiar) visits Devil’s Lane, Mengalaz encourages the Merinita to stay (as a back-up for Julia).''
 
-|]
+|}
 ''ing opposite Florence Avenue on Devil’s Lane. The covenant was founded by Bartholomew immediately after his Gauntlet, and Hermetic rumor is that his mother was a faerie toy merchant. Whether true or not, his mother does not currently reside at the market. The other inhabitant of the covenant is Julia, a young maga trained by Bartholomew. There are no coven-folk; the magi rely on the faerie market for all their needs and have come to arrangements for the provisions they require. Bartholomew has a rat familiar, Mengalaz, who leads the rat pack that swarms up and down Devil’s Lane. The Merinita do not involve themselves much in either Tribunal or House politics, and are very unclear about which Tribunal they actually belong to. Jurisdiction over the covenant is complex as the regio has entrances in several Tribunals.''
 
 ==Julia’s Laboratory==
@@ -242,8 +248,8 @@
 ==Bartholomew’s Laboratory==
 
 ''At the back of Julia’s Laboratory is a stone spiral stairway that twists upwards for an unexpectedly long way. In fact, climbing the stairway leads to another tiny faerie regio (with a Faerie aura of 8). The regio contains Bartholomew’s laboratory.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Julia of House Merinita==
 
@@ -251,7 +257,7 @@
 ''Law 1 (graveyards), Code of Hermes 2 (faeries), Concentration 2 (spells), Dead Language: Latin 4 (Hermetic usage), Faerie Lore 3 (changelings), Finesse 2 (magic items), Great Weapon 2 (scythe), Infernal Lore 1 (ghosts), Leadership 3 (undead), Living Language: Greek 5 (speaking to dead), Magic Lore 1 (ghosts), Magic Theory 3 (corpus), Organization Lore: Order of Hermes 2 (Merinita), Parma Magica 3 (corpus), Penetration 2 (Vim), Stealth 3 (Graveyards). Arts: Cr 2, In 5, Mu 5, Pe 5, Re 8; An 3, Aq 3, Au 3, Co 8+3, He 3, Ig 3, Im 4, Me 7, Te 3, Vi 6 Twilight Scars: Julia’s left index finger is naked bone. She has no sensation of pain in this finger, but otherwise she can use and manipulate it like a normal finger. Of course, other people find Julia’s bone finger incredibly bizarre and upsetting — so she usually wears black leather gloves. Equipment: Hooded black leather cloak and other clothing, gloves, sharp scythe. Encumbrance: 0 (0) Spells Known: Charm Against Putrefaction (CrCo 10/+8*) Whispers Through the Black Gate (InCo(Me) 15/+18*) Eyes of the Cat (MuCo(An) 5/+9)''
 ''Awaken the Slumbering Corpse (ReCo 25/+29*) (Mastery 1, multicast) Wizard’s Side Step (ReIm 10/+15) (Mastery 2, fast casting, still casting) Lay to Rest the Haunting Spirit (PeMe 5/+18*) Ward Against Faerie Ghosts (ReMe 10/+24*) (Mastery 1, penetration) Ward Against Infernal Ghosts (ReMe 10/+24*) (Mastery 1, penetration) Ward Against Magic Ghosts (ReMe 10/+24*) (Mastery 1, penetration) Coerce the Spirits of the Night (ReMe 20/+23*) Demon’s Eternal Oblivion (PeVi 5/+14) (Mastery 2, multicast, penetration) * Includes Major Magical Focus: Necromancy Vis: 5 pawns of Corpus vis in a bone bracelet. Appearance: Julia is a black-haired, deathly pale woman dressed in a large black cloak adorned with bone toggles and clasps. Julia dearly loves her lost twin sister Leda. Of course, as Julia was only five when Leda was lost, this is more an obsession than true love based on memory. Julia has discovered a number of secret vis sources in the graveyards that lie city-side of Devil’s Lane. Together, these locations are worth a total of 12 pawns of Corpus vis per year. She has registered these sources with the Redcaps.''
 
-|]
+|}
 ''Bartholomew’s laboratory is cluttered with haphazardly shuffled stacks of books and laboratory texts that are scattered about the perimeter of a little cluster of comfortable chairs. The chairs themselves are huddled around a small table, piled high with stacks of old cups of herbal teas. Many, long since past, futures can be read in the desiccated leaves. One corner contains a workbench covered in a colorful coiling intestine of bubbling glassware, and another workbench overflows with carefully drawn horoscopes. A large fireplace illuminates the room with a warm orange glow. Bartholomew is old and senile, and also very near Final Twilight. He spends most of''
 ''the day dozing by the fire, wrapped in a woolen blanket, with a half cup of a fragrant herbal infusion in one hand, and an unread tome in the other. The rat Mengalaz, Bartholomew’s familiar, has a nest high up the inaccessible wooden beams above Bartholomew’s dotage. The overhead rustling of rats in the nest is Bartholomew’s constant companion. Up in the darkness of the ceiling, near where the rats nest, is a small balcony that leads outside. This is another entrance to the Bartholomew’s laboratory regio, but Bartholomew has forgotten about it. The balcony can be reached from the buildings that neighbor the covenant in Devil’s Lane. The rats access it by climbing up a drain-pipe.''
 
@@ -260,20 +266,14 @@
 ''The Devil’s Lane toymarket can be involved in an on-going saga in the following ways:''
 ''• One or more player characters can take up residence with the Merinita. Julia is reluctant to allow other magi to join the covenant (as she wants to be the undisputed heir to Bartholomew). However, Mengalaz is quite happy for new magi to move in,''
 
-[|
-
 ==Mengalaz the Rat==
 
 ''Faerie Might: 30 (Animal) Characteristics: Int +1, Per +1, Pre –2, Com –5, Str –11, Sta +1, Dex +2, Qik +5 Size: –7 Virtues and Flaws: Faerie Animal, Faerie Sight, Faerie Speech, Lesser Power (Hands of the Animal), Lightning Reflexes, Nocturnal, Personal Power (Devil’s Mind), Tough; Narrowly Cognizant; Disfigured, Dying Master (Bartholomew), Negative Reaction, Obese, Reckless, Tradition Ward (salt) Qualities: Crafty, Pack Animal, Sharp Ears. Personality Traits: Sneaky +3, Reckless +3 Reputations: Leader of rat pack (local) +3, Familiar of Bartholomew (local) +1 Combat: Claw: Init +4, Attack +10, Defense +14, Damage –9 Teeth: Init +5, Attack +10, Defense +11, Damage –10 Soak: +4 (+1 Sta, +3 Tough) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5+) Pretenses: Athletics 3 (running), Area Lore: Devil’s Lane 7 (visitors), Awareness 7 (food), Brawl 5 (claw), Concentration 3 (Hands of the Animal), Faerie Speech 4 (magi), Folk Ken 2 (magi), Leadership 5 (rats), Magic Theory 4 (Faerie Magic), Organization Lore: Order of Hermes 2 (Merinita), Stealth 4 (urban), Survival 3 (urban) Powers: Devil’s Mind, 0 points, constant, Mentem: Mengalaz is aware of everything that''
 ''happens in Devil’s Lane. He is an integral part of the glamour that sustains Devil’s Lane, so sensing events within the lane is like sensing the condition of his own body (See Realms of Power: Faerie, page 61; Extended Glamour power). Hands of the Animal, 0 points, constant, Form depends on object: Mengalaz can carry and manipulate an object using his rat paws, as if he had human hands and a Strength of +5. Mengalaz may only manipulate or carry a single object at a time in this way, and must concentrate to do anything else. (See Realms of Power: Faerie, page 59; 2 Intricacy Points spent to lower cost to 0). Faerie Sight. See description of Walter the Book Merchant. Faerie Speech. See description of Walter the Book Merchant. Familiar Power: Shared Senses. Both Mengalaz and Bartholomew can utilize the senses of the other (this is two powers, one for each direction); see ArM5, page 105. Familiar Power: Shared Powers. Bartholomew can utilize the powers of Mengalaz as if he had them, using Fatigue instead of Might Points to activate them (see Houses of Hermes: Mystery Cults, page 89). In his senile state, Bartholomew has forgotten that he can do this, but Bartholomew often uses the Devil’s Mind power without realizing what he is doing. Familiar Power: Shared Fatigue. Mengalaz can regenerate 4 points of expended Might by resting, as if it was a short term Fatigue Level. Mengalaz can also spend''
 ''4 points of Might to save Batholomew from expending a Fatigue Level. See Houses of Hermes: Mystery Cults, page 89. Familiar Power: Location. Mengalaz al ways knows where Bartholomew is (see ArM5, page 105). Given Bartholomew’s decrepit condition this is not particularly useful (he is almost always by the fireplace in his laboratory). Equipment: None. Vis: 6 pawns of Animal vis in oily black intestines. Appearance: Mengalaz is an extremely fat rat, although still surprisingly quick and agile, and is disfigured by numerous injuries. His tail is a mess of scaly scabs, a tuft of torn-hair near his throat has failed to grow back, and long scars cross back and forth over his snout; Mengalaz is highly distinctive. Mengalaz is the familiar of Bartholomew and although he once loved his master, Mengalaz treats the doddering old fool that Bartholomew has become with contempt. He knows that when Bartholomew dies he will also begin to fade and die. Mengalaz’s plan to survive this event is to become the familiar of whomever replaces Bartholomew as the master of the Merinita covenant. To bind Mengalaz as a familiar a magus needs to be able to bind faeries (so, normally, must be a Merinita magus) but due to Mengalaz’s small size only needs to be able to generate a relevant Lab Total of 20 or more (see ArM5, page 104 and Houses of Hermes: Mystery Cults, page 89). Mengalaz has sufficient Magic Theory to be aware of these requirements.''
-
-|]
 ''especially other Merinita magi. • The player characters may return to the market to commission or purchase magic items. • The player characters may utilize the Devil’s Lane regio as a type of portal nexus in order to travel around Mythic Europe. The characters might even be able to discover''
 ''a way (perhaps a Hermetic breakthrough, or a faerie power) to create new alleyways. • The Devil’s Lane covenant technically lies within several Tribunals. The player character’s Tribunal rules that the magi living in the market are (by selling magic items to mundanes) dangerously “interfering in''
 ''the mundane” (or are “molesting faeries”). The player characters are commissioned to enforce this ruling, and need to deal with issues of Hermetic jurisdiction.''
-
-[|
 
 ==Bartholomew of House Merinita==
 
@@ -281,5 +281,6 @@
 ''and crackle with magical sparks, and his pupils are a dark purple color. Whenever he casts a spell, any milk within Voice range curdles. Equipment: Thick robes, warm blanket, and cup of fragrant herbal infusion. Encumbrance: 0 (0) Spells Known: True Rest of the Injured Brute (CrAn 20/+29) Opening the Tome of the Animal’s Mind (InAn 25/+30) Growth of the Creeping Things (MuAn 15/+29) Transformation of the Ravenous Beast to the Torpid Toad (MuAn 25/+29) Circle of Beast Warding (ReAn 5/+30) Ward Against Beasts of Legend (ReAn 15/+30) Creeping Oil (CrAq 15/+28) Voice of the Lake (InAq 25/+29) Enchantment of the Scrying Pool (InAq 30/+29) Cloak of the Duck’s Feathers (ReAq 5/+29) Breath of Winter (ReAq 15/+29) Parting the Waves (ReAq 30/+29) Air’s Ghostly Form (CrAu 5/+29) Circling Winds of Protection (CrAu 20/+29) Clouds of Summer Snow (CrAu 25/+29) Sailor’s Foretaste of the Morrow (InAu 20/+30) Ward Against Rain (ReAu 10/+30) The Chirurgeon’s Healing Touch (CrCo 20/+31) The Severed Limb Made Whole (CrCo 25/+31) Revealed Flaws of Mortal Flesh (InCo 10/+32) The Eyes of the Sage (InCo(Im) 30/+32) Shape of the Woodland Prowler (MuCo 25/+31) The Wound that Weeps (PeCo 15/+24) Rise of the Feathery Body (ReCo 10/+32) Gift of the Frog’s Legs (ReCo 15/+32) Bridge of Wood (CrHe 20/+36) Hunt for the Wild Herb (InHe 5/+37) Shriek of the Impending Shafts (InHe 15/+37) Converse with Plant and Tree (InHe 25/+37) Pass the Unyielding Portal (MuHe 5/+36) Stir the Slumbering Tree (MuHe(Me) 25/+36) Wizard’s Autumn (PeHe 15/+29) Freeing the Striding Tree (ReHe 30/+37) Lamp Without Flame (CrIg 10/+30) Tales of the Ashes (InIg 5/+31) Hornet Fire (MuIg 10/+30) Gloom of Evening (PeIg 10/+23) Haunt of the Living Ghost (Cr(In)Im 35/+52) The Shadow of Human Life (CrIm(Me) 40/+39)''
 ''Summoning the Distant Image (InIm 25/+53) Aura of Ennobled Presence (MuIm 10/+52) Chamber of Invisibility (PeIm 25/+45) Wizard’s Sidestep (ReIm 10/+53) Illusion of the Misplaced Castle (ReIm 50/+53) Memory of the Distant Dream (CrMe 20/+39) Posing the Silent Question (InMe 20/+40) Thoughts Within Babble (InMe 25/+40) Past of Another (MuMe 35/+39) Calm the Motion of the Heart (PeMe 15/+32) The Call to Slumber (ReMe 10/+40) Confusion of the Numbed Will (ReMe 15/+40) Touch of Midas (CrTe 20/+32) Tracks of the Faerie Glow (InTe 25/+33) End of the Mighty Castle (PeTe 25/+25) Unseen Arm (ReTe 5/+33) Earth Shock (ReTe 30/+33)Body Text The Enigma’s Gift (CrVi 30/+44) Piercing the Faerie Veil (InVi 20/+45) Sight of the Active Magics (InVi 40/+45) Wizard’s Communion (MuVi 15/+44) Wizard’s Communion (MuVi 30/+44) Bane of the Elves (PeVi 15/+37) (Faerie Equivalent of Demon’s Eternal Oblivion) Demon’s Eternal Oblivion (PeVi 15/+37) Disenchant (PeVi 30/+37) Ward Against Faeries (ReVi 20/+45) Watching Ward (ReVi 20/+45) Aegis of the Hearth (ReVi 25/+45) Vis: None. Appearance: Bartholomew is a very old man, huddled under warm blankets, drinking cups of herbal tea. He is senile and vacant, but potentially powerful. Bartholomew can cast spells silently and gesture-less without penalty, although these days he finds the actual casting disorientating. Some of his Intellego spells, such as Summoning the Distant Image, use patterns in the dregs of his herbal tea to convey the magically sensed images.''
 ''The bond between Bartholomew and his rat familiar Mengalaz has a +1 Gold Cord, a +2 Silver Cord, a +3 Bronze Cord, a +3 Leaden Cord, a +1 Iron Cord, and a +2 Tin Cord. The powers Shared Senses, Shared Powers, Shared Fatigue, and Location are enchanted into the bond.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

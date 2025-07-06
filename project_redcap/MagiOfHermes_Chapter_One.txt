@@ -43,13 +43,13 @@
 ''Crocodiles have a sense of the movement of water around their bodies, which allows them to track nearby moving objects without looking at them.''
 ''Lion''
 ''Characteristics: Cun +1, Per 0, Pre 0, Com 0, Str +6, Sta +3, Dex +2, Qik +1 Size: +2 Confidence Score: 2 (6) Virtues and Flaws: Ferocity (self-defense), Improved Characteristics (x2), Puissant Brawl, Self-Confident, Tough, Proud, Weakness (submission) Qualities: Aggressive, Ambush Predator, Crafty, Good Jumper, Hardy, Imposing Appearance, Large Claws, Large Teeth, Tough Hide*, Vocal * Tough Hide gives it a Protection of +2. Personality Traits: Brave +5, Fierce +5 Reputations: Fierce (local) 4 Combat: Claws: Init +1, Attack +15, Defense +12, Damage +10 Bite: Init +1, Attack +13, Defense +9, Damage +9''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Equipment for Alexander’s Attendants''
 ''Alexander’s attendants are often transformed into animals. It is vital that his party have equipment that does not require requisites to transform. Armor: Alexander’s attendants usually wear quilted armor (ArM5 page 176) made of woolen thread. An expert armorer would quickly determine that the armor had been made so that small pieces of metal that are usual in its construction have been replaced with pieces of bone. Weapons: Alexander’s grogs often lose their weapons when they change shape, if they are forced to flee. To compensate for this, some of his warriors carry large fighting knives and clubs made from''
 ''animal bone, horn, or ivory with leather and beeswax grips. These weapons do –2 Damage compared to their steel counterparts in the tables on pages 176 and 177 of ArM5, except daggers and knives, which do –1 Damage. All of these weapons are likely to break on botches. Water: The greatest flaw in Alexander’s transformations is that the water his grogs are carrying, in leather skins, does not transform when the skins do, and so it is always lost. He has tried various solutions to this problem, but none have proven promising. His troops always carry a little mead or kumis (fermented honey or milk), but that offers no protection against dehydration.''
 
-|]
+|}
 ''Soak: +8 Fatigue Levels: OK, 0/0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–7), –3 (8–14), –5 (15– 21), Incapacitated (22–28), Dead (29+) Abilities: Athletics 5 (pouncing), Awareness 2 (smell), Brawl 5 (claws), Hunt 4 (deer), Stealth 4 (stalking), Survival 5 (arid climates) Appearance: The lion is a legendary beast more often depicted in artwork than encountered in the flesh. It can weigh up to 490 pounds and have a body length of over ten feet. It has a short, broad muzzle with powerful jaws and teeth. Its coat is tawny and the male lion has a dark, shaggy mane. The fearsome roar of the lion can be heard from a great distance.''
 ''New Spells''
 ''Alexander has developed the following new spells.''
@@ -154,5 +154,6 @@
 ===Rapid Excavations===
 
 ''MuTe(Aq) Level 30 This spell allows Alexander to turn large volumes of sand into water, which rapidly dissipates in the desert heat. Alexander uses this spell to excavate sites that have become sand-bound, and to disorient foes by making the ground they are standing on into a deep waterhole. This spell can affect one hundred cubic yards of sand. Alexander can alter the shape of the space affected with a Finesse Roll. (Base 3, +2 Voice, +2 Sun, +2 Part, +1 large target)''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

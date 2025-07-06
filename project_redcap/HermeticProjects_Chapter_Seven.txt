@@ -13,8 +13,8 @@
 ==The Building Site==
 
 ''Besides the strength of the magic aura, the acreage of the potential site is also important. Creatures need space, and the more room an animal has to move around, the happier it will be. The more closely the containment site mirrors a creature’s natural habitat, the more likely it will be to breed. The spot selected for the menagerie should closely resemble the area the creature is used to. If a maga plans an assortment of livestock, he might have to make many changes to the menagerie’s landscape if she wishes to house all of her''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Can I Make a Magic Lore Roll?==
 
@@ -25,7 +25,7 @@
 ''Magic Lore Ease Factor: 12+ Habitat Query: Specific geographical features Creature Query: Creature’s general Personality Traits''
 ''Magic Lore Ease Factor: 15+ Habitat Query: Approximate strength of preferred aura Creature Query: Approximate Might of the creature in magnitudes''
 
-|]
+|}
 ''creatures in the same area. Hermetic magic is a very powerful tool for landscaping, and nearly any feature can be molded, changed, or created at the maga’s whim. Trees can be grown or removed, hills leveled or piled, rivers diverted, and ponds created in an instant. Created features, using Creo ritual magic, will need vis to make the changes permanent, but Rego and Muto magic easily accomplish many of the same feats without the need for vis. Rego Aquam spells with a Terram requisite can divert a river, and if the water still runs downhill, it will remain in the new shape after the magic of the spell ends. Muto Terram can level the ground by changing it all into water, letting it settle, then canceling the magical effect. Trees, brambles, and unwanted shrubs can be removed with Perdo Herbam magic, but this type of magical destruction always leaves a mess behind. On the other hand, Perdo Aquam spells are perfect for draining swamps and drying out marshes. Naturally, steps will have to be taken to prevent the ground from become waterlogged by whatever natural processes created it in the first place. A cautious magus should avoid damaging any existing tethers, which draw mystical energies to create the magic aura. Preternatural tethers are usually safe from Hermetic landscaping, but too much alteration may destroy a natural tether. Tethers are explained in Realms of Power: Magic, pages 8–10.''
 ''The Wand to Produce a Forest Overnight''
 ''CrHe 45 Pen: 0, unlimited uses R: Touch, D: Sun, T: Ind Instilled in an oak wand, this effect matures a plant in about two hours. Typically, a person carries the wand and a sack of live acorns. Pushing the acorn into the ground, he then touches it with the wand, speaks the command word, and gets out of the way. This enchanted device is not limited to oaks and acorns,''
@@ -36,15 +36,15 @@
 ''“The stables for the livestock will be such as not to be affected by either cold or heat. For the draught animals there should be a double set of stalls for winter and summer; for the rest of the livestock that belongs within the farmstead there should be paddocks surrounded by a high wall to prevent attacks by wild beasts, and with a roofed part where the animals can rest in winter and an open part for the summer …”  — Columella, On Agriculture''
 ''While it’s common for peasants to live with their livestock, sharing a single-room hovel with the family ox, few magi will want to share their laboratory with a wild animal. Even a tamed animal is problematic, sure to cause unintentional mischief and trouble. Outbuildings are the solution, their size and structure dependent upon the desires of the maga. Besides a''
 ''barn, a menagerie might need granaries to store feed, aviaries to house birds, or apiaries to keep bees. Aquatic beasts need ponds or cisterns. A stud farm needs several barns, as each breed requires a specific barn, separate pastures for males, females, and young, and secure paddocks for breeding and birthing. A personal menagerie needs separate pens for the various curiosities, comfortable lounges for viewers, restricted areas for livestock management, and living quarters for the staff. Fresh air and water must be provided, as well as protection from the elements and any unwanted visitors that may wander past. Pens have to be mucked out, and accommodations for feeding must be included. Breeding rooms should be private enclosures so as to not rile up other beasts, and rooms must be set aside for healing and medical needs. The opulence and grandeur of the structure is another consideration. Since appearance is everything, the architecture must match the prestige of its occupants. If the presiding maga wants to engage in any seasonal arcane activities while on site, she needs a laboratory. A menagerie’s laboratory would have several unique features: a larger room, if lab activities include large beasts; access to pens and oth''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: A Grisly Find==
 
 ''The characters are charged with visiting a Verditius magus who has lost touch with the Order, perhaps as a common courtesy, or on important covenant business. Traveling to a distant location, the magus’ last known residence, they find an abandoned building hidden in a regio. The interior is moldy and dusty, and the characters accurately surmise that no one has lived within for several decades. In the sanctum, they find several rotting skeletons, one human and the rest goats. Locked in a stall in the rear of the sanctum are two living goats, one male and one female, who bleat angrily. Reading through the available laboratory notes, the characters discover that the''
 ''Verditius magus was breeding the goats and then siphoning off the Magic Might of the young to empower his enchanted devices. The cracked skull of the human skeleton suggests that perhaps one goat victim overcame its captor. With a little work, the building could be restored, with the added bonus of a ready pair of magic goats. Unfortunately, the ghost of the Verditius magus still haunts the sanctum, determined to slay the creatures that brought about his demise. His powers are ineffectual against the goats, so he contents himself with pestering and harming human workers who hope to restore the building.''
 
-|]
+|}
 ''er containment units; stalls and bindings to keep animals immobile; and a variety of enchanted items to assist the magus. The complete set of buildings should be arranged in a pleasing and auspicious manner. For example, Palladius writes that the granaries should be placed in the north of the farm and ox-stalls in the south. A garden is a nice finishing touch, providing a pattern to the completed menagerie. Popular from one end of Mythic Europe to the other, a garden should be landscaped with trees, shrubs, and flowers, interwoven with idyllic paths and manicured groves. Exotic magical birds could live in the flora, augmented perhaps by a handful of unique magical herbivores. A small pool serving as a centerpiece can contain magical fish, amphibians, or reptiles.''
 ''Conjure the Mighty Barn''
 ''CrHe 25 R: Touch, D: Mom, T: Ind, Ritual This spell creates a large barn con''
@@ -54,8 +54,8 @@
 
 ''Constructing a menagerie takes considerable time and resources, and not every magus will have the wherewithal to accomplish the goal alone. Those with an entrepreneurial spirit may seek out backers, magi of means willing to finance the operation in return for future benefits. The initial investments vary: vis is always appropriate, money can pay the staff and provide supplies, land allows for building sites, or personal magical assistance can help with specific magical requirements. A maga could, for example, agree to donate''
 ''one season of lab work a year, in return for annual payouts. The scale of the backers’ investment depends on the final vision of the menagerie. A small-scale menagerie, holding only a dozen exotic animals, might be intended solely as a meeting place for Hermetic gatherings, and a backer who supplied a rook of vis for its start-up might be able to use the facility for one weekend a season. A menagerie that produces magical offspring might be required to give the backers one magical animal a year. A large-scale stud farm might be required to pay the backers back in vis, perhaps ten percent of their initial outlay in perpetuity. It all depends on what the backers are willing to give, and what the menagerie manager is willing to give back. There are no mechanical rules for backers, how many any player character needs or what type of resources each has to give. A backer exists primarily to drive stories, as his wants and demands have an impact on the functioning menagerie. Backers have a variety of motivations for''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Integrating Covenants==
 
@@ -69,7 +69,7 @@
 ''could serve as a prototype for a magical stud farm, or if combined with another Boon or Hook that allows an aura in the chase, be the actual magical menagerie. If you are detailing the wealth and poverty of your covenant (pages 56–71), you will need to specify the expenditure cost of the menagerie’s animals and handlers. Regular staff cost the same number of expenditure points as Other Covenfolk on the Points of Inhabitants table (page 63), and the overseer specialists count as Specialists. To determine the inhabitants points of each animal, compare it to a horse (1 point). The typical covenant horse is Size +3. For each Size smaller than +3, double the number of animals that cost 1 point. Two Size +2 animals, four Size +1 animals, and eight Size 0 animals all cost 1 point. For larger animals, double the number of points for each Size increase. A Size +4 animal costs 2 points and a Size +5 animal costs''
 ''4 points. For carnivores, double the point cost. Keeping a pack of 12 wolves, for example, could cost 3 inhabitants points. A wolf is Size 0. Eight Size 0 herbivores cost 1 point, so four Size 0 carnivores cost 1 point. Thus, 12 1-point carnivorous wolves cost 3 points. A menagerie could also be used as a realia, a collection of magical examples of typically mundane things (creatures) used for study. Like books, whose author cannot study the book he writes, the collector cannot study the collection. To determine the Quality of the realia, count breeds instead of individual animals, so that a collection of 30 magical horses of 2 breeds counts as a tractatus of Quality 2. A menagerie realia usually provides study only in Magic Lore; however, a collection of several different types of magical animals, all connected to the same Form, could allow study of that Form.''
 
-|]
+|}
 ''becoming involved, some altruistic, some financial, and some insidious. Backers do not have to be storyguide characters; a player character could willingly finance another player character’s menagerie, and if the storyguide can encourage such behavior all the better. Potential backers might be:''
 ''• A magus’ parens donates two pawns of''
 ''vis a year and asks nothing in return. • A magus’ parens reluctantly gives three''
@@ -92,13 +92,15 @@
 ==Finding Magical Creatures==
 
 ''Magical creatures need magical auras, but they are not specifically bound to particular areas, nor do they need to spend their entire lives in them. Hunting for populated auras and regiones is a good start, but often the trail begins in rumors,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Magical and Faerie Animals==
 
 ''Ars Magica Fifth Edition draws a clear line between the nature of magical and faerie creatures. In essence, magical creatures are perfect examples of a particular group and have no need or concern for human interaction. Faeries, on the other hand, need human interaction for healthy existence, and are made manifest by stories, passions, and recurring events. Yet within this distinction, ArM5 has not officially categorized supernatural creatures, allowing us to decide if a creature is magical or faerie, depending on the motivations and natures of our stories. It is entirely possible that both versions exist, and that within your saga players could find magical and''
 ''faerie dragons, cats, hippocampuses, eagles, and whales. Maintaining a menagerie of magical creatures is eminently possible; maintaining a menagerie of faerie creatures is far more difficult. Faeries do not breed. nor can they be bound as familiars by the majority of Hermetic magi. Most faeries are locked within their stories, few of which pertain to menageries. Escaping from a menagerie might be part of a faerie’s story, or avoiding capture for one, but the faerie needs to repeat the story to maintain its vitality, meaning that the escape or capture cycle needs to be re-enacted again and again.''
+
+|}
 
 ==Insects==
 
@@ -113,21 +115,19 @@
 ''selected from those mentioned in Houses of Hermes: Mystery Cults.''
 ''Example Physical Characteristics of Insects''
 ''Type Size Str Sta Dex Qik Example Aggressive Flier –15 –30 +1 +3 +15 Wasp Non-Aggressive Flier –15 –29 0 +2 +17 Butterfly Aggressive Crawler –13 –26 0 +3 +14 Ant Non-Aggressive Crawler –15 –30 +2 +1 +17 Dung Beetle''
-
-|]
 ''hearsay, and legend. Some creatures have a Reputation score to aid the seeker, but these are usually local reputations that don’t spread far. Nor does a Reputation automatically include details of a creature’s lair, although it might. In the many wild patches of Mythic Europe, any clue is a good beginning. Bestiaries sometimes include a description of an animal’s location, but even these are general and encompass a great expanse of territory. Methods of narrowing down larger areas into smaller ones are preferred, allowing the seeking maga to continually narrow her search until it proves fruitful. Different types of terrain allow for different types of searches. Flying is always useful. The flying magus can cover ground quickly, and has a better vantage point to view likely quarry. Flying works particularly well over meadows and open grasslands, but is less successful over dense forests and overgrown marshes. Swimming and breathing underwater is almost required for any aquatic livestock the maga wishes to find. Despite the advantages of magic, many searches boil down to a group of trackers and beaters combing an area, searching for spoor, tracks, and possibly finished kills. Having the creature come to the magus is another preferred method, and baiting an animal with its favorite food can draw it out of its hiding place. During mating season, tethering a fertile female to an area might attract a rutting male. Capturing an aroused male is another story. Clever magi can also create scents and sounds to attract magical animals. Some creatures are readily recognized as magical, such as griffins, manticores, and rocs. Others are not, especially from a distance, and a magic hawk might look like a mundane hawk. Hermetic magic can detect magical animals. Intellego Vim spells can be designed to indicate that a target creature is magic. Such a spell must Penetrate the target to reveal any information. However, a spell failing to Penetrate a targeted creature usually means that the creature has some sort of Magic Resistance, as every creature with a Magic Might has. Creatures of other''
 ''realms have Magic Resistance as well, so a spell failing to Penetrate may only mean that the beast is supernatural, not specifically magic (i.e., possesses Magic Might). Remember that Intellego Vim spells are realm-specific. A spell designed to tell if a creature is magic will not reveal whether the creature is a faerie.''
 ''The Chorus of the Distressed Hare''
 ''CrIm 9 Pen: 0, 2/day R: Per, D: Conc, T: Ind This effect, instilled in any small device, produces terrified rabbit shrieks upon com''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Bees, a Preferred Stock==
 
 ''Bees are universally held in high acclaim. They are mysterious, intelligent, and holy; their wax is used to make church candles; and their honey is one of the few sweeteners available in the Western medieval diet. Many people, from rich to poor, desire bees and subsequently know a lot about them. Bees must be informed of all goings-on of the household or they will depart. They easily take offense at rude words or loud arguments, and many people claim they have heard bees hum hymns on Christmas and other holy holidays. Bees mimic the natural order of man, with the king leading the hive, the knights protecting the hive, and the many workers happily providing the food. Because of their small size (–15), magic bees can be extremely potent''
 ''(Magic Might 25, if taken as a result of the Virtue: Magical Animal Companion). The drawback is that magical bees are Intelligent, not Cunning, and cannot be tamed or trained, but must reside in a state of friendship or mutual benefit. Capturing a live hive and putting it in an apiary might work for mundane bees, but magical bees will surely depart if the proscribed conditions aren’t met. Friendly bees will let a magus draw off some of their honey (which might be raw vis) and even provide a companion or two, but they cannot be coerced into this behavior. Because of their Magic Might, bees need a high Magic aura to prosper. A magical bee would make an interesting companion-level character, or even a magus-level character in a lowpowered saga.''
 
-|]
+|}
 ''mand. Such noise is very effective in drawing curious predators, especially those that eat rabbits. Because the device maintains concentration on the spell it can be commanded to stop, which lets it be set and used in two different locations in a day. The created species of sound need not penetrate a magical creature’s Magic Resistance to be heard. (Base 1, +1 Concentration +1 clear sounds; +1 frequency, +5 maintains concentration) Required Lab Total: 1 season (18), 2 seasons (14), 3 & 4 seasons (12)''
 
 ==Creating Magical Creatures==
@@ -137,8 +137,8 @@
 ''A spell that creates a magic animal is always a ritual, and cannot be instilled in an enchanted device. For the magical animal to have magical powers, requisites need to be included, based on the Form of the individual powers, and Vim is always a requisite. If the beast is intelligent — having an Intelligence Characteristic instead of Cunning — the ritual needs a Mentem requisite. According to the definition of requisites (ArM5 page 114), the Vim requisite shouldn’t add magnitudes to the spell (it allows the ritual to have an effect), but other Form requisites should (they add effects to the ritual, such as magical powers to the created beast).''
 ''Conjuring the Magical Wolf''
 ''CrAn(Me, Vi) 60 R: Touch, D: Mom, T: Ind, Ritual''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds for Finding Magical Creatures==
 
@@ -150,7 +150,7 @@
 ''The Spring Hunt''
 ''One of the covenant’s grogs knows of a curious superstition of a nearby village. On the first day of spring, the villagers gather in a meadow, armed with hats and sticks, and search out the season’s first butterfly in an effort to kill it. A white butterfly signifies good luck for the village’s harvest, while a black butterfly indicates difficulties. The dead butterflies of years past are all saved by the village elder, and magical investigation of these corpses reveals that each is worth a pawn of Imaginem vis. Scouring the meadow reveals small pockets of Magical auras, none especially large or powerful, but a great number of isolated auras in a relatively small field. Could a magus capture the butterfly, which is surely magical, and produce a stock of these magical insects? A clever ruse will have to be concocted. The villagers will not let a Gifted stranger and his men participate in the event, nor will they willingly forego their annual ceremony at the request of a wizard.''
 
-|]
+|}
 ''This ritual spell creates a magical wolf, as described in ArM5, page 193. Once created, the wolf is not naturally friendly with the caster, and instantly reacts according to its own motivations. (Base 50, +1 Touch, +1 Mentem requisite) Required Lab Total: 1 season (120), 2 seasons (90), 3 seasons (80), 4 seasons (75)''
 ''Fashion the Ancient Worm''
 ''CrAn(Co, Ig, Me, Vi) 80 R: Touch, D: Mom, T: Ind, Ritual This spell creates a dragon, which has the same statistics and powers as Stellatus (ArM5, page 194). This dragon is not actually Stellatus, who is an individual, but the creature mirrors his powers and Abilities. (Base 50, +1 Touch, +2 Size increase, +3 Corpus, Ignem, and Mentem requisites) Required Lab Total: 1 season (160), 2 seasons (120), 3 seasons (107), 4 seasons (100)''
@@ -161,8 +161,8 @@
 ''Once found, a creature will have to be captured, and people have historically used many clever methods for trapping various creatures. Snares are a favorite for small animals, but they have to be checked regularly to make sure a captive animal hasn’t chewed its own leg off to get out of the snare. Larger animals are often chased to exhaustion and then lassoed. Fish can be caught using hooks and lures, nets, and sometimes underwater traps. Birds are usually captured while young, before they can fly, although elaborate wooden traps can also be erected and sprung once the bird has flown inside. Larger animals might be driven into concealed cages or prepared pits in the ground.''
 ''Beasts can also be lassoed from a distance with rope, and then held until they have exhausted themselves struggling to escape. Lassos are not common to most of Mythic Europe, and are generally only used in northern lands (Finland) and by people of the Near East (Mongols and Turks). To lasso a beast, make a Thrown Weapon attack that grapples rather than does dam''
 ''age. Once the initial attack succeeds, the beast is roped and begins struggling to escape. The attacker may make additional attacks, as per the grappling rules, but these attacks are not new ropes thrown around the animal; rather, they represent pulling the already attached rope. If the animal beats the Grapple Strength of the attack, it breaks the rope and is free. A lasso has''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Optional Grappling Rule==
 
@@ -174,7 +174,7 @@
 ''First described by the Greek Cresias in the fourth century B.C., the unicorn is an Indian beast as large as a horse, with a white body, red head, and blue eyes. Its foot-long horn is also tri-colored: white at the base, black in the middle and bright red at the tip. The unicorn is uncatchable, swifter than any other animal and extremely fierce. Described again in the Physiologus (Naturalist), a third century collection of animal descriptions compiled in Alexandria, the unicorn is only the size of a young goat and completely white in color. This unicorn is also swift and fierce, regularly killing elephants and other dangerous beasts. Rather than one description being false, in Mythic Europe these texts describe two breeds of unicorns, one Western and the other Eastern. Symbolic of military prowess and purity, unicorns are highly desired by princes and knights. Because of the magical properties attributed to its horn,''
 ''a unicorn is also universally sought by magi and physicians. A magus who can breed and provide unicorns will be revered far and wide, and will be wealthy beyond imagination. Analogous to its status in legend, a unicorn is terribly difficult to capture, and the only known method is to bait the creature with a virgin, leaving the maiden to sit in a glen in the beast’s environs. Authorities differ in what happens next. Some suggest that the unicorn arrives and lays its head in the girl’s lap, remaining docile as long as the maid is in proximity. Others provide more lurid details. A Syrian bestiary says that the maiden “offers [the unicorn] her breasts, and the animal begins to suck the breasts of the maiden and conduct himself familiarly with her.” Whether this tale is true or merely a shocking suggestion is up to you. In either case, it might not be easy to find a virgin willing to act as a lure.''
 
-|]
+|}
 ''the following stats: Ability: Thrown, Init 0, Atk +1, Def 0, Dam n/a, Range 5, Str –1, Load 0, Cost Inexp.''
 ''A Ring to Approach Animals Undetected''
 ''PeIm 14 Pen: 0, Constant effect R: Touch, D: Sun, T: Ind This lesser enchanted device is a ring (+2 shape and material Lab Total bonus) that destroys the wearer’s scent, allowing easier access when sneaking up on animals. (Base 3, + 1 Touch, +2 Sun; +1 frequency, +3 environmental trigger) Required Lab Total: 1 season (28), 2 seasons (21), 3 seasons (19), 4 seasons (18)''
@@ -187,15 +187,15 @@
 ==Transporting and Containing==
 
 ''Once captured, the bound beast needs to be moved back to the menagerie and kept. After capture, beasts often''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: A Curiously Common Bait==
 
 ''According to several bestiaries, cow’s milk is one of the most desired food substances of many magical animals. Many creatures delight in climbing a cow at night and supping from her udder, including snakes, bats, and hedgehogs. A bestiary’s more fantastic tales usually recount the behavior of a magical Beast of Virtue instead of mundane examples of the breed, making a maga think that any animal that follows such behavior must be magical. A common ploy is to leave a cow unattended in a field all night and wait for a magical animal to appear for dinner. Any animal so situated, however, is universally regarded by superstitious peasants as evil or, at the very least, an''
 ''ill omen. Discovering that a magus is baiting such animals will not bode well, and the neighbors will seek to stop the efforts by any means possible. There is nothing wrong with the cow, so stealing it is always an option. What peasant doesn’t need an extra cow? Chasing off the watching grogs is another option; if no one sees an adder suck from the cow, maybe it didn’t happen. Hungry animals won’t drink from a dead cow’s udders, so slaying the bovine will also stop the threat of summoning bad luck. But theft or violence isn’t the only way to stop such a dangerous practice, and villagers may instead contact their local priest or secular authority to order the wizard to cease.''
 
-|]
+|}
 ''need to be moved again, from summer pasture to winter, one pen to another, and from owner to buyer. Magic can greatly assist this operation. A maga can create spells and devices that shrink, immobilize, or instantly transport beasts from one place to another. Besides magic, several mundane means will also transport beasts. Wheeled cages can be drawn by oxen, sacks and barrels will hold smaller quarry, and docile beasts can be driven or pulled by a leash. Transportation stories allow the storyguide to highlight the nature of travel in Mythic Europe, including the problems and poor travel conditions that regularly occur. The caravan leader should expect washed-out roads, fallen bridges, flooded river fords, and ever-present gangs of bandits, to name the mundane troubles that lie ahead. Magical nuisances, including faeries, demons, and other magical beasts may be drawn to the travels, interested in the rarity of hauling a griffin, Beast of Virtue, or other exotic creature. Once at its destination, a beast needs to be contained. Hopefully, the maga has had the foresight to construct an appropriate building (see earlier). If not, or if she has captured a creature she didn’t anticipate, the beast will need to be held in a makeshift pavilion or ad hoc pen until an adequate structure is built. Magical wards are invaluable for keeping creatures, provided the beast can be held in check until the ward is finished. Delays and unforeseen events are always good targets for stories.''
 ''The Saddle of Settling the Wild Stallion''
 ''ReAn 44 Pen: 30, constant effect R: Touch, D: Sun, T: Ind (up to Size +3) When placed on an animal’s back, this saddle calms the beast, allowing it to be easily handled and even ridden. (Base 4, +1 Touch, +2 Sun, +2 Size increase; +1 frequency, +3 environmental trigger, +15 Penetration)''
@@ -244,15 +244,15 @@
 ''— Columella, Rei Rusticae''
 ''Beasts in the wild naturally reproduce, following God’s commandment to be fruitful and multiply (Genesis 1:22), but those in captivity are less happy to capitulate. Animals that have long been domesticated more readily reproduce in captivity, but those new to it actively resist producing young. Herders and animal handlers have learned several methods to induce reproduction, and many of these work on newly acquired magical creatures. Hermetic magic is helpful, but not a guarantee. Breeding is the act of pairing animals in captivity to producing offspring. Animal breeding was studied by a handful of Greek and Roman authors, whose insights allowed the Roman Empire to produce quality livestock. Most of that knowledge has been lost in the 13th century. That which exists is applied only to dogs and horses, seemingly the only animals that matter to the wealthy nobility. The majority of domesticated livestock — cows, sheep, and pigs — are not subjected to supervised breeding programs. The biology of animal breeding is''
 ''somewhat understood, and is similar to the way that a man and a woman reproduce. Both male and female have semen, and this semen must be released and combined for reproduction to occur. The exact method that a female uses to release semen is a mystery, but breeders know that it is released from some interior organ to another chamber, the uterus, where her semen mixes with the male semen. Other factors contribute to conception, for not every mating guarantees offspring, but breeders are at a loss to explain why coupling sometimes fails. Like in humans, breeders speculate that temperature, temperament, and other factors contribute to successful reproduction. Animals that aren’t considered “prime stock” are allowed to breed however it is convenient. Generally a cow herder doesn’t care how or when the cattle mates, as long as it is not inconvenient to his overall enterprise. He keeps them together in a herd and lets nature take its course. Breeders use selective breeding and crossbreeding in animals with more valuable characteristics. A maga interested in magical animal breeding would use available breeding practices in the animals that interest her. It is perfectly understandable for a maga to use selective breeding in her magical hares, even though no one else would ever think of paying that much attention to the mating of such lowly animals. Some animals don’t breed but reproduce through simpler generation, as explained in Art & Academe, page 30. Such animals are called worms, from the Latin''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Types of Animals==
 
 ''Of the different types of animals — birds, fish, hoofed beasts, clawed beast, insects — each type has several kinds or groups. Lions, tigers, wolves, bears, and dogs are a few of the kinds of clawed beasts. Many kinds are again divided into breeds, lineages distinguished by particular physical qualities. The Norman destrier, the Irish hobby, and the Spanish jennet are all''
 ''breeds of horses, and the greyhound, alaunt, and mastiff are all breeds of dogs. Lions have two breeds, according to bestiaries: short lions with curly manes, and tall lions with straight manes. The number of breeds of any kind of creature is entirely up to you, and in Mythic Europe there can be a variety of breeds of griffins, unicorns, or hedgehogs.''
 
-|]
+|}
 ''vermes, and include such creatures as mice, frogs, eels, spiders, centipedes, and beetles. Most insects are worms, as are small to medium-sized fish and some smaller rodents. If the beast is a pest, to humans, beasts, or agriculture, it is likely a worm. Magical species of worms can exist, as do versions of such beasts from the other realms. A maga could encounter an Infernal spider, a Faerie ant, or a Magic fly.''
 ''Breeding in the Menagerie''
 ''The inclination to reproduce in captivity depends mostly on the nature of the beast. Onagers (wild asses) are notoriously over-sexed, while lions only breed in captivity once every seven years. Randy males merely have to be introduced to ready females, but reluctant reproducers need more encouragement. Diet, habitat, and proximity to fellow creatures all play a part, as does temperature, human involvement, and privacy. Healthy, happy ani''
@@ -263,8 +263,8 @@
 ''four categories: shape, color, merit, and beauty. These qualities are specific to region; Normans like their horses large, so breeders use the larger specimens of the herd instead of the smaller specimens during the breeding season. Animals that matter, those that have a social value beyond the simple value of their meat, milk, or wool, are bred for the best. The best specimen male is bred with the best specimen female. If long-necked camels are deemed more valuable than short-necked camels, the breeders pair the male with the longest neck with the female with the longest neck. When breeding magical animals, the breeder uses the best examples of the beasts that she has on hand. The goal is to reinforce specific desired physical traits. There is a slim chance that the magical offspring will develop a better Virtue (Minor into a Major or a new Minor), higher Might, and as a result, another power (since Might determines the number of Qualities a creature may have). There is also a chance that none of this happens, and since magic by its very nature is quixotic, there is a chance that the offspring gains a new Flaw. Crossbreeding, or “breeding for the beast,” is the process of mating two creatures from different breeds to produce a new type of breed or to induce physical traits from one breed into the other line. In a menagerie, a magus might want to cross a timid, short-maned magical lion with the''
 ''fierce long-maned breed, trying to generate a medium-maned lion with an even keel. Because the male’s inherited traits usually suppress the female’s, the breeder must wait for the rare occasion when the male’s traits augment existing traits instead of overriding them. Crossbreeding also includes breeding different kinds of creatures to make a third; a horse and a donkey can crossbreed and produce a mule. While many breeds can generally crossbreed, most kinds of mundane animals cannot. A mundane wolf cannot crossbreed with a mundane bear. With mundane creatures, breeding for the beast is most successful in certain kinds of animals, namely horses and dogs. Breeding for the magical beast can follow similar lines. Success is possible only''
 ''in specific kinds of magical animals. In Mythic Europe, however, it might be possible to crossbreed different kinds of animals. A griffin is an amalgamation of a lion and an eagle, and as well as mating a pair of griffins, it might be possible to produce a griffin by mating a magical lion with a magical eagle. One of the Inner Mysteries of House Bjornaer allows a Bjornaer magus to create an inner heartbeast chimera that is a hybrid of more than one mundane animal (Houses of Hermes: Mystery Cults, page 31). This suggests that creating chimeras (hybrids of two or more animals) might be possible through breeding for the beast. Breeding for the beast also refers to the practice of breeding a magical beast with a mundane beast of the same type, hoping that the offspring will be magical or that a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Modern vs. Medieval Terminology==
 
@@ -277,7 +277,7 @@
 ''powered to remain in effect. However, since this magical trait is received from Warping Points, an industrious maga could challenge the Limit of Warping, a lesser limit that could theoretically be changed with a Hermetic Breakthrough. If Warping could be affected by Hermetic magic, then maybe the traits gained through Warping could be passed on. Using the rules in Houses of Hermes: True Lineages, a character would need to experiment with spells that resemble this effect, succeed with the experimen''
 ''tation process, and collect 60 Breakthrough Points to create inheritable magical traits. Qualifying spells would be those inflict Warping Points and somehow specially change the beast, the most likely combination being the Arts of Creo, Muto, Animal, and Vim. Various legends from the East tell that Persian wizards knew how to do this, and could create and breed magical animals from mundane livestock. Whether this is true, or just another tall tale from the Orient, depends upon your saga.''
 
-|]
+|}
 ''mundane offspring will inherit some type of magical trait. If both sire and dam are magical animals, the offspring will also be magical, but if only one parent possess a Magic Might, it is exceptionally rare for the offspring to be a magical creature. Because Hermetic magic is ineffectual in permanently changing the essential nature of a beast, a magus’ spells have little effect in this process. But that shouldn’t stop a magus interested in breeding magical creatures from trying.  Possible solutions include feeding a mundane female vis during her pregnancy, penning the female in a field with a powerful magical aura, or developing spells that maintain a magical trait or feature in the female during its pregnancy. Breeding can be assisted by magical spells and enchanted devices. Rego Animal spells can induce mating, and Creo Animal rituals might ensure successful mating, although some trial and error would need to be involved. Intellego Animal spells can tell if an animal is capable of mating, or if copulation has been successful.''
 ''Horn of Hearing the Cow Laden with Child''
 ''InAn 25 Pen: 30, 24/day R: Touch, D: Mom, T: Ind''
@@ -289,15 +289,15 @@
 ''spring. For fish, the maga should remove the offspring from the birthing pool immediately, for nothing is as appetizing to a hungry fish as its own young. For birds, the offspring should stay with the parents, who feed it and zealously defend it if it is approached. Magical insects generally disregard their young, who are born with the skills and instincts to survive. For hoofed and clawed beasts, the young should stay with the mother for at least a year, but the male should be separated from the young. Birthing is generally not hazardous for a helping handler because the mother becomes exhausted in the process. Of course, this is dependent on the kind of creature and its Personality Traits. A birthing manticore might be even more dangerous than it usually is. Weaning is the process of removing the young from the mother’s care. Some beasts are removed immediately from parental care, but others must be weaned. This is one of the more dangerous tasks for handlers, as even the most docile mother resists being deprived of her young.''
 ''Ease of Birthing''
 ''CrAn 39 Pen: 20, Constant effect R: Touch, D: Sun, T: Room Instilled in a small wooden statue, this effect grants a mammal a +9 Recovery bonus to delivering its young. It is usually placed in a stall or pen, and the animal must spend the entire delivery period in the room to receive the benefits of the statue. Created to aid magical beasts, who are immune to Warping, it can be used on mundane animals, but will inflict a Warping point because it is a powerful mystical effect. (Base 4, + 1 Touch, +2 Sun, +2 Room; +1 frequency (2 uses per day), +3 environmental trigger, +10 Penetration) Required Lab Total: 1 season (78), 2 seasons (59), 3 seasons (52), 4 seasons (49)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Magic Might and Maturity==
 
 ''Is a magical animal born with its full Magic Might score, or does it increase during the animal’s youth, reaching its maximum value when the animal reaches its maturity? Realms of Power: Magic does not answer this question, but does state that it takes many magical animals five years to reach full maturity, at which point they should have all their required Ability scores. The griffins described in Legends of Hermes do gain in Might as they grow in years; a mature male has a Magic Might of 30, while a hatchling''
 ''has a Magic Might of 5. We suggest that other magical animals follow suit. A rough rule of thumb to determine its Might during its early years is to divide the adult creature’s Magic Might by 5. If a creature matures sooner, say after 3 years, divide its adult Might by 3 to determine its Might at birth and in its juvenile stage. Your storyguide is the final arbiter. A magus interested in taming a magical animal will find it easier to train a youngling than an adult specimen, which makes a certain amount of sense.''
 
-|]
+|}
 
 ==Hermetic Projects Taming and Training==
 
@@ -315,8 +315,8 @@
 
 ''The list of necessary helpers is extensive for mantaining a menagerie, and includes beaters, feeders, handlers, and''
 ''herders. By her own efforts, a maga will only be able to manage a small number of magical beasts, depending on the amount of time she wishes to invest and the type of beast(s) in her menagerie. If she has larger aspirations, she needs help. Each aspect of a menagerie needs someone to oversee it, supported by enough people to adequately complete the job. Consider that a medieval worker’s scope is rather narrow, and managing livestock is a specialized field. Rarely will one man know how to manage every sort of animal. Most will specialize in the care necessary for a single breed. A small menagerie could have a person in charge of the grounds, another overseeing the hunt, a third in charge of feeding, and a fourth in charge of breeding. Much depends on the creatures involved. One man might be able to take care of a dozen magical dogs of different breeds, but perhaps only if all the dogs are hunting dogs and require the same diet and type of boarding. This same man might be at a loss when managing a lapdog. The larger the facility, the more diverse breeds involved, the larger the number of people needed to care for it all. Spe''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Powers as Tricks==
 
@@ -327,12 +327,12 @@
 ''Ease Factor: 3 + (3 x Power’s Cost)''
 ''In the wild, a magical beast totally depletes its Might Pool only in the most dire situations. Saving its life is one example. Because of this tendency to reserve Might, each magical creature has a threshold of its Might Pool that it resists being commanded to perform. This threshold number is the absolute value of the beast’s Cunning Characteristic. Commanding a beast to perform a power when its Might Pool is below this threshold doubles the Ease Factor.''
 
-|]
+|}
 ''cialized training is also a factor. It doesn’t require much skill to move manure or stand in a driving line, beating the for''
 ''est floor. Breeding and birthing magical creatures in captivity requires great skill, as do many of the more complicated,''
 ''and often dangerous, activities involved in tracking, capturing, and transporting wild creatures. It is difficult to estimate how many animals a single character can manage. Much of it depends upon the Size of the beast and its temperament. A single grog could oversee a herd of 25 magical goats without too much trouble, depending on the goats’ exact powers, but an aggressive magical male elephant might require three or four men. Historically in the 13th century, a family of four Mongols could manage 30 mares and 3 stallions. Rather than Leadership, you should use a character’s Animal Handling score to determine how many beasts he can effectively manage. A simple guideline is that an animal handler can manage 10 domesticated herbivores for every point the character has in Animal Handling. Divide this number by half if the animals are carnivores, and divide again by five if the animals are wild. This rough rule of thumb will need to be adjudicated by the storyguide on a case-bycase basis. Perhaps the most valuable Virtue for a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==An Animal-Keeper’s Library==
 
@@ -346,12 +346,12 @@
 ''Lords of Men lists the capacity, maintenance cost, and staff size for kennels, stables, and mews in the “Running an Establishment” section (pages 58–61). While these tables are aimed at mundane beasts, they can also be used for magical beasts. As a rough rule of thumb, reduce the capacity by 10 percent (rounded up), and increase the maintenance cost by 10 percent for any kennel, stable, or mews that houses magical dogs, horses, or raptors. If the beasts in question are especially magical, with a high Might and several powers, further reduce the capacity and increase the maintenance cost as you see fit. For example, a horse that can breathe fire will require more care than a horse that can run over water. The exact percentage adjustments are up to you.''
 ''For magical animals besides dogs, horses, and raptors, you can also make adjustments for the tables provided in Lords of Men to roughly determine the size of staff for the number of animals. For small herbivores, double the capacity listed for kennels. Continue increasing the capacity for even smaller animals, remembering that herbivores are easier to care for than carnivores. For horse-sized carnivores, halve the capacity listed for stables, and for those bigger than horses, further reduce the capacity as you see fit. For an aquarium, double the capacity used in the mews table. Make further adjustments on the mews table for herbivores (double capacity) and the creatures’ Size (larger than raptors, decrease capacity; smaller than raptors, increase capacity).''
 
-|]
+|}
 ''companion or grog-level animal handler is the Minor Supernatural Virtue: Master of (Form) Creature (Realms of Power: Magic, page 46), because it allows this character to efficiently train magical beasts. Remember that the Virtue is limited to one of the ten Forms, and a character with Master of Terram Creatures cannot train a creature aligned with Ignem, for example. This Virtue may be selected several times for a character, so it is possible to create a companion-level character who can train beasts aligned with every Form (ten selections of this Virtue). While such a character may be invaluable in the training yard, he could be next to useless anywhere else. A storyguide could stipulate that such a character must be a player character and not bought as an NPC specialist. As characters with vocations, a menagerie’s staff needs to spend half of the year working, with the other half open for training, teaching, adventures, and other departures. Since maintaining a menagerie is a daily affair, this is an abstraction. If a character actually leaves the menag''
 ''erie for a season or more, he needs to be replaced. During this off-time, many staff members develop their vocational skills, either through training or teaching, and magi often make this a rewarding proposition with wage increases, better living''
 ''conditions, and other perks. Training and teaching are effective ways to increase the skills of younger staff members, and study is advantageous for older, more experienced crew.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==An Animal-Keeper’s Library (cont’d)==
 
@@ -362,7 +362,7 @@
 ''since every beast described is a Beast of Virtue rather than a mundane specimen.''
 ''Roman de Renart is a popular cycle of poems written in the French vernacular by several anonymous authors. The poems recount the adventures of Renart the Fox and include a cavalcade of characters: King Noble the lion, his wife Queen Fiere, Tibert the cat, Bernart the Donkey, and Renart’s everpopular foil Isengrin the wolf. The tales describe several moralistic and clever episodes, highlighting the particular character’s personality and habits, and can be read as a tractatus on Magic Lore, Quality 4. Versions exist in German, Reinhart Fuchs, and Italian, Rainardo e Lisengrino, but it has not been translated into English in 1220. No Latin copies of the poem exist.''
 
-|]
+|}
 
 ==Hermetic Relations==
 
@@ -377,8 +377,8 @@
 ==Reactions==
 
 ''Not every magus is going to congratulate a menagerie’s owner. Driven by jealousy, revenge, ill-temper, past slights, or other resentments, some magi may despise the menagerie and its owner. The degree to which such a magus acts against''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Never the Twain Should Meet==
 
@@ -390,7 +390,7 @@
 ''One of the grog handlers of the menagerie has been making secret, nocturnal visits to the daughter of a nearby village mayor. He has already been warned to leave the woman alone, but neither he nor she has abided the father’s commands. Lately, he has been telling the woman to sneak into the menagerie at night, where they meet in the unoccupied lion’s garden. One day, the grog in charge of putting the lion in its cage at night forgets and leaves the beast in the garden. The woman climbs over the wall but, instead of''
 ''meeting her lover, is devoured by the lion. Her paramour discovers the grisly remains and panics. Perhaps he flees in the night, leaving the dead woman as a mystery for the magi to solve. Perhaps he frees the lion, later claiming that the beast prowled the village and returned with the woman already dead. Or, consumed by grief, the grog attacks the lion and is also slain. In the morning, the magi find a dead animal handler, a partially eaten woman, and an angry mayor and his thugs beating on the front gate.''
 
-|]
+|}
 ''the menagerie varies. A magus mindful of his Hermetic Oath will do nothing more than slander the owner, unless he is willing to declare Wizard’s War. Legally, a magical menagerie should be considered the property of the owner and protected by the Code of Hermes. Tampering with a menagerie is a crime. However, magical menageries are likely a new idea in most tribunals, and few have enough experience with them to have legal precedents. While protected, the question is to what degree. Is stealing a magical chicken as legally wrong as stealing a maga’s chicken familiar? Probably not. The punishment could be no more severe than a slap on the wrist. For those willing to illegally interfere, there are many ways to wreak ruin on a menagerie, and every step that the owner undertook to construct a menagerie can be undermined. Barns can be burned, livestock let loose, feed fouled, and pets poisoned. An enemy does not have to act personally; staff can be bribed to do great damage without the magus ever setting foot in the menagerie. Considering the time and stories necessary to construct a menagerie, the storyguide is almost guaranteed that some magus somewhere feels slighted or threatened by the menagerie, and his revenge could be the source of many stories. A magus who wishes to remain within the law can always declare Wizard’s War against the menagerie’s owner. His intent could be to destroy the menagerie, instead of killing the owner. If the maga is weak and unable to stand against the attacking magus, she will be hard-pressed to protect her menagerie. In a Wizard’s War, her property is a fair target. She could ask for help. Will other magi be willing to step in and assist her, willingly placing themselves between the menagerie and a legal attacker? Attacking the attacker is a breach of an ally’s Oath of Hermes. How does an ally manage helping the maga and not break his Oath? Perhaps the maga decides to go into hiding for the length of the Wizard’s War and take her menagerie with her. A storyguide could''
 ''construct a story that revolves around the maga leading her herd of magical animals in a desperate escape from a more powerful Hermetic aggressor. It is true that magi are individuals, and their behavior is not determined by their House. With that in mind, here are some suggestions on how some magi might react, deriving their response from their House, rather than their personalities:''
 ''• A Tytalus magus considers it a supreme''
@@ -398,8 +398,6 @@
 ''great affront at the sale of magical animals for familiars, saying that it perverts the emotional bond between magus and beast, decreasing the beast’s honor and heightening the magus’ weak character for refusing to find his familiar in the wild. • A trio of Flambeau hunters sees the''
 ''menagerie as depleting the stock of their favorite quarry, and wants the animals released immediately. They promise to take matters into their own hands if their demand is not granted. • A confraternity of Verditius magi''
 ''claims that the sale of a certain beast that mimics the enchantment of their preferred magical devices is threatening their livelihood, and promise to take the claim to the next tribunal if''
-
-[|
 
 ==Shape & Material Bonuses of Magical Creatures==
 
@@ -424,8 +422,6 @@
 ''Salamander of +8 extinguish fire Virtue’s skin''
 ''Siberian six-legged	+6 speed, quickness antelope hoof''
 ''Unicorn horn +11 fertility, +10 detect poison, +8 healing''
-
-|]
 ''the owner does not stop breeding and selling the beasts. While there is no legal precedent for their claim, they persist. As they prepare for tribunal, they attack caravans transporting sold animals to their new owners. • The prima of House Mercere demands''
 ''that the menagerie owner breed and sell magical horses that can walk on water, saying that the horses would be ideal for many of her House’s redcaps. Unfortunately, the menagerie is comprised of magical birds, and retooling it for horses would be a vast undertaking, even if the owner knew where such horses could be found. Yet the weight of the prima’s requests is staggering, and refusing it could lead to political consequences. • The Bjornaer magi of Clan Ilfetu worry''
 ''that one or more of the captured beasts in the menagerie is a descendent of an ancestor spirit. Rather than investigate, and deal with the ambiguity that could lead to, they make midnight sorties into the menagerie in heartbeast form to free''
@@ -464,8 +460,6 @@
 ''1-3 Offspring is weak (Stamina reduced by –1) 4-12 Offspring resembles parent 13-15 Offspring is exceptionally hardy (Stamina increased +1) 16-17 Minor Supernatural Virtue or Magical Quality gained 18+ Major Supernatural Virtue or Magical Quality gained''
 ''At the storyguide’s discretion, another physical Characteristic can replace Stamina in the preceding chart. If an animal is known for speed, for example, a storyguide can replace Stamina with Quickness for the weak and exceptionally hardy results. A breeder can also use the hidden virtues, sympathies, and affinities of various''
 
-[|
-
 ==Story Seed: Enchanting a Live Egg==
 
 ''Rather than gamble on the whimsical process of breeding for the best, a magus might want to instill magical effects into an unborn magical creature while still in its egg. Success would mean that the creature will have additional powers beyond those native to its kind. Magi cannot instill powers in living magical mammals because they need to touch and manipulate the fetus during the season, which will usually terminate it or its mother. Eggs and their living occupants could be manipulated, however, without fear of destroying the subject. Such an operation would be a Minor Breakthrough, using the rules found in Houses of Hermes: True Lineages. Once the breakthrough is achieved, the complicated process has several preliminary steps. First, the maga must sense the unborn creature before her magic can affect it. Intellego Animal spells allow sight through the shell. Secondly, the length of time spent enchanting must coincide with the length of incubation for the creature being instilled. A raven’s egg hatches in just under four weeks, which means a severe penalty to the maga’s Lab Total if she wishes to instill an effect in 1/3 the standard time. Reptiles remain in''
@@ -473,12 +467,11 @@
 ''determined while instilling the effect. For example, if the instilled effect has a frequency of 1 use per day, and the beast has a Magic Might of 10, the power costs 10 points of Might to activate. If the instilled effect has a frequency of 3 uses per day, it would cost the same animal 4 points of Might to use (10 divided by 3, rounded up).''
 ''The Lens of Avian Inspection''
 ''InIm 23 Pen: 30, Constant effect R: Touch, D: Sun, T: Ind Instilled in a clear glass lens (+5 Shape & Material Bonus), this effect lets a viewer see through an egg’s shell and view its interior. Using the same principle as the spell Prying Eyes, the lens allows the viewer to inspect the developing chick inside the egg. The lens must touch both the egg and the viewer at the same time. (Effect: Base 1, +1 Touch, +2 Sun; +1 frequency, +3 environmental trigger, +15 Penetration) Required Lab Total: 1 season (46), 2 seasons (35), 3 seasons (31), 4 seasons (29)''
-
-|]
 ''substances to influence the outcome of breeding. Use the rules for ligatures found in Art & Academe (page 68). If the breeder is breeding supernatural animals, the player may substitute an appropriate Lore Ability for the Academic Ability. A successful ligature must be applied to the creature for the entire period of gestation to affect the creature’s offspring. The stress die roll to determine the offspring is modified by the following conditions, which usually pertain to the mother during gestation.''
 ''Condition Modifier Adequate diet +1 Agreeable environment +1 Appropriate Hermetic spell	 +1/magnitude Inadequate diet –2 Ligature +1 to +3 Unsatisfactory environment	 –2''
 ''If breeding for the beast, in hopes of creating a new line, roll a stress die on the following chart, applying the same conditional modifiers to the die as when breeding for the best. The possibility of two different kinds of animals breeding is up to the troupe and, ultimately, the storyguide. No die roll will force the storyguide to decide that one kind of animal can successfully breed with another kind.''
 ''Roll Breeding for Beast Result Botch Offspring dies days after birth 0 Offspring is weaker than male parent (reduce Stamina or increase the cost of one power) 1-12 Offspring resembles male parent 13 Offspring resembles female parent (if female, this beast will provide a +3 bonus to future crossbreeding rolls)''
 ''14 Offspring resembles male parent and has one Minor Virtue or Quality of the female parent 15+ Offspring resembles male parent and has one Major Virtue or Quality of the female parent''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

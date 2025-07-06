@@ -8,15 +8,15 @@
 
 =Hermetic History and Culture=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Lotharingian Movement==
 
 ''In the last few years the covenants in this region have recalled their heritage. Some now seek not reunion with Provençal, but instead a new Lotharingian Tribunal. This would increase their presence at the Grand Tribunal, allow them to pursue their own paths, and most importantly let them restructure the Peripheral Code. The Normandy Tribunal, while sympathetic to the problems of living with mundanes, is still too restrictive in its interpretation of the Code for the liking of urban magi''
 ''like those of Florum. The Lotharingians see exciting new possibilities for commercial and cultural development, yet feel stifled by the dead hand of tradition. Sympathetic with the Apple Guild of the Rhine Tribunal (see Guardians of the Forest, page 29), they seek freedom by appealing to the brief existence of their proposed Tribunal in the distant past. (See Chapter 10: Normandy Sagas, The Lotharingian Movement for a full discussion.)''
 
-|]
+|}
 ''why mundane events should have caused such a revision, but they formed a pretext and in 898 at the Grand Tribunal the decision was upheld; the Lotharingian Tribunal ceased to exist, its southern region forming what is now called the Provençal Tribunal. There are, however, those who are working to resurrect it.''
 
 ==Drawn in Bloodshed==
@@ -24,14 +24,14 @@
 ''The Viking invasions of the nineth and 10th centuries saw the sacking of several early West Frankish covenants, and the beginning of the fear of the Norse Order of Odin. Many legends spread as to the power of the Norse rune magi, though little is now known as to what their powers involved. Fortunately, within a century Paris was safe, as the fierce Vikings settled and deterred further raids from their kin. By 920 Robert, their leader, had become Earl of Normandy, and was a vassal of the French king. Their duchy, known as the Terra Northmanorum (Land of the Northmen), was eventually to give its name to the whole Tribunal, confirmed at the 17th Tribunal in 983. In light of the preeminence of the Duke of Normandy in the territories claimed by the Tribunal, and the decline of the Franks as a people, the Tribunal supported the proposal of Adrianus of Montverte, and the Tribunal of the West Franks was renamed the Normandy Tribunal. The Schism War saw violence throughout the Tribunal, with some of the most terrible clashes occurring in the regions of Normandy and Brittany. Fudarus was itself assaulted, and for a long time the Diedne held the upper hand. When the Diedne finally fell, their history and purported crimes were purged from Tribunal records. However, many references remain extant in older books, personal memoirs, and the archives of the older covenants. Documents often possess peculiar gaps or erased pages, which are believed to be excisions carried out by House Guernicus censors. No attempt was made to purge the memories of those who fought, so a great deal can still be reconstructed from their later writings. For over a century House Diedne had played an important role throughout the Normandy Tribunal, and the lack of a proper understanding of the nature and role they played prevents anyone fully understanding the forces that shaped the Tribunal. History has been to some extent forgotten here. It''
 ''is quite possible that magi can inadvertently stumble upon references and old texts that lead them into forbidden mysteries with dangerous implications for themselves and the Order. Many of the ruined sites once frequented by the Diedne are still well known. Terrible magical battles have left scars on the landscape, and there are frequent whispers of the ghosts of those slain in the conflict haunting the living who trespass in these places. When the great House Diedne covenant of Branugurix was finally attacked, the entrances to the regio in which it lay were somehow sealed, and some of the attacking force were never seen again. The recent experience of Lapis Crudus, which reappeared after being trapped for decades in a regio, has reminded the Tribunal that the Diedne may well wait there, plotting their return and revenge upon the Order. Periodic scares have rocked the Tribunal, and many magi have over the years been marched on suspicion of being secretly Diedne sympathizers, or practitioners of their outlawed magics. Brittany had been in political disorder throughout the 10th century, owing to Norman raids and a series of famines and crop failures. Many Breton leaders fled to the British Isles, and despite occasional victories the duchy was to take many centuries to recover. There can be no doubt this chaotic period was caused to some extent by the magical struggles of the Schism War. Immediately following the defeat of House Diedne, Brittany was subsumed under the authority of the Normandy Tribunal. The reasons cited at Grand Tribunal were geographical, but there is no doubt House Tytalus and House Flambeau wished to control the former covenant sites of their enemies. Some of the Diedne sites are now forgotten, as the Quaesitores forbade the communication of their locations, while others were swiftly claimed by the victors along with their vis sources. The generation who fought there has long since died or been lost to Twilight, but the ancient Diedne sites still exist,''
 ''some filled with magical traps and magical riches, and some, it is said, with secrets thatmight corrupt a maga’s very soul. This wealth of magical resources captured from House Diedne led to an immediate disagreement between the victors. Brittany was relatively vis rich, and some Flambeau and Tytalus magi squabbled over the spoils of victory. There were still deep wounds in the Hermetic community caused by the corruption of House Tytalus in the late nineth century, and despite the fact that they had fought alongside each other, the cessation of hostilities saw the Tribunal’s magi begin to once again divide into Northern Tytali and Southern Flambeau. So great did the tension become that by the early 11th century it was feared open warfare might break out between the rival factions. The Quaesitores were now forced to act. With their support Pertheus of Tytalus proposed a set of Peripheral Code rulings that now bear his name (see The Perthean Compact). This granted all of the contested vis sources to the Tribunal as a whole, and required magi to compete on a seven-year basis for the right to harvest from them. Many members of Flambeau were disgusted at this, for it took from them what they considered their rightful spoils of the Schism War. Denouncing the Perthean Compact as a swindle placing power in the hands of the Tytali, three Flambeau-dominated covenants in the south of France stopped attending the Normandy Tribunal and allied with the Provençal Tribunal instead. The matter was clarified at the next Grand Tribunal, dividing the territories of the two Tribunals along linguistic lines, the Langue d’oc region going to the Provençal Tribunal, and the Langue d’oeil to the Normandy Tribunal. By 1050 the Normandy Tribunal had finally taken its modern borders.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Language of Vis==
 
 ''A magus of the Provençal Tribunal claims a bounteous vis source within the southern reaches of Normandy, based on the fact that the villagers near the source use “oc” rather than “oeil” to indicate affirmation. The characters are asked to discover whether this is a true language isolate, or whether the magus is trying to pull a fast one.''
 
-|]
+|}
 
 ==The Lion and the Lily Contemporary Hermetic Culture==
 
@@ -77,8 +77,8 @@
 
 ''The Tribunal of 1025 ruled that a vis source which is too distant to be declared a seisin can be made a legacy of the discoverer by a vote of the Tribunal. A legacy lease issued by the Tribunal offers a covenant exclusive rights to harvest from the source, but the terms of the lease last only seven years. The Tribunal of 1032 instituted the need for holders of a legacy lease to acquire renewal of that lease from the Tribunal every seven years at the Tribunal meeting; if the Tribunal votes against the renewal of the lease, the Tribunal takes possession of the legacy and it becomes a tropaeum instead (see below). Traditionally, any newly discovered vis source is a legacy of the covenant that found it, and it is very common for a new legacy lease to be granted without serious competition. The only exception is if the vis source is close enough to another covenant to be considered a seisin; the rulings regarding seisins take precedence over legacies. The renewal of an established lease is more difficult to achieve, and usually requires backing from other covenants to be successful. Such backing is often too expensive for young covenants, and there is often too much rivalry between the older covenants to achieve viable coalitions to keep legacies in their hands. At each Tribunal meeting, less than half of those covenants trying to renew a legacy are successful. Those that are not renewed become tropaea (see below). Occasionally, a vis source may remain a legacy for many lease periods if there is a reason why the vis would be very hard for another covenant to harvest. For example, it might require a unique item,''
 ''spell, or password, which the discoverers refuse to relinquish. Alternatively, it might be very close to a covenant, but take more than half a day to reach — it might be up a mountain, at the bottom of a lake, or deep within caverns. While in possession of a legacy lease, a covenant is guaranteed exclusive rights to harvest its vis. If proof can be offered at Tribunal that a non-leaseholder has harvested vis from a legacy, the offender is automatically found guilty of the High Crime of depriving a magus of his magical power. Mitigating pleas for mercy are almost always granted (see Houses of Hermes: True Lineages, page 59), so the charge rarely ends in a Wizard’s March. The covenant that holds a lease is entitled to grant the harvest of the legacy to any magus or covenant it desires, including magi who intend to set up a covenant within''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Barnabé==
 
@@ -89,7 +89,7 @@
 
 ''All covenants have to have a legally recognized council chamber (see below), but this council chamber need not be at the same physical location as the covenant itself. A covenant could decide that having their council chamber in a village five miles down the road is strategically superior, allowing them to claim more vis sources. The Quaesitores occasionally check that the magi really do meet here, and that it is not a fake council chamber. Some seisins are just assumed to be within the legal distance, but because of difficult terrain they actually take more than the requisite time to reach. However, a claim that remains uncontested stays a seisin until challenged. Some vis sources have suspiciously easily traversed terrain en route to the covenant that claims them. Magi have financed the building of roads that allow their cursor to reach a source of vis that would otherwise be ineligible as a seisin; others have cut down forests, drained marshes, and so forth; one Merinita magus even moved a hill two miles south! Covenants have also done the reverse: influence the terrain between a rival and its vis sources to invalidate a seisin. Such extremes are usually only worthwhile if the covenant is able to claim the seisin for themselves, but spite can also be a powerful motivator.''
 
-|]
+|}
 ''a day’s march of the vis source (thus making it their seisin). This is how most new covenants are founded (see below for more details).''
 
 ===Normandy Tribunal Ruling: Tropaeum===
@@ -104,8 +104,8 @@
 ===Normandy Tribunal Ruling: Interim Leases and Plundering===
 
 ''The Tribunal of 1025 determined the procedure for establishing a seisin or legacy. Upon finding a vis source, the discoverer must report its location to a Quaesitor, who grants an interim lease on the vis until it can be officially declared at the next Tribunal meeting. An interim lease does not hold the same legal weight as a full lease; specifically it does not guarantee exclusivity due to the difficulty of determining which lease was granted first, and who has the stronger claim. Should another covenant discover the same vis source, it may also obtain an interim lease. Multiple leaseholders must settle the matter privately until a final ruling can be made at Tribunal. All seisins, legacies, tropaea, and luctationes are a matter of public record, but they have the advantage of granting exclusivity of harvest. A covenant which harvests a hitherto unknown vis source but chooses not to secure an interim lease is guilty of plundering, a Low Crime under the Peripheral Code of the Normandy Tribunal. Traditionally the Tribunal has treated such cases harshly (fines have been in excess of three times the amount of vis plundered), and many magi consider that it is not worth the risk. At least a legacy guarantees them seven years of harvesting from a vis source. Nevertheless, given that legacy leases are notoriously difficult to renew, there is a definite incentive for a covenant to neglect to declare a vis source to the Tribunal but to continue to harvest from it clandestinely.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Trial of Marathon==
 
@@ -123,7 +123,7 @@
 
 ''• A tree in a forest has a basilisk family nesting in its roots; the fruit of the tree, if the basilisks permit collection, is Perdo vis. • The mournful song of a ghostly maiden is Mentem vis; first she must be enticed to sing her lament, then the magus must capture the song in physical form. • There is a cliff ledge upon which a falcon nests every year. On the same day every year, a serpent tries to steal an egg; if prevented, the egg contains Animal vis. If successful, the serpent contains Vim vis (if it can be caught).''
 
-|]
+|}
 ''The Lion and the Lily Consequences of the Perthean Compact''
 ''The Perthean Compact was instituted to clearly delineate the fair distribution of a dwindling resource of vis, and to free the Tribunal from its numerous squabbles over who owns a vis source. Given that it has served to promote more quarrels, not to mention cheating and outright raiding, it is perhaps no surprise that its original author, Pertheus, was a member of House Tytalus. For example, a certain vis source is common knowledge to several covenants, but a political conspiracy keeps it from being formally registered. The covenants operate this secret vis cartel to ensure that they always receive its harvest rather than it being made a tropaeum for the Tourney. For example, after a complaint from the Primus of House Mercere, it was clarified by the Tribunal that the various public operations of Redcaps involving the trading and lending of vis were not subject to the Perthean Compact, which only legislated the gathering of vis in Normandy, not its subsequent fate once it becomes the property of magi. However, the covenant of Praeda runs an auction where vis smuggled in from the southern Tribunals is sold to the highest bidder from among the covenants who are members of a consortium. This is contrary to the Perthean Compact because, as a luctatio, it should be a free contest to all, not available to an exclusive clientele who pay a fee to remain part of the consortium. Ironically, the actual plundering of the vis from other Tribunals is not itself a crime in Normandy; it is the manner in which it is distributed that contravenes the Perthean Compact.''
 
@@ -135,8 +135,8 @@
 ===Normandy Tribunal Ruling: The Library of the Tribunal===
 
 ''The Tribunal of 1081 ruled that the books owned in common by the Tribunal are available as prizes at the Tourney. Winning a book in the tournament grants exclusive access to that tome for a total of seven years; at which point it is returned to the Tribunal’s store. The book store is maintained at Confluensis, and a list of the books and their''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Perthean Compact and New Covenants==
 
@@ -152,7 +152,7 @@
 ''Players who wish to give their magus this Hermetic Virtue should consider the Perthean Compact when they do so. A Peripheral Code ruling of 1144 makes it clear that any vis that is generated by the person of a magus (in his hair, blood, and so forth) is the sole possession of that magus, and not subject to the Perthean Compact. However, magi with an external vis source must consider the implications of their Virtue choice. The vis source''
 ''could be a seisin of the covenant, with and internal agreement between the magi of that covenant that the vis belongs to the character, for whatever reason. Alternatively, the vis might derive from a source outside the Normandy Tribunal, and thus not be subject to the Perthean Compact. Combined with the Dark Secret Flaw, the Virtue could be as a result of plundering an undisclosed source, with serious consequences should this be discovered.''
 
-|]
+|}
 ''authors is a matter of public record. These books cannot be consulted by any member of the Tribunal unless they have been won at the Tourney. The leasee is responsible for the book’s safety during the seven-year lease, and it must be returned to Confluensis before the next Tribunal in an acceptable state. Books are leased under a Cow and Calf Oath (Covenants, page 95) which states that copies made of a book belong to owner (that is, the Tribunal), not to the copyist.''
 
 ==Mundane Resources==
@@ -163,20 +163,20 @@
 ===Normandy Tribunal Rulings: Mundane Resources and Raiding===
 
 ''The Tribunal of 1116 confirmed the earlier ruling of 1081 that the mundane resources of a covenant do not necessarily contribute to the magical power of its members. Specifically, food, consumables, building supplies, arms and armor, and luxury goods are not part of a magus’s magical power. However,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Lending Library==
 
 
-|]
+|}
 ''The characters need a specific book (for whatever reason), which is currently leased to another covenant. What must they concede to the current leasee for them to lend the book to the characters? Further, since the original covenant is technically still the leasee, what happens when the book goes missing or is damaged? Books Held in Common''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Below is just a sample of the books owned by the Tribunal. Storyguides are encouraged to expand this list to cover a wide range of subjects and Qualities.''
 ''The Babble Within Thought, by Hicuccus of Criamon, Summa on Mentem, Level 12, Quality 11. Build Points: 23 The Dismal Itch, by Azenis of Tytalus. Summa on Corpus, Level 10, Quality 11. Build Points: 21 De Lapii, by Jeremias filius Guernicus. Summa on Terram, Level 17, Quality 14 (this is one of the Branches of the Arts, see Covenants, page 93) Build Points: 31 Insights from Twilight, by Perpauca Bonisagi. Summa on Magic Theory, Level 6, Quality 11. Build Points: 28 Mirrors of the Soul, by Perpauca Bonisagi, Summa on Imaginem, Level 12, Quality 16. Build Points: 28 The Mole’s Work, by Adanos Lutorum of Tytalus. Lab Texts for Rock of Viscid Clay, Earth That Breaks No More, and The Forgiving Earth. Build Points: 11 The Peril of Phoebos, by Perpauca Bonisagi, Tractatus on Ignem, Quality 11. Build Points: 11 The Primal Power, by Peter of Uist. Summa on Aquam, Level 9, Quality 17. Build Points: 26 Research Notes on Aegis of the Hearth, by Notatus and others. Tractatus on Mastery in Aegis of the Hearth, Quality 11, plus a Lab Text of a 20th-level version of the spell. Build Points: 15 Subtle Knives, by Jacinda of Flambeau. Summa on Penetration, Level 5, Quality 8. Build Points: 23 Unveiling the Tempest, by Daniel Tonatris. Summa on Auram, Level 8, Quality 12. Build Points: 20''
 
-|]
+|}
 ''completed or partially completed books, vis, enchanted items, and laboratory supplies all are components of a magus’s magical power. Later rulings clarified that livestock and covenfolk were not afforded any especial immunity, but clearly apprentices, familiars, and magical beasts were. Further, a maga conducting a raid cannot damage the physical buildings of the covenant itself, and must not break the Code in any fashion during the course of a raid, such as putting the life of another magus in danger. The raiding maga must challenge any accompanying magi to certamen; should she lose then she must abandon her raid. If she wins, then her opponent must retreat to a distance of at least a mile, and cannot return until the sun rises. Junior magi are often assigned the duty of accompanying supplies to the covenant; this prevents the raiding party from scrying ahead and restricts the use of area-affecting magic that might inadvertently affect the escorting magus.''
 
 ===Cross-border Disputes===
@@ -212,8 +212,8 @@
 ===Normandy Tribunal Ruling: Mundane Interference===
 
 ''There have been no specific rulings, which sets the Tribunal’s policy regarding the use of agencies and masks on unstable ground. Magi who are new to the Tribunal may witness events that would be considered violations of the Code of Hermes in other Tribunals, and even by a strict interpretation of Normandy’s Peripheral Code. However, there are numerous precedents that give a defendant legal standing when testing whether ruin was actually caused by his actions, and the Tribunal rarely convicts in situations where damage to a Hermetic magus cannot be unequivocally demonstrated.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Order and Towns==
 
@@ -225,7 +225,7 @@
 ''This spell allows the caster to precisely determine the distance and direction from their location to the source of a sound. This spell was invented in the Normandy Tribunal by the Quaesitor Fluvius.''
 ''(Base 3, +1 Conc, +3 Hearing)''
 
-|]
+|}
 
 ===Further Excerpts From the Normandy Peripheral Code===
 
@@ -238,8 +238,6 @@
 ''In principle it is simple to form a new covenant in the Normandy Tribunal. The only legal requirement is that the nascent covenant has exclusive access to one or more sources of vis that collectively supply a minimum of one pawn of vis per year for every magus in the new covenant (or at''
 ''least four pawns per year, if there are fewer than four magi). Even given the scarcity of vis in the Normandy Tribunal, this seems easier than, say, the stringent requirements of the neighboring Rhine Tribunal (see Guardians of the Forests, page 16). The new covenant must have an official meeting place, called (for want of a better term) the council chamber, although it need not be a room where the council (if there is one) meets. Instead it could be the home of the covenant’s leader, a cave where the magi regularly meet, or even a grove of trees''
 ''distant from the magi’s sancta, as long as it is positively identified to the Tribunal. This council chamber cannot be within a day’s journey of another covenant’s council chamber, which by tradition has been established that it should be impossible to reach one council chamber from another using the Seven League Stride spell. A provision in the Peripheral Code specifically prohibits a covenant from sidestepping the Perthean Compact through the establishment of chapter houses (see Guardians of the Forests, pages 83 and 110), which are''
-
-[|
 
 ==Saga Seed: Feudal Duty==
 
@@ -260,8 +258,6 @@
 ''To gain independence from a liege, a vassal covenant must either wait for its liege to default on the oath of fealty, or deliberately break it themselves, since either party can cancel the oath following a successful prosecution. Example: A liege supports a vote at Tribunal that is detrimental to its vassal. The vassal now has a legal claim of a Low Crime against its liege. If it decides to prosecute this claim and wins, the liege will be forced to pay damages to its vassal. The liege can retaliate by canceling the oath, but it would lose the duties of service that it gains from its vassal. Alternatively, the vassal can decide to use this opportunity to escape from its oath, and cancel it. Example: A vassal wishing to free itself from infeudation refuses one of its duties of service, leaving itself open to an accusation of a Low Crime. To cancel the oath of fealty, the vassal must allow itself to be convicted and pay the fine handed down by the Quaesitores. If the liege does not wish to lose the vassal, it may decide not to prosecute the case, but this would cause it to lose face. It might instead be able to persuade the Tribunal to hand down a particularly harsh fine on its defaulting vassal, making the payment of the service the preferable course of action.''
 ''Covenant Major Boons Minor Boons Major Hooks Minor Hooks Vassal Powerful Ally (none) Beholden, Beholden, Favors,    Indebted Indebted Liege Favors Owed, Promised Favors	 (none) Protector  Hidden Resources*''
 ''* Represents tithes of vis or other resources that are supplied at agreed intervals by the vassal.''
-
-|]
 ''remote sites of a covenant and could potentially be placed right on the doorstep of another covenant’s seisin so long as its council chamber was legally placed. The Covenant of Fengheld in the Rhine Tribunal has a chapter house in Cherbourg (see Guardians of the Forests, page 83), but this is considered a coenobium (see below) by the Normandy Tribunal. Note that a covenant needs only to have''
 ''sufficient vis supply when it is established. Should it lose the vis source, or acquire new members, the covenant does not lose recognition in the eyes of the Tribunal, so long as the source was genuine at the time of establishment. Vis extracted from the local aura does not count as a vis supply but as vis stocks, since its production is not guaranteed and thus cannot contribute to meeting the requirement of foundation.''
 
@@ -269,16 +265,12 @@
 
 ''The difficulty in establishing a covenant lies in obtaining exclusive access to vis sources of sufficient size. Because of the Tribunal’s strict rules regarding vis sources, by far the most common way for a covenant to form is through the support of an established covenant. A covenant that obtains a legacy lease over a vis source may''
 
-[|
-
 ==Past and Present Covenants==
 
 ''Because of the sparse distribution of vis in Normandy, and the way in which new covenants tend to form, most covenants are quite small, with an average of only four magi. This means there are about 15 to 20 covenants in the Tribunal, of which three quarters are either a liege or a vassal (or both), and there are usually only one or two coenobia among the remainder. There are also about half a dozen or so eremites. This is not intended to be an exhaustive list of the covenants of the Normandy Tribunal, but indicates some of the most noteworthy of the Tribunal’s covenants including all those mentioned in this book. The covenants are arranged in chronological order, by the date of their founding.''
 ''Branugurix (791 – 1012): Domus magna of House Diedne, located in a regio close to Mount Dol (see Brittany: County of Rennes). Its name was actually Bren Gwrac’h, but the Order adopted a Gallic version of the name for ease of use in Latin. The entrances to the regio were somehow closed by the Primus of the house during the climactic battle of the Schism War, and some Flambeau and Tremere magi were lost, trapped inside. The exact location and the former method of entering the regio is detailed in the records of House Guernicus (and perhaps elsewhere), but is not widely known. There are rumors that some members of House Diedne survived within the regio, and that there are some who are working to free them from their centuries-long imprisonment. House Guernicus takes a great interest in those who spend a lot of time in the area around Mount Dol. Fudarus (798 – present): See Brittany: Fudarus. Confluensis (810 – present): See Chapter''
 ''11: Confluensis. This covenant originally occupied the site now inhabited by the covenant of Dragon’s Rest. Bibracte (822 – 969): Vassal of Fudarus, located on Mount Beauvray in Burgundy (see Champagne and Burgundy: The Morvan), consisting of a small number of Diedne magi and a magus of House Tytalus. The covenant resurrected a cult worshipping the Gaulish hero Vercingetorix; however, the magi gradually became obsessed with anti-Roman ideals, firstly outlawing Latin in favor of Brythonic, and ultimately refusing all dealings with magi from “Roman” Houses. This earned them many enemies, and, seizing on the weakness of Fudarus in the aftermath of the betrayal of House Tytalus, four Flambeau and Tremere magi from Montverte simultaneously declared Wizard War on the magi of Bibracte, accusing them of devil-worship. These actions resulted in the sacking and destruction of the covenant. Pagus (840 – 1008): Vassal of Confluensis. Founded at a ruined Roman outpost near the town of Cherbourg, it offered a commanding strategic vista over the English Channel. The magi invested a large amount of vis, during the late eighth century and early nineth century, restoring the Roman buildings, including a dock. Cruelly, the covenant then suffered enormous damage during the Viking raids, from which it never recovered. It was destroyed in the Schism War. Baiocassium (851 – 1011): Vassal of Branugurix, located in the forest near Bayeux. The magi of Baiocassium, predominantly of House Diedne, were the descendants of Gallic druids and had good relationships with the local faeries. Sinapis (855 – 1063): Located in Anjou,''
 ''near the center of France, this covenant was an important liege before the Schism War. Following the conflict between House Tytalus and Flambeau, it was abandoned as its members left for Provence and Iberia. Rotomagus (875 – 892): Founded near Rouen by the first generation of apprentices from Sinapis, and destroyed less than a quarter of a century later when the Vikings sacked Rouen. The sole surviving member left House Flambeau in shame, and joined House Ex Miscellanea. Florum (907 – present): See Flanders: Florum. This covenant originally occupied the site now inhabited by the magi of Spider’s Palace. Ligurio (913 – 1011): Vassal of Fudarus on the Aquitaine-Brittany border in the Vendeé; it was destroyed by giants hurling huge boulders, presumed to have been sent by the Diedne covenant of Kerguntuil. Kerguntuil (920 – 1007): Vassal of Branugurix. A coastal covenant situated on the Rose Coast (see Brittany: Mainland Armor and Argoat). The members of Kerguntuil were particularly interested in the many Breton tales regarding giants, and many of their covenfolk were larger than average humans. It is rumored that a Quaesitor suggested to the Templars that they built their chapel at Lanleff to cleanse the region from the diabolic taint of the Diedne. Baiocassium Minor (936 – 1005): Vassal of Baiocassium located within the town of Bayeux. Destroyed in the Schism War. Montverte (941 – present): See Normandy: Montverte. Caput Capra (981 – 1005): Vassal of Branugurix, and the furthest east of Normandy’s Diedne covenants, on the banks of''
-
-|]
 ''choose to sponsor a new covenant, often consisting of the former apprentices of the covenant. The vassal covenant is established within a day’s march of the legacy, and ownership of the vis source passes from the liege covenant to the vassal, which may then register it as a seisin at the next Tribunal meeting. The liege-vassal lines of covenants are the mainstay of the Normandy Tribunal’s politics and demography. The liege covenant exerts''
 ''feudal control over its vassals through oaths of fealty, and five great lines dominate the politics of the Normandy Tribunal through these oaths: Fudarus, Confluensis, Florum, Oleron, and Montverte. Two further lineages are now extinct: one — dominated by House Diedne — was extinguished during the Schism War, and the line of Sinapis was abolished soon after by the departure of House Flambeau from the Tribunal (see History, above).''
 
@@ -286,15 +278,11 @@
 
 ''When sponsoring a vassal covenant, the liege covenant demands an oath of fealty from its vassal. Each liege covenant has a single oath sworn to by all of its vassals, which details the rights and responsibilities of the vassal to the liege and vice versa. These terms vary from liege to liege, but the basic provisions are that the vas''
 
-[|
-
 ==Past and Present covenants (con’t)==
 
 ''the Loire not far from Fleury (see Ile de France: Fleury). Caput Capra was the youngest of Branugurix’s vassals, and was founded to protect the ancient druidic site at Fleury from the lawlessness of the late 10th century. Caput Capra was the first casualty of the Schism War in the Tribunal. Apprentices of Confluensis are brought to the scant ruins of the covenant to receive their lessons in history. Aedes Salii (998 – 1063): Vassal of Sinapis. Established on Jersey (one of the Channel Islands), this covenant — named after the Salii, the priests of Mars — was founded to coordinate the Schism War in Normandy and Stonehenge. After the war, the Tremere members returned to their home Tribunals, leaving it in the hands of House Flambeau. It was disbanded when House Flambeau withdrew from the Normandy Tribunal; two of its members joined Lapis Crudus. Orchard of Sour Apples (1020 – 1051): Vassal of Confluensis, formed after the Schism War. It was later the site of the relocation of Confluensis, and its members joined its liege covenant. Lixivia (1021 – 1124): Vassal of Florum. Established in the duchy of Champagne just as the Champagne trade fairs were established (see Champagne & Burgundy: Champagne) for the express purpose of acting as an intermediary between the Order and mundane merchants. The covenant consisted of Redcaps and Gentle Gifted magi, and altruistically offered to source any material desired by any covenant. However, magi were suspicious of their motives, and they soon became the popular prey of raiding (see Demography of the Normandy Tribunal). Driven into poverty, the covenant disbanded.''
 ''Oleron (1028 – present): See Aquitaine: Oleron. Vexatores (1048 – 1064): Vassal of Fudarus. Founded specifically to provoke Sinapis during the conflict between Houses Flambeau and Tytalus, Vexatores was founded 21 miles north of the Flambeau covenant (the minimum legal distance), at the site of one of the vis sources claimed from House Diedne. Vexatores was not intended to be a long-term prospect, and it was abandoned when the conflict between the Houses ended. Dragon’s Rest (1051 – present): Vassal of Confluensis; founded when Confluensis relocated to the Cotentin peninsula. See Chapter 11: Confluensis for more details. Lapis Crudus (1063 – present): Considered to be part of the line of Sinapis. See Ile de France: Lapis Crudus. Nauche-Fleur (1072 – 1166): Vassal of Montverte, this covenant operated a school near to Niort in Aquitaine, where instruction in both martial and academic subjects funded the opulent lifestyle of the magi. The covenant’s role in mundane politics was ever a source of controversy in the Tribunal; consequently none of the apprentices it trained remained to continue its work. The covenant died when the last of its founders entered Final Twilight. Infelicitas (1099 – 1158): Vassal of Fudarus, founded when Rancrax of Tytalus lost a wager with his rival, and was forced to leave Fudarus as per the terms of the bet. The covenant foundered when Rancrax was slain in Wizard’s War by a member of Moles Magna, and the remaining two magi were not interested in continuing at the site. Nidi (1100 – present): Vassal of Oleron;''
 ''see Aquitaine: Conventio Nidi. Spider’s Palace (1117 – present): Vassal of Florum; see Flanders: Florum. Requies Aeterna (1123 – present): Vassal of Florum; see Flanders & Picardy. Alcuin’s Auberge (1124 – 1197): Vassal of Florum; a small Mercer House in the city of Tours, founded by Redcaps from Lixivia. It fell to unknown raiders. Moles Magna (1136 – 1182): Vassal of Oleron. Located on the edge of the Morvan (see Champagne & Burgundy: The Morvan), this covenant was built actually within a dam of a minor tributary of the River Yonne. The river formed a small lake at the covenant’s back, and cascaded over the dam hiding them from view. It was eventually destroyed when the river burst the dam after heavy rain; since the covenant had magically reinforced the dam against such a fate, it is assumed that they had angered a supernatural creature by restraining the river. Atsingani (1187 – present): Vassal of Montverte; see Anjou: Atsingani. Cunfin (1192 – present): Vassal of Confluensis; see Champagne & Burgundy: Cunfin. Atramentum (1200 – 1201): Vassal of Fudarus; its founding was sponsored just as the battle between the two Tytalan Primi began. Cynics would say that the young magi were duped into preparing the ground for the magi of Exspectatio, who now occupy the spot. The founders went on to form Atramentum Renatus. Exspectatio (1201 – present): Vassal of Fudarus; see Brittany: Fudarus. Atramentum Renatus (1201 – present): Vassal of Exspectatio; see Champagne & Burgundy: Atramentum Renatus. Eboris (1204 – present): See Ile de France: Eboris.''
-
-|]
 ''sal has a duty of support, and the liege has a duty of protection. Support is usually in the form of a tithe of vis, and granting the liege a free proxy of the voting sigils of the vassal’s members. Some oaths ask for only a nominal amount of vis, or allow the vassal magi to use their own vote with direction from their liege. The duty of protection usually enjoins the liege to use the proxy votes wisely, and not to the detriment of its vassals; further, the conditions under which they may be asked for assistance are usually clearly laid out. Oaths of fealty between vassal and liege covenants are part of Normandy’s Peripheral Code and legally enforceable, although covenants are still forbidden to take oaths of fealty to a mundane lord. The oath can be dissolved by mutual agreement of both parties, or else following the successful prosecution of one party by the other for defaulting on the terms of the oath. An example oath of fealty is given in the description of the covenant of Confluensis (see Chapter 11: Confluensis). The moral obligation of a vassal to a liege is a strong one, and the protection offered to a young covenant of inexperienced magi can determine whether the vassal persists or founders. Further, the societal implications of betraying an oath to a covenant that has sheltered and protected another (or believes that it has) must not be underestimated; vassal covenants who break away from their line often find themselves with the bitterest of enemies — not just their former sponsor, but also the vassal covenants of that sponsor.''
 
 ==Independent Covenants==
@@ -320,13 +308,15 @@
 
 ''All competitors in the Tourney are graded according to the success they achieve. These points are tallied by the tournament hosts, and the Redcaps also keep tallies to ensure fairness. A team receives a starting tally equal to the number of members of their covenant, on the assumption larger covenants require greater resources. This also puts members of a coenobium and visiting teams at a disadvantage, for they are given a starting tally of one each. Further points to the tally are earned by competing in the various tournament events. The scoring is as follows: The team winning the hastiludium receives 20 points, the defeated finalist 10 points, and the other semifinalists five points each. All teams that participate receive an additional one point. The certamen tournament is a traditional hermetic certamen contest, and has more prestige. The winner receives 25 points, the defeated finalist 15 points, and the other semifinalists eight points each. All teams that participate receive an additional one point. The dimicatio is a popular event with Flambeau magi, who excel in this area. The''
 ''winner receives 23 points, the defeated finalist 12 points, and the other semifinalists six points each. All teams that participate receive an additional one point. The melee is generally considered to be a light-hearted contest. The winner nonetheless receives six points, the second to fourth castles standing two points, and the fifth castle a single point. No points are awarded for participation. The Hosting Covenant’s Choice event provides the winner with 12 points, the second-placed covenant eight, and the third and fourth three points each. Participation in the event is worth an additional point to all teams who enter. The Joust is more prestigious. The winner receives 20 points, the second-placed covenant eight, and the third and fourth three points each. Participation in the event grants an additional point to all teams who enter. Once the points have been totaled a rank order is determined. The highest-scoring team is ranked first, and so forth in order. If there are ties, rank is determined by seniority, as determined by the date of foundation of the covenant or date of Gauntlet of an individual magus. Special “prize pawns” made of gold, not of vis, are then awarded, which are then exchanged by the teams for prizes to be held for the next seven years. Tradition has shaped the awarding of prizes, as with so much else in Hermetic culture. The first place is known as the Siege of Normandy, and the second place the Siege of Valor. Achieving either of these ranks is a matter of considerable prestige, and such teams are richly rewarded. The seventh position is known as the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Fixing the Tourney==
 
 ''The Cabal of the Golden Coin secretly endeavors to engineer the outcome of the Tourney so as to maximize the prizes obtained by its members. While initiated by magi of House Tytalus, the cabal now consists mostly of magi from a variety of Houses. Many of the modifications to the prize levels were proposed by members of this cabal, ostensibly as a point of tradition, but with the real aim of introducing disparities in the prize distribution which can be exploited. Magi of the cabal typically make secret agreements among themselves to fix certain of the contests, so as''
 ''to optimize the placement of their teams. Certain magi belonging to this cabal opt not to enter with their covenant’s team, but instead enter a separate one, which often achieves a very “lucky” placement. A mysterious team of three young magi, all from different covenants and Houses, has for the last three tournaments consistently achieved 14th place. A member of this team, or some other magus from the cabal, may surreptitiously approach the player covenant during the latter stages of the tournament, offering to fix one of the contests for a small bribe of vis.''
+
+|}
 
 ==Tourney Events==
 
@@ -357,8 +347,6 @@
 ===The Hosting Covenant’s Choice===
 
 ''The Hosting Covenant’s Choice varies each time. It must be a true test of magical ability, but beyond that may take any form.''
-
-|]
 ''Siege of Notatus, after that magus’ well known affinity for the number seven and its role in his magical innovations. As Notatus is rumored to have sponsored a contest of magics in the early days of the Order, and he is a popular figure in the Hermetic folklore of the Tribunal with many tales of his activities and sayings still current, this position was granted a greater prize. While this explanation is generally accepted, in fact there may well have been a more pragmatic reason why it was originally introduced, hidden in the Tribunal records. The Siege of Shame, the 13th position, is traditionally awarded no prize, the rewards being conferred upon the 14th team. This originated with a particularly competitive team from the Iberian Tribunal who in 1151 used a variety of then-legal tactics, immediately outlawed by Peripheral Code, which were widely felt to have brought the Tourney into disrepute. They earned 13th position, and were surprised when the Quaesitores declared that place the Siege of Shame. They stated that henceforth no prize would be awarded to the team that held that position, a tradition upheld by the next Tribunal to remind everyone of the shameful episode. The 21st position, the Siege of Alms, is a consolation prize. Around 24 teams usually participate in the Tourney, and the last few teams do not therefore receive any prize.''
 ''To prevent the Tourney from being seen as entirely a way of supporting the status quo, and encourage entrants, a large prize was therefore voted for the 21st position. There is little honor in winning this prize, but the benefits to a new covenant are worth the gentle mockery of the more able teams. The team that achieves the Siege of Alms gets to keep half of their prize (6 pawns), but by tradition they donate the other half to any or all of the lower-ranked teams as they see fit. Any covenant achieving one of the named ranks in the Tourney has an appropriate Hermetic Reputation of level 2 for the next seven years.''
 
@@ -366,12 +354,15 @@
 
 ''Prizes are selected immediately after the results are announced, in strict rank order. In order to avoid the winning teams selecting all the choice prizes, each team is initially allowed to choose at most one single tropaeum or lump sum of vis of one Art, plus one single book or item. These selections proceed in rank order, until every team has taken something. Those teams with prize pawns yet unspent then get to pick again, in rank order, until all teams have taken their allocation of prizes. They are held until the next Tourney. Failure to return a prize invariably results in''
 ''charges being brought and disqualification from the next tournament. Prize pawns may be traded at the following values: Tropaea: A vis source yielding a number of pawns may be acquired for the equivalent number of prize pawns. Books: Each book has been given a value in pawns by the Tribunal, according to perceived worth. (Calculate this as 1 prize pawn per 5 Build Points of the book. See ArM5, p. 71). Items:As books. Charged items and those of limited duration are never made available as prizes. Entrance Fees (vis):One prize pawn may be traded for an immediate once-only selection of 5 pawns of Form vis, or three pawns of Technique vis.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Tourney Ranks & Prizes==
 
 ''Rank	Pawns Rank Pawns 1 31 12 5 2 24 13 0 3 18 14 11 4 15 15 3 5 13 16 5 6 11 17 4 7 17 18 3 8 8 19 5 9 7 20 1 10 6 21 6+6 11 6''
 ''The prizes listed in this table assume at least 200 pawns worth of prizes are available in total, and 24 teams entering. You may wish to adjust these numbers if your version of the Normandy Tribunal is especially poor or rich in resources, or if the number of covenants and teams in your saga is dramatically different.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

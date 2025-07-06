@@ -22,8 +22,8 @@
 
 =Canaanite Necromancy=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''below. The Canaanite Necromancy Ability can be improved by study, practice, or teaching.''
 
 ==Hermetic Integration==
@@ -52,7 +52,7 @@
 ==Saul, Samuel, and the Witch==
 
 
-|]
+|}
 ''Ability score during any season that the necromancer provides assistance to invent effects that exploit an Insight. This is similar to the way that Hermetic assistants can help in the laboratory (ArM5, page 103) and follows the same rules, but the Canaanite necromancer can only assist in laboratory experiments designed to integrate Hermetic and Canaanite practices. If the magus has managed to learn the Supernatural Ability Canaanite Necromancy and is producing Insight Lab Texts by himself, then he receives no bonus for “assisting” himself, but he may choose whether to use either his Magic Theory or his Canaanite Necromancy Ability Score to calculate his Lab Total.''
 
 ==Minor Hermetic Virtue: Canaanite Magic==
@@ -82,8 +82,8 @@
 
 ''CrMe 25 R: Veil, D: Conc, T: Group This spell allows those about the caster to speak with a specific person in the world of the dead — to them it appears that the caster is speaking with the voice of the dead person. The caster is effectively acting as a temporary container or vessel for the dead spirit, and botches of this spell might cause the caster to become possessed by a malevolent spirit.''
 ''The caster must either have an Arcane Connection to, or otherwise be able to sense, the target, and the target must be in the world of the dead; that is, neither alive nor in Heaven. The dead person is compelled neither to speak nor be truthful. The''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New Range: Veil of Death==
 
@@ -124,7 +124,7 @@
 
 ''Zephaniah was able to summon the spirit of Samuel who, being a prophet of God, should have been in Heaven and thus unreachable by Canaanite necromancy, which at first appears to be an indication that Zephaniah broke the Limit of the Divine. In fact, Samuel was not in Heaven. His spirit, along with those of all the Old Testament saints, initially dwelt beneath the earth in paradise. It was not until after the crucifixion of Jesus Christ that Heaven became accessible to man, allowing Samuel, and the other prophets, to enter.''
 
-|]
+|}
 
 ===Speaking To the Dead===
 
@@ -153,8 +153,8 @@
 
 ===18 (Or 21 If Not in the Field)===
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Team Bonus: Number of Team Members With Area Lore Canaan Within 5 of Leader, To a Maximum Bonus Equal To Leader’s Leadership===
 
@@ -189,7 +189,7 @@
 ==Story Seed: The Teutonic Knights==
 
 
-|]
+|}
 ''Rome, and by the University of Paris. Inaccurate or incomplete translations have lower Source Qualities.''
 
 ===The Clay Tablets===
@@ -205,8 +205,8 @@
 
 ''InTe 25 R: Arc, D: Mom, T: Ind The caster holds a piece of stone in her hands and receives a brief mental image of the surroundings of the object that this stone is an Arcane Connection to. This spell could be used to find the statue that a fragment came from, or the quarry that the blocks of a castle were chiseled from. If the stone is an Arcane Connection to several things, then the newest Arcane Connection, or the closest, is revealed.''
 ''(Base 4, + 5 Arc)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Tiberias==
 
@@ -245,7 +245,7 @@
 ==Story Seeds: The Clay Tablets==
 
 
-|]
+|}
 ''shallow pool, about ten feet across, which is tiled in stone. From the pool a stream flows down the valley and into the cave mouth. This stream has the same properties as the stream in the first regio level, as it is, of course, the same stream. A character who tries to leave the valley, except by passing through the cave, finds herself back in the valley.''
 ''The valley floor is dry, and empty, apart from several dozen stone buildings, each about the size of a small house or Hermetic laboratory. The''
 ''buildings are all constructed in a similar manner, with a stone floor and a roof supported by columns, but neither walls nor doorways. The buildings are pre-Roman and reminiscent of Greek architecture. All the buildings are whole and un-ruined, and each contains one or more stone slabs upon which lie skeletal remains: En-Dor is a city of the dead. In total, there are about 100 skeletons, some of which are adorned in gold and silver jewelry, fragments of decaying clothing and burial shrouds, or simple bronze weapons.''
@@ -253,8 +253,8 @@
 ===The Ghosts of En-dor===
 
 ''There are no living inhabitants in the second level of the regio at EnDor, but about a dozen ghosts haunt the buildings in the valley. These are the ghosts of Canaanite necromancers who were killed in the purges of King Saul, along with the ghost of the last necromancer — Zephaniah, the witch of En-Dor. The ghosts usually appear at night, when they gather about the pool at the head of the valley, and Zephaniah acts as their leader. She has a Magic Might of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Magic Might: 25 (Mentem) Characteristics: Int +2, Per +1, Pre''
 ''+1, Com +2, Str –1, Sta 0, Dex 0, Qik 0 Size: 0 (non-physical) Age: n/a (50) Decrepitude: Already dead Confidence Score: 1 (3) Virtues and Flaws: Wise One,''
 ''Canaanite Necromancy, Famous, Good Teacher; Enemies (Israelites); Higher Purpose, Nocturnal. Personality Traits: Protective +3,''
@@ -296,14 +296,14 @@
 ''•''
 ''•''
 
-|]
+|}
 ''inheritance, may provoke conflict between the Order of Hermes and nobles. House Guernicus, rightly or wrongly, may fear that hidden survivors of the Schism War will seek to acquire Canaanite necromancy in order to contact the leadership of House Diedne. Conservative forces within the Order of Hermes, led by House Guernicus, might recognize that''
 ''•''
 ''•''
 ''Canaanite necromancy has the potential to resurrect many old conflicts that had died with their protagonists. The concerned Quasitores might therefore attempt to extend the Peripheral Code’s prohibition against scrying to the use of Canaanite necromancy, and so make it illegal to attempt to “scry” on dead magi. Some Quasitores might be so concerned at the destabilizing influ•''
 ''ence of Canaanite necromancy that they argue for the Wizard’s Marching of the Canaanite revivalists — paralleling Saul’s purge more than two thousand years ago.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Magic Might: 10 (Mentem) Characteristics: Int –2, Per +3, Pre''
 ''0, Com 0, Str +1, Sta 0, Dex 0, Qik +2 Size: 0 (non-physical) Age: n/a (varies) Decrepitude: Already dead Personality Traits: Mindless +3,''
 ''Loyal +2 Combat: The ghosts are non-physi''
@@ -314,10 +314,13 @@
 ''The ghostly necromancers are drawn to the living and sometimes attempt to move the living about as if they were marionettes. This Supernatural Power allows each ghost to attempt to control the limbs of a single person, the marionette, for a period of Diameter. The ghosts are not very proficient and their influence is only equivalent to a child trying to push the marionette about. A conscious marionette can automatically resist the pushing of the ghostly necromancer, but to do anything else at the same time he must make a simple Intelligence + Concentration roll against an Ease Factor of 9 – Size. Vis: 1 pawn of Mentem. Appearance: The ghosts are trans''
 ''lucent, and can only be seen with difficulty. They are dressed in funeral bindings or shrouds that may be adorned with jewelry. When in motion, the ghosts drift several centimeters above the ground.''
 
-|]
+|}
 ''Ghosts of Necromancers Story Seed: Canaanite Gods''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Investigating Canaanite necromancy and integrating it with Hermetic theory is independent of most aspects of the original Canaanite culture. However, in his research a magus may discover hints about Canaanite cosmology, either from classical documents or interviewing Zephaniah, and decide to embark upon quests to contact the Canaanite gods — who may be Faerie or Magical in nature. Such quests are beyond the scope of the information presented here, but briefly, the Canaanite pantheon includes: El, father of the gods; his consort, Elat; Ba’al, an agrarian weather god and also the lord of the gods; and Ba’al’s sister/consort Anat, a virginal, hunter, warrior goddess. One crucial story, which is known by Zephaniah, tells how Ba’al challenged another son of El, Mot, the god of death. In the story, Ba’al is slain by Mot, but his corpse is recovered and buried by Anat, who then seeks Mot out and pleads with him to return Ba’al to life. Mot refuses, and so Anat slays Mot herself, which enables Ba’al’s resurrection. Anat’s victory over Mot is celebrated by Zephaniah at the spring equinox.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

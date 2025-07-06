@@ -51,15 +51,15 @@
 ''Medium Wound (CrCo 25) and to Heal an Incapacitating Wound (CrCo 35). The staff has a Might 27 spirit bound into it: healing a Medium Wound drains 5 Might Points, while healing an Incapacitating Wound drains 7 Might Points. After a battle, Medica is forced to heal two critically wounded companions, using up 14 Might: the spirit now has a Might Score of 13. The spirit can no longer power the level 35 Ritual, but can still power one use of Heal a Medium Wound, which will drain 5 Might, reducing it to Might Score 8, when it will be unable to power either Ritual.''
 ''If the device is broken (or the binding enchantment disenchanted), any spirits bound into it are released. The released spirits are typically enraged, both by their confinement and the torment of having Might drained from them. If a magus takes advantage of the unlimited enchantment spaces in a talisman, and then should ever break his talisman, all the spirits bound into the device are released together, and the breaker of the talisman had better beware.''
 ''To contain the spirits the magus also instills one or more enchantments of Empowering Prison of the Declining Spirit, and then coerces a spirit into each Empowering Prison. Any spirit command spell can be used, or the spirit may be tricked into''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Suitable Spirits for a Magus’ Magic==
 
 ''In general, if a magus seeks to forge a close link to, or to draw special advantage from, a spirit, then the realm of the spirit must in some way match the magus’s magic. Close links include taking a spirit as a familiar; special advantages include draining Might to power Ritual Magic.''
 ''For most magi this requires a spirit of the Magic realm, although magi with Faerie Magic can also use Faerie spirits. Those who succumb to the foul cause of diabolism may bind Infernal spirits. Perhaps magi who have links to the Divine could forge links to a Divine spirit (see Realms of Power: The Divine), although they may quail at the thought of draining Might from a Divine being!''
 
-|]
+|}
 ''entering (see Spell Binding in Chapter 4). The spirit must be a disembodied spirit (for example, a magus cannot bind a living magical beast, although he can bind a ghost). Most magi must locate a spirit with Magic Might, unless they have a Virtue such as Faerie Magic that lets them tie effects to spirits of another realm.''
 ''Empowering Prison of the Declining Spirit is a special Mystery general enchantment that both traps a spirit and drains its Might Score to power Ritual effects in the same device. The level of the enchantment must equal or exceed twice the Might Score of any spirit to be bound into it, and the enchantment requires Form requisites for the Forms of any Ritual effects it is to power. It is possible to enchant a Prison that can only power some of the Ritual effects in a device, and to have other Prisons that can power the other Rituals.''
 ''Once a spirit is bound to an Empowering Prison it is trapped as long as the enchantment remains, even if its Might falls below a useful level. The spirit may be destroyed with Perdo Vim spells, however even this does not “empty” the Empowering Prison for re-use.''
@@ -77,8 +77,8 @@
 ''On locating a suitable place and finding a spirit, the maga’s next step is to persuade the spirit that she is a welcome ally, and not a rival or enemy, and that she has something to offer. Unintelligent spirits respond like animal candidates for familiars, and are generally positive if they are in sympathy with her magic. Intelligent, free-willed spirits are harder to ally with and may desire to retain their freedom (just as an intelligent, free-willed beast may) — they must be bargained with. Elemental spirits may welcome the freedom to move beyond their appointed place and prove willing allies; the ghosts of departed relatives are often willing to assist their descendants.''
 ''If the maga has the Faerie Magic Virtue, she might ally with a Faerie spirit. If she does, then the type of faerie also provides a correspondence — faeries of the woods, of the sky, etc.''
 ''A tiny minority of magi might consider a demon as spirit familiar, but since''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Empowering Prison of===
 
@@ -96,7 +96,7 @@
 ==Empowering Prison of the Declining Spirit==
 
 
-|]
+|}
 ''this immediately afflicts them with an Infernal taint, others are likely to notice this. For those Infernally inclined, a demonic pact is usually a more certain route to power (and both routes lead to damnation). Demons can correspond to any Technique or Form. Infernalism and its realm will be deal with in a future Ars Magica supplement.''
 ''Some magi claim to have allied themselves with angelic spirits. Whether they are indeed both pious and impious to have so bound one of God’s servants, or whether they are deluded fools taken in by fallen angels, is not certain, nor dealt with in this book.''
 ''Eventually the maga should be able to find a spirit whose nature (Technique and Form) corresponds to her best Arts, and such a spirit will automatically be in sympathy with her magic.''
@@ -132,14 +132,14 @@
 
 ''The three cords are formed, using the same rules as for animal familiars, (ArM5, page104) although Hermetic magi using spirit magic give the three cords of the spirit familiar different names, as they have additional powers:''
 ''The Hermes Cord corresponds to the golden cord, but also adds to any •''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Becoming Immortal with a Spirit Familiar==
 
 ''Mysteries elsewhere in this book show how, with great effort, a magus may become an immortal being of magic. Normally the magus risks losing his familiar in this transformation unless he includes additional raw vis in his final rites. However, a spirit familiar is already an immortal being, and will accompany its magus through the transformation with no further effort.''
 
-|]
+|}
 ''rolls involving Enigmatic Wisdom (even if the magus lacks Enigmatic Wisdom). The Isis Cord corresponds to the silver cord, but also adds to Lab Totals and Casting Score involving spirits. The Hekate Cord corresponds to the bronze cord, but in addition, the magus can apply his Hekate Cord score to any Stamina roll (including Fatigue rolls) if his spirit familiar spends 1 point of Might. The bonuses are cumulative, so by spending 3 Might points he gains a bonus of (Hekate score) x 3. Up to 5 Might points may be spent on one roll. Likewise, he can give his spirit familiar a number of Temporary Might''
 
 ===•===
@@ -153,8 +153,6 @@
 
 ''As with a familiar, the magus and spirit familiar both gain the Minor Virtue True Friend, relating to the other half of the partnership, and the Personality Trait Loyal (partner) +3. The magus and spirit familiar are magically linked — each serves as an Arcane Connection to the''
 ''other, and neither needs to overcome the other’s Magic Resistance. The spirit uses the better of its Magic Resistance or the magus’s Form resistance, but neither stacks with Parma Magica; alternatively the magus may choose to use the spirit familiar’s Magic Resistance but this does not stack with Parma Magica. The spirit familiar gains a score equal to the magus in any language he knows (unless the spirit knew the language better before), and can understand any language understood by its ally. It cannot learn Hermetic magic, although it can learn Magic Theory and assist in the laboratory if it has magical assistance or powers to enable it to manipulate objects in the laboratory.''
-
-[|
 
 ===Mental Communication===
 
@@ -194,8 +192,6 @@
 
 ==Sample Powers==
 
-
-|]
 ''The spirit retains any powers it had before the bonding.''
 ''You must determine the characteristics of the spirit: it has the three Characteristics Intelligence, Perception, and Communication. If the spirit was not intelligent before the ritual of bonding, then it is made intelligent by the bond.''
 ''In game terms, you may determine its three Characteristics as if it were a character, using the pyramid scale to purchase positive and negative scores. You have (Might/5) pyramid points to start with, rather than the 7 points of a normal character.''
@@ -230,14 +226,14 @@
 ===Blending With Substance===
 
 ''This is an enchantment effect that permits the magus to take a small item and embed it within his flesh so as to incorporate it within his substance. Such an item can later be attuned for talisman bonuses. Not all items can be plausibly incorporated, but crystals, small objects, and some animal body parts can be. Some substances are also toxic, and the magus cannot use magic to tame the substance''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Hermetic Empowerment and Inscription on the Soul==
 
 ''The Mystery of Hermetic Empowerment permits spirits to be enchanted into a magical device (including a talisman), and for the device to have and trigger Ritual Magic effects. It is possible to combine Hermetic Empowerment with this Virtue: instilling the Empowering Prison Mystery enchantment and binding a spirit into a maga’s body or spirit is so intimate and unnatural that it inflicts a Warping Point; triggering a Ritual effect is sufficiently powerful that it too inflicts a Warping Point.''
 
-|]
+|}
 ''without losing its effectiveness — he can alter himself, although that leads to longterm warping. (Blending with Substance is similar to the Virtue Great Talisman; see Chapter 10: The Great Talisman.)''
 ''Distorting the body by incorporating foreign substances always inflicts a Warping Point on the magus. The method used is:''
 ''Determine the highest bonus the item offers, for example a sapphire has three bonuses: +2, +2, and +3; a snake tongue has a +6 and +3 bonus. Total the highest bonus, and half the sum of any other bonuses, and multiply by 5 to get an effect level. (Sapphire is 5 x (3+(2+2)/2) = 25; snake tongue is 5 x (6+3/2) = 40; round up when dividing by 2, and then multiply by 5. The magus must enchant a Rego Vim effect with Muto, Corpus, and (Form of item) requisites, of the level calculated above. If the level of the effect has level 30 or above (a “high-power” effect), then''
@@ -265,8 +261,8 @@
 ===Preparing for the Transformation===
 
 ''The magus must invent versions of the Mystery spells Bind the Living Ghost and Transformation of the Living Ghost. The rituals are described in terms of Hermetic''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Vulgar Alchemy and Blending With Substance==
 
@@ -278,7 +274,7 @@
 ''If a magus wishes to Initiate Consummate Talisman, he does not need Great Talisman as a prerequisite if he has Inscription on the Soul. Consummate Talisman does not replace Inscription On The Soul in the way that it replaces Great Talisman; the Initiate gains no Ordeal bonus from having Inscription on the Soul.''
 ''The magus can accept the required Ordeal of Deleterious Circumstance, but in practice need not worry about loss of his talisman.''
 
-|]
+|}
 ''spells, but this is just to describe the process of working in the laboratory to prepare them — they are really timeconsuming preparations for the coming Ordeal of death. Each magus requires his own unique versions of these spells, and only magi Initiated into the Mystery of the Living Ghost can invent or cast the spells.''
 
 ===Bind the Living Ghost===
@@ -326,8 +322,6 @@
 ''Becoming a Living Ghost transforms the magus’s spirit into something more powerful and more flexible than the ghost of a dead person. Living Ghosts, as the name implies, are akin to the free spirits that roam Mythic Europe: They are fully aware of themselves and their situation, retain full memory and form new memories normally, and may learn and change (although their immortal nature makes this difficult). A Living Ghost has no more or less reason to continue its existence than a living being and cannot be laid to rest simply by completing a task, like a many simple, dead, ghost, as it has chosen immortality by these means and retains its will and purpose. It is, however, dependent on the continued link to its Haunt.''
 ''As detailed below (Ghosts in Ars Magica), ghosts retain all their characteristics except solidity. They are insubstantial to the real world but appear solid to other ghosts and insubstantial spirits.''
 ''The magus retains a link to his talisman, and may continue to enchant and improve it. If he used Inscription on the Soul to enchantment his spirit, then those enchantments continue, and he may continue to enchant the spirit directly. Otherwise he must protect and care for the physical talisman, and hide it carefully within the Haunt.''
-
-[|
 ''The following first appeared in Calebais: The Broken Covenant, but is repeated here as it is important to define ghosts properly.''
 ''Many ghosts are dark, sinister souls, living tormented existences in the physical world without being able to affect it in any real way. They are often confused, sometimes violently insane, and may hate and fear the living or take pleasure in sharing their suffering. Others may be of good heart and only seek to put right what their passing made wrong, or have become ghosts because they lived too long in a magical aura. Ghosts are as individual as living beings, and each has its own distinct personality.''
 ''The appearance of ghosts can vary, from seeming completely substantial, so real that they even feel solid, to simply a luminous haze in the air with only vague similarities to the human form. Most ghosts can become invisible at will, hidden except to those possessed of Second Sight or similar abilities, but only a few can come close to a state resembling solidity; most remain translucent and rippled, like a reflection in deep water. As they spend their Might Pool, they also lose their clarity, fading away completely when exhausted.''
@@ -342,6 +336,8 @@
 
 ==Ghosts in Ars Magica==
 
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''If the magus enchanted his body, the enchantments are broken when his body is destroyed. If he had the Virtue Inscription on the Soul, and became his own talisman, he had the option to restrict himself to enchanting his spirit only. If he kept to this restriction, there is no problem in becoming a Living Ghost. If, however, he succumbed to the temptation to enchant his body as part of his talisman,''
 ''then when he destroys his body the physical part of his talisman is shattered and those intimate enchantments and attunements broken; he gains 1 Warping Point for every bodyor item-linked attunement that is broken. This is one single Warping event so he must check for Twilight if he gains 2 or more points.''
 ''Entering Twilight during the process of dying means that the Moment''
@@ -351,7 +347,7 @@
 ==Hazards of Becoming a Living Ghost==
 
 
-|]
+|}
 
 ===Learning and the Immortal Spirit===
 
@@ -402,13 +398,16 @@
 ''He has a store of vis in the laboratory: he spends a season and opens another 12 spaces (12 pawns of vis) in his talisman (his spirit, as he has Inscription on the Soul), and then repeats his Transformation of the Living Ghost ritual, spending another 16 pawns of vis. His Might is restored to 35+12 = 47, still less than his maximum Might of 50. The 12 spaces in his talisman should be noted as used — they cannot now be instilled with effects (although Graculus can still open more spaces).''
 ''The magus can also create an improved Transformation of the Living Ghost ritual, if he can devise one and remember it — although it will take a considerable effort to keep such a powerful Ritual using the methods of binding it into his talisman.''
 ''The magus may then open more spaces and cast the improved Ritual to increase his Might Score above the original level. His Might Score is still limited by his best Technique and Form combination.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Possess the Living Host==
 
 ''ReCo 30 R: Touch, D: Moon, T: Ind Allows a ghost to enter and take complete control of a body. While in control of the body, the possessing spirit may use the body’s senses. The spell does not control the mind of the possessed body, nor provide access to the skills or memories of the host, and if the possessing spirit is distracted and fails to direct the body, the living mind may attempt to control the body. The possessing spirit may use Mentem magics to read the host’s memories.''
 ''When the spell ends, the host will remember all that has happened, unless Perdo Mentem magics are used to erase memories.''
 ''A very similar spell, Possess the Deceased Host, allows the ghostly magus to possess a corpse and animate that. Charm Against Putrefaction, CrCo 10, is also recommended.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

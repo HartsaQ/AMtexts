@@ -32,8 +32,8 @@
 ==The Council Meeting==
 
 ''The council meeting is the place where things get done and matters get decided, and nearly every covenant, regardless of its method of governance, holds them on a regular basis. A wise course of action is to decide upon a regular schedule of meetings, perhaps one per season (or maybe more frequently). At each meeting, the course of the next few months is decided. Responsibility for collecting from regular sources of vis can be assigned, for example, and mundane matters regarding food sources and the upkeep of the covenant dealt with. It is also at these meetings that the appointed officers (if any) make their reports. Each magus tells the covenant what resources he needs for the upcoming season (for''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Boons, Hooks, and Governance Styles==
 
@@ -49,7 +49,7 @@
 
 ''praefectus (governor, provost), magister (master), diocetes (treasurer), procurator (administrator), interpres (spokesman), vilicus (steward), curator (overseer), librarius (librarian)''
 
-|]
+|}
 ''example, books, magical items, specialized labs, etc.), and if more than one magus needs the same limited resource, conflicts are resolved.''
 ''The Hermetic seasons are based on the stellar seasons of Spring (Vernal Equinox to Summer Solstice), Summer (Summer Solstice to Autumnal Equinox), Autumn (Autumnal Equinox to Winter Solstice) and Winter (Winter Solstice to Vernal Equinox). The first day of each season are good days to hold regular meetings, as are the Quarter Days (May Day, Lammas, All Hallows Day, Candlemas) that mark the mid-points of these seasons.''
 ''It is not reasonable to expect every magus to attend every meeting — magi are often called away from the covenant on excursions or professional visits — and magi are not the most sociable creatures even at the best of times. However, most covenants institute some procedure requiring a quorum, or minimum number or proportion, of the covenant’s magi to attend a meeting for it to be able to make decisions on the covenant’s behalf, else a single magus can start making decisions for the entire council. A quorum equal to more than half of the covenant’s members is often considered reasonable. Depending upon the council’s structure, other criteria may be necessary. Perhaps the covenant’s''
@@ -81,8 +81,8 @@
 ''essary to keep order. This may be as informal as giving each magus a right to speak in turn before a vote is held, or as formal as complex procedures where an item must be on the agenda, must be proposed, seconded, supported by the appropriate sub-committee, and then receive sufficient votes to be accepted by the council.''
 ''Not all decisions have to be made by vote. More unusual covenants may demand that decisions are left to chance, or stipulate that Might is Right (a popular choice in covenants with many followers of Tremere and Tytalus). Under the vast majority of circumstances, however, voting is the main organ of decision-making.''
 ''The charter should clearly state who is entitled to vote, and whether the type of proposal under discussion affects the number of voters. Usually each magus has a single vote, but in hierarchical covenants some magi may get multiple votes, or single votes that are worth twice as much, or the like. The matter of breaking tied votes should also be addressed. This privilege is usually left to the covenant’s leader — it may be the only unusual power he has — and may take the form of a casting vote (i.e., he only has an extra vote if the vote is tied) or an extra vote (which he may use at any time). Alternatively, ties may automatically default to maintenance of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The oath of Arae Flaviae is suitable for any covenant, particularly a young one. However, it may not be sufficient for some covenants, particularly those with a less democratic means of governance.''
 ''The following Oath is suitable for a powerful covenant with lofty ideals:''
 ''I, [Name] forthwith dedicate myself to the pursuit and exchange of knowledge, to the advancement and mastery of the magical arts, and to the fostering of peace amongst the magi of the Order of Hermes. This dedication is made not in name only, but shall be the guiding principle of my life at the Covenant of [Name]. May the Order of Hermes be preserved and may my small efforts add to its continued growth and strength. Towards the goals of this covenant I pledge my highest aspirations and beliefs. By the word of everything I hold to be true and just, I swear to obey the stipulations of the charter of the Covenant of [Name] till death do betray me to this oath. And if I fail, may the most rigorous''
@@ -99,7 +99,7 @@
 ==The Charter of Arae Flaviae==
 
 
-|]
+|}
 ''the status quo, or even result in certamen between the opposing sides.''
 
 ===Covenant Resources===
@@ -117,8 +117,8 @@
 ''Alternatively, the covenant may claim all vis for itself, and once the demands of the covenant itself have been met, the remainder (or a portion of the remainder) is divided up between the members of the covenant. The mechanics of this division must be indicated in the charter, along with who is responsible for the division. Harsher still, a charter may dictate that all vis belongs to the covenant as a whole, with individual members forced to petition the council for shares according to their needs. If individuals need to work to acquire a share of vis, then the Vis Salary Hook is appropriate to this covenant. On the other side of the coin, a covenant may divide up surplus vis each year between its members, represented by the Vis Grant Boon.''
 ''It should be decided whether the rules for the allocation of vis apply equally to vis from renewable sources and vis earned on adventures. Most charters allow magi to keep whatever vis they find, unless it proves to be a renewable source, in which case it belongs to the covenant. Any alternative method encourages magi to be secretive about the vis they find, and allows for cheating.''
 ''The monies owed by the covenant may be treated in the same way as vis, but most magi at least pretend to be less interested in money than vis, and allow the covenant to deal with all financial matters. There may be a facility in the charter for a magus to request that the covenant purchase an expensive item specifically for his use, in which case it needs''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Example Criteria for a Legal Meeting===
 
@@ -163,7 +163,7 @@
 ==Examples of Vote-Taking==
 
 
-|]
+|}
 ''to be stipulated just how much of the financial resources of the covenant may be requested by individual members.''
 ''Hierarchical covenants may restrict the rights of certain of its members, so that only the upper echelons get full access to all the resources of the covenant.''
 ''Covenants usually seek to improve themselves, and there may be a provision in the charter to reward members who perform work on the covenant’s behalf. This work might include copying of tomes for exchange, making magical items (with the covenant’s vis); or even taking on dangerous adventures such as bargaining with the local faerie king. The charter may stipulate a standard reward for particular tasks, or set aside a share from the yearly income of resources to pay those who perform covenant work.''
@@ -180,8 +180,8 @@
 ''ic once the charter has been proven breached, others require a vote to enforce it.''
 ''Censure may also take the form of withholding the privileges of membership''
 ''until a magus comes back into line with the charter. The covenant can withhold any resource that it holds in common. If it tries to deny access to a resource that belongs to an individual magus, however,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The covenant is governed by a ruling council, consisting of every magus of the covenant. One member is designated the disceptator, who is the declared leader of the covenant and responsible for representing the covenant to the Order and the world. A new disceptator is chosen by a majority vote of the full council following the death or disappearance (for not less than a year) of the previous incumbent; the post is held until death or disappearance. The covenant council holds four regular assemblies per year, on the first day of each stellar season. All members of the council must make every effort to attend these meetings, which do not have a quorum unless over half of the members of the council are present. The covenant’s disceptator must be present at every regular assembly. Matters for discussion must be given to the disceptator at least three days before the assembly; further issues may only be''
 ''raised if seconded by another member of the council and with the permission of the disceptator. All matters are categorized into Issues of Significance, Issues of Consequence, and Ordinary Issues. Any issue that affects the membership, governance, or magical resources of the covenant is an Issue of Significance; any other issue may be declared an Issue of Significance by the disceptator. All issues which are not Issues of Significance are Ordinary Issues, but any member of the council can request that an Ordinary Issue is made an Issue of Consequence instead. Issues of Significance require a Majority by Member to be passed, Issues of Consequence require a Majority by Vote, Ordinary Issues simply require two votes in favor. A meeting without a quorum is only empowered to enact Ordinary Issues. In all issues, in the case of a tie, the disceptator has the casting vote.''
 
@@ -193,7 +193,7 @@
 ''It is not necessary for a covenant to choose between the carrot (rewards) and the stick (obligations) to motivate its magi to improve the covenant and ensure its smooth running. The following sample rule mixes both approaches.''
 ''A standard share is determined to be an equal portion of one-half of the covenant’s vis stores on the day following the Winter Solstice, or its pecuniary equivalent. A Standard Service consists of one season’s work at low personal risk; one month’s work at moderate personal risk; or one day’s work at high personal risk. The definition of risk is determined by a vote of the Council. Every magus who has performed one Standard Service to the covenant in the preceding eight seasons is entitled to one share each year, allocated on the day following the Winter Solstice. A magus may earn up to one extra share per year by performing an Additional Service equivalent to a Standard Service. A magus who is delinquent in his Standard Service does not receive a share, and is not eligible for Additional Service until his missing Standard Services have been made up.''
 
-|]
+|}
 
 ==Obligations and the Code of Hermes==
 
@@ -231,14 +231,14 @@
 ==Modifying Loyalty Due to Covenant Situation==
 
 ''Loyalty points are gained and lost for the equipment and provender given to the covenfolk, however, all of these things eat into the resources of the covenant. The covenant might offer better wages (see Chapter 5: Wealth) than is normal, or continue to care for retired members of their turb, in the manner of the Romans, by providing a pension. If the covenfolk have to work with inferior equipment this''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Gift Modifiers to Base Loyalty==
 
 ''No Gift 0 The Gentle Gift 0 The Gift –30 The Blatant Gift –105''
 
-|]
+|}
 ''impacts their attitude, but likewise, soldiers given brand-new weapons and armor are more steadfast than those who have to steal from vanquished enemies. Chapter 5: Wealth gives details on the cost to the covenant of supplying equipment to the grogs. Living conditions, which are determined by the local environment (see Boons and Hooks), also influence fidelity. Finally, competent specialists put in charge of the covenfolk increase allegiance through diligence and hard work. Magi can employ up to three specialists who deal with the covenfolk on their behalf, rather than dealing with them directly. (These specialists are purchased with covenant Build Points as described on ArM5, page 72). The turb captain mediates between the magi and the grogs, the steward mediates between the magi and the specialists, and the chamberlain mediates between the magi and the servants. A single individual may perform up to two of these tasks (commonly the roles of steward and chamberlain); such a person is often called the autocrat. In this case, add loyalty points arising from both roles.''
 ''If only some of the covenfolk are affected by any of these modifiers, then reduce the modifier accordingly. For example, if the modifiers affect a third of the covenant, then reduce the effect on Prevailing Loyalty to one third. If conditions are dramatically different for different groups, the Divided Loyalty Hook is appropriate.''
 
@@ -259,8 +259,8 @@
 ===Attitude===
 
 ''Most covenfolk expect the magi at their covenant to be standoffish and haughty, just as commoners who live and work in more mundane settings expect their employers and the nobility''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''–6	 The covenfolk are deeply unhappy,''
 ''and only remain with the covenant out of fear of retribution. They are on the verge of revolt, and are likely to complain to the nobility or clergy over the treatment they have received at the hands of the magi. If they do so, they are likely to mention the involvement of dark magic. The average servant or grog is surly and uncommunicative, and obeys a magus only under threat of violence. Productivity (in terms of cost-saving measures and income which rely upon covenfolk; see Chapter 5: Wealth and Poverty) of the covenant is halved due to desertion and rebellion. –4	 The covenfolk as a whole are not''
 ''happy working for the magi, but it is a steady form of employment, and their immediate needs are cared for, so their self-interest keeps them in place. They do not believe that their masters will help them if they get into trouble, and have no illusions about their position in the covenant. –2	 The covenfolk are not precisely''
@@ -273,11 +273,11 @@
 ==Sample Prevailing Loyalty Scores==
 
 
-|]
+|}
 ''to behave. This general attitude on the part of a covenant’s magi does not cause any particular difficulty, but more extreme attitudes can affect Prevailing Loyalty. The precise penalties are enumerated in the “Example Loyalty Point Penalties” box. The listed penalty is applied for each magus who acts in the described fashion, even to a single servant, gossip being what it is. (Multiple penalties are not assessed for the behavior of a single magus, however. Only the most severe penalty applies.)''
 ''Table Entries: Some magi are deliberately rude to mundanes, or worse, act as if they were completely oblivious to their presence even when addressed directly. More serious is the magus who considers the covenfolk to be tools, or is directly malicious towards them. A callous disregard for the covenfolk consists of treating them like livestock rather than human beings. Deliberate cruelty covers matters such as vivisection of animals, or making the covenfolk the targets of spells. Heinous malfeasance consists of actively evil and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Living Conditions Covenfolk have a –2 Aging modifier for living conditions –20 Covenfolk have a –1 Aging modifier for living conditions –10 Covenfolk have no Aging modifier for living conditions 0 Covenfolk have a +1 Aging modifier for living conditions +10 Covenfolk have a +2 Aging modifier for living conditions +20''
 ''Equipment Covenfolk have only Inexpensive equipment –10 Covenfolk have Standard equipment 0 Covenfolk have Standard equipment and one piece each +10 of Expensive equipment Covenfolk have access to any equipment (within reason) +20 that they need''
 ''Money Covenant grants no salary –20 Covenant grants a miserly salary (half standard Wages) –10 Covenant grants a standard salary (standard Wages) 0 Covenant grants a generous salary (half again  standard Wages) +10 Covenant grants a lavish salary (twice standard Wages) +20 Covenant provides a pension upon retirement (half Wages +10 until death) (cumulative with bonuses from high wages)''
@@ -314,7 +314,7 @@
 ==Example Loyalty Point Penalties==
 
 
-|]
+|}
 ''cruel acts performed out of sheer malice on a regular basis.''
 
 ===Punishment===
@@ -373,8 +373,8 @@
 ===Loyalty Versus Discipline===
 
 ''Some covenants implement stiff regimes of discipline and do not concern themselves with loyalty. A rigorous program of punishment is likely to cause''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''As an established covenant that has existed for many decades, Semita Errabunda has acquired 38 loyalty points through familiarity (the maximum they can get this way), which are added to their Base Loyalty of –38. Due to their specialists, they have an extra 18 loyalty points (for a total of 18), giving them a Prevailing Loyalty of +2.''
 ''Should the covenant recruit more covenfolk, the effects of Familiarity will be reduced, because the new covenfolk will not be habituated to the magi’s Gifts. If the number of covenfolk is doubled through recruitment, the 38 loyalty points from familiarity are diluted by one-half to 19, which, when added to the Base Loyalty (–38) and the special''
 ''ist bonus (18), gives a net total of –1 loyalty points, which yields a Prevailing Loyalty of zero.''
@@ -383,11 +383,11 @@
 ==Example of the Effects on Loyalty of Changing Membership==
 
 
-|]
+|}
 ''Loyalty Point loss, but a corresponding increase in overall discipline as covenfolk attempt to avoid future punishment. Conversely, an over-indulgent council that lavishes their staff with money or drink might improve their sense of devotion, but damage their tendency to carry out their orders.''
 ''If appropriate, Prevailing Discipline may be tracked in an identical way to Prevailing Loyalty. Each action that would normally affect loyalty points should be judged according to the effects that it has on both Loyalty and Discipline, and applied where appropriate. Maintaining Prevailing Discipline requires all specialists managing the covenfolk to use Leadership rather than their Profession Ability to maintain order. If Prevailing Discipline is tracked separately from Prevailing Loyalty, then it may modify rolls related to the duties of the covenfolk. For example, Prevailing Discipline may adjust the Awareness of grogs on watch. However, keeping track of Discipline Points separately from loyalty points is more complicated, and should only be considered where the two are dramatically different.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Instant Loyalty of the Rebellious Turb==
 
@@ -398,5 +398,8 @@
 ==Stories Caused by Prevailing Loyalty==
 
 ''A covenant with a Prevailing Loyalty score of –3 or less is prone to periodic crises of faithfulness, which will create stories that force player characters to patch up relationships. Most of these crises will be minor: perhaps a disgruntled servant makes a confession to a priest regarding his employers, or complains to the local lord. The covenant might lose covenfolk each year to desertion, or be constantly subjected to poor harvests and low productivity. Occasionally, a major crisis will occur, provoking a story that the magi must deal with immediately — the bishop decides to investigate rumors he’s heard, for example, or the local lord decides to rid his land of the sorcerers. A low Prevailing Loyalty therefore acts like a Hook, and may be resolved like any other Hook, through stories and events which add loyalty points.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

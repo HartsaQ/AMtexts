@@ -20,15 +20,15 @@
 ==The Death of Conciatta==
 
 ''As the new millennium dawned, Conciatta finally abandoned her tower and retired to a convent near''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Currito of Jerbiton==
 
 ''Currito of Jerbiton was an artist at heart. He was a man swept up in selfless tortured love, and for a while he channeled this into his painting. Much of his work was religious in nature, though he gained popularity for a time in the more wealthy covenants of the Order for a series of Hermetic triptychs. But his best days were far''
 ''behind him by the time the Order descended into Schism War, a time when the hope and glory of those early days seemed almost irrelevant. He lived out his later days as an itinerant artist: trading on past glories, enjoying the hospitality of old friends, and moving on when his welcome wore thin.''
 
-|]
+|}
 ''Toledo that she had come to know through her research. She hoped that the strong Dominion would dampen her constant spell-casting and give her respite from her own magic. The convent took her in and cared for the weary and warped maga and she lived there for the next eleven years in relative peace. But her connection with the Dominion soon strengthened and the old ailment came back. Warping eventually caught up with her and she fell into Final Twilight. But instead of fading into the realm of Magic, her lifelong studies dogged her even at the end. Her spirit fractured into four aspects, each matching one of the four supernatural realms and they fled the convent. While Conciatta herself is dead, distorted images of her remain to be found. And while the world at large doesn’t know of Conciatta’s greatest breakthroughs, the four aspects that survive her remember.''
 
 ==Legacy==
@@ -43,8 +43,8 @@
 ===Confluence of the Realms===
 
 ''Minor, Hermetic This Virtue allows the maga to benefit from her knowledge of the supernatural realms while undertaking laboratory work. A maga using a laboratory text creates an exact copy of the spell or enchantment, with the Range, Duration, Target, and effect as described in the text. Many Vim spells are designed to affect a given realm, and that realm is a fixed part of the laboratory text. A maga cannot use a laboratory text for the Demon’s Eternal Oblivion spell to re-create the same effect targeting creatures of the Magic Realm. For magi with this virtue however, the realm specified as part of a laboratory text, whether a spell or device, can''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==What the Order Remembers of Conciatta==
 
@@ -69,7 +69,7 @@
 ''•	 She paid a terrible price for the hubris of her research and lost control of her magic. •	 She died in a convent near Toledo. •	 Just before her death she was visited by four women, to each of whom she gave a magical treasure.''
 ''* 	 A distortion based on Currito’s later writings. ** 	This is what the Order at large believes.''
 
-|]
+|}
 ''be changed during any subsequent use of that lab text. Thus, the maga may use laboratory texts for realm-specific Vim spells to invent variants with the same Range, Duration, Target, and effect aligned to another realm. This can be applied to any spell that references a realm in some way, such as warding, or spells to investigate or affect auras. This change cannot be effected in the field, through the use of Virtues such as Flexible Formulaic Magic, and is restricted to the laboratory. This Virtue also provides the understanding needed to extract vis from any of the four realms. This uses the existing rules with the extraction total modified by the standard aura modifiers. The vis produced is typical of that found in the appropriate supernatural aura, including any side-effects that such vis typically has. It takes 30 research points to integrate this Virtue.''
 
 ===Insight of the Realms===
@@ -80,8 +80,8 @@
 ===True Understanding of the Realms===
 
 ''Major, Hermetic When the maga achieves true understanding of the realms, represented by this Virtue and through the four Realm Lore Abilities, she is able to manipulate and use auras to better serve her magic. On entering a supernatural aura foreign to the maga, the effective level of that aura is reduced by the score in the appropriate Realm Lore Ability to a minimum of 0. This reduces both the penalty associated with that aura and the number of additional botch dice activities are subject to. Note that some auras provide a bonus to spells and powers. In such cases, the bonus is retained but the number of botch dice is reduced.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Nature of Vim==
 
@@ -93,7 +93,7 @@
 ''Many of the common words that magi use to talk about auras originated in Conciatta’s early works.''
 ''Diffuse: An aura with no fixed sustaining source. Tethered: An aura that is generated by or sustained by one or more sources. Stable: An aura that is neither growing nor shrinking in magnitude. Waning: An aura that is losing strength over time. Waxing: An aura that is gaining strength over time. Existential: The Faerie and Magic Realms. Moral: The Divine and Infernal Realms. Apparent: The strongest aura present at a given location. Subsumed: An aura that is present but has been overpowered by a stronger aura covering the same area.''
 
-|]
+|}
 ''A foreign aura is one that imposes some penalty to the maga’s supernatural powers or spell casting. The standard realm interaction table on ArM5, page 183, applies as normal. The associated effects of any aura are also affected by the level of the appropriate Realm Lore ability. While the maga gains full magical benefit from a Magical aura aligned with aggressive emotions, she may use her knowledge of the Magic Realm to reduce the aura’s effect (as per the table in Realms of Power: Magic, page 15). Similarly, the penalty to statistics imposed by Abyssal Infernal auras (Realms of Power: The Infernal, page 16) is reduced. This Virtue manifests as an integral part of the character’s Gift, on the same level as the maga’s own magical sigil. As with the sigil, it cannot be suspended and it influences all spells cast by the maga and all enchanted items created after the maga acquires this Virtue. While not directly affecting the use''
 ''of enchanted devices, auras do affect their penetration. Just as a maga’s sigil manifests in the effect, so does her understanding of the realms. On acquiring this Virtue, the maga’s score in the Realm Lore abilities should be recorded when she creates a new enchanted device effect. When the device is used in a foreign aura, the effective level of that aura, for penetration purposes, is reduced by the maga’s Realm Lore ability at the time the effect was instilled. This is a function of the maga’s personal enchantment process and is not described by the Laboratory Text and can not be reproduced by another magus following the text. The maga’s talisman always uses her current Realm Lore when used by the maga regardless of when the effects were enchanted into it. If either Confluence or Insight of the Realms have been integrated, it takes 30 points to integrate or research this virtue, otherwise it takes 45 points.''
 ''Exempli Gratia: The magus Zebulon has a Faerie Lore of 2 and an Infernal Lore of 4. On entering an Infernal Abyssal regio of level 3, his Infernal Lore reduces the effective level of the aura to 0 for all non-Infernal powers and spells. This reduces the realm interaction penalty and botch dice to 0 and negates the Abyssal aura’s deleterious effects on his characteristics. Even after a day spent within the regio, the Intelligence stress roll has an Ease Factor of 0 as the effective level of the aura has been reduced to 0. See Realms of Power: The Infernal, page 16 for details on Abyssal regiones. Later, he finds a Faerie aura of level 2. His understanding of the aura allows him to retain the +1 bonus as indicated by the realm interaction table but the number of additional botch dice for spell casting is reduced to 0.''
@@ -118,8 +118,6 @@
 ''This Heart of Darkness InVi 20 R: Touch, D: Momentary, T: Room''
 ''Cast within an Infernal aura, this spell reveals whether actions taken within this room were responsible for drawing in the Infernal. This could be through a personal evil or sin, or an Infernal ritual. Any event that induces a corruption roll (Realms of Power: The Infernal, page 11) taints the location and is equivalent to a tether. This spell cannot provide information about the evil that took place, nor even how long ago it was committed. (Base 5, +1 Touch, +2 Room)''
 
-[|
-
 ==New Spell Guidelines for Auras==
 
 ''The following new guidelines may be used by any maga who has studied from at least one of Conciatta’s unpublished works on the breakthroughs described here, through a tractatus or a laboratory text for instance. No insight or additional research is required.''
@@ -133,8 +131,6 @@
 ===New Rego Vim Guidelines===
 
 ''General: Suppress an aura of strength less than or equal to the spell’s magnitude. The aura is not destroyed but its effects, including any casting bonuses/penalties, are suppressed for the spell’s duration. The aura returns to full strength at the end of the spell’s duration. The presence of the suppressed aura is detected by magic or abilities that can normally detect such auras. This Ritual cannot affect regio levels beyond the mundane level. As the target aura is still in place, merely locked away, events and actions that fuel the aura may raise the level beyond the power of this Ritual to contain it. If this happens, the Ritual’s power is broken and the aura is made apparent again. (Ritual)''
-
-|]
 
 ===New Rego Vim Spell===
 
@@ -151,8 +147,6 @@
 
 ''The adventure presented here has the following structure. Note that the story starts with two encounters with Conciatta and her history. Those en''
 
-[|
-
 ==Integration vs. Research==
 
 ''There are two paths to acquiring Conciatta’s lost knowledge. A magus may seek out sources of inspiration, enchanted devices, books, or teachers, that provide insight into her breakthroughs. The magus uses these sources of insight to conduct experiments, undertaking Hermetic laboratory projects, to re-create key discoveries. Original research may take longer but allows the magus to progress even without sources of insight; the magus experiments and stretches his own understanding of magic to reach the eventual goal. The rules for integrating Conciat''
@@ -162,8 +156,6 @@
 
 ''The following table lists the spells and devices that can be discovered through this story, the Virtue that they provide inspiration for, and the integration/breakthrough points that each provides.''
 ''Artifact Virtue Points Maintaining the Divine Conjuration Confluence of the Realms 6 The Fourfold Lens Confluence of the Realms 11 Subsume the Apparent Dominion Confluence of the Realms 10 Clearing the Mind of the Caster Insight of the Realms 6 The Insightful Stylus Insight of the Realms 5 The Lodestone Insight of the Realms 7 The Sands of Time Insight of the Realms 4 Ward Against Woodland Spirits True Understanding of the Realms	 9''
-
-|]
 ''counters can be run in either order as suits the storyguide’s plans.''
 ''•	 The first encounter is the discovery of Conciatta’s history made manifest in the Magic Realm. •	 The second encounter is the acquisition of Currito’s journal, a book that provides the clues as to where Conciatta’s four fractured spirits can be found. •	 The troupe may then go searching for the four aspects of Conciatta in any order that they wish. Some approaches may be easier or more logical than others, but the troupe should have freedom to explore. •	 Finally, the spirits of Conciatta can be reunited, allowing the magi to learn her last secrets and bring new breakthroughs to the Order.''
 
@@ -191,15 +183,15 @@
 ===The Vestige of Study (Studious)===
 
 ''This tempus shows Conciatta in her sanctum. She is with Currito and they''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Relocating the Story to Other Tribunals==
 
 ''This story is designed as a treasure hunt and requires the magi to leave their covenants and maybe even their Tribunals, allowing magi from across Mythic Europe to follow Conciatta’s trail. However, the events and places described in this chapter can be moved with relative ease: Tartessos''
 ''could translate to Sybaris in the Roman Tribunal, Zaragoza may become Paris in the Tribunal of Normandy with the Ebro becoming the Seine, and Jerusalem might be used in place of Toledo. The action, by default, occurs in Iberia, but storyguides should not feel constrained by this.''
 
-|]
+|}
 ''both appear relaxed, though frozen as though mid-conversation. Currito sits in a sizeable chair, his hands aloft as though shaping something invisible and his eyes wide and enthusiastic. Conciatta stands behind a work table, like those that fill hundreds of Hermetic laboratories across the Order. Her finger rests on an open book, marking the very line that drew Currito’s reaction. The pages of the book cannot be turned but the subject matter is clear. It appears to be a journal. The unnamed author was apparently a magus who suffered a magical accident. This accident sent him into a regio that inhibited his magic. He became trapped inside for what seemed like weeks until he expended all the vis he carried in an attempt to force the same magical accident and reverse its initial effect. The point that drew Conciatta’s finger was the reveal that all of the vis the magus carried was of the Form of Vim. A tractatus on the Art of Vim also lies open on the table. It appears to use an archaic form of Hermetic Latin. The open pages show that the author considered it impossible to affect the four supernatural realms with anything other than new Arts. Any magus reading this will immediately recognize this as outmoded and absurdly incorrect. The book harks back to the early days of the Order, and this should remind magi that it was Conciatta of Bonisagus who made the breakthrough that banished such outlandish ideas. In life, this moment fueled Conciatta and provided yet more evidence that the Art of Vim could manifestly affect all of the supernatural realms, that the grand theory of magic needed no other Arts. The walls of her sanctum are lined with laboratory texts, tractatus, scrolls, and devices. It is rich and colorful, vibrant and thriving. There is even a view from the windows, though it is peculiar and can only be seen as though from Conciatta’s vantage point, as though a window-shaped image hung against''
 ''a white drape some feet beyond the window frame. The Moorish city of Saraqusta can be seen outside the tower, with the Noor Mosque rising above the low streets. The door provides the means of traveling into or out of this vestige.''
 
@@ -221,15 +213,15 @@
 ==Currito’s Journal==
 
 ''A Redcap brings sad tidings to one of the covenant’s magi: his pater has died or drifted into Final Twilight. But the magi bring with them an heirloom: a tattered book in an unrecognized hand. The book comes with the old man’s instructions to read it carefully. The book was written by Currito in his old age (described in the nearby box) and from him it went through many uninterested hands until it has now landed in the character’s possession. But each delegate has designs upon the book. The Quaesitor suspects foul play and sees the book as a clue; the Bonisagus is intent on seeing the magic within made public; and the Redcap is acting on behalf of Zebulon, offering a small fortune in return for the book. Storyguides should feel free to make the book available in any other way that suits the stories they are telling. The''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Invisible Enemy==
 
 ''A private messenger representing a magus of a foreign Tribunal arrives at the covenant asking for access to Currito’s journal. The messenger claims that his master has an interest in the life of Currito of Jerbiton and is searching for clues concerning his earlier years. The magus understands that the book has made its way into the covenant’s possession and is willing to pay handsomely for it. A note of suspicion may be raised when the mes''
 ''senger insists that his master wishes to buy the volume outright and while he appreciates any offer to study it, it is the book itself he wants. But the messenger is merely a Trojan horse unknowingly carrying a number of possessing spirits (as per the power described in Realms of Power: The Infernal, page 32) across the Aegis boundary. Once inside, these spirits search the covenant, looking for the book, and bring fear and mischief in their wake.''
 
-|]
+|}
 ''book may already be in the library, or it may be found in Currito’s long-abandoned sanctum.''
 
 ==The Tower by the Water==
@@ -244,8 +236,8 @@
 ===The City in 1220===
 
 ''Zaragoza is a strong city in the heart of Aragon served by well-maintained roads. The principle routes are north by road to Jaca and southeast by river to Barcelona. The walled city is situated in a shallow valley that slowly rises up into mountains. The valley presents a number of different landscapes, from the Los Monegros desert and deep woodland, to open plains and farmlands. But the most striking feature of the city is the might river Ebro that bounds Zaragoza to the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Life of Currito==
 
@@ -259,7 +251,7 @@
 ''Each kingdom or region across Iberia has its own language. For simplicity, they can be treated as similar enough to be interchangeable while still being readily identifiable. In addition, Iberia''
 ''was for a long time dominated by the Moors of north Africa and Al Andalus, so Arabic is still commonly used by those of Moorish descent who still live in the Christian kingdoms.''
 
-|]
+|}
 ''north and its tributary, the Huerva, that bounds it to the east. A number of bridges span both the Ebro and the Huerva and lead into a city where church spires and Islamic minarets fill the sky. They seem to concentrate and reach higher towards the middle of the city giving Zaragoza almost a domed appearance. The legacy of hundreds of years of Islamic architecture still remains. The narrow streets are filled with markets and Christian, Jew, and Muslim alike can be seen, and heard, bartering for goods. The only sounds that cut through are the regular church bells and the Islamic calls to prayer. Zaragoza is surrounded by mountains and has a variable climate. The spring sees great rainfall, but the summer turns to scorching drought. Winter is a harsh time contested by two great wintry spirits. The first manifests as a cold fog that settles about the city while the second is a cold dry wind that blows down from the encircling mountains and attempts to overcome the fog. The Ebro provides ample irrigation to support farming and wheat is a big export. Wine is produced further north along the Ebro and much of the wealth from that business accumulates in Zaragoza.''
 
 ==La Torre No Vista==
@@ -276,23 +268,23 @@
 ===Reyes de Barbastro===
 
 ''The site of the old covenant is in the north west of the city, where the Ebro turns sharply back on itself. It is now occupied by buildings owned by Reyes de Barbastro. His property looks out over the Ebro and includes both his home and a large warehouse, beneath which is a cellar that bounds the subsumed Magic aura. He is unaware that his cellar has any significance. Reyes has a comfortable living and supports a fine household. His principle business is trading wine from the Logroño region, where he maintains another warehouse, but he will buy and sell most things. Reyes has three daughters of or nearing marriageable age. The eldest is 17, the middle daughter is 16, and the youngest is 14. He has no sons to pass his growing business on to, so is keen to find suitable husbands for his daughters. But he needs to be sure that any pro''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Books of Al-Mu’taman==
 
 ''Yusuf ibn Ahmad al-Mu’taman ibn Hud ruled Zaragoza between 1082 and 1085. Aside from his secular concerns he was an accomplished mathematician, writing extensively on geometry. However, those reading his works also discover references to magic.''
 ''Al-Mu’taman was a Learned Magician (Hedge Magic: Revised Edition, page 79) and his lineage schooled Conciatta in their ways of overcoming the deleterious effects of auras. Modern magi might also learn much from this line of magicians, if they can be found and bargained with.''
 
-|]
+|}
 ''spective husband will care both for his business and his daughter (admittedly in that order). Characters hoping to gain''
 ''access to Reyes’ warehouse and the important cellar may want to appeal to this side of him.''
 
 ===The Cellar===
 
 ''The cellar beneath the warehouse is currently used as a storeroom and is filled with forgotten crates and barrels. The gloom and an uncomfortably low ceiling make for a claustrophobic space. There is a Magic aura of level 1 currently subsumed by a level 2 Dominion. In the middle of the cellar, opposite the stairs, are two pillars. The cellar walls have been plastered over and, though whitewashed, are grubby with age. Here and there the plaster has flaked off, exposing an earlier fresco. A search of the cellar reveals some peculiarly Hermetic words. Reyes knows nothing of he design. It has been covered for as long as he has owned the property. The concealed design is actually a casting tablet, in the form of a fresco painted by Currito, for one of Conciatta’s rituals, Subsume the Apparent Dominion, ReVi 40 (Ritual). The Hermetic text is entwined with images of the city under Cordoban rule. But the casting tablet is both purposefully incomplete and also damaged.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Reyes de Barbastro==
 
@@ -301,7 +293,7 @@
 ''goza), Charm 3 (being witty), Etiquette 3 (mercantile dealings), Folk Ken 4 (strangers), Guile 4 (lying to strangers), Leadership 4 (workers), Profession: Merchant 4 (wine), Music 2 (flute), Ride 2 (distance), Reyes’ Company Lore 2 (personalities), Teaching 1 (Profession: Merchant) Equipment: Merchant clothing Appearance: Reyes is a large man taken to eating and drinking to some excess. His face is round and ruddy and topped with thinning black hair. He dresses well and fully displays his wealth as is expected of a man of his standing.''
 ''* 	 City & Guild, pages 108 and 109''
 
-|]
+|}
 ''The missing section of the casting tablet is provided by the illumination of Conciatta in Currito’s journal. The characters now realize that the illumination shows Conciatta standing between the two pillars and that the Hermetic text that appears clearly written on the wall behind her was never added to the fresco. If it can be exposed, magi may use both the fresco and the book to complete the casting tablet and cast the spell. An Intelligence + Magic Theory stress roll against an Ease Factor of 9 is required to read between the lines and fill in the gaps caused by damage. A bonus of +1 is granted for each magus beyond the first who collaborates on the effort. The effort takes one day, plus one day for each point by which the roll missed the Ease Factor. On a botch, the magus believes he has completed the casting tablet, but the casting roll is automatically treated as 0 and the magus must roll for a botch with six additional botch dice. Rules for using casting tablets can be found in Covenants, page 89. Once the Dominion has been subsumed, the level one Magic aura becomes apparent and entering the higher regio much easier.''
 
 ===The Tower Revealed===
@@ -317,15 +309,15 @@
 
 ''Towards the top of the tower is Conciatta’s sanctum, the marker still clearly apparent upon the door. Characters making a Perception + Awareness roll against an Ease Factor of 6 hear the sound of movement within the chamber.''
 ''Opening the unlocked door, the visitors see a maelstrom of books, bottles, boxes, and other items floating and rotating in the air. Here and there is a flash of light, or a momentary illusion of some distant view or a face from the past. And in the middle of this flow of magic, working at a large orderly table, is Conciatta. Flustered, the spirit of Conciatta looks up. As she does so doors fling open and items dart towards the visitors, before she pulls them up sharp. The strain on her face is obvious. Conciatta is flustered and angry at the uninvited intrusion of others. With as much confidence and authority as she can manage, she commands the strangers to leave her sanctum at once, very nearly chasing them out. And then her mind races to sort through the implications. She waits for the strangers to make proper overtures in the proper manner, not simply intrude in her sanctum. In time, she will find a reason to conduct business with them calmly. Conciatta understands that she is dead. She suspects that her condition is the result of an extended Twilight event, likely Final, that has somehow become permanent. She suspects that there may be others like her, aligned to the other realms. She also recognizes that she is unable to learn anything new of any note, except perhaps what happens if her Final Twilight is allowed to complete.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Traversing the Regiones==
 
 ''As per the rules in ArM5, page 189, it is possible for a character to see from an aura of one realm into a regio of different realm. To enter the level 6 Magic regio directly from within the level 2 Dominion requires a Perception + Second Sight simple roll against an Ease Factor of 5 + (2 x (2 + 6)) = 21. The Dominion aura also directly''
 ''penalizes any non-Divine power used to detect the boundary. Once the ritual has been cast and the subsumed Magic aura has been made apparent, it is much easier to traverse the regiones, requiring a Perception + Second Sight simple roll against an Ease Factor of. 5 + (2 x (6 – 1)) = 15.''
 
-|]
+|}
 
 ===Conciatta’s Spells, Devices, and Laboratory Texts===
 
@@ -333,15 +325,11 @@
 ''of the same old device. However, Conciatta’s sanctum still contains a number of useful enchanted items and laboratory texts, each of which can provide a source of insight. Where noted, each laboratory text or device provides a bonus to the insight roll (as described in Ancient Magic, page 8) equal to the magnitude of the effect. Where a device is enchanted with more than one effect, only the highest level effect provides insight.''
 ''Subsume the Apparent Dominion ReVi 50 R: Touch, D: Year, T: Room, Ritual This spell allows a subsumed aura to manifest by temporarily suppressing an apparent Dominion aura of strength less than or equal to three. It has a Room Target and so produces a localized effect, ideal for mimicking a weak lacuna. If there are any other auras present, the strongest of these manifests. Casting this ritual creates a preternatural tether of level one and provides a +1''
 
-[|
-
 ==The Magical Conciatta==
 
 ''Magic Might: 30 Characteristics: Int +4, Per 0, Pre –1, Com +1, Str –1, Sta –1, Dex 0, Qik 0 Size: 0 Age: Appears in her late thirties Confidence: 1 (3) Virtues and Flaws: Magic Spirit; Hermetic Magus; Major Magical Focus (Auras), True Understanding of the Realms; Affinity with Magic Theory, Confluence of the Realms, Famous, Great Intelligence, Insight of the Realms, Inventive Genius, Puissant Magic Theory, Student of Infernal, Well-Traveled; Blatant Gift, The Constant Expression, Driven (Extend Hermetic Theory); Deleterious Circumstances (when not within a supernatural aura), Judged Unfairly, Study Requirement Qualities and Inferiorities: Focus Power (x3), Greater Power Personality Traits: Driven +3, Introverted +2, Scholar +3 (Essential Trait) Reputations: Bonisagus House Acclaim (Magi Bonisagi) 3 Soak: –1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Animal Handling 2 (owls),''
 ''Arabic 4 (poetry), Area Lore: Qadis 2 (ghostly personalities), Area Lore: Zaragoza 3 (lacunae), Area Lore: Narixa 2 (regiones), Area Lore: Toledo 2 (the convent), Artes Liberales 3 (ceremonial magic), Awareness 2 (spell effects), Aragonese 4 (poetry), Charm 2 (first impressions), Code of Hermes 1 (Bonisagus obligations), Concentration 3 (lab work), Dominion Lore 5 (divine places), Etiquette 2 (faeries), Faerie Lore 5 (ancient faeries), Finesse 2 (precision), Folk Ken 2 (magi), Infernal Lore 5+2 (regiones), Intrigue 1 (House Bonisagus), Latin 5 (Hermetic usage), Leadership 1 (laboratory work), La Torre no Vista Lore 3 (history), Magic Lore 5 (regiones), Magic Theory 15+2 (Vim), Order of Hermes Lore 2 (history), Parma Magica 2 (Vim), Penetration 2 (Vim), Philosophiae 3 (ceremonial magic), Teaching 3 (Magic Theory) Powers: Crafter of Vim, variable points, Init 0 minus Might points spent, Vim: Conciatta can spontaneously produce the effect of a Creo or Rego Vim spell of level 25 or less at a cost of 1 Might point per magnitude. (Focus Power) Eidolon, 0 points, Init 0, Imaginem:''
 ''Creates an illusionary form that can be both seen and heard. The body can be created and destroyed at will, though Conciatta always maintains this form. As the power in Realms of Power: Magic, page 102. (Focus Power) Ghost Touch, variable points, Init 0 – Might points spent, Terram: Moves objects that are neither held by another or fastened down. For 1 Might point, up to 5 pounds can be moved, and every additional Might point doubles the weight. This power is in constant use and is largely outside Conciatta’s control. Use of it often leaves her Might Pool drained. As the power in Realms of Power: Magic, page 102. (Greater Power) Master of Vim, variable points, Init 0 minus might points spent, Vim: Conciatta can change or destroy weak sources of magic that she is able to perceive, spontaneously producing the effect of a Muto or Perdo Vim spell of level 25 or less at a cost of 1 Might point per magnitude. (Focus Power) Appearance: Conciatta is two steps away from being presentable. Her long hair is tied up but struggling to be free. Her fingers are ink stained, as is her once-valuable gown.''
-
-|]
 ''yearly aura modifier, both as described in Realms of Power: Magic, page 10. This laboratory text is for a level 50 ritual but the effect is general. By re-creating the spell from this laboratory text, the maga accumulates 10 points towards researching Confluence of the Realms (see earlier). To do this, Conciatta’s own code must first be broken (ArM5, page 102), which requires at least a season working with the text to decode it. The only available casting tablet for this spell is the one written into the cellar fresco. (Base 15, +1 Touch, +4 Year, +2 Room)''
 ''The Sands of Time InVi 19 R: Touch, D: Sun, T: Individual This large three-chambered hourglass, standing one foot in height, indicates whether a Magic aura is waxing, waning, or is stable. If the aura is waning the sand flows through the hourglass into the lower chamber. If the aura is waxing the reverse is true and the sands run upwards. If the aura is essentially stable then the sands collect in the middle chamber. The only example left in the sanctum is broken, its glass chambers smashed and the sand blown away. However, the wooden frame survives and the device can be reforged by a skilled Verditius. (Base 2, +1 Touch, +2 Sun, +2 complex effect; +1 for 2/day, +3 triggered at sunrise/set) If the device were working it would provide a bonus of +3 to an insight roll. In its current state it provides no bonus but does provide 4 points towards integrating Insight of the Realms.''
 ''The Lodestone InVi 33 R: Touch, D: Sun, T: Individual This small palm-sized silver device contains a pointer beneath a glass lens. When exposed to a Magic aura the''
@@ -372,8 +360,8 @@
 ===The Spirit and the Vow===
 
 ''Conciatta’s spirit cannot be found at the convent in the same way that it can in the other three realms. Instead, Con''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Toledo and the Holy Orders==
 
@@ -384,7 +372,7 @@
 
 ''Having become friendly with a knight of Santiago on the road, the characters are invited to his castle to celebrate the occasion of his birthday. His wife has arranged food, wine, and entertainment from all across Iberia to be brought for the feast. But the dour priest, a member of the knight’s household and scornful of his excesses, may be right to refuse the celebrations. How long before the magi notice the debauched Infernal aura? Will they succumb to indulgence? And will they give the devil his victory or risk damaging the knight’s reputation?''
 
-|]
+|}
 ''ciatta persists in this place as a personality and as a series of ill-fitting memories. The spirit actually possesses one of the novices, Immaculada. Immaculada is cared for by the holy sisters as she is unable to care for herself; the power of Conciatta’s spirit that dwells within her is too strong. It overpowers her own personality and has left her unable to act on her own except for the apparently automatic writing and the speaking in tongues, either of which may attack at any time. Since Conciatta’s death, generations of novices have been possessed and carried the spirit of Conciatta within them. This has happened for so long that it is now seen as part of God’s miracle and knowledge of its magical origins has been all but lost. By the rules of the convent, no outsider is allowed to see the holy sister who carries the spirit. But those making a contribution to the convent may be permitted an audience with her so as to''
 ''hear what her visions might reveal for them (though this may not be what it first seems). A vow to protect the spirit has been passed from abbess to abbess for generations. It has become part of the duties of the convent and is a secret entrusted to the holy sisters.''
 
@@ -396,8 +384,8 @@
 ===an Audience With Immaculada===
 
 ''Money can convince Prudencia to allow an audience with Immaculada. She instructs the characters to return the following day so that she can prepare the girl. Upon their return, one character is shown into a chamber, which is divided by a curtain. The chamber is empty as far as the character can see, apart from a simple chair and candles to light the gloom. The curtain obscures the other''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Abbess Prudencia==
 
@@ -407,10 +395,10 @@
 ''* 	 Realms of Power: The Divine, page 93.''
 ''Abbess Prudencia gets bonus of +3 to resist lies, confusion, and subterfuge from her Clear Thinker Virtue and she has a Divine resistance of +10 from the relic of San Ildefonso she unknowingly wears (a cord from his robe wound into a belt passed from abbess to abbess). She is also attended by two novices who follow her and carry out her instructions.''
 
-|]
+|}
 ''side of the room, though there is clearly someone behind it. The character is accompanied by Prudencia and one of her attendants and she prompts the character to put his questions, receive his answers, and leave. The ritual is a sham. Immaculada is not behind the curtain. The other of Prudencia’s constant attendants plays the part of Immaculada and attempts to tell the character what she thinks they want to hear. She claims to see a great journey and great revelations along the way. She tells of adversaries and their slights, which may be endured through God’s grace. And lastly, she advises that actions must be both forceful and temperate in equal measure. These “visions” have served the convent well for years as their noble visitors usually interpret them any way they wish. If the audience is revealed as the charade that it is, Prudencia is far from apologetic; she is protecting both a vulnerable girl and a Divine Miracle. But at this point she will, by way of dem''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Automatic Writing==
 
@@ -422,12 +410,10 @@
 ''ReVi 30 Pen +16, 3/day R: Personal, D: Ring, T: Circle This enchanted circle sustains a target spell of level 15 or less cast within the circle. Importantly, in support of Conciatta’s research, this effect also works on the non-Hermetic magic of the Learned Magicians. The spell is canceled if the target of the spell''
 ''moves outside the circle or any other spell is cast within it. The laboratory notes describing this effect suggest that this is one of four effects to be enchanted into this Greater Enchanted Device. While this effect is aligned to the Magic realm, the others not only targeted effects of the other three realms but also the non-Hermetic effects of supernatural spirits. Astute readers will realize the implication that Infernal spirits must, at some point, have contributed to Conciatta’s research. The ring itself is described as a large iron construction, made in pieces and riveted with brass rivets to the floor, opened with 20 pawns of vis. (Base, +2 Ring, +1 Circle; +2 for 3/day, +8 Penetration)''
 
-|]
+|}
 ''onstration and because she thinks this is enough to get the strangers to leave, take them to Immaculada. The girl is in a room with no windows and only candles to illuminate it. Her fingers, face, and clothes are covered in the chalk she uses to write her visions down with. Her room is sparse and untidy with slates, parchment, and bedding strewn across the floor.''
 ''As the characters enter, the nonsense train of words begins to take shape. Here and there, sentences that make sense seem to form themselves: “I had many brothers and sisters but now I have but three and yet they leave me alone and hide themselves from my view though I know where they are even if they think I do not, for I remember where I went and I remember why I went and I remember''
 ''who I was, but I do not now know who I am, but Seiffeddin knows as he will remember me, do you know Seiffeddin? He is an actor, in Qadis. And he is still there they say, though I do not know who they might be who say such things for if he is still there he must be very old, but old as he is he knows where I went and perhaps he knows where I am. I should like to see my sisters again, I think that would be''
-
-[|
 
 ==Novice Immaculada==
 
@@ -443,8 +429,6 @@
 ''Grant (Visions), 0 points, Init 0, Vim: This power, used automatically when Conciatta possesses a target, grants the Visions Minor Story Flaw (ArM5, page 60) to the target. It is also through this power that Conciatta’s memories of her Hermetic work surface in the host. (Ritual Power) Grant (Enfeebled), 0 points, Init 0, Vim: This power, used automatically when Conciatta possesses a target, imposes the Enfeebled Major Flaw''
 ''(ArM5, page 53) on the target. (Ritual Power x2)''
 ''Beyond simply overlaying her host’s personality, Conciatta’s knowledges also operates just below the surface of the mind, beyond conscious control. A character choosing to carry the spirit of Conciatta within her does not have conscious access to that knowledge, but does suffer the effects of her Personality Traits. She also gains the protection of Conciatta’s Divine might.''
-
-|]
 ''fitting, do you not think so?” And so her racing words go on. She pauses now and then to write another word or two, first searching for the right slate or parchment to scribble upon.''
 
 ===Freeing Conciatta===
@@ -461,15 +445,11 @@
 
 ''The mouth of the Guadalquivir lies a day’s ride north of Qadis, a city still in Moorish hands. It is an ancient place with a history already thousands of years old, and some of that history does not rest easy. Qadis is built on a sand spit jutting out into the Atlantic ocean a little way to the north-west of the Pillars of Hercules. Its loose foundations do not support many tall buildings so the skyline is much lower than cities like Zaragoza''
 
-[|
-
 ==Seiffeddin the Actor==
 
 ''Magic Might: 10 (Mentem) Season: Autumn Characteristics: Int 0, Per 0, Pre +3, Com +1, Str 0, Sta 0, Dex 0, Qik 0 Size: 0 Age: Appears to be in his late fifties Confidence: 0 Virtues and Flaws: Magic Spirit; Gossip, Inspirational, Puissant Profession: Actor; Baneful Circumstances (exposed to sunlight), Noncombatant, Soft-Hearted Qualities and Inferiorities: Focus Power (x3) Personality Traits: Artistic +3, Brave –1, Paternal +2 Reputations: Gossip (Ghosts of Qadis) 1, Actor (Ghosts of Qadis) 3 Combat: Dodge: Init +0, Attack N/A, Defense +0, Damage N/A Soak: +0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)''
 ''Abilities: Arabic 5 (storytelling), Artes Liberales 3 (rhetoric), Awareness 2 (audience), Carouse 4 (with his audience), Charm 2 (being witty), Concentration 3 (recitals), Disguise 4 (masks), Dominion Lore 1 (Divine creatures), Etiquette 3 (Qadis ghosts), Faerie Lore 2 (places), Folk Ken 2 (the living), Greek 5 (storytelling), Guile 3 (subtle deceit), Infernal Lore 1 (undead), Intrigue 3 (the ghosts of Qadis), Latin 5 (ancient works), Magic Lore 4 (ghosts), Profession: Actor 5+2 (plays of many parts), Qadis Lore 5 (history), Teaching 4 (Profession: Actor) Powers: Crafter of Illusion, variable points, Init 0 minus Might points spent, Imaginem: Seiffeddin can create illusory props and sounds as the needs of his play dictate, spontaneously producing the effect of a Creo or Rego Imaginem spell of level 10 or less at a cost of one Might point per magnitude. His illusions are never''
 ''truly lifelike, designed instead to convey an idea or an emotion. (Focus Power) Eidolon, 0 points, Init 0, Imaginem: Creates an illusionary form that can be both seen and heard. The body can be created and destroyed at will. As the power in Realms of Power: Magic, page 102. (Focus Power) Master of Illusion, variable points, Init 0 minus might points spent, Imaginem: Seiffeddin can alter the appearance of anything he touches, spontaneously producing the effect of a Muto or Perdo Imaginem spell of level 10 or less at a cost of 1 Might point per magnitude. The effects are never lifelike and always appear as mundane props, scenery, or costumes would within a play. (Focus Power) Equipment: A long white toga and various ephemeral props and masks. Vis: Seiffeddin contains no vis. Appearance: Seiffeddin manifests as an aging man with the mobile features of a trained and experienced''
-
-|]
 ''and Toledo, but it is a busy port and the view across into the sea is filled with masts and sails from all corners of the world. Qadis has a relatively low Dominion aura, averaging at level 2, dropping to level 1 at night. The city is also filled with lacunae, not only Magic but also Faerie and Infernal. As the sun sets on Qadis, the city exchanges one population for another; the living give over their city to the dead. Ghosts from all through Qadis’s history wake and go about their business. Most are invisible to all but their own kind and many still haunt the places they knew while alive. The ghosts know and understand their existence, but having found that they persist, they face the fact and get on with the business of living, such as it is. There are perhaps a thousand''
 ''or more ghosts that haunt the streets of Qadis. These divide into factions based on their origin in life, including their nation, their former roles, and even the times that they lived in. Troupes may wish to play out stories against this otherworldly backdrop to support the gathering of information about the location of Tartessos. In any case, the presence of magi, especially foreigners, attracts the interest of the ghosts of Qadis. After several days in the city, the characters may begin to notice things at the edge of their vision. Second Sight rolls or suitable magic reveal ghosts watching them. These are likely to be loosely-formed specters with little intelligence or will of their own sent to spy on the strangers by more powerful masters.''
 ''Most flee if challenged. Once these first ghosts have been seen, the characters start to see other ghosts abroad at night. Storyguides may want to introduce a ghost at this point to act as a guide and ally in the strange nighttime world of Qadis. The ally can arrange introductions to other spirits and even point out places of power within the city. But any ally also has expectations of his new friends.''
@@ -477,8 +457,6 @@
 ===The Roman Theater===
 
 ''If they have visited the convent outside Toledo, the characters may have learned the name Seiffeddin and that he is an actor. There is an old Roman theater in the city and the Qadis living know of this but do not recognize the''
-
-[|
 
 ==Seiffeddin the Actor (cont’d)==
 
@@ -494,13 +472,9 @@
 
 ''PeIm (Vi) 30 Pen +0, 1/day R: Touch, D: Ring, T: Circle The magic in this set of fifteen slate tablets, laced together with leather cords and each carved with a magi''
 ''cal symbol, is activated when they are arranged in a circle around the caster. The alignment of the tablets is important, so laying out the stones takes three rounds. All sights, sounds, and other sensations crossing into the circle are dulled unless they are created by a Magicaligned source. The effect is to allow the caster within the circle to better ignore distractions arising from sources not aligned with the Magic realm. Sensations are not destroyed completely and the caster may attune herself to them simply by concentrating. The magic on its own provides a +1 bonus to Concentration rolls to activities that are entirely contained within the circle. When used as props in ceremonial casting the circle of stones provides a +3 ceremonial casting bonus. Recreating this effect gives six points towards integrating Insight of the Realms. (Base 10, +1 Touch, +2 Ring, +1 requisite)''
-
-|]
 ''name Seiffeddin. The Qadis dead know of both. The theater itself is a sunken semicircular pit lined with chipped and broken marble steps. None of the other accoutrements of a theater remain and it''
 ''has clearly been disused for centuries. It is probably only because of the stories of its haunting that it has not been built over. Seiffeddin is the only ghost who haunts the theater, though the other''
 ''Qadis dead visit often to watch performances, less out of enjoyment of his art and more through the constraints of their unearthly roles. The actor is nervous of strangers, having been killed by one in life, but is welcoming once reas''
-
-[|
 
 ==Habib al-Hadi==
 
@@ -517,8 +491,6 @@
 ===Unveil the Subsumed (Realm)===
 
 ''InVi 54 Constant Effect R: Personal, D: Sun, T: Vision Each lens can be used to see through the apparent aura into the subsumed aura of the appropriate type, if such an aura is present. The image seen by looking through the lens shows the world as it would look if that aura were dominant. So a subsumed Infernal aura shows the potential for unnerving shadows, while a Magic aura may appear somewhat cleaner or more regular. Although subsumed auras of any level can be detected, the enchantment is only strong enough to penetrate a level 3 apparent aura. Only the lowest level of each subsumed aura type is detected, so regiones cannot be directly perceived using this device. (Base 20, +2 Sun, +4 Vision; +1 for two uses per day, +3 triggered at sunrise and sunset) Recreating this device provides 11 points towards integrating Confluence of the Realms.''
-
-|]
 ''sured. He remembers Conciatta and her quest for Tartessos. He describes how he spent time teaching Conciatta some of the signs of portents of things both Faerie and Magic, an offer he makes to the visiting magi. He claims that Conciatta and Currito visited him over the course of a year and that under his instruction they created a set of stones that added great power to their magic. The actor can describe how to get to Tartessos but warns that it can only be accessed on one night of the year; the anniversary of the city’s loss. Depending on what stories the storyguide would like to tell in Qadis, the important night can be relatively sooner or later. Seiffeddin instructs the characters to seek out Bruja, a crone who lives out on the marsh, as she knows the way into the city.''
 
 ===Habib Al-hadi the Astrologer===
@@ -533,15 +505,15 @@
 
 ''The area of the marsh where the city once stood has a low Faerie aura of 2, but some sections of the old city walls manifest themselves within Faerie regiones. Realms of Power: Faerie, page 16, has''
 ''more information on Faerie regiones. One particular regio (of level 5) contains what’s left of the city gates; two brokendown pillars and great shards of rotted wood rising out of the marsh. This is the way into the city. But the characters may need a guide, first to find this regio and second to help them cross the Threshold into the Faerie Realm. Assuming the characters spoke to Seiffeddin and were told to look for Bruja, they should be looking for her torch out in the marsh. Storyguides may wish to consider that there are other faeries in the marsh that lure the unwary to their doom (Realms of Power: Faerie, page 92). On finding Bruja, combing the marsh for frogs and other slimy things, she is willing to help on condition that she is given a creature or a herb that cannot be found in her marsh. If this is given, she takes the characters to the city gates. If using Realms of Power: Faerie, a Threshold Total (page 20) should be calculated. The Threshold Strength here is 24. Assuming that the charac''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Ghosts of Qadis==
 
 ''The ghosts have a hierarchy within themselves based on their recollection of their mortal life. This matches the list of ghostly types from Realms of Power: Magic, page 115. Apparitions in Qadis are at the top of the hierarchy. They are generally not so concerned with being laid to rest as they are with protecting their interests, their descendants, and their city. At the other end of the scale, specters with little will of their own are used as tools by the lucid apparitions. There is also a new phenomenon; faeries. Those who die in the city now are usually accorded proper burial rites, which prevents their ghosts from dwelling on Earth. But faeries have been attracted to the city for the last several hundred years and they have taken on the roles of the more''
 ''recently dead. The faeries are completely immersed in their new roles and see themselves simply as ghosts, indistinguishable in all ways except the nature of their Might. They feed their need for vitality by making their presence known to the living and subtly influencing their lives. Demons too take on the forms of the dead, though their aims are usually to corrupt the living. As much as they can, the Magic and Faerie ghosts protect the city from their demonic counterparts, but the fight is hard. From time to time workers of spirit magic come to Qadis eager to find powerful new servants. Those who are allowed to leave do so disappointed. The ghosts do not tolerate attempts to control them and unite against those who try.''
 
-|]
+|}
 ''ters have come out on the night of the sinking of Tartessos, they already have a Threshold Total of 15 (6 for the city gates + 9 for the anniversary). Bruja will prompt the characters to show their willingness to visit Tartessos. This is essentially the moment when the other factors, such as personal Thresholds, artistic endeavors, and Arcadian Mysteries are taken into account. If the Threshold Total is still not enough, Bruja will brew a particularly unpleasant potion (likely in the form of a live frog that must be swallowed whole) that will impart her Spirit Away power. Bruja does not have a store of potions as such and must expend her Might to brew a new dose. But the action of “brewing” can be anything that best fits the scene, such as taking the character back to her shack to use her cauldron, or having the characters help her to find a particular ingredient. If the Realms of Power: Faerie supplement is not being used, it is safe to assume that''
 ''Bruja has enough power to guide the characters through into the Faerie Realm, though frogs are still involved. With the Threshold drawn to the characters, the road to the city becomes clear through the gates. Bruja also serves as the guardian of the road in this story and so must offer the character the choice between kingdoms of silver and gold or a kingdom of loss and despair. In this case, Tartessos is the kingdom of loss and so is the right choice. If the characters choose otherwise, the road ahead disappears and Bruja directs the characters back to Qadis. Bruja will not accompany the characters on their journey into Tartessos, but will meet with them again when they are ready to leave. The sky above the city is filled with flashes of lightning that trail rolling thunder behind them. Ruins lie all about and the weeping and pleading of an unseen dying populace can be heard all around. The city is in a state of per''
 ''petual desolation. For every brick that falls, there is another yet to fall. This is the city’s role: that of the lost city. And in the center of the ruins stands the shell of a once-great palace.''
@@ -559,21 +531,15 @@
 ''The palace is a skeleton of pillars and broken arches from which dust and rubble occasionally tumble. The steps''
 ''lead up into the grand throne room and there, upon a raised dais, is the despondent form of Arganthonios, the Silver King, ruler of Tartessos. Seated beside him, her hand comforting his, is Conciatta. Arganthonios is a bearded and crowned man formed from fluid silver. His features are classical and his body muscular, like some great oversized Greek statue. Conciatta appears human and as she was in her younger days,''
 
-[|
-
 ==Bruja, the Marsh Witch==
 
 ''Faerie Might: 15 (Corpus) Characteristics: Int +1, Per +1, Pre –3, Com 0, Str +1, Sta +2, Dex +3, Qik +1 Size: 0 Virtues and Flaws: Focus Power x2, Greater Power; Faerie Sight, Faerie Speech, Lesser Power, Humanoid Form; Incognizant Personality Traits: Irascible +3, Stubborn +2 Combat: Claws: Init +6, Attack +7, Defense +7, Damage +3 Soak: +2 Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Pretenses: Awareness 3 (gifts), Bargain 6 (riches), Brawl 1 (claws), Brew Potion 4 (healing), Chirurgy 4 (treating poisons), Faerie Speech 5 (threats), Folk Ken 5 (seeing the evil of men), Marsh Lore 3 (geography) Powers: Spirit Away: variable points, Init (magnitude/2), Vim: By brewing a potion, Bruja can add Threshold Points to a character’s Threshold Total at the cost of 1 Might Point per Threshold Point. The character must already have a Threshold Total and the Crone cannot contribute all the points needed''
 ''to send the character into Faerie. The potion can take any form as described below. (Greater Power) The Malicious Brew: variable points (magnitude), Init –8, Corpus: Bruja uses this power to brew any Perdo Corpus effect with an Individual target up to 9th magnitude into a potion. The effects of the poison, whatever they may be, are not immediate but increase towards a significant moment (such as sunset, or the full moon, or as the cock crows), giving the target or his friends time to find a cure. While the effect is supernatural, an Intelligence + Medicine simple roll against an Ease Factor of 9 identifies how long the target has. Bruja regains the Might spent on this power at the end of the effect’s duration. (Focus Power) The Merciful Brew: variable points (magnitude), Init –9, Corpus: Bruja uses this power to brew a healing potion. The effect is as the standard Purification of the Festering Wounds spell but with a duration of “Season” rather than Moon. This allows the potion to benefit those recovering from heavy wounds. Bruja regains the Might spent on this power at the end of the effect’s duration. This potion is also able to instantly relieve the effects of a''
 ''Malicious Brew, as described nearby. (Lesser Power) Vis: 3 pawns Aquam in her legs. Appearance: Bruja is hunched with craggy wrinkled features. She wears a large-sleeved cloak of green that drags behind her and has plants growing within its threadbare warp and weft. She carries a satchel into which she drops the things she finds. But while Bruja looks human at first sight, her oversized lower legs are like those of a wading bird. These legs help her move effortlessly through the marsh.''
 ''Bruja apparently roams the marshes looking for herbs, roots, and small creatures that she can use to ferment her noxious potions. Her powers are transmitted through these potions, poultices, possets, bandages, or any other shape or material that seems fitting at the time. Bruja’s healing potions frequently take the form of marsh leeches or unpleasant concoctions of animal parts and marsh water. While her Might is expended at the time of brewing, the potion can be carried away and is not activated until applied to the target in the appropriate manner. Her potions are usually brewed with a given person in mind, whether present or not, and so do not cause Warping.''
-
-|]
 ''though dressed in classical garments and arrayed with silver and jewels. While the silver giant sits detached and brooding, Conciatta angrily demands explanation for their presence in her husband’s kingdom and commands them to show deference to her king. Any mention of Conciatta’s earthly life, her studies, or the spirits the characters now seek elicits scorn from her. That world, she explains, is lost to her and means less than the dust upon her sandals to her. The concerns of magi and the Order have been taken away from her.''
 ''But soon enough Arganthonios breaks his malaise and speaks. His voice low and smooth, filled with calm authority, he explains that the woman next to him is not truly Conciatta. The spirit the characters seek faded a century ago, turned instead to glamour; a true inhabitant of the Faerie Realm. He further explains that she returned to him centuries ago to fulfill her side of a bargain: to rule at his side in exchange for knowledge of the Faerie realm. But her heart pined away for what she had lost and soon she died a second death. The faerie Conciatta does not react in''
 ''any way to this, as though she did not hear or did not understand his meaning. But Arganthonios bears a great sorrow. The bargain he made with Conciatta, to teach her and help her learn the secrets of Faerie places, was at the cost of renouncing her love for Currito. And though it would mean that he would suffer yet further loss himself, he offers the characters a choice of their own. If they reunite this remnant of Conciatta with Currito’s love, then he will release her from his service and return her to the world of men. If it is clear to the storyguide that''
-
-[|
 
 ==Arganthonios==
 
@@ -581,8 +547,6 @@
 ''spear), Intrigue 4 (spies), Leadership 5 (intimidation), Penetration 5 (Mentem), Tartessos Lore 5 (past glories) Powers: Binding Oath, 10 points, Init –22, Vim: This power enforces the power of a solemnly-sworn oath or contract between two or more parties. All parties must agree to the oath of their own free will, and the power must penetrate the Magic Resistance of all parties to take effect. If one participant attempts to act in direct contravention to the oath, the other participants are immediately aware of this. Humans who attempt to break their oaths are given a warning in the form of seeing Arganthonios in every reflective surface they chance upon. If the character disregards this warning, he is struck blind (as per the Flaw).  The blindness can be removed by powers that destroy mystical effects. The character may also end the Flaw by fulfilling the conditions of the oath, swearing a new oath with the wronged faerie, or destroying all of the oath’s other participants. Faeries cannot break''
 ''their oaths, although some roles allow them to seek loopholes and alternative interpretations. Special, No Hermetic equivalent (R: Touch, D: Mom, T: Group, Ritual) Equipment: Silver crown of laurel leaves, too large for a mortal head. The crown is the manifestation of his External Vis virtue and bestows both the Puissant Leadership virtue and the Reclusive flaw upon its wearer. A great spear with a silver shaft, an ivory head, and binding strung with peacock feathers. Vis: 7 pawns (Mentem) in the crown he wears. Appearance: A huge muscular man over eight feet tall whose body and beard seem to made of shining fluid silver. His brow is heavy and furrowed beneath the silver crown he wears.''
 ''Arganthonios is alone with the exception of his loyal queen. But it is his nature to endure loss and so he willingly frees her from any obligation to stay. Note that Arganthonios is Incognizant in that despite his understanding of and connection with the Faerie Realm, he cannot seek to change or improve his role.''
-
-|]
 ''the players are not able to meet this challenge on this visit (perhaps they have an idea but need to prepare, or simply need to return to the mundane world to plan), then Arganthonios will grant them leave to return. At this, Bruja appears and the King commands her to grant them safe passage when next they seek the lost city. However, if the characters can remind Conciatta of the love she and Currito shared, the King’s hold over her is broken and she is released. Though still faerie in nature, she now understands that her role is to be reunited with her sisters.''
 
 ===Leaving Faerie===
@@ -593,16 +557,12 @@
 
 ''The last of the four fractured spirits can be found deep within a cave system surrounding the Mediterranean town of Narixa on the Al Andalus coast. Narixa is surrounded by a low mountain range, parts of which house an Infernal hive of corrupted beasts, jinn, and demons. The caves stretch out beneath the mountains and up into many interconnected Infernal regiones making it a certainty that the unprepared will become lost forever.''
 
-[|
-
 ==The Faerie Conciatta==
 
 ''Faerie Might: 5 Characteristics: Int +4, Per 0, Pre –1, Com +1, Str –1, Sta –1, Dex 0, Qik 0 Size: 0 Age: Appears in her late thirties Confidence: 1 (3) Virtues and Flaws: Humanoid Faerie; Ritual Power (x2); Sovereign Ward (cannot leave Tartessos); Incognizant Qualities and Inferiorities: Focus Power (x3), Greater Power Personality Traits: Protective of Arganthonios +3, Regretful +2, Sorrowful +2 Reputations: Bonisagus House Acclaim (Magi Bonisagi) 3 Soak: –1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Pretenses: Animal Handling 2 (owls), Arabic 4 (poetry), Area Lore: Qadis 2 (ghostly personalities), Area Lore: Zaragoza 3 (lacunae), Area Lore: Narixa 2 (regiones), Area''
 ''Lore: Toledo 2 (the convent), Artes Liberales 3 (ceremonial magic), Awareness 2 (spell effects), Aragonese 4 (poetry), Charm 2 (first impressions), Code of Hermes 1 (Bonisagus obligations), Concentration 3 (lab work), Dominion Lore 5 (divine places), Etiquette 2 (faeries), Faerie Lore 5 (ancient faeries), Finesse 2 (precision), Folk Ken 2 (magi), Infernal Lore 5+2 (regiones), Intrigue 1 (House Bonisagus), Latin 5 (Hermetic usage), Leadership 1 (laboratory work), La Torre no Vista Lore 3 (history), Magic Lore 5 (regiones), Magic Theory 15+2 (Vim), Order of Hermes Lore 2 (history), Parma Magica 2 (Vim), Penetration 2 (Vim), Philosophiae 3 (ceremonial magic), Teaching 3 (Magic Theory) Powers: Grant (Insight of the Realms): 5 points, Init –10, Vim: This power temporarily blesses the target with the Insight of the Realms Virtue. Conciatta only recovers Might Points spent on this power when its effects are withdrawn, which''
 ''she may do at any time simply by choosing to. Until the Might Points are returned to Conciatta, she effectively does not exist and is only able to interact with the world through withdrawing her gift from its bearer. Special, No Hermetic equivalent (R: Touch, D: Mom, T: Ind, Ritual) Appearance: Regally dressed in a tunic and a cloak that drapes down from her left shoulder.''
 ''This faerie believes herself to be Conciatta and believes that she has deep knowledge of Hermetic Theory, hence the Abilities that Conciatta’s other spirits have are instead Pretenses for this faerie. But she also believes that she has sworn away her magic and she cannot now be made to use her former powers. She cannot accept the truth of her condition as she does not possess the cognizance to break this part of her role. Her Sovereign Ward against leaving Tartessos is imposed by Arganthonios. It is lifted when his bargain is accepted and fulfilled.''
-
-|]
 
 ==Narixa==
 
@@ -625,8 +585,8 @@
 ==The Caves==
 
 ''The caves are ancient and contain deep fissures and domed chambers all interconnected by mundane tunnels and a network of regiones. Most regiones are linear in that they emanate from a single''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Imam Hamid ibn Harun==
 
@@ -635,7 +595,7 @@
 ''Profession: Librarian 5 (forgotten scrolls), Music 3 (calling to prayer), Narixa Lore 4 (legends), Philosophiae 4 (metaphysics), Teaching 4 (theology, Islamic), Theology: Islam 6 (prophets)* Equipment: imam robes Appearance: Hamid is a small, aging man with a gray beard, eyes narrowed through squinting, and a toothless smile. His turban and robes seem to attract the dust, something his library has plenty of.''
 ''* 	 Realms of Power: The Divine''
 
-|]
+|}
 ''point and tend to localize on that point while growing in strength. The Narixa regiones, however, bleed into each other just as cave tunnels do. The caves are home to swarms of mice, scorpions, and snakes, as well as packs of hyena whose laughter can be heard echoing off the walls from somewhere deep inside. Here and there, human bones jut painfully from the walls, victims caught between a regio and the mundane world. The caves are covered by a level 3 Malevolent Infernal aura and filled with Tartaran regiones (Realms of Power: The Infernal, pages 15 and 16).''
 
 ===Navigating the Caves===
@@ -643,8 +603,6 @@
 ''All terrain in the cave system is treated as hazardous and adds an extra botch die to any physical actions taken. Space is confined and large weapons suffer a –2 penalty to attack and defense. All the while, the floors and walls crawl with scurrying or skittering things. The storyguide should introduce three key events to tell the story of the characters finding their way through the caves to the throne room; these should test the physical and magical skills of''
 ''the characters. Storyguides may want to use the following examples:''
 ''•	 A sheer face that needs to be climbed, either up or down. Magic can overcome this obstacle or a lead player character can take the physical option. If he can make three progressively more difficult climb rolls (6, 9, 12, for instance), he makes it down the face and can secure ropes allowing others to follow. Failing a roll means the character starts to fall with an initiative of 6, which magi may attempt to fast''
-
-[|
 
 ==Conciatta’s Scrolls==
 
@@ -659,12 +617,10 @@
 ''(Base 2, +2 Sun, +2 affect metal; +1 for 2/day, +3 triggered by sunrise/set)''
 ''Note These Landmarks ReTe 14 Pen +0, Unlimited Use R: Personal, D: Momentary, T: Individual At the wielder’s verbal command, the stylus scribes markings onto the wax tablet that describe distances and landmarks sufficient to make the map of the regio boundary navigable. The stylus understands a set of Latin words, primarily numbers and distances, such as “twenty paces” or “thirteen feet”, and landscape features, such as “tree” or “door” and is able to form symbols to match. This effect can be used while the stylus is inscribing a regio boundary without damaging the map. (Base 2, +2 affect metal; +10 for unlimited use)''
 ''The stylus must be successfully investigated in the laboratory, which then provides a source of insight. Recreating the stylus grants 5 points towards integrating Insight of the Realms.''
-
-|]
 ''cast against in order to save him. A botch in these caves may be lethal. He either falls to his death, is spectacularly rescued by player actions,''
 ''or is sucked into a regio. If the later, the characters may be able to find him by making an Area Lore: Narixa Caves stress roll against Ease Factor 12. •	 The second is a rock fall within the caves. As the rock fall starts, have the players roll for initiative. Those beating 6 may react before the collapse. This is also the target for fastcast spells. Characters caught in the collapse count as being inside a collapsing stone building, as per ArM5, page 181. •	 The third involves a combat against a group of hyena. They attempt an ambush (Perception + Awareness simple roll against the Hyena stealth roll) and pull one of the party into a nearby regio. If they manage to grapple a character they start to drag him away. The group splits with two hyena grappling and dragging and three defending the group, preventing the party from reaching their comrade. If after four combat rounds the party have not regained their comrade''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Hyena==
 
@@ -673,7 +629,7 @@
 ''points cost to zero and to increase the initiative. Appearance: Powerful shoulders with a sloping back and shorter rear legs give the hyena a cowardly appearance. But on the hunt, the Narixa hyenas are far from cowardly. They relish the fear of their prey, as can be seen from their smile. Their eyes gleam yellow in the darkness.''
 ''The Narixa hyenas roam the cave system and are able to see through the regio levels. They leave the caves to hunt, being more like wolves in this respect than natural hyena. Their pack animal nature allows them to fight as a trained group; treat their Hyena personality trait as a score in Leadership.''
 
-|]
+|}
 ''he is taken into the regio and from there deeper into the network. If the character is a grog, he is dead. Any other character must have a chance to survive. If he can fight off the two hyenas, he can flee the regio and rejoin his party.''
 
 ==Conciatta’s Army==
@@ -681,15 +637,11 @@
 ''Once through the labyrinth the characters find the throne room. This huge domed chamber sits within a level 5 Tartaran regio. The uneven floor is streaked with cracks and chasms and swarms of''
 ''scorpions and packs of hyena move to surround the characters. The walls run with flame and the heat is unbearable. At the far end of the chamber, atop a set of craggy stone steps that sweep up and out over a wide fiery chasm, sits Conciatta on a throne of writhing serpents.''
 
-[|
-
 ==The Infernal Conciatta==
 
 ''Infernal Might: 30 Characteristics: Int +4, Per 0, Pre –1, Com +1, Str –1, Sta –1, Dex 0, Qik 0 Size: 0 Age: Appears in her late thirties Confidence: 1 (3) Virtues and Flaws: Magic Spirit; Hermetic Magus; Major Magical Focus (Auras), True Understanding of the Realms; Affinity with Magic Theory, Confluence of the Realms, Famous, Great Intelligence, Insight of the Realms, Inventive Genius, Puissant Magic Theory, Student of Infernal, Well-Traveled; Blatant Gift, The Constant Expression, Driven (Extend Hermetic Theory); Deleterious Circumstances (when not within a supernatural aura), Judged Unfairly, Study Requirement Qualities and Inferiorities: Focus Power, Greater Power Personality Traits: Corrupted +2, Hateful +2, Scholar +3 Reputations: Bonisagus House Acclaim (Magi Bonisagi) 3 Soak: –1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Animal Handling 2 (owls), Arabic 4 (poetry), Area Lore: Qadis 2 (ghostly personalities), Area Lore: Zaragoza 3 (lacunae), Area Lore: Narixa 2 (regiones), Area Lore: Toledo 2 (the convent), Artes Liberales 3 (ceremonial magic),''
 ''Awareness 2 (spell effects), Aragonese 4 (poetry), Charm 2 (first impressions), Code of Hermes 1 (Bonisagus obligations), Concentration 3 (lab work), Dominion Lore 5 (divine places), Etiquette 2 (faeries), Faerie Lore 5 (ancient faeries), Finesse 2 (precision), Folk Ken 2 (magi), Infernal Lore 5+2 (regiones), Intrigue 1 (House Bonisagus), Latin 5 (Hermetic usage), Leadership 1 (laboratory work), La Torre no Vista Lore 3 (history), Magic Lore 5 (regiones), Magic Theory 15+2 (Vim), Order of Hermes Lore 2 (history), Parma Magica 2 (Vim), Penetration 2 (Vim), Philosophiae 3 (ceremonial magic), Teaching 3 (Magic Theory) Powers: Crafter of Vim, variable points, Init 0 minus Might points spent, Vim: Conciatta can spontaneously produce the effect of a Creo or Rego Vim spell of level 25 or less at a cost of 1 Might point per magnitude. (Focus Power) Eidolon, 0 points, Init 0, Imaginem: Creates an illusionary form that can be both seen and heard. The body can be created and destroyed at will, though Conciatta always maintains this form. As the power in Realms of Power: Magic, page 102. (Focus Power) Ghost Touch, variable points, Init 0 – Might points spent, Terram: Moves objects that are neither held by another or fastened down. For 1 Might point, up to 5 pounds can''
 ''be moved, and every additional Might point doubles the weight. This power is in constant use and is largely outside Conciatta’s control. Use of it often leaves her Might Pool drained. As the power in Realms of Power: Magic, page 102. (Greater Power) Master of Vim, variable points, Init 0 minus might points spent, Vim: Conciatta can change or destroy weak sources of magic that she is able to perceive, spontaneously producing the effect of a Muto or Perdo Vim spell of level 25 or less at a cost of 1 Might point per magnitude. (Focus Power) Additional Powers: Hell’s Onslaught, 0 points, Init +1, Ignem: As the Hermetic Spell Pilum of Fire, this power does +15 damage to the target. Excess levels have been used to reduce the Might cost, increase the initiative, and master the power allowing Conciatta to loose two bolts of fire together. (Greater Power) Master of Stone, variable points, Init 0 minus might points spent, Terram: Conciatta can spontaneously produce the effect of a Muto or Perdo Terram spell of level 25 or less at a cost of 1 Might point per magnitude. (Focus Power) Appearance: Her skin is luminescent, as though a raging fire boils just inside, and her hair is smoke that strays this way and that. Yet, for all that, she is alluring and beautiful, accentuated by her near-nakedness.''
-
-|]
 ''Conciatta, cruel and hate-filled, mockingly congratulates the strangers for finding her. But she warns them that she is beyond the petty rules and laws of the Order now. If the host carrying the divine aspect of Conciatta is present, the witch offers a simple bargain: one life to be given to her, and the others allowed to leave. She will not keep her word; she is merely offering temptation. Soon enough she tires of the intrusion and motions her army to attack.''
 
 ===Fighting the Infernal===
@@ -701,8 +653,8 @@
 ===Binding Conciatta===
 
 ''Conciatta will not willingly surrender and is prepared to fight to the death. Her high Might Score means that binding her through wards is a difficult prospect. There is no easy answer to capturing and binding Conciatta and troupes are encouraged to be creative. But there are some options:''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Scorpion Swarm==
 
@@ -716,7 +668,7 @@
 ''swarm of creatures has the power to overwhelm defenders. Apply the following rules:''
 ''•	 Swarms ignore defenders and can always reach their intended target. •	 Swarms may attack a number of targets equal to the swarm’s size each round. •	 At the storyguide’s discretion, Swarms may have an immunity or resistance to regular weapons; a blade passes harmlessly through a swarm of locusts, for instance. •	 Being made up of many smaller individuals, a swarm is hard to destroy. Unless a swarm is destroyed outright, it can disengage and return at full strength after a number of rounds equal to its single highest wound penalty.''
 
-|]
+|}
 ''•	 Holy relics affect Conciatta as she is a demon. •	 Reducing her Might through Perdo Vim magic will allow her to be bound more easily. •	 As a being of fire and heat, intense cold will cause her harm and may force her to submit.''
 
 ==The Return==
@@ -739,11 +691,14 @@
 ==Aftermath==
 
 ''Despite years of study, Conciatta failed to take her research to its logical conclusion. While a magus may invent spells to affect the four realms, he still needs separate effects for each realm. But Hermetic magic theory may support a further breakthrough. Conciatta’s aim was to remove the distinction between the realms. Her later studies went some way to achieving this, culminating with the True Understanding of the Realms. But the next stage is to allow Vim spells to affect each realm without re-invention. As it fundamentally changes the nature of Hermetic magic, this is an Hermetic Breakthrough. But possession of Conciatta’s Virtues lays the groundwork and, with troupe approval, reduces this level of integration to a Major Breakthrough. In addition, with a further Major Breakthrough, each of Conciatta’s breakthroughs can be fully integrated with Hermetic Magic Theory, allowing all magi studying from the appropriate sources to leverage their Realm Lore to empower their magic. The magus who brings Conciatta’s secrets back to the Order will see his name forever linked with Conciatta’s, but a magus who can take those breakthroughs further will be famous on his own account.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Bonisagus House Acclaim==
 
 ''As per Houses of Hermes: True Lineages, page 21, rediscovering Conciatta’s Minor Virtues awards 15 acclaim points each, while the True Understanding of the Realms Virtue is worth 30.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

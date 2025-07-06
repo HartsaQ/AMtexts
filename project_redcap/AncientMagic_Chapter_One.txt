@@ -16,8 +16,8 @@
 
 =The Language of Adam=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''acter with Adamic 5 would have a total Penetration multiplier of +5, since because he is fluent in the language, he always has a lasting Arcane Connection to his target.''
 ''Whenever a character fluent in Adamic names something for the first time, such as a newborn baby, a piece of art, or a newly discovered land, the name he gives it subtly influences its destiny, causing its true nature to change and conform to his image of it. This birthright is something the storyguide should eventually integrate into the story in a subtle way that makes the name meaningful, as if it were a divine prophecy or an inheritance of some sort. Aside from choosing the concept associated with the name, however, the character has no direct control over this effect;''
 ''this capability is simply to allow the player to use his character’s powers to help create new stories.''
@@ -36,7 +36,7 @@
 ==Story Hook: The Language of Innocence==
 
 
-|]
+|}
 ''A second method is to seek out the Garden of Eden, the idyllic and timeless place that was the origin of humanity and from which Adam and Eve were exiled forever. The inhabitants of the garden may still speak the original language, and a character who can find his way there may be able to learn to speak it from them. Tracking down this place requires that the characters travel to Mesopotamia, seeking out the place where four mighty rivers once converged, and somehow convincing the angelic guardians to let them pass.''
 ''Finally, there is one being remaining on earth who lived before the fragmenting of the language and who thus still speaks Adamic: Cain, the firstborn son of Adam, who killed his brother and whom God cursed, giving him a mark that signified his crime and doomed him to wander forever. The third method of learning Adamic is to find Cain and convince, trick, or force him into teaching the characters the lost language of his father.''
 
@@ -57,8 +57,8 @@
 ''When the people of ancient Babylon scattered, some of them went west into Israel, some went south into Egypt, and some went north into the mountains of the Caucasus, while others went east and eventually north and west into Europe. This created four different groups of original languages, each with its own distinct structure and vocabulary. These were Semitic, named after Noah’s son Shem, from which Hebrew, Aramaic, and Arabic developed; Hamitic, named after Noah’s son Ham, from which Egyptian and Coptic have descended; Scythian, related to the languages spoken by the people who lived in the area between the Black and Caspian seas, descended from Noah’s son Japheth, and from which developed the languages of Slavic, Baltic, and Persian; and a fourth language, the language of the nomadic people who traveled around the Caspian Sea into the far north and eventually settled all of Europe, who were the ultimate origin of Greek, Latin, and the Germanic languages. This fourth language has never had a name, but it might be called Cainite after Cain, thought by some to be the ultimate father of these nomadic people.''
 ''To discover the Adamic language through research, the character must first become fluent in two of these four ancient languages via linguistic research (see the sidebar), and then develop those two languages to reconstruct the original language they have in common. For most characters, these two languages are likely to be Semitic and Cainite, as it is relatively easy for a character in Mythic Europe to learn Hebrew, Arabic, Latin, and Greek, since there are a great many excellent texts and teachers available.''
 ''Before he can research Adamic, however, the character must also become more familiar with ancient Mesopotamia, to gain the required''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Area Lore score of 5 that is necessary to develop his linguistic research, and this probably necessitates a journey to the Levant, since apart from brief mentions in a few tractatus by Roman historians, there have been very few books written on the subject.''
 
 ==Seeking Lost Babylon==
@@ -77,7 +77,7 @@
 ==Linguistic Research==
 
 
-|]
+|}
 ''it is now, and Babylon lies on the plain directly in the path of one of these, which splits from the Euphrates approximately 20 miles northwest. Careful exploration within the region reveals the paths of at least four different rivers throughout the lands between the Tigris and Euphrates. Closer to the Persian Gulf, where the two rivers join and meet the sea, there is evidence that thousands of years ago the shore was about 100 miles northwest of its present position, perhaps because of a rise in water levels subsequent to the Great Flood.''
 ''Strange pictures of a manystepped tower may be discovered on the artifacts unearthed throughout the region, including clay tablets, stone cylinders with sunken writing used to officially seal documents, kudurrus or stone blocks ornamented with reliefs and inscriptions, amulets, bas-reliefs, and jars. The Tower of Babel is shown''
 ''as a great ziggurat that is usually depicted as sacred, often with a sun shining down at the very summit, perhaps indicating that the top of the tower would have surpassed the heavenly spheres. Magi may discover that many of these ancient artifacts contain a pawn or more of Terram vis, if the inscriptions remain readable and the objects have not been disturbed.''
@@ -173,8 +173,8 @@
 ''p''
 ''hrates R''
 ''.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''descendants of Adam and Eve, in accordance with God’s wishes, but when God observed that they did not have compassion for humankind, he gave them human emotions and sent them to earth to be tempted as people are. Both angels sinned, and as penance they were given the choice of punishment in this life or the next. They chose the former, and so they hang there until the end of the world.''
 ''Rubble and bricks supposedly cover the great rock that blocks the entrance to the pit. It is said that one man once managed to gain entrance, by digging around the edges. He had been warned by his guide not to speak the name of God in the area, but upon beholding the greatness of the two angels he could not help himself, and Harut and Marut became so agitated that they almost broke their chains. The man and his guide fled and never returned again.''
 ''In fact, the pit and the two angels are hidden within an Infernal regio of level 3. At the top of the well, there is a level of the regio with an Infernal aura of 1, where the well was once sealed. Although the stone has been broken, at this level the pit only contains thousands of scorpions. On the mundane level, there is only a thick slab of stone, nine by nine paces across, beneath the rubble, and the entire city has a faint Magical aura of 1.''
@@ -268,7 +268,7 @@
 ==Mongolian Bow, Continued==
 
 
-|]
+|}
 ''the attack caught the shah and his troops completely by surprise, and soon all of Persia was in utter chaos.''
 ''It is said that the caliph of Baghdad, who was hostile to the shah, sent Genghis a regiment of Christian prisoners taken in the Crusades as a show of support. The Mongol army had no need for infantry, however, and these men were released. Those of them who made it back to the Holy Land eventually carried the first descriptions of the Mongol invaders to Europe. Thus, characters researching the local area lore might hear of them and prepare themselves.''
 ''By 1221 the shah flees for the Caspian Sea, but is pursued and soon caught by the Mongol army, which swells to nearly 200,000. Then, while Genghis hunts down the shah’s son — for the Mongols always seek to destroy any nobles to whom their enemies might rally — his great general Subatei secures the region and begins to scout out their surroundings, sending a force of 40,000 horsemen on a reconnaissance mission into the Caucasus.''
@@ -295,8 +295,8 @@
 ''Therefore the Lord God sent him forth from the garden of Eden, to till the ground from whence he was taken.''
 ''So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.''
 ''— Genesis 3:22–24''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''It may be that Eden, as a concept, is literally part of paradise, where righteous and holy souls spend eternity after death. In the Bible, the garden is “eastward in Eden,” implying that there were once other parts of Eden that were not the garden. In Ars Magica, this may be explained by the fact that Eden is a Divine regio, a piece of Heaven on earth, a place that is typically hidden from mundane eyes beneath the waters of a great sea. It may be reached by passing through a boundary found somewhere along the southern part of the Euphrates River,''
 ''by traveling towards the place where four rivers once joined into one.''
 ''The regio has three levels. The mundane level is under water, in the middle of the Persian Gulf. Level 1 is still flooded, but the ground is muddy marshland and is close enough to eventually swim and wade back to shore. On Level 5, the four rivers are clearly separated, coming together to form a large island, covered with grass and brush. Finally, on Level 10, the island is larger than the whole city of Baghdad, thickly forested with tall trees, and gnarled roots and trunks''
@@ -324,7 +324,7 @@
 ==Guardians of Eden==
 
 
-|]
+|}
 ''ing anyone who is forbidden to enter from passing into the regio from any direction, and they descend upon any who somehow emerge inside without passing through the boundary, using their Turn the Unworthy power to immediately eject them into the lower level of the regio.''
 ''There is a way for human characters to access the garden, though: non-reptilian animals are not prevented from coming and going as they will, and characters who watch the entrance long enough to see an animal approach and enter may recognize this fact. If the characters can change their shapes through Muto Corpus magic or appropriate Supernatural Abilities, they can enter. Changing their shape tells the guardians that they identify themselves with another form, communicating that they should be treated as animals rather than people, but this must be a complete change or the guardians see through it — that is, the characters cannot simply change their appearance to make themselves look like animals. They must also remain in this shape the whole time they are in Eden, for if any of them ever adopt a forbidden form, the guardians immediately remove them.''
 ''The guardians can see into the spirit world, and prevent all non-corporeal humans from entering (ghostly warders, spirit familiars, and so on), as well as all faeries and demons, including animals that have Faerie or Infernal Might. This is because the guardians view Faerie as essentially associated with people, and faerie beings cannot separate themselves from humanity enough to seem like real animals to the guardians. Demons and characters with Infernal Supernatural Virtues are always considered Serpent-kin and are denied entry no matter what their shapes. Characters with Divine Might can enter and leave whenever they wish, and characters associated with Faerie but who do not have Faerie Might may still enter if they adopt an appropriate shape.''
@@ -340,8 +340,8 @@
 ''Inside the regio, Eden is a magical paradise, a garden of vibrant color and life. It is a timeless, immortal place, where day and night pass as normal but the seasons never turn. Years may pass outside of the regio, but within the inhabitants never hunger or thirst, and indeed never want for anything. They are not cold or warm, they do not need to hunt, and none of them must sleep, though nocturnal creatures stir when the sun is down and others rest in comfort until the dawn. Everything is peaceful and tranquil, and visitors who upset this balance find themselves removed by the guardians.''
 ''Magi who enter in animal form find that they no longer have The Gift while within the garden; they are not offensive to other animals, but they cannot work magic either. This does not cancel magical effects that are already upon them, but they cannot cast spells, including the Parma Magica, and they cannot experiment as if in a magical laboratory. Enchanted devices they bring that have continual effects remain active, but those that must be activated by the wielder or that trigger in response to conditions besides night and day fail to function.''
 ''All the animals who make their way inside are blessed with the miraculous power to speak as humans do. If they know a language, they find that they may communicate with others through words and gestures. All the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''This version of the Garden of Eden is not necessarily the only version of Eden the characters could discover. For example, there may be a Magical Eden, a primordial forest to which the first animals, plants, and people may be traced. There could also be an Infernal version of Eden, a tempting garden full of sinful delights and corrupting illusions. Such a garden could appear anywhere, but visiting it would be perilous to the characters’ souls. There could even be a faerie version of Eden, a part of Arcadia made real from legends''
 ''and stories about it — though such a faerie paradise would have very little grounding in reality, and it would be impossible for characters to learn Adamic from the inhabitants. It might seem as if they could, but this knowledge would be like learning from a dream, and would vanish as soon as the characters returned to the real world. Characters searching for Eden might seek out or stumble upon one of these other versions of it first, which might lead them into exciting and challenging alternative adventures.''
 
@@ -368,7 +368,7 @@
 ''Animals in the mundane world do not typically have a score in a Language Ability, unless they have been trained by a human to simulate or recognize particular commands, and even then it is doubtful they could have more than a score of 1. Most animals can communicate fluently with others of their species, however, and a similar concept allows the animals in Eden can communicate to each other in Adamic.''
 ''Since they do not have Intelligence scores, however, effects like the spell Thoughts Within Babble (InMe 25) do not make sense of the words the animals speak unless they are designed with an Animal requisite. Likewise, characters with Supernatural Powers that allow them to understand other languages do not automatically understand what the animals are saying.''
 
-|]
+|}
 ''characters to come within range of the trees and not succumb to the temptation, for they were all born with a taste for them. The storyguide may ask for appropriate Personality Trait rolls if the characters seem genuinely hesitant, or simply give the players a choice of which of the two fruits their characters eat. Once they begin down the path toward these trees, however, it is almost inevitable that they eventually give in; the only question is which of the two fruits they pick.''
 ''Characters who eat either type of fruit immediately disappear from the garden, but the storyguide should wait to describe what happens to their players until everyone has chosen which fruits their characters eat. If some characters resist, wait until they leave Eden to reveal what has happened to their companions. (In the meantime, allow the players of those characters who tasted the fruit to believe that they have died, smitten by God’s wrath — a bit of disappointment and regret at this point might heighten their appreciation for the actual consequences when they’re revealed.)''
 ''The pomegranate tree is more appealing to spiritual characters, especially magi who are interested in esoteric pursuits such as discovering the Adamic language. This is the Tree of Knowledge, and curious characters, or characters who usually study or teach, find it the most difficult to resist. Eating the juicy pomegranate seeds brings with it the feeling of incredible power, as well as an intense feeling of guilt. All characters who partake of it gain an Intelligence score if they have Cunning, or gain The Gift if they are already intelligent. They also receive 1 Warping Point plus enough additional Warping Points to increase their Warping Score by 1 (which ensures that all magi gain at least 2''
@@ -378,8 +378,8 @@
 ''one), and is from then on only an animal, albeit one with human abilities. Magi can use their magic to transform themselves into a human shape, using a Muto Animal spell with a Corpus requisite, but it is no longer their true form and so this can never be a permanent change.''
 ''In addition, all animals of the same species as the character who ate the fruit are cast out of Eden, and prevented from returning by the guardians. For example, if a character in the shape of a hound eats the fruit of the Tree of Life, all other canines living in the garden are instantly transported out of the regio at the same time as the character. In the same way that all humans and reptiles are forbidden from entering because of the actions of their ancestors, all canines are similarly punished for the character’s transgression.''
 ''There may be other ramifications of the characters’ taste of the forbidden fruit. Theologically speaking, it could cause great turmoil within the Church, as the effects suggest that The Gift is born from original sin, and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''It may be that the Tree of Knowledge and the Tree of Life are only two of several different trees of power that may be found in Eden, for though they are the only two mentioned in the Bible, it stands to reason that the other fruits of the garden could have undiscovered supernatural properties, since it is not necessary for the animals to eat while they dwell in Eden. These trees might be found in other parts of the garden, perhaps hidden in such a way that characters cannot simply stumble over them, but if they seek them out, they can discover them.''
 ''These additional trees might include a vine called the Tree of''
 ''Truth, with rich, round grapes that produce a sweet wine that is heady but not intoxicating, and a dark bramble known as the Tree of Falsehood, with prickly, thorny trails and black berries, which produces a sticky juice that can drive a person mad from just the scent. Tasting either fruit could change a character in much the same way as the fruit of the Tree of Knowledge or the Tree of Life, altering him as appropriate, perhaps giving him Divine or Infernal Virtues like True Faith or Chthonic Magic (see Realms of Power: The Infernal, page 123), or perhaps Magical or Faerie Virtues like the Gentle Gift or Faerie Blood.''
@@ -421,7 +421,7 @@
 ==Story Seed: The Serpent’s Desire==
 
 
-|]
+|}
 ''surrounded their home. Worst of all, unless he repented and atoned for his evil deed, his sin could never be forgiven and he would not join God in Heaven upon his death, but would be forced to remain on earth, soulless, for all eternity.''
 ''Many medieval authors describe the “trembling and moaning” that Cain was forced to endure. According to the story, Cain began to shake and wail, and became agitated, driving himself into madness and frenzy, and it is in this state that he protested to God that his punishment was too harsh; apart from his existence being unbearable, he would be a pariah, and that anyone who found him would surely kill him. If this was to be his''
 ''fate, why did God not just kill him outright? Instead of explaining, God placed a mark upon him as a sign to others that he was not to be harmed, and as a warning that any person who was to slay him would also suffer.''
@@ -442,8 +442,8 @@
 ''— Genesis 4:16–24''
 ''A puzzling question left by the Bible is Cain’s wife, who is mentioned in the story of Cain, but her origin is never explained. If Adam and Eve were the first man and woman, where did Cain’s wife come from? Many scholars learned in ancient lore believe that she was Lilith, the first woman created in the Garden of Eden, who was exiled from it before ever Eve came to be. Many stories also describe Lilith as the mother of all tempting demons and dark spirits, and a wicked witch who practiced evil magic and kidnapped babies in the night. (For more about Lilith, see Realms of Power: The Infernal, page 27.)''
 ''Another possibility is that while Adam and Eve were the first man and woman, they were not the only man and woman; they were simply the first man and woman who knew God, were privileged to live with him in the Garden of Eden, and were blessed with his favor though they had sinned against him. When they left the gar''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Adamic Writing==
 
@@ -495,7 +495,7 @@
 ''may require the characters to dog his steps across all of Mythic Europe, but it is one method by which they may recover the original language of man.''
 ''A better way to learn Adamic is to convince Cain to teach them, for though he is a mediocre instructor, it is faster than picking up a word or two here and there over the course of a season. However, Cain is unlikely to do this, for he is vengeful and petty, and he may treat people with whom he empathizes even worse than those he dislikes. Yet some medieval schol''
 
-|]
+|}
 ''ars speculate that Cain still has his soul, for God has given him a different punishment than Hell for his sins, and thus he may yet be saved from eternal damnation if only he can be made to repent. If Cain understands and believes this, perhaps he would be willing to tutor the characters in exchange for their hearing his confessions. He may even enjoy it, as it gives him an opportunity to brag about his exploits. Characters who listen to him non-judgmentally may befriend him,''
 ''at least temporarily, long enough to learn what they need.''
 ''Then again, it may be that the only way for the characters to learn what they want is to force Cain to cooperate, perhaps by capturing him and threatening to hurt him. Cain is especially susceptible to the Dominion and holy things, for Divine auras cause his head and limbs to tremble and shake, and turn his voice into a series of unintelligible screams and moans. The touch of a holy relic''
@@ -505,8 +505,8 @@
 ==Conclusions==
 
 ''Once the characters have learned to speak Adamic fluently, the information will probably begin to spread throughout the Order, possibly''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Cain is depicted here as a faerie for several reasons. Firstly, Cain is a character of myth, though he appears in the Bible, and after his death he is primarily a bogeyman used as a frightening example of someone who committed a terribly evil act and suffered the consequences for it. It is even possible that this faerie version of Cain came into being after the real Cain’s death, in response to stories told about him. In any case, this version of Cain is a legendary figure, a living character from a famous folk tale. Secondly, Cain is depicted as essentially amoral; he does not wish to corrupt others or lead people into sin, but sates his own desires. If he were a demon, it would be impossible for the characters to ever''
 ''save his soul, and would conclusively answer the question of whether or not Cain had been forsaken by God. Interacting with Cain as a demon would be a mortal sin and a Hermetic crime. Thus, this version of Cain is morally ambiguous. Finally, as a faerie, Cain’s appearance is mutable, so that his curse is not necessarily tied to his skin color or his nationality — the idea of Cain as a murderous being cursed by God can appear in any culture, and this makes clear that his mark is not tied to his race or tribe. This version of Cain is one taken from European myth, but as a faerie creature he could just as easily appear in a different form recognizable to people living in other parts of the world.''
 
@@ -523,5 +523,8 @@
 
 ==Magic in Other Languages==
 
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

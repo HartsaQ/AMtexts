@@ -35,15 +35,15 @@
 ''using the tunnel) receive bonuses or penalties to their Magic Resistance and Casting Total, depending on their local aura. The caster and target could obviously each be in auras of different level and type. • Tunnel spells, and spells cast through''
 ''tunnels, interact normally with the Aegis of the Hearth ritual. If either the target (or the caster) are standing within an Aegis, then any incoming spells must Penetrate the level of the Aegis, unless the caster of the spell either participated in the Aegis casting or has a token to the Aegis. Outgoing spells do not need to Penetrate an Aegis that protects the caster. However, note that if the target or caster is standing within a hostile Aegis, then his Casting Total will be reduced by half the level of the Aegis (as is normal). • The tunnel remains in place for the''
 ''duration of the spell that created it, unless it is dispelled or similar.  Spells cast through the tunnel with a dura''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Demon that Stared Back==
 
 ''It is not possible for non-Hermetic powers to be used through an Intangible Tunnel-style effect. This means that a “safe” way to hunt infernalists (and hedge wizards) is to employ grogs to hunt down Arcane Connections to the quarry, which can then be safely eliminated via an Intangible Tunnel from the sanctuary of the magi’s laboratory. Within the tribunal, there is a secret group of demon hunters who slay infernalists using this strategy. The group is secret because collecting Arcane Connections to infernalists is considered highly suspicious and likely evidence of infernalism itself. Unfortunately, the demon hunters stumble upon a infernalist who is accompanied by a demon''
 ''who recognizes the tunnel and can, in fact, use his powers back through the tunnel. Another possibility is that the demon manages to open a similar tunnel straight back to the magi, and then disguises his parallel tunnel with impenetrable diabolic illusions. Either way, the demon has managed to control the minds of some of the demon hunters, and sets about using these pawns to corrupt the Order. The player characters might be caught up in the machinations of the demon-controlled demon hunters. Alternatively, they could be uncorrupt members of the secret group of demon hunters who gradually come to realize that their allies have been corrupted.''
 
-|]
+|}
 ''tion that exceeds that of the tunnel continue to have their effect after the tunnel closes and expire normally. The exception is spells that require Touch range to be maintained. The troupe will need to decide on a case-by-case basis whether a spell requires Touch range to be maintained; many Touch range spells do not. • It is possible to use Hermetic effects in''
 ''items or talismans through a tunnel. • It is not usually possible to use non-Hermetic magic, creature powers, or Supernatural Abilities through a tunnel, although your troupe may, of course, rule that a particular non-Hermetic power is an exception. Most magi would be very surprised if non-Hermetic magic were used through an Intangible Tunnel. However, Hermetic effects that incorporate exotic ranges, durations, targets, or guidelines — Merinita Faerie Magic, or the result of integration of a hedge tradition, for example — can be used through a tunnel. • Although the target and caster are''
 ''mystically considered within Touch range of each other, they are not literally within Touch range. The tunnel is intangible. It is not possible, for example, to attack with melee weapons through the tunnel.''
@@ -60,8 +60,8 @@
 ''ReVi Gen R: Arcane, D: Moon, T: Individual This spells opens a magical tunnel between the caster and the target. Spells cast through this tunnel must be at least two magnitudes less than the level of this spell. This spell has a duration of Moon. A confident magus might cast this spell immediately after the Wizard’s War begins. (Base effect, +4 Arc, +3 Moon) Required Lab Total to invent spell: depends upon level.''
 ''The Evil Eye''
 ''ReVi Gen R: Sight, D: Diameter, T: Individual Sometimes a magus cannot acquire an Arcane Connection to his quarry. This spell opens a tunnel between the magus''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Required Laboratory Totals==
 
@@ -83,7 +83,7 @@
 ''Level 40 Lab Totals''
 ''One Season (80), Two Seasons (60), Three Seasons (54), Four Seasons (50).''
 
-|]
+|}
 ''and any target within Sight Range. The advantage of this is that it lowers the effective range between the magus and the target — which means that lower magnitude effects can be used on the target, which should increase the effective Penetration Total. Effects cast through The Evil Eye tunnel can be up to one magnitude greater than the magnitude of The Evil Eye spell. (Base effect, +3 Sight, +1 Diameter) Required Lab Total to invent spell: depends upon level.''
 ''The Master’s Message''
 ''ReVi Gen R: Touch, D: Moon, T: Individual This spell opens a tunnel between the magus and a character that he touches. Once it is cast, the tunnel remains in place, even if the characters break contact. The purpose of this spell is to enable the magus to open a tunnel between himself and a grog. The grog can then depart on a mission, and the magus is able to monitor his progress and cast spells through the tunnel as required. Even if the grog character has no Magic Resistance, it is a good idea to record the Penetration of this spell, as the grog may try to pass through a hostile Aegis. Effects cast through The Master’s Message tunnel can be up to one magnitude greater than the magnitude of The Master’s Message spell. (Base effect, +1 Touch, +3 Moon) Required Lab Total to invent spell: depends upon level.''
@@ -97,15 +97,15 @@
 ''effect, because this spell uses the “suppress own spell” guideline (see ArM5, page 161). The tunnel is sealed for the duration of this spell, and spells can no longer be cast through the tunnel in either direction. When this spell expires, or it is ended some other way, the tunnel may be used again (if it has not expired in the meantime). This spell may be used to seal Intangible Tunnel type effects of a level up to one magnitude less than this spell. The seal itself appears as a Hermetic sigil emblazoned in the air. Note that the seal itself is a spell, and so can be dispelled. However, the seal is only present at the caster’s end of the Intangible Tunnel. There is nothing to dispel at the other end. (Base effect, +1 Touch, + 2 Sun) Required Lab Total to invent spell: depends upon level.''
 ''Break the Siege''
 ''ReVi Gen R: Voice, D: Sun, T: Individual This spell suppresses a magical tunnel created by Hermetic Vim magic, if the level of the magical tunnel creating spell is less than or equal to half the level of this spell + 1 magnitude. For the duration of this spell, spells can no longer be cast''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Bridge to the Magic Realm==
 
 ''The player characters discover a covenant (or maybe the laboratory of a sodales) seemingly overrun with magical creatures, and the magus missing. The remains of the magus’ laboratory notes indicate that he was experimenting with variants on The Intangible Tunnel. Can the player characters find the missing magus, and deal with the magical creatures? One possible explanation for the magus’ disappearance is that, when an Intangible Tunnel-style of effect is botched, one possible result is the brief creation of a tunnel to the Magic Realm. This tunnel opens for only''
 ''a fraction of a round, but if it does happen, then characters within Voice Range of the botch may be drawn into the Magic Realm. Avoiding this is similar to avoiding Twilight (see ArM5, page 88). If the characters do not avoid being drawn into the Magic Realm, then they must find another way back to the mundane world. It is possible that creatures from the Magic realm may also find their way back along the bridge. The magnitude of the Might of such creatures cannot exceed the magnitude of the botched spell. The Magic Realm is described in Realms of Power: Magic, pages 17-28.''
 
-|]
+|}
 ''through the tunnel, in either direction. When this spell expires, or it is ended some other way, the tunnel may be used again (if it has not expired in the meantime). It is a good idea to master this spell taking the Fast Casting mastery (ArM5, page 87). This spell can be cast at either end of the magical tunnel. However, note that, without the aid of magical senses, only the original caster of the magical tunnel can target it. Of course, the Break the Siege effect is a spell, and can be dispelled itself. However, the Break the Siege spell is only present at the end which it was cast at. There is nothing to dispel at the other end. (Base effect, +2 Voice, +2 Sun) Required Lab Total to invent spell: depends upon level.''
 
 ==Defending Against Intangible Tunnels==
@@ -211,8 +211,6 @@
 ''When casting this spell, the caster holds a glass phial in one hand. When cast, the spell instantly transports a quantity of spilled blood that the caster can see and is within one league (3 miles) into the phial. The blood can be used as a +3 Arcane Connection to the character(s) from which it came. The Arcane Connection lasts for years (see ArM5, page 84). If the blood comes from a mixture of individuals, it must be sorted using a spell such as Division According to Blood before it can be used as an Arcane Connection. The exception is that the unsorted blood can be used as an Arcane Connection for effects that use a Group target to affect the entire group from which the blood came.''
 ''This spell works because once the blood of a character has been spilled, it does not inherit the character’s Magic Resistance. Versions of this spell that instantly transport the blood a shorter (or longer) distance can obviously be invented. The blood might be spilled by a spell effect such as Crystal Rain, or it might be spilled via mundane means such as a sword blow or a punch in the face. The caster may require some sort of enhancement to his senses (such as Eyes of the Hawk) to target the spilled blood at the extremes of the range of this spell. (Base 25, +3 Sight) Required Lab Total to invent spell: One Season (80), Two Seasons (60), Three Seasons (54), Four Seasons (50).''
 
-[|
-
 ==Story Seed: Foot-Soldiers of the Master==
 
 ''If the magi of a saga invent the Intangible Assassin effects, then many good stories can be told about the adventures of the trusted grogs and companions who are sent out to recover Arcane Connections for their masters:''
@@ -226,8 +224,6 @@
 ''A band of grogs is sent to lurk in the forests near an enemy covenant. Their task is to trail magi approaching and leaving the covenant, and attempt to recover Arcane Connections from their campsites and trails.''
 ''Seduction''
 ''The grogs are sent to a town near the enemy covenant. Their mission is to befriend or seduce the enemy grogs when they visit the town.  The plan is to then take advantage of this friendship to recover Arcane Connections to the enemy magi.''
-
-|]
 ''Division According to Blood''
 ''Re(In)Co 25 R: Touch, D: Momentary, T: Part To cast this spell, the caster holds a glass phial in each hand. One phial contains blood which may come from a mixture of sources. The other phial is empty. Upon casting the spell, all the blood from one individual only (in the first phial) is instantly transported into the second phial. By repeatedly casting this spell (and having a sufficient quantity of empty phials available), the caster may separate out the blood from a number of individuals. If the first phial contains only blood from one individual, then all of it will instantly transport into the second phial. The Intellego requisite is required to distinguish between the different sorts of blood in the phial. The target is Part because only a fraction of the blood (that belonging to one individual) is instantly transported into the second phial. (Base 10, +1 Touch, +1 Part, +1 requisite) Required Lab Total to invent spell: One Season (50), Two Seasons (38), Three Seasons (34), Four Seasons (32).''
 ''Breath of the Glassworker''
@@ -238,8 +234,8 @@
 ''The Thirsty Dagger''
 ''CrTe 20 R: Touch, D: Momentary, T: Individual, Ritual This ritual creates a metal dagger. The blade contains cleverly designed gutters that feed into a reservoir in the hilt. This means that if anyone is injured by the dagger (takes a Wound), then a sample of their blood is collected in the dagger’s hilt. A version of this ritual could be created with as a spell with a duration (such as Sun) for use in emergency circumstances. However, the dagger created with the ritual is not magical, so it does not need to Penetrate Magic Resistance to harm a target (which a spell with a non-Momentary duration would need to do). The dagger can be used as either a thrown or melee weapon. It is less useful in Defense than a normal dagger, and less aerodynamic than a throwing knife. In both cases, this is because The Thirsty Dagger is oddly weighted due to the blood reservoir. The dagger’s weapon characteristics are:''
 ''Ability: Brawl, Init: +0, Atk: +2, Dfn: –1, Dam: +3, Str: –1, Load: 0 Ability: Thrown, Init: –1, Atk: 0, Dfn: –1, Dam: +2, Str: –1, Load: 0''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: School of Assassins==
 
@@ -251,7 +247,7 @@
 ''War of the Assassins''
 ''The magi cooperate together to develop these Intangible Tunnel-style effects, but then, in a fit of paranoia, start hunting each other down. This could be a good idea for a very short player versus player saga that only lasts for the duration of the month of bitter Wizard’s Wars.''
 
-|]
+|}
 ''(Base 5, +1 Touch, +2 elaborate design) Required Lab Total to invent spell: One Season (40), Two Seasons (30), Three Seasons (27), Four Seasons (25).''
 ''Miniaturist of Venice''
 ''MuTe 50 Pen: 0, constant effect R: Touch, D: Sun, T: Group This spell reduces 100 cubic paces of glass into a small volume, about 1 cubic foot. The shrunken glass can be more easily transported. When the spell ends, the glass bursts back into full size. Anybody within 9 paces of the shrunken glass takes +10 damage from flying shards of glass. Bursting back in this manner breaks any complex glass objects. The spell is based on the Muto Terram guideline that increases the volume of an object by 8, but instead is used to decreases its volume by a factor of 8. (Base 4, +1 Touch, +2 Sun, +2 Group, +1 Size, +1 affect glass, +3 increased shrinking effect) Required Lab Total to invent spell: One Season (100), Two Seasons (75), Three Seasons (67), Four Seasons (63).''
@@ -272,8 +268,6 @@
 ''Pages of the Unfinished Story''
 ''Re(In)An 45 R: Touch, D: Momentary, T: Structure This spell requires a piece of parchment written on by a character, such as a page of Lab Text or part of a tractatus. The caster holds the piece of parchment against the wall of a structure (such as a tower), and all pages of parchment written on by the same author, in the last week, within the tower instantly transport into the caster’s hand. Most authors would immediately notice that their work has been stolen when they return to their writing table. If more than two weeks’ writing is stolen through successive castings of this spell, any Laboratory work on which the author is working will be interrupted. This spell uses the Rego Corpus guideline to instantly transport a body, by analogy, to transport animal products. Note that who wrote the text on a piece of parchment is a part of the history and origins of an animal product (the parchment), which can be detected with an Intellego Animal effect. This is why an Intellego requisite is required. This spell only gathers material writ''
 
-[|
-
 ==Story Seed: House of the Assassin==
 
 ''It becomes well known within the Order that the character has considerable expertise in prosecuting Wizard’s War. Some stories that might arise from this include:''
@@ -285,8 +279,6 @@
 ''The character has a nephew (or other relative) who is a minor noble. The character uses mundane spies to gather Arcane Connections and Intangible Tunnel-style effects to wage war on the other nobles within the Tribunal, and slowly his relative rises to become a king (or a duke or earl). Although this is clearly interference with the mundane, it could be quite difficult for other magi to detect as the work of a fellow magus — investigating magi would have to actually have an interest in the deaths of nobles, and would need to be present in the noble courts to detect the spell traces of the Intangible Tunnel. The unlucky noble families would have almost no way to connect the deaths in the courts to the Order of Hermes. So, although this is a risky endeavor, a very careful magus may be able to avoid the censure of the Tribunal. A similar story could be told about a magus arranging for a relative to rise in the ranks of churchmen, perhaps even becoming pope.''
 ''Scapegoat''
 ''The character becomes so well known for his proficiency at assassination that other magi invent Shroud Magic effects that make their own Intangible Tunnel effects appear as if cast by the magus assassin. He must defend himself in Tribunal against numerous accusations of murder. Note that the presence of Shroud Magic can be detected.''
-
-|]
 ''ten by the same character who wrote the sample. Thus, if the sample piece was in fact written by a scribe, instead of by the expected magus, then this spell will collect work written by the scribe. An equivalent Herbam spell could be used to gather text written on paper or papyrus, but parchment (which is made from animal hide) is the most common form of writing surface used in the Order of Hermes. (Base 20, +1 Touch, +3 Structure, +1 Intellego Requisite) Required Lab Total to invent spell: One Season (90), Two Seasons (68), Three Seasons (60), Four Seasons (57).''
 
 ==Blood Relative==
@@ -319,15 +311,15 @@
 ''are inscribed with astronomical signs. The device senses the motions of the planets and other celestial bodies, and moves the wheels to indicate the state of the heavens. The device can be used as an astrolabe, and it is so accurate it gives a +3 bonus to the calculation of horoscopes (ArM5, page 84) and astrological inceptions (Art and Academe, page 73). In order to use the astrolabe, a character must have an Artes Liberales of at least 1. The invested device (the rock crystal) is a tiny semi-precious gem and so requires 12 pawns of vis to prepare for enchantment. This requires a Magic Theory Score of 6 and one season of work. The two effects, Sense the Heavens and Move the Wheels, require 3 and 4 pawns of vis to invest respectively.''
 ''Sense the Heavens InIm 24 0 Pen, constant effect R: Personal, D: Sun, T: Hearing This effect gives the device the sense to listen to the barely-perceptible sounds of the celestial bodies in motion (see Art and Academe, page 16). (Base 3, +2 Sun, +3 Hearing; +4 constant effect) Required Lab Total to invest effect: One Season (48), Two Seasons (36), Three Seasons (32), Four Seasons (30).''
 ''Move the Wheels ReTe 37 0 Pen, constant effect R: Touch, D: Sun, T: Group This effect is triggered by the Sense the Heavens effect, and constantly moves the wheels in a way that represents the movement of the celestial bodies. This allows a character with an Artes Liberales Score of at least 1 to read the astrolabe. (Base 3, +1 Touch +2 Sun, +2 Group +2 affect metal; +4 constant effect +3 linked trigger) Required Lab Total to invest effect: One Season (74), Two Seasons (56), Three Seasons (50), Four Seasons (47).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Vandals in the Library==
 
 ''The librarians at Durenmar have spells that can test for the completeness of texts (see Covenants, page 100). A routine audit reveals that several books are''
 ''apparently missing content. The player characters may either be responsible for this vandalism, or called upon to help find the vandals.''
 
-|]
+|}
 
 ==Names==
 
@@ -374,5 +366,6 @@
 ''the supposed boundary of the Aegis may notice that they do not feel the characteristic tingle which indicates the presence of an Aegis. The Aegis of the Hearth effect must be less than the level of the Removing the Key''
 ''stone spell + 3 magnitudes + stress die. This spell must penetrate the Aegis of the Hearth effect, of course. Note that if the Aegis of the Hearth is of a high level, then this spell may need to be a ritual.''
 ''(Base effect, +1 Touch) Required Lab Total to invent spell: depends upon level (see insert earlier).''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

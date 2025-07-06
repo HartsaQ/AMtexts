@@ -12,8 +12,8 @@
 
 ''Some of the stories around Hérisson suggest that he possessed Mystery''
 ''Virtues typical of those found in House Merinita, specifically the Nature Mysteries. Certainly, those magi who find his garden will encounter sentient plants, such as those created by the Awakening Nature Mystery Virtue (Houses of Hermes: Mystery Cults, page 104). It may be that Hérisson was descended from one of the followers of Myanar who fled House Merinita for House Bjornaer when Quendalon became Primus. Magi who discover this, and are aware of the Nature Mysteries, might wonder whether he actually escaped death entirely through the Guardian of Nature Mystery, whereby a magus transforms himself into a genius loci. His death at the hands of Gypaetus could have been a carefully constructed deceit to absent the magus from the Order and allow him to dwell in peace. If this hypothesis''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==What The Order Remembers of Hérisson==
 
@@ -36,7 +36,7 @@
 
 ''•	 Hérisson may have been a descendant of Myanar. •	 Some believe his spirit still lives in his garden. •	 Hérisson sent a copy of some of his research to the Great Library at Durenmar.''
 
-|]
+|}
 ''is true, then he may haunt the location of his garden as its guardian spirit. Furthermore, if Hérisson was a member of an esoteric Mystery Cult within House Bjornaer, then his descendants may well continue that tradition in secret.''
 
 ===The Sept of Hérisson===
@@ -60,15 +60,15 @@
 ===Vitalizing Vis===
 
 ''Creating a Stirps is a laboratory activity called Vitalization, which is akin to creating an invested device. Essential to the enterprise is the raw material, which must have a Magic Might of 0 or more, and have the inherent capacity for self-replication. Dead animals or parts of plants cannot form the basis of a cultivar. The offspring produced by these ‘raw materials’ need not themselves be magical: the youngsters born to an Animal of Virtue are often not Animals of Virtue themselves, and most seeds of magical plants grow up into normal plants of their kind. The target Level for Vitalization is equal to the Magic Might of the base creature, plant, or object. The magus accumulates in a season a number of points''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New Supernatural Ability: Hermetic Viresculture==
 
 ''The character can produce varieties of self-reproducing vis, and cultivate vis as a form of magical agriculture. Note that, because it fully incorporates Hermetic magic, Hermetic Viresculture can be taught to other''
 ''magi without needing to subtract one’s Art Scores from the Source Quality (Houses of Hermes: True Lineages, page 29). Only those opened to the Hermetic Arts can make use of this Ability since it relies on Hermetic magic.''
 
-|]
+|}
 ''towards the successful completion of the Stirps equal to the amount by which his Vitalization Total exceeds the Level. This is a Creo Vim Lab Total that uses Hermetic Viresculture Ability instead of Magic Theory. Once a number of points equal to the Level of Effect have been accumulated, the Stirps is complete. Vitalization costs one pawns of Vim vis per ten points of the Level of Effect (or fraction thereof); this vis is usually fed to an animal or transferred into the water used to grow it.''
 
 ===Vitalization Total: Intelligence + Creo + Vim + Hermetic Viresculture + Aura Modifier===
@@ -86,8 +86,8 @@
 ===Invigorating a Stirps===
 
 ''Before the Stirps can be used to grow vis, it must be Invigorated. This infuses it with the ability to produce many copies of itself. Invigoration requires a single season of laboratory work, during which time the magus generates an Invigoration Total. The Form used in the Invigoration Total must match that of the Might of the Stirps, or the Form of the Lesser Enchantment, but bears a Vim requisite. For every ten points (or fraction) of the Invigoration Total, the Stirps has one breeding season that will yield vis. Each litter or crop produced from a Stirps contains a number of pawns of vis equal to one fifth (or fraction) of its Magic Might or Level of Effect (for Lesser Enchantment vis). This vis is of the same Form as that within its parent.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New Cultivars==
 
@@ -99,7 +99,7 @@
 ''These two types of vis were first introduced in Realms of Power: Magic (pages 119–122). Vis of either type can be used in all the usual ways that vis can usually be used, but they also have a magical power. Lesser Enchantment Vis emulates a Lesser Enchantment, usually of level 30 or less. As long as the vis is not used in a magical''
 ''activity, a character can benefit from the effects of the enchantment. SpellLike Vis has a single use only, mimicking the effects of a spell of up to 60th level; this spell can be a ritual, and if so it requires no additional expenditure of vis or time. Once the spell is triggered, its effects take place and the vis itself is expended.''
 
-|]
+|}
 
 ===Invigoration Total: Intelligence + Creo + Form (Vim Requisite) + Hermetic Viresculture + Aura Modifier===
 
@@ -146,8 +146,8 @@
 ===Weakening an Aura Through Hermetic Viresculture===
 
 ''Harvesting vis from a magical aura can potentially reduce the strength of that aura (Realms of Power: Magic, page''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Labor Points==
 
@@ -159,7 +159,7 @@
 ''Elaine Thymel comes across a number of Roosters of Virtue, each with a Magic Might 10 (aligned to Animal), and manages to bring two of them back to her laboratory. Her Vitalization Total is 41; she can convert both roosters into Stirpes in a season (sing the rules for Multiple Laboratory Activities, ArM5, 102), and this costs her a total of two pawns of Vim vis. She spends another season Invigorating the two roosters, sharing her Animal (Vim) Invigoration Total of 43 between them; each Rooster will have three breeding seasons (since she has an Invigoration Total of 22 for each rooster). In the first breeding season, each Rooster fathers two eggs that contain a pawn of Creo vis a piece. In the first year Elaine nets four pawns of vis. Elaine has two servants dedicated to caring for her precious fowl during the year. One of these servants has a Leadership of 1, so he can oversee the''
 ''other. They each have a Communication + Profession: Poultry Farmer of 5, so each accumulates 15 Labor Points per season. This means that between them they must apply two seasons to care for the chickens to accumulate the 24 Labor Points needed. As luck would have it, one of the pawns in the first year turned out to a Stirps, and Elaine spends one season Invigorating the chick. In the second year Elaine now has three Roosters; one with five breeding seasons, and two with two seasons left. She expects to gain 6 pawns of Creo vis this year, except that she only has 30 Labor Points and needs 36, so she only gains 5 pawns. Nevertheless, for these two years she has spent three seasons and two pawns of Vim vis, and has gained nine pawns of Creo vis in return. In the following year, for no additional input, she expects another five pawns of Creo vis, and perhaps six if she can find another poultry farmer.''
 
-|]
+|}
 ''10), and Hermetic Viresculture is no different. If you are using the rules for Aura Variation, then subtract one fifth (rounded up) of the total number of pawns produced by Hermetic Viresculture in that aura from the Yearly Aura Modifier.''
 
 ===Yearly Aura Modifier for Virescul===
@@ -186,8 +186,8 @@
 ===a Wreath of Pale Flowers===
 
 ''The daughter of an important noble has fallen ill, and the best physicians in the area have failed to even diagnose the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds: Hermetic Viresculture==
 
@@ -202,7 +202,7 @@
 
 ''A peasant steals food from a field cultivating Lesser Enchantment Vis, or poaches livestock containing the same. Upon consuming the food, the culprit benefits (perhaps permanently) from whatever effect the vis produced, at the cost of suffering Warping from the continued mystical effect. The PCs need to track down the thief, before he tells others of the remarkable food and they all come looking to eat the valuable Stirpes.''
 
-|]
+|}
 ''illness. The player characters may hear of the girl’s plight and be moved to help; or else if they are famed as scholars or healers, may be approached directly. The only comfort she gains is from the fragrance of a beautiful rose with gray and pink petals, apparently unique to her gardens, and her servants bring a blossom in fresh every day. The ‘Basilisk Rose’ was one of Hérisson’s escaped creations. One of the few destructive cultivars he created, the roots of the rose are poisoning the girl’s personal water supply causing her illness. However, since the blossoms alleviate the symptoms of the poison, uprooting the plant will assuredly kill her. Once the characters discover that the Basilisk Rose contains Perdo vis, they may well take a keen interest in it. A further twist is that the girl’s father is the cause of his daughter’s illness; he planted the rose himself in a local town a few years ago to rid himself of some troublesome opponents by causing a ‘plague’. Once the plant had done its job he had it felled; but was unaware that one seed had managed to make its way into his daughter’s garden. So far, no-one has linked the mysterious plague to the Basilisk Rose. The character’s must contend with the noble’s back-fired attempt to poison his enemies; plus there is the issue of the mysterious stranger who gave him the plant in the first place. Was it a demon wanting to tempt the noble to murder? Was it a magus, who had his own rivalry with the townsfolk? Or was it a faerie intending to gain vitality from being the girl’s gallant rescuer?''
 
 ===a Gruit Local Custom===
@@ -219,8 +219,8 @@
 ===Hérisson’s Descendants===
 
 ''Tasso Agricola is the eldest member of the Sept of Hérisson, and is three generations removed from his ancestor. Tasso is a friendly magus who is often found working in the fields around his covenant. He’ll be happy to discuss his illustrious ancestor, and recount the rest of his legend as well as his legacy to House Bjornaer in the form of the Harmonist movement. He is aware of Hérisson’s research, and has a few volumes of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Tasso Agricola Areleins of House Bjornaer==
 
@@ -228,22 +228,18 @@
 ''Tasso’s black hair has a white stripe rising from each temple, and it is not difficult to see the badger that he holds within. He usually wears a simple peasant smock, and a woven hat if he is working in the fields. He has the Gentle Gift and a peasant’s accent. He lives in a covenant in a rural area which has little interaction in the politics of the Order, although this covenant need not be close to''
 ''the characters’ covenant for the purpose of this story. He shares this covenant with one other member of his sept, and his filia Erica (who has a mole heartbeast) is at nearby covenant. Tasso is dedicated to farming magics and practices which will increase crop yields, thus saving more forests from being cleared to make way for fields. Manual toil is an unusual occupation for a magus, but Tasso has the Study Bonus Virtue, and receives tangible benefit from his labors with soil and crops.''
 
+|}
+
 ==Variña, an Owl of Virtue==
 
 ''Magic Might: 35 (Auram) Season: Summer Characteristics: Cun 0, Per +3, Pre –1, Com –2, Str +4, Sta +2, Dex +5, Qik 0 Size: +2 Confidence: 2 (6) Virtues and Flaws: Magic Animal; Magical Monster; Ways of the Mountain; Improved Characteristics, Large, Puissant Stealth; Proud Magical Qualities and Inferiorities: Focus Power (Winter’s Queen), Gigantic x2; Improved Attack, Improved Defense, Improved Initiative, Improved Powers, Improved Soak x3, Minor Virtue (Great Dexterity) x2, Minor Virtue (Improved Characteristics), Minor Virtue (Tough) Mundane Qualities: Accomplished Flyer, Aggressive, Ambush Predator, Large Claws, Sharp Ears, Thick Feathers Personality Traits: Owl* +5, Vain* +4, Territorial +3 Combat:''
 ''Large Claws: Init +6*, Attack +21*, Defense +13*, Damage +9 *	 Includes Ways of the Mountain Virtue. Soak: +12 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–8), –3 (9–16), –5 (17–24), Incapacitated (25–32), Dead (33+) Abilities: Awareness 4 (prey), Athletics 5 (flying), Brawl 5 (claws), Hunt 4 (prey), Stealth 5+2 (from sky), Survival 3 (mountains) Powers: Winter’s Queen, 1–6 points, Init –Might cost, variable form: Variña can duplicate any spell involving snow, ice, or cold with a level less than or equal to 30. this costs her 1 Might point per magnitude of the spell. Focus Power (5 mastery points to increase maximum level) Vis: 7 pawns of Auram vis, in feathers Appearance: An immense white owl with black speckles and amazing''
 ''emerald-colored eyes.''
 ''Variña had a Heartbeast Ability of 7 when she entered Final Twilight, leaving her Inner Heartbeast with a Magic Might of 35. She can have up to 15 more points of Magical Qualities (see Realms of Power: Magic, page 36), which have been left for the storyguide to develop. It is exceptionally unlikely that Variña would consent to becoming a familiar, given her background in House Bjornaer. She need not be considered to be a monster that must be killed, but she must be bypassed to gain entrance into her tower. When she attacks, the owl will often do so from ambush; if she is not spotted and wins Initiative she gains a +3 bonus to her first Attack total. Furthermore, if she is first in the Initiative order even after her first attack, she can fly out of reach of melee weapons after making her attack. Should she wish to circle around and attack again, make new Initiative rolls for the combat.''
-
-|]
 ''INTERIOR VIEW Variña’s Tomb''
-
-[|
 
 ===Side View===
 
-
-|]
 ''his laboratory texts, although they are non-sequential and encoded. Tasso himself has never been able to make sense of them, but is willing to allow the characters to make a copy. His only stipulation is that the characters share with him anything they discover about his ancestor; since it is a matter of status within his House to record such information. The characters might instead approach Erica, Tasso’s filia. She is likely to refer them to Tasso; as the sept-leader he is the heir to their ancestor’s texts. Richard Strabo (see later) has cultured Tasso as a friend with gifts of agricultural spells and enchantments, and the guileless''
 ''Tasso has never questioned his friendship. It will not be long before Richard discovers the character’s interest in Hérisson.''
 
@@ -259,23 +255,17 @@
 
 ''The notes found in Variña’s tower are quite explicit about the location of''
 
-[|
-
 ==Richard Strabo of House Bonisagus==
 
 ''Characteristics: Int +2, Per +2, Pre –1, Com –1, Str –1, Sta +2, Dex +1, Qik 0 Size: 0 Age: 58 (40) Decrepitude: 0 Warping Score: 4 (18) Confidence: 1 (3) Virtues and Flaws: The Gift; Hermetic Magus; Flexible Formulaic Magic; Adept Laboratory Student, Affinity with Herbam, Social Contacts, Gild Trained, Inventive Genius, Minor Magical Focus (vines), Puissant Magic Theory*, Skilled Parens; Dark Secret, Driven, Waster of Vis; Reclusive Personality Traits: Ambitious +5, Ruthless +3, Reclusive +2 Reputations: House Acclaim 2 (Hermetic) Combat: Evasion: Init 0, Attack n/a, Defense 0, Damage n/a Soak: +2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)''
 ''Abilities: Artes Liberales 3 (rhetoric), Concentration 2 (Herbam), Faerie Lore 2 (wood faeries), Finesse 4 (Herbam), German 5 (Swabian), Guile 2 (disguise), Latin 5 (Hermetic), Living Language 4 (appropriate dialect), Magic Lore 2 (magical plants), Magic Theory 8+2 (original research), Medicine 5 (theriacs), Order of Hermes Lore 2 (Herbam specialists), Parma Magica 4 (Ignem), Penetration 3 (Herbam), Philosophiae 2 (exotic plants), Profession: Apothecary 4 (poisonous plants), Profession: Scribe 2 (summae), Stealth 2 (woodland), Teaching 2 (5) (Herbam) Arts: Cr 10, In 7, Mu 12, Pe 5, Re 8; An 5, Aq 5, Au 6, Co 12, He 14, Ig 5, Im 5, Me 5, Te 6, Vi 10 Twilight Scars: His arms look like twisted roots, fruit does not spoil in his presence, he becomes bald in the winter Sigil: Smell of damp earth Equipment: Talisman; a twisted and gnarled staff of ivy. It is decorated with leaves carved from six types of woods. Attunements: +3 affect living wood (wood), +3 Creo''
 ''Herbam (almond) The Nimble Vine, Cr(Re)He 35; Penetration 20, unlimited uses per day. Creates a strong, pliable vine which has the flexibility and strength of a human arm, but which is 8 inches in diameter and can be 500 paces long. It can act according to the wielder’s instructions, and can grip, retrieve, strangle, or even wield a weapon (using the wielder’s Finesse instead of any Ability required), although it cannot be controlled if the wielder cannot see the hand. It can extend as fast as a walking man. (Base 1, +1 Touch, +1 Conc, +2 size, +1 requisite; +5 maintains concentration, +10 unlimited uses, +10 Penetration 20) The Thrusting Root, Cr(Re)He 28; Penetration 20, 6/day. Creates a thick spear-like battering ram which shoots from the staff to anyone within 15 paces. If it is used to hit a target it inflicts +10 damage, and impales the target if a Medium or more serious wound is caused. While the target is impaled he cannot move, but can attack the root. It can also''
-
-|]
 ''Hérisson’s garden, although this fact has been omitted in this story to give maximum flexibility to the storyguide. If you intend that the garden becomes a regular part of the saga — perhaps even the residence of one of its magi — then it should be located conveniently close to the character’s covenant. However, if you want it to be abandoned by the characters once they have got the most they can from it, then it can be located virtually anywhere in Mythic Europe. The minimum requirements for the setting are a relatively untamed wilderness in a wet temperate tribunal, al''
 ''though the garden can be reframed with little effort as a lush oasis in the midst of a sun-blasted landscape if your saga is set in one of the southern tribunals. An Intelligence + Area Lore or Order of Hermes Lore roll can tell the characters a little bit about the location, most specifically that the covenant of Caerfloron is very close to where they are going. The Ease Factor of this roll is dependent on the distance of the garden from the character’s covenant; a 9 is all that is required if it is in the same tribunal, but an 18 might be necessary if it is on the other side of Mythic Europe.''
 
 ===Richard Strabo of Bonisagus===
 
 ''Richard Strabo had some early successes as a researcher in House Bonisagus, and enjoyed the Acclaim he earned. The pressure of having to capitalize on that success to maintain his reputation has made him bitter and reclusive, especially seeing as he has failed to produce anything considered worthy by the House for over twenty years. He has been hinting to his colleagues that he has been working on a secret research project that will have a major impact on Hermetic magic, but every avenue he has pursued has resulted in a dead''
-
-[|
 
 ==Richard Strabo of House Bonisagus (cont’d)==
 
@@ -287,8 +277,6 @@
 ''* 	 Includes Minor Magical Focus T 	 Includes talisman attunement bonus Appearance: A middle-aged man with dark hair and a sun-weathered face. His eyes have a manic, obsessive''
 ''glint to them that many find disturbing. He usually wears a green cloak and a wide-brimmed hat, and is never without his staff. He took his second name from a famous gardening monk, and occasionally uses the alias ‘Walahfrid’ after that worthy’s first name.''
 ''Strabo is presented as a magus from the Rhine Tribunal, but can be substituted for any suitable character of the storyguide’s devising. He should not be a prominent member of the same tribunal as the characters, to prevent his hand being recognized too readily. Richard Caespuus from Durenmar (Guardians of the Forests, page 58) would fill the role admirably, although be aware that at the end of this story, the character in this role is likely to face a Wizard’s March. As presented here, Strabo should present a challenge to young magi, but storyguides may wish to make him older for more experienced troupes. His skills lie less in direct confrontation than in espionage (disguised as a plant) and harassment (both political and otherwise).''
-
-|]
 ''end. When he came across Hérisson’s notes in a forgotten archive of Durenmar’s library, he made the decision to find the rest of the research and pass it off as his own. Richard has staked his reputation on these stolen fragments, and is poised to become a victim of his own arrogance and boastfulness. This is not simple plagiarism, or building on the work of another, this is whole scale theft of another magus’s research, and a magus of House Bonisagus might never recover from the shame should his secret be discovered. He knows he needs to find Hérisson’s garden to find the rest of the Bjornaer magus’s research, but so far has missed the clue to visit the tomb of his slayer’s filia. Strabo maintains contact with several magi across Mythic Europe through correspondence, using a number of aliases. Most are experts in the Art of Herbam, and he hopes to gain ideas from such correspondence with his unsuspecting ‘friends’. Paranoid about the possibil''
 ''ity of discovery, Richard has cultured Tasso as a friend so that he should hear if anyone starts asking questions about Hérisson’s research. Now that has happened, and Strabo’s one chance to prove himself to his House is threatened. He is prepared to break the Code if it means his secret is secure; he is sufficiently mentally unhinged to be neither rational nor sensible about the steps he will take to preserve his secret. By the time the characters have returned from Variña’s tower, he has identified the magi and their home covenant. Guessing that they have discovered something, he will have them set upon on the way home by a group of local ruffians. He does not want the characters killed; he simply wants whatever they have obtained from the tower. The heavies are ordered to steal what they can then rendezvous at a distant tavern for their payment. To ensure that they will not speak, he poisons them all after retrieving what they have stolen. Of''
 ''course, if the characters do not set off immediately for Variña’s tower, Richard might have them attacked before they have actually discovered anything, and he might have to take an alternate route to discovering what they know. A possible tactic of Richard’s is to assail the covenant by a veritable invasion of swiftly-growing ivy while the magus himself takes the form of a single strand that goes questing through the possessions of the magi to uncover the location of Hérisson’s garden. Depending on how successful the characters are at foiling his plans, Richard might have to set up several schemes to try to find out what he needs. At the very least he can follow them when they leave, and once he realizes where they are heading (he is aware of the covenant of Caerfloron and its magi) he will rush on ahead to reach there first.''
@@ -303,23 +291,23 @@
 
 ''The regio layer in which Hérisson planted his garden has a Magic aura of 6, aligned to Herbam (the aura modifier counts double when using the Art of Herbam, and all creatures with a Might associated with Herbam spend one less Might point to activate powers; see Realms of Power: Magic, page 16). This vast area — almost two miles in diameter — is horticulturally concentric. The outly''
 ''ing parkland surrounds flowery meads, and within them the herb, flower, and vegetable gardens. Within the parkland is a wooded pleasaunce (pleasure garden). In the very center there is a stew (a fish-pond), which has four streams leading into and out of it like the spokes of a wheel. These streams form a circular moat that strays into several sections of the garden, and is crossed by several small stone bridges. Two of these bridges are Hermetic enchantments; one to keep the water moving, and the other to keep it clean. From a high vantage point these streams, along with various hedgerows, form the shape of a Hermetic sanctum mark. The divisions of the landscape are not immediately obvious, since the terrain is gently undulating, forming hillocks and dells throughout the regio. The weather here is similar to that in the mundane world, except that calm weather is intensified and violent weather is stilled, so there are more sunny days and fewer wet ones. Unsurprisingly, the garden is teaming with plant life, and has numerous examples of exotic plants collected by Hérisson during a lifetime’s research into the Art of Herbam, including several uninvigorated but immortal cultivars of Stirps. Many of these plants are magical, either as sources of vis or bearing other magical properties. Those that are a product of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Caerfloron’s Magical Tradition==
 
 ''Caerfloron and his filii are Homunculus Wizards (Realms of Power: Faerie, Chapter 5), who have a manikin made of a Mandrake of Virtue as the source of their magic. They visit the garden just once at the beginning of their career to acquire a mandrake and become a wizard. Their magical tradition grants them the Greater Immunity to Deprivation and Faerie Magic Virtues, and the Homunculus Wizard Flaw. These magi suffer no wounds''
 ''or loss of Fatigue from going without food, drink, or air; but they cannot regain Long Term Fatigue without rest and sustenance. Like plants they rely on the vegetative spirit activated by daylight for their bodies’ needs. They all share the same Disfigured Flaw, having a green tinge to their skin and hair. Despite having the Faerie Magic Virtue, they cannot be Initiated into the Inner Mysteries as they are not members of House Merinita.''
 
-|]
+|}
 ''his magic — as Stirpes or enchantments — bear the spines and thorns of his casting sigil. There are no animals in the garden at all, which makes walking through the greenery in silence a little eerie.''
 
 ==The Three Tribes==
 
 ''When the characters reach Hérisson’s garden, they find it in a state of unrest. The strong magical aura granted''
 ''many of the plants warped Personality Flaws, and when they were Awakened through Hérisson’s Mystery Virtue, they showed these personalities in full. When Hérisson was alive he was able to keep the rivalries in check, but since his death the plants have polarized into three camps. The leader of each tribe is a magical plant which has the power to temporarily grant motion to its subjects (see The Leaders of the Three Tribes). Malus the Crab Apple rules the Curtilagium (‘kitchen garden’) tribe. This tribe is composed of all plants created to provide nutrition for man or beast, and also those that provide medicines. They are generally distrustful of humans, who they see as predators, and have a shaky alliance with the Venenarium. The Curtilagium tribe consists of trees such as plum, medlar, apricot, apple, and orange, and herbs such as leeks, carrot, vervain, rosemary, fennel, alexanders, and angelica.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Role of the Garden in Mythic Europe==
 
@@ -333,7 +321,7 @@
 ''stantly improves by one level. The Might cost for this power comes from Flax’s Might Score, not Might pool. See Realms of Power: Magic, page 39 for more details. Ritual Power x2 Vis: 2 pawns of Herbam, in seeds Appearance: A mass of thin stems about four feet tall, with small linear leaves and bright blue, five-petaled flowers.''
 ''Linum is the leader of the Hortulus tribe and venerated for its compassion and wisdom. However, it is deeply rooted into the soil, and has only a limited capacity for movement unaided. It also detests being moved, and becomes quite nauseated and unable to use any of its powers.''
 
-|]
+|}
 ''The Venenarium (‘poison garden’) tribe consists of those herbs created by God to punish man for original sin. Most are poisonous, such as yew, henbane, foxglove, hellebore, dodder, aconite, and a whole host of toadstools, but this tribe also includes the thistles, brambles, holly, and hawthorn. They are lead by the spitefully malicious Mandragora. The Hortulus (‘little garden’) tribe are initially the character’s only allies in the garden. These are all the plants that provide tools or raw materials for people’s needs, such as wood and fiber, or provide aesthetic pleasure. They have a servile attitude to mankind, and are likely to greet the characters with''
 ''obsequious enthusiasm. They are lead by Linum, a magical flax plant who has many of the flowers under its thumb. The trees of the Hortulus include oak, ash, hazel, and pine, and the herbs include rue, hemp, lily, loosestrife, buttercup, and mistletoe.''
 
@@ -342,16 +330,12 @@
 ''The tribes are populated by magical and mundane plants, although the latter can only partake in activities when permitted to do so by their leader’s power to animate them. Animated plants have''
 ''Cunning rather than Intelligence. The three leaders are intelligent but incapable of human speech, requiring Converse with Plant and Tree (InHe 25, ArM5 page 136) or similar to communicate with them. A spell such as Intuition of the Forest (InHe 10, ArM5 page 136) would allow the characters to get emotional impressions from the intelligent plants. Don’t forget that within the garden, the Penetration and Magic Resistance of these plants is increased by the Magic aura, including the effects of the alignment if applicable. Furthermore, because of the alignment all their powers cost one point of Might less. Their role in this story is as obstacles and/or allies''
 
-[|
-
 ==Mandragora, a Mandrake==
 
 ''Insert text here Magic Might: 10 (Herbam) Characteristics: Int +1, Per 0, Pre –3, Com 0, Str –10, Sta +3, Dex 0, Qik +6 Size: –6 Season: Spring Virtues and Flaws: Magic Thing; Magical Champion; Hex; Arcane Lore, Puissant Penetration, Voice of the Garden; Hatred; Anchored to the Garden, Infamous, Tainted with Evil, Weak Characteristics Magic Qualities and Inferiorities: Greater Power (Deadly Scream), Greater Power (Rally the Wooden Troops), Greater Power (Unwholesome Lust); Improved Abilities x 2, Improved Powers; Limited Gestures, Reduced Powers Personality Traits: Spiteful* +6, Mandrake* +3, Reclusive +3 Reputation: Deadly 4 (Local) Combat: Dodge: Init +6, Attack N/A, Defense +10, Damage N/A Soak: +2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1), –3 (2), –5''
 ''(3), Incapacitated (4), Dead (5+) Abilities: Brawl 3 (dodging), Hex 4 (5) (illness), Leadership 3 (poisonous plants), Magic Lore 1 (5) (poisonous plants), Mastery of Rally the Wooden Troops 4 (toadstools), Penetration 4+2 (scream), Profession: Apothecary 4 (poisons) Powers: Deadly Scream, 3 points, Init +6, Corpus or Animal: The mandrake root’s scream is deadly to all who hear it (deafness is an effective defense). Unlike a Mandrake of Virtue, this Magical mandrake can use this power at any time. PeCo(An) 50 (Base 30, +3 Sound, +1 Animal Requisite): Greater Power (50 levels), Improved Powers (5 mastery points, +3 Initiative, –2 Might cost) Rally the Wooden Troops, 2 points, Init +2, Herbam: see earlier; can only affect the Venenarium tribe. Unwholesome Lust, 1 point, Init +4, Mentem: The target of this power becomes inflamed with lust for a target chosen by the plant at the time of activating the power. She can do nothing except pursue the object''
 ''of her unnatural attraction until the duration ends. CrMe 20 (Base 4, +2 Voice, +2 Sun): Greater Power (20 levels, –5 for Reduced Powers, –1 Might cost) Vis: 2 pawns of Corpus, in root. Appearance: The above-ground part of a mandrake plant looks like a cluster of oblong, tapered leaves growing close to the earth. The root is about six inches long, fleshy, and has five lobes. It vaguely resembles a human figure with head, arms, and legs. Wrinkles and lumps on the uppermost lobe suggest a human face. The mandrake’s flabby ‘arms’ have no fingers, and it is unable to grasp or manipulate objects with any skill.''
 ''Mandrake is the evil genius of the Venenarium tribe, and is consumed with hatred for all things breathing. It prefers to work behind the scenes through intermediates and patsies, and avoids revealing itself to be the source of the character’s trouble. Note that this is a more powerful, animate version of the Mandrake of Virtue found in Realms of Power: Magic.''
-
-|]
 ''rather than antagonists, but the storyguide can make them more of a challenge by making them Summer characters (providing 240 more experience points) and/or increasing their Magic Might by 5 to 10 points, with a similar increase in Magical Qualities.''
 
 ===The Battle of the Trees===
@@ -359,8 +343,8 @@
 ''It is not possible to explore Hérisson’s Garden properly without first settling the conflict between the three tribes of magical plants. The plants essential for recreating his research — both as sources of Insight and Laboratory Texts (see later) — belong to all three tribes, and the characters need help from all three leaders. The arrival of the characters in the garden stirs the''
 ''Curtilagium and Hortulus into direct conflict, with the Curtilagium resenting the presence of predatory humans in the garden, and the Hortulus keen to make friends with them. Both sides covertly observe the characters for a while, looking for evidence of their intentions. This observation will probably go unnoticed, although characters with Magic Sensitivity may spot the presence of creatures with a Magic Might among the general magic of the garden as a whole. Be careful not to present the tribes merely as monsters to be killed, although some of them may take that role. They may initially prove a nuisance, but magi can probably deal with them easily. Settling the internecine battle between the tribes is essential for the characters to exploit the Garden’s secrets and the leaders of the tribe are each guard the knowledge''
 ''of where to find a third of its lore. Finding the Mistletoe of Herbam Vis (see later) early helps the character get a feel for the plants and the tension between the tribes. It is natural for characters to feast on the unseasonal bounty of the garden, helping themselves to fruit as they wander its bounds. Furthermore, as the characters discover vis, the reaction of most magi is to gather it. This rouses the hostility of the Curtilagium. Should the characters set up camp and start a fire, they provoke an attack from Malus, who directs several hardwood trees into the camp to trample the fire and characters alike. During the night, Mandragora has assisted the Curtilagium by surrounding the campsite in a thick hedge of brambles and hawthorn (treat as a Wall of Thorns spell, ArM5 page 135). From then on,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Malus, a Crab Apple==
 
@@ -369,7 +353,7 @@
 ''fect the Curtilagium plants with this power. ReHe 35 (Base 5, +1 Touch, +2 Sun, +2 Group, +1 Size): Greater Power (35 levels, –2 Might cost, Multicast mastery power) Creeping Chasm, 4 points, Init –2, Terram: By thrusting its roots deep into the earth, Crab Apple can duplicate the effects of the spell of the same name. ReTe 35: Greater Power (35 levels, +3 Init) Vis: 2 pawns of Herbam, in apples Appearance: A small tree about 12’ tall, but very gnarled and spiny, with dark green foliage and almost black bark. Its bright red apples are slightly elongated.''
 ''The Crab Apple is the leader of the Curtilagium because of its extreme self-confidence in its immunity to axes and other edged weapons. However, it has a secret in that its powers fail it in the presence of fire, and it always avoids any sources of flame.''
 
-|]
+|}
 ''sharp-eyed characters may notice toadstools lining the paths they make, and thronging in the grass whenever they stop for a rest. There is a distinct feeling of being watched, and the silence of the garden — since there are no birds or insects — becomes oppressive. On the second day in the garden, Linum sends a delegation to bring the characters to him. After resting, they notice a path of creeping buttercup, shining yellow against the green grass, which definitely was not present when they sat down. The yellow path winds its way through the garden to a flowery meadow where Linum is planted. Linum is clearly an animated plant, but magic is needed to actually understand it. If the characters are otherwise incapable of speaking to plants, Linum directs them to a Daisy of Intellego vis (see later). It wishes to welcome the characters to the garden, and apologizes for the actions of the Curtilagium. It explains their actions as being born of fear, and gives a brief description of the Curtilagium and its own tribe of the Hortulus. However, Linum does not mention the Venenarium tribe at all, as they are repugnant to it. Linum informs them that if Malus and the Curtilagium can be convinced of their peaceful intentions, then attacks such as those from the previous night will cease. Getting into a situation where they might speak to Malus is difficult, however. Linum can direct them to the orchard where it normally resides, but Mandragora has convinced it that the characters are here to destroy the garden, and the apple tree will not simply allow them to approach. Mandragora sends a crowd of animated Stinking Hellebore of Corpus Vis (see later) against the characters, and while they are paralyzed, Malus causes Honeysuckle of Mentem Vis (again, see later) to grow around them along with ivy, binding them fast (this operates like Trap of the Entwining Vines, ArM5, page 135). If this fails to stop the characters, Malus causes the under''
 ''growth to become almost impassable to protect itself from attacks. Its paranoia is almost all-consuming under the spiteful influence of Mandragora. All the while that Malus is under its influence, peace is impossible between the characters and the Curtilagium, and the garden cannot be safely used or studied since random attacks from both tribes will continue. Mandragora saves its most potent weapons for any direct attacks against itself, should the characters discover its involvement. It has a small amount of control over Dodder (see later), and uses this plant as an assassin against the most potent of its enemies. Its own Deadly Scream power is unveiled only once the Venenarium leader is in direct peril; while potent against opponents with no Magic Resistance, it can be easily countered. A particularly evil tactic is to slay a grog in secret then have Dodder animate the corpse so it can get close to its victims.''
 
@@ -389,15 +373,15 @@
 ''Creeping Buttercup Rego Vim 20 Pen 0, 1/day R: Per, D: Mom, T: Part A yellow-flowered plant that grows close to the ground. This plant contains a single pawn of Herbam vis, and once in its life it can be triggered to transfer this pawn into one of its seeds. The plant that grows from the seed likewise inherits the same power. (Base 10, +1 Part, +1 special effect)''
 ''Everlasting Orpine This tall plant — an orpine, or ‘livelong’ — has a red stem and a crown of pinkish-red flowers, and has been Prepared for Enchantment with 6 pawns of Vim vis (a Medium wooden object). It is still living, but since it was infused with vis it stopped growing and became sterile. This plant offers an Insight worth 2 Breakthrough points (see later).''
 ''Ever-Flowering Bramble Creo Herbam 33 Pen 0, 1/day R: Per, D: Sun, T: Ind This blackberry seed grows into a plant, flowers, produces fruit, sets seed and dies back over the course of a day. In the following day, the seed set by the previous day’s plant repeats the cycle. The fruit produced (about a handful) is pleasant to eat and nutritious, but unless at least one is left on the bush, the regeneration cannot continue. (Base 15, +2 Sun, +1 special effect; +3 environmental trigger)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Warped Plants==
 
 ''Plant-life suffers the same warping effects as do people (ArM5, page 197) and animals (Realms of Power: Magic, page 78). Annual and biennial plants escape such effects by virtue of their short lifespans, but perennial plants that are five years or older possess a Minor Flaw from warping, and most of the trees are over 75 years old and thus possess two Minor Flaws and a Minor Virtue. The most common Flaw possessed by the plants in Hérisson’s garden is (Form)''
 ''Monstrosity*, although some possess Offensive to Animals, Warped Senses*, or any Personality Flaw (for Flaws marked with an *, see Realms of Power: Magic, pages 47–51). Examples: cinnamon trees might have Ignem Monstrosity, causing them to burst into flames in response to loud noises; brambles with Wrathful might especially hurt anyone caught up in them; a rose with Lesser Malediction might drain of all color when in shadow.''
 
-|]
+|}
 ''Hazel of Many Tools Rego Herbam 5 Pen 0, charged item R: Per, D: Mom, T: Ind The straight branches growing from this hazel stump are suggestive of all sorts of wooden and metal tools. A character who names a tool next to the plant causes one of the twigs to form itself into the exact shape of that tool, which can then be broken off and used. The character must succeed in an Intelligence + Finesse simple roll of 9 or more to make a tool of standard quality. This is a Charged Item employing craft magic that has an unusual method of delivery, and 10 charges remain on the plant. (Base 5 — see Covenants, page 51)''
 
 ===Stirpes===
@@ -427,8 +411,8 @@
 ===Magical Plants===
 
 ''There are a number of magical plants in the garden that do not fall into one of the above categories. Some of these, such as the chiefs of the three tribes, and Dodder (see nearby insert), are animate plants with Intelligence and a Might''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Wrestling in the Herb Garden==
 
@@ -441,7 +425,7 @@
 ''x2, Minor Virtue (Puissant Brawl); Monstrous Appearance Personality Traits: Murderous +4, Brave +3, Dodder* +3 Reputations: Assassin 4 (Local) Combat: Grapple: Init +2, Attack +13*, Defense +13*, Damage +7 *	 By using its Sprout Limbs power, Dodder can act as a trained group and receive a bonus to either Attack or Defense of +12 Soak: +13 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)''
 ''Abilities: Athletics 5 (chase), Brawl 8+2 (grapple), Leadership 3 (own limbs), Stealth 5 (undergrowth) Powers: Sprout Limbs, 0 points, Init –1, Herbam: Dodder can weave up to eight limbs from the mass of tendrils which make up its body. It can therefore continue to attack and defend even when faced by multiple opponents, and should be treated as a trained group of four. Every two limbs used to strangle reduces the size of the group by one. Cr(Re)He 10 (Base 1, +2 Sun, +2 Group, +1 requisite): Lesser Power (10 levels, –2 Might cost, +1 Init) Strangle the Life, 0 points, Init +2, Cor''
 
-|]
+|}
 ''score, which are generally a product of Warping. The storyguide should populate the garden with other examples of sentient plants as she sees fit, using the rules in Realms of Power: Magic to give them appropriate powers. The garden also contains wonders from Hérisson’s travels, unique examples of plants that cannot be found anywhere within the bounds of Mythic Europe, but instead are from exotic far-off lands. An example of this is the Vegetable Lamb, a strange hybrid between plant and animal. It stands about four feet high, and has long dark green leaves. The most remarkable feature are on the tips of the stems, the head, forequarters, and body of a minuscule lamb complete with fluffy wool. The weight of these lambs cause the plant to bend down, and the sheep graze on the grass in proximity to each plant. When all the grass has been grazed out, the lambs stop moving and lose their distinctive heads and limbs, getting lighter in the process. All that remains is a fluffy ball of wool that can be processed like any other. A grove of cinnamon trees can be''
 ''found in the garden, which let off a pungent aroma and are prone to spontaneous ignition. There is a child of the Drudenbaum of Harberg (Guardians of the Forests, page 89), although the version in Hérisson’s garden does not produce vis for some reason. There may even be some of the totem trees from the mythical island of Soqotra (see Rival Magic, The Soqotrans) such as cinnabar, olibanum, myrrh, and aloe, each of which have their own magical properties.''
 
@@ -453,8 +437,8 @@
 
 ''The garden’s principal use is as the raw source material to recreate Héris''
 ''son’s research into Hermetic Viresculture. Hérisson had taken the route of Original Research (Houses of Hermes: True Lineages, page 26) to develop both a Major Breakthrough and a Minor Breakthrough in Hermetic magic. These required 45 and 30 Breakthrough points respectively, which were gained through experimentation when inventing spells and enchantments. However, a magus (or group of magi) recreating his work need not pursue Original Research himself, since Hérisson’s inventions still exist in his garden. Instead, these inventions may be studied as a source of Insight (Ancient Magic, page 8, or Hedge Magic, page 14) and then used to recreate the enchantment, earning Breakthrough points equal to the magnitude of the effect created. Because Hérisson’s breakthrough was fully integrated into Hermetic Theory, it is easier to comprehend his discoveries than to gain insights from non-Hermetic magic. When studying from one of Hérisson’s living Enchantments, a magus can simply investigate the source of Insight in a laboratory (see ArM5, page 100)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Dodder (cont’d)==
 
@@ -463,7 +447,7 @@
 ''ever, it can form into a horrid mass of writhing tendrils somewhat man-shaped, and weave many-fingered limbs from its body.''
 ''Dodder is a parasitic plant that grows over and strangles other plants, and this magical Dodder attacks more than just other plants. It often lies in wait for its victims, which it engulfs with its swiftly-moving strands and then sucks the life out of them. Dodder is incapable of speech, and does not respond to any form of communication, yet its tactics when hunting suggests that it has a baleful intellect driving it.''
 
-|]
+|}
 ''instead of attempting an Intelligence + Magic Theory roll (Ancient Magic, page 8). Once the effect has been determined the Insight can be used to duplicate its effect, which, once complete, grants Breakthrough points equal to the magnitude of the effect duplicated. Investigating one of Hérisson’s Stirpes also uses the Hermetic Investigation rules in lieu of a Magic Theory roll. Each Stirps should be considered to be an enchantment of Level 15, and the Insight gained is a version of Gather the Essence of the Beast (ArM5, page 162). The first time this Insight is gained it grants three Breakthrough points as usual. If another Stirps is investigated for an Insight, another version of the spell can be invented, but the second and subsequent versions yield just a single Breakthrough point each. If any of the other magical plants of Hérisson’s garden are used for a source of Insight (the Lesser Enchantment Vis, the Magical Plants, or the Enriched Herbs of''
 ''Virtue) then the process described in Ancient Magic must be used instead. Furthermore, those wishing to recreate Hérisson’s Minor Breakthrough of breeding Lesser Enchantment Vis must gain their Insights from these sources rather than Hérisson’s own creations, and they must have already rediscovered Hermetic Viresculture.''
 
@@ -474,23 +458,23 @@
 ===The Garden As an Hermetic Laboratory===
 
 ''Hérisson’s Garden is a fully-functioning Hermetic laboratory, albeit an unusual one. Unsurprisingly, the laboratory is highly specialized in the Art of Herbam, and gets an additional bonus to this Art due to the Herbam-aligned Magic aura of 6. To use the laboratory it must be adapted to the character’s own style of working (see Taking Over a Laboratory, Covenants, page 118). Hérisson did not provide any living quarters or furniture for himself, preferring to live in his laboratory in heartbeast''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Laboratory Texts from the Garden==
 
 ''At the option of the storyguide, Laboratory Texts for Hérisson’s own Original Research can be found in the garden. Each of his Hermetic creations provides Breakthrough Points equal to the magnitude of the effect once it has been studied by recreating the experiment (see Houses of Hermes: True Lineages, page 29 for the full process). However, it is unlikely that these Laboratory Texts are simple tomes of''
 ''parchment and wood. It could be that one such text is a small tree, each leaf inscribed with a single page of text, and deciphering Hérisson’s code consists of determining the proper order of the leaves. Another text might take the form of a fruit, with the words of the text written on the seeds found within it. How many pages will be eaten by the grogs before their real worth is discovered?''
 
-|]
+|}
 ''form, but any character moving in will probably find the need to build a hut in which to live. The Safety Characteristic of the laboratory has suffered since Hérisson’s day, and this will probably need improving. Laboratory equipment is provided by the garden itself: the gourds that grow on vines make ready-made flasks and alembics; bowls can be found in the cup-shaped fungi; tables, desks, and chairs are provided in the twisted branches of the trees over rocks; the Ever-Burning Tree is a source of fire, and the brook a source of water; and birch-bark paper can be simply unrolled from the trees. All manner of rods, pens, knives, and other simple tools can be quickly manufactured from the reeds, razor-sharp grasses, and countless branches and stems. A notable feature is the spring, which as source and destination of all the garden’s water serves as a Lesser Feature that assists in the extraction of vis. Naturally, all manner of herbal ingredients can be found, but there is also a good supply of animal and mineral components born by the stranger plants in the garden and among its wildlife. The more one looks for components, the more one finds objects that can be used in the laboratory. However, the eclectic placement and large size of the laboratory leaves the components chaotically arranged and somewhat disorganized.''
 ''The constant growth of equipment and ingredients is confusing until one adapts to the natural rhythm of the garden, and the seasonal availability of certain components often dictates what activities can be performed. When planning a season’s activity, roll a simple die. If it is under the Laboratory’s Warping Characteristic, then the equipment and ingredients for that ac''
 ''tivity are available and the season can progress as planned; else the character must pick a different activity instead. Add two to this roll in winter, when the garden is partially dormant.''
 ''Virtues: Natural Environment (Major, Structure); Lesser Feature (Minor, Structure), Specimens* x 3 (Minor, Outfitting), Spacious (Minor, Structure), Superior Decorations* (Minor, Outfitting), Vis Source (Minor, Supernatural); Idyllic Surroundings (Free, Structure), Inexhaustible Supplies (Free, Supernatural), Regio (Free, Supernatural)''
 ''*	 These Virtues do not increase Upkeep as they derive from living plants.''
 ''If the characters have successfully negotiated a truce with the garden plants, they also benefit from the Lesser''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: A Burning Desire==
 
@@ -502,7 +486,7 @@
 ''Best, MR and Brightman, FH eds. The Book of Secrets of Albertus Magnus. Samuel Weiser Inc., 1999. Collins, M. Medieval Herbals: The Illustrative Tradition. The British Library and University of Toronto Press, 2000. Fisher, C. Flowers in Medieval Manuscripts. The British Library, 2004. Jennings, A. Medieval Gardens. English''
 ''Heritage, 2004. McLean, T. Medieval English Gardens. Collins, 1981. Pliny the Elder. Natural History: a Selection. J. F. Healy trans. Penguin, 1991. Strabo, Walafrid. Hortulus. R. Payne trans. Hunt Botanical Library, 1966.''
 
-|]
+|}
 
 ==Story Seed: The Kidnapped Totems==
 
@@ -514,5 +498,6 @@
 ''Characteristics: Size +10 (+5), Refinement 0, General Quality –1, Upkeep –1, Safety –5, Warping +6, Health 0, Aesthetics +6''
 ''Specializations: Vis Extraction +3, Experimentation +2, Herbam +10, Imaginem +1, Muto +2''
 ''Personality Traits: Growing +3, Curious +2, Exotic +1''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

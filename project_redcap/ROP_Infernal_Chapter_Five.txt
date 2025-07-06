@@ -36,9 +36,6 @@
 
 =Demons as Corrupters=
 
-
-==The Infernal==
-
 ''while a Stable result indicates that the wound worsens. Once the infection has set in, only Divine aid in healing cleanses the wounds. Soak: +8 Fatigue Levels: OK, 0/0, –1/–1, –3, –5,''
 ''Unconscious Wound Penalties: –1 (1–7), –3 (8–14), –5''
 ''(15–21), Incapacitated (22–28) Abilities: Artes Liberales 4 (arithmetic),''
@@ -69,9 +66,6 @@
 ''(dodge), Guile 6 (boasts) Powers: Make a Liar of the Boastful, 5 points, Init''
 ''0, Vim: If this imp hears a boast and expends all of his Might Points, he can immediately grant someone nearby an Ability or Power that contradicts that boast, and cause them to use it immediately. Thus, if someone proclaims that she is the most beautiful woman in France, Bomburkhan can immediately make someone more beautiful than the boaster. This Power must penetrate Magic Resistance to grant the Ability or Power to the person, and that talent lasts for 1–10 rounds only (roll a simple die). A physical change, such as the example given above, lasts until the boaster and the target can no longer see each other. Insignificance, 0 points, Init 0, Vim: No''
 ''Magic, Infernal or Faerie Power can force Bomburkhan to use any of his Powers.''
-
-==Realms of Power==
-
 ''Misfortune, 0 points, Init 0, Vim: See''
 ''Ruchin. Coagulation, 1 point, Init –1, Corpus: See''
 ''Chapter 4: Infernal Legions, Demonic Powers. Obsession, 1 to 3 points, Init –5, Vim:''
@@ -106,8 +100,8 @@
 ''(Infernal) Hierarchy: 7 Combat: Claws: Init +4, Attack +4, Defense +4,''
 ''Damage +4 Soak: +5 Fatigue Levels: OK, 0, –1, –3, –5,''
 ''Unconscious''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Order: Masters of the Avengers of Evil''
 ''The decani are a type of Angel of Punishment, all of whom hold the rank of Master. They are powerful demons of disease, 36 in number, three for each sign of the zodiac. The diseases they cause each affect a different organ of the body, and these ailments are inflicted as a punishment for sin. Atonement is usually not sufficient for a surcease from the pain; suffering often continues until exorcism is sought out. Each decanus is balanced by a specific angel who is capable of providing relief from the disease it inflicts, if this angel can be persuaded to intercede on behalf of the victim. The names of the 36 decani, and the angels specifically designated to counter their diseases, are listed in the Testament of Solomon. The decani appear as typical Avengers of Evil, but appear to be afflicted with the diseases that they inflict.''
 ''An example of a decanus is Metathiax.''
@@ -118,10 +112,7 @@
 ==Decani==
 
 
-|]
-
-==The Infernal==
-
+|}
 ''Wound Penalties: –1 (1–6), –3 (7–12), –5''
 ''(13–18), Incapacitated (19–24) Abilities: Brawl 1 (claws), Charm 5 (per''
 ''suasion), Guile 5 (own self-importance), Infernal Lore 6 (superiors), Intrigue 5 (demonic plots) Powers: Coagulation, 1 point, Init –1, Corpus: See''
@@ -152,8 +143,8 @@
 ''Coagulation, 1 point, Init –1, Corpus: See''
 ''Chapter 4: Infernal Legions, Demonic Powers. Obsession, 1 to 3 points, Init –5, Vim: Pride.''
 ''See Chapter 4: Infernal Legions, Demonic Powers.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Famuli==
 
@@ -161,10 +152,7 @@
 ''An example of a famulus is Lickspitten. Infernal Might: 10 (Animal) Weakness: Running Water Powers: Lend Senses, 1 point, Init 0, Mentem:''
 ''While in physical contact with another being (the owner, for example), the famulus can lend that being either its hearing or sight. This effect lasts indefinitely, but if the eavesdroppers witness a display of religious sentiment, it is immediately terminated. For example, if a witch borrows the sense of sight, and sees someone cross himself, or views a crucifix, the power of the demon fails. Likewise, if the power of hearing has been borrowed then hearing church bells, the name of God, or a mosque’s call to prayer terminates the Power.''
 
-|]
-
-==Realms of Power==
-
+|}
 ''Punish the Sinner, 5 points, Init +3, Corpus:''
 ''See Chapter 4: Infernal Legions, Avengers of Evil. Weakness: Ordering Vis: 2 pawns of Vim, in wings Appearance: Clothed in a white robe''
 ''and shining with white fire, Guazzo’s white-feathered wings are usually wrapped around his comely frame. He carries a sword of fire.''
@@ -204,17 +192,14 @@
 ''Init +3, Vim: See Chapter 4: Infernal Legions, False Gods. The Wealth of Nations, 3 points, Init 0,''
 ''Terram: See Chapter 4: Infernal Legions, False Gods. His Master’s Voice, variable points, Init +1,''
 ''Vim: See Chapter 4: Infernal Legions, False Gods.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Lickspitten==
 
 ''The player magi slay an infernalist, and discover amongst his belongings a “magical” talking cat, trapped in a cage for some nefarious purpose. Lickspitten actually climbed into the cage when it became obvious that his former master would meet his end. He would love to become the familiar of a magus of the Order....''
 
-|]
-
-==The Infernal==
-
+|}
 ''Weakness: Running Water Vis: 2 pawn of Vim, in his tail Appearance: Lickspitten is a cat, com''
 ''pletely back except for ten white hairs on his belly, which form a five pointed star.''
 ''Lickspitten is a typical famulus in service to a witch. He demands to be fed blood from the witch’s own body, and in return performs minor chores such as hiding the taint of her unclean Powers, and allowing her to eavesdrop on the plans of her rivals.''
@@ -238,8 +223,6 @@
 ''inscribed with the sigil of Adonael) Vis: 8 pawns of Corpus, in water jug Appearance: Metathiax appears as an''
 ''emaciated angelic figure composed of black fire and clothed in a robe of red with a blue hood. He carries a jug of water. Like all Avengers of Evil, his face is expressionless. He rarely assumes a gross physical form, instead attacking his chosen victim using his Powers.''
 ''Metathiax is the decanus who inflicts diseases of the kidneys. When he uses his Punish the Sinner Power, stabbing abdominal pains are inflicted on the victim. The diseases he inflicts rot the kidneys and the bladder, causing extreme pain when urinating and the passing of blood. He rules the first third of Cancer’s reign, and always commences his attacks during the full moon. A knowledgeable exorcist knows that the attacks of Metathiax may be calmed by the reading of poetry, and those who attempt such therapy may gain a bonus to recovery rolls equal to one=half of the poet’s Ability score. Metathiax is thwarted by the angel Adonael.''
-
-[|
 ''Order: Tempters These two manifestations of the same creature are described by their role in sexual intercourse. The incubus, literally the one that lies above, is a masculine form, while the succubus, that which lies below, is a feminine form. They are, however, the same creature, one that uses its capacity to switch gender to harvest the seed of evil men, and convey it to evil women. These demons rarely target those outside the age of virility. An incubus or succubus appears as a handsome or beautiful human being, but can be distinguished from a human because its right hand is on the end of its left arm, and vice versa; the same is true for its feet. These demons take pains to conceal this fact.''
 ''Sex is a powerful corrupting force in the service of Hell (just take a look at the Book of Leviticus), and there are more demons devoted to it than just the Incubi/Succubae; while these are the most common, they are also the least powerful. More powerful sexual demons can often cause wounds to their targets or kill them instantly.''
 ''An example succubus is Druia. Infernal Might: 5 (Corpus) Virtues and Flaws: Enduring Constitution Weakness: Abhorrent Material (light) Powers:''
@@ -251,8 +234,6 @@
 ==Incubi & Succubae==
 
 
-|]
-
 ===Nitibus, a Personal Corrupter===
 
 ''Order: Tempter (Shedim) Infernal Might: 20 (Vim) Characteristics: Int +1, Per –1, Pre +1,''
@@ -263,13 +244,13 @@
 ''(11–15), Incapacitated (16–20) Abilities: Brawl 3 (claws), Charm 4 (cho''
 ''sen victim), Folk Ken 6 (character''
 ''faults), Guile 6 (imaginary faults)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Powers:===
 
 
-|]
+|}
 ''Apparition, 1 point, Init 0,''
 ''Imaginem: See Shedim.''
 ''Protection of the Close Friend,''
@@ -293,8 +274,8 @@
 ''–5, Unconscious Wound Penalties: –1 (1–7), –3 (8–14), –5''
 ''(15–21), Incapacitated (22–28) Abilities: Awareness 3 (legal authori''
 ''ties), Brawl 5+2 (claws), Folk Ken 5 (thieves), Infernal Lore 3 (necromantic objects), Intrigue 3 (Hell’s politics), Legerdemain 5 (filching), Stealth 5 (night)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Order: Tempters The ruchin (singular ruach) are the evil spirits who cause misfortune and illluck, in the vernacular often referred to as imps. It is said that a ruach is released from Hell every time a sin is freely committed, and that one is destroyed every time a selfless act is performed. It is a sad comment on the state of the world that the number of ruchin seems to be increasing day by day.''
 ''Ruchin appear as vermin: rats, bats, and insects, each with a twisted human face. They are never larger than Size –5.''
 ''An example of a ruach is Bomburkhan. Infernal Might: 5 (Vim) Weakness: Vulnerability (salt) Powers: Misfortune, 0 points, Init 0, Vim: As agents''
@@ -303,10 +284,7 @@
 ==Ruchin==
 
 
-|]
-
-==The Infernal==
-
+|}
 ''Powers: Honor Among Thieves, 3 point, Init 0, Corpus:''
 ''Each use of this Power prevents a single thief from revealing a specified secret. If the thief tries to speak the secret, his tongue does not move, and he attracts Valefar’s attention. Valefar then typically ensures that he dies, preferably by being hanged for a theft he did not commit. Itching Thumbs, 1 point, Init +5, Corpus:''
 ''Each use of this Power grants a thief a +3 bonus on a single roll that allows him to steal. It only aids actual theft, so it aids a pickpocket or window fisherman, but not a housebreaker climbing a wall or a lock picker opening a chest. The Sleep of the Hand of the Thief, 5 points,''
@@ -316,8 +294,8 @@
 ''venerate thieves) Vis: 3 pawns of Corpus, in his left thumb Appearance: Valefar appears as a large''
 ''hairless lion with the head of a man.''
 ''Diabolists have many uses for Valefar. His Powers assist conspiracy, and he is one of the demons that teaches how to manufacture magical items out of the remains of hanged criminals. Valefar can also find mandrakes for his masters. His imposing physical presence and knowledge of thievery make him a skilled guard. Because he is of relatively low intelligence, he is easily dominated by a quick-witted master. However, Valefar is not as dim-witted as one might think. He always leads his masters to the gallows before they can repent. He is aware that he is not a skilled schemer, but he knows many demons that are, and he is willing to work under their direction, so long as it always appears that he works alone. His limitation includes members of the Order of Hermes, who venerate Hermes. He therefore hates Hermetic magi and sets his people against them.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Order: Tempters The shedim (singular shedeh) are the true tempters of mankind; one of them is assigned to every human being in direct opposition to that person’s guardian angel. However, most people are not aware of their shedeh; those who have the Major Story Flaw Plagued by a Demon may have shedim that they are consciously aware of, that they can see, and that actively try to cause them to stray from the path of good.''
 ''The shedeh feeds from the yezer ha-ra (evil inclination), which is part of every person, and it is very difficult to shake off the influence of a shedeh, as it seems like an old friend. It may whisper to its target using its Envisioning Power, and such comments appear to come from the victim’s own head (and should be provided as advice from the storyguide with nary a mention of a demon).''
 ''A shedeh is left powerless if its victim realizes he is being manipulated and makes a positive effort to throw off the demon’s influence. This requires the spending of either a point of Confidence''
@@ -335,5 +313,8 @@
 
 ==The Hand of Glory==
 
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

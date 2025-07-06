@@ -27,8 +27,8 @@
 ''he is normally able to take Abilities of that type. Characters without this Virtue cannot even attempt rolls on an asterisked Ability without at least one experience point in it (ArM5, page 62). For example, he must have a Virtue permitting him to take Arcane Abilities to attempt an unskilled Magic Lore roll. Some Abilities are excepted from this Virtue, such as those that are not rolled (such as Parma Magica or Penetration), and all Supernatural Abilities (which require a specific Virtue for each Ability, rather than the type).''
 ''Master of (Form) Creatures''
 ''Minor, General The character is able to tame animals and other unintelligent beings that have a Magic Might aligned with a particular Form. During character creation, the character may take Magic Lore, and this Virtue may be taken multiple times, once for each Form. (This Virtue was originally presented in Realms of Power: Magic.)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Summary of New Virtues==
 
@@ -41,7 +41,7 @@
 ''Minor, General''
 ''Craft Guild Training Ferocity Forgettable Face Hermetic Experience Jack-of-All-Trades Master of (Form) Creatures Mild Aging Minor Enchantments Pack Leader / Natural Leader''
 
-|]
+|}
 ''Master of Kennels''
 ''(Minor, Social Status) The character manages the kennels for a noble patron, and is responsible for the training, breeding, and health of the animals. He employs additional staff appropriate to the size of the kennels. He is a commoner, yet treated with considerable respect by the household. If he has the privilege of riding with the hunt, then he may well be a skilled bowman. He is expected to organize the houndsmen, that is the dog handlers, as well as instructing servants or locals to perform that role. The Master of Kennels may learn Martial Abilities, and has 50 additional experience points at character generation to spend on the Abilities Animal Handling, Etiquette, Hunt, Latin, an appropriate Profession Ability (such as Feuterer or Farrier), and Ride. (Paraphrased from Lords of Men.)''
 ''Mild Aging''
@@ -69,8 +69,6 @@
 ''Careless with (Ability)''
 ''Minor, General The character is particularly reckless when it comes to a particular Ability, chosen when this Virtue is taken. This Ability should be one that is important to the character, or the troupe may veto the choice of this Flaw. When she fails, she does so dramatically. Whenever she rolls a zero when using the Ability, that zero is''
 
-[|
-
 ==Summary of New Flaws==
 
 ''Major, Personality''
@@ -88,8 +86,6 @@
 ''Manifest Sin Necessary (Realm) Aura  for (Ability) (Realm) Stigmatic Susceptible to Warping Viaticarus Warped by Magic''
 ''Minor, General''
 ''Careless with (Ability) Craving for Travel Curse of Slander Devoted Parent / Child Fish Out of Water (Terrain) Flashbacks Hallucinations Independent Craftsman Jinxed Lingering Injury Master of None Night Terrors Poor Living Conditions Primitive Equipment Raised in the Gutter Restricted Learning Rolling Stone Savantism Sleep Disorder Stuck in His Ways Uncertain Faith Uncontrollable Strength Uninspirational Unlucky Unspecialized Worthless Abilities''
-
-|]
 ''treated as a botch. She may need to roll extra botch dice depending on the circumstances, but she always suffer the effects of at least a single botch. This Flaw may be taken more than once; each time, it applies to a different Ability.''
 ''Companion Animal''
 ''Minor, Social Status, animals only The character is the Animal Companion of another character (either a player character or a storyguide character) and therefore has little control over his own life. He is largely dependent on his master for food and shelter, and has an additional Personality Trait of “Loyal to Master” which represents this bond. Among people who know his master, the character is treated better than he would be, perhaps as that person’s pet or bodyguard. Others most likely treat him as a brute or a dumb beast.''
@@ -195,5 +191,6 @@
 ''Minor, General A time-lost character (see Chapter''
 ''7: Grog Templates) must have about 30 experience points that have been rendered valueless by her shift in time. For example, she may have Area Lore of 3 for a city that no longer exists, or her Etiquette score may have been rendered useless by changing social structures. Troupes may per''
 ''mit companions to purchase this Flaw multiple times. In the example of the legionaries given in the Time-lost Witnesses template (see Chapter 7), their wasted ability is their Organization Lore. The army to which it refers no longer exists.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

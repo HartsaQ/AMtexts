@@ -1,5 +1,12 @@
 
-[|
+==Chapter Number Chapter Header==
+
+
+==Chapter Number Chapter Header==
+
+
+==Chapter Number Chapter Header==
+
 ''In a desolate and barren valley in Pomerania, a dark and forbidding forest rises from the wilted grass. Under perpetually dark clouds, the old, looming trees whisper words of warning in the wind. For generations this place has been known as truly cursed. No sane traveler passes within sight of this place, and not even the most desperate outlaw dares seek refuge here. This information was sufficient to pique the curiosity of Regulus ex Tytalus. Being ambitious as well as promising, he set off to meet the challenge and test himself, and that is the last record of him that exists.''
 
 ==History and Rumors==
@@ -11,8 +18,6 @@
 ==Variant: Shades of Grey==
 
 ''As an alternative, Regulus’ early dealings with the diabolists might have been more amiable. Being ambitious, callous, and overconfident, he was certain he could withstand the temptations of the demons and merely reap the rewards they offered him. He believed he needed the infernal gifts and powers to win Wyzwanie over, and once he had succeeded the demon Terentia came to collect her prize. But Regulus retained a single shred of reason and dignity — perhaps his time spent with the woodland spirit brought him to his senses — and he refused to cross the last threshold to outright diabolism. Terentia exploded in anger, and in the ensuing fight Regulus was killed. The fact that Regulus dealt with demons is considered Uncommon Knowledge (see sidebar, earlier). It should keep the player magi on their toes, making them wary of any treasure found. The basic challenge and story of the Cursewood remains unchanged, unless''
-
-|]
 ''the storyguide wishes all the treasures and artifacts to be tainted and potentially dangerous.''
 
 ==Introducing the Cursewood into the Saga==
@@ -31,8 +36,8 @@
 ==The Tytalean Red Herring==
 
 ''If one or more of the player magi are from House Tytalus, or if they are well-versed in the history of this controversial Founder, the story of a magus Tytalus going to a supernaturally affiliated forest and never heard from again easily''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==What is Known of Regulus==
 
@@ -52,7 +57,7 @@
 
 ''Airy Spirits are defined in Realms of Power: Magic as magical spirits of flora, fauna, natural elements, and even abstract phenomena such as emotions or sounds. Their powers and personalities are appropriate to the Hermetic Form they associate with, and they are basically a weak type of spirit. More powerful are the genii loci or spirits of place, which are a more powerful subset of the Airy Spirits who embody and represent a specific place. In the Rhine Tribunal the forest spirits are an example of these, but a genius loci may also reside in a hill, a lake, or the western wind. Even more powerful are the daimons, which are spirits living entirely in the Magic Realm that interact with the mundane world through aspects. The daimon can retract this aspect and send a new one at will, so that killing one has little meaning. Except, perhaps, for angering the daimon.''
 
-|]
+|}
 ''sparks ideas. Why does this sound so much like the Founder’s end? Is it merely a story fed by this myth? Did Regulus know something important and stage the situation? Was he really Tytalus returned in disguise? A player magus with a Tytalus rival could find himself lured into doing the hard work of penetrating the Cursewood, with the rival waiting to reap the benefits. In Pomerania, in the eastern marches of the Rhine Tribunal, bordering on Novgorod, the lands are covered in mighty forests and the population is very sparse. Among the hills in a remote area the Cursewood rises abruptly from the wilted and flat grassland of a barren valley.''
 ''The exact location is deliberately not fixed, but it is distant from the major settlements along the rivers and the Baltic Coast. In the neighboring valleys can be found tiny hamlets, farmsteads, huntingor logging camps, and all the inhabitants are terrified of the Cursewood. The main challenge in the location is surviving the hostile terrain and environment, which is unnatural and evil due to the Infernal taint of the place. The effect of the spirit’s intervention is to have nature itself resist any trespassers and any change, and after any clearance the elements of the place soon revert to their original and wild form, making the woods almost impenetrable. An expedition not guided by tough and skilled specialists and commanded by a strong-willed and resourceful leader is likely to not only fail in penetrating the woods but risks a horrible death.''
 
@@ -69,8 +74,8 @@
 ''Finally, the Cursewood could be placed in the Normandy Tribunal with little change. An example of a remote place is midway between Vannes and St. Brieve. The genius loci should instead be called Aergad. No further changes are necessary.''
 ''The Cursewood''
 ''The Cursewood covers a roughly circular area about 30 miles across, with Regulus’ sanctum in the regio at the center. Set at intervals at the forest edge are stones bearing the mark of Regulus and his home covenant, signifying that this was a registered vis source. The forest and terrain are unnaturally mixed, and often foreign to the local region. It consists of menacing and wilting pines, oaks, and willows, all hung with moss, lichen, and cobwebs. Most of the area is relatively flat ground. The occasional steep, rocky hill rises from the ground, the largest almost a mile across. Several small springs feed the lake at the center with streams running off, crisscrossing the forest. In many of the lower-lying areas these streams have created swamps. Low-hanging, dark clouds hang over the woods causing thunder and periodic icecold showers. Using a spell like Intuition of the Forest does not work because communication with the forest is really with Wyzwanie, and he is too tormented to be coherent or helpful, nor will he speak with intruders before they have proved themselves worthy. The failure of this spell does hint at the presence of a forest spirit.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Nature of the Curse==
 
@@ -81,7 +86,7 @@
 
 ''The affiliation of Regulus is important to characters aiming to research him and the Cursewood. If the player magi live in an old covenant, Regulus was once a member here. It doesn’t matter whether they are young or experienced. If they live in a covenant formed within the last century, Regulus was once a member of the covenant where either an older member or one of the player magi’s parentes originate. Information has been passed down from master to apprentice through the years, but not widely circulated. As an alternative, old covenant records or correspondence about the situation can be found in the library. See the section on Research later.''
 
-|]
+|}
 ''Trekking in the Cursewood''
 ''Penetrating the Cursewood is difficult and dangerous, and the main theme of the location is this challenge. It tests the leadership, cooperation, determination, and strength of will of those involved. Wyzwanie’s challenges are henceforth referred to as hazards. Each of the five stages represents a leg of the journey and causes the loss of one Long Term Fatigue Level. The storyguide describes the terrain and situation — along with any choices — and lets the players plan and choose to take countermeasures, using the mechanics described later. The troupe needs to choose a leader and a guide, although these roles can be changed in each stage. The leader is the person in charge of making final decisions, most likely a magus, but it could be a grog captain if the magi defer to him when in danger. Ideally it would be the character with the best Leadership Ability. The guide is the point man who uses his skills to make good progress and avoid dangers. This might be''
 ''the character with the best Ability score for the relevant terrain, but his Leadership Ability is also important. The leader and guide can manage a group of people no larger than their combined Leadership scores; exceeding this causes additional hazards as shown later. The main focus is on creating the feeling of doom and gloom of the threatening place, and so detailed rules can be foregone by a storyguide wishing to run the challenge in a looser way. Each stage of trekking requires a roll to check for progress and to avoid dangers, using the stats of the guide. The specific Characteristics and Abilities to be used depend on the terrain chosen, as does the nature of any hazards. The first stage is forest floor, and the characters are offered two or more choices''
@@ -93,8 +98,8 @@
 ''Trek Progress''
 ''Add one extra hazard for each person exceeding the maximum group size, defined as the combined Leadership scores of the leader and guide.''
 ''Roll  Result 0 or Botch Lost in the woods,   no progress.    Suffer four hazards 3   Suffer four hazards 6   Suffer three hazards 9   Suffer two hazards''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Forest Lore==
 
@@ -113,7 +118,7 @@
 ''Lost Secrets''
 ''The effects sound like ones caused by a single powerful spirit.''
 
-|]
+|}
 ''12  Suffer one hazard 18 or higher The first time this is   rolled, suffer only one   hazard, and for the next   stage the rolls are at +3.   If rolled subsequently,   no Hazards are suffered   during that stage, but   there is no bonus for the   following stage.''
 ''Retreat and Defeat''
 ''If the group decides to retreat, they suffer minimal harassment on the way out, which takes only an hour per stage. Wyzwanie might even be obliging and alter the terrain to be less difficult, for example, by turning a swamp into a small river flowing out. Eerie and unpleasant things still happen, but they are not dangerous and require no rolls. The terrain alters again behind the characters, so''
@@ -169,14 +174,14 @@
 ==The Regio==
 
 ''Regulus’ encampment is now hidden in a Magic regio of level 7. If Wyzwanie allows it, the regio may be entered by simply crossing the wall. Any not deemed worthy remain at''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Using Shortcuts and Magic==
 
 ''Bear in mind that magi may very well succeed in using shortcuts to the center of the woods. Flying over the treetops, tunneling below the forest floor, or getting an Arcane Connection to the center to teleport to are among the obvious ideas. However the regio can only be entered by those led by Wyzwanie, and he only allows this once he is satisfied. Persistent magi who find clever shortcuts may very well earn his respect that way, in the end. On the other hand the use of magic to deal with the hazards is by no means discouraged, and clever use of low magnitude magic or shows of force impress Wyzwanie. A magus showing strength this way is tested again with a completely different hazard before earning full respect. Obviously magi specializing in elemental and natural magic fare better than Mentem or Vim specialists here. A Herbam magus with a Magical Focus in wood can defuse or bypass most obstacles with ease, but still risks fatigue loss and multiple botches due to the hostile aura.''
 
-|]
+|}
 ''the mundane level. The encampment appears as it was before it retreated into the regio. At the side of the central lake is an area cleared of trees, where a stream from the hills feeds the lake. At the bank, a rowboat is tied to a stake. A moderately sized cottage has been built from stacked boulders, and is marked with Regulus’ sanctum marker. Inside there is space for a lab, but one has not yet been set up; the cottage only holds his books on magical subjects, and his journals. The oak clearly has unnatural features resembling a face in agony. Below the oak are the bones of Regulus, partly covered by dirt and growing weeds. His spirit has long since ventured into the Magic Realm through his continued challenge of the powers surrounding him. Here also lie scattered his enchanted devices; see the section on magical treasures later. Wyzwanie shows himself in the form of a huge boulder covered in vines, and starts to tell his story. For details about Wyzwanie, see Inhabitants later.''
 
 ==Vis Sites==
@@ -195,8 +200,8 @@
 ''On top of a hill where lightning strikes often stands a clump of trees, all with significant lightning damage. Charred branches glowing with a white light contain vis; up to 4 pawns of Auram vis sordida can be harvested each year.''
 ''De-Corrupting the Vis''
 ''Tainted vis stays corrupted, but once the Magic aura is dominant any future vis is clean, normal, magical vis. After a full year with no Infernal influence, all vis sources are free from corruption.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Changing the Aura==
 
@@ -207,7 +212,7 @@
 
 ''Does a diminishing Infernal aura simply fade out? Perhaps a tricky demon draws the remaining Infernal aura into a regio where he hides and grows in power. For example, Kraxios Lord of Wrath sees an opportunity here to ply his wicked trade. He has the power to cause people to dream witnessing their friends and neighbors perform acts of bestial atrocity, and to posses these false witnesses in order to egg them on to urge others to punish the imagined culprits. Kraxios affects several grogs who all become paranoid, spy on each other, spread rumors and in time perform sinful acts — or so he hopes. Eventually one or more grogs affected by this start causing trouble at the covenant. While the magi can contain this, it takes hard work to unravel the plot, which in the end leads to the unknown regio in the Cursewood.''
 
-|]
+|}
 
 ==Inhabitants==
 
@@ -228,8 +233,8 @@
 ''Binding the Magic Spirit ReVi 51 Pen 32, 24 uses/day R: Touch, D: Ring, T: Circle Activated by running the finger along the word “imprison” on the tablet. The effect binds a being affiliated with the Magic realm within a circle touched at activation, provided it has Might no higher than 30. (Effect: Base Effect; +5 for 24 uses/day, +16 for Penetration)''
 ''Regulus’ Staff of Unraveling Staff of elm wood, inset with a piece of basalt and a magnet, inscribed with ink of Hermes. The item was opened as a compound device with 16 pawns of vis, and all space is used.''
 ''Unravelling the Fabric of Aquam PeVi 40 Pen 0, 24 uses/day R: Voice, D: Mom, T: Ind Activated by pointing at target, and moving the tip in an up-and-down motion while saying “aquam.” The effect cancels an Aquam effect with a level no higher than 45 + stress die. (Effect: Base Effect, +2 Voice; +5 for 24 uses/day) The staff holds three similar effects for''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Vis Sordida==
 
@@ -237,13 +242,11 @@
 ''• Each season spent in close proximity to the vis (for example, using it in the lab) incurs a temporary Personality Trait of Wrathful +1. If the magus already has this trait (or one closely resembling it) increase this by 1 instead. If the magus indulges in a sinful act of Wrath the trait becomes permanent, but he gains a Confidence Point.''
 ''• Modify casting total by +5 per pawn. • Add three extra botch dice per pawn used; if the magus has ways of reducing the number of botch dice, he still rolls a minimum of one per pawn used. • Botches are more severe and often cause damage or put the caster in direct peril. • +1 bonus to Source Quality per pawn for studying Hermetic Arts. • If used to prepare an item for enchantment, ten levels of effects per pawn used are corrupted. Effects invested into the item must use the Experimentation rules until the corrupted levels are used up.''
 
-|]
+|}
 ''the Forms of Auram, Herbam, and Terram respectively, with the same levels and parameters. These are activated with different movements of the tip, while saying the name of the relevant Form.''
 ''Significatos''
 ''A Significato is a magically occurring phenomenon which magi may utilize in their study of magic. They are described in detail in Covenants, page 101. Magical creatures or events in nature can grant insight from''
 ''study alone. Resolve this as vis study with the event substituting for a number of pawns of vis equal to the magnitude of Might of creatures involved. In the Cursewood, events and places in nature — like a tree hit by lightning or a rock splitting from frost — have an effective Might in the range of 10–20 due to the''
-
-[|
 
 ==Wyzwanie, The Spirit of the Cursed Wood==
 
@@ -255,8 +258,6 @@
 ''agreement is reached even those who have spoken with him suffer the challenges again if they return to the Cursewood. Should the Infernal taint and artifact be removed, Wyzwanie is finally at peace. He still follows his nature as a hostile forest and as such the “curse” remains. However, clever player magi can negotiate for free passage for themselves, thus opening up a secluded and protected location with many valuable resources. As the friendship with Wyzwanie evolves, provided the magi visiting him or even residing in his woods are respectful of the dangerous forest, the daimon can be the source of many boons to the magi. Depending on which resources are available and desirable to the troupe, he may tell them how to learn Nature Lore (see Guardians of the Forests).''
 ''Cult of Wyzwanie''
 ''Player magi who manage to free Wyzwanie from the torment of the infernal device can communicate with him. While he has no interest in any worshipers or reverence he wishes his forest to be kept safe and rewards both loyalty and those he finds worthy. Regulus was working on a sort of Mystery Cult using the mechanics for Walking the Path from Guardians of the Forests (pages 35–40), by communing with Wyzwanie. The character makes a Sacrifice (by accepting a Flaw), finishes a Quest (by serving the spirit in some way), in order to gain the Fruit (a Virtue). The strong presence of natural elements suggests Affinities or Puissance with Auram, Aquam, Herbam or Terram as being appropriate, as well as Major or Minor Foci with these elements or with spirits. Also appropriate are Ways of the Forest or a variant of Elemental Magic (ArM5, page 41) affecting Herbam rather than Ignem, called Nature Wizard. Quests all pertain to cleansing the forest of Infernal corruption, keeping it safe, or seeking out and destroying Terentia’s followers.''
-
-|]
 ''magic spirits inhabiting the object, equivalent to 2–4 pawns of vis for study. At least one Significato can be found for each of Auram, Aquam, Herbam and Terram; clues to these are found in the journal of Regulus. Any individual Significato may only be studied once per year, and Wyzwanie allows the use of only one each season. As long as the Infernal aura is dominant, the Significatos count as vis sordida, as explained earlier. Unless an agreement is reached with Wyzwanie, the Significatos can’t be used, since the curse actively repels intruders and makes study impossible.''
 
 ==Variant: Dark Faerie Aura==
@@ -279,16 +280,12 @@
 ''Official House Mercere records list him as giving his home covenant as the place to leave messages for him, under the condition that he was personally responsible for col''
 ''lecting them. House Guernicus notes him officially entering the Order upon completing his Gauntlet and swearing the Code. Considering the fact that he was Tytalus, there are few remarks about him in legal documents. Apparently, he reported having fought some diabolists and something about the demon Terentia, but there was no suspicion of him handling the situation in any improper way. Casual remarks label him as having Vim as a special interest. Records among his fellow Tytali wisely enough contained no information about his activities or whereabouts, but they confirm his identity, history, and interest in Vim and spirits.''
 
-[|
-
 ==Corrupted Trees==
 
 ''A corrupted tree does not fight using the usual rules. The tree waits for an opportune moment when a lone individual is distracted, just below its branches, or even resting up against the trunk. It then makes a surprise attack to grapple or immobilize the victim and proceed to digest his body. Content with one victim, most trees try to fend off other people by striking them with its branches. The multiple branches do not attack as a group, and only one branch attacks each victim at a time. Due to the sheer size and toughness of the tree, only heavy, sharp-edged weapons stand a chance of hurting it. Living wood counts as “barely flammable,” requiring Ignem spells of base 10, or fire damage of +15. The storyguide needs to use common sense regarding other spell attacks. Crystal Dart works, but Piercing Shaft of Wood can’t hurt it. Most of its attacks cause Deprivation from lack of air, for which rules can be found in ArM5, page 180.''
 ''Corrupted Oak, Willow, or Pine Infernal Might: 10 (Herbam) Characteristics: Int 0, Per 0, Pre –6, Com –3, Str +5, Stm +5, Dex –2, Qik –3 Size: +5 Ferocity Score: 1 (3) Virtues and Flaws: Ferocity, Corrupted Tree Personality Traits: Bloodthirsty +6, Patient +3 (+6 for Pine) Combat, Oak: Grapple with branch: Init n/a*, Attack +16*, Defense +7, Damage +10 Strike with branch (4 in total): Init +5, Attack +10, Defense +7, Damage +10 * As an ambush the oak always''
 ''strikes first and has a large bonus to the attack roll due to surprise. If a grappled victim is not freed within three rounds, the victim ends up in a cavity in the tree which closes and slowly suffocates him. Causing a Heavy Wound or higher hacks the trunk open and frees the victim. Combat, Willow: Grapple with branch: Init n/a*, Attack +19*, Defense +7, Damage n/a (only strangling) Strike with branch (12 in total): Init +9, Attack +13, Defense +9, Damage +7 * As an ambush the willow always strikes first and has a large bonus to the attack roll due to surprise. The grapple is with one or more thin, whip-like branches in a stranglehold across the throat. The tree lifts the victim off the ground, choking him. Barbs sprout from the branches dealing +5 damage per round Soaked only by Stamina and modified by Wound Penalties. The rest of the branches are used to keep other potential victims at bay while it drinks the blood. Combat, Pine: Spray of Sap:Init n/a*, Attack +19*, Defense +5, Damage n/a (only choking and immobilization) Strike with branch (6 in total): Init +9, Attack +13, Defense +9, Damage +7 * As an ambush the pine hits automatically. When a potential victim moves below its branches the tree sprays him from behind with sap to pin him to the ground and choke him and drops a thick layer of pine needles to hide the victim. The victim can’t breathe and is immobilized when the sap hardens. To move in any way during a''
 ''round, the victim needs to make a Strength – Encumbrance roll. The Ease Factor is 6 in the first round, and 9 in the second, but increases to 12 on the third and later rounds. Following the initial attack the Corrupted Pine stands motionless and relies on not being identified as the source of the attack. As it looks like all the other pines growing around it a stress roll of Perception + Awareness against an Ease Factor of 15 is required to identify it. If attacked it defends itself with its branches. The Corrupted Pine feeds on the decomposing body with its large network of roots. Powers: Animated Branches, 0 points, Herbam. The tree can move its branches around, using them as weapons. Soak: +12 Oak and Pine, +8 for Willow. The only useful mundane weapons are heavy, sharp weapons such as axes. Fatigue: Tireless Wound Penalties: 0 (1–10), –1 (11–20), –3 (21–30), Incapacitated (31–40), Dead (41+). Dealing a Heavy Wound renders one branch non-functional (a Medium Wound is sufficient to destroy a branch on a Willow). Once all branches are destroyed, or the tree is Incapacitated, it is unable to attack or defend itself. It recovers fully over the course of a few weeks unless completely killed. Vis: Each tree destroyed leaves behind 2 pawns of Herbam vis sordida. Appearance: The corrupted tree is a twisted, wilted and eerie version of its type, but most other trees in the Cursewood also look like this.''
-
-|]
 ''Regulus’ Amica''
 ''As an extra clue, a descendant of a trusted amica of Regulus sends material to the player magi. Regulus had corresponded with Mara, a young ex Miscellanea maga whom he sought to recruit for his project of a new covenant and Mystery Cult. Regulus sent her a book written by him, as mentioned earlier. Intended to help her find her way, it also offered cryptic clues hinting of the existence of a powerful spirit residing in the Cursewood, that getting to the goal is a challenge of one’s will and determination, and that something of great importance is hidden and protected in the woods. She ventured there once, but her approach was thwarted by the curse. Mara herself produced a book, Curses and Corruption, a Tractatus on Area Lore: Cursewood, Quality 8, which was passed down through her lineage but neglected as uninteresting. Once Regulus stopped writing, she gave up on the idea and died a few years later. When Regulus entered the woods he gave Mara his sigil as his proxy, with permission to pass it down to her Hermetic descendants.''
 ''The Prying Monk''
@@ -302,14 +299,14 @@
 ==Researchers Have Hit Paydirt==
 
 ''Survivors of the first expedition have returned home to recuperate and are curious about the Cursewood and Regulus. If any information about this is shared in Hermetic circles, new avenues of information may open up, fellow magi or academics coming forth with help. Researching the history or geography of the place leads to knowledge that makes a second expedition more likely to succeed. Books on Area Lore: Cursewood (see Researching the Cursewood, earlier) are highly useful. Reading these tells the magi to prepared for withstanding supernatural effects pertaining to weather, earth, water, and trees. Theories about the Infernal aura and how to suppress the effects are also valuable knowledge. After reviewing the new information, and armed with experience from the last foray, intrepid magi can prepare in a more dedicated manner. They have a better idea of what''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Destroying the Infernal Artifact==
 
 ''One of the Infernal artifact’s powers is the ability to reform if destroyed or to move to another physical form, although this takes time. It can be hidden under the deepest seas, entombed below ground, or tossed into a volcano, but Terentia is forever drawn to it. These are only temporary solutions which open up further stories. For true and permanent disposal the artifact must be taken to a truly holy place, and only a completely pious person can destroy it. In game mechanical terms it needs to be taken to a cathedral or other place with a Dominion aura of at least 5. Here, an ordained clergyman possessing True Faith can, after hours of prayer and ceremony, destroy the artifact by expenditure of a Faith Point. The artifact need have no powers that can affect the characters; maybe only a demon can use it. It can, of course, be given powers if that suits the story the troupe wants to tell.''
 
-|]
+|}
 ''arcane secrets and resources can be found and can even work on restoring the woods to a place of magic.''
 
 ==Chasing Rivals==
@@ -319,5 +316,6 @@
 ==Bringing Criminals to Justice==
 
 ''Magnus the Quaesitor approaches the magi who are veterans of the trip to the Cursewood. Even if little information has been shared with the Order, he knows at least the location and the cursed nature of the place. He was recently working on a case of suspected diabolism practiced by a Hermetic maga and her infernalist cohorts. A Hoplite on their tracks last reported them as taking refuge in the Cursewood, from where they have failed to return. Magnus asks the magi to do their duty and help bring the criminals to justice. Since one can only guess what vile deeds they are up to in the infernal place, time is of the essence. If the player magi succeed in convincing Magnus that they need time to prepare, he insists they send scouts to keep an eye on things and make sure the criminals don’t get away. Even if the diabolists have all perished in the woods, he feels obliged to find their earthly remains, summon the ghosts and interrogate them to make sure the diabolical plot does not reach further. Some characters may be suspicious of a Quaesitor so bent on entering a cursed forest to summon Infernal ghosts, of course.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -50,8 +50,8 @@
 ''•''
 ''•''
 ''•''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''This story seed demonstrates medieval views concerning money, and it is a story most players will have heard before. A man is very wealthy, but refuses to spend his money properly. Instead he hoards it, and spends hours each day in his counting house. He is, in game terms, investing his Labor Points rather than spending them on lifestyle. He has a young wife, who would like to spend the money, but her husband refuses to care for her properly, by giving her fine things. She takes a lover, who is a young rogue with a magical animal as a companion. The animal trips the miser at the top of the stairs, so that he falls and dies. The young couple marries, spend the money, and live happily ever after at the limit of their credit.''
 ''The twist, for a merchant character, is that the old miser was a part''
 ''ner in the company that employs the character, or in a current venture. When the young couple liquidates the miser’s holdings, many employees suffer. A skilled negotiator may be able to salvage the business, and the livelihoods of the employees, by tricking the couple into selling the business for far less than it is worth. This is worth a season of Labor Points.''
@@ -62,7 +62,7 @@
 ==Saving the Business of an Old Friend==
 
 
-|]
+|}
 ''Stories completed swiftly sometimes do not prevent the character from working for Labor Points during a season.''
 
 ==Investing Time==
@@ -83,5 +83,6 @@
 ''•''
 ''•''
 ''•''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

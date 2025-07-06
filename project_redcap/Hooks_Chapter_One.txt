@@ -1,10 +1,6 @@
-
-[|
 ''Welcome to Hooks, an adventure supplement for Ars Magica Fifth Edition. The library of Ars Magica Fifth Edition supplements contains many exciting and intriguing story opportunities for your saga. However, it is sometimes difficult to provide a rationale, in play, that draws the player characters in these new story directions. This book, Hooks, provides your troupe with a set of short scenarios that each lure the player characters into new story opportunities. Each scenario is intended to introduce another supplement for Ars Magica Fifth Edition, and has been been written to''
 ''only take a single session of play, although depending on your troupe the scenarios may actually take longer to resolve. There is nothing wrong with your troupe if this happens! The scenarios all offer suggestions as to how your troupe can extend the story in later play using the target supplement, but your troupe does not need to extend the scenarios if you do not want to. Playing these scenarios gives your troupe the chance to see whether you enjoy a certain sort of story, and a launchpad for more of the same if you do. If you don’t, the scenarios are perfectly playable as one-off adven''
 ''tures either by themselves or as interludes in a larger saga. Some chapters refer to the rules and terminology of their target supplement (or other Ars Magica Fifth Edition books). If understanding these rules and terms are critical to using the chapter’s scenario a brief explanation is given in the text. Otherwise, these references are not directly relevant now, but may be relevant later if the troupe continues to explore the story possibilities in later play. Note that your troupe does not actually require the target supplements to play these scenarios; they are intended as tasters.''
-
-|]
 
 ==Hooks The Scenarios==
 
@@ -41,5 +37,6 @@
 ==To the Dark Tower==
 
 ''A noble knight has a terrible vision of the ruin that the covenant will bring to his lord’s lands. The knight thus travels on a quest to slay the player character magi. This scenario introduces the Lords of Men sourcebook.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

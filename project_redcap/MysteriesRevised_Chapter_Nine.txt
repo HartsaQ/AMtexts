@@ -11,8 +11,8 @@
 
 =Hermetic Theurgy=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Daimons are ancient, named, individual spirits: the spirits of heroes and of ancient pagan deities, or the powerful spirits of sacred groves. Unlike simpler spirits, a Daimon can manifest in several places simultaneously, projecting only an Aspect of itself.''
 ''Magi do not summon or bind the Daimon itself: the pact spell below summons an Aspect of the Daimon. It is difficult to effectively threaten a spirit that sends no more than an Aspect, as the spirit can discard the Aspect at any time with no real loss to itself. Even if the summoner magically binds the Aspect, it''
 ''will just fade away to nothingness if the Daimon wishes. (See also Theurgic Spirit Familiar, The Daimonic Aspect.)''
@@ -23,7 +23,7 @@
 ==Daimons==
 
 
-|]
+|}
 ''power, they allowed the Daimons to be conjured, and gave influence and the power to command them in this life.''
 ''This Mystery School differs from that of Hermetic spirit magic, for spirit magic deals with relatively minor unnamed (to the knowledge of men) spirits, which it uses simply as a power to allow the sustenance and empowering of the magi’s magic. Name magic instead deals with the making of deals and bargains with potent magical entities.''
 
@@ -60,8 +60,8 @@
 
 ''When using Names of Power in Hermetic theurgy, a maga does not cast them as actual spells.''
 ''If a maga writes a Lab Text for an Invoke spell that includes Names of Power, they are part of the formula for''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Synthemata==
 
@@ -84,7 +84,7 @@
 ''The level of spell is five times the desired bonus. Range, Duration, and Target are fixed.''
 ''(General level)''
 
-|]
+|}
 ''the spell but convey no special benefit to other magi when learning or casting the spell. Many Invoke spells that have been handed down contain Names as part of the Invocation.''
 
 ===Invocation Magic and Names of Power===
@@ -105,8 +105,6 @@
 ===Consummate Talisman and Names of Power===
 
 ''The Consummate Talisman Virtue (see Chapter 10: The Great Talisman, Consummate Talisman) lets a magus instill meta-magic effects in his talisman, and have the talisman affect his own spellcasting. He may instill known Names''
-
-[|
 ''Those who practice the magical beliefs of Gnosticism are concerned with the magic of synthemata, and the school associated with learning these true names and using these names and pursuing a magical religion, is also known as Hermetic theurgy. The Divine aura’s interference with magic has led to many radical ideas among the Order’s theurgists, and some believe the Divine aura to be the product of the Demiurge, God’s intermediary, but different schools of theurgy see the Demiurge in different roles.''
 ''Most monotheistic theurgists believe in one, good Demiurge. For them, the Divine aura is a product of mortals living lives without the spiritual rites of theurgy. By living lives devoted more to bodily needs than spiritual, mortals wrap their surroundings in the Demiurge’s terrestrial influence. Monotheistic theurgists pray to the Demiurge and even to the pagan gods in much the same way as medieval Christians pray to saints, and see these beings as heralds or intermediaries between humanity and God.''
 ''Some monotheistic theurgists believe in various Gnostic principles. For them, the Demiurge is an evil spirit blocking the path to the true god. The Demiurge creates Divine and Infernal auras to thwart humanity’s attempts at true salvation, which is attained not by conventional religious means but by''
@@ -119,8 +117,6 @@
 
 ==Gnosticism and Theurgy==
 
-
-|]
 ''of Power and have the effects boost his Casting Score. The actual name, spoken out loud, is a required trigger for such an effect.''
 ''To benefit from Name of Power effects, the magus chooses one or more Name effects instilled in his talisman, casts the spell in a firm or loud voice and includes the triggering names in the spellcasting. He may apply a Name of Power effect to the Casting Score of any spell (Spontaneous, Formulaic, or Ritual) that matches the scope of the Name of Power. Add the total bonus of triggered effects to the caster’s Casting Score, limited by his Magic Theory score.''
 
@@ -158,8 +154,8 @@
 ''An Invoke spell cannot be instilled as a device effect, even if the device can speak, since the magus must first seal a pact with the spirit, and devices cannot have such a pact.''
 ''Invoke the Spirit of (spell) and Invoke the Spirit of (Form) call specific spirits to perform spellcasting for the magus. He summons the spirit and instructs it as to the casting required, which takes extra time but allows him to vary the spell (in the manner of Flexible Formulaic Magic). The spirit casts the spell as a power, so no die roll is involved and the spirit cannot botch the spell. There are many minor spirits in Mythic Europe, and the laboratory work to invent the spell is enough to discover the name of a spirit that suits the magus’s need.''
 ''Like most beings, a spirit can only be in one place at a time, which may cause''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Most spell spirits have limited intelligence, just a spark of magic: They are not usually great conversationalists. While in attendance on one who has Invoked them, they can be seen by those who can see invisible spirits (e.g., with Second Sight). Others can attack the spirit, or attempt to force it to submit to their will. The spirit resists others with its Might, and spells or powers that try to command or subvert the spirit must also exceed the level of the Invoke spell that commands it.''
 ''In game terms, the laboratory spell design work allows the magus to choose an arbitrary spell and invent a spell to''
 ''summon a spirit to match it, rather than finding a spirit and determining what spell it can cast. It is not clear whether the spirit knew the spell beforehand, or the magus’s spell research in some way taught the spirit. (Since the spirit’s power directly reflects Hermetic magic in both strengths and weaknesses, some argue that the theurgist must teach the spirit; however, theurgists deny this, and claim that they simply summon spirits.)''
@@ -168,7 +164,7 @@
 ==Spell Spirits==
 
 
-|]
+|}
 ''problems for rival theurgists who have shared a grimoire. However, a magus may summon several spirits intended to invoke the same spell power.''
 ''Invoke the Pact of (Daimon) calls a specific Daimon, an intelligent, powerful spirit, that will send one of its Aspects to attend the summoner. Daimons may know many things, and usually perform some favored service for their summoner, or the summoner can bargain for other services.''
 
@@ -326,8 +322,6 @@
 ===Finding and Binding a Daimon===
 
 ''A magus who seeks a Daimon familiar must research a likely Daimon, deter''
-
-[|
 ''Daimons and similar unique powerful spirits have a special power of creating an Aspect. The Aspect is a fraction of the whole spirit sent into the mortal world to interact temporarily with others, while the core of the spirit remains in its place of power, such as the Hall of Heroes.''
 ''Each Aspect is like an independent spirit that can be created or allowed to lapse in an instant. Each starts without wounds, and with its own pool of Might points (Daimons are untiring spirits, and do not have fatigue levels). The Daimon may have powers that are limited in uses per day (for example, an ascended magus’s talisman enchantments), and each Aspect counts these separately. An Aspect does not recover wounds or Might points used while on Earth, rather it is eventually dispelled and later replaced by another Aspect.''
 ''There is no fixed limit to the endurance of an Aspect, but they only remain while they are conscious and have Might remaining.''
@@ -338,8 +332,6 @@
 
 ==The Daimonic Aspect==
 
-
-|]
 ''mine its abilities as they are understood by magi (including determining whether they are in sympathy with his magic), learn as much as he can of its name, history, past life (if any), its beliefs and habits — and whether it is likely to respond well to the suggestion of bonding itself to a magus. (As a rule of thumb, if the (Technique + Form) proposed for the bond is less than 2 x Might, it is likely to reject the magus as not worthy.) (Consult Appendix C: Mysterious Beings for examples of Daimon powers and characteristics.)''
 ''If the magus judges it a good match, then he may invent a version of the Invoke the Pact of (Daimon) ritual to summon this Daimon, and offer himself to it as ally. (Noting that use of Hermetic synthemata to compel attendance will not generate a favorable opinion.) Unlike the lesser spirits, summoning a Daimon is an acceptable means to initiate contact — indeed, essentially the only means.''
 ''If the magus has judged the Daimon well, and impresses it, then it may agree to join him; if he misjudges, annoys, or irritates it, it may take affront at his suggestion and even attack; or if generous, it may decline his offer but consider the normal pact service for the magus.''
@@ -360,8 +352,8 @@
 ''The hierarch constructs a prototype ascendant form for himself, embodying''
 ''all that is best in his magic. The hierarch temporarily takes on an aura of power and perfection. While the ritual effect lasts, the hierarch’s followers cast Transformation of the Ascendant Hierarch, in the hope that their hierarch will make progress to perfection. During the ritual’s effect, all of the hierarch’s abilities (except his future Magic Might) are manifest in their strongest form, although the hierarch is carried away by his own immanent glory and cannot usefully act other than to accept ritual offerings.''
 ''The Mystery rite requires the intendant hierarch prove himself and his celebrants’ worth: the celebrants must prove their worth by overcoming the intendant hierarch’s Magic Resistance with their own Ritual spell. No short-cuts are permitted, so the magus must have performed his full Parma Magica, and manifest (not suppress) his full Magic Resistance.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Immortal Magi as Familiars==
 
@@ -373,7 +365,7 @@
 ''Little is known by mortals of the Hall of Heroes. In Christian times, most people, including magi, would deny that any such thing remained at all. (Many Hermetic magi prefer to stress the secular nature of their learning, and describe Daimonic spirits as “just part of the spirit bestiary.”) Nevertheless, Daimonic spirits appear to exist, and there are significant numbers of them, even just counting those known to Hermetic magi. Pagan magi claim that the pantheon of gods still exists, if mostly cut off, with access to and by worshippers today confined to the sacred groves, which often exist in magical regios.''
 ''The new spiritual magus may encounter other Daimonic spirits; some may prove to be allies if approached favorably, others may be hostile (or part of enemy groupings in the Hall of Heroes). Spiritual allies may guide the new magus, or even assist him. They may perhaps be bargained with for assistance, as all the remnants of the old pantheons desire the “worship,” observance, prayers, and offerings of mortals.''
 
-|]
+|}
 ''The Technique and Form of this Ritual are the hierarch’s best Arts, and the level of the Ritual must equal or exceed their total, and a minimum level of 40. When the whole process is complete, the ascended hierarch will have a Might of (this Ritual’s level/2).''
 ''Once begun, the ascendant form continues until the Transformation of the Ascendant Hierarch has been performed, after which either the magus ascends as a Daimon, or both spells end. The Transformation Ritual must be completed before sunrise or sunset.''
 ''(Special Mystery)''
@@ -422,8 +414,8 @@
 ===Ascension===
 
 ''The magus becomes a pure, perfected, unchanging immortal, divorced and cut off from the mundane world. The new spirit may be seen in the heavens as''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Familiars and the Ascendant Magus==
 
@@ -431,7 +423,7 @@
 ''Otherwise, the familiar faces a choice when its master ascends: it may remain in life and lose him, or join him in ascendancy by sharing the ritual Ordeal, provided additional pawns of raw vis equal to the Familiar Bond Score/5 (round up) are expended in the Ritual. (The mystery allows for this — see also Appendix A: Immortal Magi, Becoming Immortal with a Familiar.)''
 ''Ascended heroes with companion familiar spirits form some of the famous heroic pairs in the Hall of Heroes.''
 
-|]
+|}
 ''a nova stella, or new star. When he first ascends, he shines brightly, to announce his presence to the world, but over time his brilliance may fade to reflect his relative status among the other heroes. It is said that the greatest heroes and gods from the time of myths ascended to form entire constellations, but no new constellations have arisen in known time.''
 ''Such ascended spirits form some of the heroes in the Daimonic bestiary: It is now possible to summon the magus.''
 ''The magus’s talisman, if he has one, becomes a part of his immortal being, a source of power from which he can invoke effects — just as he could in life. (This is true whether the talisman is a normal object, or his spirit or body — see Chapter 8: Hermetic Spirit Magic, Inscription on the Soul and Spirit vs. Body Enchantments.)''
@@ -442,8 +434,8 @@
 
 ''As a Daimon, a magus has the Daimonic power to manifest Aspects in multiple locations simultaneously (see The Daimonic Aspect).''
 ''The Daimonic magus is immune to aging and Warping. He has the immortal benefit of resistance to, and undoing of change (see Appendix A: Immortal Magi). However, the Daimonic magus has surrendered all earthly ties, including laboratory use, and cannot use the talisman enchantments of Appendix A to study and improve. This might seem to mean that the Daimon magus cannot learn as he cannot change, but players should not''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The normal Daimonic summoning spell is more of a contractual bargain than initially appears, as the Daimon gains spiritual strength that can be used for learning, and in return a summoned Daimon performs an agreed-upon service. This may explain why Daimons are generally agreeable when summoned, in contrast to other summoned beings, who generally resent the summons.''
 ''A player-character Daimonic magus may be summoned by an Invoke Pact spell devised for his spirit. This provides''
 ''him with the pact benefits in return for his providing a magical service, just as with a normal Daimon spirit. Players may well find that gaming out such services provides a new and different story theme for the troupe.''
@@ -452,7 +444,7 @@
 ==Invoke the Pact of (Daimon)==
 
 
-|]
+|}
 ''despair for their favorite characters, for the cultist magi left behind may perform rituals to aid the spirit, granting further powers and abilities.''
 ''A Daimon is an untiring spirit, with no Fatigue levels. (In this, it is similar to a faerie.) Mundane activities that might tire a mortal being do not tire a Daimon. For magical activities that call for the expenditure of Fatigue, the Daimon expends 5 Might for each Fatigue level normally expended. This includes casting Spontaneous Magic, Formulaic spells where Casting Total is below spell level, Ritual spells, and Virtues like Life-Boost and Life-Linked Spontaneous Magic.''
 ''If the loss of Might to replace Fatigue takes an Aspect to 0 Might or below, it fades away and returns to the parent Daimon. (The spell succeeds or not according to the normal rules for Fatigue loss; in most cases the effect is produced and then the magus loses Fatigue or Might.)''
@@ -588,5 +580,6 @@
 
 ''If the magus has a sympathetic or Arcane Connection to the being, he may use this in a similar manner to those with Hermetic synthemata: calculate the “multiplier” as in ArM5, page 84, and add the score as a bonus to the synthemata research roll.''
 ''Failing this roll does not prevent future attempts. Botching the roll may still attract the attention of the being, but hopefully the covenant’s Aegis of the Hearth can ward out the offended spirit.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

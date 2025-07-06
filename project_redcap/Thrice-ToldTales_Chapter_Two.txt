@@ -1,5 +1,3 @@
-
-[|
 ''The player’s covenant is in the same Tribunal as an infamous magic aura, where the lost covenant of Ombres L’assomption seems to have simply vanished. It was known as a small, weak covenant that housed a device allowing people to find regio entry points. It is suggested that the device drew the entire covenant into an unknown regio when it was mishandled, but this is nothing more than speculation. The Tribunal considers the covenant and its grounds to still be under the control of Ombres L’assomption until it is proved that the covenant has truly ceased to exist. This game is designed for late Spring or early Summer covenants and makes use of Realms of Power: The Infernal.''
 
 ==Expected Sequence of the Stories==
@@ -14,12 +12,14 @@
 
 =Earth and Sky=
 
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Demonic Weaknesses==
 
 ''Each demon described has a uniquely defined Weakness. A character with Infernal Lore or who has had appropriate exposure to such literature has a chance to discern the Weakness of a given demon. This is done with an Intelligence + Infernal Lore roll against an Ease Factor of 9 + (Might / 5). Some of the Weaknesses provided are also named, as they were once used as specific rituals. Named rituals allow the players to use Magic Lore or Theology in the place of Infernal Lore.''
 
-|]
+|}
 ''The Brotherhood of Zenodorus learned about the device, and sent an agent to convince Titus to use the device to find the Itius. The agent was very convincing. Unfortunately for the Brotherhood, they did not know all the powers of the device. Once the lodestone from the regio was set within it, the magus was able to find the regio, and find out a great deal about what was inside it. Suspecting a plot, Titus split the device into pieces to hide it, and took the agent of the cult prisoner. Alas, the cultist had already succeeded in corrupting a priest living at the covenant. The priest, Father Carth, distributed Aegis tokens to the Brotherhood of Zenodorus. The cultists returned to Ombres, with reinforcements. The demons were powerful, and Titus performed a ritual he had developed to move the covenant into''
 ''a regio that could only be entered by residents, and those they guided. Unfortunately, as far as the ritual was concerned, “residents” meant “anyone in the regio when it is created”. The demons were not cast out, and the covenant fell. Titus sent Dium, his apprentice, to safety at the last possible moment. Dium fled in fear, joined a monastery, and eventually became a hermit.''
 
@@ -31,16 +31,12 @@
 
 ''The Brotherhood of Zenodorus aims to restore the Colossus Neronis and assume power, under Nero, their lord. As part of this, Nero seeks to retrieve the Grass Crown from the regio, but he does not know where it is. The cult got hold of half of a lodestone (see later), which serves as an Arcane Connection to the regio hiding the crown, but they have no way to use it. However, they know that the Sphere of Caelus’ Octahedron, which was in Ombres, can, somehow, use the lodestone to get to the regio. The demons have set the cult to finding and using the sphere, and the cult has passed this dangerous task onto a young candidate for membership, Giuseppe.''
 
-[|
-
 ==Dium Manesica Penater==
 
 ''Characteristics: Int +3, Per +2, Pre –1, Com +1, Str –2, Sta +1, Dex –1, Qik –2 Size: 0 Age: 83 (83) Decrepitude: 4 Warping Score: 2 (2) Confidence Score: 1 (3) Virtues and Flaws: The Gift; Wanderer; Guardian Angel; Disfigured, Reclusive, Visions Personality Traits: Quiet +3, Reclusive +3, Manipulative +2 (sinful trait) Reputations: Oracle of God 1 (Local Monastery) Combat: Dodge: Init –2, Attack n/a, Defense –2, Damage n/a Soak: +6 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Animal Handling 3 (birds), Area Lore: Ombres L’assomption region 2 (legends), Area Lore: hovel location 5 (legends), Artes Liberales 5 (ceremonial magic), Awareness 5 (alertness), Bargain 4 (distrusting client), Code of Hermes 2, Concentration 5 (prayer), Craft: Hidework''
 ''ing 2 (shoes), Craft: Woodworking 5 (whittling), Dominion Lore 6 (angels), Faerie Lore 1 (Ombres L’assomption), Folk Ken 5 (peasants), Hunt 4 (small game), Intrigue 1 (gossip), Latin 5 (Hermetic usage), Living Language 4 (storytelling), Magic Theory 1 (Corpus), Native Language 5 (expansive vocabulary), Organization Lore: The Church 6 (legends), Organization Lore: Ombres L’assomption 2 (children), Profession: Apothecary 3 (finding ingredients), Profession: Architecture 2 (small structures), Profession: Brewer 2 (herbal infusions), Survival 5 (near his hovel), Teaching 3 (Biblical) Arts: Cr 5, In 5, Mu 1, Pe 0, Re 1; An 3, Aq 1, Au 1, Co 4, He 4, Ig 0, Im 0, Me 1, Te 0, Vi 0 Twilight Scars: None apparent. Equipment: Hand-carved wooden cross, woodland survival gear, hermit’s rags. Spells Known: Chamber of Spring Breezes CrAu5/+7 Wind at the Back ReAu5/+3 Footsteps of Slippery Oil CrAq5/+7 Bind Wound CrCo10/+10 Physician’s Eye InCo5/+10 Sight of the True Form InCo5/+10 Eyes of the Cat MuCo5/+5 Spasms of the Uncontrolled Hand ReCo5/+6''
 ''Conjure the Sturdy Vine CrHe5/+10 Hunt for the Wild Herb InHe5/+10 Intuition of the Forest InHe5/+10 Dance of the Staves ReHe5/+6 Sight of the Transparent Motive InMe10/+7 Appearance: Dium is a frail, thin, and ancient hermit. He wears a wooden cross carved by his own hand with a dried rose wound around it. The left side of his face is dominated by the scar of an old wound. Dium’s spells are accompanied by the sound of distant monastic chanting.''
 ''Dium is on a Divine task for his Guardian Angel, so feel free to provide Dium with Divine protection from the players characters upon their initial meeting. After 10 years of Jerbiton apprenticeship, Dium has some skill in the Arts. He could serve as a laboratory assistant, but most of his Abilities reflect his past as a monk and hermit. Note that although the records of the Order show him as an apprentice at Ombres L’assomption, and he would now be a Failed Apprentice in the eyes of the Order, no magi know that he is still alive before the story starts. Dium’s record within the Order should not come into play unless he becomes active in the Order once again.''
-
-|]
 ''The History of the Cult''
 ''Zenodorus was a Gently Gifted astronomer who lived around 250 BC. His work with perspective, circles, and spheres developed into a cult of builders who aided in creating some of the greatest structures of the pre-Christian era. During this period, the writings of Zenodorus became corrupted by Infernal plots set upon expanding idolatry through great structures dedicated to prominent humans. Over the years, the copies of Zenodorus’ On Isometric Figures were manipulated to change the cult into the misguided tradition (Realms of Power: the Infernal page 127) called the Cult of Zenodorus, which came to Nero with a design to create the Colossus Neronis. This Infernal cult itself effectively died out after the fall of Nero. However, the colossus and Nero’s spirit still exist today, and have rebuilt the cult. Nero is the sole ruler, or Finial. The demons and infernal spirits who have gathered below him are his Chapiter-classed grand masters. Mortals who have been brought into the cult and allowed to make a copy of On Isometric Figures serve as the next level, known as the Plinthclass masters. Finally, hand-picked apprentices and potential sponsors who display the appropriate sinful traits of pride, fraudulent desires, and theft are approached and if interested, are given the title of Stylobate. Uninterested individuals generally meet an untimely end, unless useful to the Brotherhood in some other fashion. For the purposes of this story, the Brotherhood is restricted to a large town within the troupe’s Tribunal. The Brotherhood is currently housed in a property near the Quiet Slope. It functions as a successful crafting guild (stonemasons, carpenters, or blacksmiths). The cult uses incantations found in On Isometric Figures to call Infernal spirits common to Greek and early Roman culture. Using the Powers of Effusion and Diablerie (Realms of Power: the Infernal pages 106–108), the incantations allow the cultist-builders to create structures that are recognized as the ultimate symbol of a single mortal. The supernatural abilities commonly associated with the Brotherhood of Zenodorus are Ceremony, Diablerie, and Effusion, and Incantation. The cultists can invoke Infernal powers,''
 ''or maleficia. To perform an Incantation, a player spends 1 Confidence Point and rolls:''
@@ -71,8 +67,8 @@
 ==The Hook: Destiny Comes Knocking==
 
 ''To begin these stories, Dium comes to the player’s covenant, seeking to speak with magi of the Order. He carries three glass flowers (see Entering the Lands of Ombres, later) that contain 6 pawns of Creo vis. These serve both to gain the attention of the magi and to demonstrate his ties to Ombres. He wants to discuss his visions with the magi. In the visions, Dium sees hordes of terrible demons, all wearing much-dripping crowns of woven grass, pour out of the old covenant of Ombres L’assomption and lay waste to the surrounding lands, including the troupe’s covenant. The rampaging monsters leave Dium alone in Ombres, where his long-dead master, Titus, hands him a bone scroll case. Dium is sure that he needs to do something to avert disaster, but does not think that he could do it alone. If the characters offer to help, Dium is grateful, and offers them whatever re''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Giuseppe==
 
@@ -80,13 +76,13 @@
 ''Abilities: Animal Handling 2 (beasts of burden), Artes Liberales 5 (geometry), Athletics 2 (climbing), Brawl 1 (bludgeon), Carouse 3 (drinking), Concentration 2 (reading), Craft: Stonemason 3 (buildings), Folk Ken 4 (townsfolk), Infernal Lore 2 (powers of mortal diabolists), Local Language 5 (business talk), Latin 3 (academic usage), Leadership 2 (work crews), Magic Lore 1 (Roman cults), Profession: Architecture 2 (grand designs), Profession: Stonemason 5 (planning projects), Ride 3 (long distances) Equipment: An (unfinished) copy of On Isometric Figures, stone mason’s clothing and gear, overland traveler’s gear. Appearance: Giuseppe is a thin, wiry young man from the local stock. He dresses in loose, mason’s tunics. His eyes are sky blue and spark with excited intellect. He is a passionate speaker and tends to punctuate his words with hand gestures. His hands are workman’s hands, but carry the stains of ink.''
 ''Giuseppe is being groomed to join the Brotherhood of Zenodorus. He does not know that his mentor has succumbed to the Infernal. Giuseppe himself has no true exposure to the Infernal arts, beyond his master’s copy of On Isometric Figures. He has little understanding of the Brotherhood, but believes it has much to offer those who are worthy. He initially considers the members of the Order to be over-indulgent children of magic who have little respect for ‘true’ crafting skills. Giuseppe is being groomed for corruption. During Stories I and II, Giuseppe is simply doing the guild’s bidding to gain access to his masters’ deeper secrets. As he spends time with the magi he becomes friends with them, regarding the Order as a potential affiliate of the Brotherhood. Between stories he gains 10 experience points per season, and he spends a total of 2 seasons with his mentor. The apprenticeship will end four years after this story begins. The events of these stories will have a strong influence on whether Giuseppe ever formally joins the Brotherhood.''
 
-|]
+|}
 ''mains of Ombres L’assomption’s resources. While it is not absolutely clear that he has the right to do this (he was only an apprentice, after all), it would give the characters a much better claim than anyone else, particularly if they saved the resources from demons. If the characters refuse to help, Dium asks them to house him at the covenant while he writes to a Quaesitor to draw attention to the possible threat to the Order. This may convince the characters to change their minds. If the players are simply uninterested, you can drop the sto''
 ''ry, or skip forward a few years to Story III, and face them with the Colossus Neronis. If the characters are working with him, Dium tells them that Ombres was dedicated to the study of Divine, Fey, and Magic regios, and disappeared during an Infernal assault 68 years ago. Dium is sure that the magic of Titus, his parens, was responsible for the covenant’s disappearance, but does not know the details. Dium blames the fall on his pater’s quest to find “mystical currents.” Within these currents was a device called the Grass Crown. Dium is not sure what these “currents” are, but he does know that the Grass Crown is magical in nature. When Titus came to suspect that demons were also seeking the Grass Crown, he planned an escape route from the covenant. Dium was able to use that route to escape, and is sure that he will be able to lead the characters into the regio by following it back again.''
 ''General Knowledge about Ombres''
 ''Ombres L’assomption should be located near a town, and the troupe’s covenant. It was a poor covenant that struggled to make it from one year to the next. The player characters or their parens might have heard about the Sphere being presented at Tribunal some 70 years ago; they may even have been in attendance. Also, it is common knowledge that Ombres L’assomption simply vanished shortly after the Sphere became public. Characters may know about the covenant; roll Intelligence + Organization Lore: Order of Hermes against the following Ease Factors. Most of this information is also available from Dium, but relying on the characters’ own knowledge provides some assurance that he is telling the truth.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Plinth and Stylobate Cult Member Creation==
 
@@ -96,7 +92,7 @@
 ''Plinth''
 ''Age a Stylobate-classed member 10-20 years. Increase the Infernal Warping by 1 point per five years aged. Add Leadership (work teams), Guile, and Area Lore Abilities. Incantation and the Unholy Power should also be increased substantially.''
 
-|]
+|}
 ''Ease Factor Information 9 The covenant is rumored to have   been harassed by demons. 12 This covenant had incurred   numerous debts in its initial   construction. It was founded with   the lofty intent of integrating of   Magic, Divine, and Faerie powers,   and led by three middle-aged magi:   Sequnda of Merinita, Caeso of  Bonisagus, and Titus of Jerbiton. 15 In its final years, its magi were  said to have focused their   studies on works that referenced  cults of early Rome. 18 A Roman map of   mystical currents was said to have   been collected from a   Mithraeum site. Even at the   time, there was nothing more  than speculation as to the   nature of those currents. 21 It is said that Ombres   L’assomption was born of an idea   formed by Titus, when he   noticed the two shadows that he  cast while harvesting a vis source   that glowed on a sun-lit day.''
 
 ==Local Beliefs about Ombres L’assomption==
@@ -107,12 +103,12 @@
 ==Ombres L’assomption==
 
 ''The 53-year life of this covenant was plagued with small scale Infernal attacks, and it fell in a demonic assault. Today, the covenant is a battlefield of the Infernal, with a few Magic spirits hiding within the ruins. The Infernal struggles that carry on are effectively eternal, as the three factions''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''On Isometric Figures (Cultists of Zenodorus)''
 ''Zenodorus wrote the treatise On Isometric Figures, which contained deeper, mystical secrets that eventually developed into a Greek cult of architects. Thorough students of history may find hints that the cult of Mithras actively sought the destruction of the “Zenodorus philosophy,” which was accused of plotting to disrupt the activities of the gods. The corrupted forms of the volume available in 1220 are summae of level 5 and quality 18 in Ceremony, Incantation, Diablerie, and Effusion.''
 
-|]
+|}
 ''(Lemures, DuPurin, and Father Carth) have no ability to truly eliminate the others. The area around the covenant has an Infernal aura of 1 by night, but this is overridden by the natural Magic aura of 1 during the day. The covenant itself is within a level 3 Infernal regio, in a Perfidious aura.''
 ''The Perfidious Aura''
 ''The Infernal auras near Ombres are Perfidious auras, as described in Realms of Power: the Infernal, pages 15–17. In addition to the standard modifications to supernatural powers (ArM5, page 183), the aura has the following effects.''
@@ -137,12 +133,14 @@
 ''The Walls and Six Towers: Sixty-odd years without upkeep has taken its toll. The stonework’s mortar is beginning to crumble, and some weaker sections of stone lie broken and shattered on the ground. The wooden ramparts, roofs, and flooring all suffer from dry rot and decay, making them dangerous places to walk. Moving on them requires a Perception + Athletics stress roll against an Ease Factor of 6, or the flooring gives way in a 1 pace area.''
 ''The Main Gate: A rusting gate lies in ruins, with the cart laden with stone that was used to smash it also lying in fragments. The is the location of Segher’s spirit (see Manes, earlier). He knew that a secure gate might allow the magi time to save the covenant, and stood his ground when the gate fell.''
 ''The Tower Gate: The wooden doors have long since fallen into the yard and be''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Giuseppe==
 
 ''If the troupe spends any amount of time in the nearby town, Giuseppe (see earlier) crosses the players’ path. He is under orders to take note of anyone curious about the lands of Ombres, and to find a “map to a great crown of magical power” that is supposed to be in the area, but he fears the rumors of demons. Giuseppe offers the characters what information he has, but he cannot tell them anything useful at this point. If it becomes apparent that the characters have found the covenant, Giuseppe seeks them out to ask about it, but is a little vague as to his reasons for being interested. He should appear to be a minor character, as he becomes more important in Story II.''
+
+|}
 
 ==Lemures==
 
@@ -157,8 +155,6 @@
 ''victim also allows a check, against an Ease Factor of 6. Fury of the False Veneer, 3 points, Init +2, Mentem: Add the Angry +3 trait to DuPurin’s combat rolls. DuPurin stirs his anger up so much that he is better at fighting. When using this power, which has a Diameter Duration, DuPurin fights in a rage. Incorporeal, 0 points, Init Constant, Mentem. Lord of the Structure, 5 points, Init +5, Terram: This power is much like the spell Lord of the Trees (ArM5, page 139), but Terram based with Herbam requisites. Doors slam into people, gates fall, and shackles fixed to the wall whip out at anyone within range. This power can move anything that is both permanently attached to the structure, and normally capable of being moved. The maximum size is an area of 10 common rooms. The Duration of this effect is Concentration. Obsession (obedience to DuPurin), 1-3 points, Init –5, Vim. See Lemures, earlier. Possession, var points, Init +2, Mentem: The demon spends points to create a Possession Might Pool. These points actually enter the victim and are not regenerated by the demon until the possession ends. The demon may choose the number of points to spend on possession. Spending more points allows the possessing demon to do more, but reduces Penetration as normal. If the target’s Magic Resistance is overcome, then possession is successful. If the demon uses its entire Might, the demon disappears into the victim, with any physical manifestation of the demon vanishing. The demon may also divide its consciousness by only placing a portion of its Might within a victim, allowing the possessing part of it to act independently from the rest. Communication between the ‘parts’ may not occur unless they are within sight of each other. The Possession Might Pool allows the demonic fragment to use any of its Powers, as long as it has the points to do so. Points cannot regenerate until the possession ends. The demon may choose to''
 ''apply the Possession Might Pool as Magic Resistance, with the host being affected by wards and supernatural beings as though it were a demon. The demon may also choose not to apply the Magic Resistance allowing the evil spirit to ‘hide’ within the body and bypass wards with impunity. Weakness: DuPurin can only regain Might within the Infernal aura of Ombres L’assomption. Vis: 4 pawns of Corpus in the form of mist-like ghost eyes that follow the closest living being. Appearance: A bear of a man, standing a little over seven feet tall. He is dressed in patched and tattered leather scale armor, and he sports the weapons and tools of his highwayman’s trade. His disfigurement upon death due to a fall from the southernmost tower (crushing damage to face and upper body).''
 ''Pierre DuPurin was a roguish brute whom the demons raised against Ombres L’assomption. He worked for the Brotherhood, and his soul was lost to Nero as his greed-based raids became more and more driven. Upon death, Pierre became an Infernal tool that was first used by Nero to attack Ombres L’assomption, and then to serve as the overseer of the property. The spirit now seeks to control the structure of Ombres L’assomption. When he has secured his power there, he plans to control the lands around. Those subjugated by DuPurin are forced to worship him, being cursed with the form of Black Dogs upon their deaths. Ultimately, DuPurin is an unwitting instrument of Nero’s plans. He and his Black Dogs are the strong arms of Ombres L’assomption, serving as distractions that allow the Lemures to continue their search for clues that would lead them to the Grass Crown. When DuPurin coagulates into a physical form, the Giant Blood, his full suit of leather scale armor, and the weapons listed in the Combat section come into play.''
-
-|]
 ''come overgrown. This tower is like the others, except for the 3 pace wide entry passage that serves as its main floor. This is the location of Nannen’s spirit (see Manes, earlier). She was tending a flower garden outside the tower gate when the dogs came. This castle was her sanctuary, and she longs to see the covered walk made serene once more.''
 ''Supply Hall: The place is completely ruined. There is nothing but dust and decay, and the southwestern wall and ceiling have partially collapsed. The secret tunnel into the covenant emerges on the western side.''
 ''Lab I: “Caeso’s Papal Hall.” Based upon the study of Church rituals, and completely ruined.''
@@ -171,8 +167,8 @@
 ''of 4 within the walls during the day, and 3 at night. At both times, the Divine aura overrides the Infernal. The outer walls show signs of attacks by the demons. Note that the presence of the holy ground is no more than an annoyance and is a minor issue compared to the battle between the demonic factions. Note, also, that the demons can enter the church, although they are weaker there, and generally avoid doing so.''
 ''Graveyard: This area was ruined by rituals performed by Father Carth. This is the location of Armelle’s spirit (see Manes, earlier). She was tending her husband’s graveside when the demons came, and they never let her out of that holy ground. She desires to be buried next to her husband in hallowed ground.''
 ''Covered Walk: A covered walk once connected all the buildings of the keep, allowing residents to move from building to building protected from the elements. Its wooden roof has now mostly fallen in.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==DuPurin’s Black Dogs==
 
@@ -181,15 +177,15 @@
 ''roll against an Ease Factor of 9. Weakness: Separation from the pack. When any Black Dog is out of sight or earshot of DuPurin or other Black Dogs, it loses 1 Infernal Might per turn. Vis: 2 Pawns of Animal Vis, one in each ear. Appearance: Large, black, shaggy hounds with bat-like ears, and silvergray venom dripping from wicked looking fangs.''
 ''These creatures are dogs twisted and empowered by the Infernal ghosts bound to them, so they are physical creatures, and cannot take incorporeal form. The ghosts were once DuPurin’s fellow marauders. If a dog is killed, the ghost returns to DuPurin, who finds another dog to serve as a host. If the ghost possessing the dog in question is destroyed without killing the dog, then the dog returns to a mundane, non-possessed state.''
 
-|]
+|}
 ''Trinity Library: The library is split into three wings, each dedicated to one of the Magic, Divine, and Faerie realms. At its center sits a grouping of small study tables beneath a shattered and fallen dome. The building and inner area are now in ruins. Three Lemure have created nests in this building’s wings. The nests are composed of benches, cook pots, and workman’s tools. Outside the library sit three fountains. Each fountain weighs roughly 2250 pounds, and contains two map elements. Each map element is a wedge, one sixth of a sphere, and is actually built into the decoration of the fountain. (Terram magic was used to put them in place as the demons arrived.) The pieces can be found by using Intellego Vim, or a Perception + Awareness stress roll against an Ease Factor of 12, if Dium is able to give advice. Note that each sphere piece must be somehow broken free of the fountain.''
 ''Fountain 1: Represents the merging of Magic and Faerie. Germanic elves, dwarfs, and dens of giants spin in a battle-dance of day versus night. The Night Queen and Day King each have one sphere section worked into their appearance.''
 ''Fountain 2: Represents the merging of Faerie and Divine. Spirit-like representations of the twelve Greek Olympians gather inside a house presided over by the Sun. Two sphere elements have been worked into the sun’s split visage.''
 ''Fountain 3: Represents the merging of Divine and Magic. The Chaldean Oracles pass fruits of wisdom around a round table. Eating from the two largest bowls is are rulers and gods of preand early Roman times, such as Seleucus and the goddess Diana. The two largest bowls of fruit on the table are the sections of the map.''
 ''A Series of Avaricious Events''
 ''Investigating the fountains alerts the Lemures, and they examine them once again. If the characters found nothing, the Lemures still do not know what they are looking for, but if the characters removed even a single wedge, the demons start looking for anything similar.The Lemures make an Intelligence + Awareness stress roll against an Ease Factor of 18 once each night to find one sphere wedge. Each success lowers the Ease Factor by 3. The Lemure carries the wedge it found to its nest to protect it. The characters need all the pieces of the sphere to make use of it, but if they fail to retrieve any from the Lemures, Giuseppe brings them in Story II, as part of his negotiations.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Father Carth’s Ghost==
 
@@ -198,7 +194,7 @@
 ''with a hard, judgmental stare. His black hair and eyes coupled with a thin, longish nose give him a crow-like appearance. His mortal wound is a deep gash from his right shoulder and down his back. This wound was caused by DuPurin, when the marauder and his men attacked the covenant.''
 ''Father Carth is a twisted soul who was led down the Infernal path when he gave in to his personal sins. Carth was the priest of the church within Ombres, and it was through Carth that the other demons in this story got a foothold in the covenant. Carth’s basic sin is simony: the sale of sacraments of the Church. The core of Carth’s twisted belief is that all souls must come to him for redemption. Carth demands nightly worship from the lost souls and the purchase of sacraments during those ceremonies. He generally avoids the other two factions in the covenant, but badgers them if he finds any who have strayed off alone. Otherwise, he uses his ability with stealth to slink off and plot.''
 
-|]
+|}
 
 ==Thrice-Told Tales The Sphere is Collected==
 
@@ -209,8 +205,8 @@
 ''(Base 3, +4 Arc, +1 Conc; +10 unlimited uses)''
 ''Behold the Gate InVi 27 Pen +0, 3 uses/day R: Touch, D: Conc, T: Vision This effect allows the holder of the sphere to see the entrance to a Magic regio, and find his way between the levels, leading others if desired. (Base 3, +1 Touch, +1 Conc, +4 Vision; +2 3 uses/day)''
 ''Scry Beyond the Mantle InTe(Vi) 40 Pen +0, unlimited uses R: Arc, D: Diameter, T: Ind The wielder views the immediate area surrounding object to which the Arcane Connection is linked. Darkness and containers block vision, as normal. The effect includes a requisite to find a way through regio boundaries, and thus works even if a particular regio normally blocks magic''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Manes: Lost Souls of Ombres L’assomption==
 
@@ -219,7 +215,7 @@
 ''Within the ruins of Ombres are three spirits: Segher, Nannen, and Armelle. They follow Mana Genita, a household goddess of protection against death. These devotions led to their being linked to the Magic realm, and their survival as Manes. Manes are restless spirits. They can continue the activities they pursued in life, but only members of their mortal family may release them. Until that is done, the manes tend to lurk around the household as ‘flies on the wall’; occasionally disrupting the efforts of their living kin. Manes can be released by the Rite of Feralia: a simple rite wherein a living family member offers sacrifices of food,''
 ''crafts, and written scripts that would have pleased the manes in life. This frees a manes to enter the Magic Realm for one year and a day as a spirit with free will and total consciousness. During this time, it may ascend to Heaven or descend into Hell. Manes’ powers function at different times: the Eudaimone power may only be cast at night, while the Immanis power may only be used during the day. Kinesis may be used only upon the task they deem most important. The Lost Souls are in this story to show that magic still exists within Ombres, and to provide additional guidance, challenges, or sub-plots for the storyguide. The one, general trait that all of these lost souls share is their common bond to the covenant of Ombres L’assomption in the study of Mana Genita. It is unlikely that any of the player characters are related to the manes, and thus able to lay them to rest, but finding surviving relatives would be a suitable sub-plot if the site of Ombres plays an ongoing role in the saga.''
 
-|]
+|}
 ''across the boundary, as long as the regio can be entered by following a particular route. Note that the effect also works if the Arcane Connection is connected to something that is not in a regio. (Base 4, +4 Arc, +1 Diameter, +1 requisite; +10 unlimited uses)''
 ''Touch the Mantle Re(In)Vi 40 Pen +0, unlimited uses R: Arc, D: Conc, T: Ind The wielder of the sphere can cast effects on the item to which the Arcane Connection is linked, as through the spell Opening the Intangible Tunnel. This effect can support spells of up to level 20. The effect includes a requisite to find a way through regio boundaries, and thus works even if a particular regio normally blocks magic across the boundary, as long as the regio can be entered by following a particular route. Note that the effect also works if the Arcane Connection is connected to something that is not in a regio. (Base 3, +4 Arc, +1 Conc, +1 requisite; +10 unlimited uses, +5 item maintains concentration)''
 ''What to Do with the Ruins? Once the sphere is removed, Nero loses interest in the covenant, and recalls the demons. The Infernal aura and regio remain, but diminish at a rate of 1 point per year, and thus are quickly overridden by the natural Magic aura. The storyguide should decide what happens to the regio, and the possibilities of access. One possibility is that if Dium participates in an Aegis ritual, the other people involved become residents of the regio, able to enter and leave, and bring others. Another possibility is that the regio is a feature of the Infernal aura, and so disappears when the Magic aura becomes dominant, after a year. Dium offered the characters control of Ombres’ property, and if the troupe are not interested in that sort of story, the Tribunal might simply accept that. However, the legal basis is not entirely clear, and if the troupe would like to play out the dispute, some magi might try to claim the lands and vis sources for themselves.''
@@ -267,8 +263,8 @@
 ==Onward!==
 
 ''The next level of the regio can be reached through the nearby inlet. On the first level, the inlet goes into the mists, and soon after the temple shore disappears into the mist, another shore appears, bringing characters back to the stoney ground. If they pass through the entrance to the next level, the mist clears. The second level is a limitless sea. The water is pure and infinitely deep, as are the skies above. Day and night are exactly 12 hours long, but there is no sun, and no moon. At night, the fixed stars are visible, but there are no planets, either. From time to time, soft music is heard drifting from on high. The Magic aura of this level is 4 (again, doubled for Auram effects). While the Itius is not a small ship, it has sailed a limitless sea for almost a millennium. Its course has not been a straight one, nor has it simply coasted in circles. It is all but impossible to find the ship without some guidance. The Pater can provide the necessary information, either directly or to the Corax, but otherwise the characters must come up with some magical way to find the ship. They do not have any Arcane Connections to it, which sharply limits their options. If the characters have guidance from the Pater, the Itius happens to be relatively close to the inlet, and they find it within hours. If they are following the Corax, or their own magic, it may take much longer, and while the revenants have no need for''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Rest of the Sphere==
 
@@ -282,12 +278,10 @@
 
 ''An unbroken Caelus’ Octahedron Lodestone is a form of Auram vis (1 pawn). Each Lodestone has a fissure along its equator. If the stone is separated along this fissure, then the pawn of vis is expended, but each half becomes a fixed Arcane Connection to the other. The other half of Giuseppe’s Lodestone is owned by the Pater, within the regio (see later).''
 
-|]
+|}
 ''food, the same is not true of the characters. The storyguide may add problems here if the troupe finds them entertaining. The Itius''
 ''The Itius is a Roman trireme. The Grass Crown is stored in the hold, inside a ward against demons. The ward is a circle, inscribed on the planks form''
 ''ing the floor, and strong enough to keep out most demons. Once the ship was crewed by Mithraic cultists, but as they died, they returned as manes (see earlier), and continued rowing. Nero was able to whis''
-
-[|
 
 ==Spirits of Fraud==
 
@@ -295,8 +289,6 @@
 ''Infatuation, 4 points, Init +0, Imaginem: The spirit ‘speaks’ with a voice so rich with lustful promises that a strong desire to approach washes over the target group (up to 10 people). Characters may resist the lure with an Intelligence stress roll against an Ease Factor of 9. Those affected do whatever is necessary to reach the demon in as straight a path as possible: leaping off bridges, steering ships into the rocks, or climbing cliffs. They will not take obviously suicidal actions, but they will take insane risks, and do not care about risks to others. The Lie Affirmed, 1+ point, Init –1, Mentem: The targets completely believe the next lie that they are told, no matter how outlandish. The cost is 1 point per target. The demon normally has a good idea of what the next lie will be, but even if it is wrong, the targets believe the next lie they are told. This power can backfire. Mastery of Misdirection, 1–8 points, Init +0, Imaginem: The Spirit of Fraud is capable of producing an Infernal copy of any non-ritual Imaginem spell of 40th level or lower that pertains to misdirection and concealment at a cost of 1 Might point per magnitude of effect. Most forms of magic, including Hermetic magic, are incapable of determining that these effects are false. Obsession (will agree with any expressed opinion), 1-3 points, Init –5, Vim. See Lemures, earlier. Possession, var points, Init +2, Mentem. See DuPurin, earlier. Weakness: Silvered mirrors held to reflect the demon act as though the holder is within an effective Circular Ward Against Demons of 1 pace radius, centered on the mirror, when dealing with a Spirit of Fraud. Vis: 4 points, appearing as a hand-sized''
 ''swirling mass of black fluid. Appearance: A flowing blob of black ichor that may shrink as small as a normal man’s footprint. Normally, it appears as a flowing, tentaclegrasping thing of black water 3 paces across. It moves across fluid surfaces as though they were solid, but cannot enter said surfaces.''
 ''When a spirit under Nero fully gives in to fury and avarice, it is reborn from the blackest of pits. These are beings without shape or form. They are shadow forces that make all true things appear pointless through fraud. The Theft of Emotion Ability allows the demon to manipulate the emotions of others as a Supernatural Ability. The demon must first find a person expressing the emotion it wishes to instill in another. Then it makes a Presence + Emotion Theft roll against an Ease Factor of 6 + the target’s Personality Trait for that emotion. If successful, the emotion is removed from the target, leaving her devoid of it (although it may naturally recover, over time). The demon then transfers the emotion to another by touch. The target feels the emotion as strongly as the original ‘donor.’ The demon cannot transfer feelings of True Love, True Friendship, or True Faith. In combat, Spirits of Fraud may attack up to 3 targets with a tentacle. A tentacle strike that succeeds by more than 6 + the target’s Size grapples the target, and draws him to the demon. The victim is then subject to a smothering grapple in the next combat round, and the demon can still make three tentacle attacks against other targets. Against a single foe, it attacks with the Body Bludgeon and one tentacle strike, seeking to draw the victim into a smothering grapple.''
-
-|]
 ''per to the spirits through the crown and corrupt them, and learned that the crown was at sea. After several centuries, he realized that it was in a regio. The demons (larvae, see later) are individually too weak to move the crown, even if they could touch it, and, in any case, they do not know where to take it. If they destroy the ship, the crown will sink into the ocean, and most likely be lost forever. The situation on the ship has thus been a stalemate for centuries. The characters break this stalemate. They have been followed by three Spirits of Fraud, so there are enough demons to carry the Grass Crown if they cooperate. Fortunately, demons are not good at cooperation. Unfortunately, they cannot bear to see the characters take the crown where they have failed. Once a battle starts, the demons are unconcerned about damage to the ship, at least in the heat of the moment. The number of demons should be chosen to present a challenge, but not''
 ''a deathtrap. As many manes as larvae, and as many of each as there are player characters, is a good place to start. The ship could hold 170 oarsmen, but over a thousand years most have passed on.''
 ''Above Deck''
@@ -315,8 +307,8 @@
 ==The Return==
 
 ''If the characters still have the Sphere and the Lodestone, leaving the regio is easy. The Sphere can find the entrance to the lower level, and show them how to get through, and then they can follow the road to the exit. Of course, as the regio moves, the exit could lead anywhere in Mythic Europe. The Grass Crown is large and heavy, and the characters will almost certainly''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Revenant of Caelus==
 
@@ -324,7 +316,7 @@
 ''These walking skeletons differ from ghosts in that their only form is an ani''
 ''mate, material corpse where the spirit is bound to a physical body. These beings are connected to the living world through an overwhelming personal need. In this case, the need manifests in the form of servitude to the lore of the Mysteries of Mithras. From this base, each individual spirit derives its own unique personality and motivation. Revenants tend to keep Abilities related to their mortal ties. They are tireless and inexorable opponents. They are immune to fatigue and pain, and having no blood or vital organs, they ignore wounds that would be fatal to a living person. The No Fatigue and Improved Soak Qualities represent this supernatural resilience. Magic can affect both the revenant’s body (Corpus), and the animating spirit (Mentem). Destruction of the body does not harm the spirit, although the spirit lacks any power to affect the physical world once its body is destroyed. The revenant’s attacks are blocked by Magic Resistance, as the physical form is animated through the power of the bound ghost.''
 
-|]
+|}
 ''need to use magic to move it. If desired, the process of getting it back to the covenant could easily give rise to further stories.''
 
 ==A Petition==
@@ -352,15 +344,15 @@
 ==The Rise of the Colossus==
 
 ''The colossus enters the world by tearing its way out of Nero’s Pit and crashes through the Quiet Slope. If the characters still hold the Grass Crown in the covenant, the colossus marches to and attacks the covenant, seeking to regain the crown. If it is unable to damage the covenant, mostly likely because the Aegis is too strong, it''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Manes: The Oarsmen of the Itius==
 
 ''Use the statistics for Manes: Lost Souls of Ombres L’assomption, in Story I, earlier, with the following changes. Personality Traits: Devoted to the Itius +5 Abilities: Boatman 5, Latin (storytelling) 5, Navigation (Caelus’ Octahedron) 3, Sailing (hard weather) 5''
 ''The crew of the ship Itius are now long-dead and performing their tasks until released. When one ‘sits’ upon a rower’s seat within the ship and sings their rowing chants, that bank of oars begins rowing. Note that the oarsman have no idea where they are, nor where they are headed.''
 
-|]
+|}
 ''rampages through the surrounding area, trying to draw the magi out so that Nero’s agents can steal the Grass Crown. If the Grass Crown has been destroyed or lost, the colossus attacks the local town, demanding that the population submit to their new lord. The citizens have little choice, but someone, possibly Giuseppe, goes to the covenant to seek help. The Colossus Neronis is accompanied by demons and cultists as necessary to make a challenging, but not overwhelming, encounter for the players. This is Nero’s full strength, and it is weak. Demons have no patience, and the emperor has moved too soon.''
 
 ==The Pit of Nero==
@@ -371,28 +363,24 @@
 ==Inside the Pit of Nero==
 
 ''The Pit is an Abyssal regio (see Realms of Power: the Infernal, page 16), with an Infernal aura of 4 that imposes in the numbing chill of being forsaken by God. Mechanically, each of the eight characteristics is reduced by 4. Further, characters must make an Intelligence stress roll against an Ease Factor of 4 every day that they are in the regio. Failure results in madness represented by Flaws such as Compulsion, Delusion, or Depressed. This madness fades over the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Crown Sinks==
 
 ''What happens if the Grass Crown sinks? The demons have no way of retrieving it, so it is, effectively, lost forever. Nero gives up on retrieving it, and moves to the next stage of his plan. If the Mithraists had known this, they would have simply thrown the thing into the ocean in the regio. Alas, they did not know, and so they concocted a much more elaborate plan.''
 
-|]
+|}
 ''course of four weeks unless the roll was a botch, in which case it is permanent. Nero’s Pit resembles a subterranean wagon wheel. The body of the colossus stands at its hub, with six gigantic hallway ‘spokes’ connecting outward to the halls that once housed the various sections of the colossus after it had been disassembled. Unless the characters come here very early, the colossus is probably complete, and Nero animates it as soon as the invasion is noticed.''
 
 ==The Colossus==
 
 ''The structure of the colossus is bronze empowered by the Infernal magics of the Cult of Zenodorus, and it has the powers listed in On Isometric Figures, earlier. It has an Infernal Might of 12, which acts as an Infernal aura of 2 within the structure, and Nero’s ghost can control and move the colossus, using his skills to direct it. The colossus is hollow, with ten internal levels that serve as both structural support and floors for supplies and personnel. Nero knows about Magic Resistance, and he has supplied his troops with mundane weapons.''
 
-[|
-
 ==Larvae==
 
 ''Order: Fury Infernal Might: 10 (Mentem) Characteristics: Int +1, Per 0, Pre +2, Com +2, Str +3, Sta +2, Dex 0, Qik 0 Size: 0 Confidence Score: 1 (3) Virtues and Flaws: None Personality Traits: Unyielding +3, Diplomatic –2 Reputations: Tormentor of the Dead +2 Hierarchy: 3 Combat: Brawl (corporeal form): Init +0, Attack +2, Defense +2, Damage +3 Dodge (corporeal form): Init +0, Attack n/a, Defense +3, Damage n/a Soak: +2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Brawl 2 (dodge), Infernal Lore 5 (undead), Latin 5 (curses), Magic Lore 3 (magical traditions), Stealth 5 (sneak). Powers: Coagulation, 1 point, Init –1, Corpus. See Lemures, earlier. Envisioning (An entombed landscape of the target’s most inspiring place), 1 or 5 points, Init +0, Mentem. See Lemures, earlier. Fraudulent Desires, 3 points, Init –3, Mentem. See Father Carth’s Ghost, earlier.''
 ''Guide, 4 points, Init –4, Mentem: The larva is able to subtly guide visitors in a desired direction, or to a desired location. The victim feels a strong emotional urge to go to that place, and while this is not a compulsion, the target would need to have a good reason to try to resist. Mask of Change, 6 points, Init –5, Imaginem: A mask that represents a specific sin appears over the target’s face. The effect is two-fold. First, the target is disguised, as in Disguise of the Transformed Image. Second, the target gains a sinful personality trait +3, with the same effects as the Power Fury of the False Veneer. This effect has Sun duration. Obsession (Manipulating Acts of Kindness), 1–3 points, Init –5, Vim. See Lemures, earlier. Weakness: The rite Lemuria, which consists of the sharing of a meal in the presence of the Larvae. The demon’s Might is reduced to 0 for a year and a day upon the conclusion of the meal. Vis: 1 pawn of Infernal Mentem in the form of a cold, black shimmer of static shadow. Appearance: The larvae appear similar to their mortal forms, but with their faces twisted by some sin. These larvae have mostly been twisted by avarice, envy, or wrath.''
-
-|]
 ''When walking, the colossus moves 21 paces per step, and each footprint is 1–3 paces deep, depending upon the surface. Note that the below Characteristics are directly affected by the colossus’ Might score. If its Might is reduced, the Characteristics are reduced as well. Characteristics: Str +24 (Size + Might), Dex +6 (half Might), Qik +0 (Might – Size) Size: +12 Combat Ability is based upon Nero’s training added to the colossus’ body. Foot Fall, Init –1, Attack +11, Defense +4, Damage +27 Fist Bash, Init +0, Attack +11, Defense +5, Damage +24 Soak: +31 (Might + Size + 6 (metal)) Note that the colossus is immune to damage from mundane, non-living materials,''
 ''due to Beneath Me, Folly of Thetis! Wound Penalties: –1 (1–17), –3 (18– 34), –5 (35–51), Incapacitated (52–68), Destroyed (69+) Moving within the walking colossus requires all corporeal beings to make balance checks every time the colossus attacks (Dexterity + Athletics + stress die against an Ease Factor of 9, –1 for every level above the ground). Failure results in a Light wound, botches result in a Medium wound.''
 ''Level 10: The Upper Head: Nero observes with the colossus’ eyes and is in a constant state of concentration to operate it. If the ghost comes under direct attack, Nero abandons the control of the colossus, leaving it to stand idle.''
@@ -402,16 +390,12 @@
 ''Level 6: Stomach: This area is wide open and empty, as the colossus flexes here.''
 ''Level 5: Waist: 12 Stylobate archers''
 
-[|
-
 ==Nero, the Infernal Ghost==
 
 ''Order: False God Infernal Might: 25 (Imaginem) Characteristics: Int +1, Per +3, Pre -3, Com +3, Str –3, Sta +3, Dex +1, Qik +3 Size: 0 Confidence Score: 1 (3) Virtues and Flaws: Sense Holiness and Unholiness, Thief of Emotions (see Spirits of Fraud, earlier); Cruel, Disfigured, Wrathful Personality Traits: Cruel +5, Wrathful +3, Angry +2 Reputations: Corrupt Emperor 9 Hierarchy: 5 Combat: Dodge: Init +0, Attack n/a, Defense +7, Damage n/a Kick: Init –1, Attack +6 (+9 if Fury Power is used), Defense +5, Damage +0 Short Spear: Init +2, Attack +8 (+11 if Fury Power is used), Defense +6, Damage +2 Short Sword: Init +1, Attack +10 (+13 if Fury Power is used), Defense +8, Damage +2 Soak: +12 (corporeal form) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+)''
 ''Abilities: Area Lore: Ancient Rome 5 (politics), Area Lore: Local Area 2 (politics), Artes Liberales 5 (rhetoric), Athletics 1 (running), Brawl 5 (dodge), Charm 2 (first impressions), Civil and Canon Law 4 (Ancient Rome), Emotion Theft 5 (trust), Folk Ken 4 (nobles), Guile 4 (elaborate lies), Latin 5 (expansive vocabulary), Infernal Lore 5 (summoning), Public Speaking 5 (large groups), Sense Holiness and Unholiness 3 (evil), Stealth 5 (shadowing) Powers: Envisioning (A Rome of impossible beauty), 1 or 5 points, Init +0, Mentem. See Lemures, earlier. Fury of the False Veneer, 2 points, Init 0, Imaginem. See DuPurin’s Ghost, earlier. Infatuation, 4 points, Init +0, Imaginem. See Spirits of Fraud, earlier. Incorporeal, 0 points, Init constant, Mentem. Nero is visible and can be smelled, but he cannot be touched or harmed by physical means. The Lie Affirmed, 1 points, Init 0, Mentem. See Spirits of Fraud, earlier. Lord of the Structure, 5 points, Init +5, Form Terram. See DuPurin’s Ghost, earlier. Mastery of Misdirection, 1–8 points,''
 ''Init +0, Imaginem. See Spirits of Fraud, earlier. Obsession (worship Nero/the colossus), 1–3 points, Init –5, Vim. See Lemures, earlier. Possession, var points, Init +2, Mentem. See DuPurin’s Ghost, earlier. Weakness: Groups (3 or more) of united, educated men within a Room. Nero suffers from Confusion of the Numbed Will for as long as the group remains intact and in the area. Vis: 5 pawns of Infernal Vis; each pawn located in a digit of his right hand. Appearance: Nero’s ghost appears as he did upon his death: a frightened monarch in his early thirties. His death wound eternally weeps life-blood, leaving a stained trail wherever he wanders (the trail disappears once he is a pace away). He stands about 5 feet tall, marked with freckles, and stinks of the dead. His hair is sandy blond, and he has watery blue eyes. He has a thick neck, round belly, and thin legs.''
 ''Nero has been imbued with the incantation My Symbol Shall Come Unto Me. This allows Nero to summon the colossus to his location at a cost of 3 Might points.''
-
-|]
 ''near slot windows, wounded as the group on Level 7.''
 ''Level 4: Upper Leg: Prisoner shackles (currently empty).''
 ''Level 3: Knee: This area is open and empty, as the colossus flexes here.''
@@ -421,8 +405,8 @@
 ==The Story’s End==
 
 ''The defeat of the spirit of Nero is a fitting end to the story, but these events could have further consequences. The colossus may have done great damage to the local area, which needs to be repaired. The Brotherhood of Zenodorus may still exist, if they were not clearly linked to the colossus, and even if they do not, On Isometric Figures can bring the cult back. The Quaesitors may be interested in the amount of Infernal activity around the covenant, and the troupe may not have fully resolved the ownership of Ombres and Caelus’ Octahedron.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Grass Crown==
 
@@ -433,5 +417,8 @@
 ''Order: False God Infernal Might: 10 (Imaginem) Characteristics: Int +1, Per +1, Pre –6, Com +2, Str –8, Sta +2, Dex +4, Qik +5 Size: –4 Virtues and Flaws: Lightning Reflexes; Infamous Personality Traits: Proud +3, Hostile +3, Merciful –4 Reputations: None Hierarchy: 4 Combat: Bite (fangs): Init +5, Attack +10, Defense +9, Damage –7 (see Powers: Venomous Bite) Bite (surprised): Init +14, Attack +10, Defense +9, Damage –7 (see Powers: Venomous Bite) Soak: +2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5) Abilities: Awareness 4 (prey), Brawl 2 (fangs), Hunt 4 (rodents), Latin 5 (curses), Stealth 4 (stalking prey), Survival 3 (grasslands)''
 ''Powers: Envisioning (A veneer of an opulence hiding a decayed world), 1 or 5 points, Init +5, Mentem. See Lemures, earlier. His Master’s Voice, var points, Init +6, Vim: The demon summons other demons or corrupt beasts to its current location. This costs one Might Point for every point of Infernal Might of the being summoned, so is used sparingly. The demon has no control over the demon it has summoned. Lend Senses, 1 points, Init +5, Mentem: The demon touches the target to share its sense of smell. The target gains the ability to discriminate odors as well as a bloodhound. This effect lasts until the target sees a religious act of one of the Divine religions. Obsession (Avaricious), 1–3 points, Init 0, Vim. See Lemures, earlier. Shroud the Stench of the Pit, var points, Init +8, Vim: Might cost equal to target Power’s Might cost. If used to shroud another Infernal Power, the said power appears Magical or Faerie in origin. It can also be used to make a Power appear mundane to super''
 ''natural detection, but if the power is not subtle mundane senses may be enough to determine that it is supernatural. The Shroud has the same duration as the targeted Power. Venomous Bite, 2 points, Init +8, Aquam. See DuPurin’s Black Dogs, earlier. The Wealth of Nations, 3 points, Init +5, Terram: The demon summons riches (things with intrinsic value, not useful objects) equal in value to 1 pound of gold per point of current Might score (before spending the points for this effect). The wealth is summoned from some other place, and the previous owner is unlikely to be happy. Weakness: The Green Snakes cannot touch or act against people with True Faith at all, nor against anyone touching them. Vis: 2 pawns of Imaginem vis in a belly scale. Appearance: A small, emerald green snake no longer than a hand’s length, whose shadow twists and turns against normal light sources, even when the body is still.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

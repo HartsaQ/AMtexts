@@ -1,6 +1,4 @@
 
-[|
-
 ====
 
 ''Welcome to The Mysteries Revised Edition!''
@@ -25,8 +23,6 @@
 =The Mysteries=
 
 
-|]
-
 ====
 
 ''little direct connection between the 13thcentury Mystery Cults and the ancient cults — even the modern Cult of Mercury is only indirectly descended from the Roman priesthood. Another common thread across all Mystery Cults’ teachings is the idea that magic has changed since antiquity, and that the ancients were more powerful and glorious than modern magi. Even so, no one can actually prove whether magic is getting weaker, growing stronger, or staying the same; or whether the magicians of old were actually more potent, or simply different from those of today. Even though the notion that the world is degenerating is a powerful mythic image, many have challenged the idea that magic was more powerful in the past, . The Knights of the Green Stone, for example, are a Mystery Cult who contest this idea of the decline of magic; one central concept of their mythos is the idea of a quest meant to bring magic fully into the world, resulting in a magical golden age, the enchantment of Mythic Europe.''
@@ -42,14 +38,14 @@
 ''While some Mysteries are just as secular as Hermetic magic proper, others are adaptations to Hermetic theory of older rites, and contain religious elements that some find disconcerting. Pragmatism and discretion therefore restrict these spells and magics to those who have proven their loyalty, wise counsel, and ability to hold their tongues.''
 ''Another notable aspect of Hermetic magic is that it can be worked by any Gifted individual who has mastered the appropriate knowledge. Furthermore, any Hermetic magus can recreate any Hermetic effect given time and ability; hence many young magi in Spring covenants invent Ball of Abysmal Flame independently, if their covenants’ grimoires prove lacking. Yet this is not true of the magic taught by Mystery Cults, whose secrets require something greater, and cannot be reproduced without the correct tuition and often-harrowing Initiation rites.''
 ''It is not entirely established why the magical Virtues of the Mysteries cannot easily be taught to non-Initiates. In some cases, it simply requires a peculiarity of worldview, a strange and eccentric way of looking at things not possessed by those outside the cult. Other Mysteries actually change Initiated magi in some subtle way; they are rendered magical themselves by the Initiation, or their Gift is altered to accommodate new ways of working magic. The traumatic rebirth of Initiation itself may explain why some Mystery''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==What The Mysteries Revised Edition is Not!==
 
 ''The Mysteries Revised Edition discusses both “historical” medieval magic and the fictional magic of the Order of Hermes. Although much of Ars Magica is based on what people thought in the 13th century, our chief aim has been to keep the reader firmly grounded in the Order of Hermes and the game experience. The Mystery Cults in this book, while based on legend and magical thought, are fiction created to work with your Ars Magica saga. If you seek real occult power, or help with an academic assignment, look elsewhere.''
 
-|]
+|}
 
 ====
 
@@ -71,8 +67,6 @@
 ''The Mystery Houses are open participants in the Order, keen to declare that their practices are private but not untoward. The Mystery Cults are more secretive, and many magi distrust them to a greater degree because of their difference from the Mystery Houses. Other magi, however, note that they themselves can join the Mystery Cults, and perhaps those secrets are private because they are so tempting, so inviting.''
 ''Many magi hear of the exotic magics practiced by those with secret knowledge and yearn to try it, to join; these magi often do become the recruits of Mystery Cults. Others turn their backs on the Mystery Cults, asking why, if the cults are so special and their magics so wonderful, have they not come to dominate the Order? This is a valid question, and the answer is that there is no answer, or, perhaps more accurately, that the answer is unknown. A magus who dedicates himself to study of the Hermetic Arts, Magic Theory, and his House magics can rise far in his specialization. A magus who spends years pursuing vanishing secrets may indeed discover exotic powers, but may also end up lacking in skill at the core Arts of Hermetic magic. Which is the more powerful? This has never been tested; perhaps the magi of your saga can provide the answer.''
 
-[|
-
 ====
 
 
@@ -92,5 +86,6 @@
 ''Outer Mysteries: The most basic Mysteries known to all Initiates of a given Mystery Cult. The term applies most precisely where the Outer Mystery is a prerequisite to learning more advanced Mysteries. Many cults teach magics that are less tightly coupled than this. Philosophy: The pursuit and love of wisdom. Often used as a code word for “magic.” Probationer: One who seeks entry to a Mystery Cult but has not yet been Initiated.''
 ''School: A loose grouping of associated Mystery Virtues. For example, the school of Hermetic Astrology contains several Virtues, all concerned with the influence of the stars on magic. Some Mystery Cults favor one particular school.''
 ''Secular: Worldly, as opposed to religious. When Hermetic magic is described as “secular,” this stresses the abstractions of Bonisagus and the ways he removed the invocation of names and powers from the abstract Techniques and Forms. Secular magic avoids some of the Church’s proscriptions against magic.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

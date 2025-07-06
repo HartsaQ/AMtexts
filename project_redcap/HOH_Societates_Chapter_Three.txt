@@ -1,5 +1,3 @@
-
-[|
 ''Dullards.and.idiots.created.laws.to.punish.success. and.enslave.violence,.yet.it.took.someone.of.wisdom. and.perspicacity.to.invent.fear.of.the.gods;.so.introducing.the.most.pleasant.of.teachings,.the.hiding.of. truth. within. a. false. account.. Still,. the. truly. wise. and.acute.of.mind.cannot.be.limited.by.any.laws.of. human.invention.''
 ''—.Tytalus the Founder''
 ''House Tytalus is most famously known for their never-ending quest for confl ict. They are perceived as troublemakers, cunning politicians, and perpetrators of clandestine plots. They are all these things and much more. For a player interested in characters of House Tytalus, this chapter describes the history, philosophy, and culture of the House, and details the motivations of these strife-seeking magi. For the storyguide, there is a toolkit of rules for running Tytalus-based stories or sagas, including rules for the resolution of public debates, and ideas for stories based on intrigue and nefarious schemes.''
@@ -16,13 +14,15 @@
 
 =House Tytalus=
 
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Key facts==
 
 ''PoPulation:.96 Primus:. Either Buliste or Harpax (see Primi at War, below) domus. magna:. Fudarus, located on a the Isle of Ushant, just off the coast of Brittany. This fl at-topped island rises with almost vertical cliffs 180’ above sea level, and is infamous for its treacherous reefs and violent storms. Fudarus is a sprawling fortress atop the landward cliffs, impossibly draped down the face of the cliff like petrifi ed ivy. The covenant is hidden from mortal view by sea mists and spirits of deception. Favored.tribunals:.none motto:. Auctus ex dimicatione (“from confl ict, growth”) symbol:.A spiral. Tytalan heraldry is a complex matter, consisting of many variants of this basic symbol (see Spiral Symbolism). The symbol of the House as a whole is the type of spiral called a spira, consisting of four full turns; this symbol turns clockwise currently, but this has not always been so. In recent years, supporters of Buliste or Harpax color the symbol either violet or green respectively (see History for more details of the quarrel between Buliste and Harpax).''
 ''y a , pp Harpax color the symbol either violet or green respectively (see History for more details of the quarrel between Buliste and Harpax).''
 
-|]
+|}
 ''Tremere, the two destroyed the remnants of Guorna’s tradition in Naples, and then waited for the witch herself to return from the Black Forest. The trap set by the two brothers was too well-planned for Guorna to survive, despite even her new Hermetic teaching. Tytalus claimed to have inflicting the killing blow against his mater, ripping her heart from her pus-filled chest. Guorna, however, had her revenge: with her dying breath she cursed her matricidal pupil with her own affliction of leprosy.''
 
 ==Tytalus the Magus==
@@ -32,8 +32,8 @@
 ''Tytalus was a skilled politician as well as a powerful wizard. He spent a great deal of effort and time haranguing the other Founders, particularly Guernicus, over the structure and governance of the Order of Hermes. Tytalus became a proponent of a democratic structure for the Order, and much of the early Code of Hermes was framed as a result of public debates between Guernicus and Tytalus. It is largely believed nowadays by his followers that Tytalus maneuvered the Order down a democratic path purely to cut the power base from under Tremere’s feet rather than for any nobler purpose. He felt that giving the governance of the Order to the plebeian class was a better alternative to one where a power-hungry upstart could rule the Order single-handedly.''
 ''The writings of Tytalus reveal his numerous schemes in the mundane world. He was at least partially responsible for the establishment of a protectorate over the Slavs on the eastern border of the Duchy of Bavaria, with the intent to drive a wedge between the Bulgars (the allies of Tremere) and their northern kin. There are rumors that he was also active in the Byzantine Empire, assisting Jerbiton in defeating Tremere’s empire-building ambitions. He was likely responsible for the annexation of Brittany (where he had made his home) by the Frankish Empire, for he believed it to be more stable than the fractured Saxon kingdoms of the British Isles. However, House legend also places Tytalus in Britain meddling with the succession of its kings. All the stories told about Tytalus cannot be true because some of them place him in different places at the same time. No accusations of Code-breaking were ever brought against him, but at that time the Order was small, and a skilled intriguer such as Tytalus could easily escape the watchful eyes of the Quaesitores.''
 ''In 798 AD Pralix, now a powerful maga in her own right, introduced her''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Each type of spiral employed by House Tytalus has a particular symbolism associated with it. No Tytalan symbol contains intersecting lines; they are all spirals, not knots.''
 ''A spira has equally spaced lines as they radiate from the center of the symbol. This represents the self and human nature.''
 ''A concha (“shell”) has turns which progressively increase in distance from the previous. This represents news and reputation.''
@@ -47,15 +47,15 @@
 ''Clockwise turning (from the center out, also called right or dexter) indicates growth and perception, and the Calliclean ethical viewpoint (see Philosophy of Conflict, below).''
 ''Anticlockwise turning (from the center out, also called left or sinister) represents introspection, and the Hippian ethical viewpoint (see Philosophy of Conflict, below).''
 
-|]
+|}
 ''Spiral Symbolism Famous Figures''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Tytalus: The Founder of the House. Pralix: The first apprentice of Tytalus, and the Founder of House Ex Miscellanea. Hariste: A beloved pupil of Tytalus, collator of the Analects, and first of the lineage of Leper Magi.''
 ''Tasgillia: A Prima executed for diabolism in 961 AD.''
 ''Kalliste the Accursed: The Prima who succeeded Tasgillia.''
 
-|]
+|}
 ''master to a young maiden whom she had intended to take as her apprentice. The girl, whose name was Hariste, was enchantingly beautiful, and Tytalus immediately became besotted with her. Overcome with this unfamiliar emotion, Tytalus stole Hariste from Pralix, and retreated to his home at Fudarus to train her. The furious Pralix was left to take his place as acting leader of the House, though she never claimed the title of Prima.''
 ''Tytalus’s relationship with Hariste bordered on the obsessive; his leprosy made her forever unattainable, and although he received no rejection from Hariste, he refused to sully her perfection. In frustration, she became determined to punish her''
 ''master for his reticence, thus giving rise to a tradition of rivalry between master and pupil that persists to this day in House Tytalus.''
@@ -68,8 +68,8 @@
 ''Hariste’s influence on the House was subtle but pervasive. Tytalus was a creature born of the violent wars between wizards, whereas Hariste grew up in the enforced peace of the Order of Hermes. Through the Analects, she reinforced the importance of Tytalus’s philosophy without softening any of its force. She instituted the eristic moots (see below) for the settling of differences, and promoted friendly rivalry within the House. While she did not intend it, Hariste also introduced a culture of heroworship to the followers of Tytalus, placing the Founder at a height he would never have sought for himself.''
 ''Pralix never fully accepted Hariste. To her, Tytalus was a harsh but beloved father figure, which cast Hariste in the role of a gold-digging strumpet, and one nearly half her own age. Yet the younger, prettier maga had gained the support of the House through virtue of swift action and a compelling oratory style that made Pralix seem positively flat-footed. With her skills more suited to the battlefield than the Tribunal arena, Pralix aborted her attempt to win control of the House, and instead bent her efforts towards recruiting more wizards into the fold of the Order.''
 ''Pralix and Hariste are considered the first pair of “beloved rivals” for which the house is famous. Their rivalry is legendary, and in the beginning was based on envy. Hariste was jealous of Pralix because the older maga had known Tytalus for all her life. Pralix resented Hariste for not being her own apprentice. When Hariste manipulated the Order into sending Pralix to battle Damhan-Allaidh, it was a masterstroke worthy of Tytalus himself. It was only when Pralix had foresworn the Order that Hariste realized how much she missed''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Tytalus==
 
@@ -80,6 +80,8 @@
 
 ''It is dreadful when one who is not wise believes himself to be so.''
 ''— Critias Tytalus never forgave Tremere for his betrayal before the other Founders. He devoted considerable effort to thwarting the plans of his “little brother” (as he styled him, although the two were not related by blood), and had he not met his end when he did, may well have succeeded in putting him in his place as he had always intended. In his writings, Tytalus often refers to Tremere and his followers as “wolves,” due to their self-adopted symbol, but always in a negative way, emphasizing their savage nature, unpleasant disposition, habit for feasting on the corpses of the slain, and inability to be domesticated. His writings also preserve a number of other unpleasant names for Tremere, which are still used for members of House Tremere by Tytalan magi: Fratrilis (“little brother”), Tremulus (“quiverer”), and Vagitus (“whiner,” “puppy”).''
+
+|}
 ''her “elder sister,” and how much of their antagonism hid true affection. She consequently did everything she could to protect Pralix when the rest of the Houses demanded she be executed for her temerity (see Chapter 4: House Ex Miscellanea, History).''
 
 ==The Betrayal==
@@ -96,6 +98,8 @@
 ==The Schism War and its Aftermath==
 
 ''Following the Betrayal, House Tytalus underwent a period of relative quiet, concentrating on rebuilding their numbers, as well as their reputation in the Order. The spirit mages, with their command over spirits of confl ict and victory, had been the most combat-worthy members of the House, and with their loss the Tytali turned away from physical confl ict — leaving it to the Flambeau and Tremere — and re-embraced the fi ne art of debate''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Analects of Tytalus==
 
@@ -103,6 +107,8 @@
 ''•''
 ''•''
 ''•''
+
+|}
 ''her anta sequ prot dem ity ( Hist''
 
 ==Th==
@@ -110,8 +116,6 @@
 ''I.refu subsc you. f that.I than. will.n''
 ''N Hou her. most the h that the its fo sued Tasg and The turn War thre''
 ''whe Qua pow own her s for d Hou trad belo quen tions othe''
-
-|]
 ''favored by their Founder. As a result they amassed political power, particularly in the Normandy Tribunal. Kalliste led the broken House during the Schism War, and it became little more than a tool of House Guernicus. On the day of the final battle between House Diedne and the rest of the Order, Prima Kalliste met her demise at the end of a poisoned knife wielded by a member of her own House. The perpetrator of this crime was Marched by his own pater, Klynoites, who became the next Primus of House Tytalus. It is generally believed that Klynoites’s filius committed his crime on behalf of the House and his pater.''
 ''In the years that followed the Schism War and the demise of House Diedne, there were rich pickings of vis sources and magical sites all over Mythic Europe, nowhere moreso than in Brittany. The veterans of the Schism War in the Normandy Tribunal, predominantly members of House Flambeau, claimed these vis sources by right of conquest, despite their location within territory traditionally claimed by members of House Tytalus. This tension between individuals intensified as each side was joined by sodales in their respective Houses. It became as much about ideology as resources. House Tytalus accused House Flambeau of demanding to be rewarded for carrying out their self-appointed duties in slaying members of House Diedne. Scorn was poured on the Flambeaus’ self-righ''
 ''teous protestations of justice and honor; there was nothing honorable, the Tytali claimed, about grabbing resources from other Houses and claiming they were spoils of war. At Tribunal, Primus Klynoites referred to the Flambeau as narrow-minded fools who suborned their magic to the dictates of the Quaesitores rather than reveling in the power of their Gifts.''
@@ -127,14 +131,14 @@
 ''A person would make most advantage of justice for himself if he treated the laws as important in the presence of witnesses, and treated the decrees of nature as important when alone.''
 ''— Antiphon''
 ''House Tytalus seek to emulate its Founder, considering him to have been the finest magus to have ever existed. They dote on the Analects of Tytalus, which describe the route to his power. Philosophers from other Houses have denigrated Tytalus as a true philosopher, claiming he was more a “magpie of wisdom,” collecting only those fragments of philosophy which glittered attractively to him. At this point, the Tytali involved in such debates nod their heads''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Uncivil War==
 
 ''In 1228 the Grand Tribunal will be held. Both Primi will want to represent the House at this prestigious event, and it is likely that the rivalry between the two factions will escalate. A player character who has declared for one side will find himself the target of numerous plots by the other side to reduce the number of opposing supporters; likewise, he will be expected to instigate plots to do the same to his rivals. What started in friendly competition (for the members of House Tytalus, if not the Primi) might become a matter of deadly earnest as the Grand Tribunal approaches.''
 
-|]
+|}
 ''vigorously in agreement — finally, someone who understands the Master!''
 ''Of the many schools of ancient Greece which taught philosophy, Tytalus drew most heavily from the teachings of the Sophists; and it is true to say that much of the corpus of Sophistic teaching holds resonance with the members of House Tytalus today. The Sophists were an antagonistic group of scholars who used underhanded tactics to defeat their opponents, and were almost unanimously reviled by later writers. It is clear why their philosophy is so attractive to House Tytalus, for it is based on an underlying conflict — the rivalry between nature and custom.''
 
@@ -169,8 +173,8 @@
 ===Growth Through Conflict===
 
 ''Tytalus adopted the motto of the House for a reason; he believed that adversity brings positive change. A Hippian magus sees this as the purpose of his conflicts and intrigues, whereas one with a Calliclean ethic considers this to be a side effect, albeit a beneficial one. The war with Damhan-Allaidh led to the creation of House Ex Miscellanea. The Schism War ended decades of contention and ushered in an era of peace to the Order as a whole. House Tytalus’s conflict with House Flambeau (see History) precipitated the rise in power of the milites within that House. On a more personal level, a magus who tries to exploit a loophole in the Code of Hermes only serves to promote rulings that eliminate those inconsistencies. A magus who struggles against his rival''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The following Sophists were often quoted in the Analects of Tytalus:''
 ''Antiphon proposed that man is better off escaping from the constraints of convention. He believed that a man cannot be self-controlled if he has never been tempted, and taught a life of refined and intellectual hedonism, planning the maximum pleasure and the minimum suffering from a brief and imperfect existence.''
 ''Critias was a leading member of the Thirty Tyrants who ruled Athens following its defeat by the Spartans. He believed that laws were neither inherent in human nature nor a gift from the gods, and that virtue could be imposed by force. Religion was a purely human invention aimed at controlling the masses, and he was a strong opponent of democracy, stating that acceptance of convention was no way to run a nation. He was killed in a civil war against the democrats.''
@@ -180,7 +184,7 @@
 ==The Philosophers==
 
 
-|]
+|}
 ''amasses personal power in an attempt to overcome that foe. A magus who hoodwinks another in an intrigue makes his victim more cautious, and less likely to be fooled again. This drive towards constant growth also allows Tytali to snatch victory from the jaws of defeat by claiming selfimprovement when a plan fails.''
 
 ==Tools of Conflict==
@@ -234,8 +238,8 @@
 
 ''Our brothers the Tytali fight alongside House Tremere and House Flambeau, and bring as much blood and fire to the Plain of Wolves as we do. And yet, I cannot shake the notion that they fight a different battle to the one to which we pretend.. — Cercistum, Primus of House Tremere during the Schism War''
 ''Members of House Tyalus are clearly a contentious bunch, but this does not make them unpleasant. When meeting in public they usually appear to be friendly to each other; only when they are excruciatingly polite to each other can an undercurrent of a rivalry be detected. By no means are all Tytali cut from the same cloth as the argumentative and unpleasant stereotype. However, because of their love of intrigue, many Tytalan magi are inveterate gossips who love nothing better than to discuss with each other the foibles of a third party. As well as besmirching the reputations of others, they are keen to enhance their own, and a magus may often be boastful and prone to self-aggrandization when in the company''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Rumors==
 
@@ -246,7 +250,7 @@
 ''•''
 ''•''
 
-|]
+|}
 ''of others of his House. This combination of gossip and intrigue also makes them purveyors of conspiracy, and they tend to see the hand of a clandestine cabal in the hand of every major event in society, both Hermetic and mundane.''
 ''Magi of House Tytalus are also prone to obsession, occasionally to the point of psychosis. In the pursuit of his rivalry a magus can become excessively focused on the target of his intentions, and develop a deep emotional bond disturbing for outsiders to behold. Taken to extremes, a maga might begin to stalk her target, obsessively collecting his refuse and even sneaking into his sanctum when she knows her rival is not there. She may severely threaten his life by arranging dangerous challenges so that she can derive vicarious pleasure from his triumph. This darker side of Tytalan rivalry is mercifully rare in its most extreme form, but every Tytalus who undertakes a rivalry shares in it to some extent.''
 ''It is rare for a member of this House to fall for the same trick twice; a vanquished Tytalan magus is driven to develop weapons to prevent it from happening again. For example, a magus who survives defeat at the hands of a demon might spend the next few seasons inventing (or reinventing) spells specifically to defeat demons. He replays the events that lead to the defeat in his head, perhaps even revisiting the scene, and evaluates all the actions of himself and his companions which lead up to the defeat. The greater the personal consequences of the defeat, the more obsessive the Tytalan can be about investigating the failure. The purpose of this analysis is not to lay blame or provide excuses for failure, it is to ensure that the same mistakes are not made again.''
@@ -258,8 +262,6 @@
 ''A Tytalan apprenticeship is not a pleasant experience (see below), and the competition that develops between master and pupil is often the most intense relationship of a magus’s career. The resentment built up over a 15-year apprenticeship is not easy to shed, even if the magus realizes why he had to suffer at the hands of his master. Resentment (and even hatred) often matures into rivalry, as the former apprentice uses his newfound freedom to lash out at his tormentor. That spark of contention never subsides, even if (or per''
 ''haps because) the magus grows to respect his master, and it is not unusual for a Tytalus to have a protector and a foe who are the same person!''
 ''Should this hostility not resolve itself naturally, then a magus can make an official declaration of rivalry by declaring that they are Beloved Rivals. This is not a thing to be entered into lightly, for once declared — usually ceremonially, with the issuance to the rival of a spiral drawn in the magus’s own blood — the rivalry will persist until the death of one or other of the opponents. Formally declared rivalries extend throughout one’s life; at every turn, the rival is there, waiting for signs of weakness. The two magi do everything they can to hinder each other, even putting each other’s lives in danger. However, when they meet in person, they are often inseparable, like a''
-
-[|
 ''When Tytalus adopted wizards into his House, he gifted each with a Hermetic name for everyday use, using the names and titles of the Titans as his inspiration. Clearly, this list was limited in size, and Tytalus was not above creating false names with fabricated meanings. The Primi of House Tytalus still reserve the right to confer a magus’s name upon his initiation into the Order, but in modern times the magus is permitted to choose the name himself; the written endorsement from the Primus is merely a formality. Many Tytali still choose for themselves a name styled after the Titans of ancient time; alternatively, magi might manufacture names for themselves by combining a prefix with a gender-specific suffix.''
 
 ===Prefixes Female===
@@ -307,8 +309,6 @@
 
 ==Tytalan Names==
 
-
-|]
 ''doting father with his beloved son. Beloved Rivals most commonly exist between master and pupil, but could potentially exist between any pair of Tytali who have sufficient cause.''
 ''Beloved Rivals use formal modes of address to signify this relationship, and to warn spectators not to get in the way. Between members of the same Hermetic “family” — master to pupil, or between filii of the same master — Tytali use the adjective carus (feminine cara, “beloved”) to indicate a rival. Thus a maga and her former pupil might refer to each other as mater cara (“beloved mother”) and filius carus (“beloved son”). Between unrelated magi, the terms used are cognatus praeclarus or cognata praeclara (for men and women, respectively), meaning “honored kinsman/woman.” When these terms are used, other Tytali know not to interfere in their rivalries. The comparatives (praeclarior, “more honored”; and carior “more beloved”) and superlatives (praeclarissimus/ a, “most honored”; and carissimus/a, “most beloved”) of these adjectives are used to ironic effect.''
 ''House Tytalus is seen by its members as a large family, with the Primus at the head of the family, but with every magus having a role to play. Largely speaking, there may be quarrels between the members of the family, but in a crisis, they close ranks and support each other — blood is thicker than water, after all. House Tytalus prefers to police itself rather than being subject to the scrutiny of the Quaesitores, which it does through either clandestine means or the rather more obvious vehicle of Wizard’s War. If members of House Tytalus are seen to routinely break the Code of Hermes by the Order, then another Betrayal (or, worse still, another Schism War) might result, which cannot be allowed to occur.''
@@ -328,8 +328,8 @@
 ''As the name might suggest (deriving from eris, Greek for “strife”), these moots are not places where disputes are settled peacefully. Each participant in the moot does his utmost to defeat his opponent through any means necessary. The “weapons” allowed in a moot must be decided in advance; battles of words are the most common, and rules for adjudicating debates are''
 ''given later on in this chapter. Occasionally opponents agree to physical or magical combat, although the latter is disallowed in a subtle contest. If magic is employed in the moot, then certamen is frequently used, although some opponents find this overly constraining. In front of the witnesses, both opponents may publicly declare that their intent is not to threaten the life of their counterpart with their spells, and permit each other to use whatever scrying magic is at their command. With these declarations in place, the opponents are free to use any magic against each other that they see fit, and only the death of an opponent results in a prosecution under the Code of Hermes.''
 ''There are two special kinds of eristic moot practiced by the House. The first is an Apprentice’s Gauntlet, where an apprentice uses the formal procedure of the moot, in front of witnesses of the House, to force his master to accept his status as a full member of the Order. The other specific moot is held one year after the death or Final Twilight of the Primus of House Tytalus. This moot is always hosted by the covenant of Fudarus, and all Tytalan magi do their very best to attend; all other witnesses are excluded. Everyone who considers himself worthy of the position of Primus is an opponent, and it is a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Stories Arising from Eristic Moots==
 
@@ -337,7 +337,7 @@
 ''A subtle contest of arms presents an interesting legal issue: does this count as “attempting to slay another magus” under the Code, or is preserving the ignorance of the mundane witnesses more important?''
 ''A rival allows himself to be defeated at a moot; his contrite admission of weakness inflicts more damage to his opponent than his victory ever could.''
 
-|]
+|}
 ''“sudden-death” tournament that lasts until there is one contestant left — the new Primus. In such a high-powered expression of the eristic moot, the most skilled members of the House have eliminated some of their competitors even before setting foot in Fudarus, already outmaneuvering their opponent on a social level through blackmail, rumor, and other dirty tricks.''
 
 ==Apprenticeship==
@@ -350,8 +350,8 @@
 ''During the next 15 years, the apprentice’s life is exceptionally hard. No luxury is afforded the apprentice; he enters a life of virtual slavery from his hitherto privileged schooling. Only meager provisions and squalid conditions are supplied, and when not receiving direct instruction or providing assistance, the tasks assigned to him vary from the monotonously tedious to the downright dangerous. While many of the practices employed by a Tytalan master seem cruel, the purpose is not cruelty for its own sake. Rather, the master seeks to reveal the injustices of the laws (nomoi) imposed by an arbitrary society, and make the apprentice rebel against custom and embrace his physis. To this end, a master often employs the Book of Instruction, a text written by Tytalus himself,''
 ''which lays down explicit rules as to the correct behavior of an apprentice, and the punishments applied to infractions of these rules. The penalties are both arbitrary and seemingly random, and have absolutely no instructional value: the Book of Instruction does not legislate upon how to train an apprentice, but rather how to treat him. A master often pretends to sympathize with her pupil, appealing to the iron law of the Book of Instruction as her excuse: “I don’t want to do this to you, really I don’t. But the Book of Instruction dictates that washing on a Thursday is prohibited. I have no choice.”''
 ''In the latter years of the apprenticeship, the master deliberately exposes her pupil to the culture of the House through the eristic moots, stressing the huge inequality between his current situation and the rule-flouting attitude of the House, while continuing to punish any''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''An apprentice in his first two years of training must keep his head below the level of his shoulders while cleaning laboratory equipment. An apprentice who has passed his sixth year of instruction must hold an object of wood between his teeth when performing this task.''
 ''Making eye contact with a magus other than the master before the sun has set is to be punished by having to carry a pig’s head on his back for a month, unless there has been thunder that morn, in which case the head will be from a goat, and the period will last one season.''
 ''An apprentice is allowed a halfhour’s rest every four hours, except on Thursdays, when he will receive five''
@@ -369,7 +369,7 @@
 ==Eschewing the Book of Instruction==
 
 
-|]
+|}
 ''sign of complaint or dissatisfaction. Many apprentices run away at least once during apprenticeship, others take out their frustration on other children in the covenant through bullying. Some harbor fantasies of murder, although few act on these urges. Nevertheless, it is a foolish master who does not take precautions against harm from the person who stands at her back, cooks her food, and shares her sanctum when she is sleeping.''
 ''The point of this treatment is not to crush the apprentice’s ego but to forge it into an iron will. That spark of rebellion, a surliness or disobedience which is the first sign of an emerging will, is be fanned into a raging turmoil of emotion in the adolescent’s mind, and then honed by resentment into a dangerous weapon. A Calliclean master tries to provoke that rebellious streak into active conflict, whereas a Hippian master guides her apprentice towards avoiding penalty on technicalities, and flagrantly disregarding the rules when he thinks his master is not watching. Both types of master exhibit public disapproval of her apprentice’s actions while privately reveling in them.''
 ''If the teaching methods of Tytalus fail to produce the right caliber of student, the master does not continue his education. A failure to react against the harsh training leads to a life outside House Tytalus; such an unfortunate is passed off to another House, or abandoned altogether (resulting in the Failed Apprentice Social Virtue).''
@@ -387,14 +387,14 @@
 ''It is not even necessary for a magus to renounce membership of his former House to join House Tytalus; anyone who has proved himself worthy is entitled to call himself a Tytalus, regardless of what others call him (or even what he calls himself). Of course, since House Tytalus is the only one of the 12 Houses that permit dual membership, the Order of Hermes does not look kindly on such magi, and they are rare.''
 ''Winning recognition as a member of House Tytalus is considered to be the highest accolade afforded to non-Tytali, for they consider themselves to be the best among magi. Because of the somewhat loose definition of “a member of House Tytalus,” a magus may find that he has earned that status unwittingly, having unequivocally defeated a Tytalus administering the Gauntlet of the House to him. Henceforth, members of House Tytalus persist in referring to that magus as being of House Tytalus, often to the frustration and embarrassment of the magus involved. Of course, forcing the House to rescind the honor of membership only convinces the Tytali more strongly that the unwilling member of the House is deserving of that status!''
 ''From this attitude it also follows that a magus ceases to be a member of House Tytalus if he becomes disillusioned with its philosophy. It is virtually unheard-of for a Tytalan magus to be cast out of the House without his consent, but a magus occasionally requests that the Primus of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Unwilling King==
 
 ''A non-Tytalus character makes an enemy of a Tytalus. She fights him for years in all arenas. Finally, when the non-Tytalus manages to inflict the final blow that lays her opponent low for good, he welcomes her to House Tytalus. By defeating him, she has passed the Gauntlet of the House. From then on, all Tytali of the Tribunal refer to the maga as a member of their House, much to her embarrassment.''
 
-|]
+|}
 ''Tytalus allows him to relinquish his status as a member of the House. The magus then has a year to join a new House before he is punished for vagrancy (see Houses of Hermes: True Lineages, House Guernicus). Many Houses do not trust a magus who renounces House Tytalus, assuming it is all part of some grander plot.''
 
 ==Cabals==
@@ -415,8 +415,6 @@
 ''— but the handling of intrigue stories is different.''
 ''The sections below provide a toolkit of elements that play a part in pursuing intrigue, including rules for deep-cover disguises called personae, which are used by Tytalan magi, and rules for the cut-andthrust of political debate. Rules for running agencies of spies, thieves, and other useful lackeys are provided in the Appendix to this book, as members of House Jerbiton also use such agents.''
 ''Intrigue-based adventures are difficult to frame, because player actions can be so variable under different stimuli. It is usually best to present an overall picture describing the situation, with a number of different resolutions, each with its own''
-
-[|
 ''Presented below are examples of typical Tytalan intrigues. In common with the fables told in House Tytalus, they feature Tytalus as the protagonist, and other founders fill other iconic roles: Guernicus as the co-conspirator, Tremere as the dupe, and Flambeau as the dupe’s ally. These are fables, not history, but should be used to provide inspiration for intrigue-based stories.''
 ''Deliverance: Tytalus rescues Tremere from danger. Tremere later discovers that Tytalus put him in danger to begin with. Is it too transparent to assume that Tytalus merely wanted Tremere to owe him a boon?''
 ''Crime Pursued by Vengeance: The dishonor of Guernicus by Tremere provokes a furious reaction from Tytalus. But wasn’t it Tytalus that gave Tremere the evidence against Guernicus?''
@@ -436,6 +434,8 @@
 
 ==Stories of Intrigue==
 
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Current Cabals==
 
@@ -446,7 +446,7 @@
 ''The Cabal of the Shining Eye (Symbol: A concha with an eagle at the center). Dedicated to maneuvering the Roman Tribunal into colonization of North Africa.''
 ''The Unnamed Cabal (Symbol: a counterclockwise swirl of five lines, which double back on one another and create a vertex). Spoken of in hushed tones, the Unknown Cabal’s goal is to ensure that the other cabals are kept in conflict with each other. It is supposedly composed of the most powerful Tytalus Archmagi, and, some claim, Tytalus himself! There may even be more than one cabal with this goal. . . .''
 
-|]
+|}
 ''consequences. It is far more important to know the goals of the antagonists rather than the intricacies of a plot. As long as the storyguide has a good conception of the designer of an intrigue, and knows his motivations and intent, then as long as he acts consistently in the pursuit of his goal, a good story will result even if the player characters throw him a curveball. A good trick, but one which must not be overused, is to use hindsight as a surrogate for a well-formed plot. The instigator of an intrigue is potentially more intelligent and devious than the storyguide himself, but a way around this is to change the actions of the antagonist as a result of the player characters’ actions. In reality, you retroactively decide, the intriguer had planned these actions from the very beginning, and thus the ability to predict character actions is simulated. However, it is important not to thwart the actions of the characters too many times with this trick, nor to deny them a hard-won victory.''
 
 ==Tytalan Agencies==
@@ -472,8 +472,8 @@
 
 ''Occasionally, a Tytalan magus will come across (or seek out) an agent in the employ of a rival. This agent might be courted by the magus so that he has a mole inside the rival agency. Recruiting the agent follows the usual rules (see Appendix); as soon as the Bond Strength of the agent reaches zero, he becomes a double agent, working for both agencies, but most loyal to the principal with the highest Bond Strength. Should the original principal become aware of the subordination of his agent, he can maintain him as a triple agent, feeding back false information.''
 ''Conducting a hostile takeover of another’s agency can be done one agent at a time, but there are quicker methods available to magi. Using appropriate magics, a Tytalan can disguise himself as the principal and establish a persona (see below) among the agents as the original principal. The interloper can then use the Bond Strength of any agent built by the principal as if it were his own. The agent believes that he''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Fudarus maintains an immense spy network. The covenant directly controls a number of agents, who themselves maintain their own agencies, and so on through several layers of interaction. These agents are spies, largely petty criminals, who keep a close eye on the mundane interests of the covenant, although the Primus sometimes uses them on behalf of the House. It is unclear to what extent the members of this network are secretly agents of Tytali other than the Primus.''
 ''A Tytalan magus operates a network of merchants on the Mediterranean Sea. All the merchants have access to ships, and the magus can often arrange passage on these ships on behalf of other magi, for a price.''
 ''A solitary member of House Tytalus maintains several mercenary captains and outlaw leaders as agents instead of having grogs, and he can call upon them at short notice, should his plans against his rival come to fruition.''
@@ -483,7 +483,7 @@
 ==Example Agencies with Tytalan Principals==
 
 
-|]
+|}
 ''is still working for the same person, and is often relocated to keep him away from his former principal. This process only works if the original principal does not have regular contact with his agents, else the deception is too easily discovered.''
 
 ==Disguises and Personae==
@@ -506,8 +506,8 @@
 ===Deep Cover Disguises===
 
 ''Occasionally, a magus needs to establish a long-term presence in a specific community to pull off one of his intrigues. He might be spying on a rival covenant, gathering gossip in a bishop’s palace, or even hiding from his enemies. In such situations, a physical disguise is often insufficient; over the long term they tend to be uncovered. Instead, a character can disguise himself by adopting a totally different identity among the target group. He chooses a role''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds for Tytalan Agencies==
 
@@ -532,6 +532,8 @@
 ''Change sex +6 male magus becoming female maga''
 ''Minimal preparation +3 less than five minutes to make the disguise, or limited costume available''
 ''No preparation +6 less than five rounds to make the disguise, or very basic costume available''
+
+|}
 ''to play, complete with personality, history, and quirks, and then establishes this new identity among his chosen community.''
 ''Deep cover disguises have names, jobs, and personalities that are separate from those of their creator. Once the personality has been developed, the magus gets into an appropriate costume, enters the community where the cover is to persist, and performs a noteworthy act in front of witnesses, which establishes the character in the minds of the residents. This act grants a new Reputation as the disguised individual, at a score of 1 (see ArM5, page 167). Establishing the Reputation in the fi rst place often requires a Disguise roll to be successful, but once established the Reputation replaces the need to make further Disguise rolls. However, if it is ever necessary for the magus to convince others of the validity of the cover — if he is questioned by a suspicious priest, or tries to cover up the slip of a comrade — then the Ease Factor of the Disguise roll is reduced by the value of the Reputation.''
 ''Example:. Carolus. Furax. decides. to. develop. the. persona. of. a. mercenary.. He. fi.gures. that. this. job. gives. him. suffi.cient. reason. to. be. absent. from. his.home.village.for.long.periods.of.time,.but.also. gives.him.the.opportunity.to.swap.war.stories.with. the. town. guard. and. —. more. importantly. for. his. current. schemes. —. with. the. soldiers. of. the. baron. who.frequent.a.certain.tavern.in.town..He.therefore. chooses. the. name. “Reynard,”. procures. some. arms. and.armor,.and.after.spending.some.time.studying. his.covenant’s.grogs,.swaggers.into.the.tavern.and. orders. himself. a. drink.. He. has. arranged. for. some. “robbers”.(actually.his.grogs).to.attack,.who.allow. him.to.beat.them.back.in.defense.of.the.townsfolk.. Once.this.is.accomplished,.Carolus.has.acquired.a. Local.Reputation.of.Reynard.the.Mercenary,.at.an. initial.score.of.1.''
@@ -541,14 +543,12 @@
 
 ==H H==
 
-
-|]
 ''ing penalties to lab work, for example) gains only 2 experience points per year. A magus can speed the process of establishing the Reputation by staging noteworthy events for the benefit of those he is fooling (1 experience point per event), but he must display the appropriate Abilities (or be able to hide his lack with subterfuge or magic) or else his efforts are wasted. Events that enmesh him closer in the community — such as getting married, having children, or taking on a role such as reeve — are also worth 1 experience point in the Reputation. In any case, a Reputation increased by more than 2 experience points per season is likely to arouse suspicion because the magus is trying too hard.''
 ''The Gift is the biggest impediment to a magus wanting to run a deep cover disguise; however, as the fake identity becomes wellknown in a society, the effects of the distrust and envy engendered by The Gift diminish (assuming that the character does nothing to confirm them), as people around him become used to him. A character therefore subtracts his Reputation from the penalty to social rolls caused by The Gift, but only when dealing with those with whom he has regular contact. This diminishing effect of The Gift does not apply to strangers, only to those that come to know the magus well; this is a formalization of the effect seen normally over prolonged contact with the Gifted (ArM5, page 75).''
 ''Example: Carolus becomes a regular visitor to the village (particularly its tavern), regaling the patrons with stories of all the battles he’s fought in while he’s been away (although in reality he’s been back at the covenant studying magic). After two years, and another demonstration of his martial abilities, the persona of Reynard has a Reputation of 2. In this village, he suffers only a –1 penalty to social interactions from The Gift.''
 ''Because deep cover disguises involve such a total change in the mannerisms and personality of the magus, those who know him as a magus may not recognize him when he is in his disguise, because recognition is based so much on context. Should a magus enter the locality in which his cover lives without first adopting the disguise, he may be recognized by the townsfolk, but it is amazing how situation can make one blind to the obvious. Without the mannerisms and distinctive costume of the disguise, the magus appears to be a different person, even if he shares the same facial features. However, the effects of the Mistaken Identity Flaw could temporarily apply to a magus in this situation. Naturally, the chances of being recognized depend very much on the level of interaction he has, how well he is known by the observer, and so forth. There is little chance that any mundane who is familiar with his cover will ever encounter the same individual in Hermetic circles; the reverse is a little more likely, but a magus is granted the right of privacy by the Code of Hermes, and need not explain to another magus why he is pretending to be''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New Supernatural Ability: Persona*==
 
@@ -557,20 +557,20 @@
 ''The character gains one identity for every point he has in the Persona Ability. Every time the Ability increases by one point, the character must design a new identity.''
 ''Specialties: priests, peasants, magi''
 
-|]
+|}
 
 ==Hermetic Disguises and Personae==
 
 ''It is entirely feasible for a Tytalan magus to maintain a deep cover disguise or persona in another covenant, if he divides his time between the two covenants and has a plausible explanation for his absences. He also needs to ensure that his identities could never meet each other, and that his two sets of sodales never come into contact. Unless a covenant’s charter explicitly forbids a magus from being a member of more than one covenant, there is nothing contrary to the Code in such an action, although once discovered it might raise a few questions regarding the motives of the Tytalan magus who perpetrated this double life.''
 ''No Tytalus has been caught impersonating a Quaesitor, but if one was, then every decision that the “Quaesitor” had made would have to be reconsidered, and it is unlikely that the Tytalus would escape censure from the Tribunal. A case was brought to the Normandy Tribunal of a magus who impersonated a Redcap, thus gaining access to private communications between his rivals. This magus was successfully prosecuted for scrying, because he used magic to take the appearance of the Redcap, but had he not done this, there is no provision in the Code that would make this a Hermetic crime.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Reborn Identity==
 
 ''A Tytalan magus enters a protracted Twilight and becomes one of his personae. All memories of his life as a magus are lost, and he cannot use the magic to which he is unaware he has access. Perhaps the magus was privy to a particularly important piece of information that the player characters need. Should the player characters — unaware of his condition — reveal to him the existence of the Order, the persona might react badly to this knowledge and start telling the world their secrets.''
 
-|]
+|}
 ''a mundane. As long as interaction between the magus and characters who know him in his other life is kept to a minimum, it is unlikely that the disguise will be uncovered, although if conversations ensue, the player of the undercover character must make a Disguise roll, as detailed above.''
 ''Deep cover disguises have a limited life span. If a magus ceases to expose the community to his disguised identity, then it forgets about him and the Reputation dwindles. After being dormant for a number of years equal to the Reputation score, the Reputation loses one point per year. Further, the negative Reputation of The Gift becomes re-established at its original strength if the magus tries to use the persona again after this dormancy period.''
 
@@ -674,8 +674,8 @@
 ===Lost===
 
 ''Refer to the table at the bottom of the page for the effects of the Argument Strength on the voting pattern of the audience. Note that if a debater roundly defeats''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Power of Truth==
 
@@ -695,7 +695,7 @@
 ''6 Momentous Victory 50 20''
 ''7+ Landslide Victory 60 30''
 
-|]
+|}
 ''his opponent, then some of his opponent’s allies are so swayed by the force of the winner’s debate that they abandon their faction and vote for the winner.''
 ''Having determined which way the Tribunal votes, the storyguide should tally up the results to determine the final outcome of the debate. Note that those neutral votes that remain unassigned abstain from voting. Example: Moratamis the Quaesitor is a popular figure at Tribunal. Of the 55 votes present,''
 ''the storyguide estimates that 20 are her solid allies, whereas Carolus has the certain support of only ten other magi. Nevertheless, he won the debate with an Argument Strength of 3, which means he wins 20% of the 25 neutral voters, for a total of 5 other votes. This still gives him only 15 votes; not enough to win the case. He would have needed to have had an Argument Strength of at least 5 to have won this issue; that would have given him 40% of the neutral vote (ten extra votes) and 10% of Moratamis’s faction (two extra votes). Instead, Carolus mentally rehearses his “contrite” plea for mercy.''
@@ -719,8 +719,8 @@
 ===Proposal Cases===
 
 ''Proposal cases are ones in which a magus seeks a correction, clarification, or addition to the Code of Hermes. In such cases, the debate is held between the proposer and the rest of the Tribunal. Any magus may enter into a debate with the proposer, and once the praeco feels that the case has been fully discussed, he stops the debate and calls for a vote. In game terms, the debate continues for a preset number of rounds, typically 5–10 (although the players do not know in advance how many rounds will eventually take place). Each round, the proposer faces a question or objection from a member of the audience. The storyguide should present each opponent’s argument, allow the player magus to respond, and then make a debate roll. The storyguide should assign Attack and Defense Ability scores to each interrogator, but the proposer is fighting against a single opponent — the whole Tribunal — and the blows he lands are counted against that single entity.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Using Certamen Instead of Debate==
 
@@ -736,7 +736,7 @@
 
 ''Debates do not only have their purpose in the Tribunal halls of the Order. Mundane courts of law can also be persuaded by a strong argument, regardless of the evidence either way. For most of Mythic Europe, the winner of a debate is judged the winner of the case, unless the arbiter of justice is corrupt. In the Kingdom of England, Common Law prevails, which institutes a jury (of 12, 24, or 48 peers) to judge the case; such trials should be judged according to the voting system described above. However, jurors should be randomly assigned to the friendly, neutral, and hostile factions. If a character with The Gift is on trial, only 10% of the jurors begin the case sympathetic towards that character’s position. Furthermore, the social penalty of The Gift is applied to the Defense Total of a magus when debating with mundanes before witnesses.''
 
-|]
+|}
 ''Once all the points have been debated, the proposer’s Argument Strength is used to determine the margin of victory in the usual way. However, the Argument Strength may suffer a penalty determined by the type of modification required to the Code. Magi are wary about making drastic changes to the Code of Hermes, and thus the more alteration required, the more difficult it is to win the case. A clarification does not propose to change the Code, it merely asks for a clear statement to be made about the Tribunal’s attitude towards a specific position. An addition doesn’t change the Code of Hermes either, but it expands the meaning of a specific case to cover a more general situation. An alteration of the Code actually suggests that a previously made ruling was incorrect, and should be replaced with a superior version, authored, of course, by the proposer. Note that a regional Tribunal can only make modifications to the local Peripheral Code, although they can recommend that a successful proposal case be taken to the next Grand Tribunal, where it may modify the Code as practiced in all Tribunals.''
 
 ===Type of Case Penalty To===
@@ -784,8 +784,8 @@
 ''Symbol: A labyrinth of two joined key-spirals, one turning left, the other right.''
 ''The Titanoi of House Tytalus are a Mystery Cult that preserves the knowledge and history of Guorna and Tytalus’s magic. Trained in a goetic tradition (see Infernal Taint, below), Tytalus explored beyond the necromancy taught by Guorna, and delved into the roots of his tradition for ways in which to defeat her. He contacted the shades of the Titans who were trapped in the underworld, and through their power he was able to rid the world of his former teacher. Those magi who were taught this magic by Tytalus and Pralix became known as the Titanoi, the Children of the Titans. They believe that the name of their Founder is a corruption of Titanis talus, meaning “gaming piece of the Titans,” a name he only took upon himself after the defeat of Guorna.''
 ''The Betrayal (see History, above) nearly saw the end of the Titanoi. Only a handful of its magi survived the purge, and they were mostly young magi who were poorly versed in the Ars Goetia. After the Schism War, the remaining members of the lineage convinced a small sect of Greek theurgists to defect from House Ex Miscellanea and join Tytalus, to revive the Titanoi. These theurgists reformed the Titanoi into a Mystery Cult, but it subsequently lost most of its religious elements due to the strong Sophist leanings of House Tytalus. The cult now serves to offer praise and honor to the governors of the Universe, rather than give them worship. Consequently, not all the members of the cult are pagan, but all have decidedly heterodox views about how the universe was created and is run.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Titans (according to House Tytalus) were the means by which the world was created. The elder generation of Titans were the rulers of the universe before the gods of Olympus usurped their position. The gods fought with and eventually imprisoned the Titans, leaving them capable of ordering the universe, but only with the permission of their captors. According to legend, the Titans also created man and his base nature, but it was a god who brought justice, conscience, and laws from heaven to man — Hermes.''
 ''There were 12 Elder Titans, children of the Earth and the Sky. Their offspring, the Younger Titans, were of more interest to Tytalus than their vastly more powerful parents, and they fathered a host of Daimons, spirits of primal concepts such as love, war, and envy. Included in this group are famous members such as Helios the Sun, Selene the Moon, Hekate the Witch, the four winds, the Muses, the Graces, and the Fates. However, one particular family of Titans was employed to great effect against Guorna, and they are summarized below.''
 ''Pallas is the Titan of war-craft. He is the son of Krios, the Elder Titan of leadership, and is a goat-like spirit who was eventually defeated by Athene, who formed her aegis (shield) from his skin.''
@@ -797,6 +797,8 @@
 
 ==The Titans==
 
+
+|}
 ''The Titanoi excel in the summoning and control of spiritual entities. They concentrate on the Titans and their children (see insert), but no Titanos is adverse to spells relating to other spirits, such as ghosts, elemental spirits, and the like. A magus raised in the cult develops a Major Magical Focus in Spirits during his apprenticeship, which applies to all supernatural entities that have a naturally insubstantial form. This includes ghosts, but does not extend to other aspects of necromancy such as the animation of corpses. He is also taught Magic Lore and Titanoi Cult Lore. Many Titanoi do not seek further Initiation into the Mysteries of the cult due to the social stigma attached to its practices since the Betrayal. Nevertheless, the lure of more powerful magics offered by the cult often attracts a Titanos after he has had the chance to develop a few powerful enemies. The cult can Initiate the following Virtues: Hermetic Theurgy, Invocation Magic, Names of Power, Theurgic Spirit Familiar, and Student of Magic Realm. For details of these Mystery Virtues, see The. Mysteries.Revised.Edition.''
 ''The taint of Tasgillia’s trial still runs deep in this lineage, and a Titanos who is open about his membership of this tradition might suffer from the attentions of a suspicious member of House Guernicus, determined to uncover the diabolic roots of the magus; thus, Titanoi characters frequently have the Enemy Flaw.''
 
@@ -815,8 +817,6 @@
 
 ==The Curse of Leprosy==
 
-
-|]
 ''their sodales. Even if a leper magus can persuade a covenant to let him join, his sanctum is often placed outside the walls (and possibly the aura) of the covenant in accordance with the seclusion laws; as a consequence many magi aegroti are wanderers. Most leper magi enjoy the mystique that surrounds them, and tend to play up their role somewhat, wearing the tattered leper’s outfit and enchanting the bell or clapper they carry with protective charms against disease. Most hold Hippian ethics with respect to the House philosophy, and consider caring for the sick and healing their ills to be one of the universal, unwritten laws. They take their conflict within the human body, struggling against contagion and ill-health. Magi aegroti have the same combative spirit as the rest of their House, and they can be dangerous when roused.''
 ''All magi aegroti must buy the Leper Magus Virtue and the Leprosy Flaw. Should they ever somehow lift the curse of leprosy, they lose the Leper Magus Virtue. All''
 ''also have a Minor Magical Focus in either disease, wounds, or aging. They are inevitably specialized in Corpus magics, and usually have either Affinity with Corpus or Puissant Corpus. The Painful Magic Flaw is unfortunately common; those who are lucky enough to escape it developing with their leprosy may acquire it through Twilight episodes later in life.''
@@ -841,15 +841,15 @@
 
 ''MuIm 10 R: Touch, D: Sun, T: Ind This spell is a variant of Aura of Ennobled Presence, except that it causes the target to appear more guileless, gullible, and naïve. The character gets a +3 to rolls to deflect suspicion or convince others of his innocence. In a debate, the target receives a +3 to defenses based on Guile. To those affected by the caster’s Gift, his apparent innocence and unblemished honor appears sanctimonious and self-righteous.''
 ''(Base 3, +1 Touch, +2 Sun)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Infernal Taint==
 
 ''The magical arts practiced by Guorna and Tytalus included the Ars Goetia (see Realms of Power: The Infernal, Chapter 11: Ars Goetia), which deals with the summoning, binding, commanding, and punishment of spiritual entities of all realms except the Divine. While these powers are not inherently evil, their association with spirits and the underworld make them tainted, socially and supernaturally. Modern Titanoi claim to employ only Hermetic practices, and thus avoid any sorcerous taint of the Ars Goetia. They do not admit to also preserving the original magics of their Founder (in the form of Goetic Magic), but it is known for a certainty that Tasgillia did, and it seems unlikely that this knowledge was completely purged from the House by the Quaesitores.''
 ''At the option of the storyguide, the Mystagogues of the Titanoi can also Initiate the Goetic Arts of Summoning, Ablating, Binding, and Commanding as Major Mystery Virtues, and teach Goetic Spell Mastery.''
 
-|]
+|}
 
 ===The Magic of Impersonation===
 
@@ -913,8 +913,6 @@
 ''ReMe 30 R: Eye, D: Sun, T: Group After casting this spell, the caster utters a piece of information (true or false) to the target Group, and must speak in a language that the targets understand. The members of the Group are then strongly inclined to repeat that information to anyone they meet for the Duration of the spell.''
 ''(Base 5, +1 Eye, +2 Sun, +2 Group)''
 
-[|
-
 ===The.magic.of.the.titanoi===
 
 ''Spirits abound in Mythic Europe, present wherever an object exists which expresses a particular quality strongly. Thus, spirits of fi re can be found near open fl ames and spirits of love can be found near courting couples. These spirits are akin to animals and plants, have no personal names, and do not involve themselves in the physical world unless forced to through magic. Spells of a specifi c Form can command any spirit tied to that Form, for example, Ignem can command any fi ery spirit. Mentem spells (using the Rego Mentem guidelines, ArM5, page 151) can command any spirit with an Intelligence score, but some spirits have no Intelligence, and those are affected by Rego (Form) spells.''
@@ -936,6 +934,8 @@
 ===Reveal.the.lurking.watchers===
 
 ''InVi 30 R: Per, D: Conc, T: Vision This spell allows the caster to see any creatures of the Magic realm within his fi eld of view and identify them as possessing Magic Might. The spell does not distinguish between what is spiritual and what is not, so if a spirit has an animal form, the caster may mistake it for a magical animal. The caster receives no information about the type of creature except that which can be deduced from its appearance. This spell must penetrate the Magic Resistance of''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Spirit of a Person’s Anger==
 
@@ -944,6 +944,8 @@
 ''Mentem: The spirit is both invisible and intangible, and cannot be infl uenced by the physical world. Magic may only directly target the spirit if the caster can sense its existence. The physical characteristics of the spirit are only used when dealing with other incorporeal creatures. Fury, 3 points, Init +2, Mentem: The''
 ''target of this power must roll 9 or higher on a stress die to avoid fl ying into a destructive, uncontrollable rage. He gets another roll every round to try to calm down. On a botch, he tries to kill everyone around him. Appropriate Personality Traits add to or subtract from the roll. Appearance: To those with Second''
 ''Sight (or similar magic), a spirit of anger appears to be a red-faced man. His muscles and tendons are taut with his furious anger, and he is constantly bellowing his rage at the world.''
+
+|}
 '',''
 '', ot d''
 ''f t m''
@@ -954,8 +956,6 @@
 ''are''
 ''ler ral nly''
 ''of os''
-
-|]
 ''the creature; if it fails to penetrate a spirit’s Might, then the spirit cannot be seen by the caster.''
 ''(Base 5, +1 Conc, +4 Vision)''
 
@@ -978,8 +978,8 @@
 
 ''CrCo 30 R: Touch, D: Mom, T: Ind, Ritual All of the target’s wounds immediately improve by one level of severity; an Incapacitating Wound becomes a Heavy Wound, a Heavy Wound becomes a Medium Wound, and so forth. Light Wounds are healed instantly.''
 ''(Base 25, +1 Touch)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Magic Might: 20 Characteristics: Int +3, Per +4, Pre +2,''
 ''Com +2, Str 0, Sta +1, Dex +1, Qik +2 Virtues and Flaws: Puissant Intrigue Personality Traits: Sly +3 Abilities: Folk Ken 4 (rivalries), Intrigue''
 ''6+2 (competition) Powers: Incorporeal, 0 points, Init Constant,''
@@ -990,11 +990,14 @@
 ''youth dressed in a simple tunic, with a huge pair of black-feathered wings. He holds a laurel crown.''
 ''Zelos is the Daimon of rivalry, envy, and competition, and as such he never assists a character to resolve a conflict with another, but he has no difficulty with providing assistance to propagate contention. To Zelos, the network of rivalry and jealousy around a person appears as a web of intrigue, and he can follow those threads back to their sources.''
 
-|]
+|}
 ''An Aspect of Zelos New Corpus Guidelines''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Creo Corpus Level 25:	Improve all wounds by one''
 ''level of severity.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -5,8 +5,8 @@
 
 ''The City & Guild supplement provides more information on using ships in your''
 ''saga, but the following briefly describes some of the numerous vessels found across Mythic Europe. River barges are flat-bottomed, lowdraft vessels designed to navigate streams and rivers. Barges generally have a single deck on which cargo is stacked. The hulk is a blocky vessel, usually as wide as it is tall, again designed for inland waterways, with limited capacity for coastal or seagoing travel. The cog is a high-sided vessel, mounted on a straight keel and often with a flat bottom designed to settle when the tide recedes. Cogs have a flat stern and it is becoming more common for them to be steered through a central rudder. These vessels are the primary merchant ship of the northern seas. Smaller than the cog, the buss is a round-bodied seagoing vessel, usually put to carrying cargo, though they''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Ship Damage==
 
@@ -15,12 +15,12 @@
 ''* 	 Wondrous Items as in City & Guild.''
 ''Ships normally only take damage from storms, fire, naval combat, and magical attacks. In addition, enchanted items, ships included, gain a bonus to any Stress Checks equal to the magnitude of all invested effects. These things combined make enchanted ships particularly hardy. If you are not using the City & Guild sourcebook, it is enough to remember that enchanted devices are tougher than their mundane counterparts, and the magic invested in them continues to function until the device is completely broken.''
 
-|]
+|}
 ''make good fishing boats. Variations on the cog can be found in every sea across Mythic Europe. The nef fills the same role''
 ''as the cog and is commonly used in the Mediterranean. This ship has lateen sails and is carvel-built, with the hull planks''
 ''laying flush against each other. Though outdated by the 13th century, the dromon is a long-keeled warship powered by both oar and lateen sail. Designed for speed, the dromon houses a hundred oarsmen arranged in two banks of 25 oars on each side. In addition, the dromon carries armed marines as well as engines to launch stones, arrows, and Greek fire into enemy vessels. The galley is also still in use, especially in Byzantine waters, and like the dromon carries both oarsmen and sails. Unlike the dromon, the galley is a cargo ship with little adaptation to fighting at sea. The knarr is an open Scandinavian vessel used for long Atlantic voyages, typically taking passengers and livestock to Iceland and Greenland. The knarr travels under sail and is steered through a steering oar at the rear of the ship. With little or no cover, travel in a knarr, especially to cold northern destinations, is a harsh experience.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Ship Sizes and Capacity==
 
@@ -28,7 +28,7 @@
 ''Size Capacity Crew Cost Dam Example +3 1 ton 2 1/5 pound 2 Small river ferry +3 8 tons 2 2 pounds 2 Lighter +4 20 tons 3 4 pounds 2 River barge +5 20 tons 8 8 pounds 2 Coastal buss, knarr, small cog +6 100 tons 12 40 pounds 3 Medium cog, large nef +7 240 tons 18 100 pounds 3 Large merchant cog +8 800 tons 150 320 pounds 3 Mediterranean grain barge +9 1200 tons 200 600 pounds 4 Large Mediterranean grain barge''
 ''Lateen-rigged ships typically require larger crews than square-rigged ships, adding half as many crew again to the numbers listed earlier. The grain barges described earlier are only found in the Mediterranean and already have the larger crews factored into their descriptions.''
 
-|]
+|}
 ''Lighters are small vessels designed to take goods from larger ships unable to dock at the quayside. They are typically around 25 feet long and carry around eight tons of cargo.''
 
 ==The Medieval Shipwright==
@@ -40,15 +40,11 @@
 ''There are two types of ship construction: clinker-built and carvel-built. Clinker-built ships have hulls constructed with overlapping strakes, or planks. Clinker-built hulls are able to flex along the length of the vessel, the better to cope with the rough northern waters where they are more common. Carvel-built''
 ''ships are more common in the calmer southern waters, and are constructed with the strakes butting against each other, forming a smooth-sided hull. They are generally stronger than clinker-built vessels, allowing for larger ships, but tend to be slower in the water. Ship builders generally treat the hull as one entity and any upper works, such as fore and aft towers or castles, as sepa''
 
-[|
-
 ==Suggested Shipwright Virtues and Abilities==
 
 ''A mundane shipwright character will need certain academic and professional abilities. The Vernacular Eduction Minor General Virtue (City & Guild, page 109) can be taken, as this grants access to Academic Abilities. It also gives the character 50 additional experience points to be spent on academic and professional abilities. The description of the virtue suggests Profession Merchant, but this can be changed to Profession Shipwright. The points can also be spent on an Organization Lore ability, likely for any guild to which the shipwright belongs. The Guild Master Minor Social Virtue (City & Guild, page 53) also grants access to Academic Abilities and represents the character’s freedom to practice his profession under his own name and employ journeymen in his team. Without at least the rank of master, the shipwright will fall afoul of the guild if he openly conducts his trade. While the business of the shipwright involves large sums of money passing through his hands, the shipwright is as likely to be rich or poor as any other profession, and the Wealthy virtue and Poor flaw can be taken to represent his financial situation. The core abilities the shipwright needs are: Latin, Artes Liberales, Profession: Shipwright, Leadership, Organization Lore: Shipwright Guild, and Bargain. This gives him the learning that he needs, his proficiency in designing and building ships, and the ability to manage his team, suppliers, and customers.''
 ''Hermetic Shipwright''
 ''Of the standard Virtues open to Hermetic magi, affinities and puissance with both Magic Theory and Finesse give extra weight to the shipwright’s ability to prepare ships for enchantment and to work Creo rituals and Rego craft magic. And a Major Magical Focus with ships benefits the magus with any effects enchanted into his magical vessels. The Mysteries, either Cult or House, provide useful additional Virtues. Spell Binding (The Mysteries Revised Edition, page 27), allows the magus to bind both a spell and a spirit into a container or vessel, the spirit extending and maintaining the spell indefinitely. Philosophic Alchemy (The Mysteries Revised Edition, page 41) allows the magus to extract vis directly into items and reduce the number of pawns needed to fully prepare the device for enchantment. And of course, magi of House Verditius use their Craft Abilities to reduce the pawns they must use to prepare devices for enchantment, which allows them to enchant potentially very large devices. Note that magi of House Verditius gain a bonus from their Craft Abilities, not Profession. A Verditius shipwright will need both Craft: Carpenter and Profession: Shipwright. The first represents his hands-on crafting of the enchanted vessels, allowing him to work his magic into the timbers, and the second represents the managing of the workforce necessary to build ships under his guidance.''
-
-|]
 ''rate constructions. Magi can do the same within their laboratory work, treating a ship with a rear castle as a compound device.''
 
 ==Centers of Shipbuilding==
@@ -65,15 +61,15 @@
 ''direct access to the water. Shipbuilding is a craft that is both resource and labor intensive, and so relies upon strong supply lines. Huge quantities of wood, iron, canvas, rope, and other materials are needed. In addition, the workforce needs to be housed, fed, entertained, and have their spiritual well-being tended to. This ensures that shipbuilding is located at, or is the catalyst for, large population centers. As this is a Hermetic shipyard, a Magical aura is advantageous. Magical auras are usually found away from the encroaching influence of man. They are usually sites of secluded natural beauty and primal forces, and often home to supernatural entities. Perhaps more importantly, another member of the Order is likely to have a claim over them. And even if the land can be secured, can the magus claim the whole area as his sanctum? After all, his laboratory will cover the whole shipyard in time, and Tribunals often take a dim view of magi stepping outside what might be considered normal. Regardless, the following spells may assist in preparing or improving a location.''
 ''A Season’s Inning''
 ''ReTe(Aq) 25 R: Touch, D: Momentary, T: Boundary, Ritual Some waterways, especially those near estuaries, are surrounded by marshland. However, there are techniques for building up and draining the land. This can take many seasons of work, with a large team of laborers working in very difficult conditions. The draining of marshland through the digging of drainage channels and the building of dykes is known as inning. This ritual allows the magus to drain an area 300 by 300 paces to the point that it is dry and stable, as though a season had been spent inning the land. The Aquam requisite is used to move the standing water outside the spell boundary, which makes the inning work easier than normal. This spell uses the rules for Rego Craft Magic (Covenants, page 49) and as such the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Vendetta==
 
 ''A rival Verditius declares vendetta against the Hermetic shipwright, and makes it known that the shipwright’s venditor will die before the setting of the next full moon. Is this an idle threat, or has the Verditius already set his plans in''
 ''motion? The magus must keep his friend alive against an unknown threat that is perhaps closer than he dares think. See Houses of Hermes: Mystery Cults, page 115, for more information on the the culture of vendetta within House Verditius.''
 
-|]
+|}
 ''magus must make a Perception + Finesse roll to determine the success and quality of his work. In this case, the Ease Factor is 15 (base 9 + 6 for a season’s work). Failure means that, while the drainage ditches may have been dug, they are either too shallow or too few to drain the land. If left, the land is likely to remain waterlogged and building on it is impossible. (Base 2, +1 Touch, +4 Boundary, +1 Size, +1 Aquam requisite) Required Lab Total: 1 season (50), 2 seasons (38), 3 seasons (34), 4 seasons (32)''
 ''Follow the Route I Command''
 ''ReTe 25 R: Touch, D: Momentary, T: Part This spell carves a new channel in the ground with both ends connected to an existing waterway. As the spell completes, the water flushes into this new section and the spoil from the work starts to fill the old channel. The magus must be touching the ground that he wants the new channel to pass through. The movement of a large amount of earth, while time-consuming, requires little skill. A Perception + Finesse roll against Ease Factor 12 is needed. Failure means that the channel is incomplete, or the old route is still flooded. If the Finesse roll botches, the work appears complete but the land is now liable to flooding, causing damage to crops and homes alike. (Base 3, +1 Touch, +1 Part, +3 size, +1 to affect stone) Required Lab Total: 1 season (50), 2 seasons (38), 3 seasons (34), 4 seasons (32)''
@@ -85,8 +81,6 @@
 
 ''Some magi or covenants may choose to build or enchant a ship, either without a shipyard or with a shipyard built some''
 ''way distant from a waterway. While this makes things more complicated, Hermetic magic can overcome most difficulties. There are many reasons for building ships away from rivers and the sea. For one, it allows the construction work to be carried out unseen by curious eyes, and for another, the magus is less restricted with regards to Magical auras. A secluded lake allows the Hermetic shipwright to test the boats he makes, and there are almost certainly streams and rivers that drain the lake that can be''
-
-[|
 
 ==Story Seeds for Finding a Shipyard Location==
 
@@ -102,22 +96,20 @@
 ''The magus re-routes the river in a mastery of magic over nature. But in the following weeks, the covenfolk report hearing the sounds of a ghostly weeping coming from beyond the river’s new course. What is it that weeps so mournfully, and why? As the sadness spreads across the land, can the magus be persuaded to mend a broken heart at the cost of changing his own plans?''
 ''The Heir, Apparently''
 ''As the spell to dredge the river completes its work, a body bubbles to the surface. It is the remains of a nobleman, unlawfully slain so that his inheritance passes to a treacherous usurper. Do the magi lay the now-awakened spirit to rest, help it find and confront its murderer, or simply send it on its way to do its own vengeful bidding?''
-
-|]
 ''used to move the vessels. But while such facilities are less obvious than those by the sea, they still draw at least mundane attention. It is possible to build a shipyard deep within a forest, which allows easy access to raw materials, while being easy to protect by redirecting unwanted visitors. Other magi may choose to site their shipyard high in the mountains, making construction difficult but almost guaranteeing secrecy. Shipyards that have no easy access to rivers or the sea, or even capable portage routes, need enchantments to launch their ships. A slipway, like the example device that follows, can be enchanted to transport the fully-formed ship and its crew from the site of its construction to any waterway to which the device has an arcane connection. Note that alternatives, such as using the common Hermes Portal ritual, cost 30 pawns of vis to establish a connection for just a year.''
 ''The Distant Slipway''
 ''This slipway, formed of two long wooden runners secured into the ground and spanned by sleepers angled to take and support a hull, is first prepared by soaking the wooden structure in water from a target distant waterway and processing it with a pawn of vis in order to fix the arcane connection. This takes a dedicated season, after which the device can be opened for enchantment. The large wooden structure provides a capacity of (2x5) 10 pawns. This is sufficient for the version represented here but other parts of the device, such iron fastenings or runners, provide additional capacity. The arcane connection is fixed into this device for simplicity, as it is designed to send ships to a single remote location, though this detail of the device can, of course, be changed.''
 ''Sight of the Distant Slipway In(Cr)Im 35 Pen: +0, 1/day R: Arcane Connection, D: Concentration, T: Special This effect collects sight and sound from the target arcane connection and projects these senses around the lower end of the slipway, making it appear that the slipway extends out into the remote location. Once activated, the illusion is maintained by the device until canceled. This effect is similar to the commonly known spell Summoning the Distant Image, with an additional Creo requisite to create the appropriate species around the device. This device effect is required to survey the site before launching the ship to the remote location. This helps to avoid the catastrophic accidents that could occur when blindly pushing several tons of ship into the remote sea. (Base 2, +4 Arcane Connection, +1 Concentration, +2 Special based on Room, +1 Creo requisite; +5 device maintains concentration) Required Lab Total: 1 season (70), 2 seasons (53), 3 seasons (47), 4 seasons (44)''
 ''Launch the Distant Vessel ReHe (AnAqCoTe) 55 Pen: +0, 1/day R:Touch, D:Momentary, T:Structure This effect transports the target vessel, launched down the slipway, to the distant waterway associated with the arcane connection bound into this device. Although the intent of the effect is to transport the ship, the effect design is based on the Rego Corpus guideline to transport an individual to a location identified through an Arcane Connection. This base effect is used by analogy to affect the target ship, represented by the Structure target. Any crew present on board are simply taken with the ship when it is transported thanks to the free requisites. This particular device effect does not have Penetration built in, though others might to allow''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Resting Place of Noah’s Ark==
 
 ''The resting place of the biblical Ark, built by Noah to God’s design, is almost certainly the site of an Empyreal aura (Realms of Power: The Divine, page 12). While this would normally hamper the use of magic, it may be within God’s choosing that the site''
 ''itself provides a bonus to ship-based magic, and far from suppressing magic, may support it instead. If the Ark itself can be found, then its cedar timbers may provide shape and material bonuses for shipbuilding far in excess of natural wood.''
 
-|]
+|}
 ''ships containing bound spirits or other resident supernatural entities to be transported. Vessels larger than a medium-sized cog will also need a different launch with an additional +1 magnitude to account for the ship’s size. (Base 35, +1 Touch, +3 Structure) Required Lab Total: 1 season (110), 2 seasons (83), 3 seasons (74), 4 seasons (69)''
 ''The Distant Drydock''
 ''A similar device can be enchanted and installed at the waterway to allow ships to be sent back to the remote shipyard. The effects are the same, providing a view of the distant slipway and transporting the vessel and its crew, though the arcane connections and triggering actions are different and the ship is deposited on the slipway rather than in the water.''
@@ -131,8 +123,8 @@
 ''Devices need to be enchanted within a Hermetic laboratory; there are specialist tools to be used, environments to be controlled, and magical forces to be channeled. But the average Hermetic laboratory is not designed to contain large-scale projects such as the building of ships. This project assumes that the ship’s keel and/or hull is the focus for the enchantment activity, and if the magus''
 ''is going to enchant the ship itself, the laboratory needs to contain the entire ship and is therefore best constructed as a boat yard. The Hermetic shipwright will need a laboratory modeled after a mundane shipyard. This means one or more central work sheds in which vessels can be constructed or repaired; several outer workshops for carpenters, blacksmiths, and other tradesmen; and storehouses. The site also needs to be on a significant waterway, either the coast or a major river to allow ships to be hauled to and from the main work sheds. At any one time, a dozen or more tradesmen will be within the laboratory itself,''
 ''given that it is in effect a large workshop, and provision needs to be made for this activity. A gallery allows the magus both to take an overview of the construction work and show clients his work. All of this makes the laboratory far larger than is normal for a Hermetic magus, susceptible to the elements, and inherently unsafe. A host of enchanted tools and features are needed to ensure the safety of the workforce and the laboratory itself. Further enchantments make the work of the shipwright and his crew easier and quicker. A magus who builds a Hermetic shipyard is likely to either maintain a separate sanctum or simply be realistic about the status''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Team Training Story Seed: Suspicious Minds==
 
@@ -144,7 +136,7 @@
 ''The construction of the shipyard itself presents opportunities to run stories. The buildings that will contain the magical power to be invested in the boats may require special components, such as wood from a magical tree. The shipyard itself may be plagued by faeries or demons during and after its founding who can perhaps see some ill or good that might come from the shipyard in the future.''
 ''Hermetic interest will also be piqued and a magus with the facilities to enchant large devices will draw customers from across his Tribunal and beyond. Covenants and mundanes alike who desire their own magical ships will come calling, or rival Hermetic shipwrights (such as those mentioned in Guardians of the Forests) may attempt to sabotage the shipyard and the magus’ business.''
 
-|]
+|}
 ''of his sprawling laboratory. This laboratory has the Missing Sanctum Marker flaw, as even if the magus was careful to display the sign somewhere in the yard, it can easily be missed. Note: Covenants, page 109, states that a Hermetic laboratory must occupy a single chamber. But in this case, the shipyard encompasses one or more central work sheds and a number of outbuildings. This is represented by the Exposed free structure flaw.''
 ''Establish the Basic Laboratory''
 ''A magus can establish a basic Hermetic laboratory by spending two dedicated seasons setting up the workspace. A standard laboratory has no intrinsic virtues or flaws, and characteristics of 0. The default size for a laboratory is a space of 500 square feet housed in a single chamber protected from the elements. But the physical size of the laboratory can be chosen freely when the laboratory is first constructed. The laboratory size chart (Covenants, page 110) shows that a laboratory of size +6 provides 2000 square feet of space, a good size for a shipyard. Building a laboratory in the form of a shipyard naturally grants a number of Virtues and Flaws, due to the exposed nature of the space, the proximity to water, and the large area it occupies.''
@@ -155,8 +147,8 @@
 ''good order. The activity has also removed the Empty flaws that the laboratory had upon its founding. The Greater Expansion also provides two points of specializations, which are used to give a +2 bonus to Ships, used for the enchantment of ships and sailing paraphernalia and the designing of spells concerned with ships and sailing.''
 ''Virtues and Flaws: Greater Expansion, Spacious; Exposed, Missing Sanctum Marker, Damp, Empty Characteristics: Size +6 (+4), Refinement 0, General Quality +2, Upkeep +6, Safety –3, Warping 0, Health –4, Aesthetics –2 Specializations: +2 Ships, +1 Aquam, +1 Auram''
 ''At this point, if not before, the purpose behind the construction will become clear. There is little that can be done to disguise a shipyard, and the local shipwrights’ guild will become very interested in anyone trying to operate as a shipwright outside of their authority. The Hermetic shipwright now finds that he needs to make an accommodation with the guild in order to operate. The guild presses for the magus to join, under oath, and submit to all rules and conditions set by the guild. Refusal sees the guild use all its power to prevent the magus doing business. The magus may''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==More on Laboratories==
 
@@ -167,7 +159,7 @@
 ''The Covenants supplement provides full rules on designing and modifying laboratories. In short, laboratories have a series of Characteristics, Virtues, and Flaws. The characteristics determine how large the laboratory is, how aesthetically pleasing it is, how much it costs''
 ''to maintain, and what impact it has on the health of the magus. The laboratory also provides a number of specialties: bonuses to certain Arts or activities. These are usually gained through taking Virtues. Virtues are paid for through spending time (one season for a Minor Virtue, two for a Major Virtue), money, and the acquisition of Flaws to balance the new virtue. The steps described as follows provide enough information for the magus to follow the project and build an Hermetic shipyard.''
 
-|]
+|}
 ''see a parallel with the Order’s own rarelyused “join or die” mantra, and there is an opportunity to run such events alongside each other during your saga.''
 ''Improving the Working Conditions''
 ''Being so close to water the laboratory is continually damp and decidedly unhealthy. The following item can help, and as the effect has more than 20 levels, it can be used to improve the laboratory’s Health characteristic by +1.''
@@ -198,15 +190,15 @@
 ==The Hermetic Shipwright==
 
 ''There are three options for constructing the ship prior to enchantment. The first and most straight-forward way of constructing a ship is to rely on mundane skill and labor. A skilled shipwright, leading a team of around 10 craftsmen and laborers, can finish a ship in two seasons. This is based on a shipwright with a score of 5 in the Profession: Shipwright ability. This decreases to a single season when the shipwright gains a score of 10 in the ability. See City & Guild, page 68, for further detail. The second option is to use Rego craft magic (Covenants, page 49) to process and assemble the parts of the ship. This approach requires a high Finesse ability, but can reduce the time taken to build a ship. Liberal use of craft magic, to process smaller components, can double the efficiency of the shipwright, effectively halving the time it takes to build a ship. The third option is to use Creo rituals to conjure the ship. This is clearly the fastest way of “building” a vessel, but again relies upon Finesse and the expenditure of vis.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Shipyard as Mundane Workshop==
 
 ''While the magus improves his laboratory to enhance its magical qualities, the craftsman improves the mundane aspects of his workshop to improve the quality of his craftsmanship. But a Hermetic shipwright is concerned not only about enchantment, but also about the quality of the vessels his shipyard produces. Ideally, the magus will want to improve both aspects of his shipyard. As the magus accounts for his time''
 ''differently to a mundane craftsman, in seasons of activity rather than Labor Points, it is most convenient to have a mundane shipwright work with the magus. This mundane shipwright can be treated as a specialist supported by the magus or his covenant. The mundane shipwright earns Labor Points as described in City & Guild, and the excess, beyond those required to sustain him, can be put to improving the workshop or shipyard in this case.''
 
-|]
+|}
 
 ==Hermetic Projects Mundane Craftsmen==
 
@@ -230,8 +222,8 @@
 ==Creo Rituals==
 
 ''Creo rituals have the benefit of being more reliable than Craft Magic but at the cost of expending vis on their casting. Artificial items created through Creo rituals require an Intelligence + Finesse roll to determine their quality, as outlined in ArM5, page 77. As with Rego craft magic, the Finesse rolls associated with Creo rituals can be aided through the use of ligatures and spell mastery.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Shipbuilding Story Seeds==
 
@@ -241,7 +233,7 @@
 ''The Unskilled Shipwright''
 ''After seasons spent experimenting with the creation of spells and rituals to repair and create ships, the magus is visited by a carpenter specializing in the construction of ships. It seems that the magus’ experiments have somehow robbed the carpenter of all his skill. Can the magus put the damage right, or is there an even stranger explanation for the carpenter’s condition?''
 
-|]
+|}
 ''Conjuration of the Seaworthy Cog''
 ''CrHe(Te) 45 R: Touch, D: Momentary, T: Structure, Ritual This ritual creates a fully-formed cog. The resulting ship is an exact copy of the cog used as a template during the design of this spell, even down to the knots in the hull and the adze marks on the keel. The only difference is that, assuming the magus makes the Intelligence + Finesse stress roll against an Ease Factor of 9, the conjured ship is in perfect condition, as though each part of its construction has only just been finished. Any flaws in the original template are rectified where they would have made the conjured ship weaker or less seaworthy. A Terram requisite is required to create the bolts, nails, and other fixtures. Given the nature of the spell, a different ritual is required for each different type of ship that the shipwright wishes to conjure. To achieve this, the Hermetic shipwright must create a new ritual using the existing laboratory text as a guide and apply the principles to a new design. Unless cast on a waterway, the ritual should be cast within a boat shed prepared to receive the conjured vessel so that it does not topple and damage itself or its surroundings. Making the preparations forms a significant part of the ritual. Botches in casting are likely to conjure the ship in a position the magus did not expect, which could cause significant damage to his laboratory or bystanders. (Base 3, +1 Touch, +3 Structure, +2 for treated and processed Herbam, +3 intricacy, +1 Terram requisite) Required Lab Total: 1 season (90), 2 seasons (68), 3 seasons (60), 4 seasons (57) If designed in the Hermetic Shipyard described earlier, the +10 bonus for ships applies to this laboratory total. Magi may want to experiment to raise their lab totals, in which case the type or size of ship created may be different, the quality of the ship may be worse than intended, or the completion of the ritual may destroy the template ship.''
 ''Reparation of the Wounded Vessel''
@@ -252,21 +244,21 @@
 ==The Mechanics of Enchantment==
 
 ''Shipwrights consider the various parts of the ship as being separate entities. The keel (where present) and the hull comprise one, the mast makes an''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Support for Mysteries==
 
 ''There are magical mysteries used across the Order that make the preparation for enchantment of large devices easier. The Verditius Magic virtue allows the magus to reduce the pawns of vis required to open the ship for enchantment by his Craft: Carpenter score (ArM5, page 97). The Verditius inner mystery of Elder Runes allows the shipwright to use a number of pawns of vis equal to his Magic Theory score multiplied by his Philosophiae score (Houses of Hermes: Mystery Cults, page 127). The Mystery''
 ''of Celestial Magic reduces the number of pawns that must be spent to open the device (The Mysteries Revised Edition, page 48). Philosophic Alchemy allows the magus to extract vis from an aura directly into a device. This can be used to part-prepare the device for enchantment. The example on page 41 of The Mysteries Revised Edition shows how this can be used to help the magus open devices ordinarily beyond his capabilities. Shipwrights intent on enchanting larger vessels should consider these options.''
 
-|]
+|}
 ''other, any upperworks (such as castles at the fore and aft) are separate, as are the sails, rigging, and finally the rudder or the steering oar. But for the magus, one of the most important questions is one of size: can the magus actually use enough vis in a single season to open the vessel for enchantment? Conventional ships are primarily constructed of wood. Looking at the Material and Size Tables on ArM5, page 97, we can see that wood requires a base 2 pawns of vis, but the table only describes items up to the size of a boat or wagon and gives them a size multiplier of x5. Most ships are an order of magnitude larger again, so we should expect a size multiplier of x6 for a moderate vessel and x7 or x8 for a large ship. The largest of all ships have a size multiplier of x9. The table that follows lists the number of pawns of vis that must be used to open various parts of the ship for enchantment.''
 ''Component Base Size Total   Pawns  Pawns''
 ''Hull (huge) 2 9 18 Hull (very large) 2 8 16 Hull (large) 2 7 14 Hull (moderate) 2 6 12 Hull (small) 2 5 10 Keel (alone) 2 5 10 Mast 2 4 8 Rigging 2 5 10 Sails 1 5 5 Rudder/Steering Oar 2 4 8 Castle 2 4 8 Anchor 5 4 20''
 ''As described in Ars Magica Fifth Edition, on page 97, there are two ways to prepare the vessel for enchantment. The first is to prepare only a part of the vessel, the steering oar for instance. As part of the ship, effects invested in the oar benefit from shape (but not material bonuses) inherent in the ship, but the magus does not have to prepare the en''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Comment on Hermetic Architecture==
 
@@ -279,7 +271,7 @@
 ''Shape/Material	 Bonus Agate +3 air  +5 protection from storms Anchor +3 prevent movement Aquamarine +3 water Ash +2 harm people Bellows +4 create wind Beryl +3 water Boat +3 sailing''
 ''Crystal +5 water related effect Cypress +3 necromancy  +3 spirits Fan +4 banish weather phenomena  +4 create or control winds Fir +3 darkness  +1 malicious faeries Garnet +2 navigation Lilac +2 travel Mast +2 protection from temptation Mercury +3 Aquam Oak +7 protection from storms Oar +4 affect currents Opal +4 travel Pine +3 light  +1 friendly faeries Rope +4 restraint or binding Sea Shell +2 the sea  +3 sea creatures Ship +5 sailing Ship’s Sail +4 affect winds  +7 sailing Wood (dead) +4 affect dead wood  +3 affect living wood''
 
-|]
+|}
 ''tire ship. Alternatively, the ship can be treated as a compound item, in which case the ship can be prepared for enchantment for a number of pawns equal to the highest-cost part, or the sum of all included components. This means that a small buss with a single mast and a steering oar can be prepared for enchantment with either 10 or 26 (10 pawns for the hull, 8 for the mast, and 8 for the steering oar) pawns of vis. A magus can use twice his Magic Theory score in pawns of vis per season. So in order to prepare the buss for enchantment as a single item with 26 pawns of vis, the magus needs an effective Magic Theory score of 13.''
 ''Enchanted Items that Act Upon the Ship''
 ''Enchantments do not necessarily need to be invested into the ship itself. By increasing the range of enchantments to Touch and adding one magnitude to the effect’s cost, smaller devices can be installed within the ship to much the same effect. This may limit the interactions between effects, and it increases the risk that any one device might be lost or broken, but it does allow less-skilled magi to create helpful devices for use on board ships. There are drawbacks to this approach. If lesser enchanted devices are used, the level of their effects is likely to be lower that those enchanted into a ship prepared for enchantment, due to the need to enchant the device within a single season. On the other hand, individual invested devices must be opened for enchantment in their first season, which potentially adds many seasons to the overall project. While this approach is certainly viable, especially for younger shipwrights as they grow in experience, this chapter assumes the attention of a skilled or knowledgeable magus capable of opening the ship’s hull for enchantment.''
@@ -304,8 +296,8 @@
 ''transformation. The Hermes itself maintains concentration on the transformation and the effect is ended either by command or by the vessel taking on another shape. The transformation is likely to be unnerving to first-timers, but the center of the top deck near to the mast is quite safe. Those at the side of the ship must take their chances. A distinct effect using the same level is required for each shape that the vessel can take, which means the same laboratory text cannot be used for subsequent shapes. (Base 5, +1 Concentration, +3 Structure, +1 Muto requisite, +1 intricacy; +3 for 6 uses per day, +5 device maintains concentration) Required Lab Total: 1 season (86), 2 seasons (65), 3 seasons (58), 4 seasons (54) The laboratory bonus of +10 for ships applies to this effect, as does the +4 bonus to affect dead wood. While the aim of the effect may be to make the ship easier to sail in certain circumstances, the +5 bonus to sailing does not apply. Magi who experiment in creating this effect may see the effect warped, for instance through the new shape being obviously mystical (perhaps expressing magical symbols in its hull) or they may find the ship’s new shape capable of traveling further and faster than anticipated.''
 ''Magical Ballast''
 ''ReHe 24 Pen: +0, Constant Effect''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Using Ptolemaic Coordinates==
 
@@ -320,7 +312,7 @@
 ''The Dogged Adversary''
 ''Jealous at The Hermes’ ease of handling, a rival merchant plants a spy aboard the vessel to see how the crew load the ship and how they control her when under sail. But the spy sees more than he bargained for, and the magical nature of the vessel is in danger of being exposed.''
 
-|]
+|}
 ''R: Personal, D: Sun, T: Structure Weight and its distribution through the ship is vital to its handling. This effect ensures that The Hermes always comes to rest true and level in the water. The Hermes is treated as carrying a constant load, evenly distributed across the ship, no matter what cargo it is loaded with. This ensures that the crew can handle the ship as easily fully loaded as they can with an empty hold. Exceeding the ship’s tonnage causes the effect to fail and the ship’s handling to degrade, though it reasserts itself when the load has been reduced. (Base 3, +2 Sun, +3 Structure; +1 2/ day, +3 triggered at sunrise/set) Required Lab Total: 1 season (48), 2 seasons (36), 3 seasons (32), 4 seasons (30) The +10 bonus for ships and the +1 bonus for Rego from the laboratory both apply. The +5 shape bonus to sailing also applies as does +1 for prior Rego and/or Herbam effects. If the magus experiments while instilling this effect, it could fail when the ship sails under certain conditions, when cargo is loaded into certain areas, or could increase or decrease the ship’s base tonnage.''
 
 ==Aids to Navigation==
@@ -332,15 +324,15 @@
 ''Follow the Coast''
 ''InTe 30 Pen: +0, Unlimited Use R: Personal, D: Concentration, T: Vision Activated by a crewman with clear sight of the coast, The Hermes can be commanded to follow the indicated coastline at a given distance. The coast must be sighted initially for targeting purposes,''
 ''but does not thereafter need to be kept in sight by the crewman, as the enchantment grants this limited sensory ability to the vessel itself. The effect ends either by command by any of the crew or when the ship sails out of sight of the targeted coastline. The effect works by determining the direction and distance to the coast throughout the effect’s duration, which The Hermes itself maintains. As a navigational effect, it provides no bonuses or benefit to the crew unless used together with the Tillerman enchantment. (Base 2, +1 Concentration, +4 Vision; +10 unlimited use, +5 maintain concentration) Required Lab Total: 1 season (60), 2 seasons (45), 3 seasons (40), 4 seasons (38) Enchanted in the Hermetic Shipyard, this effect benefits from the usual +10 for ships, and the effect is so closely linked to sailing that the shape bonus of +5 to sailing also applies here. In addition, there are prior effects that include Intellego and/ or Terram effects, so the laboratory total gains an additional +2 bonus. Potential side effects from experimentation might see the effect misjudging the distance to the coast or recognizing only certain types of coastline, such as beaches, harbors, or cliffs.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Interaction Between Navigational Effects==
 
 ''It is possible for more than one navigational effect to be active at any one time. Where The Hermes has been commanded both to sail for Constantinople and to follow the coast,  these effects are designed to work in harmony to ensure that the ship sails the coastal route to the city. Where there is a clear conflict, the most recent command takes precedence. Any subsequent use of an effect replaces any currently running instance of that effect, so a command to sail for Sicily replaces the command to reach''
 ''Constantinople, but the instruction to follow the coast remains in effect. The ship’s crew are not left powerless by such effects. Most of the navigational enchantments on The Hermes control the larger-scale movements of the ship, but it is the crew who ultimately control her. Left to its own devices, The Hermes may, unless protected, run aground in following the line of the coast. But the crew can steer her through treacherous waters while still benefiting from the ship’s enchantments.''
 
-|]
+|}
 
 ==Hermetic Projects Into the Wind==
 
@@ -398,13 +390,15 @@
 ==Sailing the Void==
 
 ''There are places beyond the mortal world, entire realms unseen and untouched by mortal hand. As described in Realms of Power: Magic, page 26, Hermetic magic has not yet tamed the Magic Realm. But a minor breakthrough (see Houses of Hermes: True Lineages, page 26) makes a series of new effect''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Home of the Winds==
 
 ''A magus in possession of a flying ship invites others to undertake a most marvelous journey with him. He claims to have discovered the home of the Four Winds, powerful spirits of Auram. He needs a crew of magi to help''
 ''him navigate and sail his ship beyond the clouds. On the way, the ship passes through strange unexpected regiones, containing a kingdom ruled by birds and a court of airy spirits planning war against the clouds.''
+
+|}
 
 ==The Art of Binding==
 
@@ -414,8 +408,6 @@
 ''in Hermetic magic that his Gift won’t bend to accommodate the required learning. There are other ways, however. He hunts down a practitioner of the Goetic Arts and demands that he teach an apprentice that he will then take as his own student, not to learn Hermetic magic, but the art of shipbuilding. How long before the Order discovers this arrangement? Will the apprentice even have the capacity for loyalty once the sorcerer has finished with him? And will the temptation of the Goetic prove too much for the shipwright?''
 ''Story Seed: Reunited Lovers''
 ''There are tales of two ghosts, the ghosts of lovers who met their ends in a most violent way. They are now cursed never to see each other again, as one only walks the mortal world during the day, while the other only walks abroad at night. It seems that these lovers return to the Magic Realm when their time on Earth is done. If these ghosts could be summoned, captured, or coerced, they could be bound to the ship and their powers controlled. But where can they be found? And under whose curse do they remain?''
-
-|]
 ''guidelines available. While it may be unlikely that the Hermetic shipwright himself has both mastered the enchanting of ships and made a breakthrough concerning the Magic Realm, two magi may bring these achievements together by working with each other. Either the scholarly magus must teach the shipwright how to affect the Magic Realm, or he must lead the enchantment of the ship, using the shipwright’s facilities and his expertise in enchanting large devices. If a ship could be taken into the Magic Realm, it may need enchantments to enable it to swiftly sail the Twilight Void, that place between places, and further effects to breach the boundaries that separate magical insulae that float within the void.''
 ''Travel to the Magic Realm''
 ''If the aim is to take a ship into the Magic Realm, there is another way. Some creatures aligned with the Magic realm have the ability to step directly from the mortal world into the magical, and many are able to take others with them. If such a beast could be found, and bargained with or coerced, then the ship and its crew could enter the Magic Realm. It is unlikely that the Hermetic Shipwright would have the skills necessary to find and coerce such a beast, but a magus dedicated to finding and keeping magical creatures could be engaged to do this for him.''
@@ -438,8 +430,8 @@
 ''The following effects provide alternatives that allow a magus to conjure a ship out of unusual materials, for use in exceptional circumstances.''
 ''The Houseboat''
 ''Mu(Re)Te(He) 44 Pen: +0, Constant Effect R:Touch, D:Sun, T: Structure''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The White Whale==
 
@@ -451,7 +443,7 @@
 ''Some magi have become so obsessed with death that they immerse themselves in its trappings. As the Hermetic shipwright is not limited in the materials he can use to build ships, a death-obsessed magi, such as the magus who follows the path to lichdom, approaches him to build a vessel to his design. The ship is to be constructed out of''
 ''bones and the sails stitched from skins. The magus also wants a ghostly crew bound to the ship to serve as its captain commands. Does the shipwright take the commission? Where does he get the supply of bone for the ship’s hull? What effects does he need to create to make the ship seaworthy? And how does he hide the construction from the mundane world?''
 
-|]
+|}
 ''When hammered into the floor of a freestanding structure, this large iron nail reforms the building into a boat of approximately the same size as the structure, changing the nature of the materials such that stone becomes buoyant. The Rego requisite reshapes the building into a seaworthy vessel. The specifics of the design can be amended with each casting, but the origins of the boat are clear, with the roof turned into a hull, or a chimney stack turned into a mast. The caster must make a Perception + Finesse roll against an Ease Factor of 9 to produce a seaworthy vessel and the effect is canceled by removing the nail, at which point the structure returns to its natural state, wherever it is. (Base 4, +1 Touch, +2 Sun, +3 Structure, +1 Herbam requisite, +1 stone; +1 for 2/day, +3 triggered at sunrise/set) Required Lab Total: 1 season (88), 2 seasons (66), 3 seasons (59), 4 seasons (55) If designed in the Hermetic Shipyard, this spell benefits from a +1 bonus to the laboratory total for the use of Rego, and a further +10 as the spell directly concerns ships.''
 ''The Sandship''
 ''Mu(Re)Te 49 Pen: +0, Constant Effect R:Touch, D:Sun, T: Part This staff, when struck into the sands of a shoreline, draws up the sand, shapes it, and transforms it into a ship of magical enchanted sand, the mast forming around the staff. The effect draws the sand together, forming a channel from the beach to the sea that this vessel can float down. The ship’s hull, deck, mast, and all other parts of it are made from sand, including the rigging and the sails. The ship maintains the appearance of wet sand throughout, but it is never truly waterlogged. The Art of Muto makes the sand light enough that it can float, ensures that it is non-porous so that water doesn’t seep through the hull, and''
@@ -464,5 +456,6 @@
 ''ship along its journey, for instance) can be complete in days (see Ancient Magic, page 133). Sorcerers with knowledge of the goetic Art of Binding have the power to bind spirits into devices, ships in this case (see Realms of Power: The Infernal, page 117). While Binding is an Infernal power, spirits of any realm may be bound by the sorcerer. While bound, the spirit can use''
 ''any of its powers; where those powers affect the spirit itself, even those that allow it to enter and traverse the Magic Realm, those powers also affect the ship. The Goetic Binding power does something that current Hermetic magic cannot, and a Hermetic shipwright may either use this as the basis for original research to expand his own power, or simply call upon the services of a sorcerer to bind ap''
 ''propriate spirits to his vessels. But these powers are Infernal, and magi should be wary, lest they fall to temptation or give their enemies a means to tarnish their reputations. It is unclear how these exotic magics might interact with Hermetic enchantments, and attempts to do so would certainly mean experimenting within the laboratory.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -14,8 +14,6 @@
 ''Looking Glass of Intellego Vis InIm Level 14 Pen 0, constant effect R: Touch, D: Sun, T: Room This Intellego vis is in the form of a small piece of glass. If the glass is held against a wall, the character can see through as if the glass were a window into the room. The glass does not provide illumination or allow the character to see things obscured by any objects in the room. (Effect: Base 1, +1 Touch, +2 Sun, +2 Room; Modifications +1 2 uses per day, +3 environmental trigger)''
 ''Icicle of Perdo Vis PeIg Level 25 Pen +12, constant effect R: Touch, D: Sun, T: Ind This icicle of Perdo vis never melts. Anyone who touches it loses a Fatigue level. If multiple pawns of the vis are stored in the same area, they chill a room to the point of being uncomfortably cold. If a rook or more is stored in the same room, anyone who enters loses a Fatigue level for each Diameter in the room unless protected by heavy winter clothing. (Effect: Base 4, +1 Touch, +2 Sun; Modifications +1 2 uses per day, +3 environmental trigger, +6 Penetration)''
 ''Dust Devil of Auram Vis CrAu Level 9 Pen 0, constant effect R: Touch, D: Sun, T: Ind This small whirlwind of Auram vis provides a constant breeze of fresh air that keeps the air breathable even in an airtight room. The Auram vis may only be transported with magic or in a hermetically sealed container.''
-
-[|
 ''Story Seeds for Lesser Enchantment Vis''
 
 ===Guilty Secrets===
@@ -46,8 +44,6 @@
 ===The Warped Wizard===
 
 ''A magus with a high Parma Magica discovers several pawns of extraordinary Brimstone of Vim vis and trades it to a junior magus with a weaker Parma Magica. The magus falls into Wizard’s Twilight. When he returns, he brings charges against the senior magus at the next Tribunal.''
-
-|]
 ''(Effect: Base 1, +1 Touch, +2 Sun, +1 unnatural; Modifications +1 2 uses per day, +3 environmental trigger)''
 ''Mistletoe Sprig of Herbam Vis InHe Level 14 Pen 0, constant effect R: Touch, D: Sun, T: Group The mistletoe grows on the oldest tree in the forest. If harvested properly it contains Herbam vis. Anyone carrying the sprig of mistletoe gains an intuitive understanding of the forest in which the mistletoe grew. This grants a +3 to all nature-related rolls when the character is in the forest. (Effect: Base 1, + 1 Touch, +2 Sun, +2 Group; Modifications +1 2 uses per day, +3 environmental trigger)''
 ''Ball of Light Ignem Vis CrIg Level 14 Pen 0, constant effect R: Personal, D: Sun, T: Ind This pawn of Ignem vis is in the form of a ball of light. It glows brightly and provides illumination equivalent to a cloudy day for an area about ten paces across centered on the vis. The area around the vis is illuminated unless the vis is enclosed in an opaque container. (Effect: Base 4, +2 Sun; Modifications +1 2 uses per day, +3 environmental trigger)''
@@ -61,8 +57,8 @@
 ''Ash Branch of Muto Vis MuCo Combined Level 35 R: Touch, D: Sun, T: Ind This Muto vis is contained in a branch from an ash tree. The ash tree is known as the Tree of Odin and some believe that it grants success in battle. If the bearer of this Muto vis makes an Attack roll in battle, he gains the Virtues Reserves of Strength and Toughness for Sun Duration. (Base 2, +1 Touch, +2 Sun (5) and Gift of Bear’s Fortitude, +1 Touch (30))''
 ''Rosemary Sprig of Rego Vis ReHe Level 55 R: Touch, D: Moon, T: Str, Ritual This Rego vis takes the form of a sprig of rosemary. If the vis is hung above the main entrance of a home, it protects all within the dwelling from faerie creatures of the wood with Might 15 or less. Hanging the rosemary above a door completely depletes the vis. The effect has a Penetration total of 15. (Base effect 15, +2 Moon, +3 Structure)''
 ''Egg of Animal Vis CrAn Level 30 R: Touch, D: Mom, T: Group, Ritual This Animal vis takes the form of a leathery snake egg. If the egg is warmed to the temperature equivalent to a warm spring day''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seeds for Spell-like Vis''
 
 ===Enigmatic Apples===
@@ -81,7 +77,7 @@
 
 ''An Animal magus collects several pawns of spell-like Egg of Animal vis, but never investigates their special properties. On a particularly warm day, the magus’s lab becomes filled with the venomous snakes. If any of the snakes escape, the covenant may be overrun by them the following spring.''
 
-|]
+|}
 ''for one hour, fully-grown poisonous snakes emerge from the egg. A simple die + 14 determines the number of snakes that emerge. (Base 10, +1 Touch, +2 Group, +1 Size)''
 ''Drop of Spring Water of Aquam Vis CrAq Level 20 R: Touch, D: Mom, T: Ind, Ritual This Aquam vis takes the form of a drop of water from a magical spring. If the vis ever comes into contact with the bare earth, a fast-flowing spring forms on the spot. The spring does not form if it touches the floor of a structure, but a spring is created upon any patch of ground, even if it is solid rock. (Base 5, +1 Touch)''
 ''Yarrow of Corpus Vis CrCo Level 40 R: Touch, D: Mom T: Ind, Ritual This Corpus vis takes the form of yarrow, which is also known as soldier’s wort. When the leaves of the plant are crushed and applied to a character’s wounds, they heal completely. The plant only heals physical injuries and has no effect on Wound levels''
@@ -99,8 +95,8 @@
 ===Study===
 
 ''A magus who studies dedicated vis may gain experience in each of the appropriate''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seeds for Spell-like Vis (con’t)''
 
 ===The Deadly Drought===
@@ -120,7 +116,7 @@
 
 ''A greedy merchant attempts to cheat a minor faerie. The faerie leaves several coins out, including one of spell-like Silver Coin of Terram vis, and tells the merchant to take the one he’s owed. But instead of taking the single coin himself, the merchant sends the covenant’s Redcap to collect all of the coins as payment of his debt to the magi. The characters are expecting an important visit from the now-immobile Redcap and are forced to locate and free her. Should they track the coin to the faerie, he assists the characters in removing the curse, but only on the condition that they punish the merchant.''
 
-|]
+|}
 ''Arts for the dedicated vis. Each pawn of dedicated vis is treated as 2 pawns for determining the minimum number needed for the magus’s Art total. To determine the Source Quality for the vis, the player first makes a stress die roll and adds the applicable aura bonus, and then the total is divided by 2; this number is the Source Quality for the Technique and Form of the dedicated vis. If the stress die double botches, the magus enters Wizard’s Twilight. The number of botch dice equals double the number of pawns of dedicated vis studied. A magus may study from dedicated and normal vis simultaneously. The magus must possess at least 1 pawn of dedicated vis for each pawn of normal vis used. The Source Quality is determined as normal and the total is divided by 2. In effect, the magus may study two Arts at once, but does so with only half the effectiveness of studying each Art separately.''
 
 ===Enchantment Creation===
@@ -180,8 +176,8 @@
 ===Cinquefoil===
 
 ''This pretty yellow flower with five petals as a Cinquefoil of Virtue contains 1 pawn of Mentem vis. It can be successfully Enriched by pressing it between two fine sheets of mica, then burying it in a tin box for a season. Then, whoever places it beneath his tongue will gain an abundance of eloquence, and the Inspirational Virtue.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Hedge Magicians and Enriched Things of Virtue''
 ''The mechanics of Enriching a Thing of Virtue allow an unGifted character to acquire minor magical powers. Such characters might actively seek out specific Herbs or Objects to perform their magic. They will never pose a threat to a Hermetic magus, however, and are largely ignored by the Order of Hermes. The archetypal village wise woman might gather Periwinkle of Virtue (which grants the Venus’s Blessing virtue) as a love charm, or employ Vervain of Virtue (Enduring Constitution)''
 ''and Heart’s Ease of Virtue (granting Lesser Purifying Touch: Childbirth Fever) to assist childbirth. Likewise, a natural magician could Enrich a Topaz of Virtue to grant the Inspirational Virtue to his lord, or a Sapphire of Virtue (giving Intuition) to give a semblance of prediction to his astrological calculations. The Warping points incurred by these effects will gradually disfigure the wise woman or drive the natural magician mad with Flaws.''
@@ -189,7 +185,7 @@
 ''A magus cannot usually benefit from an Enriched Thing of Virtue: even without his Parma Magica, his Forms give him a Magic Resistance of at least zero. Further, few magi have sufficient knowledge of non-Hermetic magic (that is, the Magic Lore Ability) to be able to effect an Enrichment. Nevertheless, some magi have found a use for Enriched Things of Virtue. A magus can include the item in an enchanted item in the usual manner; thus, an Enriched Topaz of Virtue (see below) included in an invested item grants the wielder the Puissant Leadership Virtue as well as any Hermetic enchantments, as''
 ''long as the wielder has no Magic Resistance. Enriching a Thing of Virtue does not affect its Shape and Material bonuses, but the inherent vis of the Thing of Virtue cannot contribute to the enchantment since it was used in the Enrichment process. An invested item made from an Enriched Thing of Virtue can only be made into a talisman if the magus Enriched the item himself. As a talisman, the Thing of Virtue ignores its owner’s Magic Resistance, and is the only way that a magus can acquire the granted Virtue. A Thing of Virtue made into a talisman does not Warp its creator.''
 
-|]
+|}
 
 ===Fennel===
 
@@ -209,13 +205,13 @@
 ''The intense blue of the Periwinkle of Virtue grants Venus’s Blessing. The hopeful in love must find enough perfect flowers among those that have been trampled by rutting deer to form a garland, which is strung around the neck of the dominant stag. After ninety days, the sole remaining flower of this garland has been Enriched. The recovered garland also grants the impetuousness of youthful love that shows no inhibition in pursuing its object of affection (that is, the Reckless Flaw). Left unenriched, Periwinkle of Virtue is worth 1 pawn of Mentem vis.''
 ''Objects of Virtue''
 ''The Virtues for many Objects of Virtue can be derived using Shape and Material Bonuses for inspiration, concentrating on materials rather than shapes. Any item that naturally contains vis and that gives a Shape and Material bonus to a specific Art can be Enriched to confer Puissant Art, but Objects of Virtue are rarely of use to magi because of their zero Penetration and the Warping they cause.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Shape and Material Bonuses for Herbs of Virtue''
 ''Centaury: +3 Flight Cinquefoil: +3 Leadership, +1 Rego Mentem Fennel: +5 repel ghosts, +5 repel evil spirits,	+2 dreams''
 ''Mistletoe: +7 divination Pennyroyal: +3 healing Periwinkle: +3 love, +1 loyalty or affection''
 
-|]
+|}
 
 ===Amethyst===
 
@@ -289,13 +285,13 @@
 ''Certain spells or magical effects can take a tree beyond its ordinary awakened state and make it as mobile as an animal (albeit a sluggish one). Hermetic spells such as Lord of the Trees or Calling the Council of the Trees can have this effect, as can the non-Hermetic powers of many nature spirits (most often through the Crafter of Herbam power; see Chapter 4: Magic Characters, Common Powers). A tree can also become animate when a spirit uses the Manifestation power (Chapter 8: Spirits, Common Powers of Spirits) to inhabit it. A tree animated by a spell or effect does not have a Might score, but one animated by Manifestation temporarily gains Might equal to the activation cost of the power.''
 ''Trees of Virtue''
 ''Trees of Virtue are usually awake, but they have no Might score. They are more likely to be attended by Airy Spirits (see Chapter 7: Spirits, Florae and Faunae) than are other trees.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Shape and Material Bonuses for Objects of Virtue''
 ''Clach Crubain: +2 arthritis Bufonites: +3 detect poison Ovum Anguinum: +2 versus infection and poison, +2 legal arguments, +2 resist injury''
 ''Thunderbolt: +3 lightning, +2 Auram, +4 protection from demons Cornu Ammonis: +3 affect visions, dreams Glossopetrae: +5 resist snake venom Fairy Loaves: +4 keep milk fresh''
 
-|]
+|}
 ''The vis in a Tree of Virtue belongs to an Art associated with the tree’s inherent magical powers, in a quantity usually between 1 and 3 pawns. Like herbs, Trees of Virtue may be Enriched to make magical charms or devices that grant Virtues. Unlike herbs, only a small portion of the tree is necessary to make this charm: the portion where all of the tree’s inherent power resides. Enriching this item, or collecting the tree’s vis, depletes the tree’s magical powers. Sometimes a Tree of Virtue can replenish these lost properties over time, but otherwise it becomes permanently non-magical. (Storyguides should decide whether a given Tree of Virtue is renewable or not based on the needs of the saga.) Distinct from Trees of Virtue are trees that produce vis, but do not manifest their magical properties strongly enough to be eligible for Enrichment. Such trees may provide vis of the same Art as Trees of Virtue of the same species, or may simply yield Herbam vis. Vis-bearing trees usually (but do not always) replenish their vis after it has been harvested, making them a common vis source for covenants.''
 
 ===Blackthorn===
@@ -309,8 +305,8 @@
 ===Oak===
 
 ''Oak is associated with storms and lightning. Wood from the heart of an Oak of Virtue may be fashioned into an item that grants a Lesser Immunity to lightning, after it is properly Enriched. The Enrichment process involves seasoning the wood while exposing it to incense and the smoke of burning herbs over the course of a season. At least once during this process the wood must be brought under the open sky while lightning is flashing. The finished, Enriched item may be carved into any shape or size (limited only by the size of the original tree). If it is a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Character Guide: An Animated Tree''
 ''Magic Might: None, or activation cost of Manifestation (Herbam) Characteristics: Cun –3, Per –2, Pre –3, Com –3, Str +8, Sta +5, Dex –1, Qik –5 Size: +5 Season: Spring Virtues and Flaws: Clumsy Magic Qualities and Inferiorities: No Fatigue Personality Traits: Tree +3 Combat: Branch: Init +5, Attack +7, Defense +1, Damage +10 Soak: +15 Wound Penalties: –1 (1–10), –3 (11–20), –5 (21–30), Incapacitated (31-40), Dead (41+) Abilities: Brawl 3 (branch) Natural Weapons: The weapon statistics for this tree’s branch are Init +10, Atk''
 ''+4, Dfn +2, Dam +2. This makes its combat statistics work out exactly as listed in the spell Lord of the Trees (ArM5, page 139), when combined with its Brawl skill of 3. Vis: None''
@@ -320,7 +316,7 @@
 ''Option: Brawl Skill for Animated Trees''
 ''For simplicity, troupes can simply assign a default Brawl skill of 3 (specialized in “branch”) to all animate trees. A more complex alternative is to assign a different Brawl skill to each tree and re-calculate its combat statistics accordingly. Under this rule, a tree animated by a spell has a Brawl skill equal to the caster’s Finesse. A tree animated by a spirit using Manifestation has the same Brawl skill as the spirit, and uses the spirit’s Dexterity and mental Characteristics (but the tree’s Strength, Stamina, and Quickness).''
 
-|]
+|}
 ''portable item, it grants the Lesser Immunity to its possessor. If it is built into a wooden ship or structure, then it grants Immunity to the whole edifice. Before Enrichment, the heartwood of an Oak of Virtue contains 2 pawns of Auram vis.''
 
 ===Rowan===
@@ -332,47 +328,45 @@
 ===Amiculum, Magical Cloak===
 
 ''Magic Might: 5 (Vim) Characteristics: Int –2, Per +1, Pre +3, Com –3, Str –2, Sta +3, Dex +2, Qik +1 Size: –1 Season: Spring Virtues and Flaws: Magic Thing; Magical Friend; True Friend Magic Qualities and Inferiorities: Lesser''
-
-[|
 ''Character Guide: A Mandrake Root of Virtue''
 ''Magic Might: 5 Characteristics:: Cun +1, Per 0, Pre –3, Com 0, Str –10, Sta +3, Dex 0, Qik +6 Size: –6 Season: Spring Virtues and Flaws: Magic Thing; Arcane Lore; Restricted Power, Weak Characteristics Magic Qualities and Inferiorities: Greater Power, Improved Powers (x2) Personality Traits: Mandrake* +3, Spiteful +1 Combat: Dodge: Init +6, Attack N/A, Defense +9, Damage N/A Soak: +2 Fatigue Levels: n/a Wound Penalties: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5+) Abilities: Brawl 2 (dodging), Penetration 4 (scream) Powers: Deadly Scream, 0 points, Init +6, Corpus or Animal  R: Per, D: Mom, T: Sound  The mandrake root’s scream is deadly to all who hear it (deafness is an effective defense). It can only use this power at the moment it is pulled out of the soil.  PeCo(An) 50 (Base 30, +3 Sound, +1 Animal Requisite): Greater Power (50 levels), Improved Powers x2 (+1 Initiative, –5 Might cost) Vis: 5 Corpus; this is spell-like vis that cures a Medium or lesser wound due to poison or disease (but not injury). Appearance: The above-ground part of a mandrake plant looks like a cluster of oblong, tapered leaves growing close to the earth. It somewhat resembles a tobacco plant, though tobacco does not exist in Mythic Europe. The root is about six inches long, fleshy, and has five lobes. It vaguely resembles a human figure with head, arms, and legs. Wrinkles and lumps on the uppermost lobe suggest a human face.''
 ''Mandrake of Virtue can be found beneath hangman’s trees (provided the tree is within a Magic aura or, at least, outside the Dominion). When a man is hanged, his semen is released and spills onto the earth.''
 ''Mandrake of Virtue sometimes springs from this seed. Mandrake root can be Enriched by a hedge wizard into a Thing of Virtue. This involves burying it under a mound of horse manure for a season, digging it up frequently to feed the root with blood, milk, and honey. After this process, the root becomes semi-animate, able to creep slowly about (one foot per minute). Its twitching and writhing can be interpreted to foretell the future, as well. Treat this as the Premonitions Virtue (the Enriched root grants the Ability Premonitions 3). The Enriched mandrake root must be fed blood in order to use this power (a Necessary Condition), but the blood need not be human. Mandrake has many other uses. It can be used to make a potent aphrodisiac and is a cure for many physical ailments. Some hedge wizards know the secret of converting a mandrake root into a kind of homunculus, which they use as Hermetic magi use familiars. This knowledge is obscure, but not totally unknown within the Order. It may require a story to find the correct magical process, or, if the storyguide prefers, she can allow a magus to simply bond the mandrake root as if it were an animal. At the end of the bonding process, the mandrake root looks like a little man about six inches high. Some wizards even provide their mandrakes with tiny clothes. Mandrake root screams when pulled from the ground; its scream is deadly to all who hear it. Hedge wizards usually employ a trick whereby they tie a hungry dog to the mandrake root. When the dog goes to sleep they bring some meat to just outside the reach of the rope and then hastily withdraw. When the dog awakens and lunges for the meat, the mandrake is uprooted. More enlightened magicians, including most Hermetic magi, simply use deaf servants to harvest mandrake root. Magi, of course, can use spells to render a person temporarily deaf. A mandrake root that is Enriched (but not one that is bonded as a homunculus) does not serve willingly and will try to cause mischief when it can.''
-
-|]
 ''Power: Cloak of the Duck’s Feathers, Lesser Power: Whiten the Wear of Travel, Lesser Power: The Woolen Cloud, Minor Virtue (x2): Tough, Wilderness Sense Personality Traits: Cloak* +3, Loyal +3, Protective +3, Fastidious +2 Combat: Dodge: Init +1, Attack n/a, Defense +1, Damage n/a Cloak (nonlethal): Init +1, Attack +2, Defense +2, Damage –3 Soak: +6 Wound Penalties: –1 (1–4), –3 (5–8), –5 (9–12), Incapacitated (13+) Fatigue Levels: n/a Abilities: Awareness 1 (bodyguarding), Concentration 2 (maintaining powers), Folk Ken 1 (cleanliness), Latin 4 (magi), Legerdemain 1 (magic tricks), Order of Hermes Lore 1 (highborn women), Penetration 1 (Corpus), Survival 2 (at camp), Wilderness Sense 2 (weather) Powers: Cloak of the Duck’s Feathers, 0 points, constant, Aquam: See ArM5, page 124. Whiten the Wear of Travel, 0 points, Init –1, Animal and Terram  R: Per, D: Mom, T: Ind  When activated, all dirt and travel stains are removed from the cloak, and any small rips and tears (anything smaller than a Light Wound) are instantly mended.  Cr(Pe)An(Te) 20 (base 15, +1 requisite): Lesser Power (20 levels, –1 Might cost), mastery point from Cloak of the Duck’s Feathers (–1 Might cost) The Woolen Cloud, 0 points, Init –1, Animal and Corpus  R: Per, D: Conc, T: Ind  For the duration, Amiculum can float upon the air and move slowly in any direction. While floating, it can support the weight of up to two human beings.  ReAn(Co) 20 (base 5, +1 Conc, +1 size, +1 requisite): Lesser Power (20 levels, –1 Might cost), mastery point from Cloak of the Duck’s Feathers (–1 Might cost) Vis: 1 Animal Appearance: Amiculum is a white woolen cloak with two sides; an intricate circle of red, green, and black is woven on the inside, which is large enough to surround a man who stands upon it.''
 ''Amiculum was enchanted as a talisman for its master, a Hermetic magus known for his interest in chivalry and courtly love. When he went into Twilight, his talisman went with him and returned from the experience as an independent magical being. Because of this''
 ''connection, it can affect its master with its powers as itself and does not need to penetrate his Parma Magica. As a cloak, it is mostly concerned about remaining clean and pure, and protecting its master against harm. While it understands a great deal of its master’s Latin and could converse with him, it chooses instead to remain silent so not to embarrass itself. Likewise, it is very conscious of keeping its place, and does not like to exercise its ability to move and to carry things. Kelpie''
 ''Kelpies are carnivorous magical creatures that live at the bottom of deep fresh-water pools. Their natural form is a writhing mass of oily black tentacles and sharp beaks that are capable of piercing the thickest amor, but kelpies also have the curious ability to transform into sleek, black horses. In this form, the kelpie-stallion exudes a musky charisma, allowing it to befriend other horses; it leads them to the edge of the pool where they are rapaciously devoured. Another favorite hunting technique of those kelpies that live near a road is to seek out weary travelers,''
 ''who it will entice into riding. Once the traveler is mounted, the kelpie dashes headlong into its pool — drowning and then consuming the rider. It is possible to tame and train a kelpie to serve as a fearsome mount — or even a beast of burden — and some magi have done so. A kelpie mount has an independent Magic''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: The Mandrake’s Scream''
 ''A hangman’s tree stands in a weak Magic aura at a crossroads near the covenant. One can occasionally find a Mandrake of Virtue growing under it. The court physician to an ailing nobleman has harvested a mandrake to cure his lord, but, tragically, the noble’s curious son secretly followed the physician and watched too closely — he was killed by the mandrake’s scream. The player characters might be called in to investigate the boy’s disappearance, or the physician might come to them asking for help.''
 
-|]
+|}
 ''Resistance, does not tire easily, is very swift, and looks impressive but not overtly magical — in stallion form, at least. A trained kelpie can understand simple verbal instructions, including when to change form, and can also be ridden when in stallion form, using the''
 ''Ride Ability. A kelpie is a magical thing, so it must rest in a magic aura (usually a pool) in order to restore its Might Pool. The kelpie described here is a magical creature associated with deep pools. However, similar faerie creatures may exist.''
 ''Elementals''
 ''Elementals are magical creatures composed of very pure elemental matter. They are not truly alive, and are capable of neither growth nor reproduction. Instead, they form from pure physical matter under some magical impetus, such as a Magic aura. Nothing that is or has been alive can generate an elemental, nor can matter that is no longer in a raw state, but which has been moved, cut, or otherwise interfered with by a living being. The process of forming an elemental is called rarefication. This process causes atoms of matter to take on a pseudo-life of their own, freeing themselves from the atoms of other elements and self-organizing into an elemental. Usually only one elemental forms, of a maximum size determined by the amount of matter present. Magi of the Order know spells that can catalyze this process, but they may also create elementals by accident with careless use of elemental magic (see below for more details). Further, raw elemental matter possessing a Warping Score of 5 may spontaneously rarefy into an elemental; for example, a natural spring within a Magic Aura of 6 might generate a water elemental after 75 years. However, not all Warped matter develops an elemental, and this process is little understood by those who have studied it. Once rarefied, the elemental exists until it is destroyed; elementals do not age, they have no need for nutrition, and do not succumb to disease. They suffer from''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: To Break a Kelpie''
 ''A clan chief in the Scottish Highlands approaches the covenant wanting to commission the manufacture of a magical bridle that will allow him to capture and break a local kelpie (this could be achieved with a ReAn effect). The chieftain intends to use the kelpie to drag heavy stones to the site of a new fortress. The rapid construction of the fortress, aided by the labor of the kelpie, will tip the balance of power among the Highland clans — so, assisting the chieftain could be construed as interference in the mundane and hence a possible breach of the Peripheral Code.''
+
+|}
 ''Character Guide: A Kelpie''
 ''Magic Might: 20 (Aquam) Characteristics:  (Native form) Cun +1, Per +1, Pre 0, Com –2, Str +8, Sta +2, Dex +1, Qik –2  (Stallion form) Cun +1, Per +1, Pre +3, Com –2, Str +6, Sta +3, Dex +1, Qik –1 Size: +3 Season: Summer Confidence: 1(3) (attacking) Virtues and Flaws: Magic Thing; Ferocity, Lightning Reflexes, Tough; Magical Monster Qualities and Inferiorities: Greater Power; Improved Attack (x5), Improved Damage (x4), Improved Defense (x4), Improved Initiative (x2), Improved Soak (x3), Lesser Power (x2) Personality Traits: Fierce +3, Alluring +1 Reputations: Black horse on road 3 (local) Combat: (Native form) Tentacles: Init +4, Attack +10, Defense +11, Damage +8 Bite: Init –2, Attack +13, Defense +3, Damage +20 Combat: (Stallion form) Kick: Init –1, Attack +8, Defense +6, Damage +7 Soak: +11 Fatigue Levels: n/a. Wound Penalties: –1 (1-8), –3 (9-16), –5 (17-24), Incapacitated (25-32), Dead (33+) Abilities: (Area) Lore 2 (roads), Athletics 5 (galloping), Awareness 3 (roads), Brawl 5 (bite), Charm 3 (travelers), Hunt 5 (tracking), Stealth 3 (at night), Swim 3 (ambush) Powers: Equine metamorphosis, 3 points, Init –5, Aquam  R: Per, D: Sun, T: Ind  The kelpie ejects itself from its pool and in mid-flight the mass of slimy tentacles transforms into a glistening black stallion. The kelpie may at will return to its native form without an additional expenditure of Might, but if the kelpie is completely saturated''
 ''with water while in its stallion form, a Stamina Roll against an Ease Factor of 9 must be made, otherwise it reverts to its native form.  MuAq(An) 25 (Base 10, +2 Sun, + 1 Complex effect): Lesser Power (25 levels) Equine charisma, 2 points, Init –7, Imaginem  R: Sight, D: Sun, T: Ind  The kelpie makes itself alluring to its victim. This is automatically successful if the victim has a Cunning characteristic, but if the victim has an Intelligence characteristic then an Intelligence Roll against an Ease Factor of 9 will resist the effect (penalties for Fatigue apply, which makes weary travelers particularly susceptible). A victim with Cunning will follow the lead of a kelpie that it finds alluring, while an Intelligent victim will usually attempt to ride or capture the kelpie. This power may only be used while the kelpie is in stallion form.  CrIm 40 (Base 5, +3 Sight, +2 Sun, +2 Complex effect): Greater Power (40 levels, –2 cost) Fleet of Foot, 0 points, Constant, Animal:  R: Per, D: Constant, T: Ind  When in its stallion form, the kelpie can travel at about three times the speed of a normal horse (it can carry a rider about 100 miles in a day).  MuAn 15 (Base 4, +2 Sun, +1 Constant effect): Lesser Power (15 levels, –2 cost) Equipment: None. Encumbrance: 0 Vis: 4 pawns of Aquam in the blood of the kelpie. Appearance: In native form the kelpie is a black, amorphous, and distended mass covered with an array of muscular tentacles, mouths, beaks, and sensory organs. It usually dwells at the bottom of a deep, shaded pool. In stallion form the kelpie appears to be a large, powerful, black horse as might be ridden into battle by a wealthy knight.''
-
-|]
 ''impulses that drive them to certain actions based on their elemental make-up, but they possess no capacity for thought in the traditional sense.''
 ''Magic and Elementals''
 ''Some magi who are skilled in elemental magic routinely create and bind elementals to their bidding, but the primitive sentience of these beings, combined with the difficulty in obtaining the appropriate raw materials and vis required, means that most do not bother. Ritual Creo spells can create elementals, and they may be controlled using Rego magic. New guidelines for these effects are given in the nearby insert. In addition, standard Rego guidelines may also create wards (or prisons) for elementals with spells that affect creatures from the Magic Realm, and Perdo Vim spells can destroy the Magic Might that animates their simple bodies. Other spells involving the elemental Forms may accidentally cause an elemental to rarefy, if cast on sufficiently pure matter that is already substantially Warped, such as that found within a Magic aura. The production of an elemental is a potential consequence of any botched spell or lab activity involving an elemental Form while in a Magic aura. Similarly, magic used to purify an element can have a similar effect — more than one Flambeau magus has tried to make his flames hotter, and accidentally rarefied a fire elemental.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''A Digression into Physics''
 ''The universe is made up of building blocks called atoms (from atomas, meaning “uncuttable”). There are four varieties of atoms, and each atom possesses two qualities that govern its nature: earth is cold and dry; water is cold and moist; air is hot and moist; and fire is hot and dry. The corpuscles of atoms are the basic building blocks of all matter, and have size, shape, and color. Corpuscles of earth are cubes, those of water are icosahedrons (shaped like a 20-sided die), air corpuscles are octahedrons (an eight-sided die), and fire corpuscles are tetrahedrons (a four-sided die or pyramid). The size of the corpuscles determine the type of matter that it forms. Small tetrahedral corpuscles make up the''
 ''fine blue fire that gives the sky its color; whereas large smoky flames are made from the largest corpuscles of fire. Air that is thin and pure is formed from small octahedra; whereas mist is made from large, dense octahedra. Oil receives its thickness from its large corpuscles of water; but very fine atoms make up volatile liquids like spirit of wine. Rock is made of large and heavy corpuscles; whereas sand is made of much finer cubes. The moist quality causes a thing to adapt to its external conditions, whereas dryness causes a thing to define its own shape and bounds. As a consequence, moist things tend to be volatile and expansive, since they can fill spaces in their''
 ''surroundings, whereas dry things are fixed and structured. Hotness causes matter to separate and seek those of its own kind, but coldness promotes mixing of matter and coagulation. The world is formed of four regions of elemental matter, with the self-defining dry elements forming the innermost layer of earth and the outermost layer of fire. The two cold elements sink to the center of the earth whereas the two hot ones seek to separate and rise, leaving the final order, from the center, as earth, water, air, and fire. Beyond the region of fire is the Lunar Sphere, which separates the material and the celestial realms. More details on this issue can be found in Art & Academe.''
+
+|}
 ''New Elementals Spells and Spell Guidelines''
 
 ===Creo (Elemental Form)===
@@ -396,8 +390,6 @@
 ''Rarefy the Crude Water Creo Aquam 30 R: Touch, D: Mom, T: Ind, Ritual This ritual spell rarefies a base amount''
 ''of water (up to a pool of 5 paces diameter and 2 paces deep) to bring a water elemental into existence. At its maximum size, the elemental has a Might of 15 and a Size of 0, but smaller bodies of water will yield smaller elementals. The character guides given later in the chapter describe typical elementals created by this spell. For larger (and thus more powerful) elementals, this spell must be invented with a Size modifier to the target, with each application of the modifier giving +3 Size. Since Size determines Might (see later), 1 extra size magnitude gives an elemental a Might of 20 (Size +3), 2 a Might of 25 (Size +6), etc. This spell doesn’t need to penetrate the Might of the elemental instantiated; until the completion of the spell, the elemental doesn’t exist. (base 25, +1 Touch)''
 ''Command the Living Fire Rego Ignem 20 R: Voice, D: Conc, T: Ind This spell allows the caster to control the actions of a fire elemental up to Size 0, if the Penetration Total exceeds the elemental’s Magic Might. For larger elementals, versions of the spell with a Size modifier to the Target are required. If an elemental is already under supernatural control, the most recent spell or power used is the one that commands it. (base 5, +2 Voice, +1 Conc)''
-
-|]
 ''Realms of Power Designing Elementals''
 ''Elementals are simple beings, and their game statistics are similarly simple. The method below is primarily targeted at creating elementals as described in this chapter — non-sentient entities that rarefy from raw elemental matter under the influence of magic. However, the general principles can be applied to use an elemental as the starting point for a magic character. In this latter case, follow the procedure detailed in Chapter 4: Magic Characters, Magic Things, using the details here for guidance. Alternatively, the character guides given below can be easily updated for larger or smaller elementals with just a few changes.''
 ''Inherited Virtues: Magic Thing; Ways of the (Land) Inherited Flaws: Poor Memory, Short Attention Span, Simple Minded''
@@ -417,8 +409,8 @@
 ===Season and Abilities===
 
 ''Elementals are almost always Spring characters, newly created and naïve to the world. All elementals have Brawl and Athletics (or, for water elementals, Swim), which must be bought at a score equal to the magnitude of the elemental’s Might with the character’s starting experience points. If there are insufficient experience points to purchase these Abilities at the required level, then the character must purchase Improved Abilities as a Minor Magical Quality sufficient times to make up the difference. There are few other Abilities that are suitable for elementals, although Area Lore, Awareness, Hunt, and Penetration are often possessed to some level.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Elemental Story Seeds''
 
 ===The Forgotten Child===
@@ -434,7 +426,7 @@
 
 ''The characters discover some Terram vis in a patch of clay lying in a region with no mystical aura. They take it home to their covenant and put it in their vis stores. Now that it is in a Magic aura, the elemental can start to recover its exhausted Might pool, and it consumes the magi’s other Terram vis to make itself larger. When the characters next visit their vis stores, they are in for a surprise.''
 
-|]
+|}
 
 ===Might and Qualities===
 
@@ -450,13 +442,13 @@
 ''All elementals have a power that results from the elemental matter from which their bodies are made, and a power that describes their natural method of attack. Magic Resistance can prevent the elemental from touching its opponent, but the elemental does not need to spend Might points for this attack. Most elementals have at least one other power. This power should be strongly tied to the type and origin of the magical entity. Typical powers are listed with the descriptions of the elementals.''
 ''Earth Elementals''
 ''The earth elementals are known to the Order as genomi (singular genomus, meaning “earth-living”), but they go by a number of other names including gnomes (contracted from their Hermetic name), pygmaei, and telluri. They may be rarefied from any large concretion of earth that has not been worked by human hands, such as untilled soil, natural rock features, and naturally occurring nuggets of metal. It is no harder to rarefy a genomus from soil than it is from metal, but the quantity of raw material available limits the size of the elemental created — a gold nugget of Size –10 can only produce an elemental with Might 3. Genomi are extraordinarily long-lived, and are as durable as the substance from which they are formed. They are patient predators, driven by an unslakable thirst to extract the delicious moisture from living beings. They are fiercely territorial, and will attack any being who intrudes upon their defined space; thus genomi make excellent guards — most attacks from a genomus result from having stood upon one! An earth elemental appears much like any other object of earth or rock, except it is made up of sharp edges and right-angled corners that form cubic corpuscles of different sizes. Earth elementals move by sliding these cubic components around in endless cycles; this appears awkward and laborious in hard-bodied genomi, but can be hypnotically smooth in those made of sand or soil. Genomi are exceptionally strong and remarkably fast. An earth elemental made from a hard substance attacks by bludgeoning its prey with its stone limbs. Softer genomi of sand and soil will engulf their prey first by making a grapple attack, and then crush the immobilized target within their bodies.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Size, Might, and Characteristics of Elementals''
 ''Like other Magic Things (see Chapter 3: Magic Characters), the Size of an elemental is dependent on the Might chosen for it, and is not purchased with Magical Qualities or Inferiorities. The Might of an elemental also determines its typical Characteristics. The table below indicates values for the eight Characteristics at different Might scores. Each of these sets of Characteristics has been purchased with Magical Qualities and Inferiorities that exactly cancel out, resulting in a zero overall cost.''
 ''Might	 Size Characteristics  1 –18 +2, +2, +1, +1, +1, 0, –1, –1  5 –6 +3, +2, +1, +1, 0, 0, –1, –2 10 –3 +3, +3, +1, +1, 0, 0, –1, –3 15 0 +4, +3, +2, +1, 0, 0, –2, –4 20 +3 +6, +5, +2, +2, +1, 0, –5, –6 25 +6 +7, +6, +2, +2, +1, 0, –6, –7 30 +9 +8, +6, +2, +2, +1, 0, –6, –8 35 +12 +9, +7, +2, +2,+1, 0, –7, –9 40 +15 +10, +8, +2, +2, +1, 0, –8, –10 45 +18 +11, +9, +2, +2, +1, 0, –9, –11 50 +21 +12, +9, +2, +2, +1, 0, –9, –12''
 
-|]
+|}
 ''A Size 0 earth elemental is a boulder about one pace in diameter. A Size +9 genomus is as tall as a small cliff; whereas a Size +15 genomus is the size of a hill. The elemental’s body is composed entirely of soil, sand, or rock. It can match a walking man for speed, and overtake a running horse when tumbling downhill. Only bludgeoning weapons such as hammers, maces, or axes can damage an earth elemental; piercing or slashing weapons will merely plunge into the body of a soil elemental or glance off the surface of a rock elemental. Spades and picks are also effective weapons.''
 
 ===Sample Powers===
@@ -479,8 +471,8 @@
 ''Sight of the River 2 points, Init equal to (Qik – 1), Imaginem R: Arc, D: Conc, T: Room The elemental can view any location to which it has an unbroken connection of water, regardless of the distance involved. Thus, it may see anyone on the same river, touching''
 ''the opposite shores of its sea, or even standing on the same earth through the water that makes soil damp. Someone standing on a stone or wood surface would be invisible to''
 ''it, however. Anyone who can share senses with the elemental can see what it sees. InIm 20 (base 1, +4 Arcane, +1 Conc, +2 Room): Lesser Power (20 levels, +1 Init).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Character Guide: An Earth Elemental''
 ''Magic Might: 15 (Terram) Season: Spring Characteristics: Cun 0, Per +1, Pre –2, Com –4, Str +3, Sta +6, Dex +2, Qik 0 Size: 0 Virtues and Flaws: Magic Thing; Ways of the Cavern; Poor Memory, Short Attention Span, Simple Minded. Magical Qualities and Inferiorities: Greater Power (Crush), Greater Power (Slake Thirst), Improved Stamina; Improved Attack, Improved Damage x 2, Minor Virtue (Berserk), Minor Virtue (Great Stamina), Minor Virtue (Tough) Personality Traits: Cave +3* Combat: Bludgeon*: Init +3, Attack +11, Defense +7, Damage +9 Bludgeon when Berserk*: Init +3, Attack +13, Defense –5, Damage +9''
 ''*Includes Ways of the Cavern Soak: +9 (additional +2 when Berserk) Wound Penalties: –1 & 1 Might point (1– 5), –3 & 3 Might points (6–10), –5 & 5 Might points (11–15), Incapacitated & 5 Might points (16–20), Dead & all Might points (21+) Abilities: Athletics 3 (pursuit), Awareness 2 (interlopers), Brawl 3 (bludgeon), Penetration 3 (Slake Thirst Power), Stealth 2 (keeping still) Powers: Crush, 0 points, Init –2, Terram: see above for details Slake Thirst, 1 point, Init +4, Aquam: see above for details Vis: 3 pawns of Terram, in body Note: This elemental was rarefied in a cavern with a Magic aura, and guards the vis source found therein with a furious passion.''
@@ -488,7 +480,7 @@
 ''Magic Might: 15 (Aquam) Season: Spring Characteristics: Cun +4, Per –2, Pre 0, Com 0, Str +3, Sta +3, Dex +1, Qik –4 Size: 0 Virtues and Flaws: Magic Thing; Ways of the River; Poor Memory, Short Attention Span, Simple Minded. Magical Qualities and Inferiorities: Greater Power (Drown), Greater Power (Chill Touch), Focus Power (Crafter of Water); Improved Attack, Improved Damage, Improved Defense, Minor Virtue (Improved Characteristics — applied to Strength), Minor Virtue (Puissant Hunt), Minor Virtue (Tough) Personality Traits: River +3* Combat: Bludgeon: Init –4, Attack +8, Defense +3, Damage +6 Bludgeon*: Init –1, Attack +11, Defense +6, Damage +6  *Includes Ways of the River Soak: +6''
 ''Wound Penalties: –1 & 1 Might point (1– 5), –3 & 3 Might points (6–10), –5 & 5 Might points (11–15), Incapacitated & 5 Might points (16–20), Dead & all Might points (21+) Abilities: Athletics 2 (when hunting), Brawl 3 (bludgeon), Hunt 3+3 (river banks), Penetration 2 (Chill Touch power), Swim 3 (speed) Powers: Drown, 0 points, Init +0, Aquam: see text for details. Chill Touch, 2 point, Init 0, Ignem: see above for details. Crafter of Water, 1 – 3 points, Init –4 – Might Cost, Aquam: duplicate any Creo Aquam or Rego Aquam spell of level 15 or below, at a cost of 1 Might point per magnitude of the spell. See Chapter 3: Common Powers for more details. Vis: 3 pawns of Aquam, in body Notes: This lympha haunts the river banks near its home, preying on the warmth of small creatures who dwell there.''
 
-|]
+|}
 ''Realms of Power Air Elementals''
 ''Zephyrus is the name given to an air elemental by members of the Order of Hermes, but they are also known as silvestres, sylphs, aeoliae (wind elementals), nenuphas (cloud elementals), and brontes (thunder and lightning elementals). Any air under the open sky or any natural weather phenomenon can produce a zephyrus. A zephyrus is composed of chains of octohedral corpuscles: in wind elementals, these chains form ropes; cloud elementals consist of interlocked loops; and a lightning elemental is a branched chain of scintillating energy. Zephyri are utterly restless — they cannot remain still, even for a moment. They are travelers, moving through the world beneath the sky unless constrained by magic. They rarely descend from their lofty heights, but are occasionally curious about what is going on below them. They are highly perceptive, and are aware of everything going on around their home. They can sense the slightest movement of air from any direction, and are impossible to catch by surprise. They crave''
 ''the disintegration of rigidity and barriers, and many are capable of dissolving structured matter. A patch of mist constitutes a Size 0 elemental; a Size +4 zephyrus is a wind of sufficient strength to blow a man down, or a small cloud; a Size +6 air elemental is a large cloud; at Size +9 it is a bolt of lightning reaching from the clouds to earth; and at Size +12, a medium-sized storm. A zephyrus’ body is composed entirely of air. It is capable of moving through landscape unobstructed by other objects in its way, and can enter any space that is not air-tight. The speed of movement varies by elemental type: a mist elemental can roll at walking pace, whereas a lightning elemental is literally lightning fast. Weapons are meaningless to a creature with this power, they simply pass straight through. However, the elemental has no natural attack and must use its powers instead.''
@@ -500,13 +492,13 @@
 ''Some air elementals have the following powers. Other powers typically mimic Auram spells, particularly Rego Auram spells.''
 ''Dissolution 3 points, Init equal to Qik, Animal, Corpus or Terram R: Voice, D: Mom, T: Ind The cohesiveness of a base Individual of Terram is lost, making it melt as if heated strongly, although the power imparts no heat to the object. Armor drips off its wearer, swords collapse like melting butter, and so forth. At the end of the round, the matter re-solidifies into its new shape. If the item is enchanted, the elemental’s Penetration must exceed five times the total pawns of vis invested. The moisture of living bodies prevents them from such a devastating effect; nevertheless, hair, toenails, teeth, claws, and bone are all affected, inflicting +15 damage and ignoring protection from armor. MuTe(Aq, Co, An) 25 (base 3, +2 Voice, +2 affect metal, +2 affect humans and animals): Greater Power (25 levels, –2 Might cost, +3 Init).''
 ''Jupiter’s Touch 5 points, Init equal to (Qik – 2), Auram R: Touch, D: Mom, T: Ind The touch of the elemental causes a flash of coruscating lightning, inflicting +30 damage. This power is suitable for a lightning or storm elemental. CrAu 30 (base 5, +1 Touch, +4 unnatural): Greater Power (30 levels, –2 Might cost, +2 Init).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Character Guide: An Air Elemental''
 ''Magic Might: 15 (Auram) Season: Spring Characteristics: Cun +1, Per +2, Pre 0, Com 0, Str +3, Sta –4, Dex –2, Qik +4 Size: 0 Virtues and Flaws: Magic Thing; Ways of the Storm; Poor Memory, Short Attention Span, Simple Minded. Magical Qualities and Inferiorities: Greater Power (Suffocate), Greater Power (Jupiter’s Touch), Greater Power (Charge of the Angry Winds), Major Virtue (Shapeshifter); Improved Abilities, Improved Powers (+3 Init to Jupiter’s Touch Power), Minor Virtue (Keen Vision) Personality Traits: Storm +3* Combat: Jupiter’s Touch Power*: Init +5, Attack +5, Defense n/a, Damage +30  * Includes Way of the Storms Soak: N/A Wound Penalties: –1 & 1 Might point (1– 5), –3 & 3 Might points (6–10), –5 & 5 Might points (11–15), Incapacitated & 5 Might points (16–20), Dead & all''
 ''Might points (21+) Abilities: Area Lore 3 (high points), Athletics 3 (storm force winds), Awareness 3 (metal objects), Brawl 3 (Jupiter’s Touch Power), Penetration 2 (Jupiter’s Touch Power), Shapeshifter 4 (birds) Powers: Suffocate, 0 points, Init +2, Auram: see above for details Jupiter’s Touch, 5 point, Init +2, Auram: see above for details Charge of the Angry Winds, 1 point, Init +6, Auram: As the spell of the same name; add the elemental’s Strength to all the Ease Factors for acting within the wind. CrAu 15 (base 3, +2 Voice, +1 Conc, +1 unnatural): Greater Power (35 levels, –1 Might cost, +4 Init, +15 experience points in Penetration) Vis: 3 pawns of Auram, in body. Notes: A creature born of storms, it uses its devastating attack only rarely, since it has such a high Might cost. Its Shapeshifter Virtue allows it to adopt the forms of the creatures it has seen: a raven, an eagle, a hound, and a bull.''
 
-|]
+|}
 ''Magic Fire Elementals''
 ''Fire elementals, or phlegethi (singular phlegethus, meaning “burners”), also go by a host of other names, such as ignigena (Latin for “fire-born”), vulcans, rolamandri, salamanders (not to be confused with the Beasts of Virtue), and aethnici (a term also used for fiery demons; see Realms of Power: the Infernal, page 67). They are uncommon on earth, for they can only rarefy from naturally occurring sources of flame — usually lightning strikes, but occasionally earth-fires, certain natural alchemical reactions, or the fire from the upper atmosphere. Feeding a naturally lit fire with fuel does not inhibit rarefication, and once formed, a fire elemental can consume normal fuel. A fire elemental is often shortlived, lasting as long as it has fuel, and prone to sudden movements of remarkable speed. Man’s fascination for fire is often enhanced when viewing fire elementals, and they can easily beguile those who stare too deeply. An phlegethus appears as a collection of flames that move contrary to nature. Each flame is actually a tetrahedron; sometimes these pyramids may be stretched long and thin, while at other times they may be low and flat. The motivations and instincts of a fire elemental are basic: they desire to burn, to consume cold and replace it with heat, and to escape confinement. A phlegethus of Size 0 is the size of a typical bonfire. The fire from a lightningstruck tree would raise a Size +6 fire elemental, and a volcano is capable of spawning the largest phlegethi, up to Size +21. The body of a fire elemental is composed entirely of fire. The elemental can only cross surfaces composed of potentially flammable material; the more flammable it is, the faster it can move. Through typical vegetation in a temperate climate, a fire elemental can move at the speed of a running man. It may also jump a gap of non-flammable surface (such as bare rock) up to a width equal to its Magic Might in feet. Weapons are meaningless to a phlegethus; they simply pass straight through the elemental, and may catch fire. A source of water that is smaller than the elemental’s Size is evaporated on contact. Larger sources of water quench the elemental’s body, inflicting “wounds” as if it were fire damage; typically +5 to +10 damage, but possibly more depending on the quantity. Successful water attacks destroy any Ig''
 ''nem vis that might have been present in the evaporated matter.''
@@ -518,13 +510,13 @@
 ''Some fire elementals have the following powers. Other powers typically mimic Ignem spells, particularly Rego Ignem spells.''
 ''Fascination 3 points, Init equal to (Qik + 4), Mentem R: Eye, D: Sun, T: Ind The swirling colors in the elemental’s flames can entrance all those who see it. Those failing an Intelligence roll against an Ease Factor of 9 will stare gape-mouthed at the elemental, unable to act. This roll may be attempted once per round. ReMe 15 (base 4, +1 Eye, +2 Sun): Greater Power (15 levels, –1 Might cost, +6 Init).''
 ''Heat of the Searing Forge 1 point, Init equal to (Qik + 6), Ignem R: Voice, D: Mom, T: Ind Like the Creo Ignem spell of the same name. Note that this power works at a distance, whereas the Burn power affects only items that touch the elemental. CrIg 10 (base 4, +2 Voice): Greater Power (10 levels, –1 Might cost, +7 Init)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Character Guide: A Fire Elemental''
 ''Magic Might: 15 (Ignem) Season: Spring Characteristics: Cun 0, Per –2, Pre +3, Com +1, Str –4, Sta 0, Dex +5, Qik +2 Size: 0 Virtues and Flaws: Magic Thing; Ways of the Forest Fire; Poor Memory, Short Attention Span, Simple Minded. Magical Qualities and Inferiorities: Greater Power (Burn), Greater Power (Fascination), Ritual Power (Enliven the Gross Fire); Great Dexterity, Improved Recovery x 2*, Improved Soak x 2, Minor Virtue (Lightning Reflexes)  * Recovers Might points in one quarter of the time, which for an elemental means 3 weeks rather than a season. For a Might 15 elemental this is approximately 2 Might point every 3 days. Personality Traits: Forest Fire +3* Combat: Burn Power*: Init +3, Attack +12, Defense n/a, Damage +(Might Pool)  * Includes Way of the Forest Fire Soak: +4''
 ''Wound Penalties: –1 & 1 Might point (1– 5), –3 & 3 Might points (6–10), –5 & 5 Might points (11–15), Incapacitated & 5 Might points (16–20), Dead & all Might points (21+) Abilities: Athletics 3 (leaping between fuel sources), Brawl 3 (Burn Power), Charm 3 (small animals), Penetration 3 (Fascination Power) Powers: Burn, 0 points, Init +0, Ignem: see above for details Fascination, 3 points, Init +6, Mentem: see above for details Enliven the Gross Fire, 6 points, Init –10, Ignem: See Chapter 4: Common Powers for more details. Vis: 3 pawns of Ignem, in body. Notes: Born of a lightning strike hitting a magically tainted tree (perhaps a vis source), this elemental has the frightening power to spawn more fire elementals, which it does if fought with water.''
 
-|]
+|}
 ''The beasts of Mythic Europe are not quite the same as normal animals in the real world. The ferocity of wild animals, in particular, is exaggerated for dramatic purposes. In Mythic Europe, it is not uncommon for beasts such as wolves to attack humans.''
 ''Beast Statistics''
 ''Beasts’ Characteristics may take any value, even exceeding –5 or +5. Beasts do not need a Virtue or Flaw to have Characteristics outside the normal human range of –3 to +3. Their starting Characteristics depend on their ecological niche (predator, herbivore, etc.) and are different from the average human Characteristics of all zeroes. As stated in ArM5, p. 191, mundane beasts have a Characteristic called Cunning in place of an Intelligence score. Use Cunning for rolls that would otherwise call for Intelligence, such as finding a way out of a closed barn. Beasts have a limited capacity for problem-solving but they lack imagination, reason, and intelligence as such. Because they lack intelligence, beasts cannot learn new Abilities unless they are trained by an intelligent being. They can improve Abilities their species already has. For beasts, the Quickness Characteristic has mainly to do with reflexes and agility, and little to do with movement rate. Many animals can run faster than a human, but that does not necessarily mean they should have better Initiative and Defense scores. Animals that run fast, but do not have especially good reflexes, have a note giving them a bonus to running-related rolls. All mundane beasts have no Might and contain no vis.''
@@ -589,5 +581,6 @@
 ''Characteristics: Cun +2, Per 0, Pre –2, Com 0, Str –1, Sta +3, Dex +2, Qik +2 Size: –1 Confidence Score: 1 (3) Virtues and Flaws: Improved Characteristics (x2), Ferocity (when hungry), Long''
 ''Winded, Sharp Ears, Compulsion (killing), Infamous Qualities: Aggressive, Hardy, Keen Sense of Smell, Pack Animal/Pack Leader, Pursuit Predator, Sharp Ears, Thick Fur, Vocal Personality Traits: Brave +3, Cowardly +3 Reputations: Bloodthirsty (local) 4 Combat: Teeth: Init +2, Attack +11, Defense +9, Damage 0 Soak: +4 Fatigue Levels: OK, 0/0, –1/–1, –3, –5, Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –5 (9–12), Incapacitated (13–16) Abilities: Athletics 5 (distance running), Awareness 3 (smell), Brawl 5 (teeth), Hunt 4 (track by smell), Survival 3 (winter) Natural Weapons: Teeth: Init 0, Atk +3, Def +1, Dam +1. Its thick fur gives it a Protection of +1. Appearance: The wolf has erect, triangular ears, a narrow muzzle, and a coat of shaggy fur. Its eyes are usually yellowish and have a steady, unsettling gaze. Its color may be any shade from pale grey through dark brown, often with lighter patches on the sides of the face and around the eyes. The wolf can bark, but its better-known sound is its eerie, piercing howl.''
 ''The wolf is found throughout Mythic Europe, the Middle East, and North Africa. According to Pliny the Elder, the wolves of northern regions are fierce while those of Africa and Egypt are weak Wolves are greatly feared by commoners. They are hunted with large hounds because they kill livestock. In some lands, there is a bounty on their hides. Many tales attribute supernatural powers to wolves, but most wolves are mundane and have no powers at all. The Flaws above reflect the medieval perception of the wolf as a wanton, bloodthirsty killer. Individual wolves, such as the Animal Companion of a player character, may substitute another Personality Flaw in place of the Compulsion. A wolf Animal Companion that goes around killing livestock could be disruptive to stories. Regardless of such a wolf’s actual personality, mundanes are likely to treat it with a great deal of fear and suspicion. The leader of a wolf pack has the additional Ability, Leadership 5 (wolves). A pack may fight as a trained group when its leader is present. A wolf pack is extremely dangerous.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

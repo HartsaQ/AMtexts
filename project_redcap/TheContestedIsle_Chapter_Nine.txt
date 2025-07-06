@@ -1,5 +1,3 @@
-
-[|
 ''Ulster or Ulaid (pronounced UHlodge) is the northernmost province of Ireland. In the days when the famed king Conchobhar mac Neasa ruled from Emhain Mhacha, the Ulaidh (UH-loy, meaning Ulstermen) gave Ireland some of its most powerful legends of heroes and kings. These tales form the Ruadhraigheacht, better known by its English name of The Ulster Cycle. None of the kingdoms that comprise the province in the thirteenth century have an Ulaidh king, but the Ulstermen are still fiercely proud of their heritage and remarkably coherent for a people who have lived under “foreign” kings for so long.''
 
 ==The Peoples of Ulster==
@@ -30,8 +28,6 @@
 ==Tír Chonaill==
 
 ''Tír Chonaill (TCHEER CHUN-ull) is the name given to the lands of the Cenél gConaill, scions of the Uí Neill who rule Connacht. The land and the dynasty is''
-
-|]
 ''named after Conall Gulban, son of the famous King Niall of the Nine Hostages. He acquired his epithet by running to the peak of the Beann Ghulban mountain and back in a single day without passing out. Because of this feat, the local druids accepted his kingship, and given their blessing the local subkings soon capitulated. The current king, Domhnall Mór mac Eicnechain, is a direct descendent of Conall Gulban. Tír Chonaill is closely allied with Tír Eóghain (see later); both are ruled by branches of the Uí Neill dynasty that also rules Connacht. Domhnall Mór is the second Tír Chonaill king from the illustrious Uí Domhnaill family, who has risen to power by relying on the Lucht Tighe, or household families, that support his dynasty. The strength of Tír Chonaill’s gallóglaigh (see Donegal, later) are responsible for the continued independence of the kingdom from the English. Tír Chonaill is a mountainous land, with the Derryveagh mountains (Cnoic''
 ''Dhoire Bheatha) in the north and the Blue Stack Mountains (Cruacha Gorma) in the south. The land is typified by deep, green valleys where sheep are raised. The Blue Stacks form an impenetrable barrier between the north and south of the kingdom. The most fertile land in Tír Chonaill is in the valley of the river Finn and the region around Raphoe called the Laggan.''
 
@@ -49,8 +45,8 @@
 ==The Poisoned Glen==
 
 ''The Poisoned Glen is on the coast facing Toraigh Island (see Tír Fhomóraig, later). The black and scarred slopes of the mountains which overlook the Poisoned''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Lucht Tighe==
 
@@ -63,7 +59,7 @@
 ''Tír Chonaill has been the point of origin of several plagues so great that they received names in the annals of Ireland’s historians. The Crom Chonaill spread southwards in the sixth century, followed by the Buidhe Chonaill a century later. The Annals report that during another pestilence in 986 demons were seen cavorting among the dead. A pestilence called the Rogh Rámhach in 1084 was said to have killed a quarter of Ireland’s population.''
 ''Fortunately, the Scuab a Fánait that was prophesied in 1096 from the north of Tír Chonaill never materialized. It is said that a great dragon has been seen in the sky on the advent of each of these plagues. The fact that the fomórach (Chapter 10) are implicated in killing the Partholónians with plague, and that the remnants of this race are found on the islands to the north of Tír Chonaill, has not gone unnoticed.''
 
-|]
+|}
 ''Glen are testament to the baleful glance of the fomóir champion Balor of the Evil Eye, who sat atop his tower on Toraigh Island and glared at Ireland. In the mouth of the glen is a standing stone, said to be a warrior turned to rock by Balor for his impudence. The Poisoned Glen has a Magic aura of 1, although there might be pockets where the aura is higher. The Seven Sisters are a series of mountains whose slopes contribute to the Poisoned Glen. The tallest of these is An tEaragail (Mount Errigal).''
 
 ==Raphoe==
@@ -81,15 +77,15 @@
 ==Aileach==
 
 ''Situated on the peninsula of Inis Eóghain (IN-ish OWE-un), the hillfort of Aileach was once the capital of a kingdom of the same name which held Airgíalla and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Black Pig’s Dyke==
 
 ''The Gleann na muice duibhe is a deep ditch, twelve feet deep in places, with up to four feet of earth banks on either side, that runs across the border of Ulster from Lough Cairlinn in the east to Donegal Bay in the west. It was plowed by the snout of an immense black faerie boar, and kept clear by that same boar every three years. The Black Pig was slaughtered by the magi of Vigil and its tusks retained''
 ''as their cathach (Chapter 4); since then the dyke’s path has not been replowed. The dyke is no longer continuous, and is in a shocking state of disrepair. The remaining sections of the dyke are a faerie trod with a Faerie aura of 1; if restored it would form a complete boundary around Ulster (although it would require seven size modifiers to craft a Target: Boundary spell that affected the entire province).''
 
-|]
+|}
 ''Ulster as its vassals. It was here that Saint Patrick baptized Eóghain mac Neill in 450. The power of Aileach was eventually broken by the King of Munster in 1101, and the invasion of the English subsequently eroded much of Aileach’s power. From 1185 onwards, the Cenél nEóghain have been the rulers of Aileach. The Grianán Ailigh — the fortress itself — was built by The Dagda as a monument to the sun, and was, for a time, the headquarters of the resistance against the Fomórach. The Grianán now stands abandoned, smashed by the might of the Munster forces and sacked by its king. King Muirchertach Ua Briain of Munster was determined to steal the Grianán to replace his fortress, which had been destroyed by the King of Aileach twenty years prior; he ordered each of his soldiers to bring a stone back home to Munster. However, faerie-built fortresses are not so easily stolen, and every stone taken was mysteriously replaced. The outer wall of the circular fortress is 17 feet high, 13 feet thick, and 77 feet in diameter. It would make an excellent site for a covenant, except that Vigil (see later) has declared an interest in Aileach. Whilst they have no legal right to prevent others investigating this Faerie-built hillfort, Vigil is likely to defend their claim with certamen and Wizard War.''
 
 ==Beaghmore==
@@ -110,15 +106,15 @@
 ''Lough Neagh was created when the giant hero Fionn mac Cumhail went to war with the Scottish giant Benandonner. He scooped up a clod of earth and hurled it at his rival, but the clod fell short of its target and landed in the Irish sea, forming the Isle of Man. The void where the earth came from formed Lough Neagh. The Mercer House of Leth Cuinn (see later) is found on the shores of Loch Neagh. There are rumors of a péist (monster) living within Lough Neagh, but in fact it was slain many centuries ago by Dáire Farranta, founder of Leth Cuinn.''
 ''Inisclabhall''
 ''This is a large, heavily-wooded island in the south-west corner of Loch Neagh, about nine acres in size. The island is connected to the mainland (a distance of over half a mile) by a submerged causeway called Saint Patrick’s Road which, during the summer, is less than two feet beneath the surface of the water. The saint reportedly used Inisclabhall (pronounced IN-ish KLAWL) as a retreat. The outstanding beauty of the island and its settings have resulted in a natural tether for a Magic aura, at a rat''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Neamh-Mairbh==
 
 ''The monument has been long forgotten, and the land is being cleared for agriculture. While cutting down a hawthorn over the grave, a terrible accident ensues and one of the workmen severs his hand with an axe. The blood soaks into the soil. A terrible rumbling is heard, and the workmen flee.''
 ''That night, the dreadful Ábhartach rises from his grave. The storyguide should decide on the powers of Ábhartach (who could be a dark faerie magician or an infernallycorrupted sorcerer); he could easily be the major villain of a series of stories as he begins to exert control over the land once again.''
 
-|]
+|}
 ''ing of 2. Apart from the fact that an English knight has just been granted the right to put a motte on the island, it would make a perfect spot for a covenant.''
 
 ==Airgíalla==
@@ -140,15 +136,15 @@
 ==Cuailnge==
 
 ''This was once the capital of the kingdom of Conaille Muirtheimne, a tributary kingdom of Ulster. The people of Muirtheimne were (and still are) of Cruithnigh descent, of the Uí Echach Corbo. They occupied the land from the Cuailnge peninsula down to the mouth''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Macha==
 
 ''Several mortal women called Macha are connected to Emhain Mhacha. One was was the wife of Crunnchu, who boasted that his wife could outrun the best of horses. King Conchobhar held Crunnchu’s life forfeit on the truth of that boast; and she was forced to race despite being heavily pregnant.''
 ''She won the race but then collapsed, and gave birth to twins. Before she died she put a curse on Ulstermen that in the time of their greatest need they would be struck down with the pain she suffered for five nights and four days, a curse called the ces noidhen (difficulty of childbearing, see Chapter 10).''
 
-|]
+|}
 ''of the Boyne; but most of this land has now been gifted by the Earl of Ulster to English knights who seek to carve out baronies for themselves. Legend has it that the Muirtheimne plain used to rest beneath the sea. Conchobhar mac Neasa, before he became king of Ulster, captured a daughter of the god Ler on the beach. In return for her release, the mermaid raised the plain from the sea and told him how to make a shield that would increase his strength while decreasing that of his enemies. Conchobhar commissioned the smith Culann for this task, who left his smithy on the Isle of Man and accepted the plain Muirtheimne from the king. This is the same Culann whose dog gave the great hero Cú Chulainn of Muirtheimne his name (Chapter 11).''
 
 ==Drogheda Castle==
@@ -165,8 +161,8 @@
 ==Magh Sléacht==
 
 ''The “plain of adoration” was a holy site to the pagan Érainn. At Magh Sléacht they had a statue to Crom Cruach and his twelve sub-gods. According to some Merinita, Crom Cruach was a god associated with the sun; his twelve subordinates were the twelve months. Magh Sléacht was demolished by Saint Patrick, who caused the idols to sink into the ground. Since then, the tradition rose that the idol was to Crom Dubh, “the dark croucher,” an image of the antichrist. Magh Sléacht has a Faerie aura of 3. On occasion, a person who has rejected God comes here in search of power, and instead of communing with the antichrist they''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Donn and Find==
 
@@ -179,7 +175,7 @@
 ''• A grinning naked female figure called a Sile na gCíoch (SHEE-luh na GEECH) with her hands thrust behind her back, between her legs, and holding open her vulva.''
 ''• A seated king. • A hooded man with a staff. • A king pointing to his mouth. • A man accompanied by two beasts that could be dogs or lions, but have wings. • A warrior with sword and shield. • A blank figure, with no features at all. • A frowning head.''
 
-|]
+|}
 ''instead enter dialog with his faerie copy. Crom Dubh is more than willing to teach faerie wizardry to a mortal under the guise of infernalism if it reinforces his own story.''
 
 ==Sídh of Fionnachaidh==
@@ -223,8 +219,8 @@
 ''Originally called Dún Leathghlaise but recently renamed Dún Phádraig (“Patrick’s stronghold”) to commemorate Ireland’s saint, who is buried within the grounds of the cathedral. The Ulaidh and the Uí Néill quarreled over who should have the saint’s body, which was retrieved on a cart pulled by two oxen. However, a miraculous illusion of another pair of oxen and a cart fooled the Uí Néill, and the body remained at Dún Leathghlaise. Downpatrick was the capitol of the old kingdom of the Dál bhFiatach. In 1137, Saint Malachy resigned as archbishop of Armagh and became bishop of Down. While he administered the diocese from Bangor (see earlier), he enlarged the cathedral at Downpatrick and brought a community of Augustinian canons here. John de Courcy built a cathedral priory in 1183 staffed with Benedictines from Chester.''
 ''Celtchair''
 ''The first fort at Downpatrick, called Rath Cealtchair, was named after its owner Celtchair mac Uitheachair. He was a huge, ugly man, his Fir Bolg nature betrayed by a bulbous nose, wing-like ears, and rough gray hair. He fought alongside Conchobhar mac Neasa in all that king’s major battles. However, he was prone to fits of anger, and the murder of a man forced him into a geas that he would save Ulster from its three worst misfortunes. The first was the slaying of the fomóir Conganchneas (“horny skin”) who was invulnerable to weapons. Celtchair’s daughter found out his weakness — that the only way to kill him was to drive red hot spikes through the soles of his feet — and the deed was completed. Celtchair’s second task was to slay a monstrous hound called Luchdhonn (“brown mouse”) that ravaged Ulster, which he did by thrusting his hand down its throat and ripping out its heart. Celtchair adopted Luchdhonn’s three whelps. One became the hound of Mac Da Thó, another became the hound of Culann the smith that was killed by Cú Chulainn, and the third was kept by Celtchair. This dog, called Daolchú, became the third peril from which Celtchair had to rescue Ulster; the dog obeyed him, but was an unholy terror when he left home. He killed''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Lúin Cheltchair==
 
@@ -242,7 +238,7 @@
 ''The Eiteach of Saint Machaoi''
 ''Saint Patrick presented Machaoi with a special crozier that had fallen from Heaven; it was called the eiteach (“winged thing”) because it could fly through the air. The eiteach was in the possession of the abbot of Nendrum, but since the monastery’s destruction has passed into the hands of the Bishop of Down. The relic has 2 Faith points, and can confer the power of flight to up to four people at a time, who must keep hold of the crozier to benefit.''
 
-|]
+|}
 ''Daolchú with a spear, but Celtchair was poisoned by its blood and died.''
 ''Iniscourcy''
 ''This Cistercian abbey was founded by John de Courcy in 1180, as an act of repentance for destroying the nearby abbey of Erenagh in 1177. The monks came from Furness Abbey in England, along with the survivors from Erenagh.''
@@ -264,15 +260,15 @@
 ==Mountains of Mourne==
 
 ''Called Boirche’s Hills (Beanna Boirche) in Gaelic, the Mournes are a heather-covered range of mountains in southern part of the earldom. They are famed for their heavy mists in which it is easy to get lost, and locals blame the faeries for such tricks. When the mists clothe the mountains they have a Faerie aura of 2. The tallest of the mountains is Sliabh Dómhanghairt, named after Saint Dómhanghart who was a follower of Saint Patrick. Rather than dying, the saint took on the role of a perpetual guardian on top of the mountain named for him. The object of his guardianship is the graves on top of Sliabh Crúibe (see insert).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Demon Kings of Sliabh Crúibe==
 
 ''Not actually one of the Mountains of Mourne, but lying north of them across a valley, the “mountain of the hoof” is rumored to be the burial place of twelve kings. Locals climb to the top of Sliabh Crúibe on Cairn Sunday (the first Sunday in August), and take with them a stone to help bury the kings; legend does not recount why. Magi have discovered that some of the stones carried up here contain vis. This vis has been accumulating for many years, and is divided among many stones. Unfortunately, the need to keep the''
 ''kings buried is a very real one. Eleven out of the twelve graves contain a demon bound into the body of a dead tyrant. A legend known to the Cailleacha Phiseogach (Chapter 13) is that if the kings are uncovered by mortal hands then they will rise again, and when a twelfth king joins them on the mountain, the world will come to an end. The Cailleacha cannot uncover the bodies themselves, so they must trick others to do it. Knowing the greed of some magi for vis, they manufacture a way in which the characters find out about the resource atop Sliabh Crúibe.''
 
-|]
+|}
 ''Ballynoe''
 ''Named after the nearby settlement of an Baile Núa (“the new settlement”), Ballynoe is a large stone circle in the Mountains of Mourne — more than fifty close-set stones forming a circle nearly 30 paces in diameter, each one six feet high. It has a portalled entrance to the west, and within the circle facing the entrance is a horseshoe of further stones denoting an underground stonelined chamber. There is a Magic aura of 3 here. The circle at Baile Núa is the exact duplicate of another stone circle across the sea at Swinside in Cumbria. The two stone circles have a permanent enchantment similar to Opening the Intangible Tunnel, but of apparently unlimited level. Magi have discovered this, but have not been sure of the origin of this phenomenon or the best way of exploiting it. Original research could lead to a Major Breakthrough (Houses of Hermes: True Lineages, page 26) that allows Hermetic magic to connect two places in a similar manner. Investigators may also gain insight from the aberrant Hermes’ Portal spell and Mercere’s Portal enchantments.''
 
@@ -308,15 +304,15 @@
 ==History==
 
 ''Since its inception in 898, Leth Cuinn has been interested in martial pursuits. However, things took a dramatic turn in 1029 when Dáire Farranta (DAWR-yuh FOR-un-tuh) returned after a seven year absence and challenged the leader of the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Balor na Suile Neimhe==
 
 ''Balor of the Evil Eye is one of the most powerful of the primal fomóir race (see Chapter 10). As a powerful Daimon in the Magic Realm he interacted with the mundane world through the creation of Aspects (Realms of Power: Magic, page 102), although since his defeat by his half-blood grandson Lugh at the Second Battle of Magh Tuireadh he has not interfered in the mundane world, as agreed with the Túatha Dé Danann. Balor’s most common Aspect was an immense monster with just one venomous fiery eye that was always kept''
 ''covered with seven coverings. When just one was removed, plants would wither; with three removed, wood would begin to smoke; with the fifth gone, sparks would fly; and with all seven coverings removed, everything he looked at burst into flames. Living creatures caught in the gaze might be horribly burnt, or else they could be turned to stone or simply fall down dead, as Balor wished. Anyone caught by just the most peripheral glance was in Balor’s power, and he could inflict his eye’s curse at any point in the following year.''
 
-|]
+|}
 ''covenant — who was his parens — to Wizard War. Dáire won this war without a spell being cast (since both opponents were unGifted) using remarkable feats of athleticism and swordplay that were straight out of legend — the clesrada. The remaining Redcaps were exiled, and he repopulated the covenant with his own kin. among the incomers was Úathach, the faerie woman who had trained him in the clesrada. Dáire Farranta turned the Mercere House into an outpost of the Cult of Heroes, and it is still run by his descendents. The Cult of Heroes is a Mercere society seeking to resurrect the heroes of old by training exceptional individuals to be champions, heroes, and maybe demigods (for more information, see Houses of Hermes: True Lineages, page 96). Leth Cuinn trains Redcaps in Heroic Virtues, and teach them the clesrada. In return for various considerations, Leth Cuinn also initiates other Redcaps as well as grogs and companions of magi into the clesrada as well. The sort of things they ask for include longevity rituals for the Tribunal’s Redcaps, someone to cast the Aegis of the Hearth and The Shrouded Glen for three years (Leth Cuinn provides the vis and casting tablets), or enchantments for the Redcaps to use.''
 
 ==Setting and Physical Description==
@@ -339,15 +335,15 @@
 ''During his macgnímurtha Dáire an Chogaidh (DAWR-yuh an KHOG-aj) fought de Courcey’s English as part of the Ulster army, from whence he gets his epithet (“of the wars”). Needless to say, Dáire opposes all things English, and has even been moved to vote at Tribunal despite the traditional neutrality of his house. This has made him a bit of a celebrity, and there are rumors that the primus of House Mercere is preparing a response to his actions. Dáire an Chogaidh spends more time drilling warriors on the training field than he does on the roads of Ireland. This is exactly where his father wants him; the elder Dáire is only too aware of his son’s hot-headed nature and tries to keep him out of trouble.''
 ''Elen Bhodhar inghean Dáire Cú Ua Mearcaire''
 ''Age: 19 (apparent age 19) Personality Traits: Eager +3, Self-Reliant +1, Brave –2''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Úathach of the Glen==
 
 ''Úathach (“spectre,” pronounced OO-whukh) has not aged a day since she came to Ireland with Dáire Farranta. She is a faerie of considerable power, one of the few Tuatha Dé Danann still active in Hibernia in the thirteenth century. She is the granddaughter of Nuadha and Badhbh, two powerful battle gods, and she thrives on the vitality expended by young warriors learning and practicing the skills of warfare.''
 ''She is a severe looking woman with a hatchet nose. Although apparently young, her dark hair is streaked with gray, and it is pulled back into a tight pony tail. Úathach always wears leather armor, and she typically carries a thrusting spear, a staff-sling, and at least nine javelins. The index finger on her right hand is clearly broken and poorly set; Cú Chulainn (see Chapter 11) is said to have broken it by accident on their first meeting.''
 
-|]
+|}
 ''Elen Bhodhar (EL-en WOH-yar) or Elen the Deaf, is the youngest of Dáire Cú’s five children; her mother died giving birth to her. Elen survived, but was born without hearing. She can lip-read perfectly, and has become proficient at expressing herself through mime and a crude sign language. She has just completed her Redcap training, and has begun treading the roads of Ireland.''
 
 ==The Clesrada==
@@ -364,8 +360,8 @@
 ==Using Clesa==
 
 ''A character may use any cles he knows any number of times per day, and there is no cost for using it unless one is specified in its description. Each cles requires an Ability roll to perform successfully. All rolls are stress rolls, and a botch always costs the user a Fatigue level as well as potentially having other consequences. Clesa are supernatural abilities associated with the Faerie realm, and making a feat roll is the equivalent of casting a 15th level spell with a Penetration Total of 0 + Penetration Bonus. Spells that affect magic being cast (including an Aegis of the Hearth) can affect clesa if they are capable of affecting a 15th level spell and can Penetrate the character’s Magic Resistance, if any. Clesa enhance the skill of the character; they do not affect his weapons or opponents directly but act more like Aimed spells. As a result they do not normally need to Penetrate any Magic Resistance of his opponents. A character under the effects of a cles is counted as a magical thing, meaning (for example) his unarmed attacks would be resisted. However, for most clesa the supernatural power lasts for the mere moments it requires to take the action.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Initiation into the Clesrada==
 
@@ -378,7 +374,7 @@
 ''Some resent the fact that Leth Cuinn is the only means by which the clesa can be gained. These Redcaps resolve to quest into Arcadia in search for one of Scáthach’s sons — or perhaps all three — and set up a rival school to''
 ''Leth Cuinn. The characters could be recruited by the rivals if they have been refused initiation by Leth Cuinn, or else they could be allies of the Mercere House and asked to assist with preventing the foundation of the rival school.''
 
-|]
+|}
 ''Some clesa naturally fit together, and a character can perform any number of clesa that he knows in a single round if they employ the same Ability, and have them meld together into a seamless whole that takes a single action. Each feat takes place in order, and the character must roll for the success of each one; a failure breaks the chain of feats at that point. He cannot take any other action in the round, including an Attack. A Redcap could use the Profit of Speed feat to catch up with a running horse 50 paces away, employ the Hero’s Salmon Leap to jump vertically onto its back, and then use the Rope Feat to maintain his balance while the horse continues to gallop. All of this takes a single round. He could not also use the Apple Feat in the same round to prepare for a sling attack, because that uses the Thrown Weapon Ability rather than Athletics. Nor could he use the Wheel Feat in the same round to hurl a shield from horseback, since this feat requires an Attack roll rather than just a feat roll.''
 
 ==Athletics Clesa==
@@ -409,15 +405,15 @@
 ''+3 banisters of a staircase''
 ''Sloped more than 45 degrees from horizontal''
 ''+6 taut rope attached to grapple on castle wall.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Designing Clesa==
 
 ''Listed here are the famous clesa of the Ulster Cycle. There are other clesa, and the troupe is encouraged to invent their own. A cles allows a person to per''
 ''form an amazing act of skill, often just for a brief moment; they always target the character who initiated them, rather than his weapons or opponents.''
 
-|]
+|}
 ''The feat roll must repeated every round that the character is not standing on a stable object bigger than his foot. If the character ever finds himself falling, his superior sense of balance can help him land. He can make the Rope Feat roll against the base Ease Factor of 3; for every two points by which he exceeds the Ease Factor, he ignores one point of damage from the fall. A character who knows this cles and who also has the Perfect Balance Virtue gets the +6 bonus from that Virtue to his feat roll.''
 
 ==Concentration Clesa==
@@ -510,8 +506,8 @@
 ''Qui Sonant’s seven magi each owe one season’s work per year to the covenant, spent managing the covenant’s estates, researching the fallen magi, and in leading the songs. The principle magi of the covenant are described below.''
 ''Cantarus an t-Iarbiteon''
 ''Age: 130 (apparent age 85) Personality Traits: Conservative +3, Disciplined +2, Reclusive +1''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Strange Practices==
 
@@ -525,7 +521,7 @@
 ''The body of a magus brought to Qui Sonant is first fixed as an Arcane Connection to the magus’ spirit as per the standard laboratory action described in ArM5, page 94. Next, it is entombed in a cairn and surrounded by such grave goods as their covenant provides. Each tomb is then closed by an enchanted''
 ''capstone that wards it against the elements, man, and beast. There is a secret trigger that suspends this effect so that the body can be reached if required. Each tomb is also enchanted with effects that keep the body from decaying. Should magi have other requirements, Qui Sonant meets them.''
 
-|]
+|}
 ''Cantarus was born in the covenant and has rarely left its grounds since. He became Master of the Songs — the head of the covenant — 50 years ago and holds the position unchallenged. He realizes that he has little time left before succumbing to death or Twilight, but he has not yet found an heir to whom he can entrust the covenant. He has trained a number of apprentices in his time, yet most have left the responsibility of Qui Sonant behind them. Only Finn remains and while Finn has the desire to lead, he does not have the aptitude. Cantarus would willingly appoint a new Master of the Songs over Finn if he could find a magus willing to commit to the covenant.''
 ''Finn Mac Cantarus an t-Iarbiteon''
 ''Age: 55 (apparent age: 35) Personality Traits: Impatient +3, Arrogant +2, Scheming +1''
@@ -542,8 +538,8 @@
 ==Covenfolk==
 
 ''Qui Sonant has no dedicated warriors as the covenfolk are all good men of Ireland and handy with an axe. All learn to sing, as they are obliged to join the chant, and all are familiar with both Organization Lore: Order of Hermes and Latin. Despite the often harsh weather and their sombre duties, the covenfolk want for little and the magi mark out certain holidays by holding feasts at which members of the covenant are honored and awarded gifts, usually clothes, shoes, tools, and utensils.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Body of a Ghost==
 
@@ -555,7 +551,7 @@
 ''A powerful force suddenly brings silence to the covenant of Qui Sonant Pro Quieto. No natural or magical sound can be made or heard, and with the songs ended, the ground begins to shake. The magi are called upon to find the cause and bring song back to the covenant. The Jour''
 ''ney leads to the Magic realm where a great daimon has been entrapped and his power to govern the natural forces of sound on Earth stripped from him. The magi must defeat the daimon’s captor and restore its power over sound and song before the giant wakes.''
 
-|]
+|}
 
 ==Vigil==
 
@@ -605,5 +601,6 @@
 ==Covenfolk==
 
 ''Vigil’s culture of excess extends to the covenfolk, who are well-dressed, wellfed, and have a tendency to over-familiarity at the covenant’s frequent feasts and celebrations. There is also a class of warriors trained in the clesrada (see earlier). These Two Dozen Men of Mhálanna are well used to magic and they use faerie arms and armor forged in the times of past conflict to protect themselves. They can be a deadly force, and they are fiercely loyal to Vigil, and especially the maga Gráinne. They most often find themselves protecting Mhálanna from a Fachan king and his Fer Caille warriors (Realms of Power: Faerie, page 77).''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

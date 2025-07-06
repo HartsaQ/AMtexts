@@ -134,8 +134,8 @@
 ===Favorable Hour for Spellcasting===
 
 ''The maga can attempt to identify an hour of the day that will be favorable to her and her intentions and gain an Astrological bonus to spells cast during''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Astrological time varies from place to place, as the sun, stars, and heavens shine differently everywhere. Beyond modest limits, neither Daily Horoscopes nor astrological times can be applied consistently. However, the steady increment in time as the day progresses in a single place is a natural part of astrological calculations and is already included in calculations: a Daily Horoscope lasts for one day in the place it is calculated for.''
 ''For the purpose of Hermetic spells, conditions are essentially identical over an area extending approximately 500 paces in all directions from the point of measurement (an area approximately''
 ''100 standard Boundaries, or a Size of Boundary +2 magnitudes). A magus cannot increase the area of measurement, as it is the heavens’ own movements that bring about the limit.''
@@ -144,7 +144,7 @@
 ==Limits on the Use of Astrological Time==
 
 
-|]
+|}
 ''that hour. Only one hour in any day will favor the maga.''
 ''The maga must create a spellcasting Horoscope for herself, which takes one hour. Decide in advance on the Astrological Modifier you desire as a spellcasting bonus, from +1 to +5. To gain this bonus, you must succeed in a roll of''
 
@@ -163,8 +163,6 @@
 ''The maga gains a bonus to her Lab Total for this effect. To calculate the bonus, add the bonus for a Nativity Horoscope (+2) and if she has an Arcane Connection, consult the Arcane Connection Bonus table on ArM5, page 84, and add the multiplier bonus.''
 ''Example: Notara wants to enchant her talisman to help make herself fly. Her talisman counts as an Indefinite Duration AC (bonus +4), and she has previously calculated her own Nativity Horoscope (bonus +2). She applies a bonus of +6 to her Lab Total. The effect is automatically limited to Notara only (at no cost to the Effect level).''
 ''Seasonal Enchantments: It is possible to create a device that is attuned to a particular astrological cycle: either one particular sign, such as Leo, or to a group of signs associated with one of the four elements.''
-
-[|
 ''Option: Calculate a Daily Horoscope. As described in ArM5, page 84, this requires an Intelligence + Astronomy roll vs. an Ease Factor of 9, taking one hour to complete. Having a Daily Horoscope for the target location subtracts 3 from the Ease Factor of Astronomy rolls for duration calculation. The Horoscope is valid for spells cast over the course of that day, but only for the area it was created for (see Limits on the Use of Astrological Time for distance limits imposed by astrological time).''
 ''If the the roll fails, the magus realizes this and may ignore the Horoscope.;If the roll botches, the magus doesn’t realize until he uses the Horoscope in a spell, and that spell botches because of the miscalculation.''
 ''Option: Measure the exact astrological time. Using a spell such as Sight of the Astrological Hour subtracts 3 from the Ease Factor to calculate an Astrological Duration.''
@@ -198,14 +196,12 @@
 
 ===All Additions and Subtractions)===
 
-
-|]
 ''Options: Calculating an Astrological Duration The Time of the Favorable Hour''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Rather than consult genuine astrological tables to determine when a favorable hour would arise, the storyguide may use the following simple process: roll a simple die read as 0-9 and multiply by 10, and add another simple die (a number from 1 to 100), then divide by 4 (round up). Reroll results of 25 (or choose a number to suit). The hours of the day are most easily counted from midnight to midnight. If the hour indicated has already passed, then either the magus has missed the opportunity, or this indicates an hour after the next midnight.''
 
-|]
+|}
 ''Elements form opposed pairs: fire vs. water and air vs. earth. If the maga applies a bonus in one element’s signs, the device receives an equal penalty in the opposing element’s signs.''
 ''The astrological cycle adjustment is the maga’s Artes Liberales (Astronomy) score at the time she opens the device for enchantment (or creates it, for lesser devices or charged items). The whole device has a single astrological cycle, governing all effects in the device, but the particular adjustment is chosen when the maga instills an Effect:''
 ''Penetration Bonus: Add the bonus or penalty to the Penetration score of the Effect. Frequency Bonus: Add (or subtract) the astrological cycle bonus or penalty (round up) to the Effect levels used in the Effect Frequency table, and note the adjusted uses per day. If this takes the frequency levels below 0 (one use per day), the effect cannot be used while the adjustment applies. There is no benefit to increasing the frequency above ten levels (Unlimited uses).''
@@ -311,8 +307,8 @@
 
 ''and then must guide the magic to the correct crafted form: Stress Die + Perception + Finesse vs. an Ease Factor of 18''
 ''If either roll fails, then mechanism is flawed and imprecise; if either roll botch''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''An armillary sphere, or spherical astrolabe, is a model of the celestial sphere, centered on the Earth. Its name come from armilla, a bracelet or circle, which is to say that its form is that of metal circles (graduated to mark signs and degrees) linking the celestial poles, equator, meridians, and parallels, and the circle of the Zodiac (also known as the ecliptic). The armillary sphere was devised by Eratosthenes in antiquity, and is mentioned in the writings of Ptolemy and other great authors on astronomy and astrology. The device indicates the motion of the stars around the Earth, and can be extended to show the planets.''
 ''For the practical-minded magus, the wonder of this device is that it may be adjusted to display any configuration of the heavens, and readings made from the graduated circles are available for astrological calculations. An enchanted armillary sphere can be made that con''
 ''tinually adjusts itself as the heavens shift, yet can be adjusted to indicate the heavens at any time past or present.''
@@ -327,7 +323,7 @@
 ==The Armillary Sphere==
 
 
-|]
+|}
 ''es, then the flaw is subtle and overlooked until used in a non-test situation, when it introduces a botch into an important calculation made with the device.''
 
 ===Enchanting the Armillary Sphere===
@@ -403,8 +399,8 @@
 ===Degree of Mercury===
 
 ''This degree requires the Initiate begin to teach on behalf on the cult, and to train new Initiates in the mystery. It is the degree where the Initiate also travels most, to Cologne, Bethlehem, and Babylon, seeking out astrological secrets and meeting with other leading astrologers, both from the Magoi of the Star and from other traditions. He is taught the Virtue Major Magical Focus, relating to''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Doctrine of Origen==
 
@@ -412,10 +408,7 @@
 ''To admit the truth of horoscopes annihilates free will. According to Origen, the stars and planets are living, rational beings comprised of both matter and spirit. The stars possess free will and glow because they are filled with knowledge from the reflection of the everlasting light of God’s wisdom. The stars are even capable of sin. Origen interpreted a passage in Deuteronomy to mean that the stars have in general been assigned by God to all the nations beneath Heaven. He admits that the stars foretell many things, and puts special faith in comets as omens. Origen holds that the stars are merely signs instituted by God, not causes of the future. Divine foreknowledge does not impose necessity, and the wise individual is able to overcome the power of the stars’ influence on the Earth.''
 ''Despite his theological confusion on the issue of Hell, Origen is still greatly admired by the Church.''
 
-|]
-
-==The Mysteries Revised Edition==
-
+|}
 ''the Initiate’s Potent house (as taught in the Degree of Jupiter), unless he already has a Magical Focus, in which case he may be taught Potent Magic for his birth planet or sign. The robes for this degree are of orange or amber.''
 
 ===Wise One===
@@ -425,6 +418,9 @@
 ===The Hierophants===
 
 ''The greatest astrologers of all, the three Hierophants who lead the Magoi of the Star are said to know many Virtues concerning Astrological magic, and be able to Initiate a large number of astrological Virtues on those who attain this position of cult leadership. The three current Hierophants’ true identities are mysterious, and only when one of them dies or passes into Final Twilight will a new opening become available.''
+
+==Appendix: Astrological Correspondences==
+
 ''The 12 great constellations (the signs of the Zodiac) and the seven planets revolve around the Earth in a complex sequence. (The magical armillary sphere, detailed earlier, can be used to track this sequence, and by the use of cunning mechanisms mimic here below the great engine of the heavens above.) Astrology studies the influence of the signs and the planets, and the complex calculations and charts known as a horoscope describe how''
 ''the heavens influence a person, place, or event.''
 ''As described in ArM5, page 84, a magus can calculate a Daily Horoscope for a person, if he knows the person’s location, by succeeding in an Intelligence + Artes Liberales (Astronomy) roll against an Ease Factor of 9. Creating a Daily Horoscope takes one hour. A magus can create a Nativity Horoscope if he knows the target’s time and place of birth, and succeeds in an''
@@ -433,8 +429,8 @@
 ===Signs of the Zodiac===
 
 ''The signs of the Zodiac fall into several categories, some opposing others. Signs''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Element Humor Gender Cardinal Fixed Mutable===
 
@@ -445,6 +441,8 @@
 
 ==Signs by Category==
 
+
+|}
 
 ===Sign First Decan Second Decan Third Decan===
 
@@ -478,8 +476,6 @@
 
 ==Signs and Decans==
 
-
-|]
 ''are accorded correspondence with the four elements (fire, water, air, earth), four humors (choleric, phlegmatic, sanguine, melancholic — corresponding to the four elements), three temperaments (cardinal, fixed, mutable), and two genders.''
 ''The 12 signs of the Zodiac govern the world below, influencing different aspects of the world. Each sign is also divided into three sub-periods called decans, revealing different aspects of the signs’ influence as the sun passed through each house:''
 
@@ -490,8 +486,8 @@
 ===The Planets===
 
 ''Hermetic magi have developed their own understanding of the subtle astral influences of the stars. Using Planetary Magic it is possible to select an appropriate governing planet for most effects instilled in enchanted devices.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Number Name Province===
 
@@ -520,5 +516,8 @@
 
 ==Spheres of Influence of the Planets==
 
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

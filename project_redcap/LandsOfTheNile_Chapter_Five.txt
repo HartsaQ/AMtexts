@@ -17,8 +17,8 @@
 ''It’s debatable whether the most studious of Coptic monks or the personal alchemists of the sultan are the most skilled in the world. Each side claims the other is superior, citing the thousands of books of magic to which their theoretical rivals have access. Hermetic magi interested in Alchemy may compare the Copts to the Learned Magicians of Europe, who have access to a single, excellent book of Egyptian alchemical formulae.''
 ''Learning Coptic''
 ''Non-Coptic characters wishing to learn spoken Coptic can do so easily: there are many Copts who are happy to teach their language to outsiders. Characters do not even need to travel to Egypt to do this: Copts can be found in many of the trading ports around the Mediterranean, and on pilgrimage in the Holy Land. Some of the monks have also produced grammars to help Arabic speakers to understand their language. Characters wishing to learn how to read hieroglyphs must seek out a skilled, likely ancient, Coptic monk and convince him to take sufficient time to act as a tutor.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Use Whatever You Like==
 
@@ -28,7 +28,7 @@
 
 ''The term “hieroglyphs,” meaning “sacred carvings,” is from Plutarch, is Greek and is, to Egyptians, sacrilegious. Locals call this script a variety of names, such as The Pen of Copts, The Pen of the Temples, The Pen of Talismans, The Pen of South Arabia, The Pen of Priests, and The Pen of Hermes.''
 
-|]
+|}
 
 ==The Treasures of the Ancient Priesthoods==
 
@@ -39,20 +39,20 @@
 
 ''These priests were usually Faerie Rite Wizards, who are described in more detail in chapter 6 of Realms of Power: Faerie. Different temples specialized in various effects, but Evocation (page 122), Grant (page 127), Weal (page 128), Ware (page 128), and Woe (page 130) were all popular, and all priests had the Ceremony Special Ability (page 115).Egyptian society was polytheistic, so books of rites usually contain only closely-related effects. The lector priests for the god of war could not, and''
 ''were not expected to, grant bountiful crops, or make people fall in love. An Egyptian seeking such rites would ask at the temple of an entirely different god. Some gods provided only one single effect, and their book of rites contains only that effect.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Even Ancient Egyptians Thought Monumental Tombs Were Weird==
 
 ''The artefacts described in this section differ from those described in the Tombs Chapter. The Tombs chapter assumes Magic-aligned practitioners, and this chapter describes Faerie-aligned priests served by a caste of Magicaligned artisans. Artefacts designed under either system should be used in a troupe’s saga, as suits their stories. Most Egyptian religion was based on the worship of faeries. The Osirian Hero Cult, although it had faeries flitting about its edges and claiming individual congregations as worshippers, was tied to the Magic realm. The Ancient Egyptians noticed this difference. They thought the Osirian Cult, which created monumental tombs, was unusual, and exclusive. The oldest akh all claim blood kinship to the pre-ascendant Osiris. That is, their cult is for a single family. Later it was broadened to admit some of the wealthiest nobles and merchants. Common people, who did not have monumental tombs, had no expectation of becoming akh. They expected, if they were good, to toil on forever in the Field of Reeds as farmers. Being anything other than a farmer in the afterlife required enormous amounts of money for burial rituals which common people had no hope of earning. Most Egyptian magic was religious, but most Egyptian religion wasn’t about death, and so wasn’t tied to the Osirian Magical Hero Cult. The artefacts of the Osirian cult, because they were put into storage in graves, have survived into the 13th century more often than those of all of the other cults.''
 
-|]
+|}
 ''Reading the Books of Ritual''
 ''A Hermetic magus who reads this type of Egyptian ritual is likely unable to perform it. A character already trained in the correct Faerie Methods can use the text to create a Hermetic equivalent. Rules for this are found in Realms of Power: Faerie (page 121). Characters with books of Ancient Egyptian rites may need to seek the favor of powerful Merinita magi, as those best able to convert the works.''
 ''Most of these spells are designed to be used with the Ceremony Supernatural Ability. If this is the case, the Ceremony must be performed exactly as described. This may require a Communication + Leadership roll against a target of 3 + 1 per required follower. It may also involve lengthy preparations to create ritual purity. Common forms''
 ''of purification include the shaving of all body and head hair, smoke bathing, washing out the mouth with natron salts, drawing figures of the gods on the skin, dressing in new clothes made of the highest quality linen, and abstaining from intercourse for at least a day, and perhaps far longer. The space may also need to be purified with incense, figures of the gods drawn on the ground, or Nile water. Many spells require items which must be previously unused, like clothes, furniture, parchments, quills, and fresh herbal ingredients, which makes recasting failed spells inconvenient. Others require expensive, but reusable items, such as wands of ivory that are scraped across the ground to create protective circles, and elaborate masks, which identify the caster, or target, with a god whose actions in a sacred story are similar to the desired spell effect. Many spells need to be said four times in succession to work. Wisdom From Ignorance (Minor Virtue)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''One school of Sufis found in Egypt is particularly interested in calligraphy, and the aesthetics of the enigma. By this, they mean that pondering texts which have been structured as meaningful, but which the viewer cannot read, can be used as a form of meditation which brings enlightenment. They are able to use books as sources of training provided they are unable to read the language they are written in. The sufis use this ability to gain understanding of spiritual matters, so players should create Ability books normally, and when sufis use this Virtue, switch the Ability learned from the book to Theology, Organisation Lore: Sufis or similarly uplifting subjects. A sufi using this Virtue may occasionally gain experience in materially practical Abilities, but this only occurs in the context of overcoming specific challenges on spiritual journeys. Directly applicable learning like this is considered a miracle by the sufi, and troupes should police this like any other miracle. This group is also interested in Alchemy, but only in materials which alter mood and physical condition, and thus make meditation and channelling the Divine easier. The schools of mysticism in Egypt (called kanqahs) are often set in graveyards, which gives them a Divine aura.''
 
 ==There is Always Another Temple. There is Always Another Treasure==
@@ -67,12 +67,12 @@
 
 ''Egyptian magicians often speculate about the ultimate goals of the monks. They do not, apparently, use magical texts, so why collect them? If they simply seek to keep the world safe from their contents, why not just burn them? The monks keep stockpiles of magical equipment, including terrible weapons. Many monasteries also have Nilometers, which they claim to use for the administering of taxes, but their role in ancient religion makes them suspicious, in the eyes of many. In this saga arc, the Copts are allies of the Black, and use their magical powers and items to fight the servants of the Red. Characters aiding the Black may be given quests by monks, rest within the protection of the Dominion, seek healing, or be given training. The saga concludes with the characters taking the relics of Saint Simon the Shoemaker to the mountain in the heart of the Sahara which is the stronghold of the Red. Saint Simon is famous for his miraculous moving of a mountain. The player characters move the home of the Red to the depths of the sea, decisively swinging the war toward the Black.''
 
-|]
+|}
 ''This is Faerie, not Hermetic, spell casting, so these steps, which a magus drawing from the disinterested Magic realm could ignore, must be followed precisely. Once any preparation is complete, the character must make a Communication + Coptic roll of 3 + (1 per 5 levels of effect). Some spells are written in a complex, symbolic language, which makes the Ease Factor higher. A character must know, for example, that when a spell calls for the heart of a baboon''
 ''it means oil of lilies, that Ethiopian soil is crocodile dung and that the semen of Amun is a type of houseleek. A character who botches this reading may suffer the effects of a misfired spell, or may be persecuted by a faerie, claiming to serve the god slighted by the character’s boorish invocation. The most common reason for Ancient Egyptian spells to fail is that the writer assumes that the reader will perform the rite in the presence of the god. Such rites must''
 ''be performed in a powerful Faerie aura. This is rarely explicitly mentioned in the text, and even when included, it is often an inaccurate warning that the spell will only work in a particular temple, or in the temples of a particular god, at a designated time. Characters who, for example, discover the text of a blessing where water is consecrated in the temple then sprinkled on a crop might deduce that this spell requires a greater Faerie aura than a similar rite which is performed at a temporary altar in the field itself. There are several other reasons for rite failure. The mystical landscape may have''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Heka==
 
@@ -82,7 +82,7 @@
 
 ''The Egyptians were aware that heka took solid form. They thought it was found in rare, expensive and exotic objects. Resin, for example, was though to contain heka that could be used for preservation magic, and gold was thought to be able to contain a great deal of heka when making amulets. Iron was very rare in early Egyptian history, but was good for harming demons (dark faeries from the afterlife) due to its strange heka. Deformed things were also thought to contain heka, which is why many tomb robbers find jars of pickled double-tailed lizards. They throw these away because they do not understand that they are jars of vis.''
 
-|]
+|}
 
 ==Story Seeds: Apparently UnGifted Magicians==
 
@@ -111,12 +111,12 @@
 ''Temporary Amulets''
 ''A temporary amulet is not actually enchanted – rather it is an object on which a spell with the Until Duration has been cast. This Duration, only available to Faerie Magicians, allows an effect to continue indefinitely until a condition is met. In this case, the spell continues Until the amulet has been worn and discarded. Unworn amulets are often found in tombs. Some of the more skilled grave robbers can compare their contents and inscriptions to temporary amulets previously used, and determine their likely effect. Unlike modern items with Until durations, Egyptian talismans do not lose their power when their creator dies: this may be because many are created by faeries on behalf of mortals, or are mocked up by faeries slightly before their modern discoverers arrive. Most temporary amulets are small, linen bags filled with magical ingredients, then painted with mystical words. At their simplest, the spells enhanced the medicinal properties of the objects within the bags, but temporary amulets offering protection from spirits, healthy childbirth and fortune in war are all regularly retrieved. The contents of the bags are sometimes understandable in Hermetic terms, due to sympathetic magic. More often the contents are reflections of Egyptian beliefs, given power by faeries. Many temporary talismans contain un''
 ''clean things, in the belief that this will scare spirits away. Pieces of preserved dog, various types of dung, and menstrual blood are used to keep away faeries with Ward flaws. The demons of the underworld live backward to normal people, and have mouths in their anuses and anuses in their faces. Honey, which is sweet to the living, is bitter to them, and can be used to scare them away. They are also repelled by garlic, the name of which sounds similar to the word “harm” in ancient Coptic, and the similarity of individual cloves to monstrous teeth threatens them.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Statues Just Hold Faeries, They Are Not Enchanted''
 ''Merinitia magi argue that the statue is, of itself, not magical. Consider a typical magical statue of this type: a cippus of Horus. When water is poured on this statue, and collected as it trickles off, it becomes a powerful medicine. From the perspective of a Hermetic Faerie Magus, the statue of Horus isn’t really a magic item: it’s a clever way of making an open offer to nearby faeries. The bargain works like this: if the faerie transforms the water into a powerful medicine (using a power with an Until duration) then that faerie may feed on the fear, hope and worship of the family whose member desperately needs healing. If the faerie has expended so much Might it can’t make the deal, then some other faerie can and so for that family, the new faerie acts as the god. If no faerie wants the deal, then the person just gets water. When he dies, people say he was shunned by Horus for some secret and dreadful sin, and faith in the water is maintained by the survivors who have been cured. Although the priests creating the statues often gave them cosmetic powers using Faerie Rites, a statues might be completely mundane. The humans coming to pour water over it have a narrative in their minds which the faeries can read and respond to.If the narrative dies out, a faerie which wanted to rekindle it might use its powers to send dreams, or make the statue talk.''
 
-|]
+|}
 ''Seals''
 ''Seals are a form of temporary magic item. They either maintain a spell, by being the focus of an Until Duration (that, like Egyptian talismans, does not end at the deal of the caster), or they act as wards. Egyptian seals of this type are remarkably similar to Watching Wards. A spell is contained inside, and maintained by, a ritual cast upon the seal. When a precondition named at the casting of the ritual is met, the spell is cast. In most cases, this is the breaking of the seal, but sometimes touching, moving, or illuminating a seal is sufficient to trigger its effect. Touch played an important part in sealing. Some Egyptian wizards carried ivory staves with hands on the ends, to allow them to touch things more conveniently. In some cults, these devices were talismans, in others a new way of extending the Touch range, and in yet others, a symbolic hand for the Faerie god, so that it did not have to leave its temple to touch things and manifest its powers.''
 ''Temporary Potions''
@@ -127,8 +127,8 @@
 ''Classical authors mention that the Egyptians had a strange art, not recorded elsewhere, of bringing the statues in their temples to life, and of using the statues to create transitory magic items. To secular magi, this entails convincing a faerie to enter into a statue and stay there, performing various tasks. In exchange it is fed vitality by the effect it has on the lives of the people it affects, and through their worship. Technically, the statues are not magical at all: they are just matter the faerie spirit has sheathed itself in.''
 ''Statue Consecration Mystery''
 ''The lectors performing this task often had no theoretical framework for their actions. Those in larger temples often followed a detailed series of written instructions. Those in smaller sects were guided by a highly cognizant faerie, repeating steps taken by priests in the larger temples. The method of consecration is currently lost to humans, but could be found if a temple liTongue Magic''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Egyptian spellcasters thought that magic radiated from the spoken word, and therefore was, for a time, powerfully concentrated in the tongue. They developed odd little techniques which might aid magi, if incorporated into Hermetic theory. These tricks are described in rare texts, which a character must journey to find.''
 ''The Drawing of Maat''
 ''Some priesthoods, aware of how touchy their gods were, found a way to protect themselves. It involves drawing a skilled portrait of the Goddess of Truth on the tongue. This prevents the character from lying, but it also prevents the character saying false words. A faerie god weaker than Maat, who was considered to embody one of the foundational principles of the universe, was required to play along, and take no offence, if the magician mispronounced words. A character able to discover how the Mystery of Maat was performed can create a little possessing faerie that sits in the mind of the magus while he casts spells. The faerie checks his words for mispronun''
@@ -140,21 +140,21 @@
 
 ''There are two famous examples of this power, known even to the storytellers in the streets. A magician-prince once made a miniature boat and crew out of wax, then breathed life into them, and sailed up the Nile to fight an enemy. A different magician, whose wife was unfaithful, left a wax crocodile with his steward. When the steward saw the wife and her lover meeting by the lake, he threw the crocodile into the water, and it dragged the lover away. When questioned by the pharaoh, the magician had the lover dragged back from the afterlife by his crocodile, then turned the crocodile back into wax. When the pharaoh had questioned the lover and was certain of his guilt, he bade the magician turn the figure into a crocodile once again, and it dragged the lover to the Egyptian version of hell a second time.''
 
-|]
+|}
 ''brary is uncovered intact. Some faeries may, alternatively, recall it. Statues of gods made in this way may attract the attention of demons, who seek to force out and replace the faerie, or the wrath of the Divine, which prohibits the worship of false gods. Some few chief lectors, beloved of the gods and therefore privy to their secret need for humans, created new consecration rituals. Each ritual creates a narrative, and if the priest convincingly performs it, so that a faerie may feed on the emotions of the congregation, the new statue is functional. This requires a Communication + Folk Ken roll against a target of 18. The texts that describe the consecration of new statues are''
 ''actually choreographies for rituals which aid the character making the Communication roll. Performing the ritual in a temple with a Faerie aura, or while miraculous things are occurring due to faerie rites read by other priests, also aids the roll.''
 ''Intermediary Statues''
 ''Some of these priests also consecrated temple statues for themselves. The ghost of the priest is bound to, and may animate, the statue after death. In exchange for offerings from supplicants, it agrees to take prayers to the gods in their homes. Other servants, like guards and spies, might have similarly been honoured with statues to anchor their ghosts while in this world.''
 ''Where Did All the Magical Statues Go?''
 ''Two great events destroyed many of the active statues, leaving only those locked in tombs and lost monuments intact. The first of these was the Roman invasion in 30 BC. The Romans knew they could banish these gods merely by smashing their statues, and so they destroyed as many as they could. Player characters menaced by a faerie god can similarly seek out and deface its image. The second occurred in 2 AD, when Christ and his family fled to Egypt to avoid the purge of Herod. Some writings say that when he entered the country, there was a great shaking of the earth, and all of the statues fell down and were destroyed. The veracity of these accounts is questionable, as some statues, like the Father of Dread, clearly survived. It may be that only those statues currently inhabited by faerie gods were destroyed. Some of the statues may simply have been used up. Making statues move causes wear and defaces them, as they do not heal like living things. There was also a medi''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Playing Powerful Faeries Against One Another==
 
 ''One way to force a faerie into performing a service, often used by these magicians, is to offer an alternative bargain to a second faerie. The best described form of this is “If you do not do what I say, I will turn the world upside down and drag the afterlife into the world of the living.” When this has actually occurred, an area is filled with cthonic faeries who kill humans, or drag them off to be tortured in Faerie. What the magician thinks he is doing is saying to a faerie god “Do what I want, or I’ll let this other god do it, and pay him back by letting his creatures eat your followers.” The presence of two powerful gods creates a weakness in the world, which touches Duat and allows easy Spiriting Away. The magician then tips the scales in favor either of the initial god, or of the cthonic beings, by influencing nearby people. Hermetic magi, who doubt faeries have consistent roles, suggest that in this case, the magician is creating a very powerful narrative. They believe, however that the faerie god grants or declines the agreement based on the unspoken, or perhaps even unconsidered, desires of the magician. The consuming, cthonic faeries may be the initial god and his court, merely shifted into the roles which the magician has, himself, given them.''
 
-|]
+|}
 ''cal tradition that could pass injuries from a person to a holy statue. Once the statue was too damaged to continue to house the god, the presence was moved to a newer statue. After the kingdom fell and the methods of making new statues were lost, many of the old statues were destroyed by healers. Ruined statues which embodied faeries often contain vis.''
 
 ==Temporary Objects From Models==
@@ -164,8 +164,8 @@
 ==Threatening the Gods==
 
 ''The lectors usually behaved like faerie enchanters in 1220: they attempted to please, flatter and convince the faeries they were attempting to control. There was, however, an alternative version of the Enchantment Faerie Rite Method practiced by lectors on gods they did not serve, and by unscrupulous magicians outside the temples. The spell-caster threatened to destroy not only the faerie, but the entire world, unless given what was demanded. Most magicians who threatened the gods had a faerie ally, and a gateway to that creature’s place in Arcadia, so that they could avoid reprisal if their spells failed spectacularly. Egyptian stories cite rare examples where a magician of this sort went through with his threats. The Sun, for example, is said''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Unusual Amulets==
 
@@ -185,7 +185,7 @@
 ''The Treasures of Ancient Local Priests''
 ''Troupes with earlier supplements might design these remnants in several ways. The simplest have Virtues like Faerie Friend. Some of these priests of local gods could be designed as Faerie Doctors (Realms of Power: Faerie, page 118). If designed as Faerie wizards, they specialize in Weal Rites (Realms of Power: Faerie, page 129). If they are designed as Faerie Bargainers, they specialize in Bonding (Realms of Power: Faerie, page 132). The grave goods of ancient Murabits can serve as goals for Mystery Quests. The ghosts of dead local priests can act as mystagogues, often fading away once they have prevented the extinction of their priesthood.''
 
-|]
+|}
 ''to have stood still for three days, stuck like a boat on a sandbank, so that none could sleep and the crops withered. Such miracles are beyond the scope of any save the Divine, so they cannot have occurred.Either faerie gods pretended they could occur, because the fear of the populace is so delicious, or they conspired with the magician to cause people to either experience the events through glamor, or to remember that they occurred.''
 ''The Writings of Those Who Threatened the Gods''
 ''The writings that can be recovered from these magicians come in three types. The first are detailed scripts, like those which have been left by by lectors, but which Enchant rather than Evoke. Groups not using Realms of Power: Faerie should use the rules in the earlier insert. The troupe should model a spell which gives the final effect, not the control of the faerie providing that effect. The second type of writings are merely detailed scripts for the threat, to attract the faerie’s attention. These grant a bonus to the casting total of a particular Rite. The final variety are texts which Initiate characters in Mysteries. These provide Virtues which improve their capacity to enchant faeries. These may include Special Circumstances, Puissant Enchantment or Magical Focus.''
@@ -204,14 +204,14 @@
 ''Troupes not using Hedge Magic: Revised Edition should just design amulets as Hermetic items.''
 ''Color''
 ''The color of amulets is significant in Egyptian magic. The color of magic is black, but green is also widely used, presumably because it attracts faeries. The color blue is used for invoking gods, due to its heavenly associations. Yellow, orange, and some shades of red are all the same color to an Egyptian magician, and they are excellent for fire magic. Red is used for evil magic: the names of Apep and Seth are always written in red. Spells to conjure the servants of Seth, or to ask for favors from the god of chaos, sterility and foreigners, are always written in red. Amulets of red stone are used to control and ward against these creatures, Red is also used for curses, as it is the color of destruction.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Faeries in Boxes==
 
 ''The priests of Egypt, who drew their power from the Faerie Realm, also used to trap spirits in boxes. The faeries involved in this process are not still in their containers. Egyptian cosmology stated that the trapped beings, generally Apep or his followers, found their way out of the boxes. Clearly this was the case; otherwise the celestial drama of solar rebirth would cease. Also, since the peasants who dig up these boxes are now Muslims, faeries who are nearby when the boxes are found prefer to take the forms of trapped djinn or efreets. Characters who have learned the stories of Ancient Egypt, however, may tempt a faerie back into the role of a servant of Apep. See the animal-headed demons in the Tombs chapter for ideas, or just use the statistics of any dragon in a previous supplement.''
 
-|]
+|}
 ''Shape''
 ''Many amulets were made in one of a limited variety of shapes. The most popular is a representation, in precious metal, of the linen bags used to make temporary talismans. Many other charms portray a thing from which the wearer borrows a Virtue or other quality while the item is worn. Most charms have the symbol of the Wedjat eye upon them. Thoth, the Lord of Amulets, is often evoked in inscriptions on the sides of amulets.''
 
@@ -233,5 +233,6 @@
 ==Those Who Have Read the Book of Thoth==
 
 ''All authorities agree that the most powerful magicians described in Ancient Egyptian folklore are the handful who have read the Book of Thoth. This magical text contains all of the spells of the first great magician. All characters who manage to find the Book may read it, and afterward have the ability to effortlessly cast the equivalent of almost any Hermetic spell. Within one day, however, they either die or fade into Twilight. There is no way for a character who has read the Book to remain in the world, and after the character’s death or dissolution, the Book is hidden again by mystical forces that reach into the world from the depths of the Magical Realm.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

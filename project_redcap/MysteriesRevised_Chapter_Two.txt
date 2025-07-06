@@ -37,8 +37,8 @@
 ''Perhaps the most common way to gain entrance to a Mystery Cult, is by invitation. And that is usually the result of the magus’s reputation: If a maga is''
 ''particularly brilliant in some area, owns a powerful or ancient enchanted device of interest, or has shown noteworthy aptitude and interest in the field with which a Mystery concerns itself, that cult may decide to approach her.''
 ''How, then, do Mystery Cults approach prospective recruits? Again, nothing is said outright. It is often a matter of implication, circumlocution, and guarded phrases. Odd questions are asked, and the words of the would-be Initiate are noted. Powerful members of the Mystery may set up tests to see if the candidate is suitable. These are not mundane tests, like exams, nor tactical trials, where magical creatures must be bested. Rather, they take the form of odd occurrences, moral challenges, and situations that test one’s ability to hold one’s tongue. Such tests make excellent stories, and those already Initiated may from time to time be called upon to help devise and prepare them for those who may be under consideration.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Alone in a dark and desolate place just after sundown, Rhiannon was terribly apprehensive. The first requirement of the rite was very simple: She was to arrive naked. Not physically naked — although she imagined other cults also required that. Rather, she was to wear no enchanted devices or talismans, to arrive without spells protecting her, to forgo even the benefit of her Parma Magica, which she had cast every nightfall since her Gauntlet many years ago. Feeling more vulnerable than mere physical nakedness could explain, completely unprotected,  awaiting the Mystagogue, she had been warned not to use her magic in any way until sunrise. The Quest she had endured as an Ordeal to bring her to this moment seemed a small price compared to the fear she felt now, as she waited, essentially helpless, in a cruel test of endurance. Though strange noises, visions, and magic assail her, she knew she must remain resolute — hobgoblins and foul fiends ignored, she must await the Mystagogue whatever happened.''
 ''A noise in the trees! Could it be some horror, stealthily approaching? Or''
 ''was it a hidden Initiate watching over her, guarding her against the denizens of the wood? She shuddered as she thought of the tale of Hedvig of the Rhine, who turned up on the wrong night for her induction — or had the Mystagogue forgotten her, or the cult betrayed her? Accounts varied, but all of the legends agreed that she was set upon and consumed by werewolves as she waited, a classic piece of Order folklore about those foolish enough to submit to induction into a Mystery Cult.''
@@ -48,7 +48,7 @@
 ==Rhiannon’s Rite==
 
 
-|]
+|}
 ''Once a candidate has been found worthy, a formal offer is made. The candidate may still not know the name of the cult, and the one who makes the offer may do so while in disguise or using magic, for example a talking rabbit or words appearing in gold upon a wall. This protects the identity of the one offering. Other formal offers may be more open — or appear to be. In any case, if the candidate accepts the offer he becomes a probationer, one preparing for Initiation in the full secrets of the Mystery Cult.''
 ''The candidate is instructed to proceed to some ritual site, telling no one of his plans. This may be a place sacred to the cult, or simply a lonely and frightening location meant to test the probationer’s resolve. It may be far away, or within the magus’s covenant. The journey may require symbolic and magical conduct significant to the cult. Whatever form the journey and destination, once the probationer arrives, he meets the one who will induct him into the cult, referred to as a Mystagogue. The journey to meet the Mystagogue may later count as a Quest if it required a story, and thus give a later bonus to the first Initiation.''
 ''The actual tone of the ritual experience varies markedly. Most reflect a symbolic transition from darkness to light,''
@@ -66,8 +66,6 @@
 ''The nature of the Initiation process makes the changes a true part of the magus, affecting the magus’s essential nature. Thus magic cannot undo Initiation effects. Even if a maga subsequently leaves a Mystery Cult, she does not lose the Virtues and Flaws she accrued.''
 ''Initiates often develop new Personality Traits that mark the effects of the Initiation on the maga and reflect her new perspective on the world. Typically such a trait begins at +1.''
 ''To undergo Initiation requires more, however, than a record of service to the cult and a requisite level of the relevant (Mystery Cult) Lore. It also requires that the candidate fulfill the initiatory requirements peculiar to that cult’s Initiation in the Mystery Virtue, by following a detailed set of instruction and rituals and undergoing peculiar magical rites. These rituals and necessary obligations are called Quests, Sacrifices, and Ordeals, and they are explained in the Initiation Script.''
-
-[|
 ''(Mystery Cult) Lore is the (Organization) Lore of a particular cult. It provides knowledge of the legends, history, structure, operation, and goals of the Mystery Cult in question. It includes knowledge of the magics, rites, and secret passwords and symbolism of the cult, how to covertly signal membership, and how to assess another magus’s membership or non-membership in the cult. Two magi with this Ability for the same Mystery Cult may well be able to hold a seemingly innocuous conversation without outsiders realizing that a second, secret, conversation is hidden within the innocent phrases. In order to prevent outsiders from learning secrets of the Mystery, many Mystery Cults’ specialty books require a score in this Ability for a magus to decode their symbolism. (Mystery Cult) Lore also covers the ceremonies of the cult, frequently enacted when the cult members gather formally. It is a key knowledge for a Mystagogue’s performance of the Initiation rites, to guide the Initiate through Ordeals, ceremonies, and meditations to gain new Virtues.''
 ''Knowledge of this Ability is passed from Mystagogue to Initiate, from mystae to mystae, in a chain of living secrets. Some cults also write down their secret''
 ''lore, as this codifies the Mystery and lets others share the same view of the cult. Others prefer the secrecy of an oral tradition. Small cults may fade away from lack of members, especially if they are persecuted, but if they have committed some of their lore to writing, the cults may be restarted by those who discover and understand the texts. Some cults risk the loss of secrecy for this very reason: so that their secrets and magical rites may not be lost forever. Some magi search for lost texts, containing secret lore of the ancients, hoping to re-enact the rites and rituals that led them to power.''
@@ -76,6 +74,8 @@
 
 ==Revised Ability: (Mystery Cult) Lore==
 
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Some Mystery Cults are very hierarchically defined, while others are quite informal and irregular in structure, but there is a general pattern of (Mystery Cult) Lore requirements. A level or rank of Initiation into a Mystery Cult is called a degree, and the number of degrees a cult has — or whether there is a formal degree structure at all — varies from cult to cult.''
 ''The first Initiation requires a single level of (Mystery Cult) Lore, which explains the significance of what is to be learned and how to participate in the rites of Initiation. Further Initiations are unlikely to be offered to characters with''
 ''a score below 3, but this is sufficient for most members of a cult.''
@@ -85,7 +85,7 @@
 ==(Mystery Cult) Lore and Degrees of Initiation==
 
 
-|]
+|}
 ''The Mysteries Revised Edition Quests, Ordeals, and Sacrifices''
 ''Power has its price is another of the central maxims of all Mysteries. That price is paid in three distinct ways: through the Initiation Ordeal, the Initiation Quest, and the Initiation Sacrifice.''
 ''An Initiation Ordeal is a terrible process such as being ritually branded or scarred, made to walk through a raging bonfire without magic, or being pinned to a tree by a spear for nine days. Such rites permanently and magically scar the Initiate; the mundane wounds slowly heal, but the body or mind is forever marked. This is represented by a new Flaw, dictated by the nature of the Initiation Ordeal. These are generally Minor Flaws, although Major Flaws are sometimes inflicted. Flaws that arise from Ordeals cannot be lost in play or overcome by Hermetic magic. Some cults doubtless have their own unique Flaws, which mark those who have undergone their peculiar rites, but storyguides should feel free to use any Flaws they feel are appropriate in devising Initiation Scripts.''
@@ -102,8 +102,8 @@
 ==Time and Initiation==
 
 ''In addition to any time taken up by the Initiation Sacrifices and Quests, the Initiation (including associated Ordeals) itself requires an entire season. The time may be spent in preparations, such as meditation and fasting, before the Initiation Ceremony (appropriate for Virtues lacking an associated Ability), or in time spent studying with a tutor. When a magus gains a Virtue through Initiation, the Initiation and the required process of reflection, contemplation, preparation, etc. (and in the case of Abilities, studying with a teacher) count as the study for that season — no other activities can take place. The season spent being taught''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Distractions and the Initiate==
 
@@ -111,7 +111,7 @@
 ''In addition, for each month lost to distractions, reduce the Initiation Total by one-third of its original amount (rounding fractions up); this may make the Initiation fail so that no Virtue is gained (although Ordeal Flaws are still acquired), and the Initiation must be repeated.''
 ''If the Initiate is distracted from reflection upon a successful Quest, this is less of a disaster: she can simply take more time to meditate and consider.''
 
-|]
+|}
 ''(Mystery Cult) Lore on first joining a cult as a probationer does not count as an Ordeal.''
 ''A probationer needs a single level of (Mystery Cult) Lore, so as to understand the significance of what he is to perform, and the rites that will be needed. He may be taught this whenever the cult approves him, but before the first Initiation in any case. He may be subject to an Ordeal first, or simply swear an oath of secrecy. The cult may impose any other requirements it sees fit. Second and subsequent Initiations typically require a score of at least 3 in (Mystery Cult) Lore.''
 ''Mystery Cults are often organized into degrees of Initiation, which correspond to ranks within the secret society — each degree teaches a distinct Mystery Virtue. Some cults offer a choice of path, or may even be so informal that there is a free choice made by the Mystagogue as to which Virtue is Initiated next.''
@@ -144,15 +144,15 @@
 ===Cult) Lore + Script Bonus===
 
 ''There is no die roll; if the total is higher than the required target level the Initiation succeeds — all that is required is for the Mystagogue to be properly prepared, and skilled enough to succeed. Initiation Scripts and their bonuses are described in this chapter, Initiation Scripts. The Target Level depends on the kind of Virtue to be Initiated, Major or Minor:''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Time and the Mystagogue==
 
 ''The Mystagogue who performs the Initiation need not spend a significant amount of time, unless he teaches a Supernatural Ability through Initiation. However all Initiates require some supervision and testing, which generally amounts to a seven-day distraction for the Mystagogue.''
 ''If the Mystagogue’s time is required, this is noted in the description of the Initiation.''
 
-|]
+|}
 
 ===To Initiate a Minor Virtue Known By the Mystagogue, the Target Level Is 15===
 
@@ -215,8 +215,8 @@
 ''•''
 ''+3: The Mystagogue sacrifices time, such as teaching the Initiate a Supernatural Ability. (Any price the''
 ''• Mystagogue requires for her time is separate from the Initiation itself.)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Mystagogue needs a Presence + (Mystery Cult) Lore of 9, and must have the Virtue being Initiated (the Target Level is 21). The Initiation Script provides a bonus of +10 (Mystagogue’s time, Ordeal, “special place” and sympathy bonus).''
 ''The Mystagogue must spend a whole season teaching the Initiate after the Initiation, which takes place on Easter Saturday, in an ancient crypt in a regio beneath a cathedral, only accessible on this one day. The Initiate voluntarily undergoes a Sacrifice of Power (Ordeal: Deficient Form).''
 ''The “special place” of this ritual is particularly difficult to enter, as the cathedral is very busy and full of worshipers and clergy at this time, and magic is hard to use in a cathedral. This''
@@ -240,7 +240,7 @@
 ==To Gain A Minor Virtue By Questing==
 
 
-|]
+|}
 ''+0 to +3 (but can range from –5 to +5): Sympathetic bonus for appropriateness of the rite to the Virtue being Initiated. Sympathetic bonuses should be agreed upon with the storyguide or troupe. If experimenting (see Experimental Scripts, below), the bonus is determined at the end of experimentation, once all flaws and benefits are known. Experimental Scripts may be flawed, and include some Ordeals with no bonus.''
 ''A bonus is granted only if the component genuinely costs the character something. If, for instance, he lives very close to the “special place” rather than having to travel far to reach it, then the travel takes no effort and is invalid. Worse still, if''
 ''•''
@@ -254,8 +254,6 @@
 ''An Initiation Script requires that the Mystagogue have a minimum Presence + (Mystery Cult) Lore, as specified in the Script. Such a Script can be applied to a nonplayer character by simply noting any time costs (counting a Quest as a season) and any Ordeals imposed.''
 ''Given the high totals needed, the Scripts for Major Virtues commonly fall short of providing the Initiation on their own. However, note that previous Ordeals provide a bonus to the Initiation Total, and this usually provides the extra needed to succeed.''
 ''Note that the process of Initiation relies upon the Mystagogue’s Presence + (Mystery Cult) Lore, not the Initiate’s.''
-
-[|
 ''Darius filius Xerxes, follower of Flambeau, is a Hoplite from the covenant of Semita Errabunda. He has been introduced by a fellow Hoplite, Pepino, to the Legion of Mithras, and has already been accepted as a member at a robed conclave, after a night alone in an underground temple, where he faced various magical tests and distractions, but bravely endured. His moral character is outstanding, and he has long been a devoted servant of the Order, as his Personality Traits and Reputation clearly show.''
 ''Following this test, he was formally admitted to the Legion and a great feast was held, with 25 other Legionnaires attending, wearing colorful robes symbolic of their rank and ornate masks. Immediately after the feast ended he was introduced to his new teacher, who would instruct him in the basic secrets of the cult. It happened to be his friend Pepino, and the two of them retired to Pepino’s sanctum, where they spent the rest of the season together, as Pepino taught Darius the secret rites and philosophies of Mithras.''
 ''The storyguide has invented some secrets and ideals that are held by the cult; she now explains them, and a brief overview of the nature and purpose of the cult to Darius’ player. She looks''
@@ -268,8 +266,6 @@
 
 ==Example: Darius Undergoes Initiation==
 
-
-|]
 ''However it is the Initiate’s Quests, Sacrifices, and Ordeals that lower the Target Level. As there is no die roll, either the candidate has fulfilled the obligations required to meet the total and the Initiation succeeds, or it will not be attempted; the Mystagogue will not waste a season.''
 
 ===Modifying the Initiation Script===
@@ -287,8 +283,6 @@
 ''The Ease Factor is 12 to make a change to a component, such as varying the place, the time, or the subject of a Quest. (Varying a Unique Quest should replace it with another Unique Quest.) It is not possible to change which Virtue the Script Initiates, or to modify a Script to Initiate a Minor Virtue into Initiating the Major Virtue.''
 ''The Ease Factor is 15 to remove a component from the Script, reducing the Script bonus.''
 ''The Mystagogue may only attempt one of the above changes in a given Initiation. If the attempt fails, the new Initiation Script is nonfunctional (and the Mystagogue knows this without attempting the Initiation), but the original Script works as normal. If the attempt is successful, the modified Script can be used to generate the Initiation Total.''
-
-[|
 ''ordinary terms in return, at this time at least.''
 ''The Minor Ordeal is that Darius must take the Flaw Dutybound: Serve the Order of Hermes — this is little cost to a magus who has devoted his life to that cause. This and the Sacrifice of his long spear talisman will occur during the actual ceremony of Initiation. Neither will require any time beyond the season he must spend on the Initiation itself. This means that he must fulfill one Quest, and, as the sympathetic appropriateness bonus of +1 suggests, it is somehow related to the gaining of SelfConfidence, the Virtue to be Initiated. The Quest requires Darius to identify his nemesis, that enemy who is most contrary to what Darius personally stands for, and his goals and aspirations, and who has personally thwarted or deceived Darius at least three times, and defeat that nemesis. Darius is already committed to defeating a renounced magus, from whom he narrowly escaped (as detailed in his character history).''
 ''After several seasons of lab work, and serving his covenant, Darius finally is ready to embark on his Quest. He decides to take along a fellow maga from the covenant , and several grogs and companions, but Darius must be the star of the story for it to count as his Quest; the others understand that this is a personal score.''
@@ -297,8 +291,6 @@
 ''Darius now needs to learn more about his cult and achieve an Ability score of Legion of Mithras 3 before he can be Initiated into the second degree. After several years’ more dedicated duty and heroic adventure, he manages to learn the basics of the Ability Teaching, so that in the future he can instruct new Initiates. During that time, the cult also asked him to carry a message, which required a story, and Darius made a copy of some useful laboratory texts in his possession to give to the Legion, for which they were grateful. Most importantly, his studies of a tractatus he was lent and''
 ''two seasons’ more teaching from Pepino (who received vis and a lesser enchanted device in return for his services) gave Darius a score of Legion of Mithras Lore 3. He is ready to undertake further Initiations, and the cult invites him to prepare for his second degree, Bride of Mithras.''
 ''Sebastiano can use the normal Script this time, as Darius does not possess the Virtue Clear Thinker already. The Script calls for a Quest, to investigate a possible threat to the Order, and to show clear signs of good judgment +3, and there is a sympathetic appropriateness bonus of +1. This gives Sebastiano an Initiation Total of 14; less than the Target Level of 15 required for Initiation into a known Minor Virtue, but the Target Level is reduced to 12 as this is the first Initiation after the Ordeal of taking the Flaw Dutybound (it’s also the second Initiation after the Ordeal he underwent upon first entering the cult, but that would only reduce the Target Level to 13, so that Ordeal is ignored). Providing Darius completes the Quest set him, he is successfully Initiated into the Legion’s second degree.''
-
-|]
 ''If a single change is not enough to make this Script work, then either a different Script is needed, or the Mystagogue must study more (Mystery Cult) Lore, or experiment.''
 
 ===Experimental Scripts===
@@ -336,15 +328,15 @@
 
 ''Ars Magica players being creative and imaginative sorts, the idea of the characters creating their own Mystery Cult, perhaps tied to a secret of their covenant, is bound to arise. Perhaps the magi have established themselves in the site of an ancient lost covenant, and discovered some old books that reveal much of the odd magics that were practiced there; or perhaps they have discovered a hedge magic tradition that, following much work, and maybe a Hermetic Breakthrough, seems adaptable to Hermetic theory. They now wish to establish their own Mystery Cult, based upon their researches, and Initiate others into appropriate Virtues and Flaws.''
 ''The first steps are for the storyguide to create a new (Mystery Cult) Lore for the new cult, and to assign some experi''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example: Darius Undergoes Initiation, Revisited==
 
 ''In Darius’s first Initiation, discussed in the previous example, the Initiation Total was 22, and the modified Target Level was 15. The Initiation Script could have been less arduous, poviding a bonus of up to 7 less and still have succeeded. If Sebastiano had felt that the sacrifice of the talisman was unnecessary and unlikely to be mystically useful in granting Darius improved confidence, he could have decided to try modify the Script by dropping the requirement Darius sacrifice his talisman. Sebastino has an Intelligence of +3 and Legion of Mithras Lore 7. He would, therefore, have a total of 10 plus a stress die to try to beat an Ease Factor of 15 to drop an element from the Script. If he succeeded, the Script bonus would be +7, and he could record it for use in future rites.''
 ''If Darius had already possessed the Flaw Dutybound: Serve the Order of Hermes before joining the Legion of Mithras, Sebastiano could have tried substituting Higher Purpose in the Initiation Script, rolling against an Ease Factor of 12.''
 
-|]
+|}
 ''ence to the characters based on their work. If the new explorers of the old ruined covenant of Natura Antiqua in the Fens of the Stonehenge Tribunal have found secrets that seem appropriate, then the Ability of Natura Antiqua Cult Lore 0 may be conferred upon them.''
 ''Further investigations and seasons of study, as they read moldy ancient books, learn the mystical secrets, and set about devising appropriate rites and magical philosophies to pursue will grant increases in this new Organization Lore, and eventually one of the magi will be ready to experiment and create the cult’s first Initiation Script, using the rules for Experimental Scripts and Self-Initiation above. Within a few decades, the Order of Hermes will possess a new Mystery Cult.''
 ''Creating a new Mystery Cult should be arduous, intriguing, and the basis for many sessions of exciting play, not least when curious Quaesitors learn of the strange goings on at the covenant. The storyguide can base many stories on the adventures of the magi as they experiment, research, and learn Mystery Virtues from both the curious common magics and the established Mystery Virtues, or any existing Virtue that is deemed appropriate to this new mystical path.''
@@ -356,8 +348,6 @@
 ''Mystery Cult, membership in the parens’s cult is represented by a required Story Flaw Cabal Legacy, representing the fact that others suspect the master (and hence the apprentice) of participating in hidden and untoward activities, and therefore do not fully trust them.''
 ''Once past Gauntlet and character generation, the purchase of Virtues and Flaws by character points ends — for''
 ''most magi their powers grow by study and practice, and they do not normally acquire additional Virtues. Initiation into Mysteries is almost always by story and roleplaying, but (again with troupe permission, or to create an experienced non-player magus), a magus who is being advanced some years beyond apprenticeship may use some of those seasons for Initiations. As this rules out interesting''
-
-[|
 ''Lucius of Flambeau has created a new cult, the Seventh Wave, a group dedicated to rediscovering the lost magics of a ruined covenant where he dwells. The first Initiation of the new cult is designed to teach the Virtue Affinity with Art (Aquam). Lucius acts as Mystagogue, and desires but lacks the intended Virtue, so his Target Level is 18. Lacking an Initiation Script, he sets out to devise a new Script that can be used in future rituals of his cult.''
 ''Lucius has studied an ancient book on the magics practiced by his predecessors, and has also practiced on his own, devising new chants and rites that he has repeated with his circle of would-be Initiates, and has reached Seventh Wave Lore 9. He is charismatic for a magus, with Presence +2, Intelligence +3.''
 ''He performs what he hopes will be a Quest (discovering a lost magical wand in ancient ruins guarded by ghosts, and presenting it to the cult), and travels to the bottom of the deepest river in the Fens to commune with the spirits on the spring equinox (a day he hopes will be auspicious, as the high tide will rush up river and create an odd natural phenomenon called a tidal bore). These will afford a Script bonus of +6 if they work out.''
@@ -371,8 +361,6 @@
 
 ==Experimenting To Discover a New Minor Virtue Script==
 
-
-|]
 ''stories, it is not encouraged for player characters.''
 ''Initiation with a Script is designed as a fixed process, much like other experience activities (although it is more complex than others), so that it can be applied as background experience if necessary. More details are provided in the rules for The Mechanics of Initiation, but a summary follows here.''
 ''An Initiation Script indicates how many Quests are required, and any Ordeal (Flaw) imposed. The whole process takes one full season per Quest, and one for the Initiation itself. In addition, the Initiation may require sacrifice of items of value to a magus — books, vis or even an invested device or similar — and you must allocate seasons of background experience to making such an item for sacrifice (the time expended is a major part of the cost). You may wish to account for the vis expenditure too. As with background seasons allocated to''
@@ -381,8 +369,8 @@
 ''If a detailed Initiation Script is not available, you can create a sketchedout Script using the Initiation Rites''
 ''rules above. Note the Presence and (Mystery Cult) Lore of the parens, and add sufficient Script components to provide a Script bonus that lets the parens meet the Initiation Target Level. It is usually appropriate for a probationer’s first Initiation to include an Ordeal, as this also provides a bonus for subsequent Initiations.''
 ''Experimentation to discover new Mystery paths is not really a matter for background experience rules, and player characters should go through a full roleplaying process to achieve this. If you are designing an nonplayer character cult founder, then you should discuss the process and estimate the number of failed attempts, but assume eventual success — else they would not be founders of the path you are creating!''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''This Flaw applies to magi beginning play as Initiates in a Mystery Cult; it is not required of those seeking Initiation later, by story actions, nor is it required for membership in one of the four Mystery Houses. It allows a magus character to be designed with cult Virtues as normal Virtues, part of the standard ten Virtues and Flaws — something not otherwise possible. These Virtues and Flaws are accounted for exactly as normal: in particular, Flaws acquired now do not later count as past Ordeals. Note that if a particular Virtue requires some other''
 ''specific Virtue or Flaw, then this is still required during Cabal Legacy character generation.''
 ''The magus’s master was an initiate of a Mystery cabal and taught him its secrets. As an apprentice, he was marked by the Mystery. Even if he renounces all the occult trappings of the society, most magi associate him with the Mystery, especially the mystae themselves. When a magus with Cabal Legacy speaks, magi often think he speaks for his entire cabal. When he acts, the mystae often assume he’s acting as their agent.''
@@ -391,5 +379,8 @@
 
 ==Cabal Legacy — Minor Hermetic Story Flaw==
 
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

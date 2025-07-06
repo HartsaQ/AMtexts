@@ -18,8 +18,6 @@
 
 ''Thomae gave the impression that his castle was created by a team of skilled assistants, using strange rituals and obscure material components, to provide powerful wards and offensive capabilities. This was a lie. Thomae’s flying castle is a far simpler item than the legend he created implies. It is a magical flying disk, upon which he built a castle. The depth of his deception is left for Storyguides to''
 
-[|
-
 ==What the Order Remembers of Thomae==
 
 ''Thomae was active in the Order relatively recently, so many of the details about him are more easily recalled than those of the other magi in this book. Players whose characters have some reason to be particularly interested in his works or legal case may be granted a +3 bonus on Intelligence + Order of Hermes Lore rolls, when seeking the following recollections about him.''
@@ -45,8 +43,6 @@
 ===Hermetic Architects Only (Ease Factor 12)===
 
 ''•	 Many of the effects he claimed as integral to the castle could not have been possible, unless he made a breakthrough in Hermetic Architecture.''
-
-|]
 ''decide: story suggestions relating to the true source of the disk are given at the end of the chapter. The disk is made of a single, flat circle of stone (hard stone, 4). It is 300 paces across, and slightly less than a pace thick (size 7). It lies beneath and supports the bronze sheet that forms the courtyard of the castle. Thomae’s great and simple ploy was to not design this as masterpiece of Hermetic Architecture, or even as an invested device. The disk is simply one of the largest lesser enchanted devices in the history of the Order. The strange absences in his biography can be explained as the time taken to set up a laboratory of sufficient size and secrecy to satisfy the Verditius he hired. He also needed to find the resources to pay for one season of that magus’s time and discretion. The disk, like all lesser enchanted devices, took only one season to produce.''
 
 ===The Flight Disk===
@@ -67,15 +63,15 @@
 
 ''Thomae’s lab was destroyed in the crash, but his most prized books were preserved in their magical storage chests. These codices contain lab notes for making:''
 ''•	 The flying disk. •	 The large laboratory where the flying disk was created. •	 The control chain, which is a useful mechanism for activating other''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Note on Boundary Effects==
 
 ''Boundary effects are not, by their nature, mobile. This means that, for example, if the castle had a Boundary ward against magical creatures, it would leave the effect behind as it flew. Similarly, an Aegis of the Hearth ritual cast around the edge of the''
 ''castle would also be left behind as the castle moved. This lack of effective wards for huge, moving objects was a known risk. Thomae believed few creatures would attack a magical flying castle filled with offensive magical items and well-trained soldiers.''
 
-|]
+|}
 ''magical items that are to be remotely triggered because of the dangerous environment in which they work. Mining or undersea equipment, for example, might be controlled with a similar mechanism. •	 The castle’s siege finials, which are basic mystical artillery and are useful in the defense of most covenants. These items look identical to the many other finials which top the castle’s walls. •	 Thomae’s anchor. This whimsical magical item looks like a ship’s anchor, and was trailed through the air behind and below the castle. It makes the castle invisible from the ground. Thomae purchased or created it after his legal troubles. Strangely, it does not make itself invisible, a flaw of which Thomae was surely aware. •	 Thomae’s whip. Thomae’s talisman was a lengthy bronze chain, which could move magically. Thomae used this to control things at a distance,''
 ''extend his Touch range, and wield as a whip in battle. •	 The falling bells. The castle had several bells that, if they were freefalling, would chime. All who could hear the chime were able to fly for the rest of the day. The bells were placed in large public spaces, and some effort was made in the design of the covenant to channel the sound of the bells for the greatest distance. This was made easier by the excellent acoustic properties of bronze. The bells were held by chains with special winches that would let loose a loop of chain at a time, so that the bells would free-fall for a second before taking up the slack. This allowed the bells to be used for emergencies. •	 Medallions allowing flight, invisibility, safe falling, magical attack or espionage effects. These items are of great use to magi interested in flight, but are also useful for mundane agents involved in sabotage, assassi''
 ''nation or burglary. These medallions are currently held by the leaders of the Santa Lucians, and the thief Andros, whose crimes draw the characters to the story.''
@@ -115,15 +111,15 @@
 ===Baby Griffons===
 
 ''The eggs may be permitted to hatch, providing baby griffons for the covenant to train, leaving eggshells to be''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Incubation Methods==
 
 ''An incubation method for griffons’ eggs is not immediately apparent to Hermetic magi, and they may be forced to complete a story to discover a successful one. This may be as simple as consulting a great library and doing a favor for the covenant that controls it. Some of the most powerful of Bjornaer magi are able, if rumor is to be believed, to take the shape of griffons, and if one of them might be consulted, perhaps she would be able to suggest an an''
 ''swer. Some Jerbiton covenants train magical animals, and one of the magi at Valnastium is said to have potent magic items which aid in the training of griffons. It is unknown, though, whether she has any experience in hatching their eggs, and it may be untenable for player characters to reach so remote a covenant quickly. It is not even known whether the eggs die if not kept in the right environment, or simply refuse to develop until their mystical climate is satisfactory.''
 
-|]
+|}
 ''enchanted as described earlier. Griffons grow slowly, so for the first few decades of their lives the covenant’s griffons are little larger than dogs. Provided they accept one or more of the local people as the senior member of their pride, the young griffons are entirely biddable. They have many of the behavioral problems of kittens, coupled with the ability to fly, the capacity to spot prey at extreme distances, and the strength to tear holes in their surroundings. They may be suitable as familiars. With magic that causes rapidly maturity, the griffons may be increased to adolescent or adult size. Mature beasts are more useful in combat, but are much more difficult to train—indeed their inability to be coerced is considered one of the defining attributes of griffons. Rules for training magical animals are found in Realms of Power: Magic pages 81-81.''
 
 ==The Townsfolk and Site of Santa Lucia==
@@ -190,8 +186,6 @@
 ''thinking she had destroyed it once payment was complete. Flavia never used the connection, because she believes Thomae flew his castle to Africa or Asia and has founded his own kingdom. She thinks that annoying a magician-king with a flying battle fortress would be stupid, so she will need skilled convincing to allow the player characters to use the Arcane Connection. Storyguides wishing to extend this story using the search for Thomae’s laboratory, as described at the end of this chapter, should select a different link.''
 ''Travel to Santa Lucia is isolated; characters going there must carry many of the supplies which they would con''
 
-[|
-
 ==Elemental Blizzard==
 
 ''This creature is designed as a water elemental using the rules found in Realms of Power: Magic.''
@@ -199,8 +193,6 @@
 ''Dead (33+) * 	 When injured elementals lose points from their Might pool equal to the Wound Penalty for their injury. Abilities: Area Lore 4 (local), Athletics 4 (flight), Awareness 4 (animals), Brawl 4 (suffocate), Hunt 2 (animals), Penetration 6 (Chill Touch power). Powers: Chill Touch, 0 points, Init +5, Ignem: The freezing touch of the snowstorm elemental inflicts +10 damage, which is Soaked without benefit from metal armor. Charge of the Angry Winds, 0 points, Init +7, Auram: As the spell of the same name, add the elemental’s Strength to all Ease Factors for acting within the wind. Drown, 0 points, Init +5, Auram: The elemental envelops a victim and attempts to fill her lungs with ice, necessitating a Deprivation roll (see ArM5 pages 180-181). Characters may break free of the elemental using the Grappling rules (see ArM5 page 174).''
 ''Vis: 4 pawns of Auram, in body. Large pieces of the elemental broken off during combat contain a portion of this vis. The elemental always knows where such pieces are, and attempts to reunite them. Appearance: A grey and menacing fog that seems to contain human and animal shapes.''
 ''Elementals are made of chunks of rarefied matter. They have no real personality or sense of personal identity, so the fury of this elemental is due to the fundamental nature of the violent weather it embodies. It attacks humans not because they are trespassing in its domain or because it hates humans; it attacks simply because it is filled with the tempestuous rage of a blizzard. The elemental blizzard is designed as a foe for parties of characters traveling to the crash site. It may attack up to its Size in enemies each round. Its immunity to fire and ability to ignore many kinds of armor make it a formidable foe for groups with weak combat magic.''
-
-|]
 ''ventionally purchase en route. This makes travel to Santa Lucia slow. Storyguides may complicate this journey to provide time in the spotlight for characters whose specializations have yet to be used in this story. She may, for example, provide combat opportunities or environmental puzzles.''
 
 ===Combat===
@@ -213,8 +205,6 @@
 ''Environmental puzzles are opportunities for players to use the powers of their magi to solve difficulties. These are particularly useful for characters designed as spontaneous spellcasters, or as non-combatants. Examples include:''
 ''•	 A rope bridge over a ravine has fallen away. How do the characters replace it? •	 The characters must use a path under the shadow of a mountain that has a field of unstable snow upon it. Can they brace it so that accidental''
 
-[|
-
 ==Despair Demon==
 
 ''The statistics for this demon use the rules given in Realms of Power: The Infernal.''
@@ -222,8 +212,6 @@
 ''diameter. This takes one round, although the demon may disincorporate almost instantly. Elemental Control of Air, variable points, Init +1, Auram: The demon may create any Creo, Muto or Rego Auram effect, at the cost of 1 Might per magnitude. The demon is limited to minor effects, with level equal to its Might Score or less. It uses this power to separate straying travelers from groups by hiding paths, erasing footprints, limiting visibility and stifling cries for help. Envisioning, 1 point, Init +0, Mentem: The demon may make subtle changes to a victim’s dreams, to make them more ominous and depressing. Obsession, 3 points, Init –5, Vim: When a human performs a venial sin and the demon responds by spending Might, this demon gains an opportunity to force the human to feel spiritual doubt. When next faced with a crisis of worthiness, the storyguide makes a simple roll +3, to reflect the strength of the feelings of doubt, and the player responds with a simple die + a suitable Per''
 ''sonality Trait as adjustments for exposure to a harsh environment. If the character’s total is higher, the demon has not been able to break the character’s sense of self-worth. If the demon’s total is higher, then the character gains a Doubt score of +1. If the character ever acts on this score, then he is in s state of sin. The demon then coagulates and kills its victim. Weakness: Protected Group (truly penitent people) Vis: 2 pawns, body Appearance: A ball of icicles a yard in diameter.''
 ''These demons dwell in the Alps and prey on travelers. They separate and confuse humans so that they become lost in the wilderness. The demons hope that, worn down with physical privation and the psychological strain of imminent death, their victims will lose faith in the Lord. They then kill the victim, so that penitence is impossible. These demons are suited for encounters with individual characters who separate themselves from the group, like scouts or foragers.''
-
-|]
 ''sounds do not cause avalanches? Can they instead mute the sound caused by the party’s travel? •	 Early melt has engorged a river. How do the characters get all of their baggage across? •	 Part of the journey requires extended travel above the snowline. How do the characters defend themselves, their servants and animals from the effects of the cold? •	 A terrible blizzard threatens the group. How do the magi construct shelter, or do they instead try to divert the storm?''
 
 ==The Santa Lucians==
@@ -243,8 +231,8 @@
 ''can read glamor, or by seeing the pile of bodies that the Dogs are guarding in the wrecked castle’s courtyard, then making an Intelligence + Faerie Lore roll against an Ease Factor of 6. The characters can prevent further attacks simply by severing the last symbolic link between the Santa Lucians and the castle. The leaders of the Santa Lucians use badges that once designated Thomae’s personal guard as their symbols of office. If they''
 ''discard these items and create new symbols for their community, then the tie to the castle is broken and the faeries lose interest in their game. Characters aware of the dogs’ role may discern the importance of trinkets from the castle with a roll of Intelligence + Faerie Lore against an Ease Factor of 15. Slaying the faeries is relatively easy, given their low Might. Storyguides may wish to raise this level of resistance to''
 ''encourage players to find alternatives, like capturing and interrogating the faeries, or redefining their role to be domesticated. To make the faeries more dangerous in combat, increase their numbers. Assume that some of the finials are magical items designed to defend the castle, and that each faerie can trigger the finial it inhabits. Destroying the bodies of these faeries destroys these magic items.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Dogs of the Castle==
 
@@ -252,7 +240,7 @@
 ''Wound Penalties: –1 (1–6), –3 (7–12), –5 (13–18), Incapacitated (19–24), Dead (25+) Pretenses: Athletics 5 (distance running), Awareness 6 (keeping watch), Brawl 5 (bite), Hunt 6 (track by scent) Powers: Fearful Flaming Eyes: 2 points, Init –2, Corpus: Completely paralyzes a human who makes eye contact with the faerie.  Costs 15 spell levels (Base 5, +1 Eye, +1 Conc) Grasp ghosts: 2 points, Init 0, Mentem: Allows the dog to grasp a ghost and drag it back to the castle, where a ring of hounds prevent escape.''
 ''Costs 20 spell levels (Base 5 (control a disembodied spirit), +1 Touch, +2 Sun.) Hands of the Animal: 2 points, constant, Animal: This allows the dog to manipulate and carry an item as if it had human hands and a Strength of +5. The dog must concentrate to do anything other than carry the object, and to drop it or take something else.  Costs 15 spell levels (ReTe Base 3, +1 Touch, +2 Sun, +1 constant) Vis: 1 pawn Terram, in finial Appearance: The faerie dogs seem to be cunningly articulated, animated bronze statues.''
 
-|]
+|}
 
 ==The Crash Site==
 
@@ -278,8 +266,8 @@
 ===Male Griffons===
 
 ''Male griffons combine eagle and lion attributes in a way similar to the female, with the following exceptions. Male griffons lack wings. They also have more''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Female Juvenile Griffon==
 
@@ -305,12 +293,12 @@
 ''Personality Traits: Defends home +5, Brave +3 Combat: Beak: Init +2, Attack +14, Defense +13, Damage +8 Grapple: Init: +11, Attack +15, Defense +15, Damage: special (On subsequent rounds may add Grapple Strength to Attack Roll for beak attacks.) Large Claws: Init +2, Attack +16, Defense +15, Damage +11 Large Horns: Init +10, Attack +17, Defense +18, Damage +16 Spikes: The spikes which grow from the joints of the male griffon do +8 damage to any attacker making a successful mêlée attack, including grappling attacks. Soak: +15 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–8), –3 (9–16), –4 (17–24), Incapacitated (25–32), Dead (33+) Abilities: Animal Handling 5 (griffons),''
 ''Area Lore 5 (home territory), Area Lore 3 (gold rich territory), Athletics 7 (running), Awareness 5 (prey), Brawl 8+2* (horns), Hunt 4 (horses), Second Sight 5 (Illusions), Survival 5 (home terrain). Powers: Nests of Gold, 5 points, Init –2, Terram: A catch-all power that allows griffons to detect, excavate, and craft gold. This is also the power that allowed the griffons to puncture the side of the tower. Vis: 6 of Animal, heart Appearance: A male griffon is the size of a small horse, and its features combine those of a lion and an eagle. The head, forequarters and forelimbs of the griffon are aquiline, while the hind legs, torso and tail are leonine. Males have more muscular bodies than female griffons, particularly in their forequarters. Male griffons are wingless, but have defensive horns and spines that protrude from the body, and especially around the neck.''
 
-|]
+|}
 ''muscular bodies than female griffons, particularly in their forequarters. This makes them stronger, although less agile, than the females. Most have a pair''
 ''of straight horns that emerge from the forehead. The horns develop during adolescence, when spikes also emerge from many of the joints.''
 ''These spikes are most extremely, perhaps ridiculously, prominent on the ruff. This is formed of a circle of spikes that protects the throat. This band is wider on the breast and between the shoulders. The spikes are primarily defensive, preventing enemies from attacking the throat of the male griffon. The male griffon sometimes grapples prey, and the spikes are particularly deadly to prey attempting to struggle free. There is some question in the Order about the nature of male griffons. They do not appear in ancient texts, but occur occasionally in heraldry. There is some possibility that they are a faerie species that has attached itself symbiotically to the magical griffon. These magi note, particularly, that male griffons are often found near the nests, but that griffons nest in inaccessible places, and the males cannot fly, so it is difficult to explain their presence if they are purely magical animals. Juvenile male griffons may be added to those faced during the combat section of this scenario. Alternatively, the storyguide might judge that young male griffons are rejected from their pride, much as lions are, and wander the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Female Hatchling Griffon==
 
@@ -318,7 +306,7 @@
 ''Brave +3 Combat: Beak: Init +4, Attack +3, Defense +6, Damage +3 Grapple: Init: 0, Attack +2, Defense +7, Damage: special (On subsequent rounds may add Grapple Strength to Attack Roll for beak attacks.) Large Claws: Init +4, Attack +9, Defense +10, Damage +6 Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–6), –3 (7–2), –5 (13–18), Incapacitated (19–24), Dead (25+) Abilities: Area Lore 3 (home territory), Athletics 3+2 (flight), Awareness''
 ''4 (prey), Brawl 2 (claws), Hunt 2 (horses), Second Sight 1 (Illusions), Survival 3 (home terrain). Vis: 1 of Animal, heart Appearance: Griffon hatchlings are about the size of a human. Its features combine those of a lion and an eagle. The head, forequarters and forelimbs of the griffon are aquiline, while the hind legs, torso and tail are leonine. Female griffons have feathery wings, and fly with a swiftness and dexterity that is surprising in so large a beast. The female griffon is surprisingly strong, given that its foreparts have the comparatively delicate structure of a bird’s skeleton.''
 
-|]
+|}
 ''countryside seeking gold. Once they find an area with sufficient gold, they build crude piles of it, which attracts the female. The two then create a nest and found a territory. Wandering males might be drawn to the covenant, if it is particularly wealthy. Adult male griffons are strongly territorial, so only one should appear in any scenario.''
 
 ===Griffon Alternatives===
@@ -331,8 +319,8 @@
 
 ''Griffons can be used to enrich some of the story seeds presented in previous works. They may be used in many seeds that simply require a formidable monster, but they are particularly suited in three cases, where ancient Greek folklore nominates them as the correct creature to guard the items that player characters are seeking. An early discussion of griffons oc''
 ''curs in a lost poem, the Arimaspea by Aristeas, reported by Herodotus in his History. The griffons live close to the north wind, and it is their land that separates Hyperborea from the rest of the world. Magi seeking Hyperborean magic, as described in Ancient Magic, may find it useful to tame a griffon and use its migratory sense to seek the land of gold. Aristeas was a Nightwalker, as described in Hedge Magic. In that book, a story is described where a fae version of Aristeas attempts to draw the nightwalker cult away from the Lady and to the god Apollo. Characters destroy Aristeas by seeking out a statue that was buried instead of his missing body. The faerie Aristeas is reported to have hidden the body in the land of the griffons. In one of the possible outcomes of the quest to the Hesperides in Ancient Magic, the characters seek the weapons of the ancient gods, either to aid or fight the children of the Titans. The god Zeus is remembered, in one ancient Greek poem, as having griffons as his guard dogs. Griffons might therefore nest on the mountain where the weapons of the Titans are hidden.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Male Hatchling Griffon==
 
@@ -340,7 +328,7 @@
 ''Brave +3 Combat: Beak: Init +4, Attack +5, Defense +8, Damage +3 Grapple: Init: 0, Attack +4, Defense +9, Damage: special (On subsequent rounds may add Grapple Strength to Attack Roll for beak attacks.) Large Claws: Init +4, Attack +11, Defense +12, Damage +6 Soak: +3 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–6), –3 (7–2), –5 (13–18), Incapacitated (19–24), Dead (25+) Abilities: Area Lore 3 (home territory), Athletics 3 (running), Awareness 4''
 ''(prey), Brawl 2+2 (claws), Hunt 2 (horses), Second Sight 1 (Illusions), Survival 3 (home terrain). Vis: 1 of Animal, heart Appearance: Griffon hatchlings are about the size of a human. Its features combine those of a lion and an eagle. The head, forequarters and forelimbs of the griffon are aquiline, while the hind legs, torso and tail are leonine. Males have more muscular bodies than female griffons, particularly in their forequarters. Male griffons are wingless, and the horns and fans of spikes that protrude from the body of an adult male griffon are not found in hatchlings.''
 
-|]
+|}
 ''Legends of Hermes Aftermath''
 ''Thomae’s castle is, fundamentally, a simple item. This disguises another problem in his biography. The many ancillary magic items which he owned seem excessive, once characters have time to assess his notes. There’s no straightforward way in which Thomae could have made or afforded all of these items.''
 
@@ -363,9 +351,13 @@
 
 ''Thomae was a vain and obsessed man, so it is possible that he did not''
 ''create his castle, but merely found its key component and repurposed it. The control chain is clearly a Hermetic device, but the disk might have an ancient origin. In Herodotus, there is described an island, called Chemiss, which floats freely on the surface of the water while supporting a temple of Apollo, the god of light. When Thomae was looking for trouble and vis in Egypt, he investigated this island and discovered that it was held up by a stone disc. He discovered no reason why it had been left in a lake, but for a myth. A goddess named Latona, or perhaps one of her priestesses, made the island float. She did this so that it could hide Apollo (Horus) from Typhon (Set) during their war. Latona was the city goddess of Buto, and according to Herodotus had an oracle there, so some trace of her might remain. Thomae was able, perhaps with assistance, to work out that the control mechanism was based on colored lights. He spent the time he was missing commissioning the ancillary magic items. His Verditius ally has remained quiet about this to retain bragging rights over the castle, because this ally has allowed others to believe he himself built it, and it would wound his House standing were this chicanery to be discovered. According to the myth, then, the disc was used to hide a faerie from a magical being during the Egyptian version of the Titanomachy. What else was hidden under it? Was it the capstone of a weapons cache? The doorway to a faerie road? What is happening at the original site, now that Thomae has recklessly removed this barrier?''
+
+==Appendix Timeline of the Order==
+
 ''The time line that follows puts the lives of the legendary magi into context against the history of the Order.''
 ''767 – The Order of Hermes is founded at Durenmar. c. 857 – Hérisson is born. 867 – Hérisson joins House Bjornaer at the Gathering of Twelve Years. 881 – Hérisson passes his apprentice’s Gauntlet and becomes a magus of the Normandy Tribunal. c. 885 – Conciatta is born. 895 – Baltasar hears of a Gifted child and buys the girl from her father. Conciatta’s apprenticeship begins. 900–990 – Hérisson develops his research on the creation of vis. 910 – Conciatta passes her Gauntlet. 915 – Conciatta Founds a covenant in Saraqusta with Currito. 923 – Conciatta publishes The Appliction of Vim to the Supenatural Humors, but her experiments leave her Gift damaged. 925 – Baltasar of Bonisagus is marched on charges of Infernal corruption. 933 – Conciatta studies the Dominion in Toledo. 937 – Conciatta submits her final papers and withdraws from the Order. c. 940 – Hermanus is born. 952 – Hérisson moves his laboratory and sanctum to his garden. 961 – Evidence of infernal corruption in House Tytalus brought to light. 965 – Hermanus of Tremere completes his Gauntlet and joins the Order.''
 ''980 – Currito leaves both Saraqusta and Conciatta. 986 – Fortunata is born, daughter of Prince of Milan. 987 – Hérisson argues with the Primus of Bjornaer at the Gathering of Twelve Years, but the house is not interested in his talk of peace. 990 – Hérisson submits a thesis to the Library of Durenmar regarding his original research, detailing some of the advances he has made. 996 – Fortunata apprenticed to Apollo of Jerbiton. 999 – Conciatta makes her final breakthrough. 1000 – With her Gift overcoming her, Conciatta takes sanctuary in Toledo. 1001 – Hérisson meets with the primus of House Diedne in an attempt to reduce mounting hostilities. 1002 – Hérisson is killed in a Wizard’s War by Gypaetus of Bjornaer. 1004 – Commencement of the Schism War. 1007 – Conciatta enters Final Twilight and her spirit fractures. 1011 – Fortunata passes her Gauntlet and adopts her Hermetic name. 1013 – Formation of the Vexillation of the Adamant Rook. 1015 – Fortunata liberates Lucida from the cleft tree. 1017 – Fortunata joins the summer covenant of Cupressa Nigra, and begins publishing text translations from ancient languages. 1019 – House Bjornaer emerges from''
 ''hiding with a new Harmonist agenda based on Hérisson’s philosophy. 1048 – Fortunata acquitted of charges of diabolism. 1055 – Fortunata acquitted of charges of spying using spirit magic. 1061 – Fortunata, senior maga at Cupressa Nigra, abandons her covenant and moves to a remote island, but opens her house in Venice to the Redcaps. 1067–1123 – Cupressa Nigra is abandoned when the remaining junior magi join other covenants. Fortunata continues translating ancient texts, writes Hermetic texts on spirit lore, and circulates a few texts on Principles Lore. Fortunata acquires a reputation as a powerful eccentric. 1070 – Dissolution of the Vexillation of the Adamant Rook. 1098 – Hermanus and the wing of Coeris that contains his laboratory disappear in what is assumed to be a Twilight episode brought on by a magical botch. Vexillation of the Unbarred Gateway is formed. 1104 – Vexillation of the Unbarred Gateway dissolved. 1110 – Amarantha of Tremere disappears. 1115 – Velius sets his archmagus challenge. 1120 – Velius succumbs to Final Twilight. c. 1122 – Thomae is born. 1123 – Last contact with Fortunata before she is lost to Twilight. 1198 – Thomae and his castle vanish.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -38,14 +38,16 @@
 ''Earl (Count) 0 100 250''
 ''Duke 0 250 500+''
 ''Characters lacking sufficient surplus money sometimes take out loans against their source of income. A character who is Poor may not do this. A character who is average may become Poor and in exchange borrow five times the average mercenary budget of someone of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Articles of War==
 
 ''The Church has issued two proclamations directly concerning the waging of war. The Peace of God (Pax Dei) attempts to protect certain classes of people who are to be exempt from violence. These are principally the poor, Churchmen, and merchants. The Truce of God (Treuga Dei) restricts the days on which war can be waged. This means that Fridays, Sundays, holy days, and Lent are exempt from fighting. Breaking either the Pax Dei or the Treuga Dei is considered an unchristian act, as is the execution of prisoners. Captains fearful for their souls, and those who ask for the blessings of saints, do well to obey these articles of war, but easier paths are often more attractive.''
 ''Chevauchee''
 ''The chevauchee is a tactic used to weaken the resolve of a population and to provoke an army into confrontation. Enemy territory is ravaged, crops are burned, and the people are driven from their land to the relative safety of towns and castles. The chevauchee not only secures territory and supplies for the ravaging army but also denies them to the enemy. Even defending armies may leave destruction in their wake as they spoil crops and poison wells in order to deny the enemy. This tactic is used across Mythic Europe and the Levant. Land put to chevauchee is subject to disease and famine, with farmland spoiled and livestock and population alike slaughtered. Those returning to such an area suffer a –2 Living Conditions modifier (in addition to any existing modifiers) to their next Aging roll. In extreme cases some areas may develop a Malevolent Infernal aura (see Realms of Power: The Infernal, pages 11 and 15).''
+
+|}
 
 ==Allied Troops Table==
 
@@ -73,11 +75,6 @@
 ''The lord has a Minor social Flaw –1''
 ''The lord has a Major social Flaw –3''
 ''The promise of wealth and/or title (the spoils from a city, for instance) +3''
-
-|]
-
-==Lords of Men==
-
 ''his class in coin. This loan may be paid off with the spoils of war or through stories. A character who is Wealthy may become average and gain five times the difference between the Wealthy and average mercenary budgets for his class, or may become Poor and borrow five times the budget for a Wealthy person of his class. Note that these transactions depend on the availability of a banker with enough money to loan the character, or enough''
 ''credit to pay those the character would like to pay, as well as (in either case) the power to collect the character’s lands if he defaults on his loan. Some kings and banks have this much power, as do the bankers for the Church. Transactions of this magnitude may take many weeks to complete, and so are not suited to lightning war. In most areas lords cannot easily sell their land to raise extra funds. In those areas where the sales of lands is possible, the king’s share of any transaction is often so large as to make the value of any such transaction questionable.''
 
@@ -93,8 +90,8 @@
 ''Deployment Totals, and does not change until one side surrenders the field.''
 ''Territorial Advantage: Deployment Total – Enemy Deployment Total''
 ''Storyguides should designate specific features on the battlefield (a chapel, a series''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Mercenary Units==
 
@@ -132,7 +129,7 @@
 
 ''Characters with certain status or Virtues, such as a Knight Banneret or a Mercenary Captain, always treat their company as a single combat group regardless of any Weight of Numbers modifiers.''
 
-|]
+|}
 ''of hills, a bridge, etc.). These provide the settings for battlefield events. The supernatural auras present should also be considered. Infernal auras, for instance, have damaging and insidious effects that cause wounds to open more easily or promote maltreatment of prisoners (see Realms of Power: The Infernal, page 10).''
 ''Using Magic to Seize Advantage''
 ''Magic aids in seizing territorial advantage, such as by misdirecting enemy troops in a fog, redirecting a stream to make a forced march easier, or even altering the rise and fall of the battlefield itself. Add the highest magnitude of any spell used to affect the terrain, or the deployment of troops, to the friendly side’s Deployment Total.''
@@ -207,8 +204,6 @@
 ''Characters with some social standing may claim the ransoms that they capture on the battlefield, though lesser characters must usually forego such rights. Although magi''
 ''are not protected by class etiquette, their power and influence is such that any magus captured in battle is likely to be ransomed to his covenant rather than killed or maimed.''
 
-[|
-
 ==Standard Combat Groups==
 
 ''Groups of knights, serjeants, and infantry are treated as trained groups, while archer, levy, and baggage units are untrained, However, a group that serves together for a season is treated as trained thereafter. Each group is assumed to be five individuals.''
@@ -231,8 +226,6 @@
 ''Baggage Bludgeon –2 +5 +1 +5 +3 +0''
 ''Mercenary Troops''
 ''The table above lists the statistics for standard units of each type, but throughout the Ars Magica period there are also specialist troops from Welsh longbowmen to Flemish pikemen to Genoese crossbowmen. Their combat statistics may vary from those above and these soldiers are highly sought after as mercenaries. And of course, as this is Mythic Europe, there is always the potential for strange and supernatural units to be deployed by the ambitious or the unwary. Most armies rely on mercenary forces for a large proportion of their skilled contingent. As can be expected of men paid to fight and kill, the conduct of many mercenary troops leaves much to be desired. Nearly thirty years ago, Richard Lionheart sought to create a paid standing army by employing professional soldiers for what was to be his final clash with the forces of Philip II of France. His army included Welsh men-at-arms, Brabantine mercenaries, and even Saracen fighters. Richard’s knights received one shilling per day while his mounted serjeants received four pence per day, double the two pence per day earned by the infantry.''
-
-|]
 ''Battles are almost always fought during daylight hours, and forces usually retreat from the field as evening approaches. If the day is neither won nor lost, a temporary truce holds and the dead and wounded are collected from the field.''
 
 ==Siegecraft==
@@ -242,8 +235,8 @@
 ==Castles==
 
 ''Castles are described in detail in Covenants. A limited version of that material is repeated here.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: A Wizard’s Ransom==
 
@@ -263,7 +256,7 @@
 ''The forces of Milan are amassed against the troupe’s larger Veronese army. Neither side gained Territorial Advantage in deploying their troops. The battle opens with an Ease Factor 9 battlefield event. The lead character for this event has a Stamina + Leadership (battle) of 5 and a +2 Weight of Numbers modifier. He needs an Event Bonus of +2 to reach the Ease Factor. The storyguide describes the enemy charge; the character must Hold the Line (+0 Defend, +1 Even, +1 Standard). As vanguard of his combat group the character engages in a combat encounter with a single enemy combat group that is smaller than his own (since his army outnumbers the enemy). Luck is on his side and the enemy group is quickly routed. The enemy is pushed back and takes losses. Some time later, the fighting has intensified. The second character to lead an event has a Stamina + Leadership (battle) of 5 as well, and the Weight of Numbers modifier is still +2. But the Ease Factor is now 12, so an Event Bonus of at least +5 is required. The storyguide describes how''
 ''the character’s commander has become surrounded and is thrown from his horse. The Rescue event is used and provides the necessary +5 bonus. The character is successful at resolving the event and the army rallies to its commander. Almost immediately, the enemy knights round for a charge on the left flank. The last character to lead an event, an experienced knight, has a Stamina + Leadership (battle) of 7, with the same +2 Weight of Numbers modifier. As the Ease Factor is now 15 he must have an Event Bonus worth +6. The enemy charge has left the enemy commander exposed. Seizing the opportunity, the character attempts to capture and Ransom (+3 Take, +0 Lesser, +3 Special) the enemy commander. While the character’s combat group takes on the commander’s bodyguards, the character engages in single combat with the commander. Despite taking wounds, the character knocks his opponent from his horse and forces surrender. With the fall of their commander the enemy troops either rout or submit to ransom and the day is won.''
 
-|]
+|}
 ''Every Castle Sends a Message''
 ''Castles serve three functions. A castle acts as a refuge from military forces, so it defends territory. A castle acts as a staging ground for armies, so it threatens its neighbors. A castle costs a fortune to create and maintain, and in many places requires the permission of the king to build, so it communicates the status of its owner. A castle, then, is a claim to political power, backed with the threat of force. A brigade of knights, supported by a castle, can travel about twenty miles in a day. This means they have the ability to raid targets up to ten miles away and return to their barracks before nightfall. All people who live within that radius, or have interests there, rapidly become aware of the existence of the castle. The temporal and spiritual authorities of an area cannot ignore any castle.''
 ''Free Choices''
@@ -342,14 +335,14 @@
 ==Laying Siege==
 
 ''A siege is represented in play through a series of decisive events. The first is played when the siege is first invested, with subsequent events at intervals determined by the lowest of the castle’s characteristics. The besieging army is proactive and chooses how it will attack the castle. There are three options: undermining the walls, launching an artillery assault, or scaling the defenses. For its part, the castle garrison is rarely passive, and can respond to these tac''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Making Supply Rolls==
 
 ''If it’s not important to track a given siege with great precision, instead of making individual rolls, consider rolling in batches. For example, for roll involving castle with shoddy supplies, roll four dice to quickly resolve the passing of a month. Or, if the castle has standard supplies, roll three dice each season.''
 
-|]
+|}
 
 ==Story Seed: Refugees==
 
@@ -362,8 +355,8 @@
 ''Mine Attack Total: Intelligence + Profession Sapper + Stress Die''
 ''Castle Defense: Intelligence + Profession Sapper + Defense Bonus + Stress Die''
 ''If the castle has a moat treat the Defense Quality as one step higher for the purpose of determine the Defense Bonus. If the Mine Attack Total exceeds the Castle Defense, the mine attack is successful.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Siege Engines==
 
@@ -378,7 +371,7 @@
 ''Mangonel and Trebuchet: When used against castle walls, a mangonel or trebuchet use the rules described in the Artillery section. In standard combat, both of these weapons target combat groups rather than individuals. Reloading these weapons takes two minutes and requires the whole crew.''
 ''The cost of these weapons in Mythic Pounds represents either the cost of building of them on-site or transporting them from a central armory. It also represents the cost of provisioning sufficient ammunition, which for the catapult devices, involves teams of quarrymen and an army of carts to transport stone to the engines.''
 
-|]
+|}
 ''A successful mine attack reduces the castle’s Defense Quality by one step. A botched defense roll reduces the Defense Quality an additional step while a botched attack kills the sapper’s unit (or requires a rescue story event to save them). Storyguides may wish to develop these events further. It is common for the castle to counter-mine the enemy miners and collapse the tunnels themselves, before their enemies have chance to affect the castle walls. And on occasion, miners from both sides end up fighting for control over tunnels.''
 ''Artillery''
 ''Artillery can be employed against the castle walls if the besieging army includes at least one mangonel or trebuchet. These attacks are based on the damaged goods rules found in City & Guild, page 77. Siege engines attack in groups of up to five engines and a successful hit inflicts a number of damage levels equal to the size of the group. Each group makes a single attack roll during each artillery event. Multiple walls may be targeted in a given artillery event, provided the attacking force has enough engines to do so.''
@@ -388,8 +381,8 @@
 ''Escalade''
 ''The most direct way of assaulting a castle is the escalade, in which the attacking army scales the castle walls using wooden towers, ladders, and ropes. The besieging commander may either use an escalade to probe for weaknesses and thin the garrison, in which case a single battlefield event is played out in the current check interval. Alternatively, the attacker can attempt to take the castle in one battle, in which case the standard battle rules apply using the castle walls as a backdrop. In the case of an event where the attack''
 ''er simply tries to win the castle in a single battle, the defending garrison gains some advantages. The garrison characteristic’s Weight of Numbers modifier is used in place''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Construction==
 
@@ -412,7 +405,7 @@
 
 ''Siege towers are built on wheeled bases that can be moved up against the castle walls. These allow troops to gain a foothold on the walls while protected from archers. A more direct route is to use ladders and ropes to scale the walls. This is much more dangerous but can be more quickly, and more troops advanced. A cat is a covered mobile shelter used to defend attacking troops from a castle garrison as they move into position at the base of the castle walls. Battering rams are treated as bludgeons. Using a ram against a castle door forces a stress check (see City & Guild, page 77) against the vanguard’s Brawl attack total. Incendiaries are used primarily by the defenders to dissuade attackers from scaling the walls. Boiling water, oil, and hot sand are all commonly used. Treat each of these as a bludgeon for the purposes of Initiative and Attack totals, but use the heat and corrosion table for damage (see ArM5, page 181). Of course, anything could conceivably be pitched over the walls in defense against an escalade, and troupes should feel free to explore their creativity.''
 
-|]
+|}
 
 ==11==
 
@@ -429,8 +422,8 @@
 ''•''
 ''get,.and.return.to.the.safety.of.the.walls..The. intention.is.to.attack.and.eliminate.certain. troops.(visible.mining.operations,.siege.artillery,.etc.)..A.successful.event.removes.those.''
 ''units.from.the.enemy.army..The.besieging. baggage.units.are.normally.defended.and.so. may.not.be.targeted. The.garrison.may.also.use.any.siege.en''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example Siege Events==
 
@@ -439,12 +432,10 @@
 ''the.outside..The.character.must.tip.boiling. water.onto.them.before.the.men-at-arms. defending.them.scale.the.stairs.and.attack. the. character.. Tipping. the. water. takes. a. Strength. +. Athletics. stress. roll. against. Ease.Factor.9..There.are.three.botch.dice.. On.a.botch.the.character.douses.himself. with.the.boiling.water..The.attacking.force. will.arrive.in.three.rounds..If.the.defenders. are.scattered.by.then,.the.attackers.will.be. able.to.breach.the.gate. (+2. Run. the. Gauntlet,. +4. I. Stand. Alone,.+2.Expensive)''
 ''take t he Marshal Event.Bonus.+9 Man: Take, Size: Overwhelmed, Enemy: Special The. knight. marshal. controlling. the. castle.rides.at.the.head.of.three.groups.of. knights. attempting. to. charge. down. the. character. and. his. group.. The. character. must.bring.the.marshal.down.and.either. kill.him.or.force.his.surrender..To.complicate.matters,.the.character’s.escape.route. is.blocked. (+3. Take,. +3. Overwhelmed,. +3. Special)''
 
-|]
+|}
 ''gines it has to target the attacker’s siege engines. Engines are targeted individually. Each hit forces a damage check against the attack total with damage levels lost according to the size of the attacking group. If not using the damage rules from City & Guild, assume that a single hit from a mangonel or trebuchet is enough to destroy a siege engine.''
 ''Aftermath''
 ''With the castle taken and the siege over, the castle’s new masters decide on its fate. The behavior of the victor is something to be roleplayed, but castles and cities generally suffer more the longer they hold out. Those responsible for holding out against the siege risk being taken and killed. Other men of value are likely to be ransomed, either bring imprisoned locally or forced out of the castle as a hostage of the attacker. Civilians are likely to be robbed, and worse, by the victorious army. Unless they escape, the defending garrison is frequently hanged as an example to others. Depending on its location, its importance, and the needs of the wider campaign, it is is usual for the attacking force to appoint a governor and leave behind a force in the castle to secure it.''
-
-[|
 ''Siege Magic''
 ''On finding themselves besieged by a determined Milanese force, the magi of Castro Selvaggio worked together to create a number of spells and rituals to help them outlast their attackers. The following laboratory texts survived the sacking of the castle. It is not known precisely how the castle fell, but suspicion quickly fell upon the covenant’s Milanese rivals.''
 
@@ -464,5 +455,6 @@
 ===Seal the Breach===
 
 ''CrTe 20 R: Touch, D: Mom, T: Ind, Ritual This ritual conjures a section of wall in a shape marked out during the casting of the spell. It is designed to knit together with adjoining sections of existing fortifications to repair already standing walls. The spell is enough to repair a single section of wall collapsed through mining or artillery assault (restoring up to five damage levels). (Base 3, +1 Touch, +2 size, +1 finesse, ritual minimum level 20)''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

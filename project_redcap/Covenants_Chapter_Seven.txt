@@ -43,8 +43,8 @@
 ''Most Hermetic pens are made from the flight feathers of geese. Up to five feathers can be taken from each wing of a goose to be converted into pens. The barbs of the feather may be removed for easier writing, if the user desires, but often only the first few inches are removed, where the scribe wishes to grip the pen. These feathers are plunged into hot sand to dry the membrane that surrounds the barrel of the feather so that it can scraped away. They are then heated in sand again, to firm the barrels.''
 ''Their tips are cut into nibs, which allow the ink to flow out of the barrel in a steady stream. When a nib is worn, the scribe repairs it by trimming with a penknife. Scribes taking dictation lack the time to resharpen their quills, so they prepare many in advance. A note-taker for Tribunal meetings often blunts sixty pens in a day.''
 ''Pens wear quickly so, although some writers claim to be able to complete an entire book with a single pen, few small covenants raise enough geese to meet even modest needs. Pens made from other''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The pigments available to mundane Europeans include those from both mineral and organic sources. The mineral sources tend to last longer, but many react with air to change color over time. The plant sources are cheap and safe, but some fade if left in sunlight for extended periods. Many common ink and paint pigments are listed below.''
 ''Red: vermilion (made by heating mercury and sulphur), brasil (extract of the brazilwood tree), honey, madder (root extract), clay (an ochre), realgar (arsenic mineral usually found with orpiment), minium (lead mineral), kermes (insect)''
 ''Orange: juniper (berries), orpiment (mineral, used for false gold)''
@@ -58,7 +58,7 @@
 ==Ink and Paint Ingredients==
 
 
-|]
+|}
 ''birds, like swans, are common and some are used for particular tasks. The thin pens from crows, for example, are used to write miniature books. Pens from magical birds have stronger sympathetic connections to texts.''
 ''The pen replaced an earlier implement, called a calamus, which is a slitted reed, about two hundred years ago. Before that time, some scribes used quill and reed pens in conjunction. The calamus was used for the capital and decorative letters in books, the smaller pen for standard letters. The calamus is more durable than the pen, but less flexible. Some Hermetic magi still use reeds, created magically out of unusual materials.''
 ''A stylus makes its characters by deforming the surface on which it writes. These are used on wax tablets. Styluses are also used to guide the work of the scribe on the parchment, by ruling lines, laying out areas for decoration, or giving instructions that will be drawn over. Some scribes use a plummet, a lead point, instead of a stylus for this. Members of the Order have created some magical styluses, which etch metal or stone, and used them to create truly remarkable literary works.''
@@ -82,14 +82,14 @@
 ''Some members of House Criamon use a unique variety of the roll. It is created by sewing together the edges of a series of folded pages. This creates a roll that folds into a rectangular shape like a conventional codex. They attach covers to the first and last pages, which are held in place with ribbons or a wooden case.''
 ''A codex is a collection of pages between covers. It is made from gatherings. Folding rectangles of parchment down the middle creates gatherings. In early bookbinding, these gatherings are sewn along the fold. The average gathering, called a quaternion, has four sheets of parchment, which creates eight pages with sixteen faces. Binders carefully ensure that the flesh and hair sides of parchment are never facing each other.''
 ''The gatherings are then bound together. This creates the text block: the sum of the written pages. Flyleaves are added to protect the final pages of the book. The gatherings are stitched together in cheap books, or are bound together on a book loom to create properly made codices. The book loom leaves the gathers bound together by thick cords that run across the spine of the block.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Illuminators==
 
 ''Illumination adds little to the quality of mundane books, but is required if the sponsor of a Hermetic book wants resonant materials to be included in its inks. Members of House Jerbiton, who are interested in the mundane arts, claim that the burgeoning trade in books allows new methods and technologies of illumination to be tested. They believe that great illuminators, unparalleled in the history of Europe, will emerge in the next few decades. They see great promise in certain ornamental books given by nobles as gifts. Some believe, and many more hope, that within a century Hermetic books will include complicated maps, intricate mystical diagrams, and realistic drawings that will make them unparalleled instructional aids.''
 
-|]
+|}
 ''The cords are then sewn into the cover. The cover is usually made from two thin boards and it is from these boards that the codex, which means tree-trunk in Latin, takes its name. Books have only recently been bound in covers slightly larger than their pages. The boards are separated by a connecting hinge wide enough to allow for the width of the block, made of leather or a thin board. The end flyleaves are pasted down to hide the internal join. The cover is enclosed in leather or fabric, then decorated. The weight of the cover’s boards inhibits the natural tendency of parchment sheets to develop waves.''
 ''Many cover decorations are practical. Spine inscriptions give the title on newer books, and also occasionally list authors. Clasps keep the pages pressed against the covers to minimize warping. Small metal plates, called bosses, protect the book from rubbing against rough surfaces, while corner pieces protect the edges of the book from damage. Hotpressed insignia mark ownership of the book. Fabric jackets, looped over the top of the book, keep dust away.''
 
@@ -106,8 +106,8 @@
 ''A second quality point can be gained if the book contains resonant materials acquired through stories. A fine Ignem text, for example, might have two firedrake scales as its boards, be bound with cured strips of the creature’s ankle ten''
 ''dons, and employ its tongue — flattened and rolled — as bound-in registers.''
 ''Players using resonant materials of either type in crafting a book must describe the materials employed and their usage in detail.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Potentially Resonant Book Components==
 
@@ -120,7 +120,7 @@
 ''•''
 ''• •''
 
-|]
+|}
 ''A third point of Quality can be gained by clarifying a book. Clarification allows a magus to enchant a book concerning an Art or Arcane Ability so that it expresses its resonances more vividly. This allows readers to grasp the book’s contents more rapidly. A magus must have a score of 15 or more in the Art relevant to the book, or mastery of the relevant spell, before he can clarify a book.''
 ''To perform clarification, the magus opens the book to enchantment as an invested device. The book must then be left in a Magical aura for (12 / aura strength) years, during which time the book sheds the mundane matter it contains, replacing it with purer, more relevant materials from the surrounding aura. Such books often develop a translucent appearance. They crumble away into sand and dust if removed from a Magical aura. A magus of House Bonisagus discovered this technique in 1126; many older books have not been clarified.''
 
@@ -136,8 +136,8 @@
 ''Ex libris  books are cheap copies created by those libraries that allow large numbers of visitors or copyists. Ex libris versions lack resonant materials, as they are considered likely to be stolen, worn, or abused by readers. Many are damaged, which reduces their quality, and those that require complicated repairs are often instead sold or given to young covenants.''
 ''Exemplars are miniature books created as templates for distant scribes and illuminators.  Exemplars are extremely cheap to make, and very easy to transport, compared to full-sized books. An exemplar has a –3 modification to quality.''
 ''Flap-bound books have leather flaps instead of boards as their covers. They are usually smaller than books with board covers. Their pages develop waves, since they lack a firm cover to provide pressure. Their covers are tied closed to prevent gaping. Flap-bound books were popularized by Redcaps, are created in surprising numbers within the Order, and are sometimes used in lieu of exemplars.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Core Rules===
 
@@ -163,7 +163,7 @@
 ==Summary of Quality Rules==
 
 
-|]
+|}
 ''A flap book has a quality modifier of –1 and cannot have resonant materials incorporated as cover ornamentation. As they age, flap books usually buckle, which damages them, further reducing their quality.''
 ''Holographical books are those scribed by the author.  These are usually poorly prepared, compared to those completed by a professional scribe. Holographic books retain an arcane connection to their author for a year, although this is severed if the magus’s opinion, encapsulated in the book, changes.  A season of study on the book’s subject, for example, destroys this connection.''
 ''Huge codices are physically immense. Each contains vast amounts of information, often many books, but requires magic or assistants to turn the pages. The biggest codex in the Durenmar Library is a treatise on Mercurian rituals. It is so large that its diagram for Wizard’s Communion, to be performed by between three and 12 magi, is life-sized, with the participants standing in designated circles upon the surface of the book.''
@@ -207,8 +207,8 @@
 ''Correspondences are collections of letters that focus on a subject, bound together in chronological sequence. A magus can participate in many correspondences, but can only gain benefit from one per season, which must be on a theme that is associated with the magus’s research or reading. Each magus must read the previous letter in the sequence, from his or her correspondent, before responding, and must receive at least one letter in a season to claim experience. A magus gains an extra experience point in each season in which he is engaged in useful correspondence.''
 ''Bound correspondences contain at least 24 topical letters from each magus, representing around two years’ worth of correspondence. These are read — and purchased at covenant creation — as tractatus with a quality equal to the sum of the two participants’ Communication scores. Lengthy bound correspondences are useful as research materials, described below. If both correspondents were experts on a topic, and the collection contains at least one hundred and twenty letters from each, the collection’s value as a research aid increases one level. See the research rules below.''
 ''Florilegia (singular florilegium) are anthologies on a topic created by binding together tractatus on Arcane Abilities and Arts. Each tractatus is still read separately, but each gains a quality bonus to reflect its mystical interaction with surrounding texts.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''A scriptorium is a room where books are copied and illuminated. Many monasteries include scriptoria, because the Rule of Benedict makes service in the scriptorium compulsory. The library is the source for the templates that the monks copy and then disseminate. The armaria of monasteries are often kept in, or in attics above, scriptoria.''
 ''The private libraries of the wealthy often lack scriptoria. Scribes are hired as needed, particularly in those cities with cathedral schools and universities. These scribes work from home, borrowing their patrons’ books for a time. They are usually paid per page. Some stationers speed up the production of books by dividing them into gatherings and hiring separate copyists to duplicate''
 ''each, binding them together once all are complete. Other nobles do not have books copied, but instead buy popular titles kept in stock by booksellers.''
@@ -217,7 +217,7 @@
 ==Scriptoria==
 
 
-|]
+|}
 ''The bonus depends on the editor who assembles the collection, and the materials with which he can work. An editor can only collect as many tractatus into a single florilegium as he could write on that subject (half his score in an Ability, one fifth of his score in an Art). He must have access to a collection containing at least twice as many tractatus on the subject as he plans to include in the florilegium, and a score of at least six in the relevant Ability, or 20 in the relevant Art. If these minima are met, the tractatus all gain a +1 bonus to quality. The bonus increases to +2 if the editor is an insightful authority on the subject of the florilegium (has a score of at least 10 in the Ability, or 35 in the Art) and is working from a library with a peerless collection on a subject (having at least five times as many tractatus as the editor plans to include).''
 ''An editor may create as many florilegia as he wishes, but each assemblage takes a season. Florilegia express resonance, so their qualities cannot — yet — be improved with resonant materials or clarification, although young Bonisagus magi sometimes study this problem. Florilegia are purchased, at covenant creation, as copies of the included tractatus, including quality bonuses for scribing, binding, and illumination.''
 ''Folios: Every seven years, one society within House Bonisagus issues a publication, called a folio, that contains the best laboratory texts and tractatus presented for possible inclusion. More details can be found in Houses of Hermes: True Lineages.''
@@ -262,17 +262,17 @@
 
 ''The libraries of Summer covenants are similar to those of minor nobility. The library has its own room, which is well-ventilated but warm. The room has a series of niches around the walls, each containing books on a particular subject. These niches may have doors, which might lock, or might depend instead on the room being locked. The room is kept warm by fires, magic, or hypocausts. The center of the room is sometimes a scriptorium or bindery. Some covenants, alternately, use the center of the room for their councils, or to keep mementos of their battles. Mundane theft is deterred by several methods, including locking the room, chaining the books to the shelves, placing curses over the doorways, and keeping a staff member permanently busy in the room.''
 ''The books in Summer covenants are usually informative texts on a broad range of Arts and mundane topics, surrounding a few treasures that are pride of the col''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Note on Terms==
 
 ''In this book, an attempt has been made to keep obscure medieval terms to a minimum. The term “armarius” has been used here because the English term for these book closets is “book press.” To avoid confusion with a printing press or binder’s press, the Latin term has been used, although, in Mythic Europe, an armarius is any sort of locked cupboard. A related, modern, English term is armoire, borrowed from the French.''
 
-|]
+|}
 ''lection. These key holdings are rarely the result of trade. Many are the opuses of the founders of the covenant. Others are riches seized from dangerous locations, or were constructed with materials obtained with great daring. Libraries of this size sometimes also contain voluminous lab notes written by the members of the covenant during years of research.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The covenant pays a person to care for the library. Her tasks include dusting, airing the books, and making minor repairs. This person may have a second responsibility that accompanies her role as librarian, but as the collection increases in size, it holds less of her attention. Larger Summer libraries may have several staff, in multiple roles: bookbinder, copyist, illuminator, tanner, and apothecary.''
 
 ===Large Covenant Libraries===
@@ -280,12 +280,12 @@
 ''The libraries of powerful Summer, many Autumn, and some Winter covenants are similar to those of cathedral schools or universities. Libraries that follow this model have the following characteristics, but some large libraries remain similar to those of Summer covenants. The library is physically divided into smaller collections, by topic. These collections may share a single building, but more commonly are distributed around the covenant, close to the sancta of their most frequent users. The library has a central office, which stores the library’s catalog.''
 ''Large Hermetic libraries contain books whose subjects overlap. Their materials include works of graduated complexity on many Arts. The books also include notes on obscure areas of magical practice. Autumn libraries contain the collected papers of famous magi that have passed away.''
 
-|]
+|}
 ''The collection appears disjointed because it serves many roles. The library is a teaching aid, with material suitable for apprentices and young magi. It is a research tool, with material suitable for senior magi. The collection is a source of income, with copying of mediocre texts by outsiders permitted, perhaps encouraged. The library is an historical repository, a source of pride, and a display of power. Access to the library is a pawn in internal political struggles, and a way of showing favor to outsiders.''
 ''Libraries of this size have many staff. They perform all of the functions of the staff of smaller libraries, but the complexity of their collection requires an extra set of duties involving finding and retrieving materials for those who request them.''
 ''To do this, they catalog and shelve the library’s collection with a degree of precision not found elsewhere.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Unique Hermetic Collections===
 
@@ -295,28 +295,28 @@
 
 ''The librarians who manage the Order’s largest libraries are aware that no single covenant can own every book. Only Durenmar tries. Most of the great libraries of the Order have mediocre materials on a broad range of subjects, but specialize in a single theme. These libraries then grant each others’ researchers hospitality, under a variety of payment arrangements. Young magi may benefit from this, because this coalition of powerful libraries sometimes gives aid to new covenants, in exchange for their promise to specialize in an area of weakness within the Greater Collection, as they call the sum of all Hermetic libraries. Durenmar aids the efforts to build the Greater Collection. Its librarians see the Greater Collection as a spare copy of the, as yet incomplete, Durenmar Collection, from which damaged materials are recoverable.''
 
-|]
+|}
 
 ==The Hermetic Book Cycle==
 
 ''The book cycle describes the life of each book within a Hermetic library. In overview, it begins when a text is selected for inclusion. A copy of the text is then acquired. Next, this copy is prepared for''
 ''its role in the collection, a process called accessioning. The book is then used; it is read, studied from, perhaps used as a bargaining chip if it contains rare or valuable information. Finally, when no longer useful to their owners, books are selected for disposal, and disposed of.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Selection==
 
 
-|]
+|}
 ''A covenant’s librarian might seek particular texts to add to a Hermetic library for a variety of reasons. The first task for many young covenants is to assemble collection of sufficient breadth in Arts that it is possible for the covenant’s magi to train new apprentices. On the other hand, covenants whose member magi are particularly interested in specific theories of one particular Art usually find their library developing a depth of books on that particular topic. Beyond these trends, the specializations of a library reflect the interests, current or historical, of the magi of the covenant.''
 ''Magic is rarely used in book selection, although some of the spells described in later sections can assist a magus to peruse a library and find the works he would like copies of.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Standard Texts===
 
 
-|]
+|}
 ''For nine of the Arts, there is a basic text that, over time, has come to be accepted as the preferred primer for a magus seeking the competence necessary to train an apprentice. These texts, called the Roots of the Arts, are widely and cheaply available. A Redcap can arrange the delivery of any of these texts, for a very small consideration.''
 ''In eight of the Arts, there are summae that are widely accepted as the finest works yet produced. These works, called the Branches of the Arts, are sometimes purchased by young covenants from established libraries, but this is unusual. In the ritual of the Order it is accepted that these, the purest expressions of the Arts they concern, should be given as gifts, because the information they contain is of such great value that they cannot be met in kind. It is, however, a delicate matter for a younger covenant to convince an older one to patronize them with such a valuable gift and, surreptitiously, they often offer payments and services in exchange for the gift of one of these summae.''
 ''Many magi seek to pen a standard text, but fail to produce a work that gains this highest level of acclaim. Many''
@@ -338,8 +338,8 @@
 ''Sale by exchange occurs when a covenant advertises that it wishes to trade one class of text for a second class of text. This sort of barter can lead to extended negotiations, on delivery dates and confirmation of the quality of the copies to be traded by a third party trusted by both vendors. Even the choice of quality assessor is often a matter of haggling.''
 ''Sale by subscription occurs when a magus announces his intention to create a spell or device and invites magi to pay, in advance, for access to a Lab Text when it becomes available. Some magi seeking subscriptions offer a flat price, for example, a pawn of vis per subscriber. Other magi, performing more difficult and expensive research, sometimes encourage the formation of purchasing consortia by offering proportional payments. For example, a magus might agree to release his new Ritual in exchange for twentyfive pawns of vis. Covenants spread across Europe may form a buying cartel, splitting the costs in various ways. These consortia are maintained by side agreements. For example, a vis-rich covenant may pay a large proportion of the price in exchange for a series of political concessions, acts of assistance with vexing problems, and payments in kind. This allows poor, Spring covenants to join purchasing consortia.''
 ''No matter the method of sale, books are often sold at Tribunal. Many of these sales are pre-arranged, by the methods that are described above, and completed at the Tribunal meeting, when each party has the opportunity to inspect the goods of their correspondent. Other covenants bring surplus copies to sell to whoever desires to buy. Many covenants, not wanting the possible expense of unsold stock, create exemplars and take orders during tribunal for later delivery. These books are prepared to a series of informal standards, with the finer books, intended to be used for study, commanding higher prices than those intended as originals, from which working copies are to be made.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''It is theoretically possible for a peerlessly capable Hermetic teacher, writing in the best of circumstances, to create a summa with a quality score of approximately (41 – level). In the history of the Order, this has never happened, but it might during your saga.''
 ''A very few summae, those most prized in the Order, have been created by exceptionally powerful magi, with excellent Reputations, later in life. Perfect, clarified copies of these books have qualities of (35 – level).''
 ''Most of the summae traded within the Order are written by specialists in an Art, but with no particular skill in teaching. These summae have qualities somewhere between (31 – level) and (28 – level).''
@@ -351,7 +351,7 @@
 ==Hermetic Books: Definition of Categories of Value==
 
 
-|]
+|}
 ''Many Hermetic books are sold under a condition called the Cow and Calf Oath. This refers to a ruling from the Hibernia Tribunal that has not been ratified by the Grand Tribunal. It is an agreement that the purchaser of a book will not sell, or freely give, copies of that book without the seller’s permission. Some magi approve of the Cow and Calf Oath, while others despise it. The prices given below, aside from those for mundane books, assume the characters have sworn the Oath. Prices may be far higher for books that will rival their parents and reduce the income of the original covenant.''
 
 ===Mundane Books===
@@ -394,8 +394,8 @@
 ''A reading room is a portion of the library that is sectioned off from the collection, in which visitors are permitted to peruse books. It is usually appointed with comfortable chairs and lecterns (literally “reading stands”), since magi prefer to read books that are resting on a sloped''
 ''surface. Some covenants permit scholars to dine in the reading room, the slope of the lectern forcing them to keep their food and books on separate tables. Many reading rooms are sun-lit. There are many styles of reading room; the different structures are responses to varying Hermetic views on how to prevent visitors from harming staff and damaging books.''
 ''One model, which is traditional in some of Durenmar’s collections, involves visitors requesting materials by sliding a wax slate down an incline in the wall, into an adjoining room. The book is then slid down a similar incline onto a padded table in the reading room. This prevents eye and voice contact between the visitor and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''This brief grimoire is intended for magi acting as scribe-artisans or librarians within their covenants. There are a handful of Hermetic scribe-artisans, found predominantly in House Verditius, and most have copies of these spells, which they share readily. The scribe-artisans of House Verditius also frequently sell small magic items that incorporate many of these low-level spells. The usual form for enchantment is a leather stamp, used to place the library’s mark of ownership on the leather covers of books.''
 
 ===To Make Materials===
@@ -452,15 +452,15 @@
 ==Scribal Magic==
 
 
-|]
+|}
 ''staff, reducing the possibility of casual mind control. These measures have probably been unnecessary since the invention of the Aegis of the Hearth centuries ago, but the tradition remains. As a counterexample, the reading rooms for the covenant of Valnastium lie on a lawn in a section of the gardens. These are intermittently protected by weather magic. All reading rooms contain some measure to reduce the possibility of theft.''
 ''A scriptoriolum is a scribal carrel — a tiny room in which a scribe may work undisturbed. Carrels were a monastic invention, developed in response to the problems caused by autodictation. Mundane copyists have only used silent''
 ''reading for around the last century; before that time the usual method of making copies was for the scribe to read the book aloud, to himself, then copy what had been said. When many scribes were working together in a room, this made the scriptorium so noisy that many monasteries developed languages of hand-signals to allow communication in the scriptorium to continue. Autodictation continues in many institutions, and separating the scribes in tiny rooms, so that they work without disturbing each other, is popular in some monasteries.''
 ''A suite of scriptoriola is more expensive to build, and to run, than a scriptorium. Each carrel requires a supply of''
 ''stationery and illumination fuel. These are usually kept centrally, in a room near the suite, or in armarii along the hallway formed by the carrels. Some covenants refuse to allow their own staff to use carrels, because it prevents them from being observed, to ensure diligence. These covenants may allow visitors to use scriptoriola because the magi do not care if their guests waste their time.''
 ''Some covenants include suites for use by visiting scribes. These quarters vary in complexity from a single room in which the visitor sleeps, writes, reads, and — if he wishes — eats, up to elaborate apartments, which contain separate rooms for sleeping, bathing, writing, easting, and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''notaries, who make temporary copies. These are then sent to scribes. This spell does not allow a magus to write faster than the core rules permit, but does allow impaired magi to write when they would otherwise require a notary. A Finesse roll makes the writing particularly precise and neat, which is usually unimportant.''
 ''(Base 1, +2 metal, +2 Voice, +2 Ring)''
 
@@ -505,7 +505,7 @@
 ==Scribal Magic (Continued)==
 
 
-|]
+|}
 ''keeping a servant. Redcaps often use visitors’ suites, if they are available.''
 ''Covenants with visitors’ suites need to balance the cost of enchanting a second building with library-related magic against the risk of having strangers live within the library building for extended periods. Some young covenants rely upon their Aegis of the Hearth  and locked armarii exclusively, and so see no harm in allowing visitors to stay in the library building. Some mature covenants have their guest chambers some distance from the inner ward. An extreme case is found in the Transylvanian Tribunal, where one covenant occupies a mountain valley and maintains a visitors’ pavilion at the valley’s mouth, two miles from the covenant’s library.''
 
@@ -571,8 +571,8 @@
 ===a Useful Inculcator of Comments===
 
 ''ReHe 4 R: Touch, D: Mom, T: Ind This spell allows librarians to add new descriptions to their catalogs, by sliding the letters on a page aside to create the space for the new entry. The spell was originally created by a magusscribe to assist in glossing books, but is''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Much of the magic used in libraries supports the work of the librarians, rather than researchers. These effects treat the library as an enchanted space, rather than as a collection of books. The library space has the following functions, supporting those of library users like scribes and readers. Many libraries have small magic items that allow users, or unskilled covenfolk, to do the work of librarians.''
 ''Storage: Library books degrade over time, but their useful life is extended by storage in moderate heat, low humidity, circulating air clean of smoke and dust, darkness, and an area free of insects and fungal spores. Many small Hermetic libraries enchant armarii to provide the desired environment. Others enchant rooms, or devices in rooms, to regulate temperature, humidity, air circulation, and light level. Some companions find these devices useful when visiting ruins.''
 ''Book Retrieval: A book in a library is only useful when it is retrieved for use or maintenance. Many libraries have magical methods of maintaining the shelf order of books, and retrieving a desired book.''
@@ -584,7 +584,7 @@
 ==Enchanted Space==
 
 
-|]
+|}
 ''not effective for this purpose in newer works. That’s because the oak-gall “ink” in newer books is really a dye, and to move aside such characters, which are made of dyed parchment, would require an Animal requisite. This limitation can be ignored if magi use true inks, which are suspensions of colored material in fluid, to write their catalogs. This spell assumes an ink made of soot, gum, and vinegar, all of which lie within a single Form. A Dexterity + Finesse roll determines the quality of the text after the magus has relocated it. A result less than 6 indicates that the text has interpolated into and corrupted some other passage.''
 ''(Base 3, +1 Touch)''
 
@@ -711,5 +711,6 @@
 ==Knowledge==
 
 ''Knowledge-based libraries use the teaching rules rather than the book study rules. They are purchased using the covenant creation guidelines for teachers. An example of a knowledge-based library is found at the Cave of Twisting Shadows , where the ghosts of Criamon magi teach visitors their Arts. Spirits, demons, faeries who learned them from humans, familiars that outlived their masters, and — according to myth — angels can also teach the Arts in this way.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -82,15 +82,15 @@
 ''Size specifies broadly how much floor space is provided by the physical structure of the laboratory. The larger the laboratory is, the more benefits (Virtues) it can accommodate. Thus, each point of Size adds to the maximum permitted sum of Virtue points minus Flaw points (see Virtues and Flaws, below).''
 ''It is sometimes necessary to use the occupied Size, which might be less than the Size. More often than not, the laboratory is filled to capacity (there is no more room for extra points of Virtues), in which case the occupied Size is simply equal to the Size. However, if the lab space is not fully used, then the occupied Size is equal to the Size minus the number of free points available for new Virtues. (This is exactly the same as the number of points of Virtues minus Flaws, minus the Refinement.) For example, a lab with Size +4 and Refinement 0, and two points of Virtues minus Flaws, has an occupied Size of +2. In this case, the occupied Size is given in parentheses, so for this example, the Size would be written as “+4 (+2).”''
 ''Despite the extra Virtues that they may accommodate, most magi do not opt to have a significantly above-average''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Second Laboratories==
 
 ''The vast majority of magi have only one laboratory. The expense and effort of maintaining a second lab is usually not worthwhile, and most magi prefer to have one really good lab, rather than two mediocre ones. Also, the Peripheral Code only allows a magus to maintain one sanctum, which means that a magus with two labs will only have one that is legally protected, unless both labs are sufficiently close together so as to fit inside the same sanctum.''
 ''Nevertheless, some elderly and rich magi do maintain second laboratories. This might be to cater to several conflicting preferences, because the magus regularly travels to some remote location, or out of sheer vanity. It is somewhat common for covenants to maintain some additional labs, either for communal work, for guests, or for the extraction of vis from some remote magical aura. It should also be noted that a laboratory must occupy a single chamber. Installing lab equipment onto two separate floors of a tower, for example, counts as two separate labs.''
 
-|]
+|}
 ''sized lab. This is because labs with positive Size have two drawbacks.''
 ''Firstly, the more a laboratory is expanded, the more unmanageable and dangerous it becomes — it becomes harder to oversee it all, and it takes longer to get around it. Magi can only cope with a certain extent of equipment and outfittings before they begin to lose track of it all. For this reason, and as stated above, the occupied Size (if positive) subtracts from the lab’s base Safety. (Since Refinement has the opposite effect, however, this penalty may be offset by taking a Refinement at least as high as the Size.) There is no Safety benefit to an occupied Size less than zero.''
 ''Secondly, it looks slightly ridiculous if a chamber is far larger than it needs to be to accommodate a laboratory. It is not aesthetically pleasing if, for example, all of a magus’s furniture and equipment squats in the middle of a much larger room, surrounded by an echo chamber of unused space which merely gathers dust and cobwebs. For this reason, for every full two points by which the Size exceeds the occupied Size, you should take the Empty Flaw. For example, a lab with Size +5 (0) should take the Empty Flaw twice.''
@@ -115,8 +115,8 @@
 
 ''Upkeep specifies the monetary cost of building and maintaining the lab. For example, a lab with priceless ingredients may have a better General Quality, but it is also more expensive to maintain. A lab with an Upkeep of zero costs five pounds to build and one pound per typical year of use to maintain. See Chapter 5: Wealth and Poverty, Expenditure for the costs of labs with other Upkeep scores.''
 ''There may be insufficient money to maintain a lab at its current Upkeep. In this case, after two seasons of use with neglected maintenance, a new Flaw is gained automatically (or an existing Virtue lost), which reduces the Upkeep. This may need to be repeated (after another two seasons) until the Upkeep drops to an affordable level. For example, Semita Errabunda experiences a tempo''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Size and Refinement Summary==
 
@@ -136,7 +136,7 @@
 ===Greater Than Zero)===
 
 
-|]
+|}
 ''rary financial crisis, and can only afford to spend one pound per year on Darius’s Upkeep +2 laboratory (which normally needs three pounds per year). After two seasons, the lab gains a Flaw, which reduces the Upkeep to +1, and after a further two seasons, another Flaw, taking the Upkeep to 0.''
 ''If a new Virtue or Flaw (or its removal) results in an increase to Upkeep, then the difference between the old and new build costs (which are one pound per two points of the lab; see Chapter 5: Wealth and Poverty) must be paid. For example, raising a lab’s Upkeep from +2 to +4 (an increase of 70 points) costs 35 pounds. Thereafter, maintenance is paid at the new, higher rate. However, if the Upkeep score should drop, there is no refund.''
 
@@ -177,8 +177,8 @@
 ''spell with the benefit of a Lab Text, as well as to Lab Totals for translating Lab Texts. For every full three points of this Specialization, the lab’s user may also add one to her Profession: Scribe score whenever copying Lab Texts and books, and one to her relevant Language Ability when writing Lab Texts and books.''
 ''Vis Extraction: The value of the Specialization adds to the Lab Total for vis extraction.''
 ''Specializations are gained due to Virtues (most notably Features and Magic Items) and sometimes also due to Flaws. Therefore, to determine the Specializations of a magus’s lab (if any), simply total up the Specializations described by each of its Virtues and Flaws. (Note that for some of them, you are able to choose the Specialization). If you find that the laboratory has more than the allowed number of Specializations, you must drop one or more of them. You do not need to drop any Virtues or Flaws; just choose which Specializations you least want, and strike them out. Once made, however,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Experimentation: The lab might be equipped with bizarre custom outfittings, or have a non-standard configuration that appears confusing or even dangerous to the uninitiated.''
 ''Familiar: Such a lab often resembles one with a specialization in Animal. It likely features a prominent pen or dwelling for a familiar.''
 ''Items: The lab usually resembles a kind of workshop, with a great variety of tools, and is likely to be smelly, dirty, or noisy.''
@@ -208,7 +208,7 @@
 ==Laboratory Specializations and Appearance==
 
 
-|]
+|}
 ''the choice of dropped Specializations is fixed — you can only change it when the magus undertakes a season of work to improve the Refinement of the lab.''
 
 ==Laboratory Virtues and Flaws==
@@ -267,8 +267,8 @@
 ''Disguised: The lab or its entrance is protected by some mundane concealment, such as a hidden door. –1 Aesthetics.''
 ''Empty*: The lab has a large amount of empty, unused space. A lab that is much bigger than it needs to be is a disadvantage since it costs more to maintain the empty space — it takes more to heat, light, and clean the chamber. Alternatively, if the empty space is neglected, it gathers dirt and cobwebs, or causes drafts . This Flaw should be taken for every full two points by which the Size of the lab exceeds the occupied Size. As soon as the empty space is filled up, this Flaw is lost. –1 Aesthetics, either +1 Upkeep or –1 Health.''
 ''Low Ceiling*: The ceiling is lower than the requisite ten feet, which slightly hampers some magical activities. This Flaw should be taken twice if the ceiling is''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''If using the customized covenant creation rules (see ArM5, page 71), the baseline is that there is one standard laboratory (Size 0, Refinement 0) for each member of the covenant. Extra (spare) labs cost 50 Build Points each. For each magus who completely lacks a lab, 50 Build Points are gained. To determine the Build Point cost of labs that are either larger or smaller than average, multiply their Size Characteristics by 20.''
 ''One or more labs might start out with Minor or Major Virtues, if they have sufficient space (or if they are balanced with Flaws). Each Minor Virtue costs ten Build Points and each Major Virtue costs 20 Build Points. Free Virtues and all Flaws do not cost any Build Points. Note that starting laboratories with negative Size need to take one or more Flaws (Minor or Major) automatically.''
 ''For example, a covenant which starts with Size +2 labs for two of its magi (80 Points), Size 0 labs for the remaining magi, a spare Size 0 lab (50 Points), and a total of three Minor Virtues (30 Points) and one Major Virtue (20 Points) costs a total of 180 Build Points. If the Build Point total for the labs is negative, Build Points are freed up, which may be spent elsewhere.''
@@ -279,7 +279,7 @@
 ==Build Point Cost for Starting Laboratories==
 
 
-|]
+|}
 ''less than eight feet, or thrice if the magus has to stoop (in which case also take –2 Health). –1 General Quality, –1 Safety, –1 Aesthetics.''
 ''Subterranean: The lab is underground. There is a lack of natural light, and so more candles are required for lighting. +1 Upkeep, –1 Health, –1 Aesthetics; +1 Te.''
 ''Exposed: The building is partially exposed to the elements. For example, it is unroofed or poorly roofed, or wind blows through large cracks. –1 Safety, +1 Upkeep, –2 Health, –1 Aesthetics; +1 Au.''
@@ -406,15 +406,15 @@
 ''Invisible: The interior of the lab, and its outfittings, are invisible. Naturally, this requires the owner of the lab to have some magical means of seeing them, otherwise he is not going to get very far with his lab work. +1 Warping, halve the Aesthetics score after all other modifications ; +2 Im.''
 ''Magic Item*: A magic item is installed in the lab. It might be self-made, donated, purchased, or perhaps some kind of artifact which was found in the lab. If the item is very large, taking up a significant amount of space in the lab, then it should be treated as a Minor Virtue instead of a Free Virtue. This may grant Virtues or Flaws, alter Characteristics, or add to Specializations (see the guidelines below).''
 ''Magical Heating: Heating is provided magically. This Virtue functions as either Superior Heating or Excessive''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Sometimes a maga finds herself in the situation of moving into a lab that was previously owned or used by someone else. If such a lab has a Refinement score of zero or less, or if the lab has a positive Refinement but was designed for transient use (as the spare labs at Durenmar are, for example), then the new owner may simply move in and begin work straight away. In this case, there is no need to change the lab’s statistics. If a lab is unique and has a positive Refinement score, however, then the new owner will find it unfamiliar and must undertake a season of rearrangement (and possibly exploration) before it can be used. This counts as a season spent to increase the Refinement, with a chance to gain the Highly Organized and Spotless Virtues or the Hidden Defect Flaw (as detailed above), except''
 ''that the resulting Refinement score of the lab is equal to its old Refinement, or the new owner’s Magic Theory – 3, whichever is lower. If the new Refinement score is lower, the lab may now have more points of Virtues minus points of Flaws than is permitted. In this case, one or more Virtues are lost — the lab was sufficiently advanced or exotic that the new owner was unable to incorporate all of its improvements into her method. Finally, the storyguide should secretly make a Perception + Magic Theory roll against an Ease Factor of three times the lab’s original Refinement for the maga. If the roll fails, the Predecessor Flaw is gained, as the lab retains some foibles of the previous owner. If the roll botches, the Hidden Defect Flaw is gained in addition.''
 
 ==Taking Over a Laboratory==
 
 
-|]
+|}
 ''Heating (but without the space and Upkeep cost).''
 ''Magical Lighting: Lighting is provided magically. This Virtue functions as either Superior Lighting or Excessive Lighting (but without the space and Upkeep cost).''
 ''Preserved: The lab, or part of its contents, is immune from natural decay. –1 Upkeep, +1 Warping, +2 Health, +1 Aesthetics; +1 Cr.''
@@ -448,15 +448,15 @@
 ===Minor Supernatural Flaws===
 
 ''Lesser Illusion*: One of the apparent merits of the lab is but an illusion. Take one Minor Virtue immediately (there is no time cost) to balance this Flaw, but note that it is illusory and its effects are negated completely. For example, the lab may appear to be hung with fine tapestries which do not really exist. In this case, take the Superior Decoration Virtue, but''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Relocating a lab to a new room (possibly in a different covenant altogether) is unfortunately a rather tiresome procedure. Firstly, the contents of the lab must be disassembled and carefully and laboriously packed into sturdy crates. This takes a season of work, although it may delegated to an apprentice, for example. Secondly, the crates must be transported to the new site. Unless aided or performed by magic, there will inevitably be some breakage in transit — the transport counts (and costs) as two entire years of maintenance. Finally, the crates must be unpacked and the lab reassembled. This takes two seasons, since it is basically''
 ''the same as building a lab from scratch (except that the end result is the same as the  previous lab, not a standard lab). Due to this time and expense, labs are rarely transported (at least not by mundane means). When moving between covenants (or even between rooms in the same covenant), some magi employ magic (such as The Ambulatory Laboratory, above) to move their labs, but most simply abandon their old labs or donate them to other magi. Building a new lab from scratch is an opportunity for a fresh start and a new design concept, perhaps taking advantage of a larger or otherwise superior chamber.''
 
 ==Moving a Laboratory==
 
 
-|]
+|}
 ''do not apply its modifications to the lab’s statistics. +1 Warping, +1 Aesthetics; +1 Im.''
 ''Lightless: The lab is totally dark and its contents cannot be seen. The owner must devise some other means of spatial perception in order to work normally. –1 Upkeep, +1 Warping, the Aesthetics score cannot exceed –1; +1 Pe or Im.''
 ''Living: The lab’s structure is in some way alive. For example, it is inside a faerie tree, or in the belly of a slumbering beast. –2 Safety, +2 Warping; 3 points on appropriate Art Specialization(s).''
@@ -521,8 +521,8 @@
 ===Common Laboratory Items===
 
 ''A number of common magic items for the lab take on the role of mundane equipment, and do a better job of it. Items that provide light may negate the need for candles and lanterns, and grant the Magical Lighting Virtue. Items that provide heat may negate the need for fireplaces and fuel, and grant the Magical Heating Virtue. A set of magically enchanted tools may grant the Superior Tools Virtue. Containers with magical effects to purify mixtures may add to the General Quality, or give a Specialization in Vis Extraction. Magical decorations, such as tapestries or paintings that show moving pictures, may add to Aesthetics, or give a Specialization in Imaginem. A levi''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===The Bookstand of Hespera===
 
@@ -544,7 +544,7 @@
 ==Example Laboratory Items==
 
 
-|]
+|}
 ''tating chair might improve the Health or Aesthetics, or give a Rego Specialization. Items with protective effects, such as objects of unbreakable glassware, might improve the Safety. Rarely, an unhelpful or cursed item may be hidden in a lab and cause a malign effect.''
 
 ==Spells for Laboratories==
@@ -554,8 +554,8 @@
 ''However, there are disadvantages to the usage of non-Ritual spells. Casting such spells on a daily or monthly basis can become tiresome, and they may have unpredictable side effects. As a rule of thumb, for each such spell that is employed regularly, either add one to the lab’s Warping Characteristic or subtract one from its Safety.''
 ''For the sake of game balance, a further restriction also applies to the use of non-Ritual spells in the lab. A magus can never gain a bonus to Lab Totals (either from General Quality or a Specialization) by casting spells that use the same Arts as those in the Lab Total. For example, one''
 ''might attempt to cast (repeatedly, over the course of a season) a pair of Creo Imaginem spells to make the lab brightly lit (temporarily granting the Superior Lighting Virtue) and to create illusory paintings (temporarily granting the Superior Decoration Virtue). While this can be done (albeit with a penalty of two points on Warping or Safety), this does not add to the lab’s Imaginem Specialization. A magus undertaking a season of lab work involving Imaginem might already be presumed to be doing such things, and his proficiency with that Art is already figured into the Lab Total. However, the storyguide might allow the usage of a Creo Terram spell to create a large number of brightly colored crystals (temporar''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===The Resolute Mind of the Tireless Researcher===
 
@@ -587,7 +587,7 @@
 ==Example Laboratory Spells==
 
 
-|]
+|}
 ''ily granting the Specimens Virtue) to add one to the Imaginem Specialization, if the spell was good enough. A good guiding principle is that anything involving the use of vis (Ritual spells, magic items), or any inspiration or improvement from an external source or non-magical objects, can grant such Lab Total bonuses. Anything that comes directly from the magus’s own magics in the same season cannot.''
 
 ==Example Laboratories==
@@ -664,6 +664,9 @@
 ''Characteristics: Size –2, Refinement +1, General Quality –4, Upkeep –4, Safety –3, Warping +2, Health –2, Aesthetics –1''
 ''Specializations: Experimentation 1, Muto 3, Rego 1, Animal 2, Herbam 2''
 ''Personality Traits: Creepy +2''
+
+==Appendix==
+
 
 =Play Aids=
 
@@ -766,5 +769,6 @@
 
 ''(This oath was first sworn by the magi of Arae Flaviae, in the Rhine Tribunal.)''
 ''Permission granted to photocopy for personal use. © 2005 Trident, Inc. d/b/a Atlas Games. Also available as a PDF download from www.atlas-games.com/ArM5.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

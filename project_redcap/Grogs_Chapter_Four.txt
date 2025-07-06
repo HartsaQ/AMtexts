@@ -12,15 +12,15 @@
 
 =Grogs in Stories=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Commanding Larger Groups==
 
 ''A leader can usually only have a number of men under his command equal to his Leadership score. However, larger groups can be handled through having the leader include subordinates in his command, who each command their own men. For example, a Dux with a Leadership of 4 commands 3 soldiers and an Optio. The Optio has a Leadership of 3, and he therefore commands another 3 soldiers. The effective size''
 ''of the trained group is 8. There are disadvantages behind indirect command. Firstly, any Leadership rolls made by the overall leader to affect the entire group (such as those under Advanced Group Combat, later) have Ease Factors 3 higher than normal. Secondly, issuing commands that affect the whole group takes up the leader’s whole action, although the subordinates can relay the commands as a “free” action.''
 
-|]
+|}
 ''of the day-to-day running of an expedition: coordinating the purchase or gathering of food; organizing the stops on the way; and maybe even planning the route. Perhaps most important is the role of liaison with the magi; all orders to the grex come via the leader.''
 
 ==Optio, the Second in Command==
@@ -35,15 +35,15 @@
 ==Immune, the Specialist==
 
 ''In the Roman army, the immunes were a class of legionary who possessed specialized skills, which made them exempt from normal duties such as labor and patrol. The liber gregis recognizes the importance of specialists in a troop, and sensibly suggests''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Sounds Familiar?==
 
 ''The team structure suggested here is a common trope in modern literature and visual media, called the Five Man Band (the Hero, the Lancer, the Tough Guy, the Smart Guy, and the Chick). This timetested formula gives a spread of skills to a relatively small group of individuals. It is also a use''
 ''ful shortcut for your players who might subconsciously recognize the trope even if they are not consciously aware of it. Admittedly, the Five Man Band is a cliché, but clichés are appropriate for grogs, who are supposed to fill a support role rather than be the main figures in the action.''
 
-|]
+|}
 ''that the immune must be chosen according to the nature of the expedition. The most common immune is a chirurgeon; a turb that does not have access to basic first aid is in dire straits. However, like the Roman immunes, there is often a place for skills such as military architects, artillerymen, weapons instructors, carpenters, hunters, and trumpeters. Grogs with Supernatural Abilities such as Second Sight are usually immunes. If an immune does not have basic combat skills, he cannot be a member of the trained group.''
 
 ==Signifer, the Legate==
@@ -55,8 +55,8 @@
 ==Equipping the Grogs==
 
 ''Grogs are expected to be ready for anything, and carrying the correct equipment is the essence of good preparation. However, the benefits of equipment are often downplayed in Ars Magica Fifth Edition — this is not a game in which you load up on dungeoneering gear, since magi are considered to be above such things. They assume, as do their players, that the grogs have everything they might need. This section discusses''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Grog Pack==
 
@@ -68,7 +68,7 @@
 ''•	 One set of pots and pans for cooking •	 Two grappling hooks •	 Two lanterns and three flasks of oil •	 Ten paces of thin rope •	 A saw and axe for preparation of firewood''
 ''The gear that each grog carries must be arranged so that a large majority of the load can be dropped at a moment’s notice in emergency situations. The classic manner is to suspend the pack from the tines of a forked pole carried on one shoulder. For long expeditions, pack-grogs or animals should be considered. If the covenant follows the recommendations of the liber gregis, then each grog pack imposes a Load of 4. However, this load need not be taken into account for most situations like combat, since it can be discarded without using the grog’s action in a round.''
 
-|]
+|}
 ''the use of such equipment, and expands on the concepts of Load, Burden, and Encumbrance.''
 
 ==Equipment Bonuses==
@@ -81,8 +81,8 @@
 
 ''The Encumbrance system of Ars Magica Fifth Edition (page 178) is purposefully abstract, but it can be used to approximate weight. Broadly speaking, 1 point of Load equates to 7 pounds of weight. However, unwieldy or unbalanced objects might have a Load one point higher than their weight might suggest — a good''
 ''example of this is the long spear (ArM5, page 176). Based on this measurement, a 100-pound human is equivalent to a Load of 15, or a Burden of 5. The maximum practical weight a character can carry is that Load that inflicts an Encumbrance of –5, which is equivalent to a Burden of (Strength + 5). This is the weight that a character can lift over his head. A character can lift a Burden of (Strength + 7) off the ground, and can push or drag a Burden of (Strength + 12). See the nearby insert for an expanded Encumbrance table. Using a pulley to assist in lifting a load adds 3 to the character’s effective Strength. Using a lever to assist in pushing a load also adds 3 to the character’s effective Strength. If more than one character shoulders a load, then combine the weight that each can carry alone. Exempli gratia: Paul the grog has a Strength of +2. He can carry a maximum weight equal to a Load of 28 (Burden 7); this translates to approximately 196 pounds. He can lift 315 pounds off the ground (Burden 9), and drag 735 pounds (Burden 14). The story demands that the characters push a stone block aside. The storyguide judges''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Encumbrance and Ability Use==
 
@@ -93,7 +93,7 @@
 
 ''Equipment Ability (specialty) Assistance Whip or crop Animal Handling (obedience) Major Map Area Lore (planning route) Major Astronomical tables Artes Liberales (astronomy) Minor Rope Athletics (climbing) Major Pole (at least 10 foot) Athletics (distance jumping) Major Fine wine Folk Ken (getting information) Minor Flickering light Concentration (meditation) Minor Good clothing Charm (making good impression) Minor Guild badge Guild Lore (gaining favors) Minor Makeup Guile (disguise) Minor Bird Lime Hunt (birds) Major Concealed blade Legerdemain (slitting pouches) Major Watchglass Medicine (diagnosis) Minor Cantled saddle Ride (resisting charge) Major Flawless Crystal Second Sight (see regio boundaries)	 Minor Lampblack Stealth (hiding) Minor''
 
-|]
+|}
 ''this to be equivalent to an Individual of Terram, and therefore weighs over 4100 pounds (see Insert). It will take six grogs as strong as Paul to shift the stone block. If they each had a crowbar, then it would only take four of them. All four-footed beasts increase their Strength by half again for the purpose of determining Encumbrance and weight. Note that pack animals and horses usually have Strength scores beyond the normal human range: a courser has a Strength of +4, and a destrier has a Strength of +6 (see Realms of Power: Magic, page 142, or the Book of Beasts, freely available from Atlas Games’ website). A destrier can therefore take its rider (Load 21), his armor (Load 6), his lance, mace, and heater shield (Load 7), and a full grog pack (Load 4), and still be unencumbered (Burden 8, effective Strength 9).''
 ''1 Point of Load = 7 pounds''
 ''Maximum Practical Weight: Burden equal to (Strength + 5)''
@@ -110,8 +110,8 @@
 ==Sentries==
 
 ''Duty watches are described in Chapter 2. There are eight watches''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Expanded Encumbrance Table==
 
@@ -124,7 +124,7 @@
 ''For humans and animals, the Size characteristic is a good indicator of weight. A +1 increase in Size doubles the weight, +2 points of Size is a fivefold increase in weight, and +3 points of Size is a tenfold increase. The inverse is true when reducing points of Size.''
 ''Size Weight  –4 5 – 10 lb  –3 10 – 22 lb  –2 22 – 46 lb  –1 46 – 100 lb  0 100 – 215 lb  +1 215 – 465 lb  +2 465 – 1000 lb  +3 1000 – 2150 lb  +4 2150 – 4600 lb''
 
-|]
+|}
 ''in a day, each lasting three hours. Each duty watch is usually shared between one or two men, and they spend one watch on duty, followed by three watches off duty or free. When on expedition, there is no distinction between day patrol and night patrol; when not on duty, grogs are expected to sleep if it is nighttime, or be off duty during the daytime. The usual pattern of the day is that the troop is on the road by the beginning of the forenoon watch, although occasionally the magus orders an early start, which means the camp is roused at the start of the morntide watch, and leaves soon thereafter. A group travels for about nine hours; at the end of the foredusk watch, the dux usually orders a stop, although if a town, inn, or village is within reach, they may push on for a couple more hours. Grogs are expected to bunk down before the nighttide watch. The dux is in charge of determining watch rotations and sentry duty. Sentries are usually only placed when an expeditionary party is stationary; when on the road, all grogs are''
 ''expected to be in a constant state of alertness. However, if traveling on horseback or with wagons, the usual watch rotation can be maintained; soldiers quickly learn to nap whenever they can, and can even do so while in the saddle. The dux or his optio keeps track of the passing of the watches neverthe''
 ''less, so it is clear whose turn it is to take sentry duty when the group stops for the night. Dodging sentry duty is a popular pastime among grogs, and they come up with inventive reasons why they should be exempt, or why it is not their turn.''
@@ -132,15 +132,15 @@
 ==Guards==
 
 ''Providing protection from the various natural and supernatural hazards of Mythic Europe is the stock in trade of a covenant’s grogs. By their very nature, magi tend to get themselves into dangerous situations, whether it is from raiding a griffin’s nest, being beset by goblins in a haunted forest, or from a mob of peasants armed with pitchforks and torches. Guards usually use the Defenders maneuver in combat (ArM5, page 173, or else the optional rule for Defenders as Interceptor in Lords of Men, page 122) until their masters are safe from harm, after which time they can switch to more offensive maneuvers. However, guard duty need not be as simple as acting as a meat shield in combat. Magi tend to be less physically able than most grogs, and not''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Elements: Sentry Duty==
 
 ''It may seem like a cliché, but nighttime is the best time to spring an ambush on a group of characters. The attackers hope that most of their opponents will be asleep, and that the sentries can be bypassed or taken by surprise. Distracting a bored sentry with seemingly innocuous sounds or sights presents an opportunity for the grog to make Personality Trait rolls (see later) — does he err on the side of caution and wake the magi despite the potential punishment that will follow, or does he allow his curiosity to get the better of him? Sentry duty in faerie auras can be particularly distracting; satyrs might entice him''
 ''into a drinking match, or nymphs might try to seduce him. Or perhaps it was all a dream... Sentry duty can be especially important when dealing with intelligent and magical opponents. If a wizard knows he has interlopers in his woods, he can eavesdrop on their conversations and learn the names of the magi. Once the troop has moved on, he then has simply to search the campsite (or the latrine) for an Arcane Connection, and he has a pretty hefty Penetration Total against that magus. Alert sentries tend to discourage this behavior by chasing off those who might lurk at the fringes of a campsite.''
 
-|]
+|}
 ''all are capable of using magic to compensate for their lack. Consequentially, relatively easy tasks — jumping over pits, climbing trees, fording rivers, and even riding horses — tend to pose more of a challenge to them. It is the grogs’ duty to bring their masters home alive, and this includes preventing them from falling down cliffs, drowning, or being crushed under an avalanche. Grogs must therefore often come up with novel solutions to compensate for their masters’ physical ineptitude. It is the principal reason why rope takes up a substantial weight in the grog pack (see earlier), because it can be used in a number of ways. Rope makes climbing easier (and more importantly, falling less likely), and can also be used to prevent characters from being swept away when crossing swiftly flowing rivers.''
 
 ==Camp Duties==
@@ -148,8 +148,8 @@
 ''When on an expedition, grogs and their masters may need to spend many or most of their nights sleeping under the stars. This may be because the magi''
 ''wish to avoid the attention of towns, or because they have been unable to secure a place to stay, thanks to The Gift. It may be simply that the expeditions take them deep into the wilderness.''
 ''When not on sentry duty, grogs are assigned a number of tasks around camp. The first order of business is always preparing tents for the magi. An area must be located — preferably among young trees — and cleared of vegetation. If the camp is simply an overnight stop, then these tents tend to be simple bivouacs designed to keep off the worst of the weather, made by slinging a tarpaulin over a rope strung between two trees, and securing the four corners off the ground. Where there are not enough trees, a cornerbivouac can be constructed by attaching the rope to a tree and the ground, and covering it with a tarp. Fresh-cut vegetation keeps the mud off the floor, and a bed of springy boughs with a blanket covering them is sufficient. If rain is expected, then a channel is dug around the tent to divert the runoff. For longer stops, the grex usually carries proper tents with sides to keep out the wind. Carrying tent poles is very unusual; suitable staves are pro''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Elements: Guards==
 
@@ -162,7 +162,7 @@
 ''Bacon: Smoked and dried, often very fatty. Used in stews. Baked Eggs: Eggs from domestic fowl or hedgerow birds; pierced and baked in embers. Camp Stew: Dried meat boiled in ale with leeks and whatever vegetables have been brought or found. Thickened with flour or stale bread. Chiches: Dried chickpeas roasted in the embers, then stewed. Eels: Caught overnight in a submerged bag with the mouth propped open; eaten smoked for breakfast.''
 ''Girdle Bread: Flour and water mixed into dough, cooked on hot rocks or twisted around a skewer. Gruel: Oats and water as a thin porridge. Only eaten when supplies are low; the oats are usually those brought for the horses. Hedgehog: Thickly encased in clay and baked in the embers; the spines remain in the clay ball when opened. Pease Pudding: Dried peas cooked until thick. Often eaten cold next day. Stewed Fruit: Berries and hard fruit are hardly ever eaten raw. Waufres: Flour, eggs, and cheese, mixed together and fried as cakes. For a rare treat, drizzled with honey. Wortes: All manner of green vegetables, herbs, and leeks.''
 
-|]
+|}
 ''vided by nature. The grogs usually sleep uncovered, unless the weather is inappropriate, in which case a tent is erected to house them all. While some grogs are seeing to the tents, others are preparing a fire: gathering tinder, firewood, and curb stones. Suitable branches to support a cook-pot are trimmed, and water is usually put on to boil. All grogs take a turn at cooking, and most can produce a basic meal. Characters with the Survival Ability know which plants yield nutritious food, and gather wild vegetables, herbs, nuts, and fruit throughout the day to eat during the evening meal. Characters with the Hunt Ability might obtain fresh meat, but to avoid being caught for poaching, they usually just set snares for birds or small game. If the camp is to persist longer than a single night, grogs are set to digging latrine pits, and constructing tripod frames to support washing bowls, spits, and other camp furniture.''
 
 ==Guides and Messengers==
@@ -172,15 +172,15 @@
 ''Travel Speeds''
 ''The table that follows indicates the best speeds (in miles per day) achievable with different modes of transport. Note that these are the best''
 ''speeds: poor roads, severe weather, and frequent stops can substantially reduce these times. Furthermore, these are average best speed, since the presence of an inn or hospice might encourage characters to stop early for the day, or push on for a couple of hours more. Characters on foot, on horseback, or traveling by coach can fatigue themselves to travel further in a day; the horses are also fatigued by the same amount as their riders. Groups travel as fast as the slowest individual in the group. If speed is of the essence, a character can push himself even more. A character on foot can cover a number of miles in a day equal to 15 + (2 x Athletics) on good roads. If he is traveling cross country or through wilderness, subtract 5 to 10 miles per day. This figure assumes that the character is minimally encumbered, and costs the character two Long-Term Fatigue levels, one lost halfway through the day and the other at dusk. As long as he gets a good meal and a night’s sleep, he can do the same on the next day. However, there is a limit to how long a character can keep up this pace; after a number of days equal to his Athletics Ability, the character only regains one Fatigue level each night''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Elements: Camping==
 
 ''Grogs are relatively experienced at setting up camps, but doing so in bad conditions in a hurry could lead to all sorts of errors. Perhaps the main grog tent is put on top of a badger sett, and they do not appreciate the company. The fire pit might attract salamanders from the logs, or the rushes used on the floor of the magus’s tent could be infested with ants. Gathering food can present hazards as well. Soldiers rarely pass up the opportunity to gather honey, but there is no accepted way of gathering''
 ''this sugary treat safely. This could be a comical interlude, or develop into something more dangerous if the bees decide to attack in force. Traveling in unfamiliar habitat could be dangerous; a poisonous plant could resemble an edible foodstuff found closer to the covenant, or the herbs could be tainted by the supernatural aura they have grown in. A group of armed individuals in woodland might attract attention from nobles or their representatives, who assume the group are poachers (of course, this could easily be true).''
 
-|]
+|}
 ''of sleep, so every subsequent day he accrues an extra Fatigue level. If the character is encumbered, subtract the Encumbrance from his Athletics Ability before calculating distance traveled. On horseback, a character can cover a number of miles in a day equal to 30 + (2 x Ride) on good roads, subtracting 10 to 20 miles per day for cross-country or wilderness. The character and the horse suffer from Fatigue loss as described earlier. If the horse is encumbered, subtract its Encumbrance from the character’s Ride Ability (see Equipment, earlier, for the Encumbrance of horses). If a character lacks the Ride Ability then he is limited to 20 miles per day, and always loses one Long-Term Fatigue level. If the character is able to change horses he can travel faster; each change of horse in a day allows the character to travel an additional (2 x Ride) miles that day. However, there must be a minimal amount of time between changeovers — these speeds assume that the horses are ready and waiting for riders. If the grog has to locate and purchase a suitable horse, he can probably achieve a maximum of one change per day; if they are ready and waiting at the appropriate locations he can manage up to three changes. Skilled couriers on horseback have sometimes managed to travel 90 miles in a day, by pushing their horses to breaking point and''
 ''having a steady supply of fresh horses. Boats and ships can be powered by sails or by oars. Sailed vessels operate in coastal waters and across seas, whereas rowing vessels can also navigate rivers and lakes. Sailed vessels''
 ''typically operate all day and all night. If traveling downstream, a rowboat adds the speed of the current to its total speed, which is typically three miles an hour. Rowers can usually manage to row for 10 hours each day, but if going downstream, the boat can also float at the speed of the river when not being rowed, as long as someone steers it.''
@@ -188,8 +188,8 @@
 ''Miles per day (horseback): 30 + (2 x Ride) on good roads''
 ''For each change of horse: + (2 x Ride) miles per day''
 ''Fatigue cost: 2 Long-Term Fatigue levels''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Travel Fatigue==
 
@@ -201,7 +201,7 @@
 ''Tension can arise between grogs and magi over planning a route. For example, the grogs might desire to travel south by way of an inn famous for its ale (or its women...); however, the magi may ask for the quickest route, which would place them at the tavern at lunchtime. There is no way that the magi will want to stop for the night with half the day still available for traveling. How long can the grogs delay the group with mishaps — a false start down the wrong road, a thrown shoe on one of the horses, a loose axle pin on the cart — so that they reach the inn conveniently close to the end of the day? And will the magi even notice? Likewise, a local grog might plan a route which avoids the vicinity of the haunted lake without explaining why. If the magi demand that the group goes the shortest route, they might suffer rebellion or even desertion, such horrors does the lake hold in the minds of the men.''
 ''Soldiers are often superstitious, and might desire to make a side trip to visit a local shrine, or pay respects at the place where a former grog is buried. Sending grogs out to carry messages is a great way of initiating a grog-only story (see Chapter 3), or it may simply be a single event in a larger story. Messenger stories are better if small groups of grogs can be sent out rather than a single individual. Messenger stories often involve an element of speed. If the magi discover that their covenant or an ally is under immediate threat, then it might be a dash to warn them. A character injured on a mission might be in urgent need of a chirurgeon, but the best one in the region might be several days away. In such situations, even the simplest of obstacles — a cart with a broken wheel, a fallen tree, a washed-out bridge — can add to the dramatic tension of the situation.''
 
-|]
+|}
 
 ==Grogs Representatives==
 
@@ -234,15 +234,15 @@
 
 ''Personality Traits are largely a descriptive statistic in Ars Magica Fifth Edition, used as a guide to roleplaying''
 ''a character, rather than actually deciding what they do. However, grogs often have less well-developed personalities due to their role in the game, and they will undoubtedly act differently under the control of different players. As a consequence, the troupe may decide to make greater use of Personality Trait rolls when determining the actions of grogs. Each character begins with at least three Personality Traits that range from –3 to +3 (ArM5, page 33). Most grogs should have a Brave and a Loyal Personality Trait. The Loyal Trait is assumed to represent their loyalty to the covenant, although they may develop different loyalties to different organizations or individuals. The Loyal Trait is also used as a measure of the impact of The Gift on non-magi (see Growing Used to The Gift, later). If a character has a Personality Flaw, then she could be given an additional Personality Trait that matches that Flaw. This trait should have a value of +3 (for a Minor Flaw) or +6 (for a Major Flaw). Several resources for Ars Magica''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Elements: Representing Magi==
 
 ''Using grogs as the interface between the magi and the rest of the world is an excellent way to get grogs involved in stories. A grog with no social Abilities is often better than a magus with some social Abilities and The Gift; even if their effective scores are the same, the magus’ very presence makes people uncomfortable and suspicious. If grogs are responsible for all social interactions, only the grogs are aware of the content of those conversations. This has several roleplaying applications. If the magi habitually leave grogs to deal with mundanes, you might want to make a clear separation between player and character knowledge. If a grog is ordered to ask a peasant what he''
 ''knows about the ruined castle, then take the player to one side and deliver the peasant’s rambling account of the legend. That player now has to relate the legend to the others, as if he were the grog reporting back. Any mistakes should not be corrected, but the player can ask for his grog to make easy Intelligence rolls to fill in details like names. If a grog is given a pouch of money and asked to purchase something, he may take advantage of the general unworldliness of magi, and take a “commission” or “finder’s fee.” A particularly audacious manner of doing this is under the magus’ very nose, if he does not speak the language. Let the grog’s Personality Traits guide this sort of behavior.''
 
-|]
+|}
 ''Fifth Edition have provided lists of possible Personality Traits. Realms of Power: The Divine Revised Edition, page 40, has an insert relating Personality Traits to religious virtues and vices, and discusses which traits oppose which others. Art & Academe, page 40, discusses the relationship between complexion and Personality traits, and provides further lists of possible traits linked to the preponderance of the humors.''
 
 ==Making Personality Trait Rolls==
@@ -332,5 +332,6 @@
 ''Remembrance''
 ''Grogs often institute some communal ritual to revere their deceased comrades. The liber gregis suggests that this is permitted, even encouraged by the magi. A roll of the fallen, displayed in a prominent place and ceremonially inscribed with the names of deceased grogs, is a good way to achieve this. Even if the grogs cannot actually read the honor roll, they know which names correspond to their particular friends, and know that they will not be themselves forgotten when death comes for them. The liber''
 ''gregis also suggests that, once a year, on All Souls’ Day (November 1), the magi lead a ceremony remembering the fallen, and pleads that covenants find the money to add the grog’s name to the obituary of a local monastery, so that prayers will be said to speed his time in purgatory. If a grog has left behind a wife or family, they will often be cared for by the troop. Any pension owed to the deceased individual devolves to them, and the other grogs often contribute what aid they can afford. It is not unusual for a close friend of the deceased grog to offer to marry the widow, so that she will be well-cared for and her children protected from poverty. It is not necessary for every grog death to be played out in detail, but it is worth it on occasion, so that the grog can be remembered in death as much as he was in life.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

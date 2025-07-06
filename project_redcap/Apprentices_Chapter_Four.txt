@@ -17,8 +17,8 @@
 ''Characteristics: Int –1, Per –2, Pre +3, Com +3, Str –2, Sta 0, Dex +1, Qik +1 (Characteristic Modifier –2) Size: –3 Age: 11 (11) Virtues and Flaws: Daughter of Branded Criminal; Inconspicuous, Inspirational; Small Frame Personality Traits: Mischievous +3, Determined +2, Loyal –1 Combat: Dodge: Init –1, Attack n/a, Defense +1, Damage n/a Soak: –2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–2), –3 (3–4), –5 (5–6), Incapacitated (7–8), Dead (9+) Abilities: Area Lore 2 (secondary streets), Athletics 1 (avoiding pursuit), Awareness 1 (city guards), Brawl 1 (dodge), Charm 1 (city guards), Folk Ken 1 (adults), Guile 2 (city guards), Leadership 3 (peers),''
 ''Legerdemain 2 (picking pockets), Music 2 (singing), Native Language 5 (thieves’ slang), Stealth 1 (following people), Survival 2 (finding fresh water) Equipment: Ratty clothes, shabby cloak, and a hidden dagger Encumbrance: 0 (0) Appearance: The urchin is a small, freckled-face, dirty girl, with quick fingers and ferretlike eyes.''
 ''The urchin is the daughter of a branded outlaw, who fled her abusive home and lives on the streets of a large city. She has made friends through her inventive songs, which usually poke fun at some local dignitary or market celebrity. Her immediate goal is to lead a gang of child thieves. The urchin started with the Exploring Childhood sample childhood. The character has room for another Minor Virtue and Flaw.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: An Unlikely Ghost==
 
@@ -26,7 +26,7 @@
 ''dicate a Magic aura. The castle is a battered shell, strewn with piles of rubble and overgrown by ivy and thorny bushes. As soon as the party begins exploring the area, the mundane members are plagued by minor magical effects. The ground shifts and causes slipping, cloaks''
 ''tighten around throats, and eerie shrieks wail. But it is not a ghost causing the mishaps; a Gifted child of nine hides in the ruins, using his ability to force Turbulences to good effect. Can the magus discover the truth, and possibly take the child as his future apprentice?''
 
-|]
+|}
 ''get two “free” seasons a year. A parent spends one of the free seasons training the child, who receives experience points based on the parent’s Training Source Quality. Every Ability can be increased through training, as long as the requirements for both trainer and pupil are met (ArM5, page 164). Growing up in a covenant is similar to growing up in a village, town, or other settlement, but differs in important ways. Typically, covenfolk have a better understanding of the various inhabitants of Mythic Europe, although this is not always so. A covenfolk mother will probably soothe a child who says that a faerie stole her shoes, while a village mother might beat the child for lying or offending the faerie. Supernatural Abilities are better accepted, and those with an aptitude may be asked by the magi to accept additional responsibilities. A child with Second Sight might be asked to look for new regiones in the nearby forest, and a child with Premonitions might be asked to accompany the covenfolk’s products to the market. Naturally, the child’s friends want to tag along. Life outside the covenant is harder, especially for a Gifted child. Depending on circumstances, his parents may still love and protect him. On the other hand, they may have been driven out of town due to their peculiar child. Friends should be few for a Gifted child living outside a covenant, where playmates are at least more likely, if not guaranteed. Everything depends on the player and the troupe, and the type of tales the group wishes to''
 
 ==Companion: Merchant’s Son==
@@ -44,15 +44,15 @@
 ==Finding an Apprentice==
 
 ''In most Tribunals, the Order of Hermes does not have a dedicated branch of servants looking for Gifted individuals to become apprentices. The Thebes Tribunal is an exception, as is detailed in The Sundered Eagle: The Theban Tribunal. In other Tribunals, each magus finds his own apprentice. The traditional model has the magus scouring the rustic villages and urban squalor of Mythic Europe, looking for a Gifted youth. House Bonisagus has''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds: Finding a Parens==
 
 ''Instead of an adventure in which an adult magus and his staff find an apprentice, a troupe could play the reverse: a Gifted child and his childhood friends leave town to find a wizard. The children know that their Gifted friend is “special” and think that aiding him will provide them with a new home, as well as foster the interest of a powerful magical benefactor in their future. There may be additional reasons why the children want to leave the village:''
 ''an oppressive bully, uninterested parents, or an overbearing parish priest. After the children are discovered to be missing, the village reeve or bailiff or headman sends a search party to find them. Serfs can’t just vacate the farm of their own volition! A prolonged chase ensues, with the player characters hunting through the mystical faerie woods looking for the rumored hidden wizards’ tower, all the while hunted by the reeve and his hounds.''
 
-|]
+|}
 ''a second, easier option because a Bonisagus magus can take another magus’ apprentice from him. Even so, that House has rules for those members who exercise this option, so that the practice is not overused and burdensome (see Houses of Hermes: True Lineages, page 17). The surest way of finding an apprentice is an adventure, one designed by the storyguide for the player’s magus. However, this might not suit the other players or the troupe as a whole, who might be interested in other sorts of adventures. A player can instead declare that his magus is spending a season looking for an apprentice. The player makes a Perception + stress die roll against an Ease Factor of 12 to successfully find an apprentice (ArM5, page 106). Because success is difficult, a player has the option of seeking help from another player character or storyguide character who can spare the time to help the seeking magus. The assistant character makes a Characteristic + Ability check against an Ease Factor of 12. Success lowers the magus’ Ease Factor by 3 if the assistant is a player character or by 1 if the assistant is a storyguide character. Multiple assistants are allowed. Both the magus and his assistants must spend the entire season looking for an apprentice. Assistants might include characters such as a female scholar companion making a Communication + Area Lore roll as she investigates neighboring nunneries, a knight using Presence + Etiquette to ask discreet questions at court, and a rogue using Intelligence + Folk Ken to glean information from villagers.''
 ''Ex Miscellanea magi of the lineage of Pralix are very good at detecting Gifted individuals, using the Comprehend Magic Virtue that is inherent within the line (Houses of Hermes: Societates, page 128). Such a magus concentrates on finding Gifted hedge wizards to bring into the Order, rather than Gifted children to apprentice, but an apprenticeseeking magus who knows such a Pralixian magus might ask for aid. Since most magi do not have this Supernatural Virtue, many have designed spells to facilitate searching for an apprentice. Unfortunately, such spells are not always accurate. Detecting The Gift is not as straight''
 ''forward as detecting a magical aura or an enchanted item. Supernatural powers are more common than The Gift, and spells designed to detect The Gift will sometimes inaccurately indicate those possessing other supernatural traits.''
@@ -87,22 +87,22 @@
 ''For a competent magus, Opening the Arts is an automatic process unless the apprentice has one or more Supernatural Abilities. Many, though not all, Gifted children have an accompanying Supernatural Ability. In those situations, the parens’ Intellego Vim Lab Total must equal or exceed 5 times the apprentice’s score in any non-Her''
 ''metic Supernatural Ability. Also, the Lab Total must be at least 10 if the apprentice’s Supernatural Ability is from a Minor Virtue and 30 if from a Major. If the apprentice’s Supernatural Virtue does not have a corresponding Supernatural Ability, Greater Immunity for example, the matching the minimum Intellego Vim Lab Total will suffice (10 for Minor, 30 for Major). Children with a single Supernatural Ability are usually easy to Open to the Arts. An Intellego Vim Lab Total of 10 is automatic unless the parens Opening the Arts has less than 5 in either Intellgo or Vim, and even then it is generally possible. A Lab Total of 30 is harder but not impossible. A child with more than one Supernatural Ability is more difficult. Supernatural Virtues and Abilities stack when calculating the necessary level of the parens’ Intellego Vim Lab Total. For example, to Open the Arts of a Gifted child with Greater Immunity and a score of 3 in Dowsing, her parens needs an Intellego Vim Lab Total of 45: 30 for the Major Virtue without a corresponding Ability, plus 5 times the score in the Supernatural Ability.''
 ''Simply meeting or exceeding the required Lab Total Opens the Arts of the apprentice, but destroys the Supernatural Ability. To maintain exciting Supernatural Abilities, the Lab Total must double the necessary level. Supernatural Abilities can also be converted into Hermetic Virtues, if the parens’ Lab Total is high enough. Maintain or converting is the parens’ decision. Supernatural Abilities derived from a Minor Supernatural Virtue convert into Minor Hermetic Virtues, and a Supernatural Abilities derived from Major Supernatural Virtues change into Major Hermetic Virtues. If converted, Supernatural Abilities must normally change into Hermetic Virtues that the parens possesses. This is similar to teaching the apprentice Hermetic Virtues (see later); only Hermetic Virtues possessed by the magus can be passed on, either through teaching or converting. While the parens need not know how to perform the Supernatural Ability, he must know how to perform the Hermetic Virtue. Alternatively, the parens may convert a Supernatural Virtue into an Hermetic Virtue he does not know, if the two Virtues are very''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: I’m Not Going Anywhere!==
 
 ''Magi like to think that returning to the covenant with a Gifted child in tow is easy. Storywise, it is only if you want it to be. Most likely, the child is meeting the magus for the first time and reacts negatively to his Gift. Escape, not accompaniment, is a likely first thought. An interesting initial adventure might be for the player characters to re''
 ''turn to the covenant with a Gifted player character child. The child does everything possible to escape, while the other players act to contain the child without hurting her. This could be especially fun if the other player characters are grogs or companions, and do not have the necessary magical means to easily transport the child.''
 
-|]
+|}
 ''similar. For example, Skinchanger might convert into a Minor Magical Focus with self-transformation, or Magic Sensitivity into an Affinity with Intellego or Vim. In this''
 ''case, the Supernatural Virtue was a feature of the child’s Gift, and the parens merely turns that feature into a new, Hermetic channel. Neither the parens nor the child knows''
 ''what this channel is, and the child is likely to believe that the ability has been simply lost. The troupe should decide whether two Virtues are sufficiently similar.''
 ''After the Arts Are Opened''
 ''Once the Arts are Opened, the apprentice character has a 0 in each of the five Techniques and ten Forms. She can immediately cast spontaneous spells. She can read any casting tablets the covenant may have, providing she has a score of 1 in Artes Liberales and 4 in Latin. Barring some logical limitations — the apprentice can’t cast formulaic spells because she doesn’t know any — an apprentice can undertake any magical activity a magus can. Simply use the applicable formula based on the current Arts scores of the apprentice for any magical activity she undertakes.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Hermetic Terminology==
 
@@ -111,7 +111,7 @@
 ''the female plural discipulae. Dominus: “Master” or “lord,” this term is used by an apprentice for his master. A female maga is a domina. The male plural is domini and the female plural is dominae. Frater: “Brother,” this word means a fellow male who was taught Hermetic magic by the apprentice’s master. A female maga is a soror. Infantia: The period of an apprentice’s life before he was accepted by his master, “infancy.” Magister: A term for an apprentice’s teacher or tutor, most commonly applied to mundane teachers. This word is also used in scho''
 ''lastic circles and universities. Pater: “father,” often used after apprenticeship in place of parens to indicate affection or respect, sometimes used during apprenticeship instead of dominus as a term of endearment. The female equivalent is mater. Parens: “Parent”, as mentioned. The plural of parens is parentes. Pueritia: The early stages of an apprentice’s education, generally associated with childhood. Tiro: “Young soldier, recruit, or beginner”, this word is used by apprentices to refer to each other. Older magi use it derisively to imply inexperience or dull-wittedness in their fellows.''
 
-|]
+|}
 ''Delaying Opening the Arts''
 ''Not every magus Opens the Arts of his apprentice immediately. He might want the child trained in Academic or Arcane Abilities first, need to increase his own low Art score before Opening the Arts, or have other pressing matters on hand. He can declare the child his apprentice, but she isn’t legally bound to him until he Opens her Arts. This is a gamble; until the child is officially his, she can be taken by other magi. His friends and sodales will prob''
 ''ably honor his decision and not snatch up the child, but that isn’t a guarantee, nor does it prevent other magi from taking the child. If a magus does snatch the child and quickly make her an apprentice, there are few options for the deprived magus. He could declare Wizard’s War and hope to take the child back, but this is risky and he could lose the child as a casualty of the war. He could also offer to trade the magus something more valuable, and perhaps even go into debt to secure the apprentice’s return.''
@@ -129,8 +129,8 @@
 ''The Code of Hermes contains several regulations concerning apprentices, which are easily sum''
 ''marized. A Gifted child is legally recognized as a magus’ apprentice only when the magus opens the apprentice’s Arts. This protection is immediate and begins on the first day of the season spent opening the apprentice’s Arts. The parens must personally instruct the apprentice for one season during each year of apprenticeship, although the type of instruction is not specified. The parens must also “be the first to strike” if the apprentice, likely a magus at that point, turns against the Order. The Code does not protect the apprentice from his master, who can treat the apprentice as he sees fit. The parens can train the apprentice in any fashion imaginable, and the apprentice must perform each''
 ''and every task assigned. Failure to please the magus may have dire consequences, and a magus faces no legal repercussions if he destroys his unsatisfactory apprentice. There are many unsavory tasks for ungrateful apprentices; almost any Tytalus magus could write a tractatus on the ways to abusively instruct a failing apprentice. The apprentice can be traded to another magus and has no say in the transaction. A magus does not need to explain why he gives an apprentice away. Perhaps the apprentice is at fault and the magus tires of a stupid, lazy, or senseless lad. Perhaps the magus is to blame, underestimating the time commitment involved in training an apprentice. Maybe he simply changes his mind. On the other hand, he might gain something more valuable than an apprentice in trade from another magus. It is entirely decided upon by the parens. The Code of Hermes indirectly protects the apprentice from other magi because the apprentice is the magus’ property, and receives the same legal protection as the magus’ familiar, invested devices, vis sites, and other magical goods. Killing a magus’ apprentice is depriving that magus of his magical power, and is covered by the Code’s first provision. In cases of legally sanctioned violence where a magus’ property is targetable, Wizards’ Wars and Wizards’ Marches, an apprentice is fair game. Like any other property of the defendant, an apprentice can be destroyed or taken. A magus could declare Wizard’s War on another magus with the sole intent of taking his apprentice. If he succeeds, he''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Midnight Rescue==
 
@@ -142,12 +142,12 @@
 ''An overbearing and cruel parens mistakenly forgets to train his apprentice for a season during the year. Another magus notices this and, while the parens is distracted, abducts the apprentice and declares that he is the apprentice’s new parens. Naturally, the first parens disagrees and demands the return of the apprentice, to which the second parens replies that it must be settled at Tribunal, five''
 ''years hence. In the meantime, the apprentice must avoid the first parens, who will surely try to snatch him back, and learn as much as he can from his new parens. If the issue becomes too strained, one magus may declare Wizard’s War against the other, and the apprentice’s only hope is to survive the conflict. This can be particularly complicated if both magi live at the same covenant.''
 
-|]
+|}
 ''might need to defend the apprentice from the former parens in future Wizards’ Wars. Like other property, an apprentice can serve as compensation for crimes. A Tribunal could decide that an apprentice is forfeit, and should be given to someone else, or destroyed. The crime does not have to involve the apprentice for the Tribunal to decide on such a punishment. If an apprentice commits an Hermetic crime, then his parens is held liable. Most Tribunals assume that the apprentice acted under the magus’ orders. If a magus can prove that the apprentice acted of his own volition, which Hermetic magic can do, then the Tribunal has a choice. It can deal with the apprentice as the magus’ property and punish the parens, or treat the apprentice as an interloper without any legal recognition within the group. If a hedge''
 ''wizard committed the crime, how would the Order respond? Essentially the parens can remove any indirect protection that the Code might have offered from the apprentice. Often, this is a death sentence. The Code of Hermes does not provide any means of appeal if the''
 ''apprentice feels that his parens isn’t abiding by the parens-apprentice bargain. An apprentice cannot petition for a new master, arrange better treatment from the current master, or attempt his Gauntlet early. As far as the apprentice is concerned, the Code guarantees that his pa''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: A Convenient Suspect==
 
@@ -160,7 +160,7 @@
 ''ation. According to the abbot, he can only retain the farm if the child is returned to him. If the player character is the apprentice, perhaps with the Flaw: Heir or Close Family Ties (the uncle), he must somehow deal with his uncle. Most likely, his parens won’t let him return with his uncle, even if he wants to. He can’t legally sign off the rights to the farm, since children cannot make legal contracts. Perhaps he can convince the abbot that the property is best managed by his uncle, while his place is in the covenant. If the player character is the parens, he has several options. He''
 ''could ignore the situation entirely. He’ll retain his apprentice, who mopes and pouts because of his uncle’s misfortune. He might be able to magically affect the situation, although the monastery has a Divine aura of 4 and the abbot rarely leaves it. He could hire a lawyer to argue the case in the bishop’s court, even though the abbot and the bishop are cousins. Perhaps he lays claim to the farm, saying that he is the boy’s legal guardian, as he realizes the estate’s financial worth to the covenant. All the while, he must make sure that his involvement with the mundanes does not breach the Code, a narrow path to tread.''
 
-|]
+|}
 ''rens can treat him poorly, and his only recourse is to suffer through it. If he wants a new master, he will have to be subtle. He needs to show his worth to a prospective new parens, while at the same time proving worthless to his current master. Just how far he can go depends on the temperament of his parens. House Bonisagus has additional legal privileges, because magi from that House can take an apprentice away from another magus. The House has some self-governing guidelines that apply, but these are merely suggestions, not laws (Houses of Hermes: True Lineages, page 17). Some Bonisagus magi trade''
 ''apprentices for short periods of time through fosterage, effectively breaking the rule that an apprentice must receive personal instruction. Other Houses and other magi also foster apprentices. This is a breach of the Code, and if brought to trial, each fostering magus could be accused of a low crime if they are not also providing each apprentice a season of personal instruction during the fostering period. Because fosterage is always agreed to by both participating magi, the likelihood that one would charge the other with a crime is slight. Nor could either apprentice bring the parentes up on charges. Others''
 ''could, however, and magi outside the fostering agreement could accuse either of the fostering magi of a low crime. Since fostering is common, most magi would view the accuser negatively, even though he may be technically right.''
@@ -212,8 +212,8 @@
 ==Cantations==
 
 ''When Hermetic magi speak of spells, they often use the Latin word incantamen, which can mean both formulaic and spontaneous spells. Over time various magi started using the Latin word cantamen to mean “little spell”. When applied to the magical castings of a magus, the term can be insulting: Vide Darii cantamen perdere! (“Look at Darius’ little spell of destruction!”). Using cantamen or “cantation” is very appropriate for a low-level spell cast by an apprentice, however, and magi often call a lowlevel formulaic spell a cantation, especially when the caster is an apprentice. Not every apprentice knows formulaic spells. Many magi consider it a waste of time and resources to teach a young apprentice spells. But not all agree, and sometimes a parens will teach a child apprentice formulaic spells. Teaching formulaic spells is explained in ArM5, page 95. In a single season, an apprentice can learn a number of spells equal to her parens’ highest applicable Lab Total, while the highest individual spell level''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Unlicensed Loan==
 
@@ -225,7 +225,7 @@
 ''Stories of King Arthur are popular in the 13th century. Arthur’s mystical companion, Merlin, is a master of self-transformation spells and prophesies, and his tales capture the imagination of apprentices. Child apprentices love the drama of the tales and the legendary proportions Merlin assumes. Adolescent apprentices like debating whether the tales are true, arguing the pros and cons with their masters, their peers, and anyone who has an opinion. Their favorite part of the story is when Merlin teaches magic to the young damsel Nimiane. In eight days, he tells her all his ar''
 ''cane secrets, including three great names used to power his most potent spells, which she records in a secret journal. Remembering this tale, adult magi have searched for this journal, called “The Book of Nimiane,” scouring the Stonehenge and Normandy Tribunals as they look for the book and the secret glen where Merlin’s instructions were recorded. The Seekers, a society of magi within the Order who often search out such artifacts, claim there is no evidence that such a book exists, but few trust these secretive explorers. Whether these tales are true or not depends on your saga.''
 
-|]
+|}
 ''she can learn is her Lab Total in the spell’s Technique and Form. In most circumstances, an apprentice will be able to learn many cantations in a single season. A cantation’s main advantage is that it usually works, or at least is usually cast. Because a cantation is a formulaic spell, the spell casting total needs to fall short of the spell level by 10 or more to fail (ArM5, page 81). If the casting total is 10 or less below the spell level, the cantation is cast and the caster loses a Fatigue level. Spontaneous magic can have the same magical effect as any cantation, but a caster needs to meet or exceed the desired effect level using spontaneous magic, something not every apprentice will be able to manage. Knowing a cantation nearly guarantees the successful casting of the magical effect. Spontaneous magic does not offer that same promise, for an apprentice. Below are some sample cantations that are especially popular with apprentices:''
 ''The Apprentice’s Delight''
 ''CrHe 3 R: Touch, D: Dia, T: Ind This spell creates a ripe apple that lasts for two minutes, long enough to be gobbled down. The apple provides no nourishment; its pleasure is in the sweetness of eating it. (Base 1, + 1 Touch, + 1 Diameter)''
@@ -257,8 +257,8 @@
 ''ReMe 5 R: Eye D: Mom, T: Ind The target becomes sleepy and falls asleep within a few seconds. (Base 4, +1 Eye)''
 ''The Jongleur’s Steps''
 ''ReAn 4 R: Voice, D: Conc, T: Ind This spell animates a shoe, making it caper and jig under the caster’s control. Cast on a shoe that someone is wearing, the spell causes the wearer to stumble. (Base 1, +2 Voice, +1 Conc)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Optional Rule: Learning Cantations in Play==
 
@@ -266,7 +266,7 @@
 ''eventually becomes “known,” the definition of a formulaic spell. Using this rule allows a player to spend adventure experience points on a spontaneous spell his character used in play to turn it into a formulaic. He must use the same spell repeatedly, at least as many times as the level of the spell. If this condition is met, the player can buy the spell with ex''
 ''perience points earned from the adventure. The level of the spell determines its cost, at one experience point per level. If you use this rule, it should also be available to adult magi. However, adult magi can invent many cantations in a single season, and thus are unlikely to want to take advantage of the rule very often.''
 
-|]
+|}
 ''Jupiter’s Tears''
 ''CrAu 5 R: Sight, D: Conc, T: Ind This spell makes a single cloud on an overcast day release its moisture, causing a light drizzle. (Base 1, +1 Conc, +3 Sight)''
 ''The Laundress’ Clothesline''
@@ -299,12 +299,15 @@
 ''ReAu 4 R: Per, D: Sun, T: Ind This spell wards the caster from light breezes, redirecting them to blow around the caster and leave him untouched. It is ineffective against stronger winds. (Base 2, +2 Sun)''
 ''Whispering Fingers''
 ''CrMe 5 R: Touch, D: Conc, T: Ind This spell lets the caster speak directly into the target’s mind for as long as he maintains concentration. (Base 3, +1 Touch, +1 Conc)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Dream Witches==
 
 ''Some mothers threaten their misbehaving children with tales of bogeymen, horrible night creatures that devour bad girls and boys. A fairly common practice, the exact monster invoked differs by region, and depending where the family lives the traditional bogeyman might be goblins, bugbears, elves, or vampires. Apprentices soon realize that these traditional bogeymen are either fairly benign or easily managed through magic, and this psychological tool loses much of its impact. But there are worse creatures in the world than elves and bugbears. Instead of the traditional night creatures, a maga might frighten her misbehaving appren''
 ''tice with the “dream witches,” evil sorceresses in tattered cloaks who sweep into the apprentice’s dreams and contort them into horrible nightmares. The threats vary; the dreamer is stripped of all intelligence, or his flesh is rent and torn, or perhaps the nightmare is so terrible that it bursts his heart. Most apprentices forget these tales after childhood. Few remember the horrible stories of their parentes, or if they do they scoff them off as simple children’s fancies. But as with many legends in Mythic Europe, the dream witches actually exist, hidden within an esoteric Mystery Cult of the Order of Hermes, with powers not unlike those reputed to them.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

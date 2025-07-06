@@ -24,13 +24,13 @@
 ===Kampe’s Lovers===
 
 ''Mortal magicians discovered long ago that despite being imprisoned, the titans were still capable of providing power for the exercise of magic. Some Seekers claim that all magic comes to man through the titans, and Hermes was the first to discover how to take this power without weakening their bonds. These magi do not seek the downfall of the gods, but do desire a greater bond with the primal spirits of the Magic Realm. Dubbed Kampe’s Lovers after the jailer of the titans, this faction is attractive to House Tytalus, since its goals mirror those of a Tytalan Mystery Cult called the Titanoi (see Houses of Hermes: Societates, page 94). Tisiphon of Hedyosmos is the most prominent member of this faction (see more on Tisiphon in Chapter 5: Greece, Hedyosmos).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Titans, in Brief''
 ''The following is a very brief overview of the titans and their progeny, the Daimons and nymphs. Readers are directed to the bibliography for more information. The sons of Krios and Mnemosyne are Perses, Pallas, and Astraios. Perses is the titan of the scorching heat of summer and destruction. His daughter is Hekate, goddess of witchcraft. Pallas is the titan of war-craft and spring. His children by Styx are the Daimons of rivalry, strength, force, victory, and persuasion beloved by House Tytalus (see Houses of Hermes: Societates, page 94). Astraios is the titan of autumn and the stars, and father of the winds and the planets. Mnemosyne is also the mother of the Muses by Zeus. Iapetos and Themis had four sons:''
 ''Atlas, titan of endurance and daring; Prometheus, titan of forethought and crafty counsel; Epimetheus, titan of afterthought and excuses; and Menoitios, titan of violence. Themis is also the mother of the three Graces and the three Fates by Zeus. Hyperion and Theia gave birth to the sun (Helios), the moon (Selene), and the dawn (Eos). Okeanos and Tethys are the parents of all the world’s rivers and seas. Koios represents the inquisitive mind, and is acclaimed as the creator of science; Phoibe stands for the intuitive mind. Their two daughters are Leto, titaness of heavenly prophecy and omens, and Asteria, titaness of the oracles and prophecies of the night (including dreams and necromancy).''
 
-|]
+|}
 ''The Sibyls''
 ''Legend has it that 10 sibyls are entrusted with the secrets of the universe. All of the sibyls predated Christianity, and yet they predicted the birth of Christ, his miraculous life, and his death for the redemption of all mankind. Several theologians, including St. Augustine and Peter Abelard, have declared the oracles of the sibyls to be true prophecy despite being relics of paganism. Whether or not each utterance of a sibyl is true prophecy is up to the storyguide. The oracula sibillina (the Oracle of the Sibyls) is widely circulated in the 13th century, as a descendant of a collation of many thousands of sayings of the sibyls uttered over hundreds of years. What is little known is that the sibyls are ancient magic humans, gifted with immortality and true sight. Some are rumored to have been born mortal, and it is possible that “sibyl” is a role rather than an individual. Each sibyl rests in a powerful Magic aura or regio, and cannot leave without risking losing her prophetic powers (through Acclimation; see Realms of Power: Magic, page 52, for more details). Half of the sibyls dwell within the boundaries of the Theban Tribunal, and they are occasionally sought out for their wisdom, although each has a quirk in the manner in which she provides prophecy. Sibyls rarely live alone, and often have mundane or supernatural guardians to help them protect their secrets.''
 
@@ -57,8 +57,8 @@
 ===The Sibyllides===
 
 ''While the sibyls themselves are incapable of leaving their shrines, they occasionally bear children to the visitors who seek their wisdom. A child of such a union is encouraged by her mother to leave the sanctuary of her magical home and experience the world. The children of sibyls — called sibyllides — are magic kin (Realms of Power: Magic, page 89). They may be magic characters or characters aligned with the Magic Realm. They always have powers associated with prophecy and extra-normal sight (like the Warders of Mystery from Realms of Power: Magic, page''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Other Sibyls''
 ''The Persian Sibyl is named Sambenthe and lives in ancient Babylon. The Libyan Sibyl Phemonoe dwells in the Siwa Oasis in the Libyan desert. Sabbe the Hebrew Sibyl is purported to have been on the Ark, as one of Noah’s daughters-in-law. She wanders between Magic auras throughout the Holy Land. The Cumean Sibyl and the Tiburtine Sibyl are both to be found in Italy; Carmentis dwells at Lake Cumae near Naples, and Albunea next to the Tibur river in Etruria. The Cumean Sibyl sold three books of prophecy to King Tarquinius of Rome; these books became the property of a Roman college of priests, and then part of the lore of the Cult of Mercury.''
 ''Mythic Blood – Gigantes''
@@ -73,7 +73,7 @@
 
 ''Major, Supernatural You have no legs, instead your hips give rise to two or more snake-like tails; you should consider how you survived childhood with this horrific deformity. Your movement is not hindered under most circumstances. You can hide this deformity under clothing, but you cannot move without revealing it, leaving you feigning being crippled as well.''
 
-|]
+|}
 ''95), and at least one has become a magus of the Order, naturally specialized in Intellego magic. They are obligated to return to their mother’s home every decade to report to her what they have learned about the world, so that she can judge whether it is right for more of her prophecies to be released.''
 ''Magical Bindings''
 ''One of the most significant magical traditions of Ancient Greece — although by no means unique to Ancient Greece — is the power of bonds, whether those restraints are taken unwillingly or voluntarily in the form of oaths. These traditions have not vanished along with antiquity, but only fragments of them survive into the 13th century. It is the choice of the storyguide as to whether any or all of the fragments presented in this section constitute a single or multiple magical traditions, and whether practitioners of that magic still exist in the wildernesses of the Tribunal, away from the eyes of the Order.''
@@ -84,14 +84,10 @@
 ===Diabolai===
 
 ''Much as Christians threaten saints into compliance with ritual humiliation (Realms of Power: The Divine, pages 87–88), so too can local spirits and mythological figures be coerced into acting on a character’s behalf. Although by no means common in the empire, practice of diabolai, or “slander rites,” is widespread. The most common use of diabolai is to evoke the wrath of a supernatural being and direct that wrath at the target of choice; but this process can direct the being to use any of its powers at the character’s command. Not every supernatural creature is responsive to diabolai; it has to be a sentient being who has accepted patronage over a specific site or subject per''
-
-[|
 ''Character Guide: A Sibyl''
 ''Magic Might: 25+ (Mentem) Season: Winter Characteristics: Int +5, Per +6, Pre 0, Com +1, Str –1, Sta 0, Dex –1, Qik –1 Size: 0 Age: n/a (varies) Confidence Score: 2 (6) Virtues and Flaws: Magic Human, Magical Master; Famous, Self Confident; Meddler; Ability Block (Martial Abilities), Visions Magical Qualities and Inferiorities: Divination & Augury (see The Mysteries Revised Edition, Chapter 7), Improved Perception, Natural Appearance; Improved Abilities x 3, Mentem Resistance, Minor Virtue (additional Divination methods) x5, Minor Virtue (Great Intelligence) x2, Minor Virtue (Great Perception) x2, Minor Virtue (Improved Characteristics), Minor Virtue (Premonitions), Minor Virtue (Puissant Divination) Personality Traits: Enigmatic* +6, Meddlesome +3, Brave +1 Reputations: Prophetess 4 (Local) Combat: Unarmed Defense: Init –1, Attack n/a, Defense –1, Damage n/a Soak: +0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Classical Greek 5 (prophetic pronouncement), [Area A] Lore 5 (varies), [Area B] Lore 5 (varies), [Area C] Lore''
 ''5 (varies), Artes Liberales 4 (scribing riddles), Divination 10+2 (varies), Faerie Lore 4 (prophecy), Guile 1 (under duress), Intrigue 3 (local politics), Latin 5 (declamations), Living Language 4 (local dialect), Magic Lore 5 (prophecy), Mentem Resistance 5 (mind-reading), [Organization A] Lore 5 (varies), [Organization B] Lore 5 (varies), Penetration 5 (Divination), Philosophiae 4 (natural philosophy), Premonitions 5 (nations), Teaching 3 (Area Lore) Vis: 5 pawns of Mentem vis, in tools of divination Appearance: Each sibyl appears as a woman native to the area; some appear to be young maidens, whereas others appear as haggard crones. They wear flimsy veils across their faces, or else a blindfold.''
 ''This character guide follows the rules for Magic Characters (see Realms of Power: Magic, pages 29–54), and describes the basic minimum game statistics of a sibyl. However, there is plenty of room for customization; the sibyl has only 5 points of Virtues and Flaws, and most sibyls have a Magic Might greater that 25, allowing room for some overtly magical powers rather than relying on Divination, Premonitions, and a vast knowledge of diverse subjects. The sibyl’s Enigmatic Personality Trait is an Essential Trait; magical effects to make her speak clearly mysteriously fail. Some sibyls might be Transformed Humans rather than Magic Humans.''
-
-|]
 ''sonal to the character invoking it. Thus a native of a village could invoke a nymph who guards a local grove; a local could visit the long-abandoned shrine to Helios the sun god; a physician could invoke Aesklepios, the god of medicine; and someone with Mythic Blood could call upon his magical ancestor. This deep and personal connection is vital: a person cannot simply perform a diabolai on a random magical spirit or faerie. The character also requires some intimate knowledge of the specific being he intends to invoke, represented by knowledge of the (Realm) Lore appropriate to the entity’s Might. Characters without an appropriate (Realm) Lore cannot perform a slander rite, but no other specialist Ability or Virtue is required. Slander rites can be used to coerce creatures from any Realm, but they are most commonly used against Faerie and Magic beings. Attracting the attention of demons with these rites is opening yourself to future corruption. It takes several hours to perform a slander rite. The most common method involves drawing a portrait or making an effigy of the entity, wrapping it in cloth and then throwing it into an oven or bath, or suspending it over a lamp. Alternatively, the character can reverse the normal (pagan) worship rites of the being, such as offering the brains of a black ram, or fumigating a holy place with burnt dung from a black cow. But any of these rites, particularly the last, are easily misconstrued as paganism or demon worship, and may attract unwanted attention from one’s neighbors. While performing the slander rite, the character must describe the power to be employed and the target of that power, if appropriate. If the entity does not have the requested power, then the diabolai automatically fails.''
 
 ===Diabolai: Presence + (Realm) Lore + Modifiers + Stress Die===
@@ -115,15 +111,15 @@
 ''However, the evidence is more scattered and less easy to obtain. That has not deterred the magi who search the islands for katadesmoi — cursing tablets — in hope of an insight into this lost magical tradition. Through this magic, a wizard could enact a curse on a victim at any range without the need of an Arcane Connection. Furthermore, they could create conditional spells that would be triggered in response to a specified event, and thus act as warnings, traps, and governors of good behavior. The ancients would call upon spirits to act as conduits to their magic, and to deliver their spells to their enemies. One consequence of the prevalence of Katadesmos Magic is the manifestation of the Leadworker Virtue (Houses of Hermes: True Lineages, page 143) in non-Hermetic wizards who may take this Virtue as a Supernatural Virtue. Among magi, leadworking remains a secret of House Tremere.''
 ''Hedge Magic and Magicians''
 ''The Theban Tribunal is a fortunate place for practitioners of magic; not only is it magically rich in terms of auras, regiones, and vis, it also has many wild and uninhabited places that serve as retreats for the Gifted individual wishing to avoid the negative consequences of his Gift on other people. The Order of Hermes has estimated that one in every hundred people in the Theban Tribunal have some magical ability; although only one in every thousand has received any formal training. Furthermore, only one in 10,000 has The Gift, and is thus capable of learning the most powerful magic.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Modifiers to Diabolai''
 ''Diabolai performed in public:	+2 Requested power is apt (e.g. target worthy of punishment): +1 to +5, as determined by the storyguide Synthemata of being known (see The Mysteries Revised Edition, pages 86–88): +3 True Name of being known (see Realms of Power: The Infernal, pages 34–35): +9 Performed a diabolai in the last month: –9 Threatening an unfamiliar being: –6''
 ''Stygian Magi''
 ''An interest in binding magics is known as the “Stygian Art” in the Theban Tribunal, connecting these magics to the mythology of the Underworld. It is commonly held that binding magics are suspect, possibly even Infernally corrupted, probably due to the preeminence of the Goetic Arts in this field. Despite this reputation, some magi still pursue these studies. Most notable of these is Polydegmon of Hedyosmos (see Chapter 5: Greece), who practices a non''
 ''Hermetic tradition of binding magic; until he trains an apprentice, his abilities remain unique in the Tribunal. The Witches of Thessaly (Realms of Power: The Infernal, pages 140–142) — possibly the native tradition of Trianoma — still practice their stygian magic across the Tribunal, but specifically on the mainland. Here they clash with the Covenant of Erebos (see Chapter 5) over territory and magical resources.''
 
-|]
+|}
 ''The Theban Tribunal Magical Traditions''
 ''Hedge Magic, Ars Magica Fifth Edition’s supplement for non-Hermetic magic, details a number of magical traditions that can be found across Mythic Europe. This section describes how these traditions might manifest in the Theban Tribunal.''
 
@@ -148,8 +144,8 @@
 ''Nightwalking traditions were a feature of Ancient Greece, and remnants of the cult remain in pockets across the empire. They often find themselves at odds with Folk Witch covens, particularly those who have teamed up with Infernal witches. Nightwalkers in Greece often have other magical abilities, such as being cunning folk (see Learned Magicians).''
 ''Peasant Magic''
 ''As well as the usual collection of minor magical powers represented by Supernatural Abilities like Dowsing, Premonitions, Second Sight, and so on, the common folk of Greece also have a very minor ceremonial magic. The origins of this magic — if indeed it has a single origin at all — is long lost. It is usually dismissed by Hermetic magi as beneath their notice.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Makhai''
 ''In Rival Magic a tradition of wizards called the Muspelli is described, who derive their magic direct from the Norse equivalents of the titans. Advice is given for variant Muspelli in other lands, including the Makhai — Greek sorcerers who serve the monstrous Ekhidna and Typhon, who were brought forth by the Earth to avenge the imprisonment of the titans on the faerie gods. The Makhai might incorporate or replace the Gruagach variants mentioned in this chapter.''
 ''New Virtue: Folk Magic''
@@ -157,5 +153,8 @@
 ''Abjuration: Creates a ward against animals or supernatural creature. Uses the Rego Animal or Rego Vim guidelines. Divination: Acquire magical senses that detect health, wealth, and mental state. Uses Intellego Corpus, Intellego Mentem, and Intellego Terram guidelines. Healing: Grants a Recovery bonus for either wounds or diseases, and aids the birthing of children and livestock. Uses the Creo Corpus or Creo Animal guidelines. Infernal Lore cannot be used to produce this type of effect.''
 ''Evil Eye: Causes minor acts of mischief like pain, blight of crops, hair loss, sneezing, and so forth. Uses the Perdo Corpus, Perdo Animal, or Perdo Herbam guidelines. Divine Lore cannot be used to produce this type of effect.''
 ''To cast a spell the character must expend a fatigue level, whether the spell succeeds or fails. He must also spend at least 15 minutes preparing the spell, during which time he needs unbroken concentration and access to his “magical” materials (while necessary, these materials offer no benefit to the casting). The spell is designed exactly like a Hermetic spell. The Casting Total is equal to (Stamina + (Realm) Lore + Aura modifier + stress die) / 2. Penetration is calculated in the normal fashion: Casting Total – Spell Level + Penetration modifiers. You may pick this Virtue more than once, to acquire expertise in a different category of spells. Each time you choose this Virtue, you can align it to the same Realm as before or pick a different one, although a character cannot have access to both the Divine and Infernal Realms.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

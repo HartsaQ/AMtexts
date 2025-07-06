@@ -85,8 +85,8 @@
 
 ===Rounded Up.===
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''A normal medieval book has wooden boards making up the covers (in turn, usually covered in leather), and parchment or vellum (leather) pages. An average medieval book is “large” sized for enchantment (about the size of a shield). To open just the parchment or just the wooden covers takes 8 pawns of vis (and requires a Magic Theory of 4). It is also possible to open the whole book as a compound device, including both the wooden boards of the cover and the parchment pages, requiring 16 pawns of vis (and a Magic Theory of 8).''
 ''Both methods of opening provide the “book” Shape Bonus; opening the parchment provides a Material Bonus for parchment (also leather or animal hide), while opening the cover boards provides a Material Bonus for wood.''
 ''(It is also possible to include gems and metal binding, to make a particularly large compound device, if the magus can handle the vis requirements.) (See also Chapter 10: The Great Talisman, for more ways to improve a device attuned as a talisman).''
@@ -107,7 +107,7 @@
 ==Creating the Numerologist’s Book==
 
 
-|]
+|}
 ''Penetration is calculated as for any other spell:''
 
 ===Penetration Total = Casting Total – Spell Level + Penetration Bonus===
@@ -153,8 +153,8 @@
 ''•''
 ''•''
 ''•''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New Spell Guidelines==
 
@@ -163,7 +163,7 @@
 ''viduals in the spell Target, divided into apparent categories. Level 4: Sort the individuals in the''
 ''spell Target into categories and count them.''
 
-|]
+|}
 ''that any two right angles are equal (and being equal are connected sympathetically), that given a line and a point that is not on the line, there is exactly one line through the given point that does not intersect the first line (and thus this second line is special and connected to the first).''
 ''These postulates provide sympathetic magic via Geometry.''
 ''Calculations within this Mystery use Artes Liberales (geometry).''
@@ -196,8 +196,8 @@
 ''• • •''
 ''•''
 ''•''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The standard Ring and Circle Targets are not particularly strict about the shape drawn: so long as it is closed and continuous, and the magus successfully traces the line while casting the spell, even rough approximations to a circle count as Circle Targets.''
 ''Hermetic Geometry grants bonuses (see Ceremonial Figures) for regular shapes, and the new Target Arcane Circle and Duration Arcane Ring require a perfect circle or ring.''
 ''A perfect shape is drawn without deviation or irregularity. This is very hard if attempted freehand, and easy if using tools. Drawing a perfect shape succeeds with a roll of''
@@ -223,7 +223,7 @@
 ==Drawing a Perfect Shape==
 
 
-|]
+|}
 
 ===Ease Factor = Distance Level (Minimum 9)===
 
@@ -241,8 +241,8 @@
 ''Example: Lineus knows Centrus is ten paces away, directly beyond a wall. Ten paces has a Distance Level of 1 — the Ease Factor for the calculation is therefore 9 (minimum Ease), and takes 3 rounds to calculate and scribe a design on the ground. Lineus has Intelligence 3, Artes Liberales 5, and rolls 4: he easily makes the roll. The spell''
 ''is cast, and accurately targets the point indicated. Unfortunately, Lineus is not as perceptive as he is clever, and is unaware that while he was calculat''
 ''ing Centrus crept round the wall and is about to tap him on the shoulder while Lineus stands wondering why his spell failed.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Treat the length of the line in paces as if points to purchase a score in an Ability. Thus a distance of 200 paces has a Distance Level of 8 (between 180 and 225).''
 
 ==Distance Level==
@@ -280,7 +280,7 @@
 ''19 950''
 ''20 1,050''
 
-|]
+|}
 
 ===New Target: Arcane Circle===
 
@@ -323,8 +323,8 @@
 ===The Perfected Structure===
 
 ''Re(Cr)Te(He) 20''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New Spell Guidelines==
 
@@ -335,7 +335,7 @@
 ''Level 2: Reshape dirt so that it take on an imperfect shape (Perdo requisite). Right angles bend, straight lines wobble, and circles kink. Irregular shapes are not affected.''
 ''Level 3: Substantially reshape dirt so that it takes on a perfect shape (Creo requisite). The reshaping is what workmen could achieve with magical assistance, but the result must be able to sustain itself or the spell must maintain the perfection magically. The perfection refers to geometric perfection; adjusting lines to be straight, loops into perfect circles, and near rectangles into perfect right angles.''
 
-|]
+|}
 ''R: Touch, D: Mom, T: Structure An entire building is reshaped to be perfect, if this can be accommodated by small adjustments to the whole and to the rooms within. Both the exterior and the rooms within become regular: rightangled and with straight sides, or perfectly circular. Irregularities in workmanship are easily perfected, but the building is not redesigned.''
 ''Normal medieval building design often prevents this spell from working: most medieval buildings have irregular extensions and out-buildings requiring redesign to count as regular — although demolition of the extensions is an easy corrective option. If the whole structure cannot be perfected, the magus can usually perfect individual rooms using Perfection of the Well-Designed Chamber.''
 ''A building so perfected counts for the Ceremonial bonus options of Hermetic Geometry. It is also stronger and more stable against tremors and storms, and has a pleasing air to those beholding it, or living and working within. The magical perfection is momentary, and then slowly fades as the building structure decays naturally over time; for Ceremonial purposes most buildings remain perfected for a day or so before they settle slightly and lapse.''
@@ -356,8 +356,8 @@
 ===Compound Component Devices===
 
 ''Next the magus identifies some other substance, in a convenient size, that has''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Size Description Size Multiplier Wood (X2)===
 
@@ -383,7 +383,7 @@
 ==Extended Material and Size Table==
 
 
-|]
+|}
 ''a Material times Size multiplier equal to that calculated for the desired structure. (If a single component does not provide a perfect match, a compound device can be invested instead: see ArM5, page 97.)''
 ''Finally, the magus requires a number of identical items equal to the structure’s Size multiplier, which will be placed into the structure in a particular pattern calculated to invoke resonances in the structure and so link the devices. Typically these are placed at the imagined points of an inscribed geometric shape, but some allowances must be made for the actual shape of the structure. This requires a Geometry roll:''
 
@@ -421,8 +421,8 @@
 ===Breaking the Device===
 
 ''Each component device must have a special place, such as a niche, made for it.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Since a magus is limited to twice Magic Theory pawns of vis in a single season in the laboratory, the largest structures may seem too large to open.''
 ''However, the magus intending to apply Hermetic Architecture himself need not open the component devices for enchantment — he can attempt to persuade another magus to do so. The Mysteries of Verditius reduce the vis requirement by the magus’s Craft Score; Celestial Magic also reduces vis requirement (by the Laboratory Horoscope''
 ''score); and Philosophic Alchemy may be used to pre-fill an object with opened spaces, again reducing the spaces a magus need open.''
@@ -431,7 +431,7 @@
 ==Seasonal Vis Limits and Very Large Structures==
 
 
-|]
+|}
 ''The binding ritual permits the devices to be safely removed from the places provided for them, although the architectural effect ceases while any are missing. So long as the devices and their holding places are all intact, they may be returned to their places, reactivating the architectural effect.''
 ''If the Bind the Mystical Structure ritual is designed with a Muto requisite, then the binding places briefly soften and meld with the enchanting devices, so that they form a united whole and cannot later be separated without breakage. For this to be work, the invested effects must not rely on any Shape Bonuses in the component devices.''
 
@@ -460,8 +460,8 @@
 ''Increases the Magical aura in a room by +1, to a maximum aura level of 5.''
 ''(Base 55, +1 Touch, +2 Room, +14 levels always on)''
 ''A standard Room is Size 6, and a tower''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===The Perfected Tower===
 
@@ -486,7 +486,7 @@
 ==Sample Enchanted Structures==
 
 
-|]
+|}
 ''is made of hard stone (x4), requiring 24 pawns of vis. To enchant the magus’s own laboratory is straightforward — he can enchant it in-place and need only enchant the room itself, once. (Although this does not require the structural aspects of Hermetic Architecture, aura manipulation enchantments still require the Virtue.)''
 ''To enchant a room other than the magus’s laboratory requires the structural aspects of Hermetic Architecture, preparing six devices each with 24 enchantment spaces, such as staff-sized silver wands (6x4). When the six staves are ready, placing the six components correctly with the proper carved symbols and such, requires an Intelligence +Artes Liberales (geometry) roll with an Ease Factor of (6 + Size 6) = 12. Finalizing the enchantment of the placed staves requires a Bind the Mystical Structure ritual of level 89, Arcane, Momentary, Room. (base level 84+5).''
 
@@ -513,8 +513,6 @@
 ''Mu(Pe)Vi(Te) 79 Pen +0, constant effect R: Touch, D: always on, T: Boundary, Mystery enchantment''
 ''If a regio has an open boundary, so that any who see through may step into the regio, but the inhabitants desire to close this off, they may do so.''
 ''This enchantment shrinks the interface of a regio (rather than the whole regio) until it falls below one pace across, when it pinches off and detaches from the adjacent regio level. (To shrink only the interface between levels adds 1 magnitude (equivalent to a Part Target) on top of the''
-
-[|
 ''The following guidelines can only be used in structural enchantments (not spells) of the Mystery Hermetic Architecture.''
 ''Creo Vim Level 35: Increase the level of a Magical''
 ''aura by +1 to a maximum of 1 Level 40: Increase the level of a Magical''
@@ -535,8 +533,6 @@
 
 ==New Aura Magic Guidelines==
 
-
-|]
 ''normal Size of the Target.) Any pre-existing gates remain active. There is no longer a path that can be walked between the two levels, nor can anyone see between regiones by any of the normal means — to cross from an adjacent regio level now requires an Arcane Connection and a transportation spell.''
 ''The base level enchantment to halve the size of a regio is 4, but for extra shrinking, the magus also needs a Perdo requisite and increased magnitude. To shrink a 100–pace diameter to below one pace, requires seven steps (halving seven times, divides by 128), so the base effect is level 35.''
 ''(Base 35, +1 Touch, +4 Boundary, +1 to affect the interface only, +14 levels always on)''
@@ -553,5 +549,6 @@
 ''If created as a single set, one Bind the Mystical Structure ritual will serve for all the component devices of a bidirectional pair of gates.''
 ''(Base 15, +4 Arcane, +10 levels unlimited uses)''
 ''Placing the pillars correctly, with the correct carved symbols and such, requires an Intelligence + Artes Liberales (geometry) roll against an Ease Factor of 11 (6 + Size 5). A Bind the Mystical Structure ritual finalizes the enchantment, to make the gate(s) function.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -3,8 +3,8 @@
 ''Philosophy in Mythic Europe is very much an exercise for the rational mind, particularly for those who follow Aristotle. A common opinion is that truth and knowledge cannot be learned from sense data or subjective experience. Truth exists prior to individual experience, so knowledge should come from an objective and unchanging source — reason and theory — rather than from a subjective and changeable phenomenon. Those who indulge in experiments, or empiricae, are often not considered true philosophers at all. Indeed, the medical community refers to a physician who has no formal learning as an empiric (empiricus), since he came by his knowledge through empiricae (experimentation) rather than through reason. Experimental philosophers are the scientists of Mythic Europe. They conduct experiments in the natural sciences to produce practical results, as well as advancing their knowledge of their respective fields. They argue that by interacting with the world, direct experience can be manipulated, and''
 ''that to ignore the subjectivity of experimentation is a crime against the truth. Experimental philosophy is fundamentally no different from smithing, and its products are no more magical than swords or horseshoes, deriving as they do from the natural principles of God’s creation. An even closer analogy is the regimen of the physicus. While education and knowledge are necessary to design both a regimen and a product of experimental philosophy, neither result is in any way supernatural. The efforts of philosophers are thus unaffected by supernatural auras and do not need to penetrate Magic Resistance to have an effect, nor do they cause Warping, again''
 ''like medical regimens. No aspect of supernatural magic can enhance the operation of experimental philosophy: vis has no use to the philosopher (unless he also happens to be a hedge wizard or magus); and spells and powers cannot enhance empiricae, although they can duplicate them. However, experimental philosophy and magic are not mutually exclusive; quite the opposite, in fact. Throughout history, right up to its culmination in the theory of Bonisagus, wizards have employed philosophical aspects in their magic. For example, the natural principles expounded by philosophy account for the Shape and Material Bonuses of objects: a bloodstone resonates with wounds through the natural principle of Sympathy, whereas an amethyst grants its bonus through Occult Virtues. Ceremonial casting of Spontaneous spells combines astrological correspondences and material components that are not themselves magical, but which make the supernatural magic more effective. The principles of Arcane Connections and Sympathetic Connections are wholly due to the principles of natural philosophy. In all of these cases — and many more — the subject studied by the empiricus is an adjunct to Hermetic magic, acting to enhance or channel its power to maximum effect.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Experimental Philosophy or Natural Magic?==
 
@@ -16,7 +16,7 @@
 ''Members of the Hermetic Societas of the Lyceum are true rationalists, believing that the changeable nature of the world makes it impossible to derive conclusions from experimentation, and they do not generally indulge in empiricae. Similarly, they eschew Hermetic experimentation in the laboratory, and do not often pursue original research. Those members who''
 ''are followers of Bonisagus are more commonly of the lineage of Trianoma. However, their thirst for knowledge makes them excellent theorists, and they often posit scenarios where Hermetic theory is lacking thanks to their superior knowledge of both philosophy and magic. It is left to lesser magi to actually pursue the breakthroughs.''
 
-|]
+|}
 ''Art & Academe Natural Principles''
 ''Whether or not they consciously recognize them or not, all who employ empiricae are working from a set of rules. Primitive magicians often consider these things to be magic, whereas the cultured philosopher knows them to be merely the principles through which God has ordained the world to act. This section reveals some of the most important of these principles identified by philosophers.''
 
@@ -59,8 +59,8 @@
 
 ''The most powerful expressions of the empiricus’ study are created through the use of formulae. A philosopher may encounter these formulae during his studies of the Academic Abilities, or else he may develop them himself through practical experimentation with the theoretical knowledge he has gained. A formula is a recipe, similar to a Laboratory Text, which describes how to make one of three products: astrological inceptions (which are learned as part of Artes Liberales), alchemical reagents (which are learned as part of Philosophiae), and pharmaceutical theriacs (which form part of the corpus of Medicine). Creating one of these products is a twostage process. The philosopher must first research the formula — either learning or inventing the formula by accumulating experience points. Second, the philosopher spends one or more seasons in his laboratory''
 ''concocting the product described by his formula. A formula is described in a manner similar to a Hermetic spell or enchantment, but it is important to note that a formula is not a magical effect, and the parallels with supernatural magic are merely a matter of convenience. Like other empiricae, The Gift is not required to concoct a formula, and Supernatural effects cannot assist in its creation. The process of concocting a formula is very much like Hermetic lab work, and this is no coincidence, for the foundations of Hermetic enchantment lie within the realm of natural philosophy.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Ligature Bonus Table==
 
@@ -83,7 +83,7 @@
 ''Wounds: surgical intervention rolls, surgery rolls, casting a healing spell; Diseases: avoiding contraction of a specific disease, prognosis total to combat a disease, casting a healing spell; Poisons: bonus to resisting the effects of a specific poison.''
 ''Medical ligatures cannot affect either Wound Recovery rolls or Disease Recovery rolls.''
 
-|]
+|}
 ''Art & Academe Researching Formulae''
 ''A formula has to be researched before it can be used, and researching requires the acquisition of experience points. When a character acquires experience points in Artes Liberales, Philosophiae, or Medicine, any or all of the experience points gained can be placed into learning a formula for that Ability instead. Once the formula has accumulated 5 experience points, it has been learned and can be used to create an empirica. Since those who learn these practical applications of their studies are distracted from the “pure” subjects of academic pursuit, those who know many formulae are often denigrated by other scholars for their dilettante behavior. A storyguide might choose to limit which formulae can be learned from a book based on its subject matter — a summa about healing wounds is unlikely to contain details for creating the formula for a poison, for example. As well as learning formulae inscribed into summae and tractatus of the academic sciences, it is also possible to practice an Academic Ability in a season to learn a formula. In this season of practice, the academic attempts different combinations of the natural principles to produce the effect he desires. No useful product results from this season of experimentation, but the philosopher earns 5 experience points towards the formula (rather''
 ''than the usual 4 experience points for a season of Practice; ArM5, page 164), thus learning it in a single season. A philosopher can learn a formula that he is unable to create.''
@@ -100,8 +100,8 @@
 ===Lab Total: Intelligence + Academic Ability + Philosophic Bonuses===
 
 ''The Ability used is either Artes Liberales, Philosophiae, or Medicine depending upon which type of formula is being created (Inceptions, Reagents, and Theriacs respectively). The Philosophic Bonuses that add to the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Replicating Formulae with Hermetic Magic==
 
@@ -115,7 +115,7 @@
 
 ''Rego Herbam 4 R: Touch, D: Mom, T: Ind Req: Animal, Terram The raw ingredients for a restorative that gives a +3 to Wound Recovery rolls are combined into a theriac, providing that the caster has access to an appropriate formula. The Ease Factor of the Finesse roll will vary according to the Potency of the theriac; to duplicate the formula for the Mustard Plaster (Level 5, see below) requires an Ease Factor of 16. (Level 3, +1 Touch)''
 
-|]
+|}
 ''Lab Total can never exceed the Ability used in the formula. These bonuses are gained from three sources:''
 ''•	 Shape and Material Bonuses. Philosophers can benefit from the same Shape and Material Bonuses as Hermetic Magic (ArM5, page 110, as well as any listed in other sources for Ars Magica Fifth Edition). Items employed in this manner are destroyed during the creation of the formula. •	 Risk Modifiers. A philosopher can choose to Experiment just like a magus (see ArM5, pages 107–109). Do not add a simple die roll to the Lab Total, just the Risk Modifier. You will have to interpret the results of the Experimentation, taking care to exclude all supernatural elements. For example, Warping cannot normally result from a disaster in a philosopher’s laboratory. •	 Laboratory Bonuses.''
 ''Distractions from lab work affect philosophers in exactly the same manner as they do Hermetic magi (ArM5, page 103). The Lab Total is compared against the level of the formula. Each formula has a base level, which is then increased in magnitudes by the formula’s guidelines given below. The final level of a formula is calculated in exactly the same manner as a Hermetic spell; except that a formula has a single parameter (either Detail, Alteration, or Potency depending upon whether it is an Inception, Reagent, or Theriac, respectively), rather than the Range, Duration, and Target of a Hermetic spell. It takes at least a season to concoct a formula. If the Lab Total equals or exceeds the level of the effect, then the philosopher is capable of reproducing the formula; for every season of working on the effect, the philosopher accumulates 1 point for each point by which his Lab Total exceeds the formula’s level. When points have been accumulated equal to the effect’s level, the formula is complete. Thus, if the magician’s Lab Total is twice the level of effect (or more), then it can be completed in a single season. A philosopher need not work continuously on a formula that takes more than one season to complete, but can spread the work over as much time as he desires. Note that some formulae are exceptionally hard — one must study all one’s life and align all philosophic factors to achieve them. Such formulae are famous among philosophers, and many search for Laboratory Texts to speed the route to such legendary concoctions. On occasion such quests lead the character away from the philosophical arts and towards magic.''
@@ -123,8 +123,8 @@
 ===Laboratory Texts===
 
 ''When a philosopher successfully completes a formula for the first time, he creates a Laboratory Text detailing precisely what he did, which will assist him in duplicating the formula in subsequent laboratory activities. When using a Laboratory Text to recreate a formula, if the level of effect is greater than the Lab Total of a philosopher, then he cannot reproduce that formula even with the assistance of a Laboratory Text. Otherwise, he creates one copy (or dose) of the work for every five levels (or fraction) of his Lab Total. Doses of Formulae using Laboratory Text: (Lab Total) / 5 (round up)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Converting Characters==
 
@@ -140,7 +140,7 @@
 ''Martin the Alchemist has learned a Philosophiae formula for creating cement (see below), which is a Level 5 Reagent. Martin has an Intelligence of +2, a Philosophiae of 5 specialized in Reagents, and a philosophic bonus of +4. His lab total is thus 12, sufficient to create this reagent in a single season. He sets to work, and a season later he has completed the formula. He has also created a Laboratory Text for the process, so when he takes another season to make the reagent, this time he gets three doses. Martin spends a season writing out several of his Laboratory Texts, and gives a copy of the text for the cement to Berenger, a fellow alchemist. Martin has also written a trac''
 ''tatus on Philosophiae explaining how earth can be altered to be as hard as rock, which has a Quality of 6 (his Communication is 0). Berenger spends a season studying the tractatus, for which he gains 6 experience points in Philosophiae. He puts five of these points into learning the formula, and the remaining point into his Philosophiae Ability. Berenger can now attempt to recreate the reagent using Martin’s Laboratory Text. However, Berenger is a less-skilled alchemist than Martin, and his Lab Total is only 8, which is still sufficient to create two doses of the preservative. Without the Laboratory Text he would have accumulated 3 (8 – 5) points per season, and thus taken two seasons instead.''
 
-|]
+|}
 ''Philosophers jealously guard the formulae that they have invented themselves, but even more jealously guard their precious Laboratory Texts. On rare occasions a philosopher can be persuaded to copy out his Laboratory Texts for others to use. This is exactly the same procedure as for a Hermetic Laboratory Text (ArM5, page 102). Before a formula can be reproduced from a Laboratory Text not written by the philosopher himself, he must first learn the formula (see Learning a Formula, above). It is thus common practice for a philosopher persuaded to write a Laboratory Text to also scribe a tractatus on the requisite Ability in the same volume, and as long as the Quality of this tractatus is at least 5, the reader can learn the appropriate formula after a season of study. Laboratory Texts for formulae are very rare, and cost a number of covenant Build Points equal to half their level.''
 
 ==Astrological Inceptions==
@@ -149,8 +149,8 @@
 
 ===Calculating a Nativity Horoscope: Int + Artes Liberales + Die Roll, Against Ease Factor 9===
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==When’s My Birthday?==
 
@@ -169,7 +169,7 @@
 ''near future (within an astrological month) add 2 magnitudes. Predicted future events are subject to the actions of beings with free will, and may not come to pass. Queries about the present add no magnitudes.''
 ''Level 2: Learn one visible property of a person or object (e.g. location). Level 3: Sense one mundane property of a person or object, which can be determined from close examination (state of consciousness, age). Level 4: Sense a specific piece of information about a person or object, which cannot normally be determined without an appropriate Ability (an emotion, the maker of an object). Level 5: Sense complex information about a person or object, which would normally require extended use of an Ability (the truth of a statement, all properties of an object).''
 
-|]
+|}
 ''Note that it is impossible to calculate a nativity horoscope if the date and location of the birth of the target are unknown (see When’s My Birthday? for the ease of obtaining this information). Once the horoscope is known, then it takes one minute per level of the inception to complete the calculation and reveal the answers sought. The astrologer must have access to writing materials to use an inception. Even though they are simple products of parchment and ink, astrological inceptions cannot be simply copied, they must be duplicated using the Laboratory Text in the usual fashion. This is because an inception has its own horoscope, based on the day on which it was completed. When using an inception, the calculated relationship between the inception’s own horoscope and the horoscope of the target(s) is the source of the sought-after answer. An inception that is simply copied — rather than recreated with the Laboratory Text — has a different astrological figure than the original inception (it is copied at a different time than the original, and perhaps in a different location as well), and this invalidates the calculations. Copied inceptions cannot therefore provide correct answers except through chance.''
 
 ===Example Inceptions===
@@ -192,13 +192,15 @@
 ==Alchemical Reagents==
 
 ''Alchemical Formulae or Reagents are discovered during researches into Philosophiae. A Reagent is a natural substance made in the laboratory through the combination of minerals, botanicals, and animal components. The substance created may have unusual properties, but not unnatural ones. Thus an alchemical preparation can corrode metal or turn water to ice, but these alterations are simply speeded-up natural processes; a reagent could not turn water into metal, for example. Because the changes caused by Reagents are natural, they have the equivalent of a Momentary Duration, after which time the substance reacts normally according to its type: ice will melt back into water, but compacted dirt remains hard until it is weathered by the elements. Alchemy works directly on the prime qualities of its ingredients. It cannot create new matter, but it can cause alteration (see Chapter Three: Philosophiae, Change in Quality) by increasing the amounts of hot, cold, dry, or moist particles in an object, and thus changing the natural properties. It can enhance a property of a substance (e.g. make a fire hotter, or an acidic liquid more corrosive), or it can rid a substance of that property (extract pure metal from an alloy, or separate sea water into salt crystals and clear water). Alchemists recognize two types of matter. The first they call simple matter, elemental material in its most basic form. Simple matter contains only small admixtures of other types of matter, but the vast majority of its particles are of the same type. Examples include soil and rock, air, water, or a flame. The second type of matter is complex matter, which has significant portions of other types of atoms in its elemental mix, resulting in glass, metal, wood, smoke, clouds, oil, vinegar, lightning, and so forth. Alchemy cannot transform the base substance into another sort, nor can it cause an increase or decrease in the amount of matter. Soil that is made unbreakable is still soil; it has not become rock. Although there are rumors of alchemists who have succeeded in turning lead into gold, the true philosopher scoffs at such tales as impossible through philosophy alone. To concoct a formula, an alchemist requires a well-stocked laboratory. The raw ingredients for his Reagents come from the daily trade of an apothecary; either the character himself or a contact. The requirements for an alchemist are different from those of a physician, for an alchemist often focuses on the mineral stores of the apothecary rather''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Guidance on Using Astrological Inceptions==
 
 ''Inceptions have the potential to be disruptive, particularly in mystery-style adventures, although since they take a season or more to create, a storyguide should plan the existence of inceptions into his plot and perhaps even make them part of the solution. To minimize any problems with these divinations, one must be careful that when the formula is designed it does not ask too broad a question. Take into account the following points when designing an inception: A horoscope reveals properties and characteristics, not motivations. Inceptions cannot read minds, but they can reveal if a person is the sort that might fall in love with another, or has a deceitful streak. The stars hold the answers to indirect questions only. For example, there''
 ''isn’t a planetary configuration that indicates murder, but there are celestial figures related to death. Because of this, a person might be connected to the death of another without actually being a murderer. The stars do not determine destiny. The stars do not guide the fates of the inhabitants of Mythic Europe, they simply reveal it. All humans retain their free will, and knowing one’s destiny is often enough to change it. The stars do not represent absolutes. Even a binary answer is not necessarily “yes” or “no,” but simply reveals whether the horoscope is closer to one celestial figure or another. So, you can’t find out if someone is dead or alive, but you can discover whether someone is closer to death or to life.''
+
+|}
 
 ==Reagent Guidelines==
 
@@ -212,8 +214,6 @@
 ''+3 1000 paces3 1 pace3''
 ''Properties of matter can be changed without apparently changing the object; these include primary qualities such as hot, cold, dry, or moist, as well as secondary qualities such as acidity, density, weight and color.''
 ''Level 3: Enhance or diminish secondary quality of simple matter  Purify simple matter Level 4: Enhance or diminish principle quality of simple matter Level 5: Enhance or diminish secondary quality of complex matter  Purify complex matter Level 10: Enhance or diminish principle quality of complex matter''
-
-|]
 ''than on the botanics required by the medical practitioner; nevertheless, the ingredients are the same, and it is merely the quantity that differs. Each alchemical Reagent costs an apothecary’s business 1 Labor Point per 5 points (or fraction) of the level (see Chapter Four: Medicine, The Practice of the Apothecary). If multiple doses are created, then multiply the level of the Reagent by the number of doses before dividing by 5 to get the number of Labor Points worth of materials.''
 
 ===Example Reagents===
@@ -230,8 +230,8 @@
 ''Greek Fire Reagent Level 15 Alteration: Substantial This Reagent is typically placed into a clay ball with two compartments to contain each of the two parts of the formula. When mixed (such as when the clay is broken by an impact), these components combust into a eight-foot-diameter sphere of very hot fire that inflicts +15 damage should it hit someone (such fire would normally inflict +5 damage). This fire cannot be extinguished with water, but must be beaten out. (base 4, +2 Substantial, +1 Size)''
 ''Vitriol Reagent Level 15 Alteration: Substantial This formula creates two pints of strong acid from a weaker acid such as vinegar, and a number of mineral components. This acid is enough to cover an arm-sized object. If it is poured on a single person, it will inflict +10 damage. This acid will also dissolve stone and base metal, and rot wood in an instant; an object the size of a wand, lock, or small bottle can be affected. The acid will dissolve precious metal in about two minutes. The only substance proof against the acid is glass. (base 5, +2 Substantial)''
 ''Alchemical Steel Reagent Level 20 Alteration: Substantial This metal is a purified form of iron created in the alchemist’s laboratory. It can then be forged by any smith capable of working steel. Objects made of this steel are harder and more resilient to damage without affecting its weight. A blade of alchemical steel need not be sharpened so frequently and has a +2 to damage. Metal armor gains a +2 to its Protection. The formula creates enough Reagent to make a dagger; three doses would make a sword, and six doses would make a suit of partial armor. (base 10, +2 Substantial)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Alchemical Purification’s Shape & Material Bonuses==
 
@@ -245,7 +245,7 @@
 ''50 cubic inches = 2 pints, 4-inch-diameter sphere, five base Individuals of Aquam (poison), a Small object on the Material and Size table (ArM5, page 97). 500 cubic inches = 2 gallons, 1-foot-diameter sphere, three base Individuals of Terram (precious metal), a Medium object on the Material and Size table. 3 cubic feet = 20 gallons, 2-foot-diameter sphere, three base Individuals of Terram (base metal), five base Individuals of Aquam (corrosive), a Large object on the Material and Size table''
 ''1 cubic pace = 200 gallons, 4-foot-diameter sphere, base Individual of Ignem, base Individual of Terram (stone), five base Individuals of Aquam (processed liquid), a Huge object on the Material and Size table. 10 cubic paces = 2, 000 gallons, 8-footdiameter sphere, base Individual of Terram (dirt), five base Individuals of Aquam (natural liquid). 100 cubic paces = 6-pace-diameter sphere, five base Individuals of Aquam (water). 1000 cubic paces = 12-pace-diameter sphere, cylinder 20 paces high and half as wide, cylinder 8 paces high and twice as wide, pool 16 paces in diameter and half as deep.''
 
-|]
+|}
 ''Lapis Minor Reagent Level 20 Alteration: Major This formula creates a reddish stone, waxy in texture, the touch of which purifies a precious metal from its alloy. For example, gold that has been adulterated with brass separates into pure gold, pure copper, and pure tin. Only a small object can be altered; no larger than a dagger. This is called the “Lesser Stone;” alchemists have long sought the Greater Stone (Lapis Maior) which will convert pure base metals into gold. In the meantime, they can extract the tiny amounts of gold that are often present in other metals. (base 5, +3 Major)''
 
 ==Pharmaceutical Theriacs==
@@ -262,8 +262,6 @@
 ''Troche of Colocynth Theriac Level 5 Potency: Weak''
 ''This hard pill of compressed powder mixed with gum will cause immediate and violent evacuations of the bowel if the target fails a Stamina roll against an Ease Factor of 9. A patient suffering from a melancholic disease who is affected by this theriac is purged of retained humors, and can reroll a failed Disease Recovery roll, but a successful second roll can only have a Stable result, not an Improvement. (base 5)''
 
-[|
-
 ==Theriac Guidelines==
 
 ''Theriacs can affect the human body, the humors and the faculties, although they cannot directly affect any of the inner wits, just the sensitive faculty as a whole. A Theriac can also be invented that affects animals rather than humans, but a Theriac designed for a human will not work on an animal, and vice versa. Once concocted Theriacs have an indefinite shelf-life, but they are easily ruined if stored in the damp, or where vermin can get to them. Theriacs must either be applied externally or be consumed by the patient. Different formulae are needed to affect Wound Recovery and Disease Recovery rolls. If affecting Disease Recovery rolls, then each Theriac is specific to a humor but not a disease, and is ineffectual against diseases of the wrong humor. The strength of a Theriac is governed by a parameter called Potency, which describes the seriousness of a wound or ailment it can help or hinder.''
@@ -271,8 +269,6 @@
 ''A Theriac that grants a bonus to a Recovery roll can only affect those wounds indicated by the Potency. Thus, a character with two Light Wounds and one Medium Wound needs a Theriac with Potency: Moderate to grant the recovery bonus to''
 ''all three of these wounds; if the Potency is only Mild, then only the Light Wounds receive the bonus. Weak Theriacs have a therapeutic effect; by mimicking a symptom they can purge a humor, granting the patient a chance to reroll a failed Disease Recovery roll, although the patient cannot Improve as a result of this second roll.''
 ''Level 2: Grant a +1 to the patient’s next Wound Recovery roll.  Grant a +1 to the patient’s next Disease Recovery roll against diseases of a certain humor. Level 3: Relieve pain. The patient loses Fatigue levels equivalent to the Potency, but the Fatigue penalty induced reduces the Wound and Disease penalties.  Grant a +3 to the patient’s next Wound Recovery roll.  Grant a +3 to the patient’s next Disease Recovery roll against diseases of a certain humor.  Reduce the potency of a poison by one step. Level 4: Grant a +6 to the patient’s next Wound Recovery roll.  Grant a +6 to the patient’s next Disease Recovery roll against diseases of a certain humor.  Cause a wound if a Stamina roll against an Ease Factor of 6 is failed. Level 5: Cause a wound if a Stamina roll against an Ease Factor of 9 is failed.  Cure a specific disease, in a time equal to the interval parameter of the disease.  Restore fatigue. Level 10:	Cause a wound if a Stamina roll against an Ease Factor of 12 is failed.  Cure a wound from a specific source (e.g. poison, crushing damage, piercing damage). The wound entirely heals over the course of a normal interval for the wound.''
-
-|]
 ''Cataplasm of Mandrake Theriac Level 5 Potency: Moderate This thick paste, or cataplasm, is a secret of the School of Salerno, employing chiefly mandrake and hyoscyamus. When applied to a body part it causes the character to become Tired (loss of three Fatigue levels), but reduces any Wound and Disease Penalty by 3. The body part remains numb until the lost Fatigue levels are recovered. (base 3, +2 Moderate)''
 ''Mustard Plaster Theriac Level 5 Potency: Moderate When applied to a wound, this linen cloth smeared with ointment containing ground mustard seeds (among other things) grants a +3 to the patient’s next Wound Recovery rolls for all Medium and Light Wounds by drawing out accumulated choler, which causes inflammation. (base 3, +2 Moderate)''
 ''Tincture of Parsley Theriac Level 10 Potency: Strong This concentrated herbal infusion is an antidote to the bite of any serpent. If consumed immediately following the bite, then the wound (which must be a Heavy wound or less) inflicted by the venom is treated as one category lower. Thus if bitten by an adder (ArM5, page 180), no wound is suffered. (base 3, +3 Strong)''
@@ -287,5 +283,6 @@
 
 ''Theriac Level 20 Potency: Moderate This compress of tormentil and comfrey stays the flow of blood and causes flesh to knit back together; it cures a Medium Wound caused by a slashing weapon over the course of a month. (base 10, +2 Moderate)''
 ''Lochoch of Fox Lungs Theriac Level 20 Potency: Strong This lochoch — a thick syrupy medicine made from boiled honey — will cure phthisis, a Major phlegmatic disease, over the course of a month. (base 5, +3 Strong)''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

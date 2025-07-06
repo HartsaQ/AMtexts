@@ -14,8 +14,6 @@
 =Baron Geoffroi D’Arques=
 
 
-[|
-
 ==Baron Geoffroi d’Arques==
 
 ''The statistics below represent Geoffroi at the beginning of his journey, just as his fascination begins. As a mundane opponent he poses little personal threat to magi and his Ability scores change little throughout their entanglements, with the notable exception of his increasing knowledge of the supernatural realms.''
@@ -25,6 +23,8 @@
 ''•	 Two seasons of being taught, assuming a quality of 7, for a total of 14 experience points across one or two Abilities •	 One season of practice, assuming a quality of 4, in one martial Ability •	 One season of exposure, giving 2 experience points in an Ability appropriate to running his estate, such as the local language, or in Order of Hermes Lore as he begins to learn more about his Hermetic neighbors.''
 ''After improving his grasp of Latin, he gains tuition in the four realm lore Abilities as soon as he is able, which requires suitable tutors. But one thing he cannot do is learn any of the Supernatural Abilities that his guests bring to his court. It is a source of frustration to him, but he contents himself by retaining those with gifts so that he may call upon them at will. In truth, as driven as he is to learn about magic, he is too much the master of his domain to serve as the apprentice that the various initiations demand. And so they fail.''
 ''* 	 The bonuses for superior arms and armor have been factored into the combat statistics above.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Ability Block (Supernatural)==
 
@@ -32,7 +32,7 @@
 ''For characters with The Gift, this particular Flaw could prove too restrictive, while for others with no intention to learn Supernatural Abilities, the Flaw provides no penalty at all. As such, use of this Flaw should be carefully considered by your troupe. In Geoffroi’s case, this restriction is integral to his character. He attempts a number of Initiations but gains no ben''
 ''efit, largely through being unwilling to fully commit to the change in outlook and behavior implied by the Initiation — remember, his status means that he is not good student material. You may decide that this is an appropriate use of the Ability Block (Supernatural) Flaw, in which case you should balance it with the Temporal Influence Virtue to represent his political clout.''
 
-|]
+|}
 ''his original home in Arques and his manors near the troupe’s covenant. Geoffroi has not yet been resident in his new manor for long enough to learn the local language. If your saga is set in Normandy or near Arques, then simply move Geoffroi’s original holdings elsewhere. However, given the far-ranging political connections enjoyed by the nobility, Geoffroi may feasibly appear as a noble almost anywhere. There’s a degree of flexibility in what rank Geoffroi enjoys, where he’s based, and how much power and influence he commands. But at minimum, he should be wealthy enough that he can devote time to his newfound pursuits, secure enough in his lands that he need not be concerned about his neighbors, and hold lands both locally and some distance away, in order to allow for frequent periods of absence. The lands near the covenant may have only recently fallen into his hands: as a dowry from his marriage that he has yet to exploit; inherited from his father or an uncle; or won through right of conquest or tourney. For whatever reason, the lands have recently become important to him, and Geoffroi is now keen to exploit them. Although Geoffroi’s story plays out over a number of years, Geoffroi can easily be added into existing sagas. All that’s needed is for him to inherit some land near the troupe’s covenant and decide to take an active interest.''
 
 ==Geoffroi’s Family==
@@ -45,15 +45,15 @@
 ==Geoffroi’s Court==
 
 ''Geoffroi’s court at first looks much like the courts of other nobles of wealth and rank. But even before his obsession with magic, it is clear that he has an eye for the unusual. His arms and armor, for instance, are of superior quality, an indication that he is prepared to pay for the best. The key theme for this antagonist is the accumulation of magical resources. As such, every time Geoffroi is introduced into a story after his initial encounter, either as antagonist, protagonist, or supporting character, he should have some obviously new magical accoutrement to which he is keen to draw attention. Geoffroi himself will certainly draw parallels with Sicily: scholars from multiple cultures — or in this case magical traditions — welcomed and working within the same court. The two key mundane members of Geoffroi’s court are his steward Claude, and Geoffroi’s wife Ysabeau. Claude is loyal to his master to the bitter end and cannot be turned by mundane means. But Ysabeau’s primary concern is for the safety and prosperity of her children and she could potentially be a weak link to be exploited by the player characters.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Useful Resources==
 
 ''Geoffroi’s story provides troupes with the opportunity to explore material presented in a range of supplements. Of particular relevance to Geoffroi himself is Lords of Men, which, as well as exploring the lives of the nobility, contains a chapter discussing Hermetic interference in lordly affairs. And as Geoffroi is intent on bringing wizards, sorcerers, and beasts from all of the realms to his court, each of the realm supplements and Hedge Magic Revised Edition can be used for these workers of magic. In addition, Art & Academe presents material supporting mundane''
 ''experimental philosophy and astrology and the works of supernatural artists, while City & Guild supports magical craftsmen. Given the number of different hedge traditions available in Ars Magica Fifth Edition, storyguides should use as much or as little as they like from these resources, or indeed any of the Tribunal books. Geoffroi provides an opportunity for troupes to explore these traditions as any character touched by the supernatural would likely find a place within Geoffroi’s court, from a faerie-blooded fisherman to a Levantine sahir.''
 
-|]
+|}
 
 ==Antagonists The Magical Court==
 
@@ -68,8 +68,8 @@
 ''Ádhamh Brathair (EWE BRO-hur) is a learned magician from Hibernia with the lofty aim of developing a unified theory of magic built on sound philosophical principles. He applies himself to researching the magic of his fellow wizards and to the breakthroughs needed for his new grand theory.''
 ''Goetic Sorcerer''
 ''Desperate to escape a dark fate, Dominici Viterbo tries to hide himself within the council. But he cannot outrun the de''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Lady Ysabeau==
 
@@ -80,7 +80,7 @@
 ''Throughout the covenant’s dealings with Geoffroi and his court, Ysabeau’s priority is the protection of her children. She loves her husband but as his obsession with the supernatural gathers pace she can be persuaded to favor her children’s future over that of her husband. Ysabeau knows of Guillaume, Geoffroi’s eldest illegitimate son, but does not know of Francois.''
 ''* 	 The +1 bonus is granted by the superior quality gold necklace she wears. This applies to all first impression Charm rolls.''
 
-|]
+|}
 ''mons of his past and they soon find him. In teaching others, perhaps he can make right the mistakes he made and cleanse his own arts of corruption.''
 ''The Diabolist''
 ''Hannelore, a student of the Maleficia, brings her own infernal magic to the council seeking protection from Hermetic enemies that she made in the past. Wanting a direct route to influence, she looks to supplant Ysabeau in Geoffroi’s affections.''
@@ -97,8 +97,6 @@
 ''Additional Concepts''
 ''Others touched by magic, but less powerful than those above and unlikely to have a place within the council, may include:''
 
-[|
-
 ==Claude de Fécamp==
 
 ''Claude is Geoffroi’s steward, a trusted retainer tasked with many of Geoffroi’s affairs. The players are often as likely to encounter Claude as they are to encounter Geoffroi himself.''
@@ -107,8 +105,6 @@
 ''Claude de Fécamp was schooled at a Benedictine monastery, but has been part of Geoffroi’s household for the last six''
 ''years. His first year with the baron was a troubled time, and Claude resented both his master’s wealth and his own subservient position. He angered many, treated others with contempt and scant regard, and made few friends. One evening he was set upon by persons unknown. He was severely beaten and would have been killed but for Divine intervention. An angel enfolded him in its light and confronted Claude with the mistakes that had brought him so low. This event changed Claude’s life forever. He reaffirmed his loyalty to Geoffroi, put aside his wayward habits, and dedicated himself to his duties. And in return, the angel promised that Claude would be protected from the world so long as he remained true. Those in Geoffroi’s household now barely remember Claude as he was and only pay respect to the man he has become: loyal and temperate.''
 ''* Claude’s soak score includes the +5 bonus granted by his guardian angel. This same guardian angel also grants Claude a magic resistance of +15 aligned with the Divine while he acts in accordance with God’s ineffable will.''
-
-|]
 ''•	 A mundane astrologer and philosopher skilled in the creation of astrological inceptions who wants to learn true magic. •	 A blind beggar cursed with prophetic visions that haunt his dreams. What he would give for one sight to be exchanged for another. •	 A young boy who sees ghosts, and the mother who spirited him away from their frightened village. •	 A faerie-touched armorer with exceptional skill, who needs somewhere to work, funds to refine his workshop, and someone to deal with the faerie that continually tries to steal back its tools.''
 
 ==Aims and Motivations==
@@ -125,15 +121,15 @@
 ''The following ideas are all suitable for early interactions with Geoffroi as he starts to understand that there are worlds''
 ''beyond his mundane comprehension. The storyguide should select one of the following encounter ideas to be the first encounter with Geoffroi, and then decide which of the others can be used to explore Geoffroi and his lands.''
 ''•	 A magical stag flees Geoffroi’s woodland chase and arrives at the covenant, pursued by Geoffroi and his hounds. It is not powerful enough to overcome the covenant’s Aegis and so is trapped, unable to reach safety and unable to outrun the noble’s dogs. The stag has little to offer to the magi, given its low might and lack of power, but can the magi stand by and watch while the noble kills a beast from the magic realm? Geoffroi, of course, demands the return of the stag. But he is curious as to why the beast ran to the covenant, who the strange scholars are, and what kind of arrangement they might reach. •	 A case of demonic possession is suspected in one of Geoffroi’s manors, and every priest and monk available has been unable to release the poor victim. Geoffroi goes looking for specialists in the field, but once the magi from the covenant have been brought in, it is soon apparent that the demonic spirit has moved to a new host. The magi must find the demon and deal with it before its plan reaches fruition, and it is taken inside the covenant by an unwitting grog. •	 A farmer in Geoffroi’s estate was woken one night by a great crashing sound coming from his hayloft. He found the roof caved in, and the walls battered almost to the ground. As he searched for the cause of the damage, he found a large stone, as smooth and as rounded as an egg. But he could not''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Ambitious Medicus==
 
 ''An itinerant doctor, skilled in the elemental arts, enters the noble’s court and makes himself very much at home. None seem to have a bad word to say about him and a sense of levity spreads throughout the court. Of course, they’ve all been brought under his spell as he manipulates''
 ''their humors, inclining them toward the sanguine and ingratiating himself into the bargain. Even when the noble’s riches start going missing, none suspect such a good friend of the court — apart from the phlegmatic steward, who resolves to find someone who will listen to him.''
 
-|]
+|}
 ''lift it. Nor could his neighbor. And nor could a team of oxen tethered to the stone. Geoffroi was called to see the stone, but has no answer. He cannot simply leave his tenants to deal with the problem, and so must seek people who might have some experience in such matters. What is the stone, who or what left it there, and how can it be safely moved? •	 A strange leper from a distant land passed through Geoffroi’s holdings not long ago. He claimed to be on a pilgrimage, and was seeking alms and the kindness of strangers to support himself. Geoffroi ordered that he be driven from his estates, and that no man, woman, or child give the man aid. They say that the leper cursed Geoffroi as he left, and his son has since taken deathly ill, with seeminglyno cure to be had. And then Geoffroi was told of some scholars who may be able to help. Can the magi of the covenant lift the curse? Or do they need to track down this leper (in truth, a wandering magus of House Tytalus)''
 ''and force him to end whatever strange magic he has woven?''
 ''The first encounter with Geoffroi should leave him wanting to know more about the worlds beyond the mundane, but with a feeling of distrust toward his Gifted benefactors, and a sense that perhaps there might be others more amenable.''
@@ -158,8 +154,8 @@
 ''At the end of this series of encounters, the magi should be under no illusion that Geoffroi is taking his interest a little too seriously for comfort. While not yet dangerous to the covenant, he is becoming a nuisance.''
 ''The Tournament''
 ''The tournament is where a noble can truly show off his wealth, popularity, and influence. As an entrant, the noble can take to the field at the head of a large retinue and team of knights fighting under his colors. But as a sponsor and patron of the tourney, he can dictate the terms of the event, decide upon winners and losers, and demonstrate his largesse by awarding sumptuous prizes. For this purpose, Geoffroi commissions a number of prizes from the covenant magi. He asks for an enchanted sword, a golden cup of grandeur, a horse of virtue fit for riding, and a magical hawk, though he is also open to suggestions for alternatives. He also inquires about magically enhanced entertainments, so that he may present the most unusual and surprising feast to his guests. He is willing to pay handsomely for any assistance.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Where and When is the Tournament Held?==
 
@@ -171,15 +167,13 @@
 ''The tournament is an opportunity to show Geoffroi beginning to find his own magical resources with the introduction of a magical swordsmith. He will introduce the smith to the covenant, and ask that he be permitted to work within the “beneficial air” inherent to the covenant. The swordsmith is happy to discuss his''
 ''art with learned men, though he himself is a peasant and somewhat daunted by the wealthy, especially those with The Gift. Is there anything that the Hermetic magi could learn from the craftsman? Having seen his art in action, are they happy to release him back to Geoffroi, or could they find another use for him?''
 
-|]
+|}
 ''Nearer to the time of the tournament, he also asks for specific aid for his own team of knights. And of course, he offers the covenant an invitation to enter the tournament under their own banner. But being seen to help Geoffroi in this manner may prompt his rivals to ask the same of other wizards, Hermetic or not, which may create new rivalries (friendly or otherwise), or raise even more accusations of interfering in the mundane world. Storyguides may find the material presented in Lords of Men (page 64) useful if the covenant chooses to become involved in the tournament.''
 ''The Council of Wizards''
 ''Geoffroi finally assembles a council of wizards within his court. Some are destined''
 ''to be transient, passing through after performing some service for the noble, but others remain to enjoy his ongoing patronage. The council has the potential to pose significant problems to the covenant in its own right, so the covenant gains the Rival External Relations Hook (Covenants, page 22).''
 ''•	 Geoffroi extends an invitation to join his council to the covenant’s magi. He describes a utopia of shared learning and peaceful understanding –— under his direction, of course. He offers the support and funding of his court if the magi share their magic with his council. Could pride or Hermetic Law permit such a relationship? •	 Attracted by the talk of a land conducive to magic, one of the cunning folk (Hedge Magic Revised Edition, page 101) is drawn to the area. But his magical air''
 ''and strange foreign ways upset some of the locals, and he is held as a witch. The covenant and Geoffroi’s court hear of the event at the same time, and both are intent on investigating. •	 The hedge wizards send representation of their own to the covenant, eager to learn Bonisagus’ theory of magic from the foremost users of magic in Mythic Europe. In exchange, they offer insights into their own unique gifts. The insights they offer could expand Hermetic magic in valuable ways, but when the magi refuse to teach the hedge wizards the Parma Magica, what do they offer in its place? •	 Geoffroi promises his son Alenard to one of the magicians at his court. The Lady Ysabeau reaches out to the covenant, through a trusted messenger, to plead for their assistance in preventing''
-
-[|
 
 ==Edwin Locke, the Elementalist==
 
@@ -188,8 +182,6 @@
 ''talist societies) 1 Combat: Dodge: Init +0, Attack N/A, Defense +0, Damage N/A Fist: Init +0, Attack +0, Defense +0, Damage +0 Bludgeon: Init –1, Attack +2, Defense +0, Damage +2 Soak: +2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Artes Liberales 5 (grammar), Carouse 2 (games of chance), Charm 3 (being witty), Etiquette 1 (the Church), Folk Ken 2 (townsfolk), Greek 3 (prose), Latin 5 (academic usage), Leadership 2 (students), Magic Lore 2 (spirits), Order of Hermes Lore 1 (history), Philosophiae 5 (natural philosophy), Teaching 4 (Philosophiae), Area Lore: York 1 (personalities) Arts: (Theurgical) Controlling 15 +3, (Theurgical) Summoning 15 Difficult Arts: Elementalist Air 4, Elementalist Earth 3, Elementalist Fire 4, Elementalist Water 3''
 ''Equipment: Philosophical texts, astrolabe. Encumbrance: 0 (0) Vis: 4 pawns each of Aquam, Auram, Ignem, and Terram vis in the form of glass-like crystals. They are kept within small bottles of a preservative oil and contained within a custommade wooden case. Appearance: Locke is a man well into his middle age, with thinning gray hair. He has the look of a confident and determined man, and carries himself with the bearing of one constantly left unamused by the antics of errant students.''
 ''Locke doesn’t so much hide his magical knowledge from his colleagues and students as simply not discuss it. He is sure that some know or suspect, but he is content to live two lives: one within the cathedral sphere, and one in the world of spirits and supernatural beasts. It is fair to say that he knows little of the supernatural realms themselves, but does understand that there are other magical traditions. He has heard of the Order of Hermes, and recognizes their prominence. He views the chance to meet other practitioners of magic as an intellectual challenge.''
-
-|]
 ''her son being subjected a magical apprenticeship; by rights, he is his father’s heir. This situation proves the extent to which Geoffroi has lost perspective. •	 With word of this council of wizards having reached neighboring counties, the covenant finds itself the subject of a Quaesitorial investigation into the support they have been showing this mundane noble and his court wizards. But the Quaesitor, and the magi she brings with her, seem to be taking the opportunity to settle old scores against the covenant.''
 ''Stolen Resources''
 ''Feeling secure under Geoffroi’s patronage, the council of wizards starts to exert its influence. The following events may be employed to represent their growing audacity.''
@@ -239,15 +231,15 @@
 ==Let Sleeping Dogs Lie==
 
 ''The magi may well close their doors to Geoffroi and simply ignore the issue. In this case, Geoffroi continues to lose control over his lands, and competing nobles, including Geoffroi’s illegitimate son Guillaume, vie for these estates. At this point, Geoffroi himself ceases to be the problem, and the state of war of the covenant’s doorstep — or the court wizards themselves — become the challenge facing the covenant. Ysabeau and Geoffroi’s daughters return to Geoffroi’s other lands near Arques. If he has been freed from the council’s influence,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==What Counts as Interfering with Mundanes?==
 
 ''Hermetic magi are constrained by clauses within the Code that prevent them from bringing ruin to their sodales within the Order. Principally, this applies to interfering with mundane affairs. But the events surrounding Geoffroi blur the lines between magical and mundane. Can a magus who acts against a hedge wizard be considered to be interfering in mundane affairs? The hedge wizard is arguably aligned with the supernatural world, but is still closer to the mundane world than those of the Order. What if the hedge wizard is working for or against a''
 ''mundane village, town, noble, or cleric? These are the ambiguities that are disputed when cases are brought to Tribunal. There is no hard line here that a magus of the Order crosses; each case is individual. Overzealous Quaesitors, like Galatea described elsewhere in this book, would see interference in most encounters. But most magi recognize the realities of life and judge each case upon its merits. This is not a matter for storyguides or troupes to rule upon, but rather for the magi within their sagas to debate at Tribunal.''
 
-|]
+|}
 ''Alenard goes with them, and his resentment of his father’s manipulation grows. Geoffroi himself is overcome by his desire to learn magic, driven to spend his time reading anything he can find on the subject. He signs whatever papers are put in front of him, and is oblivious to his declining health. Eventually, he dies in poverty, his wealth usurped by those around him.''
 
 ==Persuading Geoffroi==
@@ -310,15 +302,15 @@
 ''A Blade of Virtue''
 ''This excellent quality long sword has a +2 bonus to both attack and defend. But it has also been enchanted by a magical craftsman with the following effect, granting a further +1 to both attack and defend when wielded by its intended owner. The blade is enchanted for a specific individual, likely to be the knight who wins one of Geoffroi’s tournaments, and takes a number of seasons to complete. If the raw materials for the blade are first treated as per the alchemical steel described in Art & Academe, page 76, the sword naturally gains a further +2 bonus to damage. Truly a prize worth winning.''
 ''The Rarefied Blade MuTe 15 Pen +0, 1/day R: Personal, D: Sun, T: Individual In the hands of its intended owner, and upon the secret incantation being spoken, the sword’s property of weight is altered such that it is lighter and more balanced in the hand. This grants +1 to both attack and defense. When the effect is active, the sword has a Penetration of 0 and is resisted by any character or creature with a Magic Resistance of 0 or greater. (Base 3, +2 Sun, +2 metal) Required Craft Total: 1 season (30), 2 seasons (23), 3 seasons (20), 4 seasons (19)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Stolen Ring==
 
 ''The magi are approached by a Jewish craftsman and his apprentice who ask for their help in finding a ring that has been stolen. The goldsmith reveals that he is able to burn magic into his craft, and that the ring was designed for Baron Geoffroi d’Arques. Aside from the value of the piece, and Geoffroi’s wrath''
 ''when he learns of the loss, the smith is afraid that someone will use the ring as an Arcane Connection to Geoffroi, allowing them to influence or harm him from afar. So where is the ring? What does the thief intend? And how is the goldsmith’s apprentice involved?''
 
-|]
+|}
 
 ==Antagonists Learned Magicians==
 
@@ -329,5 +321,6 @@
 ''Grant Fortune At the Tourney (Single Weapon) TuFa Level 20 R: Touch, D: Season, T: Individual This amulet, in the form of an embroidered girdle, grants the wearer great fortune throughout a season’s effort at tournament when using their Single Weapon Ability. If the character’s attack advantage is 0 or less, both combatants re-roll. If the second roll produces a positive attack advantage, it is used. If the character botches''
 ''any of his rolls, that roll is discarded unless the second roll also results in a botch. If this happens, the least harmful result is taken. Note, only the Single Weapon Ability is protected in this way. The amulet must be worn for the full season. If it has multiple charges (determined when the device is created by the skill of the Learned Magician), then they will discharge automatically and continue protecting the wearer until all charges have been exhausted. (Base 5, +0 Touch, +3 Season)''
 ''An Arrow So True Has Never Been Struck SuFa Level 15 R: Touch, D: Sun, T: Individual Completed on the morning of a hunt, this charta grants the recipient a +3 bonus to all attack rolls when using a bow. (Base 10, +0 Touch, +1 Sun)''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

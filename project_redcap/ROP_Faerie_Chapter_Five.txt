@@ -31,14 +31,14 @@
 ===Sympathetic Influence: Simple Die + Presence + Leadership===
 
 ''Note that if the character already has an appropriate Sympathy Trait, it may be applied as a specialty to Leadership for this roll. This makes it slightly easier to increase an existing Trait with a low value for a short time than to develop a new one, as a +1 Trait might be temporarily increased to +2 or +3 through sympathetic influence. However, adding the Sympathy Trait also requires the player to roll a stress die and risk botching. Also note that unlike the influence associated with other realms of power, it is possible to affect an unwilling subject with practical influence, as long as that person has a Personality Trait or Flaw that is appropriate to the desired sympathy.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Sympathetic Influence==
 
 ''Ease Trait Factor Value 9 +1 or –1 15 +2 or –2 24 +3 or –3 (max)''
 
-|]
+|}
 ''Sympathy Traits gained through sympathetic influence cannot be increased with experience points and do not change when the player rolls a 1 on a stress die or 0 on a botch die, and so the limit of the character’s Warping Score does not apply to them. Also, they do not modify the character’s Faerie Rank.''
 
 ==Tinted Auras==
@@ -56,15 +56,15 @@
 ''Any Virtue can be given a faerie twist by attaching either the Greater or Lesser Charm Flaw (see New and Modified Flaws, below). A charm is any product of human creative effort, whether it is a product of artifice, a work of art, a piece of music, a poem or song, or even an ointment or a potion; and these Flaws tie the exercise of a Virtue to the charm. Charms are taught to mortals by faeries with the Grant (Virtue) power (see Chapter 3: Faerie Charac''
 ''ters), or through special faerie rites performed by faerie wizards (see Chapter 6: Faerie Wizardry). For most of the time, having a Charm Flaw has no effect on the operation of the Virtue; they are simple actions or rites that take a negligible amount of time to employ. However, secrecy is one of the sources of the power of a charm, and if other characters become party to the charm, the power vanishes like mist in the sunlight. Should this happen, the charm needs to be remade (for a Lesser Charm) or recovered (for a Greater Charm). It is not necessary to keep the existence of the affected Virtue a secret — many of them have overt effects, after all — but it is vital that the method of activation is kept personal. A character cannot even write down the words of a charm poem or the recipe of a potion, even if this written record is kept hidden. If the charm that activates the Virtue is obvious, then the character must take pains to conceal it, perhaps by hiding it among other, meaningless rituals or activations. A character who drinks from a special cup, mutters a few words, and then genuflects to the sky has successfully obfuscated the real charm. Virtues with charms are usually Supernatural Virtues, but can be any Virtue that obeys the following rules:''
 ''• 	 The Virtue cannot be a Social Status Virtue, or involve the background of the character. • 	 The Virtue cannot affect experience points in any way (such as Educated or Affinity in (Ability)). • 	 The Virtue must affect what the character can do, not who he is. In other words, it must be possible to take the Virtue away without making a fundamental change to his statistics. This can be a difficult category to judge, and relies on the discretion of the storyguide. Examples: Keen Vision does not affect all Perception rolls so is permissible, as is Puissant (Ability). However, Improved Characteristics and Large are both disallowed. • 	 The Virtue cannot be a Hermetic Virtue, since these rely on expertise beyond the Realm of Faerie. Similarly, other categories of Magical, Divine, or Infernal Virtues are off limits, including Mystery Virtues.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Tinting an Aura==
 
 ''Ease Trait Factor	 Value* 3 +1 or –1 6 +2 or –2 9 +3 or –3 12 +4 or –4 15 +5 or –5 18 +6 or –6 21 +7 or –7 24 +8 or –8 27 +9 or –9 30 +10 or –10 (max)''
 ''* Limited by aura and Sympathy Trait.''
 
-|]
+|}
 
 ==Realms of Power: Faerie Sympathetic Magic==
 
@@ -88,8 +88,8 @@
 ==Faerie Blood==
 
 ''Some humans are not wholly mortal, but somewhere in their family tree is a touch of glamour, expressing itself as either the Faerie Blood or Strong Faerie Blood Virtues. Whenever a faerie derives vitality from a human, the resultant glamour has the power to create a child with faerie blood, the most common method being procreation. Human activities surrounding the production of children — love, lust, intercourse, even fertility itself — are powerful source of vitality for many faeries. Some faeries seem to be as fertile as humans, and are able to produce children with a mortal man or woman. Faeries of this type are usually highly cognizant and deliberately produce children to further their own story in some manner. Such are the many stories of gods producing heroic sons and daughters with a mortal woman. Other faeries need to steal fertility from a mortal before they can generate children. For example, a story is told about the king of the merfolk who takes a human maiden as his wife. The bride drowns in the king’s palace, but one of the king’s sisters acquires the virgin’s procreative vitality and bears a human child. Yet other faeries merely feign fertility, but instead touch fertile men and women with their glamour to produce children of their spirit rather than of their flesh. A faerie who repeats Merlin’s trick — clothing Uther Pendragon in glamour so that he appeared to be the husband of King Arthur’s mother Igraine — changes the child of such a union so that they have Faerie Blood. Faeries who have to steal fertility or influence a mortal conception are usually at least narrowly cognizant if not fully cognizant of their activities. Another manner in which faerie children are produced has nothing to do with fertil''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Examples of Charmed Virtues==
 
@@ -100,7 +100,7 @@
 ''Virtue: Reserves of Strength Example: The character must swig a magic potion to gain the bonus to his strength.''
 ''Virtue: Second Sight Example: The character must smear a special ointment onto her eyes.''
 
-|]
+|}
 ''ity, but instead causes the manifestation of Faerie Blood apparently by accident. A faerie who derives vitality from a pregnant woman (for example, a blood-drinking faerie who feeds on her) might infect that child with its glamour and produce the symptoms of Faerie Blood. Such influence can also occur after birth, in that changelings are nearly always fae-touched in some manner. Such faeries are often incognizant of their actions, but this is not always the case. For example, a faerie queen who names a mortal child as her heir knows exactly what she is doing, and the child inherits both Faerie Blood and an exciting life ahead of it! Once Faerie Blood has been introduced into a human family, it can be inherited by the character’s descendants. Faerie Blood manifests regardless of the number of generations between the first character to bear it and the current generation. It may ignore several generations and then resurface for no apparent reason. A character whose mother was directly influenced by a faerie might still possess the same strength of Faerie Blood as a character whose blood has been diluted by seven generations of mortals. The strength of the faerie taint (ie. possessing the Faerie Blood or Strong Faerie Blood Virtues) also''
 ''bears little relation to the recency of the bloodline. However, the cognizance of the faerie involved in the bloodline seems to make a difference. A faerie with high cognizance more often produces “descendants” with Strong Faerie Blood than do faeries with low cognizance. Since Faerie Blood can be induced without ancestry, magi must either accept that it is not part of a character’s Essential Nature, or else that Essential Nature does not limit the Faerie realm in the same way as it limits Magic. Most grudgingly accept that the latter is the most likely scenario.''
 
@@ -117,9 +117,6 @@
 ===Brownie Blood===
 
 ''Couples that are fortunate to have a helpful faerie such as a brownie or portune would be wise to exercise caution before introducing a child to the family. Household faeries can be very jealous of babies and may take them in lieu of payment for their service . Such children, if retrieved, may bear the blood of a brownie. And even if it is wellinclined towards the child, the attention of''
-
-==Realms of Power: Faerie==
-
 ''a brownie can still taint an infant, leaving it with Faerie Blood. Characters with brownie blood are usually diligent by nature and hard workers. They often have an unnatural desire to help people out.''
 ''Benefits: +1 bonus to all totals including a Profession Ability. Legacy: +1 bonus to all totals including a Profession Ability, except for one Profession Ability that receives a +2 bonus. This favored Ability must be chosen at character creation. Sympathies: Tools, Cleaning, Gifts (negative). Other Virtues and Flaws: Cautious with (Ability), Gossip, Light Touch; Meddler; Humble, Small Frame. Appearance: Short of stature, character looks older than he actually is.''
 
@@ -138,8 +135,8 @@
 ===Faerie God Blood===
 
 ''Sometimes the gods of old — powerful faeries in their own right — had children with mortals, and legends abound with the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Faerie Blood and the Soul==
 
@@ -152,7 +149,7 @@
 ''Major Virtues: Focus Power, Greater Power Minor Virtues: Faerie Speech, Improved Powers, Lesser Power Major Flaws: Monstrous Appearance, Sovereign Ward Minor Flaws: Reduced Power, Slow Power, Traditional Ward''
 ''For all powers granted by these Virtues, calculate the Might cost as normal, but instead of spending Might points, the character instead loses 1 Fatigue level for every 5 points (or fraction) of the cost. For the purposes of calculating the Penetration Total of powers, assume that the character has a Might Score of zero, although in reality he has no Might Score at all. Only characters with Strong Faerie Blood should be allowed to take Major Virtues from this list. Those with Faerie Blood are restricted to just the Minor Virtues; but both types of character can buy their Virtues with Major or Minor Flaws from the above lists.''
 
-|]
+|}
 ''stories of their exploits. Characters with this variety of Faerie Blood might be descendants of Zeus, Venus, Morrigan, Odin, Pelos, or any one of the host of the other gods of their people. With such noble blood in their veins, these characters rarely remain anonymous for long, and many believe that a great destiny lies before them. Picking Sympathy Traits appropriate to the specific god is very important, and they should relate to his or her principle attributes.''
 ''Benefits: 1 point to spend on appropriate Sympathy Traits. Legacy: 2 points to spend on appropriate Sympathy Traits. Sympathies: Anything appropriate to the ancestor. Other Virtues and Flaws: Greater Benediction; Famous, Frightful Presence; Faerie Heritage, Supernatural Nuisance (creatures hostile to ancestor); Higher Purpose, Infamous. Appearance: Some key characteristic of the god in question.''
 
@@ -200,8 +197,8 @@
 ===Undine Blood===
 
 ''Undines are those Courtly Faeries who inhabit rivers, particularly those rivers that form boundaries between countries or geographical features. They may be the progenitors of lineages of mortals in similar manner to other Courtly Faeries (see Sidhe Blood, earlier). Perhaps the most famous lineage of undine blood is that of the rulers of Lusignan castle, who had Mélusine as their ancestor (see Lion and the Lily, Chapter 6: Anjou and Aquitaine). A character with undine blood often needs to be immersed in water regularly, or else he suffers ill effects. This variety of Faerie Blood can substitute for a water-inhabiting faerie such as a mermaid, although those faeries that can change shape are best treated as a variety of selkie blood instead.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds: Faerie Blood==
 
@@ -219,7 +216,7 @@
 
 ''A troupe of fauns moves into a local wood, and an unusually large number of children with satyr and nymph blood are born. As they grow up, the children are able to sense each other’s presence and they join up to form a band of their own. They then engage in their own enticement and subsequent imprisonment of fertile men and women.''
 
-|]
+|}
 ''Benefits: +2 bonus to any action taken under water, which will partially offset any penalty applied. Legacy: +2 bonus to any action taken under water, which replaces any penalty applied. Sympathies: Rivers, Fish, Clothing (negative). Other Virtues and Flaws: Greater Immunity to Drowning; Puissant Swim; Mute; Lesser Malediction (water dependence, requiring a Deprivation roll (ArM5, page 180–181) for every day that they are not immersed in water), Noncombatant; Monstrous Appearance* (lower body of a serpent or a fish). Appearance: Pale almost-blue skin, webbed hands, large liquid eyes, green hair.''
 
 ==Changelings==
@@ -264,8 +261,8 @@
 ===Bonding===
 
 ''Minor, Supernatural See Chapter 6: Faerie Wizardry for a full description. Choosing this Virtue gives the character Bonding with an initial score of 0.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New and Modified Virtues==
 
@@ -287,7 +284,7 @@
 
 ''Faerie Background''
 
-|]
+|}
 
 ===Captivating===
 
@@ -383,8 +380,8 @@
 ===Ware===
 
 ''Minor, Supernatural See Chapter 6: Faerie Wizardry for a full description of this Faerie Power. Choosing this Virtue gives the character Ware with an initial score of 1.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example Greater Benedictions==
 
@@ -402,7 +399,7 @@
 
 ''Everyone who knows you is your friend. You receive a +3 bonus to all social rolls with people who have known you more than one month. Anyone who tries to act against you by swaying the emotions or opinions of others have +3 added to all Ease Factors. This effect has a Penetration of 0.''
 
-|]
+|}
 
 ===Weal===
 
@@ -427,8 +424,8 @@
 ===Faerie Metamorphosis===
 
 ''Minor, Supernatural or Hermetic This Flaw can only be taken by characters with The Gift (as a Hermetic Flaw) or the faerie equivalent (as a Supernatural Flaw), such as a Mythic Companion Virtue. When the character’s Warping score reaches 1, he develops a glamour as described under Faerie Warping. The Reputation granted by this glamour progresses just like a character suffering Faerie Warping, although he does not develop further Flaws or Virtues as a result of Warping. The character continues to experience Twilight (if a Hermetic magus) or Faerie Calling (if a faerie magician).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example Lesser Benedictions==
 
@@ -449,7 +446,7 @@
 
 ''Every sexual encounter with a partner of the opposite sex results in conception.''
 
-|]
+|}
 
 ===Faerie Upbringing===
 
@@ -484,8 +481,8 @@
 ===Curse-throwing===
 
 ''This Supernatural Ability is usually aligned to the Faerie Realm, but can be potentially aligned to any supernatural realm.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New and Modified Flaws==
 
@@ -518,7 +515,7 @@
 ===Faerie Upbringing===
 
 
-|]
+|}
 ''It enables the character to heal diseases, remove curses, and dispel detrimental magical effects, but only by transferring (or “throwing”) their effects to another person. CurseThrowing cannot affect Flaws; specifically, someone with the Lesser or Greater Malediction Flaw is beyond the power of CurseThrowing, unless it is a Flaw imposed by a faerie or magician with a limited duration. However, any other curse laid by a supernatural power is potentially within the remit of this Ability; note that curses laid directly by God (such as leprosy) are normally represented by permanent Flaws, and thus exempt. Only harmful effects can be transferred with this Ability, and the storyguide is the arbiter in cases where spells are not directly detrimental. Barrenness is a common affliction treated by this power; if transferred to a man or male animal then impotence is inflicted instead. Other curses transferred to inappropriate targets are changed in a similar manner. To throw a curse, the afflicted person must be physically present, and the recipient of the curse must be represented either in person or by an Arcane Connection. Afflictions can be passed from humans to animals or vice versa, but this is harder than transferring within the same species. CurseThrowers sometimes transfer the curse to themselves, but such altruism is rare. To throw a curse, the character must perform an elaborate ritual that involves the crafting of a charm that transfers the curse. This charm is a combination of a physical object and a chant. The object is repeatedly touched to the target and the recipient (or the Arcane Connection), while the chant is repeated over and over. The ritual typically takes an hour for every 5 points (or fraction) of the''
 ''Ease Factor (see below). At the end of this time, the character generates a Casting Total, which must equal or exceed the Ease Factor listed below. If either the sufferer or the intended recipient of the curse has Magic Resistance, the Penetration Total must exceed it, else the curse stays where it is. A botched Curse-Throwing roll swaps the recipient of the curse to the caster.''
 
@@ -542,15 +539,15 @@
 ==Learning Faerie Abilities==
 
 ''Any characters who are strongly aligned to the Faerie realm can learn Faerie Supernatural Abilities. This works exactly like Gifted characters learning Magic Abilities (ArM5, page 166), in that the sum of the scores of all other Supernatural Abilities or Arts the character possesses must be subtracted from the character’s Advancement Total for the season. However, because gaining new powers depends so strongly upon the character having a positive relationship with the Faerie realm, the maximum number of experience points the player can gain towards learning a new Faerie Ability or Art is also limited by the character’s Faerie Rank, so that the sum of the character’s strongest positive and negative Sympathy Traits must equal at least 5 at the start of the season for him to learn a new Ability in this way. Every tradition of faerie hedge wizardry typically has four Favored Abilities, which are easier for them to learn and teach to each other. Characters who have been initiated into the tradition can learn any of these Abilities or Arts without subtracting the value of the others from their Advancement Totals, and without limiting their Advancement Total by their Faerie Rank.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example of Curse-Throwing==
 
 ''A young woman has failed to conceive despite four years of marriage, and she and her mother visit Aelfred, the local faerie doctor. He explains that her barrenness needs to be transferred to another, and the mother volunteers, since she has already had three children. The Ease Factor for this operation is 12, since barrenness is equivalent to a Minor Flaw. The ritual takes three hours, at the end of which, Aelfred generates a Casting Total: 2 (Presence) + 5 (Curse-Throwing) + 5 (stress die) + 2 (Faerie Aura of Aelfred’s''
 ''home), for a total of 14. However, unbeknown to the characters, the barrenness was caused by the curse of a local witch. Her Hex Ability score was 5, thus the Ease Factor was actually 17 (12 + Hex 5). Since Aelfred’s player succeeds in an Intelligence + Faerie Lore roll, the storyguide informs him that Aelfred suspects that his Curse-Throwing should have worked if the barrenness was natural. Aelfred counsels the mother and daughter to investigate whether they have any enemies with supernatural powers.''
 
-|]
+|}
 
 ==Realms of Power: Faerie Faerie Doctors==
 
@@ -561,8 +558,8 @@
 ==Faerie Doctors as Mythic Companions==
 
 ''Players wishing to play a magus-level faerie doctor should take the Faerie Doctor Special Virtue, which makes him into a Mythic Companion, as detailed in previous books for Ars Magica Fifth Edition. As a Mythic Companion, the Faerie Doctor receives one free Minor Virtue — Dowsing — and receives 2 points to spend on Virtues for every point he spends on Flaws, allowing him a maximum of 21 points of Virtues (including his free Dowsing Virtue) for 10 points of Flaws. However, there are some compulsory Virtues and Flaws he needs to''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Sin-Eating==
 
@@ -574,7 +571,7 @@
 
 ''A Bjornaer magus comes to the characters for help. He was unwittingly part of the scapegoat rite when observing Jewish practices in his goat heartbeast, and now seeks a way to unburden himself from the community’s sins.''
 
-|]
+|}
 ''take to fulfill his function as a Faerie Doctor, as given in the list below:''
 ''• Wise One (Minor Social Virtue); • Curse-Throwing (Major Supernatural Virtue); • Faerie Friend (Minor Story Flaw); • Dutybound –– obey the oaths of a faerie doctor (Minor Personality Flaw).''
 ''The Faerie Doctor can choose up to 8 more points of Flaws, granting him up to 16 more Virtue Points. The Student of Faerie Virtue and the Faerie Upbringing Flaw are very common among Faerie Doctors; and a high number are Transvestites. Many of them possess enhanced abilities to resist many curses and diseases (such as a Greater or Lesser Immunity, or Rapid Convalescence Virtues). Other useful Virtues include Summoning (see New Virtues and Flaws), Control Fertility (see Houses of Hermes: Societates, pages 107–108), Free Expression, Herbalism (Art & Academe, Chapter 4: Medicine), Purifying Touch, and Second Sight. The Profession: Storyteller Ability is almost essential. A character can be a faerie doctor without being a Mythic Companion, but they are understandably less powerful. They must still take the compulsory Virtues and Flaws listed''
@@ -625,5 +622,6 @@
 ===Resolve the Faerie Calling: Stress Die + Perception + Concentration Vs. (Warping Score – Faerie Rank) X 3===
 
 ''After a positive Faerie Calling, the character gains a new Sympathy Trait with a value of +1, or increases one of his Sympathy Traits that is particularly appropriate to the scene by 1. A negative experience gives the character a negative Sympathy Trait at –1, or reduces one of his appropriate Sympathy Traits by 1. When a character with Faerie Rank of 10 or more has a positive experience, or when a character with Faerie Rank of –10 or more has a negative experience, he does not return from the Faerie Calling once the scene is resolved. Masters of Faerie Lore imagine that this is because the person is so filled with the power of the Faerie realm that he is transformed into a faerie being, and so makes his way into Faerieland to remain forever. His body and his most treasured possessions slowly fade from the mortal realm, perhaps leaving behind a few material remains appropriate to his Sympathy Traits, such as a pile of leaves, a mound of ashes, or a puddle of water. Only characters with Faerie Rank are affected by the Calling, and only if they do not also belong to a magical tradition associated with another realm. The Divine, Infernal, and Magic realms all take precedence over the Faerie realm in this respect; upon gaining Warping Points, a magus experiences Wizard’s Twilight, a holy character experiences Divine Ascent (see Realms of Power: The Divine, page 63), and an infernalist must undergo Vituperation (see Realms of Power: The Infernal, page 95).''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

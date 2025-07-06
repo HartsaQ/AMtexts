@@ -12,15 +12,15 @@
 ''túath to form a new clan. A weak túath disappears when destroyed or absorbed by a more powerful túath. In 1220 there are approximately 125 túatha. The most powerful are the “five bloods”: the Ua Néill of Ulster, the Máel Sechnaill of Meath, the Ua Conchobair of Connacht, Mac Murchadha of Leinster, and the Ua Briain of Munster. Irish society is divided between the daorcheile (DEER-khul-uh), those without honor, and the grád flatha (guh-RORD FLAH-wuh), those with honor. The daorcheile are peasants, whether slaves, unfree farmers, or poor free farmers who own just enough to survive. The grád flatha includes wealthy free farmers, the nobility, priests and monks, and the professional classes of judges, doctors, and poets. Most of a person’s social standing is determined by heredity, although personal honor plays a significant role. Every free man has an honor-price, called eraic, which is the amount payable in compensation if the man is physically or socially injured. Compensation is paid in cows. Eraic can grow and shrink depending on the man’s fortunes. Besides physical harm, damage to a man’s reputation, social connections, and property demand compensation, with prices set by the type of injury. Verbal slights merit a significant fraction of a man’s eraic, while murder merits the full amount. Most people are daorcheile: slaves, unfree farmers, and poor free farmers. Slaves are taken in raids, although that is infrequent in the 13th century. An unfree farmer, a bothach (BOH-wukh), receives a cow and a small patch of land in exchange for labor and produce, with interest terms that he can never repay. A free farmer, a bóaire (BOE-OR-yuh), is also a client, but receives a better interest rate, one he can eventually repay. The terms the lord offers, determining if a client is free or unfree, are based on heredity. The grád flatha have many rankings: lesser nobles (those with the minimum number of client bóaire), cattle lords, and greater nobles. The clan’s most important nobles are the derbfine (DERB-inyuh), those within four generations of the current chief. Each clan is led by a chief or king (rí). The king of a single''
 ''túath is a rí tuaithe (REE TOO-ah-ha). If the king holds several other túatha as clients, he is a fuirig, or “over-king”. A king of over-kings is a rí ruirech, and a king of one of the five provinces is a rí cóicid or “provincial king”. The grád flatha also include the professional learned classes: the judges, po''
 ''ets, and physicians. Most of these posts are hereditary, with only a few families filling the job for the túath. All posts require intensive training, essentially equivalent to the lengthy academic career of continental university teachers. The kings of the more powerful túatha appoint an ollamh (OL-liv) of each learned position,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Eraic is a Reputation==
 
 ''Eraic measures the social standing of mundanes and is treated as a Reputation within the character’s túath. An example would be “Reputation: Eraic 1 (Ua Riain túath).” The Irish Social Status Virtue and Flaw Equivalents insert lists a character’s starting Eraic score. Use these numbers for characters seeking to increase their honor and attain new social ranks. Characters can also use the Gratitude rules found in Lords of Men, page 7. A character needs 10 Gratitude Points to advance up a rung on the Irish social ladder.''
 ''Eraic also determines the number of cows the character needs to own, and the number of cows a killer must pay the man’s kin as compensation. Multiply a man’s eraic by 12 to determine the necessary size of his herd, and by 6 by determine his compensation price. Double this number if the character is from one of the “five bloods” families. Lesser crimes — insult, theft, adultery — cost the perpetrator a fraction of the victim’s compensation price. The exact percentage is left to the troupe to decide.''
 
-|]
+|}
 ''the titular head of that class within the territory. These tuatha have ollaves of poetry, medicine, and law. Each túath holds public assemblies called oireacht (OR-akh-t)), gatherings that meet at a specific location during set times of the year to determine clan business. Assembly business involves settling disputes, levying fines, collecting taxes, and, when necessary, selecting a new king. The candidate must be from the derbfine of the recent king, making everyone with a common great-grandfather potentially eligible. Sometimes the derbfine selects a successor before the current king dies. Called a tánaise ríg, an heir apparent does not always prevent dynastic leadership struggles. The king is crowned in a sacred''
 ''ceremony in which he symbolizes his commitment to his people by marrying the tribal lands. In some túatha the king marries a local faerie woman, a resident Tuatha Dé land goddess. In a highly ritualized ceremony, the king promises to abide by the laws and gods of his people, to do no harm, and universally share the king’s truth of legal and moral judgment.''
 
@@ -28,8 +28,8 @@
 
 ''Only one in 20 Irish marriages happen in a church. Most marriages are secular, the sole requirement being that the couple announce their intention to marry. Once announced, the marriage is''
 ''legal. The Church disagrees, but most Irish clergy participate in rather than prevent this practice, ignoring the ecclesiastical reforms of the late 12th century. Easy marriage leads to easy divorce and easy remarriages. The nobility are the worst offenders, and many are serial monogamists, marrying and divorcing wives as they please. Some men take multiple wives at the same time, but this custom is fading. This loose attitude toward marriage allows a clan to grow rapidly. For example, one Ua Donnell chief has 18 sons from 10 different wives and 59 grandsons. Other differences from continental marriages exist, all of which displease the Church. The Irish marry first cousins, where as canon law demands three degrees of separation between partners. All of a man’s legitimate sons are his legal inheritors. It doesn’t matter whether the son is the eldest, youngest, son of a former marriage or a divorce, just as long as he is not born from a slave-woman. A wife does not bring a dowry to the marriage. Rather, the groom gives the wife’s family a bride-gift. Finally, an Irish marriage does not guarantee an alliance between groups, or even non-aggression between in-laws. Marriage does not stop or even hinder conflict between a man and his brotherin-law, and he does not expect his wife’s kin to follow him into battle.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Irish Social Status Virtue and Flaw Equivalents==
 
@@ -42,7 +42,7 @@
 ''Early Irish law is complied in tracts called the brehon laws, after “brehon,” the Anglicization of the Irish word brithem, meaning “judge.” The brehon laws are civil, not criminal, laws, and concern marriages, hostages, fostering, political rank, and client-lord relationships. Instead of stating the punishment for a wrong, the brehon law recounts the fraction of the victim’s eraic''
 ''(honor) that the offender pays for such a deed. They also state the size of a man’s house and herd, both dependent upon his eraic. The great difficulty with Irish law is that it is unenforceable. The law does not give a king punitive rights over his clients. Once the judges have cited the correct amount, it is up to the offended to gain the compensation from the offender.''
 
-|]
+|}
 
 ==The Contested Isle Hostages and Fostering==
 
@@ -61,15 +61,15 @@
 ==Time==
 
 ''The Irish year is split in half. Winter precedes summer and begins on Samhain (SOW-wun), 1 November. Summer starts on Bealtaine (BAL-tun-yuh), 1 May. Samhain marks the end of the harvest season and the beginning of the “dark half” of the year. On Oíche Shamhna, “the night of November” (31 October), ghosts and faeries stalk the night. The Tuatha Dé leave their summer homes for their winter mansions, disrupting other supernatural creatures. Bealtaine heralds the planting season and start of the “light half” of the year. It too is marked with celebrations and feasts and is a good time for annual charms and yearlong magical effects. Equally important are the celebrations of Lughnasa (LOOGna-sah), 1 August, and Oímelg (O-myelg), 1 February, more commonly called “the Feast of St Brighid”. Lughnasa is the harvest festival and is celebrated on the closest Sunday to the first of the month. Although retaining and valuing some pagan elements, like the season-changing holidays, Mythic Ireland is thoroughly Christian. Christmas and Easter are the two largest holidays. On Easter, the rising sun dances with joy at the Resurrection, and anyone viewing it gains a +1 to any pious Personality Trait for the week. On Christmas Eve candles are lit and placed''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Hermetic Hospitality==
 
 ''Many tribunals offer Redcaps and traveling magi hospitality. Some Hibernian covenants extend this offer to mundanes, which can lead to trouble. For example, Circulus Ruber allows a traveling rí cóicid and his party to stay overnight, magically creating lodgings and food for over''
 ''200 guests. Magically created food does not provide sustenance, and in the morning the entire company is starving. The king demands 200 cows as compensation. As the covenant is unwilling to part with the cows, the player characters are asked to appease the king with an alternative solution.''
 
-|]
+|}
 ''in windows to guide lost travelers. At midnight mundane animals gain the Divine power of speech, which lasts until dawn. Hearing an animal speak is extremely unlucky and most people stay clear.''
 
 ==Entertainment==
@@ -83,8 +83,8 @@
 ==The English Opposition==
 
 ''While the Irish and English vie for power, their very ideas of power and political might are different. A core difference is that the English value land and the Irish value cattle. Before the English''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==An Outsider’s View==
 
@@ -96,7 +96,7 @@
 ''Ireland is small. A man can walk from Ireland’s west shore to east shore in four days, and north to south in eight. Its people are relatively informed about each other, often because of extensive family ties. Professional historians are paid to recount a people’s history, and''
 ''the more accurate the tale the larger the stipend. Instead of having Area Lore Abilities for each of the five provinces, a single Area Lore (Ireland) is sufficient. Area Specialties can be an Irish province, a particular clan’s history, succession of kings, legends, or traditional rivalries.''
 
-|]
+|}
 ''the Irish typically stole each other’s cattle, not their land. Túatha moved, usually under pressure from a more powerful neighbor, but land-grabbing was never the objective. The English want land, and stone towers dot the Irish landscape, proof that the English are not leaving Ireland’s green shores. Irish sons inherit property equally from their father, through a complicated, lengthy arrangement. The land and herd are worked together for five years until a separation can occur, with shares being distributed by the youngest son. This is vastly different from the English practice of primogeniture, in which the eldest son inherits everything. An Englishman married to an Irish woman assumes he will inherit her father’s title and property, but her kinsmen disagree. Kingly succession is also different. The English kings have started to establish the principle that the crown descends to the eldest son, as with other property. An Irish son has no guarantee that he will follow his father to the throne, and everything depends upon the decision of the derbfine. Another difference is that a higher king has no authority over a lower king’s rule. For example, a fuirig cannot reverse a decision made by one of his client rí tuaithe. In the English system, the king has legal authority over every lord.''
 
 ==Languages of Hibernia==
@@ -118,15 +118,15 @@
 ==Irish Names==
 
 ''Irish names consist of a given name, which are then usually distinguished further using one or more of a patronymic byname, a clan affiliation byname, or a descriptive byname. Patronyms are formed using “mac” for a man and “inghean” (pronounced “INyun”) for a woman, meaning “son” and “daughter” respectively. Strictly speaking, the father’s name should be given in a different grammatical case (the genitive, denoting possession), and it often takes a modified initial letter (by adding an “h”) when combined with “inghean’. Examples: Aed mac Fergusa, Aine inghean Fhergusa. Clan affiliations are denoted using “Ua” for a man and “inghean Uí” for a woman; meaning “descendent” and “daughter of a descendent” respectively. The name of the eponymous ancestor undergoes the same grammatical changes described above. Examples: Domnall Ua Briain, Una inghean Uí Bhriain. Descriptive bynames are simply appended to the end of the name; for a woman they usually take the same modified initial letter. Examples: Niall Bacach, Grainne Bhacach.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Dialects==
 
 ''Characters who have a dialect as a specialty in a language suffer a penalty of –1 when speaking to someone who speaks a different dialect of the same language. For example, a character with Gaelic''
 ''(Munster) 5 can speak to another Munster man with an effective score of 6 (including his specialization), to a Gaelic speaker with no dialect at a score of 5, and to an Ulsterman with a score of 4.''
 
-|]
+|}
 ''Male Given Names''
 ''Áed, Áengus, Ailill, Bran, Bressal, Cairpre, Cathal, Cináed, Cobthach, Colmán, Conall, Conchobor, Congal, Cormac, Crimthann, Crundmáel, Diarmait, Domnall, Donnchad, Donngal, Eochaid, Eochu, Éogan, Ercc, Fáelán, Fedelmid, Fergus, Fiachra, Flann, Fogartach, Lugaid, Máel-dúin, Maine, Móenach, Muiredach, Murchad, Niall, Rónán, Scandlán, Senach, Sétnae, Suibne''
 ''Female Given Names''
@@ -153,5 +153,6 @@
 ==Non-Irish Names==
 
 ''The names of the English settlers follow the patterns of their homelands. Noblemen and gentry use the conventions of Anglo-Normans, consisting of a given name and a byname, which may indicate their origin or paternity (often using the prefix “fitz,” meaning “son”). The rest of the invaders use whatever conventions they have brought from their homelands — often Welsh or English. Some naturalized English have taken Irish versions of their English names. The people of Scandinavian descent who are resident in Dublin and southern Ireland occasionally still use Norsestyle names, but most have adopted Irish naming patterns using local variants of the names from their homeland. Given names are combined with a patronymic, a byname, or both.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -13,15 +13,15 @@
 
 ''Minor Supernatural Flaw, corrupted beasts only''
 ''The beast has a weakness similar to those of demons. Choose an appropriate limitation from the list given in Chapter 4: The Infernal Legions, Demonic Weaknesses. Corrupted beasts cannot, however, have the Ordering or Compulsion weaknesses.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Virtues & Flaws for Corrupted Beasts==
 
 ''Compulsory Flaw: Corrupted Beast Virtues: Greater Immunity, Greater''
 ''Infernal Power, Ferocity, Lesser Immunity, Lesser Infernal Power Optional Flaws: Horrifying Appearance, Demonic Weakness, Lesser Malediction''
 
-|]
+|}
 
 ===Ferocity===
 
@@ -43,8 +43,8 @@
 
 ''Minor Supernatural Virtue, corrupted beasts only''
 ''Choosing this Virtue adds 2 to the Infernal Might of the corrupted beast and gives the creature an Infernal Power, which either affects it constantly or may be activated by spending points from its Might Pool. Design the effect as an Infernal Power (see Chapter 10: Maleficia, making sure to adjust the level for constant effect or maintaining concentration if appropriate (and ignoring other effect modifications). The level of effect cannot exceed the corrupted beast’s Infernal Might. A Power granted by this Virtue typically costs 0–2 Might Points to activate and has an Initiative''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example Horrifying Appearances==
 
@@ -55,7 +55,7 @@
 ''•''
 ''•''
 
-|]
+|}
 ''bonus equal to magnitude. A given Power is only appropriate for this Virtue if it does not require a Penetration Total; if the Power would have to exceed the Magic Resistance of a target to operate (even if a given target might lack such), then it must be a Greater Infernal Power instead. Corrupted beasts may have this Virtue more than once, each for a different Power, and Infernal Might increases for each Power acquired.''
 
 ===Two-headed Hound===
@@ -88,5 +88,6 @@
 ''Animal: This steed is not impeded by poor terrain and may move at maximum speed along even the poorest of roads, achieving 30 miles a day. It may even cross open water and chasms, unsupported by ground, but can do this only at a trotting pace. Vis: 2 pawns of Animal, in hooves Appearance: A fearsome black stallion''
 ''with bloodshot eyes, fangs in its mouth, and hooves of iron.''
 ''This horse is one of three created by an Infernalist magus in a tribunal at the fringes of the Order by repeated applications of a tainted version of Steed of Vengeance (MuAn 35). There were many failures before he successfully created these three corrupted beasts. Because the untainted version of the spell is wellknown, he is able to use the steeds in front of other magi with impunity.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

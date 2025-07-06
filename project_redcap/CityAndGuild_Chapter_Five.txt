@@ -1,5 +1,3 @@
-
-[|
 ''This chapter helps troupes to create the routes that link their covenants to cities, and gives guidance regarding the amount of time required to travel to and from other stories.''
 ''Most medieval people never travel more than a few miles from the village of their birth. Those who do travel tend to do so for mercantile reasons. There are many exceptions — pilgrims, crusaders, magi — but when these people travel, they do so using infrastructure created and maintained by commerce.''
 
@@ -26,8 +24,6 @@
 
 =Travel=
 
-
-|]
 ''building where tolls are collected and the materials used to maintain the bridge are kept, at one end. These are staffed either by the employees of the lord who owns the bridge, or by the bridge’s fraternity. A bridge fraternity is like a little guild of people who help maintain the bridge. This is a charitable act, but the members of the bridge fraternity are often people who depend on the bridge for their living.''
 
 ===Defense===
@@ -133,8 +129,8 @@
 ''The nef is the main trade ship in the Mediterranean. It follows a Roman design, but has lateen rigging, an idea borrowed from the Arabs, and may have up to three''
 ''masts. Lateen sails are used because they sail closer to the wind. Nefs are carvel built: the boards of their hulls lie flush with each other. The average nef carries 20 tons of cargo, but many ships carry around 100 tons.''
 ''A handful of ships in the Mediterranean can carry more cargo than the types detailed above. Genoa owns two, which it uses to repatriate goods that are aggregated in Cyprus, which represent the sum of colonial production throughout the Near East. Venice also has two 250-ton ships, which it uses as part of its annual grain voyage to Egypt. The maximum size for a ship in the Mediterranean is 800 tons, but such ships are never operated commercially: they serve as subsidized grain barges for their respective cities. In times of trouble, most traders prefer''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Cog==
 
@@ -142,7 +138,7 @@
 ==Galley==
 
 
-|]
+|}
 ''to use many, smaller ships as a way of spreading risk.''
 ''Player characters pressing the limits of shipbuilding will discover that the Romans used 1200-ton ships to transport grain. These ships could only sail in the season of favorable winds, in the tideless Mediterranean, at around 20 miles per day. They were so expensive to maintain, and so vulnerable once Rome lost the ability to suppress piracy throughout the Mediterranean, that 500ton vessels were used instead. Many Venetians and Genoans think even 250-ton vessels are impractically large for mundane trade. With minor magical assistance, however, vessels the size of Roman grain barges are practicable.''
 ''Southern ships use lateen sails, which are more difficult to manage than the square sails used to the north, so they have larger crews. A''
@@ -167,13 +163,13 @@
 ''Covenants that own ships often have sailors as grogs. If the grogs in the party act as part of the standard crew during their voyage, they do not reduce cargo space. They take up crew space instead. Captains generally refuse to sack members of their crew to allow magi to reduce their fare by having the grogs work passage.''
 ''Naval tradition indicates that it is bad luck to have a wizard aboard, so magi need to disguise their status if they do not wish to damage the morale of the crew. Known magi may need to offer double their usual fee for passage, and even then will only be able to hire captains desperate enough to take serious risks with the safety of their vessels and crews.''
 ''•''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Nef==
 
 
-|]
+|}
 ''River travel costs twice as much as sea travel.''
 ''Road travel costs between eight and 20 times more than sea travel, depending on the distance to the destination, the risk involved, and the possiblity of lucrative side and return cargoes.''
 ''Much of the cost of travel goes to pay for food, tools, and accomodation. A local trader or ship captain carrying passengers can usually pocket 10% of his travel costs as profit.''
@@ -214,22 +210,20 @@
 ===Adding Places To the Land Trade Map and Naval Trade Tables===
 
 ''The easiest way of adding a place to the land map is to use the internet to find the direct distance, in miles, between the new site and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Greek Fire==
 
 ''Greek fire is a sticky, flammable substance that cannot be extinguished by water. The Byzantine navy, prior to the fall of Constantinople, used siphons and ceramic pots flung from catapults to incinerate enemy vessels. The secret of the manufacture of Greek fire, or a similar concoction made in imitation by Arabic alchemists, is closely guarded. Characters might acquire it, as part of a major story.''
 
-|]
+|}
 ''the surrounding sites on the map. Divide that distance by 12 for road travel. Divide it by six for river travel with the current, or eight for travel against the current. These denominators include a 20% travel rate penalty, which compensates for the meandering of roads and rivers. It is easiest to look at the routes on a map,''
 ''and if they are mostly road travel, or mostly river travel, treat them as exclusively road or river travel.''
 ''For sea travel, divide the direct distance by 60.''
 ''The Naval Tables use standard, not nautical, miles. Players performing their own research may find distances expressed in nautical miles,''
 ''each of which is slightly longer than 1.15 standard miles.''
 ''The distances on the Naval Tables include inland travel from a port to the named city. The extreme example of this is the sea trade figure for Paris. Its figures include a 230mile journey by barge along the Seine.''
-
-[|
 ''These tables divide Europe into six regions, linked by junctions. A junction is a place that a ship must pass to move from one region of Europe to another. A player designing a voyage simply adds together the times to each junction, then to the final port.''
 
 ==Naval Trade Tables==
@@ -347,5 +341,6 @@
 
 ==Naval Trade Tables, Continued==
 
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

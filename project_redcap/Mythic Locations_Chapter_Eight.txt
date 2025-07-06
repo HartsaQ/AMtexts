@@ -1,5 +1,12 @@
 
-[|
+==Chapter Number Chapter Header==
+
+
+==Chapter Number Chapter Header==
+
+
+==Chapter Number Chapter Header==
+
 ''This Mythic Location is a ruined Cult of Mercury temple, hidden within a Magic regio. The temple complex is large — the size of a town — and it has lain ruined for centuries. The temple complex is haunted by memories of the long dead priests of Mercury and a number of laboratory texts for Mercurian rituals can be recovered from the ruins. Studying the texts, and repairing crucial parts of the temple complex, leads the player characters to forgotten powers…''
 
 ==The Cult of Mercury==
@@ -18,8 +25,6 @@
 ==Story Seed: Curious Books==
 
 ''The characters discover one (or more) of the following books which contain information about the temple of Mercury that was commissioned by Augustus. The characters inherit these books from a dead master, or discover them in an abandoned laboratory, or otherwise stumble upon them. The books could even be found in the hands of mundanes.''
-
-|]
 ''Fenicil, The Cult of Mercury (Tractatus, Organization Lore: Cult of Mercury, Quality 8). Contains a brief mention of the fact that Augustus commissioned a temple that became the cult center for a short time. This book was written in the ninth century AD. It’s not very widely circulated in the Order and is unknown outside. Fenicil’s source seems to be Athenaeus’ Edicts of Augustus. Fenicil does not list the temple as one that he has recovered artifacts from. Of course, this doesn’t mean that Fenicil didn’t find the temple; maybe he wrote his book before finding the temple, or maybe he wanted to keep the temple’s location secret. Athenaeus, Edicts of Augustus (Tractatus, Civil and Canon Law (emperors), Quality 8). Notes the commissioning of the temple, the date of Augustus’ investiture, and locates the Roman province Augustus traveled to for the investiture. This book was written in the second century AD. The book is not widely circulated in the Order, and is known of, but neither considered very important, nor widely circulated in''
 ''scholarly legal communities. Athenaeus seems to have had access to a now lost archive of early imperial correspondence. Various, The Annals of Mercury (Summa, Organization Lore: Cult of Mercury, Quality 10, Level 3). Contains a detailed history of the reconstructed temple from 11 BC until 192 AD, sketchy details of the original temple from 46 BC to 32 BC, and a few later entries that cease after 313 AD. This book was written by the priests of Mercury and a copy is located at the temple, but it is possible that another copy could be found elsewhere. As this book assumes that the reader is a priest at the temple, the temple location is not actually very clearly described. However, once a character has studied from the book for a season he can make an Intelligence + (appropriate) Area Lore roll against an Ease Factor of 12 to infer the likely location of the temple. Mercere, Roman Astrological Correspondences of Mercury (Tractatus, Artes Liberales (astronomy), Quality 9). This book, supposedly written by the Founder Mercere, contains''
 ''a horoscope for Augustus’ investiture as a priest of Mercury. A character who knows the exact date of this investiture can use this horoscope to back-calculate the location of the temple (Intelligence + Artes Liberales (astronomy) roll against an Ease Factor of 9). The exact date is given in the Edicts of Augustus and in The Annals of Mercury. This book is rare, but it is known of outside the Order.''
@@ -27,8 +32,8 @@
 ==Story Seed: The Past Lives of Stones==
 
 ''While in a church the player characters notice that one of the wall carvings curiously depicts the Roman god Mercury waiting behind a kind of archway. Inspection reveals the stone carving is in a different style to others in the church, which all illustrate biblical scenes. In fact, the carving is a piece of the triumphal arch that leads to the temple of Mercury (see later), which has been recovered and reused on the church.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==What is Known about the Fallen Temple of Mercury?==
 
@@ -45,7 +50,7 @@
 ''Lost Secrets''
 ''The location of the temple is a lost secret, but it is possible that magi have already discovered its location. If the storyguide chooses, a character may already know this, and either know the location himself or know who has discovered the site. If other magi already know the location of the temple, it is possible that other Hermetic magi may occupy (or at least claim) the site. This is beyond the scope of this material.''
 
-|]
+|}
 ''Do the player characters realize the significance of this find? Do the church records note where the stones for the church came from? The stone source may be close by and known of by the parishioners. Perhaps an Intellego Terram spell can reveal the history of the curious stone carving.''
 
 ==Story Seed: A Vision of an Empty Temple==
@@ -96,8 +101,6 @@
 ''Mercury and their colleagues at other sites. The accumulated correspondence can be studied as a Organization Lore: Cult of Mercury Ability Summa of Level 3, Quality 10. In addition, a character can use the correspondence to infer the location of other temples of Mercury, by trying to calculate distance by reply-time and noting any clues to landmarks and cities in the content of the correspondence. It takes a week of study to attempt to find one other temple of Mercury in this way and requires a successful''
 ''Intelligence + Organization Lore: Cult of Mercury roll against an Ease Factor of 9. The storyguide needs to decide precisely how many different temples this temple was in correspondence with, as once all such temples have been located no new attempts can be made. Municipal Office: The city records contain maps of the city and a map of the aqueduct system both within the city and the route taken by the aqueduct to reach the source spring (see Aqueduct). The municipal records also contain taxation''
 
-[|
-
 ==Story Seed: The Beast in the Maze==
 
 ''The labyrinth of cages and passages beneath the arena once housed lions, tigers, and other exotic beasts that were used to stage bloody arena battles. These are now all nothing but piles of bones and teeth, but one immortal arena beast remains. This magical gladiator-creature is a minotaur. The minotaur has forgotten his life before he was captured to fight in the arena, and even the functioning arena is now only a dim incoherent memory. Over the lonely centuries the minotaur has explored most the town, but he still makes his lair in the broken ruins of the labyrinth beneath the arena.''
@@ -105,8 +108,6 @@
 ''Magic Might: 10 (Animal) Season: Winter Characteristics: Int –2, Per 0, Pre –1, Com –1, Str +6, Sta +2, Dex +3, Qik 0 Size: +2 Confidence Score: 1 (3) Virtues and Flaws: Magic Human; Improved Characteristics, Tough, Puissant Ability (Great Weapon), Warrior; Magic Monster; Reclusive, Visions Qualities: Gigantic, No Fatigue; Lesser Power, Personal Power (Sense of Self) Personality Traits: Reclusive +3, Angry +1 Reputations: None Combat: Pole-axe: Init +1, Attack +21, Defense +13, Damage +14 Short-sword + Buckler: Init +1, Attack +16, Defense +12, Damage +11 Gore with Horns: Init 0, Attack +16, Defense +11, Damage +7 Soak: +5 Fatigue Levels: None, tireless. Wound Penalties: –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+) Abilities: Animal Handling 3 (arena''
 ''beasts), Area Lore: Temple of Mercury 3 (arena), Athletics 4 (running), Awareness 5 (finding), Brawl 9 (gore), Dead Language: Latin 4 (archaic), Great Weapon 10 + 2 (pole axe), Hunt 5 (tracking), Living Language: Greek 4 (archaic), Magic Lore 2 (Mercury), Single Weapon 9 (short sword), Stealth 5 (maze), Survival 5 (town) Powers: Bellow, 5 points, Init –10, Mentem: This anguished and lonely cry chills, dims, and quiets the mind of any who hear it. Affected characters have a –6 Penalty to any Quickness based roll (including combat Defense and Initiative).  (Base 4, +2 Voice, +1 Diameter, +2 Group) Sense of Self, 0 points, Init 0, Animal: This constant effect power allows the minotaur to always find his way from his current location to any other place he can remember. (Base 3, +2 Sun; +4 constant effect) Equipment: Pole-axe, sword and buckler. Encumbrance: 0 (3) Vis: Two pawns of Animal vis; one in each horn. Appearance: The maze beast is a bullheaded man, who carries a large battle axe. He has lost the memory of his past. His name, his original home, his lover; it is all misty and obscure. His sleep is plagued by broken, incoherent visions of loud arena fights and of the town when it was filled with bustling Romans.''
 ''The minotaur is lonely but frightened when the player characters enter the regio. He has not seen a living soul for centuries. How he reacts to the player characters is uncertain. If matters do not escalate to violence he may make a good covenant servant.''
-
-|]
 ''information for the merchants entering the town. Goods from all around the empire made their way to the town, including wool from Britain, olive oil and wine from Greece and Italy, and ivory from North Africa. These records indicate that the town had a fairly stable population of several thousand between 3 AD and 192 AD. The records after 192 AD are poorly documented and rather haphazardly kept. The accumulated city records can be studied as an Organization Lore: Roman Empire Ability tractatus of Quality 7. Scrying Office: This office contains a large shallow pool connected to the aqueduct network. The pool is currently damaged, and dry. It is not immediately obvious what the pool is for, but a character who studies The Scrying Pool ritual (see Mercurian Rituals) recognizes the pool as a component of the ritual. The pool must be repaired and filled with aqueduct water before the ritual can be cast.''
 ''The “books” in the basilica office take the form of sequences of scrolls, and many are scattered. It takes several days to assemble all the books, and some scrolls may be missing.''
 
@@ -147,8 +148,8 @@
 ''These rituals can be recovered and reinvented as Hermetic rituals by following the process of translation and invention.''
 ''Purification''
 ''CrCo 40 R: Touch, D: Momentary, T: Individual, ritual This ritual may only be cast on another character who has a Decrepitude Score of 1 or higher. The caster cannot cast it on himself. During the ritual the target must be bathed in water, in a consecrated temple of Mercury. The target’s apparent age is reduced by 5 years and his Decrepitude Score is reduced by 1. The player also removes up to 5 Aging Points currently allocated to the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Vis Source: The Aqueduct Spring==
 
@@ -162,14 +163,12 @@
 
 ''The player characters could invent (or commission another magus to make) an item to magically transport water from the aqueduct source to the temple of mercury complex. This bypasses the troublesome need to maintain the remote aqueduct system, but the current owners of the vis source will become annoyed. An alternative project is to invent a spell that can be cast periodically to magically clean the aqueduct system.''
 
-|]
+|}
 ''character’s characteristics. Assuming that the vis is available, and the caster is willing, the ritual may be cast multiple times in quick succession (to reduce a high Decrepitude Score to a much lower value). The ritual has no effect if the target character has a Decrepitude Score of 0. Note that the ritual does not reduce the actual age of the character, so it has no effect on the Aging Roll. Commentary included in the Lab Text suggests that the Mercurian priests used this ritual in a similar manner to the way Hermetic''
 ''magi use the Longevity Ritual. The ritual is compatible with the Longevity Ritual. This ritual breaks the Hermetic Limit of Aging. (Base Effect, non-Hermetic)''
 ''The Scrying Pool''
 ''InIm 20 R: Arcane, D: Concentration/Special, T: Individual, Ritual''
 ''This ritual allows the caster to see an image of the target and his immediate surroundings in the surface of the pool of water in the Scrying Office (in the Basillica). The ritual is specifically designed for this pool; another similar pool cannot be used. If Wizard’s Communion is used to cast this ritual, then it only expires when all of the casting magi cease to concentrate. Individual magi may cease concentrating and rejoin later. In this way, by taking shifts, the ritual may be prolonged for hours, days, potentially''
-
-[|
 
 ==Story Seed: The Godhead==
 
@@ -182,8 +181,6 @@
 ''The Godhead''
 ''Order: Prince of the False Gods Infernal Might: 40 (Terram) Characteristics: Int +3, Per 0, Pre +1, Com 0, Str +4, Sta +4, Dex +4, Qik +4 Size: – 1 Confidence Score: 3 (9) Virtues and Flaws: Arcane Lore, Piercing Gaze Personality Traits: Arrogant +6 Reputations: False Mercury 5 (infernal) Hierarchy: 9 Combat: Bite: Init +4, Attack +12, Defense +12, Damage +7 Soak: +10 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –3 (9– 12), Incapacitated (13–16), Dead (17+) Abilities: Awareness 3 (the Gift), Brawl 5 (bite), Bargain 7 (pacts), Code of''
 ''Hermes 3 (infernalism), Guile 5 (Mercurians), Intrigue 5 (infernal) Powers: Coagulation, 4 point, Init –1, Terram: Allows the demon to form a physical body (see Realms of Power: Infernal page 31). The physical body manifested by the demon is an invisible stone head. When in his spiritual form the demon is also invisible and can neither be physically damaged nor targeted or detected by Hermetic magic. Envisioning, 1 point, Init 0, Mentem: Allows the demon to appear in the dreams of a character (see Realms of Power: Infernal page 32). Grant Magical Power, 2 points, Init 0, Vim: Permanently grants a character the Puissant Art Virtue, but only if the character first performs a task for the demon. This taints the Art with the infernal. Obsession, 1 point, Init –5, Vim: Whenever a character sins in the presence of the demon it can use this power to infect the character with the Personality Trait: Arrogant +1; see Realms of Power: Infernal page 31. Shroud the Stench of the Pit, variable, Init +3, Vim: Allows the demon to disguise from Hermetic detection any of his other powers. This disguise costs the same number of Might Points as the original power and lasts indefinitely or until the demon lifts the shroud. Vis: 10 pawns of infernally tainted Terram vis in stone brains. Appearance: The Godhead is an invisible stone head about twice the size of a human head. The head can float around if he chooses. As he is a demon and without virtue, the Godhead is a coward. So if wounded either with magic or physically, the Godhead abandons his physical (but invisible) form and instead adopts his spiritual form.''
-
-|]
 ''even years. Only magi who participated in the Wizard’s Communion may join or rejoin the ritual. This effect is a special feature of how this ritual was originally designed to interact with Wizard’s Communion; these rules do not apply to other spells. Casting this spell on a member of Order of Hermes is illegal scrying. Of course, the casters might not be bothered by this. (Base Effect, non-Hermetic)''
 ''Raising the Auxiliaries for a Day''
 ''CrMe 35 R: Voice, D: Sun, T: Group, Ritual This ritual cast from the porch of a consecrated temple of Mercury (see Consecration of Mercury’s House), on a group of up to 100 characters, gives the characters a +1 bonus to Attack and Defense rolls and allows the characters to fight together in trained groups, assuming that there are sufficient officers available to lead the groups. Characters who are already affected by this ritual do not gain additional benefit from subsequent castings. (Base Effect, non-Hermetic)''
@@ -199,22 +196,22 @@
 ''CrVi(Co) 75 R: Touch, D: Momentary, T: Individual, Ritual This ritual may only be cast in a consecrated temple dedicated to Mercury (see Consecration of Mercury’s House). The target of this ritual gains The Gift. Unfortunately, this ritual does not work (see insert for details). If a character attempts to cast the ritual, then regardless of Casting Score the ritual does not work. In addition, roll an extra botch die in the case of a possible botch. There is no way of discerning that the ritual does not work, other than by reading (and trusting), the Mercurian literature on the subject (see insert) or attempting to cast and failing. (Base Effect, non-Hermetic)''
 ''Consecration of Mercury’s House''
 ''CrVi 55 R: Touch, D: Momentary, T: Structure, Ritual This momentary ritual opens a temple shell to habitation by Mercury. This creates a level 1 Magic aura within the temple precinct (which may be then swamped by a larger aura of a different sort). As this is a momentary Creo ritual, once the ritual has been cast the aura remains and cannot be dispelled. If the temple already has a Magic aura the existing aura is not increased by the casting of this spell. Another effect of this spell is that the temple has the magical property that it is consecrated to Mercury, which is important for some of the other recovered Mercurian rituals. The consecration can be detected by Hermetic Intellego Vim magic (as an effect of eleventh magnitude) and this effect can also be dispelled with Heremtic Perdo Vim (even''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Book Sellers or Book Keepers==
 
 ''Other magi learn that the characters have access to lost Mercurian rituals and ask for copies. The characters can choose to sell or give away copies, or keep access restricted to the player characters alone. If the characters restrict access (or charge too high a price), other interested magi try to steal the Mercurian lab texts. Note, this issue may arise even if the player characters do not actually bother to translate the rituals.''
 
-|]
+|}
 ''though the aura itself cannot be dispelled). If the consecration is dispelled the ritual can be cast again to restore this property. The final effect of this spell is that any characters with Faith Points whom are within the Structure at the time of casting (including the caster) lose 1 Faith Point. This Faith Point may be regained in the usual ways. The temple shell must be built to the same plan as the ruined temple (just the temple itself, in the center of the town). The temple can be a different size to this exemplar temple, however. The ruined temple is not currently consecrated. (Base Effect, non-Hermetic)''
 ''Commune with Mercury''
 ''InVi 20 R: Personal, D: Concentration, T: Individual, Ritual This ritual, cast within a consecrated temple of Mercury, allows the character to communicate in their mind with the god Mercury; or at least someone claiming that he is.''
 ''Whether the god has anything useful to say is up to the troupe. The god exists somewhere in the Magic realm and seemingly has no knowledge of Mythic Europe since the adoption of Christianity by the Emperor Constantine in 313 AD, and has only a hazy understanding of Mythic Europe under the pagan Roman Empire. The god is conscious and if contacted several times he remembers the earlier contacts, although he seems to experience the passage of time differently from the characters. Depending on the needs of your saga, the god could have an agenda, such as the re-establishment of a pagan empire or the recovery of artifacts. Alternatively, the god may not care much at all about the world and activities of the player characters. Note that this ritual does not need to Penetrate to have an effect. (Base Effect, non-Hermetic)''
 ''Wizard’s Communion''
 ''MuVi 5, MuVi 10, and MuVi 20 R: Voice, D: Momentary, T: Group''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Integration of the Mercurian Rituals==
 
@@ -222,7 +219,7 @@
 ''CrVi 50 ritual guideline that creates a Magic aura of 1. The base level for this ritual is Touch, Momentary, Room and the ritual may only be cast with Room, Structure, or Boundary targets. Versions of this guideline for other realms might be invented too. Breakthrough Points Required: 30. Insight Sources: Consecration of Mercury’s House ritual, the temple structure at the heart of the regio, any other site with a Magic aura. CrVi 55 ritual guideline that increases a Magic aura by 1 to a maximum of 2. An additional magnitude increases a Magic aura by 1 to a maximum of 3, a further''
 ''magnitude will increase Magic aura by 1 to a maximum of 4 and so forth. An aura cannot be increased to a value greater than 10. The base level for this ritual is Touch, Momentary, Room and the ritual may only be cast with Room, Structure, or Boundary targets. Versions of this guideline for other realms might be invented too.  Breakthrough Points Required: 30. Insight Sources: Transformation of Flesh to Spirit ritual, the regio aura, the aura at the Durenmar covenant. Cr(Re)Vi 20 guideline that creates an entrance to a Magic regio. Must be cast at the regio boundary, which must be sensed by the caster. Versions of this guideline for other realms might be invented too. Breakthrough Points Required: 30. Insight Sources: Penetrate the Regio Skin ritual, the aqueduct regio entrance, the main triumphal arch regio entrance. The rituals might also integrated to “discover” the Mercurian Magic Virtue (ArM5, page 46). This requires 45 Breakthrough points.''
 
-|]
+|}
 ''These Mercurian “rituals” translate to Wizard’s Communion (ArM5, page 160). There are first magnitude, second magnitude, and fourth magnitude versions. Note that these are not actually rituals. Obviously, as Wizard’s Communion already exists in the Hermetic repertoire there is little point translating this text. The fact that there are already existing Hermetic versions suggests that another magus has translated similar rituals gathered from another site. Perhaps this was some of the work that Bonisagus did at Aventine Hill. (Base Effect, non-Hermetic)''
 
 ==Opponents==
@@ -238,8 +235,8 @@
 ==Story Seed: The Dead Amongst Us==
 
 ''There is no graveyard within the town, and there are no bodies to be found. This is strange, but could be for a number of reasons. Perhaps the dead were removed at some point, or have decayed to dust, or maybe the graveyard is outside the regio (beneath a field near the ruined''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Saga Seed: The Failure of the Wizard’s Initiation Ritual==
 
@@ -249,7 +246,7 @@
 ''Astrological Ages''
 ''An astrological age lasts for about 2160 years, and is named after the position of the sun on the vernal (spring) equinox. The sun’s position moves slightly each year, and from the rate of movement it appears it takes about 25,900 years to travel through all the signs of the zodiac. In 1220 the sun is near the middle of Pisces on the vernal equinox, thus 1220 is near the middle of the Age of Pisces. Despite this general definition, there are different schools of thought (both amongst mundane astrologers and Hermetic magi) on precisely when the vernal equinox can be said to have left one zodiac sign and arrived in the next. However, most agree that, rather than a sharp break, there is a period of several centuries during which one age fades as its successor grows. This slow transition between the Age of Aries and the Age of Pisces occurred sometime between the birth of Christ and the collapse of the western Roman Empire. Some Hermetic theorists believe that magic behaves differently in the different astrological ages. However, due to the Order’s lack of practical experience with ages other than Pisces this is a very theoretical, abstract concern that few magi bother themselves with.''
 
-|]
+|}
 ''arch). Another option is that there is another regio present, which contains a necropolis. The necropolis regio (Magic aura 7) is identical to the temple regio (that is, it is a dark mirror of the town), but the necropolis is in quite good repair, and it is always night. However, there is still weather (storms and so on) in the necropolis. The main way to enter the necropolis is by dying within the temple regio. Upon death, the character’s corpse disappears and reappears (along with his ghost) in the necropolis. Once within the necropolis, the character’s ghost remains until his corpse has decayed to dust, which usually takes several centuries (in the conditions within the necropolis), at which point the ghost finally departs. The ghosts cannot normally leave the necropolis regio, but any character who can see through the regio boundary (see ArM5, page 189), including a ghost, can cross the regio boundary. As it is so long since the temple was occupied that even the ghosts of the Roman priests and citizens have departed. However, the necropolis may contain the ghosts of others (including magi) who have found, and died within, the temple in the last few centuries. This could include a Founder.''
 
 ==Story Seed: The Cult==
@@ -261,12 +258,15 @@
 
 ''The temple can become a recurring location for the saga in the following ways:''
 ''• The temple site is large and may take several visits to fully explore. • The characters may decide to restore and consecrate the temple as required to cast some of the Mercurian rituals. • The characters may mistake the Godhead demon for Mercury and make pacts to return to the temple for rewards after completing the demon’s tasks. • The characters may discover that they can commune with the real god Mercury (or a faerie, magical, or demonic imposter) using the Commune with Mercury ritual. Pagan characters may thus decide to return to the temple for seasonal religious festivals. This might form a part of initiation rituals. • The characters could colonize the temple site and use it as their covenant location or as a chapter house. • Members of the Cult of Mercury, Seekers, or Guernicus agents may learn of the temple and ask the characters for guidance to the location. If the player characters have already colonized the temple then these visitors may try to assert a superior legal claim to the site, or wage Certamen or Wizard War for exclusive access.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Rules for Ghosts==
 
 ''See Realms of Power:Magic pages 115– 118 for rules concerning characters who have become ghosts. Alternatively, if the troupe does not have access to such rules, assume that a ghost in the necropolis is immaterial (that is, cannot touch living things), has a Mentem Magic Might equal to his highest Ability or Art Score, and can no longer earn XP points. A necropolis ghost also has no Fatigue and although he can be wounded (with suitable magical weapons) all wounds (except fatal ones) are recovered at the beginning of the night when the moon rises, which is every 12 hours in the necropolis. The ghost can be destroyed by destroying his Might, by inflicting a “fatal” wound, or by destroying his corpse. The ghost also''
 ''has the Leaving the Crypt power. A ghost of a magus may cast spells as usual, but as he has no Fatigue he may not cast Fatiguing Spontaneous magic, and he only succeeds in casting Formulaic spells if his Casting Total equals or exceeds the spell level. The magus ghost cannot directly target the living with spells, but the living can still be affected by his spells. For example, a wall created by a ghost magi’s spell impedes a living character, but the ghost cannot target a Pilum of Fire on a living target. Leaving the Crypt: Init +1, Vim, 1 Might Point: For a duration of 1 Diameter the ghost may physically affect the living with his body, weapons, and (if applicable) may target spells at the living.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

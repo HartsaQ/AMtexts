@@ -22,8 +22,8 @@
 ===Elementalist Fire===
 
 ''Minor, Supernatural This power combines with the Elementalist Techniques to affect the element of fire. Taking this Virtue gives the character''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Elementalist Virtues''
 
 ===Major, Supernatural===
@@ -35,7 +35,7 @@
 ''Affinity with (Art) Cyclic Magic (positive) Elemental Affinity* Elementalist Air* Elementalist Earth* Elementalist Fire* Elementalist Water* Fast Caster Free Study Inoffensive to Animals Personal Vis Source Puissant (Art) Special Circumstances (Type) Controlling* (Type) Divining* (Type) Refining* (Type) Summoning*''
 ''* New or revised Virtues''
 
-|]
+|}
 ''an initial score of 0 in Elementalist Fire (see Elementalist Forms, below), and a Choleric Personality Trait (see Elemental Warping, below) equal to his Warping Score + (Elementalist Fire / 5).''
 
 ===Elementalist Water===
@@ -71,12 +71,12 @@
 ===(type) Refining===
 
 ''Major or Minor, Supernatural With this Elementalist Art, the character can purify a target by subjecting it to the four elements, as described under Elementalist Tech''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Elemental Affinities & Character Creation''
 ''Several of the Virtues found in this chapter (Elemental Magic, Elemental Medicine, Elemental Philosophiae, and Elemental Theurgy) give the player experience points in the four Elementalist Forms whenever the character studies a related Ability. In order to approximate this effect during character creation, an optional method is to treat the Virtue as an Affinity with the related Forms. That is, you would calculate the number of experience points spent in the Ability, and divide half that amount among the Forms (or, for Elemental Magic, take the total number of points spent on the four Forms and equally divide half that amount among them).''
 
-|]
+|}
 ''niques, later in this chapter. Taken as a Virtue, it grants Refining with an initial score of 0. This Virtue may be taken up to three times, to indicate that the character can refine multiple types of elemental targets (Medicinal, Philosophical, or Theurgical). The first type chosen requires a Major Virtue, the others are Minor. Each type of Refining must be learned separately, but all three use the same Art score, so that a character that takes this Virtue three times would have only one Refining Art, not (Medicinal) Refining, (Philosophical) Refining, and (Theurgical) Refining.''
 
 ===(type) Summoning===
@@ -92,20 +92,20 @@
 ===Weak Elemental Resistance===
 
 ''Major, Hermetic or Supernatural Perhaps the character views his supernatural association with the four elements as merely academic, or else the character is simply weaker at defending himself against them, but for whatever reason you do not''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Other Summoning Arts''
 ''Summoning powers are also mentioned in Realms of Power: The Infernal (pages 87, 114–115). To distinguish the infernal Summoning Art from elementalist Summoning, you should refer to the infernal version as (Spirit) Summoning, and the elementalist version as (Elemental) Summoning. For example, an elemental theurgist with infernal powers could have (Elemental) Summoning, Controlling, (Spirit) Summoning, and Commanding. Note that''
 ''such a character would be able to summon both spirits and elementals with his Summoning Arts, but could only command spirits with his Commanding Art and control elementals with his Controlling Art. If he were to summon a spirit aligned with one of the four elements using either (Spirit) or (Elemental) Summoning, he could affect it with either Commanding or Controlling, as the target would be both an elemental and a spirit.''
 
-|]
+|}
 ''add the character’s elemental Personality Traits (Sanguine, Melancholy, Choleric, and Phlegmatic) to his Soak when resisting damage from elemental sources, as described under Elemental Warping, below. This Flaw can be taken by a magus as a Hermetic Flaw, in which case his Magic Resistance is vulnerable to physical damage appropriate to the elements and all damage from spells associated with Aquam, Auram, Ignem, and Terram. In these circumstances, his Magic Resistance is not increased by his score in the corresponding Form, and his Soak is not increased by his (Form score / 5).''
 ''Elemental Warping''
 ''As an elementalist accumulates Warping, instead of gaining new Virtues and Flaws as described in Ars Magica 5th Edition, he instead becomes even more strongly attuned to the four elements, both mentally and physically. This manifests most strongly in the character’s personality, changing his behavior and emotions to correspond to the temperaments indicated by the four elements. This is usually to his detriment, as it leads him into madness and gives the player less control over how his character behaves, but it also draws him into stories and provides him with an interesting direction for developing his character. In addition, it transforms him physically to make him better able to resist those elements. The player must take as many as four additional Personality Traits for the character, one for each elemental temperament (Choleric, Melancholy, Phlegmatic, and Sanguine) that corresponds to one of his Elementalist Forms (Elementalist Fire, Elementalist Earth, Elementalist Water, and Elementalist Air), with an initial value equal to the character’s Warping Score. These values are also modified by his score in the Elementalist Form — divide the Form by 5 (rounded up), and add this result to the value of the corresponding Trait. For example, an elementalist with Elementalist Air 4, Elementalist Fire 6, Elementalist Water 2, and Warping Score 1 would be Choleric +3 (+1 for Warping Score, +2 for Elementalist Fire), Phlegmatic +2 (+1 for Warping Score, +1 for Elementalist Water), and Sanguine +2 (+1 for Warping Score, +1 for Elementalist Air). Each time the character’s Warping Score is increased or one of his Elementalist Forms exceeds a multiple of 5, you should update these Personality Traits. These Traits also add to the character’s Soak whenever he is damaged by the corre''
 ''sponding elements, as described under each of the Arts, later in this chapter. For example, when damaged directly by stone, metal, dirt, earth elementals, or other supernatural creatures made of earth, add the elementalist’s Melancholy Trait to his Soak. This does not give elementalists Magic Resistance, but does make them better able to resist physical damage from the elements in the same way as Aquam, Auram, Ignem, and Terram give magi bonuses to their Soak. (This is a variation of the Magical Fortitude power described in the Introduction.) A side effect of this is that characters tend to gain physical qualities of the element in question, much like magi gain Twilight Scars. For example, Phlegmatic character’s skin might ripple or reflect images, while a Melancholic character might seem heavier and rumble when he walks. While the character is more resistant to physical damage, he likewise becomes more vulnerable to diseases and afflictions associated with the appropriate bodily humors. You must subtract the value of the Trait from the character’s Recovery rolls whenever he is suffering from an illness of the corresponding humor. A Trait associated with the opposing element does help the character in this instance; you may also add the value of an opposing Trait to the recovery roll. For example, if the elementalist in the above example were to contract a phlegmatic disease like flux, he would subtract 2 from his recovery rolls for his Phlegmatic Trait, but add 6 for his Choleric Trait, giving him a total bonus of +4. The storyguide should use these elemental Traits to draw the elementalist and those''
 ''close to him into stories. If any of these Traits have a score of +3 or more, you should treat them as Minor Personality Flaws that dictate the character’s behavior in a limited fashion, like a strange obsession with the associated element or an occasional mood swing. Treat Traits of +6 or more as Major Personality Flaws, behavior that the character often feels compelled to do and which typically override any other desires the character may have. If''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Elementalist Flaws''
 
 ===Major, Supernatural===
@@ -122,7 +122,7 @@
 ''Envious or Fear. It opposes Choleric. Sanguine (Elementalist Air): Delight and the feeling of being in love are signs of this Trait, perhaps best represented by Personality Flaws like Carefree or Optimistic. It opposes Melancholic.''
 ''The effects of these Traits on the character’s personality never cancel each other out, even if they are associated with elements that are opposed to each other. Characters with balanced Traits will still behave erratically — perhaps favoring one Trait some of the time and other times acting under the influence of another, or maybe harming themselves or lashing out at others they perceive as imbalanced.''
 
-|]
+|}
 ''any of these Traits gain a score of +10 or more, the player no longer has control over the character’s actions in any circumstances to which the storyguide decides that the Trait applies — the character has essentially gone mad. Like an elemental set loose without constraints, the character will likely bring about his own end eventually, and probably cause a great deal of destruction in the process.''
 ''Elementalist Forms''
 ''Each of the Forms can potentially affect elementals and other supernatural beings associated with the four elements, the four humors of the body, and animals or other natural phenomena, depending upon the type of Elementalist Techniques with which they are combined. More information about elementals can be found in Realms of Power: Magic, pages 132–139, and the study of medicine and philosophiae is covered in more detail in Art & Academe.''
@@ -179,15 +179,15 @@
 ===Medicinal===
 
 ''The elemental physician can control the emotions of human beings by manipulating the bodily humors, inspiring or suppressing specific emotions associated with the appropriate element. The strength of this emotion depends upon the strength of the Controlling Total, but it is roughly equivalent to a Personality Trait with a positive or negative value of (Controlling Total / 10), rounded''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Summoning Elementals''
 ''When Summoning is used with Elemental Magic, an elemental is essentially brought into being from an appropriate amount of base material. As noted above, this summoning lasts indefinitely, though the elementals are actually temporary and do not recover Might Points over time like other supernatural beings. When the Might Pool of one of these elementals is empty, it ceases to be an elemental at all and returns to its natural form, and does not leave behind any vis. That is, an elemental that was summoned from a pile of earth becomes a normal pile of earth again. A summoned elemental’s spent Might can be restored by feeding it vis: each pawn an elemental consumes returns 5 points of Might to it. Most elementals prefer to consume vis of the Elementalist Form opposed to their own, rather than that of their own Form — i.e. fire elementals generally seek out Aquam vis, and''
 ''disdain Ignem vis. This might be seen as a kind of predatory instinct to hunt the element that is most different from them, and a supernatural taboo against eating their own kind. However, elementals will readily consume vis of any type if they are hungry (that is, they have spent some of their Might) and it is easily accessible. Elementals are generally wild and unbiddable, like a force of nature unleashed. If not held within a container, it is nearly certain that an elemental will attempt to destroy whatever comes into its path, even the elementalist who summoned it. They cannot be reasoned with, and while Magic Resistance can protect the character against an elemental’s powers, it does not protect against its physical attacks. Magi and elementalists typically have a Soak bonus that gives them some protection, but it is generally too dangerous to just summon up an elemental without any safeguards against it.''
 ''Story Seed: Vengeful Flames''
 ''During a pitched battle, an elemental theurgist summons a horde of fire elementals to attack the opposing army. These creatures soon rampage out of control, gravely wounding the elementalist and wreaking havoc in the surrounding area. These elementals could threaten the player characters’ covenant, physically or perhaps even politically when the lords of the opposing army call for wizards of their own to retaliate in kind.''
 
-|]
+|}
 ''up. For example, a Controlling Total using Elementalist Water of 25 would inspire a +3 Phlegmatic Trait in the person (see Elemental Traits, above, for a description of how this would cause the person to behave). This effect lasts until the target eats and sleeps, as if that person were recovering from long-term fatigue. If the effect must penetrate Magic Resistance, the elementalist must decide the strength of the Trait he wishes to inspire before his Penetration Total is calculated. Elemental physicians can also issue commands (such as “begone!”) to supernatural creatures that have become part of a human body, such as disease spirits or possessing demons, in the same way that an elemental theurgist can command elemental beings. The physician’s Controlling Total must exceed the Might of the target on the Summoning chart, and he must use his lowest of his scores in the four Elementalist Forms for the formula.''
 
 ===Philosophical===
@@ -201,13 +201,13 @@
 ''Divining''
 ''Through Divining, an elementalist can locate and commune with the elements and''
 ''elemental targets, with an Art based on his natural Perception. Unlike Summoning and Controlling, Divining does not cost the character a Fatigue level. This power has two effects. Firstly, it allows the elementalist to sense if an appropriate target is within about a hundred paces of him, and the approximate direction and distance to the target, for as long as he concentrates. This requires only that his Divining Total exceeds the value corresponding to the target’s Size on the Summoning chart, and does not need to penetrate the target’s Magic Resistance. Secondly, as long as he is touching an appropriate target, he can intui''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: The Bishop’s Physician''
 ''The bishop in a nearby city has recently taken ill, but has hired a marvelous doctor who removes his pain merely by laying hands upon his chest. Word of this miraculous cure has begun to spread through the region, and though the bishop has not yet fully recovered, many are suggesting that his physician is a holy man. In fact, the true story is that the doctor is an elemental''
 ''physician who can magically manipulate the humors in an ailing person to make him feel happy and fit, but must rely on his (nonexistent) knowledge of mundane medicine to actually treat the illness. So far the bishop has been lucky, in that his illness has not worsened, but he will soon die unless someone with more-substantial medical knowledge (or magic) helps him.''
 
-|]
+|}
 ''tively understand its circumstances and situation, and mentally communicate with it on a fundamental level. To succeed at this, his Divining Total must exceed the values corresponding to both the target’s Size and Might on the Summoning chart, and he must penetrate the target’s Magic Resistance. However, if the target was summoned into a container with the Summoning Art, as described earlier, treat the effect level as 0 when calculating the elementalist’s Penetration Total, rather than using the value derived from Size and Might.''
 
 ===Divining Total: Stress Die + Perception + Divining + (Form) + Aura===
@@ -237,12 +237,12 @@
 
 ''The elemental physician can make the longevity potion for other human beings as well as himself, and adds his Medicine to his Refining Totals. In addition, the elemental physician can make a potion that increases the vigor and natural aptitude of a person for a year, using elemental vis. This boosts one of the target’s Characteristics (as shown below) by the elementalist’s (Refining Total / 5), though it cannot increase that Characteristic to a value more than half of the elementalist’s score in the associated Form. This potion costs the same number of pawns of vis as the longevity potion; an elementalist with his lowest Elementalist Form at 4 and a Refining Total of 25 could make a potion that would increase a character’s Strength by five levels, but no higher than +2.''
 ''Element Characteristic Increased  Air Intelligence, Perception,   Presence, or Communication  Earth Strength, Stamina, Dexterity,   or Quickness  Fire Presence, Communication,   Dexterity, or Quickness  Water Intelligence, Perception,   Strength, or Stamina''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: The Right to Vis''
 ''One of a covenant’s vis sources comes up dry after a wandering elementalist locates it and clears it out, to help him with his magical activities. To recover what is theirs, the magi must track him down and convince him to recognize their claim to what he took. To complicate matters, by the time they catch up with him the elementalist has already spent the vis.''
 
-|]
+|}
 
 ===Philosophical===
 
@@ -261,24 +261,20 @@
 ''The Arts associated with a society also indicate the Virtues into which that society is likely to initiate an unGifted member, using the rules in the Introduction, under Acquiring Hedge Wizard Powers, in Initiations. A society generally favors only two Techniques and the four Forms; below are three examples of elementalist societies that could be found in Mythic Europe in 1220.''
 ''Apostles of Apollonius''
 ''Arts: (Theurgical) Summoning, (Theurgical) Controlling, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water) The first elementalists were ancient sorcerers who were influenced by the philosophy of Greek teachers like Empedocles, Galen, and Pythagoras. Instead of using their powers to summon the spirits of the underworld, they turned to the magic of nature and the fundamental laws that defined their world. By drawing forth the magical qualities of natural objects, they brought into existence those beings that magi would later call elementals. By taming and shrewdly applying the powers of these strange creatures, these elemental summoners were able to perform amazing feats.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: The Elementalist Cut in Half''
 ''An issue is brought to Tribunal, where two rival covenants argue that the other has broken the Code. The first covenant had an unGifted hedge wizard living with them (an elemental philosopher), who they kept busy making vis for them every season. A member of the second covenant, while visiting the first covenant, met this hedge wizard and offered him membership in the Order of Hermes; He accepted, swearing the Oath on the spot. Members of the first covenant refused to allow the elementalist to leave with the magus, and killed the hedge wizard during the confrontation. The visiting magus subsequently brought charges against the covenant for slaying a member of the Order. Members of the first covenant brought charges against that magus for depriving them of their magical property. The essential questions for the Tribunal in the first case are whether simply swearing the Oath is enough to make a wizard a member of the Order of Hermes, as the second covenant maintains; or whether it requires something more, such as ratification by a Quaesitor, as is the position of the first covenant. For the second case, the Tribunal will need to decide if a member of a covenant can be considered to be that covenant’s property, and whether endangering that person constitutes depriving the covenant of its magical power.''
 
-|]
+|}
 ''Many elementalists believe that the first of these summoners was Apollonius of Tyana, a miracle worker who reportedly lived in the first century AD. They hold that it was he and his followers who originally developed the Elementalist Arts, uniting the common ideas of four different kinds of magic from the four corners of the ancient world, as described by his biographer Flavius Philostratus at the end of the third century in''
 ''this (condensed) summary: Apollonius of Tyana was well-born and welleducated, and as a young man he learned the mysteries of the Pythagorean cults, the magical abilities of Babylonian wizards, and the wisdom of holy men from further east, before forming a circle of his own followers in Asia Minor. He lived as an itinerant philosopher and miracle worker, going from temple to temple along the coasts of northern Syria, Anatolia, and Greece. He traveled through Rome and into Iberia during the last''
 ''years of Nero, and in 69 AD he sailed to Alexandria and Upper Egypt, where he met with a community of supernatural ascetics. In 93 he returned to Rome to face charges of magic and sedition. He reportedly vanished from the courtroom and reappeared in Greece, where he continued his life of wandering until his death in 96. From this account, Apollonius’ followers believe that they can trace the roots of elemental philosophiae to Greek and Roman mystery cults, elemental magic to ancient Babylonian wizards and wise men from the Far East, and advances in magical medicine to the people of Egypt and Northern Africa. According to them, it is because of Apollonius that the Elementalist Arts exist and are more or less compatible with each other. Because these hedge wizards are predominantly ascetic and generally free of pagan overtones common in other magical traditions, the self-styled “Apostles” often believe fervently that they are doing God’s work, practicing a form of pious summoning that is not unholy or wicked like other forms of sorcery, since it is not tainted by the Infernal realm. It is even said that some of these elementalists have versions of the Elementalist Arts that are associated with the Divine realm rather than Magic, allowing them to practice their theurgical powers in the Dominion without penalty. In 1220, the Apostles of Apollonius are rare, but can be found anywhere in Mythic Europe. Their magical influence is probably strongest in the eastern Mediterranean region, in the wild areas between the Levant and Theban Tribunals where theurgical magic is more common. There is also said to be a group of them living in a small village in the Greater Alps, in the region near the Cave of Twisting Shadows, where they are supported by some of the Criamon magi who reside there. They are generally regarded as magical curiosities — worthy companions to magi, but certainly no threat to the dominance of the Order of Hermes.''
 ''Ikhwan as-Safa’''
 ''Arts: Philosophical Summoning, Philosophical Refining, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water) The Brethren of Purity, or Ikhwan asSafa’, are a secretive group that follows a variant of Islam that teaches the only path to true happiness is for a person’s soul to return to God through purification by attainment of knowledge.''
-
-[|
 ''Elisavet (“Psychorrhax”)''
 ''Characteristics: Int 0, Per –1, Pre +2, Com –1, Str –1, Sta +2, Dex –2, Qik –2 Size: 0 Age: 51 Decrepitude: 1 (6) Confidence Score: 1 (3) Warping Score: 3 (0) Virtues and Flaws: Outcast; (Theurgical) Controlling, (Theurgical) Summoning; Affinity with Controlling, Educated, Elementalist Air; Meddler (major), Plagued by Supernatural Being; Infamous, Vulnerable to Elementalist Earth Personality Traits: Sanguine +5, Cruel +3, Lonely +3 Reputations: Witch 4 (sailors) Combat: Dodge: Init –2, Atk n/a, Dfn –2, Dam n/a Soak: +2 (+7 vs. air, –5 vs. earth,) Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Apostles of Apollonius Lore 1 (initiation rituals), Artes Liberales 3 (reading ), Awareness 3 (sounds), Concentration 3 (maintaining control), Greek 5 (asking questions), Guile 3 (acting naive), Latin 4 (in writing), Magic Lore 4 (elementals), Mediterranean Sea Lore 4 (ships), Penetration 5 (Controlling), Survival 5 (islands), Swim 3 (treading water) Arts: Controlling 18, Summoning 16 Difficult Arts: Elementalist Air 6 Equipment: Robes Encumbrance: 0 (0) Appearance: A thin, middle-aged woman with silvery hair and sharp features, including deep-set but bright eyes. She wears the remains of rich robes and a hood, weathered by wind and rain and patched with bits of sacking and canvas.''
 ''Elisavet was the daughter of a prosperous and knowledgeable advisor to the duke of a great city (a Hermetic magus serving a mundane lord), but against his orders she became involved with a group of strange mystics who initiated her into the ways of the Apostles of Apollonius. It soon became obvious to the court that she had become pregnant, though she protested that she remained a virgin. Shamed by her behavior, her father disowned her and her name, thereafter calling her only Psychorrhax (“heartbreaker”). At the command of the duke, she was banished from his lands, to be transported to Italy to live with distant relatives. Her ship was lost in a terrible storm in transit, but she survived and washed up on an island somewhere in the Mediterranean. Soon after, she gave birth to a son — a strange and misshapen creature with supernatural powers over earth and sea. More than thirty years later, Elisavet has made herself a comfortable if somewhat lonely existence on her island home; she has a powerful air elemental that she summoned and bound to a tree in the middle of the island, which she often sends out to spy out passing ships and occasionally sink them, rescuing materials of particular interest to her such as jewelry, wine, and books. She has also had her son build her a grotto-like palace from stone and driftwood, but she is cruel to him and believes she must beat him to keep him tame. To introduce Elisavet to a saga, a storyguide can have her attack a ship bearing supplies for the covenant, or possibly even transporting a magus. Age is her greatest enemy, and she knows she will soon succumb to her years, but she once heard her father say that he was protected by a special longevity ritual that is common among those of his order. She might think to ransom magical equipment or a kidnapped magus in exchange for such a ritual.''
-
-|]
 
 ===History===
 
@@ -311,13 +307,13 @@
 ''Some unGifted Brethren are born with the Virtue Elemental Philosophiae, but these characters are rare. The average Gifted member has no knowledge of the Brethren or their magic before reading the Epistles. For each year the Brethren are engaged in studies, they receive 30 experience points to spend on Arcane and Academic Abilities. All Brethren have some knowledge of Organization Lore: Brethren of Purity. Junior Brethren concentrate their studies on Academic Abilities, especially Artes Liberales, Philosophiae, and Theology. The eclectic nature of the Brethren’s teachings means that members may study Theology of all religions. Members of the Brethren also study Arcane Abilities, especially (Realm) Lore, but these topics are never publicly discussed, and they carefully hide any books on these subjects. Brethren also encourage their members to study other languages, especially Hebrew, Persian, Greek, and Latin. Unlike Tulab Ibn Sina (see below), the Brethren of Purity are rather egalitarian in their membership. All members must be literate before they are even considered for Initiation, but the Brethren sometimes encourage pious characters or those with a desire to learn by giving them anonymous gifts of books or funds to allow potential members to concentrate on their studies. In addition to their Arts, many Ikhwan as-Safa’ know Mythic Alchemy or Mythic Herbalism. (See Chapter 5: Learned Magicians). Ikhwan as-Safa’ often have Flaws related to their Isma’ili sect of Islam, which is oppressed in many areas, and their devotion to the pursuit of knowledge often results in Driven, Higher Purpose, Obsessed, Oversensitive, or Pious Flaws.''
 ''Tulab Ibn Sina''
 ''Arts: Medicinal Summoning, Medicinal Divining, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water) This tradition is comprised of the most accomplished physicians in the Islamic world. The Tulab Ibn Sina, or the Students of Avicenna as they are known in the West, use their exceptional knowledge of medicine and the Elementalist Arts to serve their local rulers. The Tulab Ibn Sina are renowned throughout the Islamic world for maintaining hospitals and providing succor to the common people.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Epistles of the Brethren of Purity & Loyal Friends''
 ''The Epistles of the Brethren of Purity and Loyal Friends, Rasa’il Ikhwan as-Safa’ wa Khillan al-Wafa, are 52 rasa’il or letters that are grouped into four sections, usually referred to as books. Each book is a collection of tractatus on a specific Ability, but when read together with the assistance of “The Comprehensive Epistle,” the books serve as summae for Refining and the four Elementalist Arts. The Comprehensive Epistle, or Al-Risala al-Jami‘a, is the key to unlocking the secrets of the Epistles, and without any it, no character can gain knowledge of the secrets of the Brethren contained in the four books. Book One, Mathematical Sciences, contains 14 tractatus on Artes Liberales of Quality 6–10 with an average Quality of 8. The book also serves as a summa for Elementalist Air, Level 3, Quality 8. Book Two, Natural Sciences, contains 17 tractatus on Philosophiae (natural philosophy) of Quality 5–9 with an average Qual''
 ''ity of 7. The book also serves as a summa for Elementalist Water, Level 4, Quality 8. Book Three, Psychological and Rational Sciences, contains 10 tractatus on Philosophiae (moral philosophy) of Quality 5–9 with an average Quality of 7. The book also serves as a summa for Elementalist Fire of level 3, Quality 8. Book Four, Theological Sciences, contains 11 tractatus on Theology (Islam) with Quality 7–11 with an average Quality of 9. The book also serves as a summa for Elementalist Earth Level 3, Quality 8. “The Comprehensive Epistle” is a summa on Philosophiae (metaphysics) Level 4, Quality 9, and if read in conjunction with one of the other four books, it serves as a summa for Philosophical Refining of Level 2, Quality 8. The character must have access to both texts during the season of study, and “The Comprehensive Epistle” provides no additional benefit if read in conjunction with additional books beyond the first.''
 
-|]
+|}
 
 ===History===
 
@@ -351,10 +347,13 @@
 ''Hermetic Integration''
 ''The magic of the elementalists can be translated to Hermetic magic with relative ease — indeed, it has already taken place, since some magi already possess Elemental Magic as a Hermetic Virtue. Any of the special background Virtues unique to them (Elemental Medicine, Elemental Philosophiae, or Elemental Theurgy) could be converted into a Hermetic Virtue with a Minor Break''
 ''through, affecting the Forms of Aquam, Auram, Ignem, or Terram instead. Magi who achieve a Major Breakthrough can adapt an Elementalist Art to Hermetic magic, which has the following effect: a magus may substitute his score in an appropriate Hermetic Technique or Form for his score in the Elementalist Art. In essence, he can use an appropriate Hermetic Art as if it were the Elementalist Art. This means that by adapting Summoning and Elementalist Air, he can summon airy targets he cannot perceive with Hermetic magic, without needing an Arcane Connection; or by integrating Controlling, Summoning, and Elementalist Earth into his magic, he can affect earthen targets whose resistance he has already penetrated with a summoning spell without needing to penetrate again; or by adapting Refining and Elementalist Fire, he could create Ignem vis instead of Vim vis in his laboratory. This is an example of a breakthrough that would have very few negative implications for the Order if it were incorporated into Magic Theory. Once elementalist magic becomes common, it is likely that those elementalists who have The Gift would be invited to join House Ex Miscellanea, though it is possible that their hedge tradition would be completely subsumed if there were no features to distinguish their magic from that of other magi. Thus, there may be those who prefer to see that the elementalists’ powers remain unique to them, and who protect them against integration. Or, since summoning has such a poor reputation in Mythic Europe, it is also possible that there are those in the Order who would oppose integrating magic of such dubious origins into their own magic, and could even believe instead that all summoners are a threat that should be destroyed. It may be that some elementalist discoveries have already been achieved, and have spread throughout the Order, but are still kept carefully guarded by a Mystery Cult. Elemental Magic might be considered an Outer Mystery for an Hermetic Elementalist group, since that Virtue is known to exist among magi, or perhaps it is one example of a mystery that has become common to several different cults, and so is no longer secret.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Writings of Ibn Sina''
 ''Ibn Sina was a prolific author and encouraged his students to follow his example of synthesizing previous works and adding his own knowledge to the subjects of Medicine, Artes Liberales, Philosophiae, and Theology (Islam). Ibn Sina’s most famous work, Al-Qanun fil-Tibb, is a survey of the entire body of medical learning from the writing of the Ancients to contemporary Muslim sources. Most Western scholars regard the five books of the Canon of Medicine, as it is known in the West, as the authority on the subject. Al-Qanun fil-Tibb (Canon of Medicine), Summa Level 6, Quality 9, for Medicine and Summa Level 6, Quality 9, for Medici''
 ''nal Divining. The sections on Divining are useless to anyone who does not possess the Virtue Elemental Medicine. Ibn Sina also wrote the Kitab ashShifa (Book of Healing), which is not as well known in the West, but is very influential in the Islamic world. Kitab ash-Shifa, Summa Level 4, Quality 9, Artes Liberales and Summa Level 5, Quality 9, for each of the four Elementalist Arts (Elementalist Air, Elementalist Earth, Elementalist Fire, and Elementalist Water). The sections on Elemental Abilities are incomprehensible to anyone who does not possess the Virtues Medicinal Divining, Medicinal Summoning, or Elemental Medicine.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

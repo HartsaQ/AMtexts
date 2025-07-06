@@ -43,8 +43,6 @@
 ''The spell functions for the length of an actual dream of a sleeping individual. The spell ends if the dream ends, or the sleeper wakens. The dream can be natural or sustained magically.''
 ''It is possible to bypass the waking end of a dream in various ways, such as passing through a portal into the imagination.''
 ''Dream Duration is equivalent to Concentration.''
-
-[|
 ''Spirit travelers find magic in dreams both strange and powerful, and governed by the Hermetic Form of Imaginem.''
 ''Form: A spirit traveler in a dream casts a spell of any Form as an Imaginem spell. Spontaneous Imaginem magic can produce any effect: Use the guidelines for the Form that would apply in the real world, but use the magus’s score in Imaginem ignoring other Forms. If a spirit-form magus knows a Formulaic spell of another Form, he casts it using his Imaginem score while within dreams.''
 ''For example, Creo Ignem 10 “creates a fire doing +15 damage,” so Creo Imaginem 10 can create dream fire causing +15 dream damage; Rego Corpus 25 “transports the target instantly up to one league,” so Rego Imaginem 25 can transport a dream inhabitant or a dream traveler up to one league. A Muto Corpus (Animal) spell becomes Muto Imaginem — the Animal requisite also becomes Imaginem and is ignored. Duration: The Duration of spells cast in dreams is based on dream time, not the passage of time in the waking world. Magic Resistance: Form-based Magic Resistance uses the Imaginem Form exclusively (and the magus’s Parma Magica). Dream Rituals: Ritual Magic affecting the dream world can be cast spontaneously, without the magus know''
@@ -55,14 +53,12 @@
 ''Rituals using real-world vis can use the real-world spell’s Technique and Form vis, or substitute Imaginem vis.''
 ''Aura: The aura for magic worked inside a dream is all illusory, and is whatever the current setting demands, so a dream cathedral has a Divine aura, a dream world hell-pit is Infernal, and a dream world covenant is Magical.''
 ''The aura around the traveler’s body is not relevant once inside dream.''
-
-|]
 ''Magic in Dream The Stuff of Dreams''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Dreams are qualitatively different from other mental states; while desire, sadness, or madness are clearly related to the humors as direct expressions of Mentem, the content of dreams is always the stuff of sensation, and therefore Imaginem. Hence to create, enter, or change a dream from outside one uses Mentem, but to enact changes within the dream one uses Imaginem.''
 
-|]
+|}
 
 ===New Target: Dream===
 
@@ -98,8 +94,8 @@
 ''Navigation in a dream is associative rather than geographical. Dreamers find places by entering similar places: an entire peasant village, for example, can be found by walking through a single hut. A similar process can lead to objects: a key may lead to a door, through which in turn the dreamer may enter a completely different region (and the door may disappear behind him as it closes). Magically created items (even illusions) are quite real within dream, and can be used to aid navigation by association.''
 ''Example: Metrodorus seeks to brew a better longevity potion. Deciding that his youth before apprenticeship, over a century before, holds the key to his new design, he decides to seek his long-forgotten childhood innocence in a dream. Unfortunately, the dream devolves into a twisted series of visions of past Tribunals and past sodales. Suddenly he remembers the sound of a stream outside his parents’ hut where he used to fish, and he resolves to cast a spell to create a stream, then follow it back until he arrives at the hut in the dream.''
 ''Time, too, is no longer linear and fixed — a dreamer may skip time, rolling up long periods to pass in an instant, or make a brief moment seem like days (or longer). Travelers who part and reunite in a dream may find that each group has taken a different time to reach the juncture. Almost any change is possible''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Dream Vis==
 
@@ -118,7 +114,7 @@
 ''include another’s spirit (Intellego requisite). Level 30: Change a person’s dream''
 ''to include a group (up to ten) of spirits (Intellego requisite). The number of spirits included is multiplied by 10 for each magnitude added to the guideline.''
 
-|]
+|}
 ''in dreams, and most physical laws can be broken. Also, time in dreams bears little relation to time in the waking world — years may seem to pass in a dream, while only a few moments pass in the real world.''
 ''Spiritual travelers in dreams do not actually sleep, either: if they lie down as if to sleep, time passes around them in an instant, and they wake at some new time. If they forget to sleep, they suffer no ill effects. This is akin to the ‘…and some years pass…’ effects of dream time. They cannot have a dream within a dream.''
 ''Permanent change may appear possible within the dream (indeed it is within the bounds of dream logic, which permits any change, including undoing permanence), but all is lost when the travelers leave the dream and return to the waking world (or when the dreamer wakes).''
@@ -276,11 +272,11 @@
 ''so that if a physical traveler leaves a''
 ''dream bearing the object, it''
 ''travels with him and appears in the real world. If the spell is cast without real-world vis, the object vanishes as it is brought into the real world.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''(Base 15, +1 Touch)''
 
-|]
+|}
 ''Rego Corpus Level 35, Mystery: Send the caster into''
 ''a dream. The caster passes through a portal that remains in the dream''
 ''until she returns. (Requisites''
@@ -403,11 +399,14 @@
 ''Dreams change swiftly, and while the motto remains, idealists rarely live bounded by rules.''
 ''The cult has almost no hierarchy or structure. It acknowledges only two degrees — the Lords (and Ladies) of The Passions, who know the Minor Virtue Dream Magic, and the Monarchs of the Veiled Court, who maintain the sacred dream of the Vermilion Temple, and may enter its innermost chambers, The Sanctuary of Lost Dreams. Initiation is offered in dream only to those who have proven an aptitude in Imaginem and Mentem as a specialty that far exceeds the norm, and usually to relatively newly Gauntleted magi, for the weight of years crushes the dreams of those who live too long in this vale of tears. Individual magi are Initiated by a single individual, and never know the real identities of the others they meet while in the realms of dreams. Although not part of a formal degree, an Initiate may persuade his elder to teach''
 ''him the Virtues Potent Magic (dream) or Magical Focus (dream), or an Aptitude or Affinity in Imaginem or Mentem. Many are brought into this secret in the final years of their apprenticeship, and those who react with horror are often brutally killed before they can divulge the secret, and while they have no legal rights within the Order.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Death of A Thousand Nightmares==
 
 ''This is a truly horrible fate. The unwary or unwise intruder who stumbles upon the Vermilion Temple is attacked by a creature that in some way embodies his own worst and most terrible nightmare. Because it is his personal nemesis, there is no escape for those who are not Initiates of the school of dream magic, although Imaginem magics can be used by Initiates who choose to intervene on behalf of the afflicted magi.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

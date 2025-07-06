@@ -19,8 +19,8 @@
 
 ''To most Tribunal residents the magic dragons aren’t much better than the aždaje. Called zmaj (pl. zmajevi), magic dragons lust after the same things — wives and treasure — and often use the same means to get them. Whereas the aždaje know that they are inflicting harm on humans, the zmajevi aren’t aware of the destruction they cause or the hate they engender. Far from stupid, a zmaj''
 ''is simply unconcerned with his neighbors’ ill feelings. Zmajevi are often multi-headed and darkly hued, like aždaje, and have a size range similar to their Infernal counterparts. Some zmajevi walk on two hind legs, a physical characteristic unique to the Magic dragons. Such zmaj have short forearms ending in clawed hands that can manipulate items, tools, and weapons. Zmajevi lairs are very different from aždaje lairs, although the difference is only discernible by those few individuals lucky enough to visit one. Placed in remote areas, zmajevi lairs are luxurious affairs. A zmaj displays his wealth and decorates his lair with precious stones, stolen tapestries, ornately carved furniture, and other signs of opulence. Some keep human slaves as servants, especially those zmajevi who have human wives. Zmajevi are indifferent toward man, but not necessarily toward their wives, and sometimes happiness can be found within a zmaj’s lair. Zmajevi also live in a social hierarchy, like their infernal cousins the aždaje. The''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Upokorituma, an Aždaja==
 
@@ -30,7 +30,7 @@
 ''This power chills the target enough to burn flesh, doing +10 Damage.  (Incantation/Effusion Base 5, +3 Sight, +1 magnitude of extra Damage) Flight of the Raven, 0 points, Constant, Animal: This power grants Upokorituma wings with which he can fly.  (Debauchery/Phantasm Base 3, +2 Sun, +1 Constant, +1 Size adjustment) Vis: 4 pawns of Vim vis, one in each of the aždaja’s largest canine teeth. Appearance: Upokorituma is squat and stocky, like a thick-legged horse, with eight heads resting atop eight thick necks. His membranous wings appear too small to support its weight, but this is a false impression and the aždaja is a skilled flier. He is dark gray with pink eyes and blood-red gums.''
 ''Upokorituma lives along the upper Danube, hiding in gulches and hard-toreach ravines. He constantly watches for merchant vessels, often waiting submerged until a targeted ship passes above him. Once past, the beast rises out of the river to attack with surprise. Typically he slays all aboard, sinks the vessel, and returns to his lair with all the loot he can carry.''
 
-|]
+|}
 ''zmajevi social framework is based on reputation, and consists of remembered favors and slights, assistances and injustices. The zmajevi of the Transylvanian Tribunal have co-existed for thousands of years and have a long history of interactions. They remember the violent years, before Fetillusclaviceps created the peace (see insert), and the relatively tranquil time of the last few centuries. The stronger still abuse the weaker, taking their treasure and property, but it is tempered by other relationships and the threat of retribution by other zmajevi. A stronger zmaj might not take a weaker zmaj’s recently abducted wife, if that zmaj is somehow attached to a more powerful third party. This complicated social structure resembles human feudal society, but also contains several intricacies pertinent only to dragons. While the magi of House Tremere don’t exactly understand how it works, it has worked well enough over the years to keep the zmajevi making only occasional raids against human society.''
 
 ==Pax Draconis==
@@ -43,16 +43,12 @@
 
 ''A zmaj with a human wife can produce human offspring. Born in the dragon’s lair, the children rarely remain with their father,''
 
-[|
-
 ==Danaslepih, a Zmaj==
 
 ''Danaslepih is young by zmaj standards. Born blind, he has developed acute senses of smell and hearing, and can travel about his territory effortlessly. He knows the smell of every plant in the Tribunal, and if he smells grain crops growing too close to his home, he destroys them. His lair is hidden among a closely growing group of horse-chestnut trees along the Drina River in western Serbia.''
 ''Magic Might: 25 (Animal) Characteristics: Int +1, Per 0, Pre –2, Com –5, Str +10, Sta +3, Dex +3, Qik –2 Size: +4 Season: Summer Confidence Score: 2 (6) Virtues and Flaws: Magical Animal; Magical Monster; Increased Characteristics (x3), Self-Confident, Tough (x2); Blind Magical Qualities & Inferiorities: Gigantic (x3), Greater Power (x3); Improved Attack, Improved Initiative, Improved Power, Personal Power (x3), Gift of Speech Personality Traits: Protective +6, Aloof +3, Disrespectful +3 Combat: Bite*: Init 0, Attack +17, Defense +9, Damage +13 *Danaslepih can make multiple attacks in a single round, each attack using the statistics earlier. Because of the dragon’s size, he can only attack a specific Size 0 target twice in a single round. For each Size above 0, the dragon can add an additional attack to that target in the same round. Soak: +9 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–9), –3 (10–18), –5 (19–27), Incapacitated (28–36), Dead (37+) Abilities: Athletics 3 (climbing), Awareness 2 (listening), Brawl 9 (large teeth), Stealth 3 (hiding), South Slavonic 3 (Serbian), Survival 3 (forests) Powers: The Beast with Five Heads, 0 points, Constant, Animal: This constant power gives Danaslepih five additional heads, for a total of six. It does not regrow lost heads or regenerate damaged heads. This effect is achieved by buying the Magical Quality: Personal Power''
 ''thrice and the Magical Quality: Improved Powers once. Each head can speak and make an attack.  (Base 25, +2 Sun, +1 constant, +4 additional heads) Assuming the Horse-chestnut, 4 points, Init –6, Animal: The dragon can turn into a tree. He can assume the shape of a standing tree by standing on his hind legs before the transformation, or a fallen tree by lying down.  (Base 10, +1 Conc, +1 Herbam requisite, +3 Size adjustment) The Field Made Fallow, 4 points, Init –6, Herbam: Danaslepih can wither crops and destroy a field with a touch of his claw. This power can destroy a group of up to 10,000 plants.  (Base 5, +1 Touch, + 2 Group, +3 to affect a larger group) The Captive Encased in Bark, 3 points, Init –7, Corpus: Danaslepih’s breath can change a person into a tree, a horse-chestnut similar to, but not as large as, the same kind of tree the zmaj can become. His nostrils need to be very close to the subject, effectively Touch range.  (Base 25, +1 Touch, +3 Moon, +1 Herbam requisite; excess levels used as mastery points to reduce point cost by 2) Inquiry of the Leafy Sentinel, 3 points, Init –5, Herbam: Danaslepih can speak with trees and shrubs.  (Base 15, +1 Touch, +1 Diam) Vis: 5 pawns of Animal vis located in the five most prominent dorsal scales on the dragon’s back. Appearance: Danaslepih has green scales that look as if they are tinged with mold, but it is merely his coloring. Long, lean, and low to the ground, his body is 40 feet long from fangs to tail, but stands only 6 feet high at the shoulders. His six heads twist and writhe like snake tongues tasting the air, motionless only when he is stalking prey.''
 ''Danaslepih generally prowls the borders of his territory, hunting deer and protecting his grove from encroaching farmers. He is not violent, although he can be very rude. When encountering a farmer, he destroys the man’s crops and changes the farmer into a tree. Like other zmajevi, Danaslepih is looking for a wife.''
-
-|]
 ''and it is more common for the child to be returned to the mother’s kinfolk. A zmaj feels no strong attachments to the child, and the child is not especially predisposed one way or another to his reptilian parent. Some of the most famous dragon slayers of Transylvanian legends were dragon-born men. While dragons themselves have bad reputations, dragon-born children are well-regarded. Peasants think that dragon blood mixed with human kindness produces a person destined to aid mankind. Dragon-born look like regular men and women to most people. A viewer with Second Sight will see that the dragon-born’s pupils are slit like a snake’s instead of round, and that the dragon-born’s skin has a reflective shine to it, like light reflecting off scales. Dragon-born are another type of Magic Kin, as described in Realms of Power: Magic, page 89. Like others of their ilk, each dragon-born character has “Inherited Virtues” and “Common Flaws” that must be purchased at character generation.''
 
 ==The Dragon War==
@@ -63,8 +59,8 @@
 ''The Hook: Sparking the Dragon War''
 ''The dragons have remained idle in Transylvania for a long time. Something needs to ignite them into action. The simplest trigger is the removal of Fetillusclaviceps, or the awareness that the dragon is already gone, which would make the peace empty. The actual trigger of the war could be any of the following events.''
 ''• Veles Returns. A rise in the worship of Perun by the Slavs unfortunately rouses Veles, the god’s archenemy. Returned from the mystic realm with which it is associated, Veles immediately incites the other dragons associated with him to war. If Veles is a Magic creature, then the zmajevi would break the peace. If Veles is an Infernal creature, he is a demon rather than a corrupted beast, and has the power to force the aždaje to follow him. Fetillusclaviceps cannot be found. Perhaps he has already fallen to Veles. Dragons test their boundaries, and as the conflagration flares, they exercise their power in a mad dash for gold, property, and renown. • Abur-ciocîrlie Returns. Tired of lying dormant, the ancient Slavic dragon once again challenges the Roman worm. Unable to stomach his secondary role any longer, Abur-ciocîrlie leaves his castle fortress and holds council with several dragons. Being older and wilier, he knows that it will take more than mere loot to assemble a team of sparring drag''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Dragon-Born Statistics==
 
@@ -76,7 +72,7 @@
 ''Hands of the Fiery Beast''
 ''R: Per, D: Conc, T: Part The character can cause his hands to become so hot that they ignite held material and burn those he touches. Visually, the character’s hands glow as brightly as molten iron. It costs the character a Fatigue Level to use this power, which has a Penetration of 10. (Base 5, +1 Conc, +1 Part. Excess spell levels used for Penetration)''
 
-|]
+|}
 ''ons. He convinces his brethren that the magi are in league with Fetillusclaviceps, and the zmajevi are actually suffering the oppressions of human wizards. Perhaps Abur-ciocîrlie has framed a few magi from Kezdö Válasz (see Chapter 7) by slaying a nearby zmaj and putting its treasure in one of the covenant’s abandoned forts. Roused by injustice, the band attacks a nearby target, breaking the peace and dragging the entire dragon species to war. • Decebalus’ Treasury. After years of searching, the lost treasury of Decebalus is discovered, either by a zmaj or an aždaja, or both at the same time. Overcome by greed, the dragons break the truce and begin fighting. The winner sits atop the gold, and the loser makes it known to his kin that the victor has snatched the gold from him. Other dragons rise up, pilfering nearby hoards of gold in a frenzy of financial gain. Fetillusclaviceps must reinforce the truce lest it completely fall apart. Mindful of the priests of the Cult of Mercury, many centuries ago, he implores the local Hermetic magi to assist him. • What’s Good for the Neighbors is Good for Us. Infernal forces are on the rise in the nearby Theban Tribunal, ever since the demon Akgah sundered of the Divine forces protecting Constantinople (see The Sundered Eagle, page 139). Viewing the scene from his mountain aerie, a powerful aždaje named Rabidanadas thinks he could manage the same in Transylvania. Since the Roman dragon hasn’t been seen in 50 years, Rabidanadas hopes to coerce a band of aždaje into testing their strength against the Kingdom of Bulgaria. • We Have Been Deceived! It is discovered, either by dragons or magi, that Fetillusclaviceps is long gone, and that the last several sightings have been a magus masquerading as the Roman dragon to keep the peace. If this ruse is discovered by dragons, they instantly react violently, each hoping for new territory and plunder taken from the Order of Hermes. Once one group falls out of line, the rest follow, and dragon raids evolve into raging war. If a magus discovers this ruse, the threat is even more dangerous. Pretending to be the dragon could be construed''
 ''as breaking the Oath of Hermes, since the magus is dealing with Infernal beasts in a fashion. How does House Tremere respond? If they stop the ruse, it will only be a matter of time before the dragons test their boundaries, most likely initiated by the aždaje. • The Smallest Spark. Magi of the oppida Old Histria and Shrouded Bay regularly interact with the zmajevi living on Histria. Dragons can be as moody and childish as elder magi, tainted by selfcenteredness. The Tytalus maga Leontine Adiran (see Chapter 5) often debates with an ancient zmaj, honing her skills as the pair argues the finer points of philosophical ethics. The pair meets at an old stone column, which has lost its significance except to them. A heady disagreement over Aristotle’s Golden Mean leads to angry words and name-calling, with neither party willing to apologize. While the two are not speaking, the column goes missing. Maga blames zmaj and zmaj blames maga. A face-to-face shouting match leads to blows with both vowing vengeance. The zmaj brings his fellow zmajevi into the feud and attacks Old Histria. Excited by the violence, nearby dragons attack both dragon and human targets. Endemic violence spreads throughout the dragons’ realms.''
 ''The best trigger involves your player characters, somehow, as a result of one of their actions. It would be a paradoxical narrative if even the smallest action prompted such a monstrous response. Legal charges could also be brought against the player characters, especially if they purposefully''
@@ -84,15 +80,15 @@
 ''• Rescue the Maiden. A wealthy boyar’s daughter has been stolen by a dragon, and the noble wants the woman back. He asks a pair of Tremere magi for aid, and they readily deprive the dragon of the maiden. The dragon, positive that his defeat could not have been engineered by mere mortals, complains to a more powerful dragon, which uses this event to convince other zmajevi that the wizards are more nefarious then the dragons once thought. This could easily lead into the “Abur-ciocîrlie returns” idea mentioned previously. • Evicting a Zmaj. A group of magi covet a zmaj’s magic regio, and force the beast from it. Knowing that it can’t beat the magi alone, the deposed zmaj assembles a team of zmajevi to reclaim the regio. They succeed, and their success entices other like-minded zmajevi to rail against the social framework. Initially led by less powerful zmajevi, this is the equivalent of a peasants’ revolt within the realm of the dragons.''
 ''The Situations: The War Rages''
 ''As the storyguide, you could create a single plot for your players to follow, but you might be safer creating situations for the players, rather than forcing them along a single course of action. Each situation should be more dramatic than the previous, escalating the damage caused by the war''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Dragon-Riding Storm Wizard==
 
 ''There is a legend in Transylvania that says thunderstorms are caused by a dragon-riding wizard, the right-hand man of the devil. According to the tale, 10 students are chosen periodically and taught the secrets of nature and magic at the Scholomance, a school hidden in the mountains (see Chapter 7). Nine of the scholars return to mankind, but the tenth is kept by the devil, given an aždaja to ride, and assists the fiend in making bad weather.''
 ''Obviously this is a conglomeration of several facts of the Tribunal. There is a magical school called the Scholomance, and dragons certainly exist, as do storm wizards. Did House Tremere train a magus who was already a storm wizard? Hermetic magic can accomplish many things. Is a magus assuming the shape of a giant, riding a controlled dragon, and causing storms? Or has the devil tainted a magus and granted him Infernal gifts so that he will lead the aždaje against the Order of Hermes?''
 
-|]
+|}
 ''and threatening targets to which the players’ characters are personally attached. The war should move closer to home as it progresses, keeping in mind that “home” doesn’t necessarily mean the player characters’ covenant, although it could. It might also mean the Tribunal or the entire Order. Whatever the group most prizes should be the ultimate stake in the war against the dragons. Dragons fill the night sky. Fire falls like rain. Targets shift: first dragon, then human and perhaps magi, and the collateral damage is extensive. Old grudges rekindle and swarms of dragons happily divert from their enemy to inflict damage on an old foe. This is the time to create epic tales; this is the time for the player characters to be heroes. Those who fail will be forgotten, their bones lost where they fell. Some suggested situations are:''
 ''• Sound the Alarm! As the war begins, the Tribunal rushes to mobilize. Word has to be taken to the five covenants, which can presumably dispense this information to the various oppida. The Prima must be informed, as must the leading Quaesitors, Redcaps, and hoplites. If the characters are bringing the news, stories might involve negotiating some of the more difficult terrain of the Tribunal, finding absent magi, or convincing a doubting superior that this is more than a mere dragon raid. If the characters are receiving the news, they must settle their current business quickly and prepare for action, gathering allies, equipment, and supplies. • Rush to the Front. While other Houses might procrastinate on how to proceed, House Tremere snaps into action. Depending on their rank and Tribunal privilege, the player characters either receive orders or give them. Forces must be marshalled and allocated. The site where the initial conflagration occurred needs to be investigated. Because most Transylvania dragons can fly, the actual front might be difficult to ascertain. Both aždaje and zmajevi prefer mountains, so threats will likely come from the many mountain chains that surround the Tribunal. Several oppida and covenants are located in the mountains, and the defenses of Laniena, Scholomance, Coeris, and Lycaneon must be seen to immediately.''
 ''• The First Assault. The magi of Scholomance want to relocate the apprentices and mundane students, temporarily ceasing studies until the actual scope of the dragons’ conflict can be ascertained. The player characters are charged with leading a group of scholars through the Bran Pass and south into Bulgaria. Midway through the journey, a group of aždaje attacks a smaller group of zmajevi in a daring aerial dogfight. The combatants continue the battle on the ground, as the magi rush the scholars to safety. The aždaje have the upper hand. Can the magi tell the zmajevi from the aždaje? If they can, do they assist the Magically aligned dragons? • Consequential Confrontations. The dragon war upsets the entire supernatural landscape of the Tribunal, killing several faerie creatures and driving others out of their usual habitats. A trio of giants arrives at a heavily populated village and begins destroying the buildings, their rage spilling out in uncontained mayhem. Must the player characters kill the giants or are there other ways to deal with the situation? • A City in Flames. A wave of zmajevi descends on the royal city of Veszprém, their single purpose to burn it to the ground. The college library houses a large collection of important books and manuscripts, and more than one magus has benefited by the serendipitous inspection (or clandestine borrowing) of a text. Losing the library would be a great blow to the scholars of the Order. Saving the town would certainly impress the bishop, and ultimately the king. What do the player characters do as the rain of fire begins? • The First to Fall. As the war progresses, it is likely that one of the Tribunal’s oppida will be destroyed. Such an event will surely heighten the tension in your saga. Destroying an oppidum offstage might increase the drama, but putting the player characters in the flaming edifice itself surely will. Which oppidum or covenant would most affect your troupe were it destroyed? How do the player characters react when it becomes obvious that they cannot prevent the oppidum from falling? For example, the oppidum of Laniena is discovered by an aždaja, who is repelled''
@@ -106,8 +102,8 @@
 ==Giants and their Mothers==
 
 ''Giants are notorious faeries who prowl the countryside — kidnapping princesses, waylaying travelers, and stealing horses. Unlike other areas of Mythic Europe, where giants are often portrayed as being as stupid as they are strong, Transylvanian giants are more refined. Interchangeably called ogres, giants carry arms and armor similar to knights, build holdings and homesteads, raise and even ride horses. They can be witty and charming, if it is their wish, but many would rather be bashing heads than bandying words. To accommodate the different roles they play, many Transylvanian giants can change Size, ranging from Size +2 to +5, with some growing even larger. Because their armor and weapons are an integral part of their role, these also change in size relative to their bearer. A giant will often shrink to his smallest Size (+2) to ride a horse and then grow''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Nicoleta, a Giant’s Mother==
 
@@ -125,7 +121,7 @@
 ''Powers: Shrinking, 3 points, Init x, Corpus: The giant can shrink to Size +2 or grow to Size +4 in an instant. Cost: 20 spell levels (Base 3, +3 Size increase) Equipment: Full chainmail, heater shield, long sword Vis: 3 pawns of Corpus vis (each ear and nose) Appearance: The giant brothers look like a pair of local knights, magnified in size. Their armor is unadorned but well-kept.''
 ''The brothers’ farms are adjacent to a road. When the pair battle, they inevitably fight in the road, especially if one notices an approaching traveler. The battle will obstruct travel, and after a few minutes of traded blows, one of the giants asks the traveler to intervene, either to settle the disagreement between them or to pick up arms against the requestor’s brother.''
 
-|]
+|}
 ''seconds before combat. Changing shape is as common as changing size, and many giants have powers that turn them into other things. Some giants can shapechange into pear trees, others into brooks, and others into poisonous flowers. While inconspicuous, such changes are dangerous for the giant, who can be hurt when in a different form.''
 
 ==Giants’ Mothers==
@@ -136,20 +132,20 @@
 
 ''A faerie horse exists to serve a hero as a mount, martial companion, and sage advisor. It also knows that it must spend a period of time imprisoned on a giant’s mother’s ranch, kept filthy and underfed so as to disguise its faerie nature. The typical story of a faerie horse is to be discovered and saved from a horse farm, serve a hero with advice and as a means of transportation, and finally leave the hero moments before his final victory, so that the hero can achieve his goal on his own. An alternative version of this story finds the fa''
 
-[|
-
 ==Costache, a Captive Giant==
 
 ''Another common giant is the one trapped in a king’s palace, locked away in a room that guests are forbidden to enter, and contained in a spike-lined wooden barrel bound with three iron chains. Easy to initially capture, Costache is difficult to keep. He has a magical power that makes residents of the palace curious, and he thrives on the anxiety and wonder produced by those who know they are investigating where they shouldn’t.''
 ''Faerie Might: 20 (Mentem) Characteristics: Int +2, Per +2, Pre –3, Com –3, Str +7, Sta +3, Dex +3, Qik –6 Size: +3 Virtues and Flaws: Negative Reaction; Greater Power (2), Huge (x2); Humanoid Faerie; Incognizant, Traditional Ward (iron) Personality Traits: Deceitful +3, Sly +2 Combat: Fist: Init –6, Attack +8, Defense –1, Damage +7 Soak: +3 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–8), –3 (9–16), –5 (17–24), Incapacitated (25–32), Dead (33+) Pretenses: Athletics 3 (running), Awareness 2 (listening), Brawl 4 (fist), Charm 1 (princesses), Folk Ken 3 (guests), Guile 4 (inventing stories), Legerde''
 ''main 4 (snatching small objects), [Local] Living Language 5 (telling lies), Stealth 4 (sneaking through castles), Survival 1 (forests) Powers: Rousing the Castle’s Curiosity, 4 points, Init –10, Mentem: This power instills a powerful sense of curiosity in all those within the targeted structure. Those affected will prowl and snoop through the structure, investigating every corridor, chamber, and locked door. (Base 4, +2 Voice, +2 Sun, +3 Structure) Flee like a Bird, 3 points, Init –9, Auram. This power mimics the Hermetic spell, Wings of the Soaring Wind, allowing Costache to fly out a window once he is released. The Shock of Consequence, 4 points, Init –10, Corpus. This power paralyzes a group of up to 10 people. Costache invokes this power as soon as he is free, freezing his rescuers into immobility while he chastises them and steals something valuable as they stand helpless. (Base 5, +2 Voice, +2 Sun, +2 Group) Vis: 4 pawns of Mentem vis in his tongue Appearance: Costache looks like a large, captive prince or nobleman, with tattered robes, tussled hair, and dirty skin. His eyes nearly sparkle with treachery and malevolence. A few moments after being freed, Costache’s clothes regain a like-new appearance, and he suddenly becomes well-groomed and clean.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Fet-Frumos, a Faerie Horse==
 
 ''Faerie Might: 10 (Auram) Characteristics: Int +3, Per +1, Pre +2, Com +2, Str +4, Sta +2, Dex +1, Qik –2 Size: +2 Virtues and Flaws: Positive Folktales; Highly Cognizant, Huge; Great Strength, Increased Characteristics (x2), Faerie Speech, Focus Power Personality Traits: Patient +3, Wise +2, Compassionate to Humans +1 Combat: Kick: Init 0, Attack +9, Defense +4, Damage +5 Soak: +2 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+) Pretenses: Athletics 6 (flying), Brawl 5''
 ''(kick), Faerie Lore 4 (giant kin), (Local Area) Lore 4 (faerie homes) Powers: Flight, 2 points, constant, Auram: The faerie horse can fly, as described in Realms of Power: Faerie, page 62. Equipment: The faerie horse is equipped with appropriate tack and harness. Vis: Two pawns of Auram vis, one in each front hoof. Appearance: Fet-Frumos has two modes of appearance. While captured, he looks like an old, dirty, rundown nag, swaybacked and bowlegged. Once rescued and when serving a hero, Fet-Frumos looks like a healthy, young horse, with a coat so well-groomed that it actually shines. Although smaller than a warhorse, it can easily transport an armored knight.''
 
-|]
+|}
 ''erie horse imprisoned as a giant’s mount, but still waiting to be saved by the hero. A faerie horse tends to be one of the more cognizant faeries living in the Tribunal, and most are fully aware of the role they play in human interactions and their means of gaining vitality. His awareness of his role and the ways it interplays with other faeries, especially giants and their mothers, allows the faerie horse a degree of foresight that mundane characters may interpret as divination. He cannot see into the future, but because he is more cognizant than other participating faeries, he knows that a giant will try to steal a maiden and, once thwarted, his mother will attack the maiden’s castle. The faerie horse only has this insight when involved with other faeries; he will have no idea or helpful information if an Infernal dragon attacks the castle.''
 
 ==Vampires==
@@ -161,15 +157,15 @@
 
 ''Various superstitions suggest who will become a vampire after death. The most''
 ''commonly held beliefs are that the following people or circumstances create a vampire: any corpse that an animal jumps over or alights upon; any corpse that has a living person’s shadow fall upon it; the victim of any untimely death, including those killed by natural forces, by animals, or by other men; anyone who dies a bloodless death (such as drowning); anyone unbaptized or excommunicated at time of death; anyone who committed a mortal sin in life; anyone born during the Unclean Days (the 12 Days of Christmas); any witch or sorcerer; anyone born with a caul; where there are seven children of the same sex, the seventh child; any child of a vampire. None of these situations actually causes a person to become a vampire per se. Instead, they attract the attention of a faerie who takes on the role of vampire if the correct propitiatory rites are not performed. A correctly performed Church burial (or indeed, a burial by any Divinely ordained religion) does not necessarily prevent the formation of a vampire, unless this is one of the specific conditions of the faerie who has been attracted by the death. Folklore has a whole host of precautions that are supposed to prevent a vampire attack; these rituals in truth feed the faerie vitality, causing it to become sated and to move on. If the rites are not performed correctly, the vampire instead seeks vitality from the villagers in the form of blood and fear. It takes the form of the corpse during the day (having disposed of the real corpse) and often resides in its coffin, but at night prowls about in a number of different forms. If the vampire is hunted and slain in the correct manner, its need for vitality is satiated, and it moves on, perhaps reforming in a different shape in another district. If the rituals surrounding its destruction are''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Slavic Belief==
 
 ''The Slavic pagan belief is that the spirit is quite distinct from the body, and is free to leave even during life. Issuing forth from a sleeping person, the spirit takes the shape of a bird, butterfly, snake, mouse, point of light, or may enter a tree. Such a spirit is called a zduhacz or a sjenovik (shadow). The spirit of any domesticated animal might become zduhacz. A witch''
 ''sends out her spirit as a vjedogonja, a bloodsucking spirit.These spirits assemble on mountain tops where they battle, the victors bringing rich harvests to their countrymen (Night Battles are described in Hedge Magic Revised Edition, Chapter 6). The battles between the zduhaczs of land and sea are noted for their impact: the former brings drought, and the latter rain.''
 
-|]
+|}
 
 ==Story Seed: The Lady and the Vampire==
 
@@ -198,8 +194,8 @@
 ''• Cannot leave resting place during the day (almost universal). • Cannot spend Might points on a Saturday (very common). • Cannot harm anyone born on a Saturday (very common). • Cannot cross a line of thorns. • Cannot leave millet uncounted. • Cannot cross running water. • Repulsed by garlic; cannot pass a barrier warded with garlic, or attack a person or animal smeared in garlic. • Repulsed by black hawthorn. • Cannot pass a tangle of red thread. • Cannot approach when you are telling stories. • Cannot ask the same question three times. • Repelled by the Cross and by prayers.''
 ''Ways to Kill a Vampire''
 ''As described in Chapter 9: Hedge Traditions, each vampire has a number of folk rituals which, if correctly performed, sates the vampire for good. These rituals make good the lack of the vitality that caused the vampire to form in the first place, and following its death, the faerie reforms into a completely different creature somewhere distant from its place of death. Failure to kill''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Powers for Vampires==
 
@@ -211,7 +207,7 @@
 ''Eidolon CrIm 20 4 points, Init Qik – 8, Imaginem R: Touch, D: Sun, T: Ind This power creates an illusory form that is visible and audible. The creature can create a single form for each version of this power they possess. The image can move and speak as directed by the faerie, and lasts until the faerie has no further use for it. (Base 2, +2 move at direction, +1 Touch, +2 Sun, +1 intricacy)''
 ''Sap the Life PeCo 15 3 points, Init Qik – 6, Corpus R: Touch, D: Mom, T: Ind This power causes the target to weaken and lose the vitality that sustains life. This is treated as a disease that initially inflicts a Light Wound; in addition, the victim loses two Fatigue levels which cannot be regained until the disease has abated. Every week, the afflicted character can make a Disease Recovery Roll; he must beat an Ease Factor of 12 to remain stable, and a 18 to improve. If you are using the disease rules of Art & Academe, this is a Serious disease of Severity 15. Either Faerie Lore or Medicine may be used to treat the effects. (Base 10, +1 Touch)''
 
-|]
+|}
 ''the vampire with the correct rituals allows the faerie to reform its glamour after a matter of days or weeks, and continue to prey on the region’s inhabitants. For each vampire, pick a method of dispatch that results in permanent death:''
 ''• Exhume the body on a Saturday (or Sunday). • Women or virgins exhume the body. • Burn the heart and/or liver. • Cut the heart and/or liver to pieces with a scythe. • Throw the heart and/or liver into running water. • Immolate the body. • Decapitate the body. • Drive a hawthorn (or aspen) stake through the navel (or heart).''
 
@@ -222,8 +218,8 @@
 ''Vampires That Take Human Form''
 ''The human-like vampire is the most common variety in the region. It takes the form of a recently deceased individual, and''
 ''is usually seen wrapped in a burial shroud. Of particular note are the kukudhi, who are human infiltrators; having lost their vulnerability to direct sunlight, they live among mankind. The humanoid vampire is known by a number of different terms throughout the different people of the Balkans: platenik or ubour among Bulgarians; drakus among the Thracians of the Rhodopes; moroi by the Vlachs (pl. moroii; fem. sing. moroaica; fem. pl. moroaice); oiocoi by the Transylvanians; lampir among Bosnians; and upir among the Ruthenian people.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Powers for Vampires (cont’d)==
 
@@ -243,7 +239,7 @@
 ''Vampires are attracted to the psychic wounds of a community that has suffered some trauma, and destroying them is not a simple task of just destroying the faerie. Even if a magus extracts the vis from the corpse (killing it permanently), another''
 ''vampire is attracted by the community’s wound and takes up where the other left off. The rituals associated with slaying a vampire heal the wound correctly and sate the vampire with vitality, driving it off once and for all.''
 
-|]
+|}
 ''Vampires That Take Bestial Form''
 ''Like the humanoid vampires, bestial vampires go by a variety of different names. In Slavic areas, they are called vukodlaci, although this term is also used for non-vampire werewolves (see later). Other names include: farkaskoldus to Hungarians, blaut''
 ''sauger among the Transylvanian Saxons, and pricolici to Vlachs. Bestial vampires are covered in thick gray fur, and have sharp teeth and claws, and appear wolf-like (or more rarely, bearlike or dragon-like), although walking on two legs. Despite their immense strength, bestial vampires have no bones, and are able to squeeze themselves through the tiniest''
@@ -254,8 +250,8 @@
 ''Although the human-shaped, bestial, and incorporeal vampires are the most common types, there are a few other varieties of vampires found in the Transylvanian Tribunal.''
 ''Formless Vampires These vampires are a stage in the lifecycle of the human-shaped vampires (see The Vampire Life Cycle, earlier). The gadja is a swollen bag of skin and hair, filled with jelly-like blood. Instead of a nose, it has a sharp snout through which it sucks blood, mostly from animals. In this form, it moves principally by rolling, and is sometimes described as like an ox’s head. Formless vampires are particularly susceptible to thorns and piercing weapons, which inflict terrible damage upon them.''
 ''Vampire Animals Vampires are not always human. Venomous snakes are the animals most likely to become vampires. Stallions, lambs, and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Human-like Vampire==
 
@@ -290,14 +286,14 @@
 ''vampire snake’s touch inflicts a Medium Wound. PeCo 20 (Base 15, +1 Touch) Lesser Power (20 levels, –1 Might cost) Vis: 1 pawn of Animal, in tongue Appearance: A remarkably large snake, easily two paces long and as thick as a man’s thigh; the vampire snake has red eyes.''
 ''The vampire snake has 3 points of Virtues and 3 points of Flaws.''
 
-|]
+|}
 ''some other animals can also become vampires, but never dogs or wolves. The same methods that result in human-shaped vampires are capable of generating animal vampires, as well.''
 ''Vampire Plants Not even plants are immune to vampirism. A plant that has been the cause of a man’s death, or which has grown in soil fertilized by his life’s blood, can become a vampire.''
 ''Even gourds and melons are at risk, if a careless housewife should keep them too long. People are most at risk from vampire trees. A tree is more susceptible to becoming a vampire if a man was hanged there, particularly if he was a suicide. Thorn trees never become vampires, and are therefore most often used as impromptu gallows.''
 ''Infernal Vampires''
 ''Not all vampires are faeries. Sometimes, a demon consumes a corpse, and takes the form of the deceased. These demons are known as the broukolak in Bulgaria, and are the same as the vrykolakas of Greece (see The Sundered Eagle, Chapter 12). The same factors that can lead to a faerie vampire taking over a body can attract the attention of a broukolak, but the most surefire way is to be cursed at the moment of death. Some particularly evil individuals, who die with evil yet to do, may curse themselves as they die in the hope of attracting the attention of a demon. With its ability to blend into society without fear of detection, the broukolak often sets up trade in a nearby village where it will not be recognized. They are fearsome predators, first eating the flesh and drinking the blood of the deceased’s relatives, then ranging further abroad. An area with a broukolak suffers a general decline in health and vitality as it feeds at night on both livestock and on men.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Vampire Tree==
 
@@ -305,14 +301,14 @@
 ''Powers: Sap the Life, 1 point, Init Qik – 3, Corpus: See earlier for details. PeCo 15 (Base 10, +1 Touch) Lesser Power (15 levels, –2 Might cost) Vis: 2 pawns of Herbam, in bark Appearance: This vampire is based on a white willow. It stands about twenty feet tall, and all its branches point upwards — until they lash down in pursuit of blood. Its silver-green leaves are usually spotted with blood, and the ground around its roots is littered with bones. Vampire trees can understand human languages, but cannot speak.''
 ''A vampire tree can attack as a trained group with up to four limbs simultaneously, and has a +9 Group bonus which it always adds to its Attack. It usually concentrates on one victim at a time, attacking with a grapple and then holding tight. It can use limbs not involved in striking to hold onto grappled victims. Every round it uses another branch to hold onto a victim increases the Grapple Strength (ArM5, page 174) by +5. The vampire tree is not suitable as a player character.''
 
-|]
+|}
 ''Living Vampires''
 ''The people of the Transylvanian Tribunal often make the distinction between living vampires and dead vampires. Living vampires are witches or sorcerers, who prey on the locals much like the dead vampires. None of the following characters are vampires in the traditional sense; that is, they are humans rather than faeries, and they do not need to drink blood to survive (although some do anyway). When living vampires die, they attract the attention of particularly powerful vampiric faeries.''
 ''The Strigoi and Vjestitza In Romania, the term strigoi (sing. and pl.; fem. strigoica; fem. pl. strigoice) is the most commonly used word for vampire, but a distinction is made between the strigoi vii (living vampires; sing. strigoi viu), and the strigoi morti (dead vampires). In the Balkans, the vjestitza (pl. vjestitze) is the same as the strigoi viu. The strigoi viu or vjestitza is a witch who leaves her body at night and takes the form of an owl, black hen, a moth, or a fly called a vjedogonja. She enters houses and feeds on the heart-blood of her victims, who are usually children. These witches, who are invariably female, form covens, and a girl can''
 ''learn to become one by joining the coven. It is said that these witches are the masters of the dead vampires, and meet with them at district boundaries to decide upon their pro''
 ''gram of evil for the following year. These characters are Nightwalkers (Hedge Magic Revised Edition, Chapter 6), but they may have other powers. Malicious stri''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Thief’s Valerian==
 
@@ -328,7 +324,7 @@
 ''on a Saturday). Vis: 4 pawns, in teeth Appearance: The broukolak is indistinguishable from ordinary people in appearance, until it reveals its powers, at which point it takes on its true form. They have shiny black skin and are hunchbacked, with black hands and long nails. Their faces are blood-red and peeling, their teeth are like those of a cat or wolf, and they have wild hair and beards. With their Shapeshifter Ability, they usually take the form of cats, goats, and owls.''
 ''Broukolaci usually take victims who are on their own, locking them in a grapple before biting them. They occasionally keep their victims alive and feed from them night after night by inflicting scuffle damage rather than normal damage.''
 
-|]
+|}
 ''goi vii could be designed as infernal witches, employing maleficia to work their evil, or the Goetic Arts to control dead vampires (see Realms of Power: The Infernal). Alternatively, they could be faerie wizards and use the Ars Fabulosa (Realms of Power: Faerie) to summon and captivate vampires for good or ill.''
 ''The Varcolac and Vukodlak Certain people can take the form of wolves during their lifetimes. These are called varcolaci by Romanians, or vukodlaci or kudlaci among Slavs. They are also considered to be vampires of a sort, and referred to in the same terms. A child who is born with a blood-red or black caul, feet-first, or with teeth becomes a varcolac; a man may also become one through magic. Some varcolaci can become hens, horses, cows, dogs, or cats instead of wolves, but the wolf form is the most common. While all varcolaci are treated with a great deal of suspicion, not all of them are evil. Some of them form “wolf brotherhoods:” secret societies dedicated to protecting communities and hunting vampires — the wolf is well-known as an enemy of the vampire, and these man-wolves are doubly so. Other varcolaci use their magic for mischief. At night, they attack cattle, suck the milk from mares and sheep, strangle horses, cause cows to die of plague, and occasionally attack humans. The varcolac is also credited with eating the moon during eclipses, which are certainly powerful times for these werewolves. A varcolac character has either the Shapeshifter Virtue if he was born a werewolf, or the Skinchanger Virtue if he has learned to change shape. Some varcolaci are also Lycanthropes. Like the strigoi, the kudlaci who cause mischief and attack livestock''
 ''are Nightwalkers, and are battled in their phantasm form by the kresnici, a rival tradition who seek to protect the community (see Chapter 9). When they die, a varcolac — regardless of good or evil deeds during life — becomes a bestial vampire (see earlier).''
@@ -338,8 +334,8 @@
 ==Vilas (White Ladies)==
 
 ''Most of the communities in this Tribunal tell stories of beautiful faerie women, dressed in pale clothes, or naked. These faeries all have similar names, but play different roles''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: House Bjornaer as the Enemy==
 
@@ -351,7 +347,7 @@
 ''This weak vila is suitable for stories with grogs, or other characters lacking magical powers or Resistance. She is suitable as a player character, but will be more useful in most covenants if given additional powers and a larger Might pool to support them. Any added Virtues need to be balanced with Flaws. The powers listed in this section are Greater Powers unless otherwise noted, and are purchased as Major Virtues. Most Greater Powers can be transformed into Lesser Powers, which are Minor Virtues. Notes on doing this are in Realms of Power: Faerie on page 57. Troupes preferring speed over accuracy should double the Might cost and quadruple the Initiative penalty of the powers given here. Powers noted as Personal affect only the faerie, and are Minor Virtues. As an antagonist, augment these statistics using the suggestions for customization by role, given later. NPC faeries do not need balanced Virtues and Flaws.''
 ''Faerie Might: 5 (Usually Corpus) Characteristics: Int 0, Per 0, Pre 3, Com 0, Str 1, Sta 0, Dex 0, Qik 0 Size: 0 Virtues and Flaws: Passes for Human: Faerie Sight, Human Form, Incognizant, Traditional Ward (suggestions given later). Combat: Claws: Init –1, Attack +6, Defense +7, Damage +3 Soak: +0 Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Pretenses: Athletics 3 (dance), Awareness 3 (mortals), Brawl 3 (claws), Carouse 3 (getting mortals to drink), Charm 6 (preferred type of mortal), Folk Ken 3 (festivals), Music 5 (singing). Powers: As per role, defined later Vis: 1 pawn Corpus, a long blonde hair Appearance: A beautiful maiden, either naked or dressed in white clothes.''
 
-|]
+|}
 ''in each community. Storyguides designing vilas should use the statistics for a generic faerie woman, and then tailor them to the role that the particular vila plays. Vampiric vilas should be created using the suggestions in the Vampire section.''
 
 ==Wards==
@@ -410,8 +406,8 @@
 ''Vilas are also sometimes confused with folk witches. Those performing this role usually have the ability to foretell the future and heal.''
 ''Healing (Focus power): by Magnitude, Init – (Qik – 5): Allows the faerie to simulate''
 ''any Hermetic healing spell up to level 25. Prophecy: Faeries can’t really see the future. Some have Virtues which allow them to pretend to, while others use a mixture of obfuscation and spying to pass themselves off as oracles. Some vilas with this power need to keep their eyes propped open with iron bars weighing 300 pounds.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Ecology of Transylvanian Faeries==
 
@@ -424,5 +420,8 @@
 
 ===Witches Have Daughters Who Are Witches, Giants Or Dragons.===
 
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -46,8 +46,8 @@
 ===Embody a Threat That Must Be Overcome ...===
 
 ''• 	 Many faeries want to eat the heroes, like the giant in Jack the Giant Killer, the witch in Hansel and Gretel, the troll in the Three Billy Goats Gruff, the wolf in Red Riding''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Mistakes To Avoid==
 
@@ -69,7 +69,7 @@
 
 ''Faerie stories are often allegorical, which makes them dream-like. It can be tempting for the story to have been a dream. This cheapens the accomplishments of the player characters, unless the dream has ongoing consequences in the saga. Faerie stories should be meaningful.''
 
-|]
+|}
 ''Hood or the Three Little Pigs, or just about any other story. • 	 Others want to capture the heroes. The Snow Queen steals Kay, and imprisons him. Calypso, in The Odyssey, wants to keep Odysseus from ever becoming famous or going home.''
 
 ===Are the Thing That Must Be Aided ...===
@@ -145,15 +145,11 @@
 
 ''The donor grants the hero a magical gift or power that is vital to the execution of his task. However, the donor may not necessarily be kindly disposed towards the hero or acting out of altruism; the hero often has to force''
 
-[|
-
 ==The Thirty Six Dramatic Situations==
 
 ''There are a number of modern manuals on literary style that offer advice to aspiring authors, and a storyguide would do well to dip into such sources when planning a faerie story. One of the most useful is Thirty-Six Dramatic Situations by Georges Polti, which propounds that there are thirty six primal emotions that drive all dramatic plots in literature. Too many plots in roleplaying games devolve to one of two situations — in Polti’s scheme, numbers 9 (A Daring Enterprise) and 12 (Obtaining). By identifying new plots, excellent inspiration for faerie stories can be gained, particularly if the listed dynamic elements are interpreted metaphorically rather than literally. Adultery is about betrayal of a sacred oath, which encompasses more than just the wedding vows; “Kinsmen,” who feature in many of these situations, can be fellow members of one’s House, or the Order; and a “Conflict with a God” can represent any man’s battle against an undefeatable concept such as Love or Truth. In this type of story, the characters usually play the active role, leaving the faeries to fill in the remaining dynamic elements. But the faeries could take all roles, and the characters find themselves thrust into the middle. In the Revolt situation, for example, the characters could be contracted by the Tyrant to quell the rebellion, or instead assist the Conspirator/s to free the oppressed.''
 ''Dramatic Situation Dynamic Elements 1. Supplication Persecutor, Supplicant, Power  in Authority 2. Deliverance Victim, Threatener, Rescuer 3. Crime Pursued Avenger, Criminal by Vengeance 4. Vengeance Taken for Avenging Kinsman, Guilty Kinsman, Kindred Upon Kindred 	 Remembrance of the Victim, Relative  of Both 5. Pursuit Punishment, Fugitive 6. Disaster Vanquished Power, Victorious Enemy  or Messenger 7. Falling Prey to Victim, Master, or Misfortune Cruelty or Misfortune 8. Revolt Tyrant, Conspirator 9. Daring Enterprise Bold Leader, Object of Quest,  Adversary 10. Abduction Abductor, Abducted, Guardian 11. The Enigma Interrogator, Seeker, Problem 12. Obtaining Object Sought, and either Solicitor  and Adversary or Arbitrator and  Opposing Parties''
 ''Dramatic Situation Dynamic Elements 13. Enmity of Kinsmen Malevolent Kinsman, Hated or Equally  Malevolent Kinsman 14. Rivalry of Kinsmen Preferred Kinsman, Rejected Kinsman,  Object of Rivalry 15. Murderous Adultery Two Adulterers, Betrayed Spouse 16. Madness Madman, Victim 17. Fatal Imprudence Careless Fool, Victim, or Object Lost 18. Involuntary Crimes Lover, Beloved, Revealer of Love 19. Slaying of a Kinsman Slayer, Unrecognized Victim Unrecognized 20. Self-Sacrificing Hero, Ideal, Creditor, or Person/Thing for an Ideal Sacrificed 21. Self-Sacrifice for Hero, Kinsman, Creditor, or Person/ Kindred Thing Sacrificed 22. All Sacrificed Lover, Object of Fatal Passion, Person for a Passion or Thing Sacrificed 23. Necessity of Hero, Beloved Victim, Necessity Sacrificing Loved Ones	  for Sacrifice 24. Rivalry of Superior Superior Rival, Inferior Rival, Object and Inferior of Rivalry 25. Adultery Two Adulterers, Deceived Spouse 26. Crimes of Love Lover, Beloved 27. Discovery of the Discovery, Guilty One Dishonor of a Loved One 28. Obstacles to Love Two Lovers, Obstacle 29. An Enemy Loved Beloved Enemy, Lover, Hater 30. Ambition Ambitious Person, Thing Coveted,  Adversary 31. Conflict with a God Mortal, Immortal 32. Mistaken Jealousy Jealous One, Object of Jealousy,  Supposed Accomplice, Cause of  Mistake 33. Erroneous Judgment	 Mistaken One, Victim of Mistake,  Cause of Mistake, Guilty Person 34. Remorse Culprit, Victim or Sin, Interrogator 35. Recovery of a Seeker, One Found Lost One 36. Loss of Loved Ones Kinsman Lost, Kinsman Spectator,  Executioner''
-
-|]
 ''the donor to provide the magical aid by completing a task or defeating him in combat. Examples: Fafnir (in the Saga of the Nibelungs); Ceridwen (in the story of Gwion Bach, the witch whose cauldron gives him magical powers)''
 
 ===The Helper===
@@ -230,6 +226,9 @@
 ===Reconciliation===
 
 ''The final act of the fairy tale is the hero finally acquiring the object he has sought after. A common resolution is a wedding followed by an ascension to the throne, but equally it could be the return home to his sick grandmother to give her the healing potion he has sought.''
+
+==Appendix Bibliography==
+
 ''Anderson, Graham. Fairytale in the Ancient World. Routledge: New York, 2000.''
 ''Bishop, Morris (Ed). A Medieval Storybook. Cornell University Press: Ithaca, 1970.''
 ''Briggs, Katharine. A Dictionary of Fairies. Penguin: London, 1977.''
@@ -243,5 +242,6 @@
 ''Rose, Carol. Giants, Monsters, and Dragons: an Encyclopedia of Folklore, Legend, and Myth. ABC-CLIO: Santa Barbara, 2000.''
 ''Synge, Ursula. Kalevala. Bodley Head: London, 1977.''
 ''Wheeler, Post. Russian Wonter Tales. A&C Black: London, 1912.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -1,5 +1,3 @@
-
-[|
 ''The eastern march of the Provençal Tribunal was the site of the first Roman settlements outside Italy. The medieval culture of the Church and the towns of the so-called Kingdom of Arelat and Provence overlie a tapestry of ancient Roman and Gallic ruins. Encompassing the area of the Kingdom of Lower Burgundy, it is bounded by the Rhone in the west except for the small County of Viviers, the town of Beaucaire, and the area of Lyonnais appended across the river. It stretches east along the Mediter''
 ''ranean coastline toward the Maritime Alps just past Nice. Over the last millennium the area was beset with repeated waves of barbarians: Franks, Lombards, and Saracens, only to be finally conquered by the armies of Charles Martel. In the 13th century it is more peaceful, and is a blossoming heart of the troubadour culture that is to spread throughout southern Europe. The area’s indistinct northeastern boundary lies just beyond the monastery of Grand Chartreuse somewhere near the''
 ''border between the Dauphine Viennois and marches up to the lands of Count Thomas of Savoy in the territory of the Greater Alps. The current settlements of the Order, however, all lie further to the south in the lands of the County and March of Provence proper. Proud of their status as heirs of the Roman Provincia, the original southern Lotharingian covenants began a tradition of preserving their original Latin names for all official documentation. Like the Romans before them, the original Hermetic settlers''
@@ -9,8 +7,6 @@
 
 ==113 113==
 
-
-|]
 ''of the region have left many ruins behind them as lasting reminders of the difficulties of Hermetic cooperation. Recently, this cooperation has been more successful, however. The heirs of the various ruined covenants forged together their disparate holdings and abandoned many of the smaller sites to form a greater multi-site Hermetic community or coenobium. Although outwardly benign, this alliance has increased its influence throughout the region to the point where it has a stranglehold on most readily accessible magical resources. The nominal mundane overlord of''
 ''Provence and the Kingdom of Arelat is Frederick II, the Holy Roman Emperor. He holds the somewhat empty title of the King of Arles but exerts only limited influence in practice through his imperial viceroy at Arles, the young prince of Orange, Raymond I of Baux. The most powerful magnate is the Catalan scion, Ramon Berenguer V, Count of Provence and now Forcalquier, recently released from imprisonment in Aragon in 1219. The young Count of Toulouse still claims the area known as the March of Provence, but many of the local lords acknowledge him only when it suits them. In''
 ''contrast to the Hermetic situation, much of the area is independent, controlled by minor lords or chartered towns such as the great river communes of Arles and Avignon. So far the region has escaped the devastation of the Albigensian Crusade, although several of its communes (and perhaps some of its magi) have lent discreet aid to both sides of the conflict.''
@@ -18,8 +14,8 @@
 ==The Legacy of Fraxinetum==
 
 ''The now disbanded covenant of Fraxinetum (Latin: “ash forest”) took its name from the surrounding groves of ash established by one of the founding magi, Sayyid Shajarat al-Darda. He was reputedly an Andalusian Flambeau Herbam specialist from northeastern Iberia, but House Flambeau deny this background. They claim Sayyid was a renegade from their philosophy, corrupted by his Tytalan lieutenant Nasr ibn Amaf. Some mutter he may even have been a Tytalus-trained infiltrator from the start.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Arelat Covenants==
 
@@ -34,6 +30,8 @@
 
 ''Originally, the region within the Provençal Tribunal now referred to as Arelat was part of the Lotharingian Tribunal. This early entity ceased to exist after the Grand Tribunal decision of 898 that reassigned many of the northern covenants to either the Normandy or Rhine Tribunals. The rump left behind, comprising the lands of the Kingdom of Arles along the banks of the Rhone and scattered settlements in the Toulousain, became known as the Provençal Tribunal. The magi of the Coenobium have little interest in the northern political movement sponsored by the Apple Gild of the Rhine led by Daria of Triamore and known as the Lotharingian Movement (see The Lion and the Lily page 14 and Guardians of the Forest page 29). Apart from a shared desire to be free from strict interpretations of the Peripheral Code concerning interfering with mundanes, in Hermetic terms, they share little culturally or politically with the Flemish covenants. The Coenobium magi mainly see themselves as set apart from''
 ''the rest of the Provençal Tribunal. Their mundane servants consider themselves part of neither the distant Holy Roman Empire, nor tributary to the Counts of Barcelona. The current Provençal political situation is to their advantage, and overall they feel there is no incentive to join a gang of northern secessionists. Similarly, Alazais, the Chief Redcap and leader of the Coenobium, has no plans for her covenant to strike out on its own and form a separatist southern Tribunal. To do so would require the fragmentation of the multi-site network of sancta into at least four separate covenants, a move which would weaken the Coenobium’s greatest strength, its united defensive stance. However, individual Tytalus magi may have strong cause to infiltrate the Coenobium and undermine its power, setting the stage for the a wide ranging conflict that may transect the Order (see “The Lotharingian Movement” insert in Chapter 10: Normandy Sagas of The Lion and the Lily, page 114–115 for further details).''
+
+|}
 ''Unknown to the Tribunal for its first century of existence, this small cadre of Andalusian magi secretly supported the Cordobansponsored attacks on Provençal cities staged from the Moors’ base within the Massif des Maures above St Tropez. Several smaller coastal covenants fell readily to the Moorish forces under suspicious circumstances, although these machinations went unnoticed by the Quaesitores for some time. The capture and ransom in 973 of Maieul, the Abbott of Cluny, and the Moors’ continual encroachment into the foothills of the Alps eventually combined to provoke widespread alarm. The predominantly Jerbiton magi of the eastern lands of the Tribunal were forced to act. Drawing on their mundane family connections, their supporters within the Church and sympathetic allies amongst the nobility of Provence, the magi of several weak covenants founded a mutual protection pact. No overt Wizard’s War was declared, but the Hermetic coalition subtly supported the mundane army amassed by William I of Provence. The bulk of the Moorish forces were routed at the Battle of Tourtour. Following a successful siege of their base, the Fraxinetum magi disappeared into the deeper forest and then seemingly disappeared. Their Moorish allies set sail back to Andalusia, leaving the coasts of Provence temporarily free from the pirates’ scourge. The remaining Provençal magi, having learnt the value of cooperation and the benefits of acting through mundane forces, re-established themselves as the multi-site covenant that has become known as the Coenobium.''
 
 ==The Rhone Valley==
@@ -48,6 +46,8 @@
 
 ==115 115==
 
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Hermetic Toll and the Price of Hospitality==
 
@@ -59,15 +59,13 @@
 ''The utriculari, or boatmen of the Rhone, form a powerful guild in the 13th century, controlling trade along the waterway. Although nominally based in Beaucaire, the largest concentration of guildmembers resides in Arles, where the majority of shipments transfer to ocean going vessels. Barques du Rhone — These large barges, typically linked in trains of 5–7 craft and drawn by teams of over 50 horses along the banks, provide the main means of transporting large bulk goods from the northern markets to the Mediterranean. The magi of the Coenobium''
 ''secretly use at least one of these barges as a floating laboratory, mooring the vessel along the banks or tributaries in areas with significant Magic auras. Coches d’eau — These “water coaches” are used by important travelers and nobles and either use sail or are drawn by horse. Jerbiton magi prefer this travel method over magic but the coaches are not usually available to Redcaps on mundane errands. As most riverboats are marked with a cross or other religious symbols for protection, many magi incorporate subtle wards within these designs to ease their journey.''
 
-|]
+|}
 ''(see section later for further details). The Order of Canons of St. Rufus, the patron saint of Avignon, maintain an abbey, church and hospice just outside Avignon, near the Rhone. The grounds have a Divine aura of 3.''
 ''Pont Saint-Bénezet''
 ''These 22 arches of stone span the low-lying Isle de Barthelasse in the midst of the stream. The eastern end contains a drawbridge to prevent access via the Porte du Rhone into the city, but the great gatehouse remains incomplete. In the early years of the 13th century the''
 ''unpaved bridge is still intact. A small chapel dedicated to St Nicholas of Myrna exists above the third pier from the east bank. It contains the interred body and relics of St Benezet, and is a site of veneration for many of the Rhone boatmen as they journey along the river supplying their livelihood. At the centre of a small Divine aura of 4, the chapel covers the first few piers of the bridge only. A retired Redcap and former boatman known as Jorin serves as the chapel’s doorman, reporting to his Hermetic superiors of the Coenobium.''
 ''St Andre''
 ''Built on Mont Andaon above the western end of the bridge, this prosperous abbey-town dominates the road to the commune of Avignon and provides lodging for the pilgrims traveling to Santiago de Compostela along the Way of St James. The abbey shelters the bones of St Casarie, a sixth century Visigothic hermit-princess and is blanketed by a strong Divine aura of 4. The abbot of St André is a distant relative of the Les Baux family, and one of the most powerful local landowners. More open-minded than many churchmen, he''
-
-[|
 
 ==Drac, Lesser==
 
@@ -76,8 +74,6 @@
 ''majority of their time disguised in human society as boatmen, washerwomen or merchants. These particular Faeries lack the Monstrous Appearance Major Flaw and substitute the Infiltrator Virtue (Minor or Major depending on the Social Status Virtue mimicked) and Dark Secret Flaw instead. The more sociable drac may even be Narrowly Cognizant and usually possess Faerie Speech and additional Pretenses that help maintain their role. Personality Traits: Cruel +3 Reputations: Watery threat 3 (local) Combat:  Bite: Init +3, Attack +10, Defense +9, Damage +6***  Grapple: Init +3, Attack +7, Defense +9, Damage na ***	Includes a +3 bonus for Crushing Jaws: reflects the fact that although these dragons are not particularly strong compared to humans, the muscles with which they bite down are tremendously powerful. The muscles which open its mouth are comparatively weak. A human may hold a drac’s jaws closed with a successful Grapple. Soak: +2 Fatigue Levels: OK, –1, –3, –5, Unconscious Wound Penalties: –1, (1–8), –3 (9–16), –5 (17–24), Incapacitated (25+) Pretenses: Area Lore: Rhone 4 (hiding places), Athletics 2 (lunges), Awareness 3 (prey), Brawl 5 (grapple), Concentration 2 (remaining invisible), Folk Ken 2 (river folk), Hunt 4''
 ''(prey), Occitan 6 (Provençal), Stealth 4 (stalking prey), Survival 3 (river), Swim 2 (rivers) Powers: Crafter of Illusion, 0–5 points, Init 0, Imaginem. A drac can create illusions, particularly to lure its prey, by spontaneously producing the effect of any Creo or Rego Imaginem spell of fourth magnitude or less at a cost of (magnitude) Might points. Focus Power, 2 Intricacy points to increase magnitude of effects, 3 intricacy points to improve Initiative. Transform into Human, 3 points, Init 0, Animal. This allows the drac to turn into human size from its larger natural size. MuAn 30 (Base 10, +2 Sun, +2 size): Personal Power (30 levels). Gift of the Drac, 3 points, Init –3, Aquam. Allows a person grappled by the drac to breathe easily underwater until they resurface in the Drac’s air-filled lair or escape to the riverbank. MuCo 30 (Base 4 +1 Touch, +4 Until, +1 Part): Greater Power (30 levels). Vis: 3 Imaginem in eyes Appearance: In its true form, the creature is a greenish-black worm with a long sinuous body girt with webbed legs like a flamingo and vestigial fin-like wings of blue lace.''
 ''The statistics above represent a small adult drac, just grown into maturity. Their strong illusory powers allow them to move silently, become invisible, and change their appearance readily in human form.''
-
-|]
 ''secretly maintains good relations with the magi of the Coenobium. The clergyman sometimes entertains the more respectable of the local hedge wizards. Characters refusing the hospitality of the Coenobium may approach the abbott to allow them to lodge in the appropriately named Tower of Sorcerers, but any arrangement requires discretion or risks arousing the ire of the local bishop or the interests of the Coenobium.''
 
 ==Beaucaire==
@@ -108,8 +104,6 @@
 
 ''A range of limestone teeth jutting from the northern edge of the plain of the Crau, these little mountains resemble''
 
-[|
-
 ==Story Seeds: Beaucaire & Tarascon==
 
 ''Many events of the past and present could lead to stories in this area.''
@@ -119,15 +113,11 @@
 ''The magi come to hear of Nicolette, a young woman living in Beaucaire, who tells all who will listen of her dreams of underwater kingdoms and dragons. Most folk think her mad but indulge her by listening to her stories when unable to escape her attentions. The older folk say that she once disappeared for seven years without warning, only to return as suddenly as she left, but with no memory or explanation of where she had been and no memories of the son she had abandoned as a babe. Her husband and maturing son care for her the best they can and quickly divert her talk from her dreams when strangers enquire too pointedly. Nicolette may be a drac bride, a Faerie touched woman, once a maid servant and prisoner of the Faerie serpent released to spread tales in the mundane world. Alternatively, she may just be one of Aucassin’s escaped grogs. In either version, the madwoman may seek refuge in the covenant, drawing the unwanted attention of the Tytalus magus, or else leading them into stories beneath the waters of the Rhone.''
 ''The Deeper Secrets of the Rhone''
 ''A brief account of the recent sightings of the Drac is contained in the Otia imperialia (“Recreation for an Emperor” or “The Emperor’s Solace”), an encyclopedia of myth and magic written between 1210 and 1214 by an eminent former resident of Arles, Gervais of Tilbury. Gervais mentions entrances to the Drac’s lair via a pool outside the North Gate of Arles and within one of the main wells of Beaucaire. The local Redcaps believe at least one other entrance can be found within Magic auras along more desolate stretches of the Rhone. These connect to a large interconnected regio network that is believed to lie beneath the Rhone valley, potentially providing an alternate magical means of travel throughout the region. Travel through the labyrinth is marked by inhuman breathing sounds, giving a feeling of being hunted by some unknown evil.''
-
-|]
 ''the greater Alps to such an extent that they are regarded locally as their diminutive offspring. Wild and untamed, they rise above the medieval town of St-Remy just to the north and contain areas of untouched wilderness, home to both Magic and Faerie auras and their respective creatures.''
 
 ==Les Baux==
 
 ''The stronghold of Baux was razed in 1162 at the end of a long conflict known as the Baussenque Wars between its scions and the Catalan counts of Provence. Hugh III, son of Bertrand, is the current Seigneur of Baux but spends most of his time elsewhere, preferring the bustle of Marseilles, which he holds as viscount on behalf of the Holy Roman Emperor. His relatives include the Prince of Orange and many of the minor nobility of Provence. One of his younger cousins, Marcus, is well known amongst the family as the wizard Balthazar, a somewhat notorious member of the Coenobium. Beneath the plateau of Les Baux lies the infamous Val d’Enfer, a rocky valley associated with a weak Infernal aura of 2, known for the many sinister caves that line the gorge. These caves provide entrances to a Tartaran regio. The regio is the lair of the lesser demons of pride and ambition that have spurred on the Baussenque lords''
-
-[|
 
 ==Story Seeds: Beaucaire & Tarascon, cont’d==
 
@@ -139,6 +129,8 @@
 ''drac related disappearances. He finally captured a sickly Gifted child who appears to share his Mythic Blood. Although he is unclear of the full path he must follow, he believes that the odd child, nicknamed “Le Petit,” must play a part in his ultimate transformation and has begun to train him as a Hermetic apprentice. Unfortunately the child is wasting away from a magical illness and the Tytalus is poorly skilled in healing magic. Disguised as a poor washer woman the eremite may approach the characters to help heal his heir, seeking to play on their compassion while concealing his true ambitions.''
 ''When a Grog Goes Missing''
 ''Aucassin has recently begun to abduct mundane servants to care for his young “hatchling”. He has so far been able to use his magical talents and his position within the town to cover up the disappearances. Several abductees now dwell under magical compulsion within the cave complex, including a lavender seller wet-nurse and a young female scribe previously used by the Chief Redcap, Alazais. He has forced the latter to act as the child’s Latin and Artes Liberales tutor. When another favored grog goes missing during a trip down the Rhone, will the characters investigate further and stumble upon the secretive magus’ plans?''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds: Arles==
 
@@ -149,15 +141,15 @@
 ''A small covenant of Ex Miscellanea necromancers and spirit magi known as Elisii Campi dwelt within the crypts of the Alyscamps in the tenth century. Although they survived the Schism War by hiding underground, the magi were driven out by the Coenobium, who subtly flexed their growing mundane power, inciting fear in the local populace by spreading rumors of a group of diabolists living beneath the necropolis. The descendants of the necromancers apparently decamped to a secluded cave network in the Verdun gorge, naming their new covenant Portus Termini. All contact''
 ''was lost shortly after their flight, leading many to speculate that the survivors were hunted down and slain by hoplites sponsored by the Coenobium. The truth may lie hidden beneath the tombs, but many of the sarcophagi hold enchantments and traps laid by the shadowy magi and hedge wizards of the lost covenant. When an enchanted sarcophagus ends up in the possession of the characters by chance, it may provoke interest in its origin and set off an investigation into the true fate of its former owners. Will the trail lead to a secret covenant in the Verdun Gorge or will they uncover a bloodstained path leading back into the past of the Coenobium?''
 
-|]
+|}
 ''into conflict over the preceding centuries. Carved into the rock beneath the valley is the Tremais, a roughly hewn sculpture depicting three figures commonly thought to represent Saints Lazarus, Mary Magdalene and Martha. The location is considered a minor pilgrimage site with a Divine aura of 4 but the Christian shrine''
 ''lies within a larger Faerie aura of 2, as the original pre-Christian sculpture was dedicated to the Roman commander Marius, his wife, and the Syrian sibyl Martha before being adopted by missionaries seeking to convert the local populace.''
 
 ==The Camargue==
 
 ''This swampy triangle between the deltas is formed by the two terminal branches of the Rhone. Trinquetaille, the unwalled suburb of Arles on the right bank of the Grande Rhone, provides entry to the Cam''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Small Tarasque==
 
@@ -165,12 +157,10 @@
 ''+3, Tarasque +3, Cunning +2 Reputations: Savage Beast from Galacia 3 (local), Dragon Mesmerized by Hymns 2 (Narbonnais) Combat: Large Claws: Init –1, Attack +17, Defense +10, Damage +13 Large Teeth: Init –1, Attack +15, Defense +7, Damage +12 Soak: +20 Fatigue Levels: None. Wound Penalties: –1 (1–8), –3 (9–16), –5 (17–24), Incapacitated (25–32), Dead (33+) Abilities: Athletics 4 (charging), Awareness 4 (humans), Brawl 7 (claws), Hunt 4 (woods), Stealth 2 (remaining unseen), Survival 3 (forests) Powers: Unnatural Flight, 0 points, Init 0, Animal. The wings of a tarasque should not carry it through the air, but they do, and do so tirelessly. ReAn 15 R: Per, D: Sun, T: Ind. (Base 4, +2 sun, +3 size): Personal Power (25 levels), Im''
 ''proved Power (–2 Might cost, +3 Initiative.) Breath of Flame, 2 points, Init 0, Ignem. The tarasque breathes a gout of flame 3 paces by 3 paces by 9 paces long. Anything caught in its effect suffers a stress die +25 damage from the fire. CrIg 40 R: Voice, D: Mom, T: Ind. (Base 20, +2 Voice, +2 size): Greater Power (50 levels, mastery points: –2 Might cost), Improved Power: (+5 Initiative)) Encumbrance: 0 (0) Vis: There are four pawns of Animal vis in the Tarasque’s carapace. Appearance: The tarasque resembles a scaly, winged oxen with a vaguely reptilian lion’s head, six legs, a tortoise-like carapace, and a leathery tail. The full body of the creature measures roughly 15 paces long. Its legs end in heavy, sharply curved talons, and its great maw sports sword-like teeth. Wisps of pale gray smoke curl from its nostrils and open mouth.''
 
-|]
+|}
 ''argue marshes to the south. It is the site of the Coenobium’s Factory, a series of seemingly mundane warehouses that house the bulk of the covenant’s magically produced mundane wealth. Although nominally only visitors to the Coenobium, the two Bjornaer magi who''
 ''permanently dwell on the outskirts of the town spend most of their time within the marshlands of the Camargue. The diminutive Bubulcus roams the swamps astride his bull Animal Companion, usually in his egret Heartbeast form, and is the more sociable of the pair. Elornis One-Leg spends at least a sea''
 ''son a year in his North African homeland or traveling through dreams. Descended from a line of African diviners, his Heartbeast is that of a greater flamingo. Both magi are aware of the legendary horses of the Camargue led by the Great Stallion but contact is minimal (See Realms of Power: Magic, pages 59–60).''
-
-[|
 
 ==The Ogre Under the Bridge==
 
@@ -178,11 +168,15 @@
 ''and draws forth a stone appropriate for throwing. The ogre must be in an area of natural earth to use this power. ReTe 10 R: Touch, D: Mom, T: Part. (Base 4, +1 Touch, +1 Part): Lesser Power (10 levels, +3 Initiative), Improved Powers (–2 Might points) Seeming of the Menhir, 0 points, Init –6, Imaginem. The ogre takes on the semblance of a large boulder or standing stone appropriate to the area. MuCo 25 R: Per, D: Conc, T: Individual. (Base 5, +1 Conc, +3 Size): Personal Power (25 levels), Improved Powers (–3 Might points) Stealth through the Grass, 2 points, Init –4, Imaginem. The Ogre makes no sound as it moves. Its voice, thrown rocks and attacks make noise normally. PeIm 20 R: Per, D: Sun, T: Individual. (Base 3, +2 Sun, +3 Size): Personal Power (20 levels, –1 Initiative) Encumbrance: 0 (0) Vis: There are four pawns of Corpus in the skull it keeps in a net hanging on its belt. This skull has no encumbrance value and grants the bearer the Tough virtue. It serves as the Ogre’s external vis. Appearance: A very tall, brutishly strong man with heavily clawed hands and a head very reminiscent of a tusked boar. He carries the thick stump of a tree for a club, the knotted roots serving as makeshift spikes. He carries a burlap sack over one shoulder, filled with badly cooked mutton, half-full casks of poor-quality beer or wine, and several throwing stones. His forearms are stained a rusty, dark-brown up to the elbow, and the wickedly curved tusks which jut from his lower jaw are almost amber streaked with dirty brown. He wears a ragged hide for a loincloth and saddle cinch serves as his belt. One bare skull and several recently taken heads in various states of decomposition hang from the creature’s waist. He has a vicious and hungry look in his piggish squint.''
 ''Story Seed: The Ogre’s Prisoner''
 ''Some claim the ogre can be placated by leaving him a skin of wine and a sheep for each wagon or herd to cross the Pont Flavian, or with a simple sack of coins. Those who attempt to sneak across or damage the bridge are often waylaid and eaten. A Redcap, unfamiliar with the area and trying to deliver correspondence to the covenant, found himself captured by the ogre. In a panicked attempt to barter for his life, he promised the ogre that the magi would pay a ransom for his freedom—whatever the ogre desired, be it ten head of cattle, a great lump of gold, a wagon loaded with full wine casks. Unwilling to surrender his prisoner or leave the bridge, the ogre captured the next shepherd to wander nearby. The ogre made the Redcap give directions to the covenant, telling the lad he would eat a sheep for every day beyond the fourth it took the shepherd to return, and swore he’d eat the boy himself if he failed to return with the wizards. So how will the magi react when a random sheepherder arrives at their doorstep unannounced, telling them they must come to see the ogre of Pont Flavian, and perhaps pay the ransom for a Redcap they have never met? The ogre is not foolish, either. He has hidden the Redcap in a secret oubliette only he knows and has the strength to open. If the Ogre is killed before the Redcap’s ransom is paid, the Mercere will likely rot in an unconsecrated grave, lost in the hills. Complicating matters, the ogre claims to be the cousin of the Boar King (The Lion and the Lily, page 120), declaring his noble kinsman will avenge any wrong committed against him.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Ruins of Glanum==
 
 ''Nestled to the south of the medieval town of St-Remy at the site of the old Roman settlement, pre-Schism Glanum was the site of two very short-lived Hermetic settlements of the same name in the ninth century — one Mercurian, one Mithraic. Both failed abruptly due to lack of diversity in magical skills and a fanatical prejudice against accepting members not aligned to their cult’s philosophy. Neither covenant attempt lasted long enough to be formally recognized as covenants of the then Lotharingian Tribunal by having a Quaesitor review their charter.''
 ''Since the Schism War the ruins have been abandoned but have recently been proposed as the compromise location for the next Tribunal gathering (see Chapter 3: Hermetic Culture). The site is currently considered off-limits for formal resettlement until this issue has been decided. Currently only Beatrice of Guernicus dwells here as a visitor to the Coenobium. Her sanctum effectively constitutes a small chapter of Castra Solis loosely dedicated to the bipartisan study of the Roman shrines associated with the various cults that once flourished there.''
+
+|}
 
 ==The Legacy of Balthazar==
 
@@ -192,15 +186,13 @@
 ''Hermetic, Major''
 ''Balthazarine descent grants a Minor Magical Focus with Fear or Obedience, and the associated Minor Personality Flaw tends to be one of Cruel or Proud. Their granted power is usually a version of Aura of Rightful Authority (ArM5, page 151) but with Duration Sun and no Penetration, invoked without words by adopting an overly haughty pose. See ArM5, page 47 for further details on the Mythic Blood Virtue.''
 
-|]
-
 ==St Gilles-du-Gard==
 
 ''Based on a hermitage founded by St Giles (Aegidius) in the seventh century, this Benedictine monastery is the first stopping point on the Via Tolosena from Arles. As a waypoint within a day’s journey on the Way of St James''
 ''to Santiago de Compostela (see Chapter 5: Gascony, for further details), the abbey and dependent town have become an important pilgrimage site in their own right and are famous as the birthplace and family holdings of the recent counts of Toulouse. The crypt holding the relics of St Giles is frequented by barren women wishing to''
 ''become pregnant, although cripples are also found seeking the saint’s intercession on his feast day, the first day of September. Just outside St Gilles on the banks of the Rhone lies the scene of Peter of Castelnaudry’s assassination. The ford at which the papal legate was slain, perhaps by a demon, perhaps by one of Raimond VI’s supporters, is still stained''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Le Chevre D’Or==
 
@@ -220,7 +212,7 @@
 ''The magical salt produced by evaporation in this secret pond acts as a special form of Dedicated Corpus Vis (See Realms of Power: Magic, pages 122–123). A pawn of this vis allows a magus to add +2 to their Creo Corpus total during the creation of their Longevity Ritual, regardless of the magus’ Magic Theory score. Only''
 ''one pawn of this vis can be used per Longevity Ritual, although it counts as one of the pawns needed. Control of this small vis source, which produces only 1 to 3 pawns of vis per year of the salt, provides a valuable trade commodity to the Coenobium, who exchange the harvest with a research covenant in the Greater Alps, in return for favors for its elder magi. Threatening this supply is likely to provoke an extreme response from the otherwise politically aloof magi, and is a weakness that might be exploited by opponents of the Coenobium. Salt: +5 preservation, +3 protection from evil spirits and demons''
 
-|]
+|}
 ''by an Infernal aura of 3. On the anniversary of Peter’s death, the Rhone runs red like blood and small skull-shaped pebbles can be harvested for several pawns of Corpus vis, but the vis obtained is always Infernally tainted (see Realms of Power: the Infernal, pages 18–19).''
 
 ==Orange==
@@ -245,15 +237,15 @@
 ==Toulon==
 
 ''Nestled beneath the slopes of Mount Faron, this town was known in ancient writings for its dye-making from the earliest Phoenician settlements in the area. Its beaches are one of the few sources of the rare murex shellfish vital for producing imperial (true) purple, and the oak groves on the hillsides above maintain the kermes beetle that produces an almost as valuable crimson dye when crushed.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Green Magi in the Trees==
 
 ''Visitors who spend the night sleeping beneath the boughs of Yf report dreaming of green robed magi who disappear into the shadows whispering threats of vengeance. The Diedne of Yf used this site for their pagan rituals, but unlike their fellows further north, it was the Moors sponsored by Fraxinetum rather''
 ''than the local Flambeau who spilled their blood amidst the groves. Characters who investigate the area looking to speak with pre-Schism War ghosts or uncover clues about their non-Hermetic secrets arouse the suspicion of the Chief Quaesitor elect and her Mercurian allies if they attempt to settle at the site.''
 
-|]
+|}
 ''The Coenobium maintains a small chapter house here at the location of the former Flambeau covenant of Telo Martius, run by a retired Redcap. Aloysius Porphyri is an unGifted alchemist who coordinates the harvesting of the two resources here and runs one of the dye-making works from the Coenobium’s factory outside the town.''
 ''Of Purple and of Crimson''
 ''The true purple dye produced from the murex shellfish by the Coenobium here was reserved for the sole use of the Byzantine emperors in pre-Hermetic times, but now only some of the dye makes its way eastwards, as the covenant keeps a portion of the factory’s product for their own magical purposes. See The Sundered Eagle: the Theban Tribunal, page 45 for details of the value of true purple in the Byzantine lands. In contrast, the violent crimson produced from the crushed kermes beetle is more widely distributed and is particularly favored by hoplites and magi of Flambeau for their clothing, although it has less magical potency. The Coenobium’s magically aided extraction process gives them a competitive advantage compared to other suppliers, but they are careful not to flood the market and draw mundane attention to their activities. Rare examples of the shells and oak-loving beetles contain small amounts of Imaginem vis, which is harvested by Aloysius while overseeing the dye-making process. Purple (murex) dye: +10 royalty, +7 rulership and authority, +5 control people Crimson (kermes) dye: +7 violence, +4 courage and martyrdom, +3 sin''
@@ -266,8 +258,6 @@
 ''La Garde-Freinet''
 ''The original site of the covenant of Fraxinetum (see earlier for further details) lies almost inaccessible within the billowing crystalline summits of the region. Before the raider magi were forced to flee the consequences of their excessive mundane interference, this village above St Tropez amidst''
 
-[|
-
 ==The Pirate Isles==
 
 ''Although no longer based in the original fraxinet in the Massif des Maures, the latest heirs of the Hermetic privateers have moved their base to the islands just off the southern coast. They continue to sponsor mundane raids on the coastal cities of Provence and disrupt the Catalan and Genoan ships plying their trade along the coast. Ahmad’s ships are careful to target non-Hermetic shipping, relying on carefully placed mudnane spies to give the fleet of the Coenobium a wide berth. Currently, there are only two Moorish magi dwelling at the pirate’s main base amidst the lavender, although they can be found at occasionally harvesting vis sources scattered along the small islands of the southern Provence coastline, including the deserted Diedne base at Yf. A third magus has established a sanctum on one of the larger ships used by the magi’s shady associates. The group have yet to declare themselves a Provençal covenant at Tribunal out of concern that the specter of their ancestors may provoke an unmitigated Wizard’s War against them.''
@@ -279,15 +269,11 @@
 ''Dioscorides of Anazarba first described this plant, stoechas, in his great medical work, De Materia Medica as a slender herb with leaves longer longer than thyme. Since its introduction from the Hyeres islands to the mainland by Charlemagne in the ninth century, the herb has become a standard in monastic physic gardens. Its use is integral to the folk magic practices of southeastern France, where it is still called by its ancient name. Lavender: +3 cleansing / purification or healing, +5 protection from evil spirits''
 ''Lavender of Virtue''
 ''Unenriched Lavender of Virtue contain 1 pawns of Rego vis. Proper enrichment requires a time consuming process of sun drying the herb within an open barn during the winter rages of the Mistral. The twigs are then bound using twine into a small poesy and steeped in the venom of an asp for a season to activate the magic. The finished amulet grants the Major Virtue Greater Immunity (one major disease) to any wearer without Magic Resistance so long as he or she can smell the herb’s scent (equivalent to a Necessary Condition). The herb’s magic only lasts a single year and it confers Warping Points on the wearer as a constant effect of Low Power (ArM5, page 168). If mounted above the lintel of a room, the amulet grants its protection to those in the chamber beyond while they recover within.''
-
-|]
 ''an encircling forest of cork, oak and chestnuts was their base. Still dominated by the ruins of the old covenant fort, the razed site retains a Magic aura of 4. A palisade of densely packed ash trees created by the Herbam specialists surrounds the former covenant grounds. Remnants of the defensive rituals of the magi animate the larger ash trees to repel intruders that pass the outer perimeter, giving rise to stories of ghosts haunting the area and keeping the local peasants from looting the Hermetic ruins.''
 
 ==Mount Ventoux==
 
 ''The “Home of the Winds,” this bald mountain marks the northern boundary of Provence and dominates the surrounding plains, and has long had an evil reputation as the source of the Mistral, the famous wind of Provence. Various chapels are built on its lower slopes, including a pair of chapels and a guard tower at Beumont-du-Ventoux and the large monastery of Notre-Dame-du-Groseau. Further north lies the Source du Groseau, a magical spring pouring from the cliff-face dedicated to the Celtic spring-deity Groselos and a potential source of Aquam vis. The upper slopes of the mountain are covered by a strong Magic aura of level 7 that rises into a regio of level 9 as a climber ascends to the gravelly summit. The wind is constantly blowing here, reaching frightening speeds and''
-
-[|
 
 ==Story Seed: The Mistral==
 
@@ -297,8 +283,6 @@
 ''with the greater daimon or the Faerie lord. To do so they will have to petition the hostile Mistrau to gain entrance. Its chosen challenge is for a wizard or mundane to best one of his Faerie champions in capturing two ephemeral concepts from Arcadia: the last breath of Winter and the first exhalation of Spring.''
 ''An Infernal Breeze''
 ''The storyguide may decide that either the daimon Ventoux or the Faerie lord Mistrau is better represented by an Infernal spirit that seeks to corrupt both Hermetic and hedge elementalist traditions. Player magi drawn to Mount Ventoux by its legends may then be readily deceived they are dealing with a Faerie rather than an Infernal entity and be led into corruption. Using an Infernal pact, the demon hopes to spread his influence beyond the Rhone Valley and create a miasma of corruption that will eventually infect all elementalist traditions throughout the Order. In this scenario, Mistrau is a similarly named demon of the Order of Aerial Powers of similar Might to his Faerie counterpart. To date, the demon has been partly contained by the prayers and hymns of the nearby monks of Notre-Dame-du-Groseau.''
-
-|]
 ''preventing any vegetation from taking hold. The regio above the peak is home to numerous air spirits of varying Might ruled by a greater Daimon referred to as Ventoux. This elder spirit periodically looses his lesser kin to wreak havoc on the surrounding countryside, adding substance to the folktales of the hill as a source of malevolent spirits.''
 
 ==Forcalquier==
@@ -316,8 +300,8 @@
 ''despoiled by the 14th abbot, St Nazarius, lies hidden in a cave network beneath the sister convent of St Marguerite on the smaller island, named St Marguerite after the convent. It contains a weak Magic aura of 2 still. Also on the island is an unusual almond tree which blossoms every month — its blooms can be collected and crushed to produce 1 pawn of Mentem vis per month, but the vis produced is Divinely tainted (see ArM5, page 190).''
 ''Tropaeum Alpium''
 ''Originally this structure was nothing more than a circular arched monument dedicated to the defeat of the Gaulish tribes at the hands of the imperial legions. It once marked the boundary of Roman Italy on the Via Julia Augusta. This Trophy of Augustus later became a fortress and redoubt to protect the inhabitants in times of attack. By tradition, it still marks the easternmost limit of the Provençal Tribunal, although the town of Turbia is currently under the influence of the nearby Republic of Genoa and considered politically and linguistically part of mundane Liguria.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Ghosts of the Garagai Gorge==
 
@@ -329,7 +313,7 @@
 ''Pope Urban II reconsecrated the local cathedral of St Apollinaris in 1095 after it was rebuilt in the Cluniac Romanesque style. Built into a column in its ambulatory is a milestone from the Via Agrippa roadway that carries an inscription in Latin attributing its sponsorship to Florentius Niger, a Roman senator believed to have been a priest of the Cult of Mercury. The inscription strongly radiates non-Hermet''
 ''ic magic. It may contain an Insight into the ancient Mercurian Road Magic of the original Mercurian priests or a clue to the whereabouts of a lost Mercurian temple. Studying the milestone in its current position is difficult, but removing the block is sure to be noticed and will trigger the church authorities to investigate the theft. Is there a solution that will keep the priests fooled?''
 
-|]
+|}
 ''A partial statue of Augustus stands inside the monument, mostly smashed by Christian mobs who thought the Tropaeum was a pagan temple possibly dedicated to the cult of the Emperors. The site was investigated by the predominantly Mercurian magi of the short-lived covenant of Turris Mascis (“Tower of the Masques”), but the fruits of their investigation have been lost. Stones from the monument have been used throughout the village for building, although any magical effects are suppressed by the strength 3 Divine aura of the nearby church of St Michael.''
 
 ==Lower Burgundy==
@@ -361,8 +345,6 @@
 ''contacts and influence with the local nobility in defense of their own safety, the mainly Jerbiton magi were behind the marshaling of the army under William I of Provence that drove the Saracens from their strongholds in the Massif des Maures. Despite narrowly escaping the wrath of the Quaesitores for infringing the Code by destroying the rogue covenant of Fraxinetum, the many advantages of the league outweighed any benefits of disbanding.''
 ''The victorious magi continued a policy of mutual cooperation and nepotism to their advantage, gradually gaining control of or influence over the majority of magical and mundane resources within the County of Provence. They justify the use of this hegemony as a means of ensuring their own pursuits are not compromised by being caught unprepared by Hermetic aggression a second time. Although not a direct threat to any of the other covenants of Provençal,''
 
-[|
-
 ==The Lost Chapters of Portus Cottiae==
 
 ''An ostracized Mercurian magus from the Greater Alps originally founded this fallen covenant in the Cottian Alps. Established in 821 by Julius Donnus of Flambeau just outside Briancon, near the border of the Roman Tribunal, it was intended to serve as an alternative home to Harco for the revived Cult of Mercury. The main site commanded the descent from the Col de Montgenevre pass for travelers coming from the Piedmont in the east. Built in the Roman style of a Greater Alps covenant, it controlled the trade routes along the upper Durance valley. At its height it had established chapter houses maintained by officers known as a mansionarii at Gap, Chorges, Embrun, and a border-post at Oulx on the Redcap route following the old Via Domitia through the mountains down the valley of the Dora Riparia into the western Piedmont. Portus Cottiae was one of the first of the former Lotharingian covenants to fall to the Saracen raiders in 906 when Berber mountaineers overran its divided turb and forced the geographically separated magi to flee south along the Durance. The surviving maga, Anaïs of Jerbiton, retreated to the relative safety of Avignon, becoming one of the most strident voices calling for the Hermetic hegemony that resulted in the Coenobium.''
@@ -370,8 +352,6 @@
 ''The main site of Portus Cottiae and the three chapter locations may be suitable covenant locations for young magi wishing to found a new covenant or chapter of the Coenobium (see later), but each''
 ''has its own challenges. In addition, the heirs of Anaïs may oppose any interloping magi, either through legal means or by discreet attacks in an attempt to disrupt the resettlement. Brigantium: The “motherhouse” of the covenant was near Briancon, built just above the town into the cliffs overlooking the Guisane River before it joins the Durance. The desperate magi there collapsed the mountainside above on the Saracen raiders but inadvertently entombed themselves within their own sancta. Accessing the laboratories and council chambers may require shifting large amounts of stone but will evoke the ire of both the ghosts of the former magi and the malevolent Infernal shades of their attackers, which may prove a much more serious obstacle. The Mercere Portal lies buried beneath the rocks and could be uncovered and reactivated. Caturigomagus: An isolated sanctum lies beneath the ruined Roman mansio (way station), one day’s travel beyond Chorges and their Roman ruins. Once belonging to a Merinita magus who fled at the raiders’ approach only to be slain, the area has attracted three local faeries known as dememoilles, a Provençal variant of lesser White Ladies (see Realms of Power: Faerie, pages 82– 83). Any attempts to recover the magus’s trove of books of Faerie magic will require dealing with this trio of seductive creatures. Vapincum: The site at Gap was the rallying point for the few survivors of the Saracen attacks and escaped the attacks due to its concealed position. Built beneath the crypts under the cathedral within an old temple to Apollo, formerly maintained by the Cult of Mercury, this chapter’s weak Magic aura is suppressed by the Divine aura of the Christian build''
 ''ing. Reusing the abandoned site just beneath the gaze of the Dominion will limit magical development unless its aura can be strengthened without noticeably interfering with the bishop’s church. Ebrodunum: The Embrun chapter was nothing more than a stabling point for the covenfolk and traveling Redcaps. A former mansio in ancient times like the sanctum at Chorges, a hidden shrine to Mercury once lay beneath the cathedral. The stones have since been used in construction of the new church however and its Magic aura has long faded. Unlike the other sites, there are no magical resources to be harvested here. Several mundane descendents of the covenfolk may have inherited lost records or books from the covenant library, however, and may help magi seeking to refound the settlement. Known as a site of pilgrimage since the remains of St Nazarius were transferred here in the fifth century, the priests of the newly completed Romanesque cathedral are suspicious of the pagan scholars that used to dwell here. They may actively obstruct any attempts to enlist the townsfolk in what they see as an attempt at a pagan revival. Ulcium: Founded within the precincts of a temple to Mars Ultor, this site at Oulx controlled the Col du Mont Cenis pass used by Hannibal and then Charlemagne to invade the area that is now Lombardy. The old Mercurian cult temple to Mars can be accessed through a regio in the ruins above the small village. Although the most physically isolated, it is perhaps the easiest to resettle. Its position on the border with the Roman Tribunal may have unwelcome political consequences as older neighboring covenants feel their local vis sources threatened.''
-
-|]
 ''the considerable mundane resources and influence of the Coenobium makes it a potentially powerful enemy if it regards its collective interests as being threatened.''
 
 ==Setting & Description==
@@ -383,8 +363,8 @@
 ''at night. Many of the areas designated as visiting magi’s laboratories are located underground beneath the nearby Isle of Barthelasse to take advantage of the weak Magic aura of 3 that covers the extensive northern reaches of the island. The occasional flooding of the Rhone makes this a difficult prospect at times. The entrance to the subterranean laboratory of Nicodemus lies beneath the second pier. The remainder of the bridge beyond the chapel of St Nicholas is sometimes used by the members of the former covenant of Sub Pontem for their urban magical activities as it lies just beyond the edge of the strength 3 Divine aura generated by the city and the abbey across the stream. It has a weak Magic aura of 2 generated by the flowing of the captive Rhone spirits beneath its arches. One of the laboratory barges of the covenant is usually moored on the downstream side of one of the western piers.''
 ''Arles: the Mercer House at St Cyprian’s''
 ''A whore-house built within an old pilgrim’s auberge dedicated to St Cyprian just''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Carthusian Order==
 
@@ -397,7 +377,7 @@
 ''Story Seed: The Monk’s Apprentice''
 ''The former Romualdus has discovered that an awkward and shy younger novice, Brother Jude, has both True Faith and The Gift, making him a potential apprentice for a holy magus. The ex-magus has only formed a friendship with the younger man at this stage but fears that the monk may be in danger of being claimed as a Hermetic apprentice if word gets out of his Gift. Perhaps the retired Jerbiton can persuade a Bonisagus magus to intervene on his behalf and then help train the young monk, or will his new principles forfeit his chances?''
 
-|]
+|}
 ''within the city walls, Alazais’s headquarters acts as the meeting place of the covenant’s Redcaps and Jerbiton magi, who often enjoy the earthy diversions on offer once their official business has been concluded. Beneath the old auberge and client rooms are a series of chambers where the covenfolk can conduct more discreet business, although the city’s Divine aura prevents the development of a Magic aura and the site therefore lacks an Aegis, instead relying on the prevailing Divine aura. An archway etched with magical inscriptions links one of the chambers with the complex beneath the Isle de Barthelasse outside of Avignon.''
 ''The Camargue: the Factory at Trinquetaille''
 ''The large warehouse that stores the Coenobium’s mundane wealth is likewise often referred to as the Factory, although similar smaller complexes are maintained by other merchant groups. Extending several levels below ground, the structure provides a maximum of storage without provoking mundane suspicion. The complex includes a heavily warded area within the established secondary Aegis to contain the more dangerous and exotic items and captive creatures that pass through the covenant’s hands. Only patrons are allowed to participate in the Aegis ritual for the Factory. The handful of tokens produced each year are closely controlled by the First Consul. Several of the more intensive industrial processes involved in maintaining the covenant’s mundane wealth are discreetly located here, their magical augmentation or replacement of traditional methods being kept from prying mundane eyes by subtle wards or traps that trigger memory erasing spells.''
@@ -410,15 +390,15 @@
 ''Alazais of Mercere, Chief Redcap and First Consul of the Coenobium''
 ''Age: 59 (Apparent Age: 27) Personality Traits: Ambitious +6, Wily +3, Patient +2''
 ''Claiming descent from Helen of Troy, the First Consul and Chief Redcap wears a tragic mask once favored by classical actors. She never removes her mask except in the presence of magi or her lover, an unGifted folk witch ally of the Coenobium for whom''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Is the Coenobium in Good Taste?==
 
 ''The Jerbiton and affiliated magi of the Coenobium consider that they strive to live tastefully, according to the philosophy of their House (see Houses of Hermes: Societates, pages 44–51), but to other Jerbiton their pragmatic approach of magically dominating the nobility, mundane resources, and hedge wizards of their hinterland may seem ugly. The Coenobium consuls counter that their highly organized management of their magical and mundane resources allows them the opportunity to live more''
 ''tastefully by freeing up their time to engage in leisure, intrigue, travel, and the practice of good etiquette. By generously offering hospitality to specialist magi who perform the less tasteful tasks of running a covenant such as defense, magical research, and the maintenance of their mundane resources, they hope to encourage their sodales to learn from their example and move away from the traditions of the more unpleasant Founders that dominate much of the Order’s contemporary culture.''
 
-|]
+|}
 
 ==Notes on Urban Magic and the Island of Barthelasse As the majority of the Coenobium’s holdings lie within the urban communes of the Rhone valley, overt magic use is more limited than at most covenants. The townhouses and business fronts of the covenant are strategically located in or near the various small lacunae or areas of non-Divine auras within the towns. An exception is the ever-shifting midstream island of Barthelasse, extending upstream from the arches of the Pont==
 
@@ -438,22 +418,20 @@
 ''Xiphos filia Damocles of Jerbiton''
 ''Age: 73 (Apparent Age: 54) Personality Traits: Ill-tempered +3, Intolerant +2, Cruel +2''
 ''This disgraced Terram master hoplite, hailing from beyond the Provençal Tribunal, was expelled from House Guernicus for repeated behavior unbecoming for a hoplite. At the unexpected insistence of Primus''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Masques of the Coenobium==
 
 ''Although Hermetic magi have long dominated the southern Rhone valley and the coast of Provence, they have chosen not to supplant the local hedge wizards or masques but instead foster the lesser witches and magicians of the area. This arrangement has proved beneficial to both groups over the last two centuries, although the Hermetic magi remain the dominant partners in the alliance. The network of folk-witches, cunning folk, faerie doctors, and herbalists relies on the wider covenant for protection from the mundane authorities and Hermetic aggression. In return they pro''
 ''vide a network of unGifted informants and agents throughout the southern coast and Alpine foothills that helps protect the covenant’s extensive mundane interests while allowing the magi to remain within the letter of the Code. The allied masques also harvest and protect vis sources in the area, provide minor protective amulets and charms to the covenfolk and other agents of the covenant, and increase the magi’s influence over the mundane folk of the local area. The Coenobium may be an appropriate base for troupes wishing to try their hand at a non-Hermetic saga.''
 
-|]
+|}
 ''Andru of Jerbiton, she has been grudgingly accepted into House Jerbiton and given a chance to reform. The exact details of her pardon are uncertain, but she appears bound to the provision that she use her talents to support the stability of the Coenobium. Her less martial Housemates may pursue their concepts of Beauty and Taste, but they do so with minimal disruption from magical threats due to her efforts. Xiphos claims descent from a legendary''
 ''Guernicus Terrae-magus known as Adamantius, and has almost complete mastery over metal and blades.''
 ''Lavandarius the Pralician, Ex Miscellanea''
 ''Age: 67 (Apparent Age: 38) Personality Traits: Cautious +3, Diplomatic +2, Charming +2''
 ''This wizard is the current liaison between the Coenobium and their hedge wizard allies. A Gifted student of one of the local herbalist traditions, he was adopted by his Pralician parens as her second Hermetic apprentice. Lavandarius’s lineage has been responsible for the extensive integration of hedge wizards from the local area into the covenant’s roster. This policy is supported by Alazais but is considered wildly unorthodox by more conservative magi of''
-
-[|
 
 ==Saga Seeds: Joining the Coenobium==
 
@@ -465,8 +443,6 @@
 ''sought, as the consuls find that their needs are often better met by more unusual magics and are distrustful of the uglier traditional philosophies of Flambeau, Tremere, and Tytalus magi. Characters with skill at wards, transportation magic or weather magic are particularly desired, although a non-Tremere certamen champion would be considered a valuable asset to help further Alazais’ goals. Magi with aptitude in Teaching are also highly sought to help train the Jerbiton apprentices, as their masters may not have developed their Arts scores sufficiently due to their preferred pursuit of non-magical fields of study.''
 ''Reclaim a Lost Site or Resource of Value''
 ''In the aftermath of the Wizard’s War against the magi of Fraxinetum and the rise of the Coenobium, many of the former covenant sites of the founding magi were abandoned as the community closed ranks and established itself. Some locations have been restored or converted into chapters occupied by a single magus but there are still many eligible resources that need attention. Reclaiming the Alpine sites or the nearby Barbegal mill-complex are both projects that would readily attract a sponsor. Either would be a great boon to the Coenobium, which has some difficulty accessing sites with high Magic auras. Magi who establish a chapter house under the patronage of one of the existing consuls and demonstrate their worth, will be in a good position to petition for official membership or even declare themselves independent of the Coenobium.''
-
-|]
 ''the northern Tribunals of Normandy and the Rhine in particular. Although officially one of the few nonJerbiton consuls, he is not assigned to visiting magi as a patron, but has been given extended responsibility over the more powerful hedge magicians that visit the towns controlled by the Coenobium. He is continuing his mater’s work toward integrating the herbalist’s folk practices into standard Hermetic Theory. Progress has been slow. His familiar is a common asp he discovered amidst the lavender fields of the Hyeres.''
 ''Argentius of Mercere, the Invited Redcap''
 ''Age: 49 (Apparent Age: 41) Personality Traits: Wrathful +3, Gloomy +2, Pious +2''
@@ -484,5 +460,6 @@
 ''The Jerbiton magi of the Coenobium take their duties as hosts to magi visiting one of their towns on the Rhone very seriously, priding themselves on their covenant’s welcoming reputation. All guests are offered food, lodgings and laboratory space if requested. The consuls select one of their number to act as patron for the guest for the duration of their stay, an honor usually reserved for Jerbiton magi. In return for their goodwill and support, the Coenobium expects visiting magi to:''
 ''• introduce themselves properly, preferably announcing their intention to visit beforehand by Redcap • bring a small gift, traditionally a silver florin containing one pawn of vis • state the purpose of their visit and its likely duration, informing their patron when they are leaving • conduct themselves with decorum and restraint at all times, aiding their patron if asked • leave immediately if requested.''
 ''The chosen patron is expected to familiarize the visitor with these expectations of courtesy and is responsible for the actions of the visitor during their stay. In addition, the patron is required to protect the guest from harm or inconvenience and present them with a symbolic gift on their departure. Although it carries more responsibility than tangible benefit, patrons are highly regarded by the other members of the Coenobium for their sacrifice. They may call upon other members of the covenant to support them in their duties or otherwise ask for a season of service to be waived in return for their time and effort.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

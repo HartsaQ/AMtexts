@@ -1,5 +1,3 @@
-
-[|
 ''This chapter lists products of many industries that a troupe might select as covenant income sources. It also includes luxurious items, suitable as rewards for characters who complete difficult stories, or as the materials for Hermetic enchantment. Commodities can be divided into three classes: bulk goods, manufactured goods, and luxury goods.''
 
 ==Bulk Goods==
@@ -17,8 +15,6 @@
 ''The usual fuel in Europe is wood. In some areas it is floated, unprocessed, downriver to mills close to its consumers. Merchants floating wood to a destination can sometimes just leave it in the water, guiding it with lines trailing from a boat.''
 ''Charcoal, which is the average fuel given on the price table, is wood that has been heated for a prolonged time to reduce its moisture content.''
 ''Coal is such a heavy commodity, relative to its value, that it is only exported from those places where it lies very close to a river or sea. It is often called “sea coal” by Mythic Europeans. Coal mining requires enormous quantities of wood, for bracing, and there are many coal deposits that Hermetic magi could make profitable with magic that are''
-
-|]
 ''currently unexploited due to a lack of cheap bracing material. Sea coal is exported from northern England and the Rhineland, but is unknown in many parts of Europe, where charcoal is used instead.''
 ''Copper is a soft, reddish metal named after the island of Cyprus. In ancient times, it was forged into bronze weapons, but in Mythic Europe is primarily used to debase silver. The alloy of silver and copper is called bullion and is far more durable than pure silver, although it tarnishes rapidly. Bullion jewelry is usually 10% copper, but coins, which have suffered frequent debasements, may be up to 90% copper.''
 ''Copper is also used to make bronzeware and brassware, to make certain colors of dye, and to stain glass. Copper is also used as a less expensive alternative to silver or gold in enameling. It is traditional to make weathervanes from copper, particularly those shaped like roosters.''
@@ -293,6 +289,9 @@
 ''Eastern coins are based on the same Roman currency that Charlemagne used, but in a different way. The Roman solidus wasn’t silver, but gold, a commodity too rare for the many coins that Charlemagne minted. But gold wasn’t rare in the East, and the Arabs and Byzantines could continue the tradition of gold coins. A bezant, or “solidus of Byzantium” is a gold coin, as is the Arabic denar (denarius with the Latin “ius” removed). Both gold coins are worth approximately 10 western shillings.''
 ''In the West, a Mythic Pound equals 20 Mythic Shillings and 240 Mythic Pennies. In the East, a Mythic Pound equals two Mythic Bezants or Denars.''
 
+==Appendix==
+
+
 =Price List=
 
 ''Prices for a fixed good fluctuate across Mythic Europe, depending on the availability of raw materials in an area and the proclivities of the craftsmen living there. Still, a hierarchy of prices exists, and shoes are''
@@ -347,5 +346,6 @@
 ''Superior x2''
 ''Excellent x5''
 ''Wondrous x5 or more''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

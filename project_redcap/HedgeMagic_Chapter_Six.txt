@@ -47,13 +47,13 @@
 ''Nightwalkers use this Ability to detect their foes while awake. In northern Italy, they also use this ability to break curses. The Infernal witches indigenous to that  area and to many others create curses that require small charms to remain near their victims for the effect to continue. While patrolling their villages, nightwalkers can detect these curse anchors and note their location. The following day, when they awaken, the nightwalkers remove these charms. Some nightwalkers break curses using cthonic powers, as described in the supplement Realms of Power: The Infernal.''
 ''Flaws Nightwalkers Often Possess''
 ''The following Flaws are common among nightwalkers, but aren’t required for any tradition: Compulsion (to fight the battle in waking life), Dark Secret (lives in a community that persecutes nightwalkers as infernalists), Dependent, Diabolic Past (it’s possible for nightwalkers to change sides in most traditions, but difficult.), Dutybound (night battles), Enemies (local Infernal witch), Higher Purpose (fighting evil), Nocturnal, Oath of Fealty (to''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Born With a Caul''
 ''In most of the traditions, potential nightwalkers are born with a caul. That is, most nightwalkers are born with a hood of membrane. This must be kept, and is given to the nightwalker by his or her parents. In some traditions, a nightwalker who loses his caul loses his powers until he regains it. This weakness may be taken as a Major Story Flaw. In those areas where nightwalkers are common, when the parents give their child a caul they usually also tell him what little they know about the night battles. Knowledge of the nightwalkers is an (Organization) Lore, but characters who have not mustered for fertility battles rarely have a score higher than 1. Having a caul, by birth or purchase, grants any of the properties below, each purchased as a Virtue. Caul-based Virtues are frequently found among nightwalkers, but are not required for membership of any nightwalker tradition.''
 ''Immunity to Drowning (Major, ArM5, page 43). The character is immune to drowning, but this does not actually allow him to breathe underwater. He simply floats unconscious to the nearest shore if he would otherwise drown. Luck (Minor, ArM5, page 45) Self-Confidence (Minor, ArM5, page 48) Strong-Willed (Minor, ArM5, page 49) Being born with a caul, regardless of whether it has been retained, often grants one of the following Virtues: Dowsing (Minor, ArM5, page 41) Second Sight (Minor, ArM5, page 48) Weather Sense (Minor), The character has an intuitive understanding of the weather, identical in effect to the spell Sailor’s Foretaste of the Morrow (ArM5, page 127). The character needs only to concentrate to use this ability: it does not require a roll.''
 
-|]
+|}
 ''the group’s supernatural patron), Plagued by Supernatural Entities (demons seeking revenge for being thrashed, or the dead seeking rest), Supernatural Nuisance (as previous).''
 ''Powers in Detail''
 ''The magical power that defines these hedge traditions, called ekstasis or “straying,” allows a magician to send forth his spirit while unconscious. Straying is more common in people who are loosely linked to human society: outcasts, children, the mentally ill, the incorrectly baptized, and the painfully shy. It is a power that arises without training, and has no corresponding Ability, because characters do not become better at straying over time through practice.''
@@ -87,14 +87,14 @@
 ''Result Location 3 Places the character sees daily. 6 Places seen in the last week. 9 Places the character has seen within the last year. 12 Places that the character has not been in the last year, but has visited and to which he knows the mundane route. 15 Places that the character has never been, but to which he knows the mundane route or has an Arcane Connection.''
 ''A character who fails this roll awakens exhausted, but may repeat the attempt once he gains better information about the route to his destination. The following attempts at spirit travel are automatically successful:''
 ''•	 Traveling to the location of one’s own caul, in those traditions where nightwalkers are born with cauls. •	 In those traditions that are summoned or led to battle or procession, traveling to the location to which the character is summoned or led.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Combat Statistics for Animal Phantastica''
 ''To design a character’s animal phantasticum, use the following system.''
 ''Base Statistics: Find the statistics for the animal species in the Book of Mundane Beasts appendix found in Realms of Power: Magic , or use the rules in House of Hermes: Mystery Cults to design the mundane animal. The statistics for the five most common shapes used for combat are given in an insert. Characteristics: The character has the same Intelligence score in both forms. For all other Characteristics, if both the species and character have a negative score, use the lowest score. If both the species and the character have a positive score, use the highest. If the character and the species have one positive and one negative score, add the two scores.''
 ''Size: If the character has a Virtue or Flaw affecting Size, it changes the Size of the animal form. Virtues and Flaws: Apply all Virtues and Flaws related to the character’s human body to the animal form. For example, Missing Eye. Abilities: Use the General Abilities of the species. Human abilities cannot be accessed in animal form, except those that are used to know or understand. The character may communicate with animals of similar aspect and diet. Experience: Characters spending prolonged periods in animal form may spend experience on the Abilities of the animal form. This usually requires the Versatile Phantasticum Virtue. Combat: The combat statistics now need to be adjusted to suit the character’s Brawl score.''
 
-|]
+|}
 ''•	 Traveling to the character’s True Love, or leading another to his or her True Love. •	 Following a known route, at conventional speed. A nightwalker strolling through his village in phantastic form, for example, need not roll.''
 
 ===Communication Through Straying===
@@ -118,13 +118,13 @@
 ===Giving Battle===
 
 ''The night battles vary slightly between regions. In some places, the nightwalkers fight as drilled military units of infantry, while in others the individuals of each cause square off in a chaotic mêlée. Followers of a few traditions retain their animal forms during battle, and similarly, a small number ride''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Covenants Supplement Modifiers''
 ''Sagas using the Covenants supplement may simulate the effects of fertility battles by selecting the appropriate outcome on the Income Modification Table on page 57 of that book. This selection replaces the stress die roll.''
 ''Battle Outcome Result Favoured side utterly defeated and harried through the countryside. Slump Favoured side routed. Contraction Favoured side forced to flee the field in good order. Stagnation Favoured side wins the field. Status Quo Favoured side routs its enemies, who flee in disarray. Growth Favoured side harries routed enemies through the night. Expansion Favoured side traps and annihilates every member of enemy militia. Boom''
 
-|]
+|}
 ''combat-worthy steeds, like horses. If a player’s character is part of a militia that is fighting as a disciplined group, then the player rolls on behalf of that group. If the player’s character is particularly formidable, the character may be the vanguard. A character is not the leader of the group unless he has become its leader through a story event. If the two sides are fighting as individuals, the character must seek and defeat enemies on the battlefield. A Perception + Awareness roll of 9 or more will allow the character to seek an enemy of similar or lesser skill, or, if the player desires, one of the champions of the rival host. A character wishing to attack the captain of the other army can always find him on the field: generally a pennant marks his position. Some enemy captains lead their forces into battle, but most are protected by the ranks of their followers. In those areas where the nightwalkers battle the forces of evil, the enemy captains are usually powerful Infernal ghosts, minor diabolists, or lesser demons. For example, in a particular battle a character with a human phantasticum uses a bunch of a sacred herb as a club to thrash an enemy. The nightwalker risks being beaten in return. Some nightwalkers fight in animal form, and those servants of evil that are not Infernal witches may have unusual weapons. The fighting continues until one side flees the field. Wounds taken in the night battles appear on the sleeping forms of the nightwalkers. Those who have been soundly thrashed may feel tired and sore for days, and may be covered in bruises.''
 
 ===Death in Night Battles===
@@ -147,8 +147,8 @@
 ===Returning Home===
 
 ''While returning home from a battle, nightwalkers travel slowly through their communities in invisible, incorporeal form. This allows them a leisurely examination of their neighborhood with Second Sight or Sense Unholiness. If they find cursed objects or injured people, they either fix these problems immediately or, more usually, remember to mend the problem during waking hours. Returning nightwalkers often take spiritual nourishment so that they suffer Long Term Fatigue for a briefer time. The form of spiritual nourishment varies between nightwalking traditions. Some traditions claim that after battles Infernal witches slip into cellars, drink the wine, and urinate in it. This curses the wine, so that it is destined to be spilled. The nightwalkers protect the wine by slipping into the cellar and sampling it first. As they are in spiritual form, this sampling does not diminish the quantity of the wine. Protecting, or spoiling, wine in this way raises the spirits of the nightwalkers, so that they regain the Fatigue lost in the battle more quickly. In other regions, on the nights when the Infernal witches and nightwalkers make war, some people leave pails of water on their doorsteps. Fighting Infernal witches is hot and thirsty work, and leaving water gives thanks to the nightwalkers for their protection. It also allows the nightwalkers and Infernal witches to rest and regain a level of lost Fatigue. This convinces some Infernal witches not to sample the wine in the cellar of that particular house. In other, far rarer, cases, people lay out meals that are eaten spiritually by nightwalkers. In many of these communities, the meals are thought to be for the faeries or the dead. Many of the lycanthrope traditions worry sheep or cattle to refresh themselves. These livestock do not die after their spirits have been sampled, but many lose their strength so that they are no longer suitable as plow or stud animals. Other traditions hunt deer instead, to lessen the impact on their community. In some rare cases, animals become stronger after they have been spiritually consumed.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: Saving the Falsely Accused''
 ''There is a folktale that describes a strategy of the Infernal. A nightwalker cut the face of an Infernal witch during a fertility battle, and recognized her as a woman from his village. Upon waking, he gathered his neighbors and broke into her house. The crowd found the woman asleep, with a cut upon her face just as the nightwalker described. Their effort to lynch the woman was stopped by the local priest. He forced a demon hiding in her house to become visible and explain its actions. The demon''
 ''peeled a thin layer off the woman’s face, removing the cut, and admitted that one of its followers had borrowed the pious woman’s appearance. Player characters may discover the demon, instead of the priest, and try to find a way to save the innocent woman. Incautious player characters might be fooled by similar ruses, which can be even more elaborate. For example, if the woman was a servant of the demon’s then this story ends with her happy and safe, and the nightwalker discredited in his community.''
@@ -162,7 +162,7 @@
 ''Players required to regularly play out fertility battles may find they become a chore. In troupes that feel this way, the frequency of fertility battles, and perhaps their potential lethality, should be reduced. The troupe may also simply assume the''
 ''character continues to fight the battles with no significant consequences on most occasions, and only run stories when something exceptional happens. They may occasionally include Story Hooks related to things observed in an otherwise uneventful battle.''
 
-|]
+|}
 ''Hedge Magic Processions''
 ''Most militias of nightwalkers participate in three types of procession: the march of the dead, inspection of the community’s borders, and celebrations.''
 
@@ -171,13 +171,13 @@
 ''Some nightwalker groups travel the Ways of the Dead with the spirits of the recently departed, and with those souls unable to rest. This keeps the Ways of the Dead clear of obstructions, like the unquiet dead, which allows the recently dead to pass from the world. The processions also regulate the movements of the unquiet dead. They enforce boundaries, and prevent the dead wandering into towns except at exceptional times like All Hallows Eve. Nightwalkers, in immaterial form, may harm and be harmed by the ghostly dead as if both were solid and living. The herbal weapons of the nightwalkers are effective against all types of undead. Nightwalkers often find striking the dead unnecessary: ghosts from the areas where nightwalkers are found recall folklore that says that nightwalkers can thrash the dead. To intimidate a ghost, a nightwalker must make a Presence + Leadership roll against an Ease factor of 6 + the ghost’s Brave score. If the ghost or the nightwalker is in a group, the number of additional individuals willing to fight for either side is added to the roll or Ease factor. Nightwalkers may question the unquiet dead while in phantastic form. This requires a Presence + Charm roll (to ingratiate) or a Leadership roll (to threaten) against an Ease factor as given below.''
 ''Ease Circumstances 3 Question may be answered with a yes or no. 6 Question requires an answer a sentence long. 9 Question requires an answer up to six sentences long.''
 ''No roll is required for questions that the nightwalker may answer just by observing the spirit. Are they are in a procession of happy, pious dead or a procession of wretches whipped along by demons? Do they have injuries that give clues as to their manner or death, or the location of their bodies? The Ease Factors above should be modified if the ghost has appropriate Personality''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Other Processions of the Dead''
 ''In Mythic Europe there are ghosts aligned to each Realm. With the exception of Divine ghosts, processions of each Realm are found, as well. There are people similar to nightwalkers who participate in the processions of the Faerie and Infernal ghosts, and the Magical nightwalkers described in this chapter keep a careful eye on these groups, sometimes mustering to fight them if they leave their designated route. The Faerie processions have various functions and leaders, but the ones best known to the nightwalkers are led by faeries that go by names like Diana or Perchte or Frau Holle or Ricella or Heriodas. The many faeries who assume this role collect the dead and lead them, each year, to pagan underworlds. Their charges are not well restrained, and they sometimes cause damage because of a riotous desire to taste the final pleasures of the living world. Frau Holle is also known to steal''
 ''naughty children and carry them away forever. On a few occasions, a Faerie procession has been interrupted by the nightwalkers and put to flight in order to rescue a child. Generally, the processions avoid each other. There are many Infernal processions. Some form spontaneously, when many people die tragically in the same area. Plague and war, for example, can create wandering hordes of ghosts. Other processions are not spontaneous: they are punishments for corrupt souls. The best known of these is led by the demon Herlichinus, who wears a fool’s motley. If a charge of his escapes, the demon jester sends a minion to claw it back to him. The nightwalkers try to prevent too much damage from occurring as the demon seeks the fleeing shade, either by helping it to pass out of the world, or by capturing it and delivering back to the procession.''
 
-|]
+|}
 ''Traits. Each nightwalker may ask one question of any particular ghost on a given night.''
 
 ===Beating the Boundaries===
@@ -207,12 +207,12 @@
 ===Battles===
 
 ''The benandanti are called to battle on the Thursdays of the Ember Days — four seasonal fasts observed by the western Church. The battles are always on Thursdays. They occur in the first week of March; following Pentecost; following the Feast of the Exultation of the Cross (September 14); and following the Feast of Saint Lucia (December 13, the winter solstice). Their battlefield is selected by the captain of the benandanti in agreement with the captain of the Infernal witches. The benandanti usually travel to the battlefield by immaterial flight. Some come in the shapes of cats or mice, while others ride hares, cats, or farming implements. The battlefield is usually a desolate place where the battle is unlikely to be interrupted, but one militia of benandanti meets its rivals, in immaterial form, above Saint Mark’s Square in Venice. The benandanti form a military unit about their captain, who sometimes carries a pennant to show his rank and position on the battlefield. They are opposed by the malandanti — the “bad walkers” — who are usually Infernal witches but are sometimes unruly ghosts. The malandanti captain also carries a pennant. The malandanti host feast, sport, and dance while waiting for the battle, but the benandanti do nothing but wait, pray, and speak of strategy. The benandanti fight in human form and are armed with bunches of fennel, while the malandanti use sorghum.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Fennel''
 ''Fennel is a potently magical herb. It can be used as an insect repellent, and it repels the tiny demons responsible for disease. Some people place fennel over their doors and windows, or in their keyholes, to keep witches out of their houses. This is particularly common on Midsummer Night. When Prometheus stole fire from the gods and gave it to humans, he hid it in a fennel stalk. The Theft of Fire, some magi hypothesize, may have permanently changed the relationship between the Realms of Magic and Faerie, or between faeries and humans.''
 
-|]
+|}
 
 ===Feasts of the Domina Ludi: The Lady of the Game===
 
@@ -223,13 +223,13 @@
 ===Becoming a Hound of God===
 
 ''There are two methods of becoming a Hound of God. Some are born to it: they are cauled or slightly deformed at birth. At puberty, these potential wolves are visited while they sleep by a spirit that takes the form of a lame child. He guides them to irregular musters, but does not participate in battle himself. In some communities, people are tricked into becoming wolves. If someone toasts the health of a werewolf, that nightwalker  can pass the power to stray to the toaster. To do this, the wolf does not drink to the toast, or give thanks for it. Instead, he blows three times across the mouth of the bottle from which the wine has come and says, “As was done to me, so be done to you.” Usually this trick is practiced by elderly wolves who want to retire from their duties. It is possible for wolves to pass their duties along families using this method. The abilities and duties of the Hounds of God are not generally passed to the children of werewolves in utero, or by biting a victim.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: Aristeas''
 ''The Lady of the Game’s fears of losing her troops to one of her Faerie counterparts are realized when a nightwalker player character is approached by a powerful magician skilled in straying, who asks the character to forsake the Lady for the worship of Apollo. The character claims to be the ancient Greek poet Aristeas. Characters researching him can easily find references to him in Pliny and Herodotus, saying that he had the ability to leave his body in the shape of a raven and that he had visions of calamities. He is also said to have risen from the dead at least twice, and he claims that if the characters kill him, he will simply do so again. Aristeas offers the characters some of the secrets of his master’s version of faerie magic in exchange for their loyalty. Aristeas is not a faerie himself: he claims that in recent times he has remained in phantastic form as one of the ravens that accompanies the god Apollo in Arcadia. When word of this reaches her, the Lady calls the player character’s militia to fight off Aristeas. But first she sends these loyal servants to a place of power from before the Titanomachy — the war of the Titans and Greek Gods — to find magical weapons.''
 ''The Lady has discerned that the way Aristeas rises from the dead is by never coming back to full life. He merely remains a corporeal phantasticum. Like most phantastica, Aristeas should have faded when the meat rotted from his bones. He, however, has a spiritual anchor that allows him to keep returning to the world from the pagan afterlife to which his spirit flies at death. When the ancient Greeks lacked a body to bury, and worried that the spirit of the body might molest their community, they instead buried a stone — called a kolossos — which acted as an Arcane Connection to the spirit and anchored it in its grave. Aristeas uses his kolossos as a way of finding his way back to the mundane world. Aristeas’s kolossos is mentioned in Pliny: it was a statue carved to honor and to commemorate the poet Aristeas himself. It looks like Aristeas with a raven emerging from his mouth. This statue has been hidden in one of the places of power of the god Apollo, and is guarded by some of his monstrous servants from ancient times. Hence, the characters will have need of the weapons of the titans gathered on behalf of the Lady, in order to find and destroy the kolossos.''
 
-|]
+|}
 
 ===Battles===
 
@@ -261,8 +261,8 @@
 ===Taltos Battles===
 
 ''A fully initiated taltós is required to fight for the fertility of his village. Combat occurs either three times a year, or once every seven''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Hawthorn''
 ''Hawthorn repels vampires for many reasons. Ovid reports it being used to mark a young princeling as being protected from vampires by the ancient Roman goddess Carna. The Crown of Thorns that was placed on the brow of Jesus was of''
 ''hawthorn, and so it is a symbol of His sacrifice and majesty. Thorns can be used to prick the bodies of the dead, to make them less able to sense or walk. Hawthorns are also used as hedges, to mark and make boundaries.''
@@ -270,7 +270,7 @@
 ''Some mazzeri use bunches of asphodel as weapons during phantastic battles. Asphodel is powerfully connected to the dead. The Greeks thought that most of the spirits in Hades dwelled in the Fields''
 ''of Asphodel. It is also sacred to Persephone, the Queen of the Underworld. The Romans grew asphodel near graveyards, because it was considered a food of the dead.''
 
-|]
+|}
 ''years, depending on the locale. Taltós fight in the forms of horses, bulls, or flames (the form is selected when the virtue is first gained). Their enemies include Infernal witches, the dead, diabolists, and nightwalkers from other regions. The animal and elemental forms of all taltós in a single militia are the same color, so colleagues and enemies are obvious when militias battle. The battles of taltós are fought incorporeally in the sky. The battles often disturb the clouds and cause rain. Some taltós can use their inhuman phantastica for combat outside their fertility battles, and to cause storms. These taltós have the Versatile Phantasticum virtue. Taltós revive themselves spiritually by eating enormous amounts of food during the day that follows straying. Some taltós demand gifts of food, particularly bread and cheese, from peasants, and threaten to cause storms that will destroy crops if they’re not appeased. In other places, when there is a drought the local people give gifts to their taltós to encourage them to fight a battle that causes a storm. Taltós who continue in their role their entire lives are best suited as player characters, but many taltós serve only for a brief period. Some lose all of their abilities at the''
 ''age of fifteen. Others lose a portion of their powers, while some retain them but cease to identify themselves publicly as taltós.''
 ''Mythic Companions''
@@ -279,13 +279,13 @@
 ''Members of nightwalking traditions have often found service with the Order. The weaker varieties of Nightwalker, who have the ability to use Second Sight and injure spirits, are prized as guards. Those who are able to travel swiftly and invisibly are valued as scouts by militant houses. Those who can take material form at a distance, and return with the objects they steal, make excellent spies and saboteurs. Although Gifted nightwalkers could theoretically be inducted into the Order as Gifted Companions (see Houses of Hermes: Societates, page 107) it would be difficult for lineages to form. Nightwalking isn’t taught: it’s something that the nightwalker simply knows once he joins his tradition. Also, there seems to be a mechanism that divides those who are called to serve as nightwalkers, and act as their community’s guards, from the Gifted whose supernatural taint prevents them from integrating with society. There is an interesting, if partial, exception to this problem. The Hounds of God, who are little understood by the Order of Hermes, have the ability to pass their ability to stray to whomever they choose, using the toasting ritual described in their section. The Hound loses the power after his successor is toasted, but if the characters were able to convince a pack that they were more skilled guardians than other candidates, it is possible that a covenant of magi could be appointed as Hounds, and pass their Virtue to a single member of each subsequent generation.''
 ''Partial Integration in Progress''
 ''The integration of the power of nightwalking into Hermetic theory is closer than most magi imagine, because the process of incorporation has already begun. Hermetic magi assume that the certamen ritual is descended from Thessalian magic given to Bonisagus by Trianoma or her sister Viea, but this is false. The ritual of certamen is based on the spiritual battles of the nightwalkers.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Statistics and Abilities for Flame Shape''
 ''A character in the shape of a ball or wheel of flame has a form that is superficially similar to an elemental with a Might of 10. The character does not have the magical nature of an elemental, and lacks its Might score, but physically it has the characteristics of such an elemental. This gives Characteristics of Cunning 0, Perception –8, Communication –8, Presence 0, +4 Strength, +2 Stamina, +4 Dexterity, +2 Quickness. The character’s human Intelligence replaces the Cunning score. For all other Characteristics, if both the elemental form and human form have a negative score, use the lowest score. If both the elemental and human form have a positive score, use the highest. If the human and elemental forms have one positive and one negative score, add the two scores. The character may use any of his human form’s Abilities that a ball of flame is physically capable of using. This includes the ability to sense warmth and the loca''
 ''tions of objects by the differences in their temperature. In flame form the character is able to use Second Sight to find friends and foes in phantastic form. The tremendous Perception penalty taltós suffer in fire form prevents them serving as effective leaders of groups. Abilities that are based on the character’s reasoning and experience remain available. The character may use the Brawl ability to fight, and does +5 fire Damage. Wound levels do not change between the forms, although the fire form is invulnerable to mundane fire and to wooden weapons. Characters striking a taltós in elemental form without weapons, for example other taltós using horns or teeth, suffer +5 burn damage for each attack (Penetration 0). If the character is completely extinguished, he dies. Some taltós report a feeling of continuous, nagging hunger when in human form, but the fire form makes this far more severe (Personality trait: Hungry +3).''
 
-|]
+|}
 
 ===The Lappish Origins of Certamen===
 
@@ -295,8 +295,6 @@
 
 ''Senior Criamon magi who follow the Path of Seeming have the ability to spirit travel, but can’t generate a phantasticum. Some of them are descended from a shamanic, but non-militant, tradition native to the area around the Cave of Twisting Shadows. The current prima, Muscaria, is named after the intoxicating mushroom they used, although neither she, nor her teacher, are on this Path.''
 ''Criamon magi are aware that the Greek philosopher and mathematician Pythagoras was able to seem to be in two distant cities at the same time. Those on the Path of Seeming hypothesise a link between Pythogorean mathematics and ekstasis. The recovery of Pythagorean relics might grant Insight into the Breakthrough necessary to initiate magi into this power. This is a Minor Breakthrough for a researcher who has mastered the Station''
-
-[|
 ''Rothiger, A Hound of God Companion''
 ''Characteristics: Int 0, Per +1, Pre 0, Com 0, Str +1, Sta +1, Dex 0, Qik +2 Size: 0 Age: 21 (21) Confidence Score: 1 (3) Virtues and Flaws: Wanderer (itinerant agricultural laborer); Nightwalker; Intuition, Versatile Phantasticum; Dark Secret (he’s a werewolf who can’t control his urge to kill animals); Compulsion (Minor: he loves to kill things in wolf form, forcing him to migrate often to avoid detection), Higher Purpose (sought out his nightwalking role). Personality Traits: Loyalty (pack) +3, Enjoys hunting +3 Combat: Brawl: Init +2, Attack +5, Defense +6, Damage +3 Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead''
 ''(21+) Abilities: Athletics 2 (running), Awareness 1 (animals), Bargain 1 (food and lodging), Brawl 3 (knife), Carouse 2 (agricultural festivals), Folk Ken 1 (farmworkers), German 5 (peasants), Guile 3 (covering his tracks), Hunt 1 (small game), Pack Lore 2 (history), Profession: laborer 1 (slaughtering), Second Sight* 2 (demons), Survival 1 (outskirts of settled areas), Swim 2 (icy water). * 	 Due to the Nightwalker virtue, and only available to the phantasticum. Equipment: Rothiger wears clothing of leather and wool. He carries a hunter’s knife, which he uses in combat in human form. Encumbrance: 0 (0) Appearance: A fit young man with red hair and freckles. Rothiger hasn’t completely outgrown the gangliness of puberty, despite his age, but his reactions are surprisingly swift.''
@@ -304,8 +302,6 @@
 ''Characteristics: Int 0, Per 1, Pre –2, Com 0, Str 0, Sta +3, Dex +2, Qik +2 Size: –1 Confidence Score: 1 (3) Virtues and Flaws: Improved Characteristics (x2), Ferocity (when hungry), Long-Winded, Sharp Ears, Compulsion (killing), Infamous Qualities: Aggressive, Hardy, Keen Sense of Smell, Pack Animal/Pack Leader, Pursuit Predator, Sharp Ears, Thick Fur, Vocal Combat: Teeth: Init +2, Attack +14, Defense +12, Damage +2 Soak: +4''
 ''Fatigue Levels: OK, 0/0, –1/–1, –3, –5, Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –5 (9–12), Incapacitated (13–16) Abilities: Athletics 5 (distance running), Awareness 3 (smell), Brawl 8* (teeth), Hunt 5 (track by smell), Survival 3 (winter) * Players seeking Abilities beyond the normal human maximum for a given age, because of the innate skill of an animal form, should negotiate with their Troupes.''
 ''Rothiger can be used as a villainous werewolf with no statistical changes.''
-
-|]
 ''of Passing Through Seeming, or a Major Breakthrough for one who has not done this. This will allow the Magi of the Path of Seeming to replace the current effects of the Station of Passing Through Seeming with a variant of the Nightwalker virtue that does not require spirit battles, and allows a human phantasticum. Early practitioners of this mystery will rapidly notice the similarity to certamen, and may allow this information to reach their housemates in the Path of Walking Backwards. These violent magi may attempt to develop certamen-based nightwalking, as detailed in the previous section.''
 ''Saga Seeds''
 ''Individual nightwalkers are weaker than Hermetic magi, and must be careful to manipulate situations so that their powers provide them an advantage.''
@@ -323,14 +319,14 @@
 ===Return of the Taltós===
 
 ''The modern taltós are a memory of the Magyar shamans of pagan times. They were said to be able to tell the future, were superhumanly strong, could make women conceive with simple charms, transformed into horses, and flew through the wind. They could climb the Great Tree to other worlds. They couldn’t die, unless they had an heir or a broom was shoved in their hands and then burned. That last power, — immortality until the Mystery passes to another — came to the Order’s notice about three hundred years ago. Magi from many houses sought these immortal hedge wizards in all kinds of inhospitable places, like sunken ships and collapsed mines. They could not be found, and so Seekers passed on to more productive concerns. It will only take a whisper of the presence''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Arno, a Benandante Companion''
 ''Characteristics: Int +1, Per 0, Pre 0, Com 0, Str +2, Sta +1, Dex +1, Qik +1 Size: 0 Age: 21 (21) Confidence Score: 1 (3) Virtues and Flaws: Craftsman; Nightwalker; Sense Holiness and Unholiness, Tough; Dark Secret (lives in a community that persecutes benandanti); Close Family Ties, Higher Purpose Personality Traits: Devout +2, Practical +1 Combat: Club and Shield: Init +1*, Attack +9, Defense +10, Damage +5 *Includes encumbrance, which is a result of phantastic armor that Arno does not use in waking battles. Soak: +8 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –2 (6–10), –3 (11–15), Incapacitated (16–20), Dead (21+)''
 ''Abilities: Awareness 2 (battlefield), Athletics 1 (running), Bargain 1 (domestic goods), Brawl 1 (supernatural foes), Carouse 1 (Saturdays), Craft: Smith 5 (agricultural tools), Folk Ken 2 (festivals), Home Village Lore 3 (supernatural dangers), Second Sight* 3 (ghosts), Sense Holiness and Unholiness 3 (infernal witches), Single Weapon 5 (club), Speak Italian 5 (commoners) * Due to the Nightwalker Virtue; only available to the phantasticum. Equipment: Arno uses a club of fennel in night battles, wears a leather scale vest, and carries a round shield. Encumbrance: –1 (3) Appearance: Arno is a young smith, and it is obvious from his build that he does heavy work with his hands. He keeps his hair and beard short for safety. His eyes are brown, and his hair is black: blacker when he has been working his uncle’s forge.''
 ''Arno is easily redesigned as a malandanti, an evil nightwalker. To represent his reward for serving evil, replace the Sense Holiness and Unholiness Virtue with the Venus’ Blessing Virtue, and move the points spent on the related ability to Charm 2 (women), and Guile 2 (women). The malandanti in Arno’s region use sorghum stalks as spears, so change the specialization of his Single Weapon Ability to spear. His new combat statistics are Short spear and shield: Init +2*, Attack +9, Defense +9, Damage +7, with his Initiative penalized for phantastic armor that he would not use during waking hours. To use Arno as a weak ghost, simply give him a Magic Might of 10 to grant limited magic resistance, and charge him a Might point every time he changes from immaterial to solid. In either form, Arno’s spear can harm characters who are in corporeal form.''
 
-|]
+|}
 ''of a Magyar shaman, trapped somewhere, to make the Seekers resume their hunt. House Criamon privately hopes that a Magyar shaman somehow got caught up the Great Tree, and that when he climbs down again he will be surprised to find himself in the Cave of Twisting Shadows. He would appear in a suitably secure section, where his views on pacifism can be ascertained.''
 
 ===Enemies Or Servants of the Lady===
@@ -338,5 +334,6 @@
 ''The Lady of the Game is one of the most powerful magical spirits currently active''
 ''in Mythic Europe. She co-ordinates, and perhaps even creates, a vast personal army of magical soldiers. It is easy to suggest she is simply a fertility spirit, but magi interested in the Game have always suspected she is something else. She claims to predate the Olympian gods, but anyone could make that claim. What does the Order do if she is a historical figure who has no love for the Order, like Diedne or Viea, and is waiting for a new sign of weakness? The Lady’s goals might not be directed at the Order, but might impinge upon it. For example, she hates Faeries and effectively helps to spread the Dominion. Her influence could impact on the vis gathering sites of''
 ''many covenants. House Jerbiton, however, would probably seek to aid the Lady, if that was her goal, and House Criamon would like to speak with her in any case. She might be an Adulteration — a sort of psychic shadow of a Criamon magus. Or she might be one of the missing Primi that messianic Criamon think must be gathered as part of the process that makes the answer to the Enigma apparent.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

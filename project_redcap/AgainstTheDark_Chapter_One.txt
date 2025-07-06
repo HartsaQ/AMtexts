@@ -55,8 +55,8 @@
 ==Sunken City==
 
 ''This is a Roman city that has fallen, mostly intact, into the Black Sea. It was connected, in ancient times, with astronomers and their Mysteries. It gives the player characters easy access to Greek cul''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Klingsohr==
 
@@ -64,7 +64,7 @@
 ''bach, who sang rousing songs of Crusader valor. Henry prepared for his death, but noted that it was a pity that the only bard he knew of finer than he had not attended. Wolfram was incensed, because this meant his victory was incomplete, and with the Margrave’s permission, allowed Henry to search for this bard. Henry knew that the people of Hungary seemed to learn songs by a strange osmosis. The music of the hidden bard echoes through the whispers of the leaves, is carried by the birds, and wafts through the storm clouds of Hungary. It settles in the mind without effort, and is learned almost without thought. Henry followed these hints and clues. He found Klingsohr singing to an''
 ''empty field near Tisza. Klingsohr was utterly uninterested in wealth, and felt no need to be told he was a better poet than others. He eventually did agree to return to Wartburg, because he wanted to save Henry’s life. Klingsohr sang of his deep love for the plains of Hungary, and Wolfram von Eschenbach gave him the crown of bay. Klingsohr asked that the other bards not be killed, for that was simply foolish, and then sang a prophecy concerning the future of the Margrave’s family, which has been correct in every detail. Klingsohr still lives somewhere in this area, wandering in peasant clothes, and singing Hungary’s beauty to itself. He predicts the future to those who need it, or are kind.''
 
-|]
+|}
 ''ture and trade, to the Tribunal’s heartland, and to the non-Hermetic lands of the East. Many of the islands in the Black Sea also have odd myths surrounding them. Players seeking this site on modern maps should look for Karvana.''
 ''Isle of Achilles''
 ''In the Black Sea, there is a small island on which Achilles, the hero of the Trojan''
@@ -94,14 +94,14 @@
 ''Adrijana, Agata, Albena, Anastasiya, Anna, Bisera, Branislava, Branka, Cecilija, Danica, Doroteja (Dorothy), Dragana, Dragica, Dubravka, Ekaterina (Katherine), Elena, Elisaveta (Elizabeth), Eva, Grozda, Hristina (Christina), Irina, Jadranka, Jagoda, Jelena (Helen), Kalina, Magdalena, Marija, Nadežda, Polina, Radmila, Radomira, Rosa, Snežana, Suzana, Svjetlana, Tatiana, Tereza, Toma, Vesna, Višnja, Zhenya, Zora''
 ''Hungarian Names, Male''
 ''Adorján, Ágoston, Álmos, Ambrus, Andor, Árpád, Bálint, Bartal, Béla, Bertók, Csaba, Dezső, Dömötör, Edvárd, Elek, Endre (Andrew), Fábián, Ferenc, Gábor, Gergely, Géza, György, Ignác, Imre, István (Stephen), János, Jenő, Kálmán, Károly, Kornél, Lajos, László, Máté (Matthew), Mihály (Michael), Miklós, Nándor, Orbán, Rikárd, Sándor (Alexander), Tamás (Thomas), Tibor, Tódor, Vencel, Zoltán, Zsolt''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Wasn’t Achilles Gay and Buried Somewhere Else?==
 
 ''The best known version of the story of Troy, the Iliad, certainly has him buried elsewhere. Philostratus, Maximus of Tyre, Pausanias, and, of course, all the local people, believe the story given here.''
 
-|]
+|}
 ''Hungarian Names, Female''
 ''Adél, Ágnes, Ágota, Aliz, Amália, Anasztázia, Angyalka, Anikó, Anna, Aranka, Beáta, Blanka, Borbála, Csilla, Edina, Emese, Erzsébet, Gizella, Hajna, Ibolya, Ilona, Judit, Luca, Lujza, Margit, Natália, Ráhel, Rózsa, Sára, Szandra (Alexandra)''
 ''Vlach (Romanian) Names, Male''
@@ -113,5 +113,6 @@
 ''Osman, Ozan, Özgür, Savas, Selim, Serhan, Serhat, Serkan, Soner, Temel, Tolga, Tunç, Turgay, Ufuk, Umut, Volkan, Yakup, Yavuz, Zeki''
 ''Cuman/Pecheneg Names, Female''
 ''Asli, Aygül, Aylin, Ayşe, Aysel, Aysu, Aysun, Basak, Belgin, Berna, Bilge, Burcu, Canan, Ceren, Deniz, Derya, Dilara, Dilek, Ebru, Ece, Eda, Ekin, Elif, Elmas, Emel, Emine, Esen, Esin, Fidan, Filiz, Gizem, Gonca, Gözde, Gül, Gülay, Gülbahar, Gülistan, Hande, Havva, Hazan, Ipek, Irmak, Kelebek, Kiraz, Meryem, Müge, Nergis, Nesrin, Nilüfer, Nuray, Özge, Özlem, Pembe, Pinar, Şebnem, Sevda, Sevgi, Simge, Tülay, Tutku, Yağmur, Yeter, Yildiz, Yonca, Zeynep''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

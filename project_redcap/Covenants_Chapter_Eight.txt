@@ -34,8 +34,8 @@
 ''which the magus is strong is likely to be surprised.''
 ''Other magi make their own items. These usually have small effects, but tremendous Penetration bonuses. Their makers assume that a creature or person who has penetrated the covenant’s Aegis of the Hearth, the curtain walls, the mundane bars to entry, and the sanctum’s wards is likely to have formidable Magical Resistance. These items can often be taken from the sanctum and used to defend the walls during sieges.''
 ''Many magi layer their effects, so that they minimize the harm caused to intruders. A typical layered sanctum has minor wards to keep out mundane servants, a second spell that immobilizes or transforms, and finally a fatal spell. The immobilizing spell allows the magus to capture and question an intruder, perhaps giving him to the Quaesitores. There is no requirement in Hermetic law that intruders should, by preference, be captured, but many magi want to interrogate those who have trespassed in their sancta.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Ward Against the Curious Scullion===
 
@@ -56,19 +56,20 @@
 ''R: Touch, D: Ring, T: Circle This spell conglomerates other wards into a single working. It holds at bay many of the things likely to damage Hermetic sancta: flame, excessive light, thieves, pests, moisture, and mildew.''
 ''(As Ward Against Flame, +4 requisites)''
 
-|]
+|}
 ''Ring and Circle Ward Examples Apprentices: A Security Problem''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The pass methods for magical traps are less secure if known by an apprentice, so many magi find ways for the apprentice to avoid triggering the wards without any conscious effort. Some magi, for example, key their effects to a distinguishing physical feature that both share. A few have their apprentices carry an object at all times, but do not tell them what it is about the object that prevents the activation of the wards, or even that this is the object’s function. Some alter the apprentice in a minor way, and then destroy the memory of that alteration. One archmagus was deeply concerned to find a small tattoo on his scalp, exposed by receding hair, and was only mollified when he discovered similar tattoos on the heads of the other magi who had shared the same master. Some magi cannot be bothered with all of this, and refuse to allow their apprentices to cross their wards except in their presence.''
 ''Familiars and spouses create similar security problems, which are typically solved in many of the same ways.''
 
-|]
+|}
 
 ==Standard Hermetic Laboratory & Sanctum==
 
 ''F Fireplace L Light Source P Pillar''
 ''1 Stair 2 Privy 3 Meeting Room 4 Sanctum Marker 5 Bedroom 6 Stores 7 Water Basin 8 Ornaments and Secimens 9 Mirror''
 ''10	 Spell Circle 11	 Bookshelf 12	 Writing Desk 13	 Bookstand 14	 Observatory 15	 Orb 16	 Astrolabe 17	 Astronomical Charts 18	 Wax Tablet 19	 Cauldron 20	 Balance 21	 Ingredients 22	 Refuse Tip''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

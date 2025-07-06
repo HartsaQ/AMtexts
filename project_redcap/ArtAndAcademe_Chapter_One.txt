@@ -29,15 +29,15 @@
 ==The Age of Translation==
 
 ''Medieval learning received its next great change in the late tenth century, with the efforts of Gerbert of Aurillac, who later became Pope Sylvester II. A French-born scholar studying in Barcelona, Cordova, and Seville, Gerbert was introduced to several scientific and academic Arabic treatises, which he translated into Latin. Influenced by this “foreign” knowledge, he wrote groundbreaking works on logic and mathematics. He introduced the abacus to the west, making complicated arithmetic easier, although he still used Roman numerals and did not use 0 in his calculations. Teaching at Rheims, his efforts invigorated a new interest into the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Spoils of Gerbert==
 
 ''Gerbert of Aurillac was such a prolific scholar that his genius frightened the superstitious locals, who assumed he must be in league with the devil to achieve such monumental learning. Legends say he was also a wizard, although the investigations of various Hermetic seekers have failed to verify this claim. However, they are interested in the treasures Gerbert supposedly left behind. According to legend, Gerbert stole a book of magic from a Saracen wizard, from which he developed several of his ideas. He is said to have made a golden head, also, which would answer “yes” or “no” to''
 ''any question asked of it. The book, if it exists, is certainly not Hermetic, having been stolen long before the Order of Hermes came to any peace with Arabic wizards. Some claim the head exists, and is used by Verditius magi in their complicated and obscure Mystery Cult initiations, although these are rumors at best. Mundane scholars are intrigued by these artifacts as well, postulating that the golden head works by hidden natural sciences. Both mundane and magi characters would certainly perk up their ears at rumors telling where the stolen book or golden head reside.''
 
-|]
+|}
 
 ====
 
@@ -58,8 +58,8 @@
 ''disseminated throughout western Mythic Europe. These works, including Prior Analytics, Posterior Analytics, Topics, On Sophistical Refutations, Physics, Metaphysics, and De anima (On the Soul), grouped together are referred to as the “New Aristotle.” The New Aristotle made syllogisms and his logical method much clearer. Aristotle claimed that a scholar knows something only if he knows the beginnings of that thing and the reason for its existence. Secondly, Aristotle offered a new approach to verifying the knowledge of a thing. A thinker has to discover accurate truths about a specific thing that then apply to the general group, and then make sure those truths are accurate when applied from the group back to the specific. Although emphasized by Aristotle, dubbed “the Philosopher,” personal observation does not alone guarantee truth. Observation must be supported with reasonable arguments, based on antiquity and extrapolated by contemporaries. All agree that the senses are too susceptible to misinformation and illusion to be absolutely reliable. Philosophers do not reject the senses, though. Far from it, they merely demand that they be supported by rationally defined arguments that incorporate the ideas of celebrated pagan and Christian philosophical writings. This new body of knowledge has had a profound effect on the seven liberal arts and the men that study them. The most profound change is the attempt of the logica nova (new logic) to replace the logica veta (old logic) in''
 ''medieval schools, but each of the liberal arts is affected to some degree. Some schoolmen are conservative, and reluctant to make major changes to a school’s curriculum. And the New Aristotle is not accepted by all scholars.''
 ''In 1220, the University of Paris has banned teaching any of the New Aristotle, although copies of his translated works exist. Specific changes of the New Aristotle to the various liberal arts are discussed in the next chapter.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Hermetic Societas: The Lyceum==
 
@@ -80,7 +80,7 @@
 
 ''Borbygus of Verditius has been corresponding with a scholar (an ally of the covenant) for years with encouragement for his research, though the scholar is unaware that Borbygus is a magus. Borbygus — a member of the Collegium — invites the scholar to a colloquium to meet with other prominent academics. Unfortunately for the scholars, they’ve just become part of the magus’ new collection of realia (see Covenants, page 102), a collection of “objects” that take the place of a library (in this case, on Intellego). Borbygus intends to keep the scholars in magical confinement until he has a sufficiently large collection to complete his studies, and he is sure he’ll be the envy of his peers.''
 
-|]
+|}
 
 ==Art & Academe The Hermetic Intellectual Landscape==
 
@@ -91,5 +91,6 @@
 ==Hermetic Magic and Philosophical Breakthroughs==
 
 ''Whether Bonisagus used Plato or Aristotle as a logical model for magic theory is entirely dependent upon your saga. Although he wrote before the scholastic period, Bonisagus’ education did include Aristotle and Plato, as well as other classical authors. As a troupe, you could decide that Bonisagus followed Aristotle, and that synthesizing the New Aristotle with Magic Theory would be a minor breakthrough, as per the original research rules suggested in Houses of Hermes: True Lineages, page 26. Or, if Bonisagus modeled Magic Theory on Platonic universals, such a breakthrough would require synthesizing newly found works of Plato with Magic Theory. This would be harder, since the majority of Plato’s works will not be rediscovered for two hundred years (historically, in the fifteenth century). You could decide that Magic Theory and academic theories, Platonic and Aristotelian, won’t affect Hermetic magic in the slightest. Paradoxically, you could decide that both could affect Hermetic magic — that both Aristotelian Magic Theory and Platonic Magic Theory are possible breakthroughs. Such an event would further the debates between the Collegium and the Lyceum, adding fuel to the fire in proving which philosopher was more influential to the founder. Trying to create Aristotleian Magic Theory as a breakthrough would require the magus to experiment with any combination of Hermetic Forms and Intellego magic, since Aristotle is so keen on knowing a subject. Platonic Magic Theory would require a magus to experiment with any Technique and the four elemental Forms (Auram, Aquam, Ignem, Terram), since Plato is definitive about the building blocks of reality. Once properly incorporated, either version of the breakthrough — Aristotelian Magic Theory or Platonic Magic Theory — would allow a magus character to add his score in Artes Liberales to his Lab Totals and his formulaic spell casting totals. Once such a breakthrough occurs, the researcher can disseminate his discovery through a written tractatus, describing the improved Magic Theory. Such a tractatus will allow any reader to incorporate the minor breakthrough into their own laboratory work.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

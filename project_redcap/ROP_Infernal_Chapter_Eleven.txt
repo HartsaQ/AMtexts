@@ -69,14 +69,14 @@
 ==Ablating==
 
 ''Ablating is the process of tearing at the spirit, grasping at it, and stealing away some of its essence, making the sorcerer stronger and leaving the spirit significantly weaker. This is always an Infernal Power, and it always aggravates the spirit, because it permanently reduces its Might Score, and any time the character uses it''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Summoning and Other Realms==
 
 ''The Art of Summoning is not necessarily an Infernal Power (though Ablating, Binding, and Commanding are); like other Supernatural Powers it is often associated with Magic or Faerie, and uses one of those columns on the aura interaction chart. However, because of its sinister associations with spirits and the underworld, Summoning is always tainted — Divine Powers of investigation perceive its use as unholy, even if it is part of another realm. Yet it is still very appropriate for characters who practice necromancy, summon nature spirits, or study the magical mysteries of theurgy and synthemata (see The Mysteries Revised Edition). Future Ars Magica supplements may include other forms of Summoning that are not unholy by association (such as those that call faeries or animals), with related summoning Arts that characters can use to bind them to service.''
 
-|]
+|}
 ''he almost certainly gains an enemy for life (and perhaps beyond). Spirits never agree to this sort of effect as part of a bargain.''
 ''During the ablation, the sorcerer must endure powerful forces as they are drawn into his body, and knowledge of the spirit’s supernatural realm improves his ability to adapt to them. If you botch the stress roll, the character will almost certainly suffer Vituperation.''
 
@@ -128,8 +128,8 @@
 
 ===•===
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Knowingly dealing with demons is a very dangerous proposition, for without supernatural safeguards that force compliance they are under no obligation to follow through on their promises and in fact are very likely to betray the sorcerer. The payment they expect in exchange for their services is usually blatantly sinful, consisting of sickening requests like desecrating a church or slaying an innocent. If that weren’t enough, demons often turn the tables and threaten the sorcerer instead, proposing bargains such as “Burn down the village, or I’ll convince everyone in the region that you raped your sisters — even if you don’t have any sisters!” Demons have great power at their disposal, but it is very difficult to get anything from them without performing''
 ''horrible acts that go beyond the pale in return.''
 ''Some clever demons may be more subtle. They might agree to aid a sorcerer for a relatively low price in order to corrupt him, to make him believe that demons “aren’t so bad,” or to maintain an illusion of belonging to another realm. Of course, doing evil includes its own penalty, for simply allowing himself to be affected by an Infernal Power stains the character’s soul, even if he did not know he was dealing with a demon, and no bargain is bad for the demon if it means the character comes out a sinner. Once it has established a relationship with the sorcerer and made him dependent upon its aid, it is much easier to step up the pressure and lead him into full-scale depravity and corruption.''
@@ -137,7 +137,7 @@
 ==Bargaining with Demons==
 
 
-|]
+|}
 ''number of experience points, and gains a Warping Point for experiencing a powerful supernatural effect.''
 ''After the ablation, if the spirit has not been destroyed, it is immediately returned to the place from which it was originally summoned. If it knows who the sorcerer is or where to find him, he can expect that its revenge will soon follow.''
 ''This is a very fast way to gain status in Hell, as infamy is just as good as respect among demons. Many characters find the benefits of ablation are powerful enough to tempt them to cross the line separating “kill the demons” from “take their stuff.”''
@@ -234,8 +234,8 @@
 ''• •''
 ''• •''
 ''•''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Characteristics: Int +3, Per +3, Pre +1,''
 ''Com +1, Str +2, Sta 0 (1), Dex –1 (1), Qik 0 (1) Size: 0 Age: 40 (30) Decrepitude: 0 Warping Score: 0 Confidence Score: 1 (3) Hierarchy Score: 1 Virtues and Flaws: Summoner; Summoning; Arcane Lore (free), Improved Characteristics (x3), Intuition, Magic Sensitivity, Sharp Ears, Second Sight, Well-Traveled, Wilderness Sense; Pagan; Outcast, Oversensitive (oppression of the weak), Social Handicap (dour) Personality Traits: Clever +3, Shrewd''
 ''+3, Honorable +2 Reputations: Hard Trader 3 (Lithuania),''
@@ -254,5 +254,8 @@
 
 ==Nicolai, the Summoner==
 
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

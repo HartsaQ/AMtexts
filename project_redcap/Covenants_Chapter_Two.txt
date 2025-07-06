@@ -25,8 +25,8 @@
 
 ====
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''magical space. The stone is not native to the area, and has been carved in elaborate and erotic shapes, but there is no memory, even within the stone, of how it came to mark its space, or if its presence is necessary to its mystical strength.''
 ''Conscious Space: The covenant lies in a symbolically embodied place. It is incarnate in a self-aware, friendly figure. For example, there are several Merinita covenants that are ruled, in a mystical sense, by a faerie noble who is aware of disturbances to the natural order of the territory. Most such nobles sense these disturbances through sympathetic pains that they feel, which they have learned to interpret in order to identify damage of certain types, and in particular locations, but some can see from the eyes of the animals in the aura, feel what the grass feels, or have similar exotic senses. For example, a sea mist haunts a spring covenant off the coast. It is able to communicate by constructing pale images, which alert the magi to potential problems. Some covenfolk claim that, recently, the sea mist’s shadow has taken human shape. Some suggest the mist is the ghost of a drowned girl — a bride of the Selkie king.''
 ''Fantastic Environment: This Boon is only suited to high-fantasy sagas. The covenant is in an environment where only constant magical intervention can sustain human life. A covenant under the sea, or floating in a lake of lava under the Earth, is in a fantastic environment. A covenant in Arcadia is also in a fantastic environment. Covenants set in these environments usually have little difficulty with mundane humans: invasion is nearly impossible. There are no neighboring nobles or churchmen, and spies are almost unheard of.''
@@ -60,7 +60,7 @@
 ==Things to Avoid==
 
 
-|]
+|}
 
 ====
 
@@ -84,15 +84,15 @@
 ''Unnatural Law: Within the covenant’s aura, a series of natural laws are suspended. For example, in the Covenant of the Castle of Fees, glass is as durable and hard as iron, and is used as a building material and armament. In the Covenant of the Solemn Scholars, children are able to fly until they lose their virginity.''
 ''This Boon is suitable for covenants that want to play against genre. For example, there is a covenant powered by wonderful machines copied from the works of Heron of Alexandria. These steam rotators permit the covenant to manufacture many other wondrous devices, which fail to work if taken from the covenant. It also allows the troupe to strongly contrast the home of the magi to the mundane world.''
 ''Vast Aura: The covenant’s aura fills an enormous area, perhaps up to five miles across. Belinda, a Redcap who has gone further east than any other, says that at the very fringes of the Order lies just such a vast aura, and that therein lies a magical city. Wise old magi rule it. They claim their ancestors knew Trianoma, but had not heard of the Order before Belinda’s visit. Belinda has not returned: the Unnatural Law of the place permits outsiders to stay for only a single night, and only then at the cost of falling in love with a local, glimpsed in the avenues of palm fronds. No visitor may ever return,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Conversion from the Ars Magica Rules==
 
 ''Converting existing covenants to this new set of rules is straightforward. All of the Boons and Hooks provided in Ars Magica Fifth Edition have been included in this chapter, except Buildings and Fortifications. All have retained their original names. Versions of each of the covenant situations from Ars Magica are also included. “Converting” existing covenants requires nothing more than applying the new rules and definitions here for the Boons and Hooks of the same names.''
 ''The Buildings and Fortifications Boons have been replaced, to allow added detail. To convert their existing covenant to these rules, troupes should select the Boons and Hooks that best describe the covenant they have already created for their stories, and not be concerned if they do not balance. The new Fortifications Boons and Hooks have absorbed many possible explanations for the Buildings Hook, like gatehouses and great keeps. The remaining buildings, which inspire awe but are not necessarily military in function, have been termed Edifices.''
 
-|]
+|}
 
 ====
 
@@ -177,8 +177,8 @@
 ''A ringwork cannot resist a determined military assault for long. It can act as a staging area for a force of knights, though, so aggressive development will alarm all noblemen within ten miles.''
 ''Small Tower: The covenant surrounds a small tower, four stories high, with one or two rooms per story. For small covenants, the tower is appended to a fortified courtyard, into which stock are driven in troubled times. Larger covenants surround the tower with outbuildings, which are wooden and lack defensive value. A stone wall, six feet high and without a walkway, surrounds these buildings.''
 ''Towers allow their inhabitants to see approaching forces from a greater distance, and increase the field of fire of magi and crossbowmen, but are much''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Castles serve three functions. A castle acts as a refuge from military forces, so it defends territory. A castle acts as a staging ground for armies, so it threatens to assault its neighbors. A castle costs a fortune to create and maintain, and in many places requires the permission of the king to build, so it communicates the status of its owner. A castle, then, is a claim to political power, backed with the threat of force.''
 ''A brigade of knights, supported by a castle, can travel about twenty miles in a day. This means they have the ability to raid targets up to ten miles away and return to their barracks before nightfall. All people who live within that radius, or have interests there, will rapidly become aware of the existence of the castle.''
 ''For these reasons, the temporal and spiritual authorities of an area cannot ignore a covenant that builds a castle. Covenants that hold castles must either be so secluded that there are no neighboring nobles to alarm, or must come to terms with the secular and religious powers of an area.''
@@ -188,7 +188,7 @@
 ==Castle (Major Hook)==
 
 
-|]
+|}
 
 ==Curtain Wall &==
 
@@ -208,8 +208,8 @@
 ''Magi understand that their desire to claim a tower on the curtain wall can seriously impair the castle’s effectiveness. Many covenants compromise between the residential and military possibilities of the tower by designating the lowest floor as a foxhole and filling it only with materials easily removed or destroyed, and using the roof as a sentry post and sniper’s nest.''
 ''A covenant designed with this Boon has as many mural towers as suits the''
 ''troupe. Framlingham has thirteen towers, including two for its gate, while other castles built at the same time are rectangular baileys with a fat tower at each corner and two at the gate. There are two disadvantages to having a dozen towers: they are expensive to build, maintain, and garrison, and they declare to all of your neighbors that you expect to rule the county someday. Every extra tower makes a castle more difficult to ignore.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The defenses of curtain walls are so formidable that the role of the keep changes in response to them. The keep is still able to assist in the defense of the walls, and can act as a place of refuge if the walls are lost, but many castle builders diminish these roles and find alternative to the tower or shell keep.''
 ''A hall keep is a long, low building made of stone that is, structurally, an evolved form of the manorial hall. It is usually two stories high and has a limited number of entry points to minimize the number of defenders required to hold it. A hall keep, lacking a fortuitous hillock, is lower than the walls, which limits its usefulness to archers. The hall keep’s great advantage is that it is the most spacious and comfortable form of keep.''
 ''A courtyard castle focuses on the defense of the bailey, forgoing a keep entirely. Players designing courtyard''
@@ -227,7 +227,7 @@
 ==Barbicans and Moats==
 
 
-|]
+|}
 ''This Boon includes either the Shell Keep or Tower Keep Minor Boon, or one of the four alternatives described in the insert “Keep Alternatives for Castles with Curtain Walls” on the previous page. It also includes the option of a barbican and moat, described in the insert “Barbicans and Moats,” also on the previous page.''
 ''Magical Fortress: An alternative to mundane castle-building is the construction of a fortress by magic. The magical fortresses that are possible with the assistance of Hermetic magic are near limitless, and this catch-all Boon is designed to give players a blank slate upon which to describe their fancy. Mystical fortresses are often built on sites with the Unnatural Law Boon.''
 ''There are many examples of mystical fortresses in Hermetic and mundane folklore. One castle spins on its axis to make assault impossible. Automatons of brass defend another castle. A third is carved from the living body of an enormous tree, while it is said that in distant Africa, a small castle has been built on the back of the world’s greatest elephant. Hermetic scholars have speculated upon covenants deep under the sea, or floating on clouds.''
@@ -327,8 +327,8 @@
 
 ''Hunters or Sailors: The covenant’s people live by hunting, fishing, or some other profession that gives them useful skills for certain types of limited military action. These people need payment, a penny per day, for their service, unless the covenant has reached some other arrangement with them.''
 ''Peasants: The covenant’s defenders live as farmers for the rest of the year. They do not practice at weapons during the year, but most are competent with an inexpensive weapon and are extremely fit. Covenants usually cannot call up large numbers of men during the planting or harvesting seasons. The advantage to''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Each covenant should select one of the following styles by which the residents of the covenant are governed. These selections, which are considered Free Choices, differ from the options given in Chapter 3: Governance. Those concern how the magi govern themselves, while these describe how the covenfolk are governed.''
 ''Autocracy: The magi reduce their interaction with the covenfolk by appointing one minion to speak with their voice. This autocrat is the final arbiter of all disputes among the covenfolk, and his decisions, mercurial or wise, have serious consequences for the covenfolk and their masters.''
 ''Council: The magi allow the covenfolk to select a committee that runs the day-to-day affairs of the covenant. The magi reserve a veto on the decisions of the council.''
@@ -341,7 +341,7 @@
 ==Style of Governance==
 
 
-|]
+|}
 ''peasant warriors is that they are never paid wages: a certain amount of military service is expected of them as part of their rent.''
 
 ===Major Residents Boons===
@@ -369,8 +369,8 @@
 ''Strong Community: The covenfolk look out for each other to a degree that is exceptional, even compared to the strong communal focus of medieval mundane life. This community is difficult for outsiders to infiltrate because each member of the community knows each of the others, at least in passing, and is loyal to them, at some level.''
 ''Useful Curse: Local people suffer from a curse which they find unpleasant and uncomfortable, but which increases their usefulness to the magi. For example, there are tribes in both Ireland and Greece where people live, involuntarily, as wolves for years. These wolves have human intelligence and can understand speech, and so make excellent covenant guards and watchers on expedition.''
 ''Veteran Fighters: The covenant has a small force of professional foot soldiers.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Crossbows==
 
@@ -379,10 +379,7 @@
 ''Type Init Atk Def	 Dmg	 Range	 Str Load Cost Historical +5 +5 0 +7 25 1 2 Exp. Anachronistic +5 +5 0 +10 35 1 2 *''
 ''* Available in the conventional setting only from a handful of Verditius magi. Has a metal lath and winder.''
 
-|]
-
-==Covenants==
-
+|}
 ''They receive a penny each per day, even if they are not required to fight. Between battles, they may be used as guards and servants. Most use standard weapons, but their officers have expensive ones. They also have standard armor.''
 
 ===Major Residents Hooks===
@@ -407,14 +404,14 @@
 ''Fosterage: The covenant is home to the child of a powerful person or being, either because the being wishes the child to be raised among magi, or because the magi have demanded it as a concession for other services. This child’s safety is paramount.''
 ''Gender Imbalance: The covenant has a deeply unbalanced gender division. This is common in new covenants, which tend to have many male servants, and those that have lost many men to war. Surrounding communities judge the covenant by their own standards, and so expect a group that is mostly male to expand its territory as a way of claiming wealth and women. A community that has few men will be considered leaderless, ill-garrisoned, and vulnerable. These stereotypes are usually inaccurate for covenants, leading to nasty and unnecessary confrontations with expansionist nobles.''
 ''Guild: The covenfolk have a political organization that can arrange for many of them to withdraw their services simultaneously. The guild usually strikes only''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Military Preparedness==
 
 ''Boons can be used to describe non-player characters who fight on behalf of the covenant. Player characters are exceptions to these general descriptions, and are created using the grog or companion rules. Applicable Boons include Cavalry, Crossbowmen, Criminals, Heavy Cavalry, Magical (Soldiers), Missile Weapons, and Veteran Fighters. Applicable Free Choices are Hunters or Sailors and Peasants.''
 
-|]
+|}
 ''when it feels its members suffer mistreatment. The guild agitates for better wages, shorter hours, and less dangerous working conditions. Many guilds also provide funds for medical help, retirement, funerals, the widows of members, and other social services.''
 ''House Church: A fervent group of Christians practices the sacraments in one of the houses within the covenant. Left unchecked, this may affect the aura. An added complication is that the House Church members may be heretics, living in the covenant as a shelter from the Church. This Hook may be Unknown.''
 ''Incompetent Covenfolk: Many covenfolk are dim-witted, unskilled, or accident-prone. This may be correctable.''
@@ -737,5 +734,6 @@
 
 ==Table of Boons and Hooks (Continued)==
 
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

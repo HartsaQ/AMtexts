@@ -49,8 +49,8 @@
 ''InVi 30 R: Arc, D: Conc, T: Ind The caster may speak with any demon to which he has an Arcane Connection. For the duration of the''
 ''spell, it may see and hear him as if he were standing before it, just as he can see and hear it. Nothing about the demon’s surroundings, or the caster’s, are transmitted, and each must speak aloud to be heard by the other.''
 ''(Base 5, +4 Arc, +1 Conc)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Hook: A Dish Served Very Cold==
 
@@ -71,7 +71,7 @@
 ''Infernal Might less than (the level of the spell + 20), as a Ritual effect. Level 5:	 Command a demon to do the''
 ''caster’s will.''
 
-|]
+|}
 
 ===Muto Vim===
 
@@ -147,8 +147,8 @@
 ''This form of magic is primarily represented by a Supernatural Ability: Chthonic Magic. This Ability may be substituted for the character’s score in Magic Theory when performing laboratory work that involves dark or sinister effects, and may be added to his score''
 ''in Magic Theory or the appropriate Art when determining how many pawns of infernal vis he may use at once. It may be learned by magi who belong to an appropriate lineage, tradition, or societas (see Chapter 13: Infernal Traditions), taken as a Hermetic Virtue during character creation, or initiated as part of an appropriate Mystery Cult (see The Mysteries Revised Edition for rules that may be adapted to this purpose).''
 ''There are other benefits to this Virtue, but all of them make the character’s magic a clearly Infernal Power when used, recognizable as such to magical and faerie Powers as well as Divine and Infernal ones, though he still benefits from Magic auras. He can use the special Ranges, Durations, and Targets associated with the maleficia in his spells — that is, he has access to Range Crossroads, Duration Cursed, Duration Forsaken, and Target Passion. If he has unholy Methods or Powers, he may substitute his scores in those Abilities for Philosophiae and Artes Liberales when casting appropriate''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Amulet bearing the sigils of angels* +7 ward against demons +7 banish demons''
 ''Brass +4 demons, devils, and angels''
 ''Candle made of goat fat +3 summon demons''
@@ -168,7 +168,7 @@
 ==Shape and Material Bonuses==
 
 
-|]
+|}
 ''rituals, so long as he performs the necessary actions associated with them. Use the guidelines for maleficia to determine which Method and Power (and which Technique and Form) are necessary for a particular effect. A chthonic magus may also act as the focus character for a ritual using the Ceremony Ability, adding the other participants’ Characteristic and Method scores to his Casting Total as normal. And, he may bind a demon as his familiar if he so chooses.''
 ''Finally, a chthonic magus may always add his lowest Art score to his Lab Total or Casting Total twice, much as if he had an applicable magical focus. To activate this, he must perform some kind of sinful act immediately before or during the casting, which influences and becomes part of the spell. This must be something that the caster himself knows to be wicked or evil (though not necessarily a mortal sin) and must be performed deliberately. Often this involves idolatry, sacrilege, profanity, or blasphemy: cursing at the target, invoking dark gods, or an ugly sacrifice. If the character already has his lowest Art score doubled (from a magical focus, for example), this effect triples it instead; that is, a chthonic magus with Diedne Magic would add his lowest Art three times when casting a spontaneous spell with fatigue.''
 
@@ -194,8 +194,6 @@
 ''The False Gift has no cost, like its magical counterpart, though it requires the False Power Flaw (see Chapter 9:''
 ''Infernal Characters). If the character is not a magus, he may also begin with one free Supernatural Ability as normal, but''
 ''this is automatically another False Power, and he does not take the False Power Flaw again to modify it.''
-
-[|
 ''Characteristics: Int  +2, Per –1, Pre +3,''
 ''Com +2, Str 0, Sta +2, Dex –2, Qik –1 Size: 0 Age: 31 (31) Decrepitude: 0 Warping Score: 0 (0) Confidence Score: 2 (5) Virtues and Flaws: The Gift; Chthonic''
 ''Magic, Hex; Improved Characteristics, Puissant Mentem, Puissant Perdo (free), Self-Confident; False Power (The Gift), Infamous Master; Lecherous (Minor), Overconfident (Minor), Tainted with Evil Personality Traits: Headstrong +3,''
@@ -218,5 +216,6 @@
 
 ==Releganta of Flambeau, False Maga==
 
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

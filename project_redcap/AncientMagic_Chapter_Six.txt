@@ -1,5 +1,5 @@
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''[T]he ancients also describe as mechanicians the wonder-workers, of whom some work by means of pneumatics, as Heron in his Pneumatica, some by using strings and ropes, thinking to imitate the movements of living things, as Heron in his Automata and Balancings, ... or by using water to tell the time, as Heron in his Hydria, which appears to have affinities with the science of sundials.''
 ''— Pappus, Book VIII Mathematical Collection''
 ''Throughout its history, Alexandria has been the crossroads of the eastern Mediterranean. For centuries, the Royal Museum and Library saw scholars from different cultures meet to exchange teaching and knowledge. Heron of Alexandria, who lived there in the first century AD, wrote extensively on mathematics, physics, pneumatics, and mechanics. His studies of metaphysics allowed him to derive certain principles underlying Neo-Platonic theory, which he shared with his best pupils. This led to the formation of a small order of mechanic-magicians, historically known as the Mechanicians, or wonder-workers of Heron.''
@@ -20,7 +20,7 @@
 =Heron of Alexandria’s=
 
 
-|]
+|}
 ''that help integrate Heron’s teachings into Hermetic theory.''
 
 ==Relics of Empire==
@@ -46,15 +46,15 @@
 ===Understanding Mechanica===
 
 ''A magus may wish to use a mechanica as well as study it. The magus spends one season in the laboratory investigating the device as per the Investigating Enchantments rules (ArM5, page 100). If the study total generated exceeds the level of the effect in the device, the magus understands the device sufficiently to use the device in addition to it possibly providing the researcher with Insight.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Ability Mechanica of Heron==
 
 ''Knowledge of what mechanica are, how to construct them, and how to use them. Primarily used in the laboratory to construct mechanica (see above).''
 ''Specialties: Inventing Mechanica, Constructing Anima, working with a particular material. (Supernatural)''
 
-|]
+|}
 ''Heron’s disciples used this Virtue to create and animate magicalmechanical devices called mechanica. The character with this Virtue must have The Gift and possess a Virtue that allows access to Academic Abilities. He begins with a score of 1 in the Ability Mechanica of Heron. The Ability can be improved by study, practice, or teaching. Mechanica can simulate any Creo, Rego, Perdo, or Muto effect on Auram, Aquam, Ignem, Mentem, or Terram. Ordinary mechanica may not have more than one effect, but awakened mechanica (see below) may have several.''
 ''Creating a mechanica requires a season or more of work in a laboratory after which the Mechanician matches his Intelligence + Mechanica of Heron Ability against a Mechanica Creation Level of (3 x the number of magnitudes of effect in the device). Mechanicians may also add the lower of the Philosophiae or Artes Liberales abilities to the total. They may also receive benefits for Inventive Genius, and make use of Arcane Experimentation (see ArM5, pages 107–109). Frequency of use, Penetration, triggers, and conditions (see ArM5, pages 97–98) can be used to modify the imbued effect and also affect its final magnitude. Mechanica are normally human-sized or larger. Making one small enough to be easily carried increases the Mechanica Creation Level by 3, or by 6 if the item is small enough to hold in one hand. The Mechanica Creation Level decreases by 3 if the device is wagon or boat-sized. Mechanica effects that require additional time to employ reduce the Mechanica Creation Level by 3. (These take 15 minutes per mag''
 ''nitude of effect to employ as per the Ceremonial Casting rules on ArM5, page 83.) These reductions can never reduce the Creation Level below 3. If the total exceeds the Mechanica Creation Level, the character has successfully created the item. Failure (due to experimentation, for example) indicates that time and half the materials are lost. Auras affect mechanica and their construction as per magical devices (see ArM5, page 187).''
@@ -162,8 +162,8 @@
 ==Major Supernatural Virtue: Mechanica of Heron, Continued==
 
 ''continued from previous page''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ===Study Mechanica: Intellego Vim===
 
@@ -231,7 +231,7 @@
 ===Lated Breakthrough Points > 30===
 
 
-|]
+|}
 ''nal possesses unique properties (see below). Mechanica of Heron Tractatus Quality 9''
 ''Catoptrica concerns the geometrical propagation of light, reflection, and the use of mirrors. In it, Heron states that vision results from light rays emitted by the eyes. He believes that these rays travel with infinite velocity. Most scholars attribute this book to Ptolemy. Philosophiae Tractatus Quality 8''
 ''Dioptra (named for a surveyor’s device) is a vast collection of geometric constructions useful for surveying. Included are engineering principles for tunnel construction as well as methods for transporting and measuring water. A chapter on astronomy''
@@ -239,8 +239,8 @@
 ''Metrica is a collection of volumes discussing geometry and logic. Methods for calculating the volumes of spheres and determining cube roots are interspersed with notes for their use in creating mechanica. These mathematical techniques are generally lost to Mythic Europe and the formulae are essential for the understanding of Mechanica. Artes Liberales Tractatus Level 7, Mechanica of Heron Tractatus Quality 10''
 ''Pneumatica is a magnificent collection of over a hundred mechanical devices and machines popular in''
 ''the first century. Among the devices detailed are the infamous Aeolipile (see below), trick jars that give out wine or water, singing birds and mechanical voices, puppets that move when a fire is lit on an altar, animals that drink when they are offered water, or mechanical fountains that dispense holy water after coins are inserted. All function through the use of air, steam, or hydraulic mechanisms augmented by the principles of mechanica. Readers with the Supernatural Virtue Mechanica of Heron may use the volume as a Lab Text when recreating any of the devices described — such a text gives a bonus on the Lab Total equal to its Quality when researching an''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''This Virtue confers the ability to awaken imbued devices.''
 ''Through the use of logical principles developed by Heron, a magus can awaken the spirit slumbering within a simulacrum. Magi should take great care in what they choose to awaken, as the resulting personality derives from its form and material. When awakened, the resultant being has one or more Personality Traits based on the material and simulacra of the body, as noted above. When designing simulacra, a magus may add a number of points to the Magic Might up to his Magical Theory score.''
 
@@ -324,7 +324,7 @@
 
 ''Investigation reveals that the last known Mechanicians lived in Constantinople during the sixth century. Stories hint that Emperor Justinian had Mechanicians in his employ, if he did not practice Heron’s Art himself. Among the mechanical marvels of his court were pillar-thrones that rose and fell on command, clockwork sundials, and a glorious nightingale that sang of''
 
-|]
+|}
 ''its own accord. Even the Hagia Sophia with its innovative architecture bears the mark of Heron’s dead hand.''
 
 ===Constantinople: The Ruined Metropolis===
@@ -351,8 +351,8 @@
 ''Alexandria may shock magi coming from the small cities and isolated covenants of Mythic Europe. Alexandria sprawls over several square miles of mud brick and stone. Like Constantinople, however, its population has diminished from its heyday to a “mere” 50,000. A vast fortress, the Citadel, built on the site of the Ptolemaic palace (and the Library of Alexandria), overlooks the city, and numerous madrasas (religious colleges) have made the city one of the great centers of Islamic teaching.''
 ''One of the Seven Wonders of the World, the Lighthouse of Alexandria still guides visitors arriving by ship to the harbor. The markets are a babble of unfamiliar languages. Goods arrive from as far away as India making pepper, silk and other rarities in Mythic Europe comparatively common. On a darker note, many of the unfortunates from the Children’s Crusade of 1212 were sold here as slaves and still labor in the city.''
 ''Numerous difficulties beset those searching for Hypatia’s tomb. Those without knowledge of the local languages (Arabic and Coptic), or of the city itself, must hire translators and guides. Without disguises, magi risk''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''discovery as “Frankish spies.” Blatant displays of magic bring them to the attention of Muslim scholars or sorcerers who may desire the contents of the temple for themselves. As befitting a major center of Islamic teaching, the Dominion is strong throughout the city, with an average aura of four. It is far higher around the numerous mosques, schools, and mausoleums.''
 
 ===Hypatia of Alexandria===
@@ -370,13 +370,13 @@
 ==The Library of Alexandria==
 
 
-|]
+|}
 ''the Dominion might make the magical regio reappear. Characters comparing the dates when the specter materializes realize these occur on the most inauspicious days of the Muslim''
 ''calendar. On those days, they may reason, the local Dominion must drop below the aura of the regio.''
 ''Failing this realization, spells to detect ghosts or magical beings may''
 ''reveal when the haunt reappears. Although such spells do not help unless the Temple of Serapis is accessible, at those times the spells readily lead to the gate of the old temple.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Hypatia, one of the last Librarians of Alexandria, created the Nightingale from gold, silver, and jewels. Designed as a companion and entertainer, the awakened mechanica’s beautiful voice enthralled all who listened to its jewel-like tones. The nightingale watched over Theon and his household, waking them with a clarion voice when fire or robber threatened.''
 ''After Hypatia’s murder, the bird came to the attention of Emperor Justinian and became a toy used to entertain the Imperial court. Centuries went by as the bird passed from hand to hand, until it was lost during the sack of Constantinople.''
 ''The nightingale can tell much of Heron’s lore, but it lacks The Gift and the proper understanding of magical theory necessary for it to be able to pass on the secrets of mechanica. It has seen much during its centuries of existence and knows much about the truths behind Byzantine history. The Nightingale loves philosophical debate and can discourse for hours upon Plato and Aristotle.''
@@ -435,7 +435,7 @@
 ''Serapis was a hybrid god whose worship unified the cults of several Egyptian and Hellenistic deities. Ptolemy I introduced him at the beginning of the Ptolemaic Period in Egypt, though Serapis’s legacy lasted well into the Roman period. He became the Egyptians’ supreme god, embodying the principles of divine authority and the sun, with power over fertility, the afterlife, and healing. Serapis formed a bridge between Greek and Egyptian religions so that both peoples could find common ground in their worship. Through the Ptolemaic Pharaohs and their Roman successors, Serapis was patron and protector of the Royal Library and Museum and many of its buildings were temples sacred to him.''
 ''While Serapis is a being of faerie, his temples are often magical sites due to the practices of the Mechanicians and other scholars who dwelt there. The temple where Hypatia and her father lived is one such location.''
 
-|]
+|}
 
 ===Eternal Braziers===
 
@@ -445,8 +445,8 @@
 
 ''Anyone standing in the doorway or attempting to leave the temple is in danger of being crushed by one of Heron’s prized thaumata: the automated temple door. These heavy''
 ''bronze doors slam shut or fly open with truly amazing speed. Those caught in the arc of the doors must make a Quickness – Encumbrance stress roll against an Ease Factor of 9 or be slammed for +15 damage. The''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Some decades after her death, the violent cataclysms of Alexandrian politics destroyed what remained of the Library, waking Hypatia from her rest. She found herself trapped within the temple, only able to leave when the Dominion ebbs enough to expose the temple’s Magical aura. In time, madness became a blessing.''
 ''Intellect gone, the spirit of the once-beautiful scholar prowls the temple, seeking any target for her pain. Her first priority is those carrying Christian symbols. Others, such as the scholars who failed to save her, the mob who killed her, and the soldiers who betrayed her, are all victims for the vengeful ghost. Magic Might: 25 (Mentem) Characteristics: Int +4, Per +1, Pre''
 ''+1, Com +2, Str –2, Sta +1, Dex +1, Qik 0 Size: 0 (non-physical) Age: n/a (30) Virtues and Flaws: Mechanica of''
@@ -499,7 +499,7 @@
 ''Several covenants of the Tribunal of Thebes maintain contacts or demesnes in Constantinople. These magi take a proprietary interest in the city and anyone venturing into it. One covenant, Michaels’ Tabula, has actually established their covenant in an abandoned mithraeum in one of the city’s many ruined districts. Currently, the covenant numbers about a half-dozen magi, mostly from House Jerbiton. Long-time residents of Constantinople, they have little love for “Franks,” or any magi hailing from the kingdoms responsible for the destruction of “the City.”''
 ''If this covenant discovers the investigating magi, they demand first rights to any mechanica and texts found in the city. This is a flagrant violation of the Peripheral Code, but the magi are presumably far from home and on this covenant’s home ground. If friendly relations can be established, the magi of Michaels’ Tabula may trade any Heronic texts or mechanica they have obtained over the years for vis or assistance in dealing with interloping Crusaders. Displaying such an interest in these “worthless” items may pique the inter''
 
-|]
+|}
 ''est of other magi in Heron’s teachings. The Seekers may find themselves with a race to uncover Hypatia’s tomb on their hands.''
 
 ===The Shadhali Brotherhood===
@@ -515,5 +515,6 @@
 ''Verditius may try to suppress or destroy knowledge of the Mutable Device technique or try to make it a House monopoly through legal means. House Verditius has considerable political capital and this may be enough of an occasion for them to use it.''
 ''While the techniques for Awakened Devices remain incompatible with the techniques for creating automata, Awakened Devices make excellent familiars and minions for those able to pay for their construction. Only the richest covenants and groups can afford them. If subsequent research integrates Awakened Devices with the existing automaton-crafting techniques, then the Verditius gain the ability to craft tremendously powerful magical servitors.''
 ''The heroic magus able to integrate the Mechanicians’ ability to create magical devices without the use of vis would change the face of the Order completely, but doing so would require a Hermetic Breakthrough — assuming it were even possible.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

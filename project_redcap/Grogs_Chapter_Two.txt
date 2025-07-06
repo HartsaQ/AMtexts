@@ -16,15 +16,15 @@
 
 =Grogs in the Covenant=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Understairs Rivalry==
 
 ''The serving folk have grown sick of the airs and graces put on by the personal servant of one of the magi, and feel she needs to be brought down a peg or two. They plot to cause her to look incompetent and foolish in front of her master by sabotaging her efforts. This might begin as simple teasing, but could easily progress into something dangerous without meaning to. For example, the serving folk might switch''
 ''the contents of two containers, not realizing what effect this will have on the magus’s lab work. This might force a roll on the Experimentation Table, and if the season of work is wasted or ruined, the magus will want to know why. The player characters could be the targeted servant and her friends, the saboteurs, or the characters trying to resolve the situation, such as the chamberlain and the turb captain.''
 
-|]
+|}
 ''are tailored, and so forth. Furthermore, this servant eventually grows used to her master’s Gift (see Chapter 4). Some personal servants become specialists of some kind, or even laboratory assistants if they have sufficient intelligence. Other magi prefer their personal servants to be their agents outside of the covenant. Of course, the extreme example of such a servant is a companion character, although most magi have a personal servant as well as a companion. On the other hand, there are some magi who barely register the presence of a personal servant. Despite having many similarities to specialists or even soldiers (see later), a personal servant is still very much responsible for day-to-day tasks around the magus’s sanctum. He ensures that his meals are provided on time, and are to his liking, perhaps even preparing them himself. He lays out his clothes for each day, sees to mending any rips and tears, and assists in his bathing routine. He may assist in shaving, cutting hair, and trimming nails, and understands the importance of destroying any remnants in sight of his master. He has a daily routine of tidying the living quarters and possibly the laboratory, and is certainly apprised of what he may and may not touch, although if the magus has an apprentice, the cleaning of the laboratory may be part of the apprentice’s duties rather than the manservant’s. Performing all these services for a magus is the mark of the personal servant; if he is exempted from these in lieu of other duties, then he is probably a specialist rather than a servant. Being the personal servant of a magus holds a certain cachet in the “understairs” hierarchy of the covenant, and personal servants form a privileged elite among the covenfolk. This might qualify them for the Custos Virtue, or the improved status might be more subtle than this. The personal servant''
 ''might hint at — or possess in reality — the ear of his master, and use this to secure better food or quarters for himself. He typically aggrandizes his master among the covenfolk (even if secretly he terrifies him), and the fortunes of a personal servant track the status of the magus within the covenant. Personal servants make good grogs to play. Unlike companion characters, a personal servant can easily be run by the player of the magus he serves, but it is often more fun if a different player is involved to assist with the dialogue between the two. The Abilities of a personal servant should complement those of his magus; some concepts are given here:''
 ''Type of Magus Personal Servants Aquam specialist sailor Astrologer instrument-maker Healer nurse, apothecary Herbam specialist	 gardener Holy magus cantor, acolyte House Flambeau squire House Guernicus scribe, advocate House Jerbiton artist, model, muse House Verditius forge companion* Monster hunter tracker Necromancer grave robber Theurgist worshiper/cultist''
@@ -34,8 +34,6 @@
 ''covenants require a dedicated person in this role. Large covenants may grant the chamberlain a personal staff of officials: one in charge of the food, another in control of the clothing, another overseeing the craftsmen, and so forth (see “A Noble Household,” later). Governing the servants of a covenant is covered by the Profession: Chamberlain Ability, and chamberlains are usually treated as specialists. Although it is not absolutely necessary, most chamberlains can read''
 ''and write and know basic arithmetic (all covered by the Artes Liberales Ability); this permits them to keep the covenant accounts, and a schedule for planning the harvests and other seasonal events, and to learn from the covenant rolls (see insert). A conscientious chamberlain can improve the overall attitude of the servants in the face of The Gift, by acting as an intermediary between the magi and the servants. The chamberlain mediates the effects of The Gift''
 
-[|
-
 ==The Covenant Rolls==
 
 ''The covenant rolls are the records of the accounts from previous years, and are an invaluable aid to the chamberlain. He can consult the rolls of previous years to plan ahead for the coming season, and if they are of sufficient age, the rolls allow him to make predictions for the harvest. The rolls serve as a summa for the Profession: Chamberlain Ability, typically with a Quality of 6. The Level starts at 2, but increases by 1 for every two decades of the covenant’s existence. A character could, in theory, learn the whole job of a chamberlain from reading the rolls of an old covenant. The rolls are also usually a tractatus of Area Lore: Covenant, of Quality 6. However, if chamberlains have made a habit of using the rolls as a diary, these tractatus build into an encyclopedia of Area Lore: Covenant. Every decade, a new volume is added to the encyclopedia, and every five volumes comprise a new tractatus of Quality 6 (for more on encyclopedias, see Art & Academe, page 27). A chamberlain cannot learn from the material he has personally contributed to the covenant rolls, so gets no benefit from any level increases during his tenure. If removed from the covenant, the rolls constitute an Arcane Con''
@@ -43,8 +41,6 @@
 ''rolls as a personal diary as well as an accounts book. They are of potential interest to an enemy, since the rolls might have all sorts of details about the covenant that could be exploited, such as a record of the building of secret passages, locations of vis sources, and special requirements of the magi. It is quite possible that the magi are totally unaware of the existence of the covenant rolls, and may be horrified at the level of detail innocently added by chamberlains over the years.''
 ''Story Seed: Undercover Accounts''
 ''The covenant rolls go missing, and the chamberlain places the player characters in charge of finding them again. This must be done without the magi discovering what they are doing, since the rolls contain all sorts of embarrassing observations about the magi made by the former (or current) chamberlain, and perhaps even secrets about the covenant itself. The location of the missing rolls could be innocent (the parchment-maker has scraped them clean, not realizing their importance) or potentially damaging (an enemy agent has taken them).''
-
-|]
 ''and boosts the Prevailing Loyalty of the covenfolk (Covenants, page 38, and Chapter 4 of this book). However, the chamberlain could just as easily poison the minds of his staff against the magi, and can reduce the Prevailing Loyalty instead of increasing it. Magi are usually careful to choose a trustworthy individual as their chamberlain, and to keep him happy. The chamberlain often has to contend with the personal servants of the magi, who seek to reserve particular resources or services for their masters that are needed elsewhere. These personal servants often treat the chamberlain as an equal rather than a superior, and in some covenants this is explicitly permitted. This is a very good way to alienate the chamberlain.''
 
 ==Specialists==
@@ -56,20 +52,18 @@
 ''fully placed to maximize their use to the covenant, as sources of information or remote assistance. A cautious covenant might have agents in the local bishop’s palace, among the staff of an important nobleman, or even in a rival covenant. The steward (see later) is usually responsible for coordinating the agency of a covenant, although covenants with large agencies often employ a factor to manage their agents. The factor is usually placed under the direct command of the steward. Agents still need to be bought with covenant build points like any other specialist, but they need not be included in the covenfolk roster when it comes to determining finances. Their salary is subsumed into the general budget of the covenant, unless the covenant maintains an unusual number of agents. Rules for recruiting and using agents are to be found in Houses of Hermes: Societates, pages 140–144.''
 ''The Steward''
 ''The steward is an appointed officer of the covenant charged with seeing to the needs of the specialists. This role differs from that of the chamberlain in that the steward is not normally in charge of the specialists, but he is ultimately responsible for ensuring that''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Autocrat==
 
 ''Arae Flaviae combined the position of chamberlain and steward into a single role, called the autocrat. Many covenants since have followed their example. The role of autocrat is an important one; he is in command of all the non-military covenfolk, and is therefore perhaps the most influential member of the covenant who is not a magus. Autocrats are occasionally permitted to attend meetings of the covenant’s council, and asked to provide reports. Some''
 ''autocrats are even allowed to comment on matters brought before the council, although if the matter is inconsequential to the covenant’s structure or inhabitants, their opinions might be ignored. The liber gregis has a lot to say about the role of the autocrat, all of it positive. Rather than being Beorhtric’s words, these sections are generally believed to derive from interpolations by the scribe, who reported directly to the autocrat.''
 
-|]
+|}
 ''they perform the job for which they are employed. The steward therefore makes sure that an artisan has the raw materials that he needs, that the animal trainer has sufficient cages, and that the forester has arrows made for him by the covenant’s fletcher. He also arranges purchasers for the goods made''
 ''by specialist craftsmen. In most covenants, the role of steward is not subordinate to the specialists (although he himself may be treated as one); he must marshal the resources of the specialists so that they provide the services demanded by the magi, and he is responsible for discipline. The role of''
 ''steward is governed by the Profession: Steward Ability, and they often have the Leadership Ability in addition. A good steward ameliorates the effects that The Gift has on the covenant’s specialists by ensuring that the magi are aware of the contributions of their skilled covenfolk, and suggesting''
-
-[|
 
 ==Troop Types==
 
@@ -79,8 +73,6 @@
 ''metal scale — and armed with long swords or maces, and round shields. The heavy infantry usually composes the greater part of an army; cavalry units can only be overcome with weight of numbers or with missile fire. Javeliners: Where longbows are not employed, the javelin is the principle missile unit. Javeliners are occasionally skirmish units, but are usually combined with standard infantry. Mounted Infantry: These are units that ride to battle and then dismount to fight; this tactic does not risk valuable horses, and lends superior mobility to the otherwise slow-maneuvering heavy infantry. Pikemen: These troops employ the long spear in a “hedgehog” formation of densely-packed men. These troops are commonly urban militia or peasant levies, but the Scots, the Flemish, the Swabians, and the Bavarians specialize in this unit type. The length of the weapon prevents men-at-arms from engaging, and can effectively break up a cavalry charge. Skirmishers: Light infantry armed with javelins, slings, short swords, or spears, and sometimes light shields. Skirmisher units are lightly armored to provide battlefield mobility, and are usually used to harry the enemy from the flanks or defend the heavy infantry.''
 ''Cavalry''
 ''Heavy Cavalry: The preeminent military force in the 13th century, knights are employed as shock troops at the beginning of combat. Lances are used for the initial charge, and the knights then switch to long swords, maces, or mace-and-chain. Chain mail is almost ubiquitous. Further from the heartland of Mythic Europe, conscripted heavy cavalry troops are employed in the Byzantine armies (the famed kataphractoi), and by the Bulgarians, Lithuanians, and Russians. Light Cavalry: Deployed principally in scouting, communication, and reconnaissance roles, and to join battle with enemy reconnaissance units. Light cavalry use swift horses and light armor, and usually carry spears or long swords. Occasionally, they carry missile weapons. Lancers: More lightly armored than the heavy cavalry, yet armed with long spears and used to support infantry in the absence of other cavalry units. Mounted Archers: Employed in Roman times but since then have lost favor; however, mounted archers are common in the east of Mythic Europe.''
-
-|]
 ''occasional rewards or singling out particular individuals for praise (Covenants, page 38). Much like the chamberlain, a poorly-treated or overworked steward may have the reverse effect, causing the covenfolk’s reaction to The Gift be heightened, and encourage disloyalty and rebellion. Rivalry between the steward and the chamberlain is quite common. Some covenants explicitly place the chamberlain as a specialist under the command of the steward, whereas others make them equals. Both branches of the covenant’s covenfolk perform important functions, but each branch chief elevates the importance of his staff over that of the other branch. This rivalry can seethe beneath the surface for many generations of covenfolk, while the magi remain blissfully ignorant of it, since it rarely impinges on their sphere of interest. The “Organization” section later in this chapter presents some ideas as to how such rivalries can generate stories. Many covenants avoid this potential rivalry through an autocrat who plays both roles (see insert).''
 
 ==Soldiers==
@@ -103,8 +95,8 @@
 ==Organization of Covenant Grogs==
 
 ''The organization of grogs in a covenant may have been arranged when the covenant was founded and reorganized deliberately as the covenant grew in size, or it may have developed organically over its history. This section presents a few concepts around which a covenant organization can be built. Naturally it is possible to mix-and-match; for example, a covenant’s soldiers might be organized in a hierarchical fashion, but its servants and specialists might be divided into nations. The manner in which the grogs are organized can be an impor''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Accelerated Group Training==
 
@@ -115,7 +107,7 @@
 ''Training Time Ease Factor Two Months 6 Six Weeks 9 One Month 12 Fortnight 15 One Week 18''
 ''The characters being trained gain experience only at the end of the season; there is no experience point bonus for participating in this accelerated training. When the training period is complete, they can function as a trained group (see ArM5, page 173).''
 
-|]
+|}
 ''tant determiner of the mood and feel of a covenant, and the troupe should put a bit of thought into which system they prefer.''
 
 ==Hierarchy==
@@ -131,15 +123,15 @@
 ''The marshal is the leader of the household knights or men-at-arms. He is also in charge of the horses and needs of the stables. In some households, he is considered subordinate to the steward, but in most covenants using this model, this is not true.''
 ''•	 The mesnie are the household knights of the lord, who form his bodyguard. These knights are responsible for training the squires and pages. •	 The men-at-arms are the lord’s personal fighting force, and are the equivalent of the turb. •	 The smith, farriers, and ostlers care for the horses of the household. •	 The carters also fall under the purview of the marshal, since he is responsible for all the household’s horses. •	 Messengers may be hired on at a daily rate, or else employed directly.''
 ''Underneath these servants with named jobs is a great mass of scullions, grooms, boy attendants, and helpers. More information on the disposition''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Tough at the Top==
 
 ''A grog character has recently been promoted to a higher rank, and he is still finding his feet. His biggest problem is not the new responsibilities; but instead his friends — now part of his command — and his rival for the position. The latter is eaten with jealousy toward the player character, and''
 ''in a moment of weakness turned to a witch to secure his revenge. The grog is now under a curse which, whether real or imagined, is blamed for the misfortune that dogs every step he makes. The grog may need his friends to help him get the curse lifted and expose the malfeasance of his rival.''
 
-|]
+|}
 ''of a noble household is given in Lords of Men.''
 ''Military Hierarchy''
 ''Rather than dividing the covenfolk by role, a covenant can take a more military approach. In this organizational system, the covenfolk are divided into squads, each of which consists of soldiers and their auxiliary staff. An army in Mythic Europe is largely free of intermediate ranks. The marshal is in charge of his lord’s household troops, including the knights and men-at-arms. If his lord goes to war, the marshal takes charge of the menat-arms, while the lord commands the knights; otherwise, he leads the knights himself (in lieu of the tenantin-chief, thus the later rank “lieutenant”) and appoints a captain to command the men-at-arms. This model is appropriate for military-minded covenants, but not necessarily only them. In a similar way to dividing covenfolk into nations (see later), this structure can fill a role where, for example, the covenant is divided over several geographically separate sites. The difference to the system of nations is that, in a military hierarchy, each squad is not independent of each other. Exempli gratia: Traditional covenants like to follow the early Roman model, where the manus (“hand,” singular and plural), comprised of a squad of four men plus their leader''
@@ -153,15 +145,15 @@
 ''The most natural nations form around familial bonds. Old covenants, in particular, have covenfolk who were born in the covenant and have served the magi all their lives. These families can stretch back generations, each one tracing its ancestry back to one of the original servants of the covenant, or even one of the magi. Alternatively, a covenant might, at its foundation, have incorporated folk from the local area who were already strongly divided along family lines. It is usual for a woman to join her husband’s family when they marry, but this is not always the case: in Irish clan structures, for example, the man may join the woman’s family. Family-based nations usually have a clear leader, who is often the eldest living member of that family, although some have a council of elders, or an elected head, or a clear line of succession. Families often share distinctive physical features or character traits, and may even inherit particular patterns of warping. Exempli gratia: When founded, a covenant employed four brothers, who all went on to have prodigiously-sized families. Three of these families still persist (the fourth has since perished), called Rufus, Flavus, and Fuscus, since the families tend to be red-headed, blond, and brown-haired, respectively.''
 ''Ethnic Groups''
 ''The student bodies of some universities in Mythic Europe are divided into nations, with each nation responsible for the conduct and protection of each of its members (Art & Academe, page 94). These nations are usually loose geographical groups; the closest ethnic groups are well represented,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Family Business==
 
 ''At the deathbed of a family member, the grog characters discover that their family hides a dark secret. One of their ancestors pledged his soul to a demon, along with one soul from every subsequent generation. The player grogs are among the eligible members for''
 ''the demon’s appetites, but to secure help from the rest of the covenant, they must betray the darkest secret of their family, condemning them to unbearable shame and dishonor. And how will the magi react if they discover that they have diabolic covenfolk?''
 
-|]
+|}
 ''whereas more distant students are lumped into much wider categories. Some covenants, particularly ones that straddle borders or have been formed from the merging of two or more turbs with distinct racial identities, use this structure. Exempli gratia: A covenant on the border between France and Spain might have the nations of Castellan, Occitan, Francian, and German, based on the native language of the members. The German nation takes anyone who doesn’t speak Spanish, Occitan, or French. Exempli gratia: A covenant in the Holy Land might have been founded as a joint venture between Hermetic magi and non-Hermetic wizards. It therefore has two nations: Occidens, consisting of the Western covenfolk who accompanied the Hermetic magi; and alMashriq, consisting of the Arabic covenfolk who serve their eastern masters.''
 ''Divided by Location''
 ''Nations may also form where a covenant is split over several geographically separated sites, or has deliberate spatial separation of its turb. There may be some separation of function in these nations; the nation that lives offshore probably has more sailors and fishermen than the nation that occupies the nearby hills, but both nations need their own specialists, soldiers, and servants. Exempli gratia: A covenant occupying an isolated fort high on a mountain has the nations of Castellum, Moenia, Montes, and Silva. The Castellum grogs live in and defend the fort, the Moenia nation guards the outer walls, the Montes patrol the tundra above the treeline, and the Silva grogs hunt in the woods below the treeline. Each nation consists of servants, specialists, and soldiers with skills appropriate to the habitat in which they dwell. Exempli gratia: A covenant occupies a number of small islands on a lake. None of the islands is big enough to support sancta for all of the magi, so each island is home to a single magus, and the staff he needs form indepen''
@@ -173,29 +165,29 @@
 ''(Covenants, page 19) can be bought if this situation is desirable.''
 ''Professional Guilds''
 ''Clearly a good model for covenant organization is the craft guilds, service guilds, and merchant guilds that are becoming more widespread in Mythic Europe in the 13th century. Once confined to big cities, guilds can now be found almost anywhere, at least in the West, and they regulate the quality of the goods produced by their members. A guild consists of all craftsmen that use the same or a group of closely allied Craft or Profession Abilities. However, at a covenant, a guild might exist for each Martial Ability, or perhaps even for select groups of Arcane or Supernatural Abilities. The guild provides incomes for the destitute and disabled, pays for the funeral services of deceased members, holds its own religious ceremonies, and sometimes even provides schooling for their members’ children. At the head of a guild is the dean, elected by the guild members from among their number. The dean is supported by the aldermen (guild officials), who police the guild, ensure the quality of the work, and enforce the guild rules. Below the aldermen are the senior masters and masters. A master has sufficient skill to run his own shop, and has the right to attend meetings at the guildhall and have a say in the run''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Lack of Guild Funds==
 
 ''The leader of a soldiers’ guild is either incompetent or corrupt, and as a result, the guild has insufficient funds to subcontract other covenfolk for the basic needs of his guild, such as repairing clothes and armor. The soldiers begin to look shabby, and their equipment is of substandard quality. Keen to hide his mis''
 ''takes, the guild leader is open to “outside contractors,” and when approached by a mysterious stranger who seems to ask for very little in return, he is eager to employ him. This stranger could be a faerie, demon, or spy from another covenant seeking to worm his way in to the covenant.''
 
-|]
+|}
 ''ning of the guild. Senior masters have been masters for ten or more years, and may run more than one workshop, which can prove very lucrative. Each master might have one or two journeymen and several apprentices, who form the lowest rungs of the guild ladder. More information about guilds can be found in Chapter 3 of City & Guild. The difference between a professional guild and other forms of governance is that the guild exists because its members want it. They have an expectation of advancement through the guild’s ranks, and to one day have a say in how it is run. A guild might be a more familiar system for players who are used to concepts of social mobility and providing benefits for the hard workers, although this is an anachronism for much of Mythic Europe outside of the professional guilds. Exempli gratia: A covenant has three guilds of soldiers: the Red Lions, the Golden Hawks, and the Green Horses. The Red Lions''
 ''provide the infantry, and are also responsible for guarding the residences of the magi. The Golden Hawks are archers, and man the gate and walls of the covenant. The Green Horses are a cavalry unit, and maintain all the covenant’s stables, not just their own. These guilds are permitted to train their own junior war''
 ''riors, and select their own sergeants and captains. The covenant grants the captain a lump sum each year, which is distributed among the soldiers as wages, with some kept in reserve for funeral expenses, rewards, and so forth. Each captain is in charge of the discipline of its own men. Each guild must subcontract the covenfolk for any services, such as care of the sick and injured, or repair of armor or weapons. Exempli gratia: A large covenant has seven guilds named after their patron saints. The Guild of St. Peter consists of the bakers, cobblers, and masons of the covenant; the Guild of St. Luke consists of the glassmakers, physicians, and bookbinders; and the Guild of St. Matthew contains the personal guards of the magi, their servants, and the senior staff. The Guild of St. James supports the cavalry, laborers, and tanners; the Guild of St. Michael contains the soldiers, sailors, and merchants; and the Guild of St. George contains the archers, armorers, and farmers. Finally, the Guild of St. Andrew cares for the fishermen and all the unmarried women (once they marry, they join their husband’s guild; if they are widowed, they return to St. Andrew’s patronage).''
 ''Monastery''
 ''A monastery is designed along a guild structure. Unlike the clear hierarchy of the noble household, the abbot of a monastery designates officials''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Guild Contest==
 
 ''Every three years, the guilds of a covenant hold a contest that determines the precedence of the guilds. The leader of the winning guild becomes the steward for the next three years, and his guild is accorded many petty privileges: they are seated first for dinner and receive better bread and cleaner salt; they have first pick of new tools; they get the quarters farthest from the pig-sties; and so forth. Suffice to say, it is a serious business. The contest consists of a series''
 ''of physical and mental trials set by the magi, and for as long as anyone can remember, one particular guild has won. This year, however, another guild has a chance, thanks to a secret weapon — the player grogs. They have either acquired some magical item that will assist the guild in winning, or else have good relations with the magi who might be persuaded to help. Naturally, the incumbent guild does not sit idly and permit their rivals to gain the upper hand and break their hegemony.''
 
-|]
+|}
 ''to manage each aspect of the daily life of the monastery. These officials are then responsible for meeting the monastery’s needs in their department, and can requisition manpower and finances as needed. This is a good model for a small covenant, where staff need not be permanently designated as a cook or a chambermaid, but instead take on such roles as requested. The abbot is the secular and spiritual leader of a monastery. He appoints various senior obedentiaries to care for different departments, so the terrar is in charge of the estate, the cellarer in charge of food, the bursar in charge of money, and so forth. Rather than having a staff or workforce assigned to each, these positions permit their holder to request the assistance of the other monks in the completion of their tasks. For more information on the internal structure of monasteries, see The Church, Chapter 4. Exempli gratia: The covenfolk of a small covenant have been divided into four “guilds,” one serving each of the four magi (the magistri). The prefect works for the magister militaris, and is tasked with maintaining the covenant’s soldiers in a battle-ready state. The cellarer works for the magister aedificius and is in charge of the covenant’s mundane resources: its money, food, and consumables. The sacrist works for the magister flaminis and is responsible for the magical resources of the covenant: the laboratories, the library and scriptorium, and gathering the vis. The herald works for the magister legatus, and deals with all outside relations with other covenants and with the local dignitaries. None of the grogs are permanently assigned to any of the four magi, but if vis needs to be collected, the sacrist pulls together a team of the most appropriate grogs and sends them off on a mission. At harvest time, the cellarer gathers most of the available personnel to bring in the wheat.''
 
 ==No Formal Structure==
@@ -207,8 +199,8 @@
 ==The Life of a Grog==
 
 ''Living at a covenant usually offers better prospects than most peasants or townsfolk can otherwise expect. They have a job for life, so long as they prove useful. Food is provided communally, and the buildings are''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Rivalries and Tension==
 
@@ -217,14 +209,12 @@
 ''Minor Residents Hook: Warring Covenfolk''
 ''The covenfolk are divided into at least two factions, who cannot see eye-to-eye, and this rivalry has gone beyond petty annoyances to a situation where it can occasionally interrupt the smooth running of the covenant. The magi are either unwilling or unable to resolve whatever started the conflict, although their attempts might also lead to stories. This is not the same as either the Divided Loyalty or Rebellious Covenfolk Hooks (Covenants, page 19); the different factions of covenfolk can be equally loyal (or disloyal!) to the magi.''
 
-|]
+|}
 ''maintained at the covenant’s expense. Covenfolk can expect the soldiers and masters of a covenant to protect them from the usual perils of life, such as bandits, marauding armies, plague and pestilence, and natural disasters such as flood and fire. Furthermore, it is likely that one’s children will also have a job for life, should they want it, and a pension is provided in one’s dotage. The biggest downside is living in close proximity to magi, not only because of their dubious reputation, but also due to all the bizarre phenomena that they tend to attract. This section deals with some of the day-to-day issues faced by grogs at a covenant. The section on duties applies mostly to soldiers, rather than servants or specialists. However, the serving staff tend to follow similar watch patterns to the soldiers, since they must provide food for the soldiers when their watches are complete, and they must arrange their cleaning schedules around their duties. The remaining part of this section applies equally to all grogs — what they do on their free time, how they are rewarded and punished, and what the covenant provides for them in terms of accommodation and pension.''
 
 ==Duties==
 
 ''A soldier’s time is divided into three periods: duty (or watch duty), off-duty, and free time. He actively guards the covenant when on duty, does other jobs around the covenant when off duty, and has self-governed time to himself (usually reserved for sleeping) when free. The turb is usually divided into two patrols (the day and night patrols), of roughly equal size. Both patrols pull a duty during the day and the night, but the day patrol has its off-duty during the day and sleeps at night, whereas the night patrol sleeps during the day and has its off-duty during the night. The two''
-
-[|
 
 ==Watch Patterns==
 
@@ -235,8 +225,6 @@
 ''Double Duty''
 ''The grogs are divided into two double-watches; as before, the day and night patrols have different assignments when not on duty. One half of the covenant’s grogs is combat ready, and another quarter can quickly support them; the remaining quarter is asleep.''
 ''Shift 1st and 2nd 3rd and 4th  watches (night/day) watches (night/day) Eventide Duty Off / Free Nighttide Duty Off / Free Midnight Off / Free Duty Foredawn Off / Free Duty Morntide Duty Free / Off Forenoon Duty Free / Off Afternoon Free / Off Duty Foredusk Free / Off Duty''
-
-|]
 ''patrols swap duties periodically, so that the day patrol becomes the night patrol and vice versa. This typically occurs every one to three months. A patrol may be split further into different areas of the covenant, so that each patrol might consist of a wall patrol, a gate patrol, a keep patrol, and so forth. However, an individual might not perform the same service in each of his duties: on one duty, he might be on wall guard, and on his next duty, he may be patrolling the tower or the forest. The liber gregis suggests that a minimum of two grogs constitute each sub-patrol if possible. The turb captain is responsible for keeping track of the duties and patrols, but a sergeant usually issues orders and assignments to the men. The grog’s mess hall usually has a peg board, letting a grog know where and when, and with whom, he is on duty. Each column on the board indicates a different patrol, and a grog finds his mark on the side of the board and reads across to discover what patrol he’s been assigned.''
 ''The Watches''
 ''The liber gregis sets out the expected pattern of sentry duty, both on expedition and while stationed at the covenant, and the system it adopts is broadly based on the Roman model. The 24 hours of the day are divided into eight watches of three hours each: four day watches and four night watches.''
@@ -322,5 +310,6 @@
 ''Pensions''
 ''A grog’s pension is one of the enticements that keeps a grog at the covenant. Few professions allow their members to continue to draw a wage after their working life has ended, but ever since Rome, this has been''
 ''the prerogative of the professional soldier, and many covenants have extended this right to all of their grogs. Pensions are usually half to threequarters of their former pay. Covenants occasionally charge rent for the accommodation of their retired members (and thus avoid having to pay them any pension), but still provide food free of charge. A widow is normally granted the pension that would have been owed her deceased husband. In any case, the widow of a grog is usually cared for by the other grogs who worked with her husband.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -1,4 +1,22 @@
 
+=Chapter Header=
+
+
+==Chapter Number==
+
+
+=Chapter Header=
+
+
+==Chapter Number==
+
+
+=Chapter Header=
+
+
+==Chapter Number==
+
+
 =The Purgatory of Saint Patrick=
 
 ''The Purgatory of Saint Patrick is one of the most important pilgrimage sites in Ireland. Beneath an island on a lake in a remote part of the country is a gate to Purgatory itself, put there by Saint Patrick to teach his congregation of the horror that awaits the sinful in the afterlife. The canons who tend the site can cause petitioners to cross over and witness the punishment of sinners on the eight fields of torment, a spectacle that can bring its own spiritual rewards as the culmination of a pilgrimage. The pure might even get a glimpse of the Earthly Paradise, where shriven souls wait in bliss for Judgment Day. For those less interested in spiritual improvement, the Purgatory of Saint Patrick still holds interest. For those who dare its fiery depths there are opportunities to fight with demons, to speak with souls who are beyond the reach of Hermetic magic, or, for the truly daring, a chance to ransom a soul from punishment and restore her to life!''
@@ -27,8 +45,8 @@
 ''The aura on Inisnaoimh is an Empyreal aura of level 4. Empyreal auras (Realms of Power: the Divine, page 7) are Divine auras that do not derive from worship.''
 ''The only structure on the island is a small church, and built into the crypt of the church is a cave-like cell. When people are brought over for the ritual, they spend fifteen days in prayer and fasting in this church. There may be five or six people at any one time at different stages of their vigils; more if a group is preparing together. When the vigil is complete, a Mass is held, and the officiating priest asks the penitents for the third and final time if they are prepared to go through with the trip. The penitent is installed in the cell at dusk, and the door is left locked until just before dusk on the following day, when a new penitent is installed. The entrance to the cave is kept locked by the canons. It has a narrow entrance, just two feet wide and three feet high followed by a short flight of steps. The chamber beyond is only five feet high and nine feet long. There is a second chamber of similar dimensions. Here, the canons conduct a rite amounting to an imitation of death. Those undergoing this rite are laid upon a slab and the canons perform the Office for the Dead.''
 ''As part of this Mass, Brother Bressal leads the other canons in ceremonially casting two Divine effects. The first causes all spirits and souls to become visible (including those of the penitents); the second opens a gate to Purgatory, allowing the penitent to pass through if he wishes. Characters can follow their comrade into Purgatory if they wish since they can now see his soul. The canon has True Faith and has been trained in Divine magic, and he is assisted by four other canons who have had training in the Purity Method. He can rely on a Ceremony bonus to his casting total of at least +16 (equal to the sum of his assistants’ Stamina + Purity, see Realms of Power: the Divine Revised Edition, page 36 for more details on the Ceremony Ability). He also spends a Faith Point when opening the passage to Purgatory. Although referred to as a vision, this is not a hallucinatory experience. Anyone passing through the gate to Purgatory is bodily transported into the regio, and experience for real the torments and wonders beyond. Very occasionally, a person does not return''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==What You’ve Heard==
 
@@ -44,7 +62,7 @@
 ''Lost Secrets''
 ''• Sometimes, those locked into the cave on Lough Dearg do not return; it is understood that a penitent can perish in Purgatory and become a permanent resident. • Purgatory has an entrance to Hell, and the Earthly Paradise has an entrance to Heaven. A living soul might possibly be able to enter either the Infernal Realm or the Divine Realm after his trip to Purgatory. • The Fountain of Youth is said to lie within Purgatory.''
 
-|]
+|}
 ''from Purgatory. Brother Bressal has his name inscribed on a plaque which is installed in a secret crypt. The Guardians of Purgatory say daily Masses for such lost souls. Virtually everyone entering Purgatory from Inisnaoimh receives the Vision of Hell described below. The lucky few who defeat the perils they encounter also receive the Vision of Heaven. Characters who possess True Faith are spared the horrors of Purgatory if they wish, and may choose to experience just the Vision of Heaven.''
 ''The Pilgrims’ Progress''
 ''Most pilgrims who enter the Purgatory of Saint Patrick do so to fulfill the requirements of their penance and expurgate their sins. They witness the horrors of Purgatory, in particular the tortures that are applied to those guilty of their particular moral faults.''
@@ -59,13 +77,15 @@
 ''Owayne Miles''
 ''The Vision of Hell is not the true Hell, but rather a trip through Purgatory. In the division described by Saint Augustine, Purgatory is the domain of the mali non valde (the not completely evil). The rite performed in the cell by Brother Bressal opens a gate to Purgatory, and the character is guided through. To the character it seems like the canon has brought him to a door in the cave and guided him through. If the holy magician has employed his miraculous power that enables characters to see souls, then the other characters in the room can follow the affected character across the regio boundary''
 ''and into Purgatory. Upon going through the door, characters enter a long hall without walls. This is a Divine regio of level 6, but the character is guided through by the canon, and need not make a Regio Sight roll (ArM5, page 189). Should he wish to return to the cave under his own power, the Ease Factor is 9 for moving from a Divine aura of 6 (the hall) to a Divine aura of 4 (the cave). In the hall, characters are greeted by a man dressed in a black robe like the Augustinian Canons Regular, but not someone whom they met in the chapter house. The man tells the characters that they are in grave danger, and that their lives and souls are at stake. They are exhorted to resist the temptations of the fiends that wait ahead for them, but equally they are warned not to ever turn back; should they attempt to return without completing the journey, their souls may be eternally consigned to Hell. If the characters pledge to continue, the guiding monk leads them through an immense fire which springs up in the hall. The flames do not burn, but when they emerge from the fire they in the first part of Purgatory, the Field of Chains. Purgatory lies within a Tartaran Infernal regio of 8 (see Insert), but again, the charac''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Time in Purgatory==
 
 ''Time is an odd thing in Purgatory. The ruler of Purgatory (see Pasiel, later) is capable of manipulating the individual experience of every soul to maximize its suffering. One soul might experience a single, endless moment of torment, whereas another experiences the relentless march of decrepitude and senility several times a day. For living characters, time appears to pass at the rate experienced by nearby sinners; or, if they are unlucky or foolish enough to draw Pasiel’s attention, at a rate determined by its whim. In the Earthly Paradise, however, there is no sensation of time at all. There are no heavenly bodies or changing seasons, and nothing therein ages, spoils, or expires. External frames of reference such as the duration of a spell or enchantment are meaningless, since a minute, a day, and a year all seem to take the same amount''
 ''of time. Regardless of the apparent passage of time, living characters returning to the mundane realm arrive at a point determined by the inscrutable powers of the Divine. For most short trips into Purgatory, this is the same night in which they left. Characters who get lost in Purgatory, or who achieve the Earthly Paradise, may return much later, if at all. Either way, characters make aging rolls for the time passed in the mundane realm, not the apparent time spent in Purgatory or the Earthly Paradise. Characters cannot use the differential passage of time to gain experience points; the distraction of Purgatory or the Earthly Paradise is to great to allow study, practice, or receiving instruction. Story experience applies as normal once the characters return from their ordeals.''
+
+|}
 
 ==Brother Bressal==
 
@@ -75,8 +95,6 @@
 ''New Miraculous Effects''
 ''These three Miraculous Effects are employed as part of the duties of Brother Bres''
 ''sal. They use Ranges and Durations listed on page 68 of Realms of Power: the Divine Revised Edition. Range: Presence affects anyone within the caster’s personal aura, which is 15 paces for Brother Bressal; Duration: Office lasts until the next hour of formal prayer, usually about three hours. And they cast lots, as well the small as the great, according to the house of their fathers, for every gate Meditation, Understanding Level 15 R: Per, D: Office, T: Ind As he handles a lot representing someone who wishes to enter the Purgatory of Saint Patrick, the recipient receives a vision telling him whether or not to choose it. The recipient can examine more lots for the duration of the power. This power might defeat any attempt to magically tamper with the lots, depending on how the tampering is done. (Base 10, +1 Office) Then a spirit passed before my face; the hair of my flesh stood up Meditation, Intervention Level 25 R: Presence, D: Office, T: Room Causes all spirits and souls within the target area to become visible. This includes the spirits of living people, which appear as the person usually does. If the person is invisible or otherwise changed from his usual shape, his normal appearance is superimposed on his current appearance. (Base 4, +2 Presence, +1 Office, +2 Room) For thou hast power of life and death: thou leadest to the gates of hell, and bringest up again Purity, Intervention Level 40 R: Touch, D: Mom, T: Ind This miraculous power can only be used at a worldly entrance to Purgatory. A doorway into Purgatory is opened, and those who pass through must find their own way back. (Base 35, +1 Touch)''
-
-|]
 ''ters need not make a Regio Sight roll to cross over since the guide has led them through. Should they wish to return on their own to the hall, the Ease Factor for the Regio Sight roll is 33 (moving from an Infernal aura of 8 to a Divine aura of 6). The monkish guides are as much a feature of Purgatory as they are physical be''
 ''ings. They do little other than to show the characters the way; their presence also prevents demons from attacking the characters as they witness Purgatory’s sights. If they are attacked for some reason, they are simple to kill; they do not fight back, and should be treated as mortal noncombatants. Purgatory appears as a cavern, so vast''
 ''that the roof is lost in darkness and smoke. The floor of the cavern is filled with the human souls and their hideous demonic torturers. The regio is dimly lit by ubiquitous fires that emit malodorous smoke reeking of brimstone and burnt flesh. There is constant noise caused by the screams, wails, and cries of countless souls in suffering.''
@@ -93,15 +111,15 @@
 ''Sinners in this field are affixed to an immense wheel that burns with a ferocious heat. With much groaning and screaming, the wheel turns; and those bound to it start to burn, slowly at first, but are soon blazing away. When the fire reaches their bones it consumes them utterly, leaving nothing but fine white ash — and yet somehow they are still affixed to the wheel, whole and anew, ready for another round of burning. Those suffering this punishment are guilty of the sin of covetousness: more than a simple lust for material wealth, this is the sin of wanting — and taking — what other people have.''
 ''The Mountain of Blood''
 ''The slopes of a blood-red mountain are the scene of the next punishment: a frigid blast of wind carries victims aloft into the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Tartaran Regiones==
 
 ''(Summarized from Realms of Power: the Infernal, pages 16–17) Tartaran regiones are places of hellfire. This fire requires no source of fuel, and in fact burns rocks, water, and other substances which are not normally combustible. This hell-fire forms into lakes of fire, and may coat any surface no matter what its orientation.''
 ''• No Fatigue levels can be recovered within the regio, and all Fatigue levels lost are Long-Term Fatigue. • Characters carrying substantial amounts of metal are affected by continual Heat of the Searing Forge. • Flames inflict +5 to +35 fire damage if touched, depending upon how much of the body is immersed. • Add sum of the sinful Personality Traits to all fire or heat Damage Totals, counting negative virtuous traits as sinful.''
 
-|]
+|}
 ''air, covering them with ice and snow. The wind then reverses and hurls its passengers into a stinking river of filth. Iurgatores use their hooks to retrieve the sinners from the river, whereupon the blast of wind captures them again. This punishment is reserved for the violent; those who abuse their neighbors or their selves. Confined to this field are murderers and batterers, also the profligates who wantonly destroy purely for the love of destruction, anarchists, malicious gossips, and suicides. Often, punishment here follows punishment on the Field of Nails for the self-indulgence of the sin that then led to violent behavior.''
 ''The House of Flames and Smoke''
 ''A sturdy hall built of stones stands here; those entering are confronted by the immense heat and acrid smoke emanating from it. Inside are circular pits, each one filled with molten brass, lead, copper, and caustic brimstone. The men and women being punished here are immersed in the pits, some to their navel, some to the chest, and others to the chin. Those who are punished in the House of Flames and Smoke are sinners who have indulged in perverse appetites that have corrupted the body or soul. This includes alcoholics, gluttony to the point of ill-health, gambling to the point of poverty, and the like. Those who have committed violence against God are also here — blasphemers, perpetrators of bestiality, usurers, and the like. Like the Mountain of Blood, sinners punished here have usually also been punished on one (or more) of the previous fields; this field is about the consequences that come from self-indulgence or sloth.''
@@ -117,15 +135,15 @@
 ==The Bridge to Paradise==
 
 ''There is a single bridge that crosses the Boiling River. The characters are told by his monk-like guides that this is the bridge to Paradise. They step back, because they cannot follow him, or force him to cross. The bridge is carved out of the naked rock, and is knife-thin. It appears to be hundreds of yards across, and the river descends into a''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Furnace==
 
 ''The Furnace underneath the House of Flame and Smoke is the source of all of Purgatory’s flames. Its slag heats the Boiling River (see later) and flows into Hell. The Furnace is constantly stoked by the Iurgatores, and Xaphan, the Forge-Man of Hell (Realms of Power: the Infernal, page 76) is occasionally found here. Anything can be used as fuel, although souls are the most common commodity. The Furnace has a curious transmogrifying effect; certain things burnt within it are changed rather than consumed. If vis of any Art is thrown into the Furnace it can be retrieved as Ignem vis. Enchanted devices emerge untouched, but with their powers changed into Ignem effects of the same level. Mortals find that''
 ''one of their Virtues or Flaws is exchanged for a different Virtue or Flaw, with a fiery theme — a character might find that Inventive Genius becomes Puissant Ignem, or that Lame becomes Ignem Monstrosity (Realms of Power: Magic, page 46). These changes seem to violate the Limit of Essential Nature and the Limit of Vis, and magi might be interested in using the Furnace as a source of Insight into original research on such subjects. It takes at least a season to obtain an insight, during which time the characters need to keep hidden from the demons who stoke the flames, whilst using the Furnace to transform all manner of objects. The Furnace provides an insight towards the creation of a 50th level effect.''
 
-|]
+|}
 ''deep ravine, making the journey even more precarious. Although this can only be barely seen from the foot of the bridge, the Boiling River descends into the true Hell, and characters on the bridge can get a glimpse of the Infernal Realm, although it seems a mile below them. Those refusing to cross the bridge must find their own way out of Purgatory. This involves walking back to the Field of Chains, and attempting to cross the regio boundary into the hall, and from there, the cave. Those setting forth on the bridge might not fancy their chances; it is narrower than the width of a foot. Those who have learned from the Vision of Hell, and resolved to change their behavior, find that each step becomes easier than the previous, and the Bridge to Paradise becomes wider and wider as they progresses along it. Characters who are here for selfish reasons must struggle with the bridge remaining knifethin; those who persist must make three successive Dexterity + Athletics stress rolls''
 ''of Ease Factors 6, 9, and 12 to make it to the other side. Magic avails little, because the bridge is actually a regio boundary into the Earthly Paradise. Crossing the bridge on foot allows the character to enter the Divine regio automatically, but crossing in any other manner requires a Regio Sight roll of 37 (passing from an Infernal regio of level 8 to a Divine regio of level 8). Attempts to instantly transport oneself fail since they cannot cross the boundary, and those able to fly find themselves hopelessly mobbed by winged demons. Spells are not entirely useless; a magus could improve his balance, for example, or cast a Divine version of Piercing the Faerie Veil (ArM5, page 158). Anyone falling from the Bridge to Paradise appears to plunge into the Boiling River, but is actually transported through the regio boundary out of Purgatory and back into the cave on Inisnaoimh.''
 
@@ -134,14 +152,14 @@
 ''It was green, and full of flowers, of many diverse colors; it was green on every side as meadows are on summer’s tide. […] There they have the tree of life, Therein the mirth, and never strife; […]There was no wrong, but ever right. Ever day and never night. There shone as bright and more clear, Than any sun in the day does here.''
 ''Owayne Miles''
 ''For those characters who have attained the Earthly Paradise, the bridge becomes wide enough to allow two carts to pass. Stepping off the end of the bridge takes the character from Purgatory’s Infernal aura into the Earthly Paradise’s Divine aura, specifically a Celestial regio of level 8. The Earthly Paradise is the domain of the Archangel Shamshiel, who has a Divine Might of 75. Although this angelic being watches over every aspect of the Earthly Paradise, characters visiting here will not meet him unless they do something foolish, such as try to eat from the Tree of Life.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Mirror of Souls==
 
 ''Somewhere in the Abyssal Pit is a mirror that reveals the true face of anyone whose name is spoken. Having revealed the face, the viewer can then broaden the view to scry upon the person and his immediate environs. The Mirror actually works on any Sympathetic Connection, not just a name, and can even be used to find earth-bound demons. It can also find people in Purgatory, but not if they are in Heaven or Hell. Pasiel (see later) occasionally uses the Mirror to locate missing souls. Merely displaying a face does not appear to need to Penetrate Magic Resistance, but subsequent scrying does, using the Mirror’s Penetration of 50. The Mirror of Souls cannot be removed from the Abyssal Pit, but anyone studying it in situ for a season can use it as a source of insight for Original Research into subjects such as bypassing the Limit of Arcane Connections or the Limit of the Infernal. The Mirror provides an insight towards the creation of a 50th level effect.''
 
-|]
+|}
 ''Much like Purgatory, for most characters there is little to actually do in the Earthly Paradise other than witness its glory, but the storyguide should not be tempted to gloss over this part of the story. The Vision of Heaven is the character’s reward for struggling through Purgatory and abjuring their sinful behavior. It is also a promise of what they can look forward to should they remain on the path of righteousness. This should make a lasting impression.''
 ''The Gate of Paradise''
 ''At the end of the bridge is a gate of pure gold in a high wall of stone and steel. The gate is studded with topaz, pearls, sapphires, rubies, and diamonds. The gate opens in welcome as the characters approach, and from within spill dazzling light and the sweet smell of incense. An angel dresses the characters in cloaks made from cloth-of-gold; as they settle on their shoulders, any wounds or Fatigue that were incurred in Purgatory are healed instantly. Furthermore, each character receives one Faith point, which they may keep, or else spend at any time to negate the intense disorientation caused by the celestial regio (see Insert).''
@@ -157,14 +175,14 @@
 ==Variants: Alternative Locations==
 
 ''The Purgatory of Saint Patrick is a unique phenomenon in Mythic Europe. Al''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Fountain of Youth==
 
 ''Near the shores of the Boiling River is a grove of black poplars. In the grove is a white marble fountain, a place of calm within the tumult of Purgatory. Dead souls occasionally find this place by accident and enjoy its balm before they are summoned back to their place of punishment. Demons do not enter here voluntarily, although they are not prevented from doing so. Mortal souls who drink of the water can restore their youth and rid themselves of warping. A single mouthful can remove up to 3 points of Decrepitude (and associated aging points) or 3 points of Warping Score, or some combination of the two. The character also subtracts 30 years from her Apparent Age, or is reduced to an Apparent Age of 15, whichever is older. Finally, all drinkers acquire the Unaging Virtue. It is only possible to benefit from the Fountain’s power once in a lifetime. A magus can use the Fountain of Youth as a source of insight into the Limit of Aging or the Limit of Warping if he is able to remain here for at least a season. The Fountain provides an insight towards the creation of a 50th level effect. It is rumored that an angel guards the Fountain of Youth. Anyone coming here to abuse its power may have to contend with its celestial guardian.''
 
-|]
+|}
 ''though there are other supposed gateways to Purgatory or Hell, none are historically sites of pilgrimage. There is no reason that a storyguide cannot transplant the myth to''
 ''a different part of Mythic Europe, and keep the basic structure of the location as described here intact. The only detail requiring a change is to take a local saint instead of Saint Patrick, but this is simply a matter of changing names. All of the action takes place inside a regio, and the entrance to that regio can be anywhere.''
 ''Cennet and Cehennem''
@@ -176,8 +194,8 @@
 ''This is a curiously circular lake on the Bay of Naples in the Roman Tribunal. The lake is avoided by locals; it emits sulfurous fumes which can be very hazardous, and birds cannot fly across the lake without being poisoned and then drowned. The lake shore is connected to the abandoned Greek colony of Cumae by an underground tunnel more than half a mile long; this tunnel is wide enough to admit a chariot. At Cumae dwells the Cumaean sibyl, a Magic Human called Carmentis who is blessed with a vast knowledge and, some say, the ability to see the future. She is also a Christian, and the guardian of a gate into Purgatory. See The Sundered Eagle, pages 120–121 for more details on Sibyls.''
 ''Mount Etna and other Volcanoes''
 ''For obvious reasons, volcanoes commonly attract legends about entrances to''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Celestial Regiones==
 
@@ -189,7 +207,7 @@
 
 ''Medieval lore recounts that there are two paradises: the Heavenly Paradise, which is the Divine Realm, and the Earthly Paradise, home of the boni non valde. The Earthly Paradise is often equated with the Garden of Eden. In the legend of the Purgatory of Saint Patrick, the Earthly Paradise attained by Sir Owain was not the Garden of Eden, and so it has not been considered to be so here. The Garden of Eden has already received a thorough description for ArM5 (Ancient Magic, pages 18–23); if you want to integrate the two into one, then the Garden of Eden lies within the Earthly Paradise, in a Celestial regio of level 10. Other entrances to Eden also exist, but from any direction are guarded by two cherubim with flaming swords.''
 
-|]
+|}
 ''Hell, and some of these legends are true — although those wishing to visit Hell must pass through Purgatory first. Mount Etna may be the home of magic spirits, but it is a vast fire mountain, and can easily have a gateway into Purgatory underneath one of the many shrines on its flanks. Volcanoes are discussed in more detail in Hermetic Projects (Chapter 2).''
 
 ==Inhabitants==
@@ -211,8 +229,8 @@
 ==Introducing the Purgatory of Saint Patrick into the Saga==
 
 ''The Purgatory of Saint Patrick is perhaps best introduced to a saga in its basic form, a place of pilgrimage and moral correction through example. If the location is intended for a future role in a story, then the player''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Options for Characters Retrieved From Purgatory==
 
@@ -220,7 +238,7 @@
 ''• Raised From The Dead (Major Story/ Supernatural Flaw, Realms of Power: the Divine, page 36): This Flaw is suitable for characters where the difficulty of being known to have been dead is a desirable story hook. • Viaticarus (Minor Supernatural Flaw, Grogs, Chapter 6): Designed for characters who received the Last Rites and then inexplicably survived, this Flaw is also applicable to characters who have''
 ''somehow been brought back from the dead. • Drowned Men and variants (character template, Realms of Power: Magic, page 96 – 97): These characters owe their resurrection to a magical patron, who might supply the body once the soul has been rescued. There is no reason that this concept cannot be adapted for a divine or infernal agency. • Ghosts (character template, Realms of Power: Magic, pages 115 – 118): An option for characters who are not resurrected into a physical body''
 
-|]
+|}
 ''characters can be appraised of the function of the canons on Inishphadraig, the process of drawing lots, and the ritual burial ceremony on Inishnaoimh, even if they don’t undergo the ritual themselves.''
 
 ==A Destination for Pilgrimage==
@@ -228,8 +246,8 @@
 ''Most visitors to the Purgatory of Saint Patrick do so as the culmination of a pilgrimage. A pilgrimage is more than a simple journey; it is a journey undertaken specifically to petition God, usually for the remission of sins. Pilgrimages are times of physical and spiritual testing, which takes the form of Oppositional Elements that try the character of the traveler. The last of these Oppositional Elements is provided by the Purgatory itself. A pilgrimage can be undertaken for more''
 ''than just penance. It can be akin to a Divine form of Initiation; a quest to acquire a supernatural Virtue aligned to the Divine Realm, or removal of a curse from any realm. See The Church pages 16–19 for more details of Pilgrimages and Oppositional Elements. The Circuit of Saint Patrick is a pilgrimage itinerary that takes in sites of the saint’s miracles and vita, including Armagh, Downpatrick, the Vale of Angels, Saulpatrick, and Maghera before ending at Lough Dearg (see The Contested Isle, Chapter 9: Ulaid for more details). This itinerary permits a group of characters to explore several legendary sites and experience hardship and wonders in equal measure. While the Circuit ends at the Purgatory of Saint Patrick, the characters are not required to actually enter the regio to complete their penance and receive absolution, but those who submit themselves to the lots have the possibility of doing so.''
 ''A number of ceremonies instituted by Saint Patrick are still in force today. Those wishing to visit the Purgatory must plan to arrive at the island between June 1 and August 15; they will not be admitted outside these dates. Before commencing a pilgrimage to the Purgatory, the penitent must first visit his bishop and declare that he wishes to undergo the journey of his own free will. The bishop ritually tries to dissuade the sinner, but if he persists, provides a letter of recommendation to the prior of the island. The petitioner then commences his pilgrimage, visiting a number of holy sites in Ireland as he does so, one of which must be Armagh which is the home to the motherhouse of the canons that guard the island. The prior of the motherhouse warns the petitioner again, and inform him of the perils he faces, but if the pilgrim is steadfast he receives a lead badge indicating the prior’s favor, and may continue on his pil''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Iurgatores==
 
@@ -237,7 +255,7 @@
 ''Awareness 2 (sinners), Brawl 7+2 (grappling), Leadership 4 (grappling), Profession: Torturer 5 (one particular punishment), Single Weapon 5 (mace) Powers: Coagulation, 2 points, Init –1, Corpus: This power permits the demon to form the physical body described here. It takes 2 rounds to form the body, but it can be dismissed instantly, returning the demon to immaterial form. Obsession, 1–3 points, Init –5, Vim: The demon can inflict the Personality Trait of Cowardly on a character at a score of +1 per point of Might spent. If the character acts upon this trait, the character risks gaining the trait permanently. See Realms of Power: the Infernal, pages 31–32 for more details. Betrayal of the Heart, 2 points, Init 0, Mentem: The accusing angels can see into the hearts of mankind and draw forth the most secret thoughts — people’s fears and sins. Each use of this power reveals to the demon one fact abut the target to which the target would never admit. Truly holy people may be immune to this power, if they have no secret sins or fears. Whispers Behind the Back, 2 points, Init 0, Mentem: Exactly as the spell Pains of the Perpetual Worry, this power gives the victim''
 ''a nagging, taunting, painful emotion linked to their secret sins. It is a recurrent sense of anxiety that their secret will be uncovered, and a suspicion that everyone already knows it and is taking about the target behind his back. This power lasts for a month. Weakness: Protected Group — Anyone who is free from sin and calls upon the name of God cannot be harmed by an iurgator or affected by its powers. ‘Free from sin’ may be difficult to determine; any character who is recently shriven and has no sinful Major Personality Flaws probably counts, as do those with a Faith Score. None of the souls in Purgatory qualify, by definition. Other causes must be adjudicated individually. Vis: 3 pawns of vis sordida (Realms of Power: the Infernal, page 19) in hook Appearance: Stocky bipedal bodies with features that combine bulky animals like bears, bulls, or pigs with those of humans. They sport bat-like wings which barely seem big enough to carry them, yet somehow manage. Their skin is naked and wrinkly, and a poisonous shade of green. Each carries a verdigrised copper club in one hand and a massive curved hook in the other.''
 
-|]
+|}
 ''grimage. Eventually he ends up in the northwest corner of Ireland at Lough Dearg. Upon presentation of the bishop’s letter and the prior’s badge he is rowed to the island priory to await being called to Purgatory.''
 
 ==Other Stories==
@@ -258,15 +276,11 @@
 ''Insight into Original Research''
 ''There are places in Purgatory that can offer insights into original research. The Mirror of Souls, the Fountain of Youth, and the Furnace are phenomena that could help magi unravel knotty problems in Hermetic Theory. In addition to the problems of getting to Purgatory in the first place, a character desiring insight needs to spend at least one season (and possibly more) there to obtain the desired insight. Pasiel is likely to investigate extra souls who remain too long within his duchy, and the character needs to be adept at hiding from bands of Iurgatores sent looking for him.''
 
-[|
-
 ==Pasiel, the Duke of Purgatory==
 
 ''Order: Duke of the Avengers of Evil Infernal Might: 40 (Corpus) Characteristics: Int +2, Per +3, Pre 0, Com 0, Str +4, Sta +2, Dex +2, Qik +5 Size: +3 Confidence Score: 3 (7) Virtues and Flaws: Greater Immunity to Fire; Piercing Gaze, Puissant Profession: Torturer; Difficult Underlings Personality Traits: Relentless +5, Passionless +4, Merciful –3 Reputations: Purgatory’s Chief Torturer 7 (Infernal) Hierarchy: 7 Combat: Scourge: Init +7, Attack +14 Defense +16, Damage +12 Grapple: Init +5, Attack +13, Defense +16, Damage n/a Soak: +15 Wound Penalties: –1 (1–8), –3 (9–16), –5 (17–24), Incapacitated (25–32), Dead (33+) Abilities: Area Lore: Purgatory 7 (placement of sinners), Athletics 5 (flight), Awareness 5 (disturbances), Brawl 10 (grapple), Infernal Lore 12 (Purgatory), Leadership 7 (intimidation), Penetration 5 (Punish the Sinner power), Profession: Torturer 12+2 (ironic punishment), Single Weapon 7 (scourge), Stealth 10 (surprise), Theology 10 (sin) Powers: Coagulation, 4 points, Init –1, Corpus: This power permits the demon to form the physical body described here. It takes 4 rounds to form the body, but it can be dismissed instantly, returning the demon to immaterial form. Obsession, 1–3 points, Init –5, Vim: The demon can inflict the Personality Trait of Guilt-Ridden on a character at a score of +1 per point of Might spent. This is a paralyzing feeling of remorse causing lassitude and self-indulgent bemoaning. If the character acts upon this trait, the character risks gaining the trait permanently. See Realms of Power: the Infernal, pages 31–32 for more details. Punish the Sinner, 5 points, Init +3, Corpus: An angel of punishment can inflict wounds upon a victim, which are commensurate to their level of sin. If the target has committed a mortal sin for which he has not atoned, then he suffers a Heavy wound if this power penetrates his Magic Resistance. If he has an unrepented venial sin on his conscience, then he suffers a Medium wound. A''
 ''victim with no outstanding sin on his conscience suffers a number of points of damage equal to a simple die plus the sum total of all sinful personality traits, ignoring negative signs as necessary. For example, a character with Lewd +2, Greedy –1 and Peaceful –3 suffers +5 damage, +2 for the Lewd trait and +3 for the negative Peaceful trait. Greedy is a sinful behavior, but this character is not greedy. The Soak total for this damage is a stress die plus Stamina. Pasiel’s use of this power manifests as the opening up of old wounds suffered by the character; if he has none, then new ones are caused by Pasiel’s scourge. Duke of Purgatory, 0 points, constant effect, Vim: While within Purgatory’s bounds, Pasiel is empowered by his role as its lord and master. His Might score and his Magic Resistance deriving from his Might should be treated as half as much again (that is 60 + aura modifier 8) against any effect designed to control him, ward against him or his powers, or destroy his Might. Attacks against his corporeal form or mind are not protected, and he gets no extra Might pool from this power. Break Time’s Arrow, variable points, Init –5, appropriate Form: Pasiel can move an object within Voice Range to a past state. Moving a creature one year into the past costs 1 Might, two years costs 3 Might, three years costs 6 Might, and so on, increasing as an Art. The creature experiences the amount of time it is moved all over again, but only a single round of time passes for everyone else. This erases the effects of any aging suffered in that time, but since the character will be reliving that time all over again, no changes need to be made to the character sheet. Everyone around the character does not appear to move, for only the recipient’s time has been affected, and the recipient cannot do more with anything whose time has not been altered than he could normally achieve in a single combat round. He can interact normally with others affected by the same power for the same amount of time. To outsiders he flickers and twitches, as years’ worth of movement and actions take place in an instant. Pasiel uses this on characters suffering in Purgatory, and on the demons torturing them, in order to extend the misery they suffer.''
 ''Time’s Former Glory, 1 point, Init –5, Vim: Pasiel can revert itself to a former state. Each use of this power allows the demon to either instantly restore up to five points of Might score, restore all of its Might pool, or cure itself of one wound. If it restores Might or Might pool, the cost of this power is subtracted after the power has taken effect. To observers, Pasiel shudders and flickers with movement. Like the previous power, it moves itself to a time when it was not wounded or drained of Might, and then, with the patience that only truly immortal beings have, waits for the appropriate amount of time elapses. Decay of Eleven Score Years, 1 or more points, Init –5, appropriate Form: Pasiel can change a non-living object within Voice Range to a future state, aging it hundreds or thousands of years instantly. This causes it to crumble to dust, affecting one cubic pace of material per point of Might pool spent. Time Waits for No Man, 1 or more points, Init –5, appropriate Form: Pasiel can inflict a future state on a living thing. This causes immediate degradation through aging; plant matter rots away, animals visibly age and die. For humans, this power causes immediate aging: Pasiel can choose any effect on the Aging Table (ArM5, page 170) up to and including a crisis. A result that inflicts one Aging point costs 1 Might, inflicting two Aging points costs 3 Might, and causing a crisis costs 6 Might. Inflicting a crisis also causes a Hermetic longevity ritual to expire. Advance the apparent age of the character by five years per point of Might spent. Weakness: Protected Group — the Virtuous. Anyone truly free from sin cannot be harmed by Pasiel or affected by its powers. Vis: 8 pawns of vis prava (Realms of Power: the Infernal, page 19), in scourge Appearance: A mighty angel 12 feet tall, painfully thin with pale skin stretched tight over protruding bones. Its eyes are like the deep pits of the abyss. It has immense gray wings covered with dust-laden and moth-eaten feathers, and carries a scourge whose thongs are tipped with rusted iron. Its movements are precise yet stuttered; bursts of motion too swift for the eye to see interspersed with utter stillness. It moves with absolute silence. Pasiel does not talk — at least, not to mortals.''
-
-|]
 ''To obtain insight for original research, the character must study the source for a season, and then make an Intelligence + Magic Theory stress roll against an Ease Factor of 18. The Inventive Genius Virtue adds 3 to this roll. If the roll is successful the character gains an insight, allowing him to create a specific effect that grants breakthrough points equal to its magnitude once completed. If the character fails he may try again after a season; if he botches he thinks he has made an insight but has not. For more details on using insight in original research see Hedge Magic Revised Edition page 14 or Ancient Magic page 8.''
 ''Interrogating the Damned or the Blessed''
 ''Someone who has died and has received a Church burial is beyond the questioning of Hermetic necromancy. However, if they are baptized Christians, they are not totally beyond the reach of the characters. Only saints — and possibly those who possess indulgences, like crusaders — go straight to Heaven upon death, and only the worst of unrepentant sinners go straight to Hell; everyone else tarries in Purgatory, then passes to the Earthly Paradise. Characters would have to be desperate indeed to enter Purgatory to get information from a departed soul, but sometimes it is the only way to get what one needs. Once in Purgatory, the characters must locate the soul they want from the thousands present. Finding the Mirror of Souls would be a boon; otherwise the characters may have to turn to the doubtful help of demons or tortured souls. The characters then need to halt the punishment sufficiently to ask their questions, which is sure to draw the attention of Pasiel. Getting out again would almost certainly require spells which see through a regio boundary, since the roll otherwise would be exceptionally difficult.''
@@ -277,14 +291,14 @@
 ''If a demon is involved instead, Hermetic magic can have difficulty telling the difference, particularly if the demon is able to take steps to fix the results of any tests (swapping a relic with a fake, using a possessed stooge, spending Confidence to show forbearance in the face of apotropaic magic, and so forth). Either way, if she is not who she says she is, then the real soul is still trapped in Purgatory, and her story can be verified by entering Purgatory and finding her. The demons there are covering up the escape of one of their captives (demon or not) through a shapechanged soul, hoping their master won’t find out (they are not very bright), and the characters might be taken in by their deception.''
 ''Jailbreak''
 ''Perhaps the most tempting reason to visit the regio on Inishnaoimh is to attempt to bring a soul out of Purgatory or the Earthly Paradise and restore her to life. Whether or not this is actually possible is ultimately the decision of the storyguide, and it should certainly be a singular event of mythic significance. Players should not think that they can just send their characters in to Purgatory to retrieve dead characters whenever they''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Sources==
 
 ''The Vision of Hell and Heaven described in this chapter is based mostly on a Middle English poem called Sir Owain, written at the end of the thirteenth century by an anonymous author. It was based on the Tractatus of H., but changed the central character from an Irish monk into the eponymous Northumbrian knight. Details from the Tractatus were also used, along with other examples from the otherworld journey literature of the medieval period, such as the Visions of Tundal, Thurkell, and Gunthelm. The quotes come from Owayne Miles (“Knight Owain”), a later poem of the same story.''
 
-|]
+|}
 ''want. However, they should not be discouraged from trying even if it is impossible; if nothing else it will prove to be a valuable lesson in hubris. Characters condemned to Hell or who have gone straight to Heaven cannot be saved in this manner; only the not completely good or not completely evil are eligible, assuming it is even possible in the first place. The subject should also in some way be considered to have died before his time; perhaps he was accidentally slain by the characters, or died through some other misadventure with a destiny unfulfilled. The characters need a body for the soul they are rescuing, and for most only the original corpse will do. Upon entering Purgatory, the characters must be able to find the desired soul amongst the countless damned, and then free her from her torments. This attracts''
 ''the attention of Pasiel, who opposes any group abducting one of its subjects. Securing a soul from the Earthly Paradise could be even harder, since the soul is probably unwilling to leave: who would exchange endless bliss for the mundane world? Shamshiel opposes any egress of souls through Paradise’s gates, and Pasiel cannot tolerate a blessed soul in its realm. This would be a once-in-a-lifetime story, given the rewards if it is successful.''
 
@@ -293,5 +307,6 @@
 ''The eleventh to thirteen centuries is a time of flowering of literature recounting otherworldly journeys to Purgatory and the Earthly Paradise. Many of these stories are told in a vernacular language rather than Lat''
 ''in. The principle, and most widely available sources are:''
 ''Tractatus de Purgatorio Sancti Patricii by H. of Sawtrey, written in about 1160 by an anonymous monk (who may have been Henricus of Basingwerk Abbey). This is a third hand Latin account of the Vision of Hell and Heaven, experienced by a monk called Owain and told to Gilbert, Abbot of Basingwerk and later recorded by H. This is a tractatus on Area Lore: Purgatory of Quality 7, and can also be studied as a summa on Theology at Level 3, Quality 8. L’espurgatoire Seint Patriz by Marie of France, written in Norman French in the late 12th century. This is a tractatus on Area Lore: Purgatory of Quality 9.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

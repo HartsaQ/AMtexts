@@ -49,8 +49,8 @@
 
 ===•===
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Mercury==
 
@@ -60,7 +60,7 @@
 
 ''As described in Houses of Hermes: True Lineages, the Cult of Heroes is a small non-Mystery group comprised of worshipers in the Cult of Mercury. They believe the great heroes of antiquity still walk the Earth. Heracles, Arthur, Beowulf, Gilgamesh — they say these legendary figures and others like them were descended from the gods, and the cult members believe that they can be born again. The Children of Hermes (see Chapter 14: Mystery Cults) is another group of mystery cultists who subscribe to this idea and believe that their leader is actually Hermes, the Greek form of the god Mercury, reborn.''
 
-|]
+|}
 ''inscribed on the floor and seeing where it goes). It teaches a number of Mastery special abilities (first mentioned in House of Hermes: True Lineages), as detailed in their own section below. These require no Initiation, just insight or teaching by a magus with that special ability. It Initiates the Virtue of Withstand Magic, the better to bear the cost of casting Ritual spells. It Initiates the Virtue Hermetic Sacrifice, which allows the power of the ancient altars to be tapped. It teaches in one season Road Magic: new Ranges and Targets. A maga with Mercurian Magic can learn these by teaching; or the maga may be Initiated into it, as with a Minor Virtue.''
 
 ===Neo-mercurian Road Magic: New Ranges and Targets===
@@ -117,8 +117,6 @@
 ''while a pure lion is worth the full six. Magically created or altered beasts are not acceptable (and would in any case be a waste of vis).''
 ''Mercurian magi have worked long to resurrect the ancient sacrificial rites of the ancients, and this is a close as they have come yet.''
 ''Note that sacrifice implies cooperation by the summoned spirit, so magics that force the spirit (such as True Names) sour the relationship, and spoil the altar for future use.''
-
-[|
 ''Mercurian magicians excel in Formulaic and Ritual Magic, and have developed an extensive range of Mastery Abilities. These Mastery Abilities were originally described in Houses of Hermes: True Lineages, but for convenience they are repeated here.''
 ''These Mastery Abilities can be learned by any magus who studies with another who knows the ability — if a magus has studied with a maga who knows a particular special Mastery Ability, then any time the magus earns a level in Spell Mastery, he may opt to choose that special ability instead of those in ArM5.''
 ''Most magi in the True Lineages prefer to share this specialized knowledge only with their apprentices, although their methods may be written down in books that anyone can read, and it is not impossible for a master to decide to teach a student with very similar goals and loyalties. However, most remain cult secrets, with the exception of Ceremonial Casting (detailed in Chapter 4: Curious Common Magics).''
@@ -150,5 +148,6 @@
 
 ==Cult of Mercury and Neo-Mercurian Spell Mastery Special Abilities==
 
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

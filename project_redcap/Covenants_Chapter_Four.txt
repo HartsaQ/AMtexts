@@ -51,8 +51,8 @@
 ''Liberales 2 (logic), Athletics 1 (running away), Awareness 2 (searching), Carouse 2 (rude stories), Charm 1 (witty), Concentration 2 (study), Covenant Lore 3 (rules), Folk Ken 2 (magi), Guile 1 (evading trouble), Latin 5 (big words), Magic Lore 3 (elementals), Magic Sensitivity 4 (auras), Magic Theory 2 (copying), Order of Hermes Lore 2 (Peripheral Code), Prof: Scribe 5 (copying), Ride 1 (staying on), Teaching 3 (one-toone) Equipment: quills and ink, parchment,''
 ''knife Encumbrance: 0 (0) Customization Notes: “Ah yes, it’ll be''
 ''ready tomorrow, nearly finished…” You can change the scribe’s supernatural Virtue and Flaw for other options, even non-magical capabilities, though it is likely that as a failed apprentice he retains some magical capacity. You can swap Optimistic for Carefree, or even reverse it to Pessimistic. The XP from Educated have been spent on Latin and Artes Liberales.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Sample Characters==
 
@@ -60,7 +60,7 @@
 ''Grogs should have no Major Virtues or Flaws, no more than three Minor Flaws balanced by an equal number of Minor Virtues, and no Story Flaws. Most characters should not have more than one Minor Personality Flaw, lest they move from entertaining to irritating, but grogs may often be an exception. A grog with two very different Minor Personality Flaws may become an instantly recognizable feature character of a saga.''
 ''Since these templates reflect characters living close to or within a covenant, many have some level of Covenant Lore to reflect their knowledge of what goes on “up where the magi live,” as well as some quantity of Village Lore to describe what they know about things “down in the village.”''
 
-|]
+|}
 
 ==A Manor and Farm==
 
@@ -106,15 +106,15 @@
 ''–1, Str +2, Sta +2, Dex +2, Qik –1 Size: 0 Age: 29 (29) Decrepitude: 0 Warping Score: 0 (0) Virtues and Flaws: Craftsman; Great''
 ''Characteristics, Puissant Craft: Blacksmith, Second Sight; Disfigured (by tattoos), Generous (Minor), Missing Eye Personality Traits: Generous +2, Brave''
 ''+2, Loyal +2 Reputations: None Combat:''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Grog Creation as an Introduction to Ars Magica==
 
 ''The process of designing grogs provides an excellent introduction to Ars Magica character generation for those not familiar with the game, who have not yet mastered the intricacies of the system. Players creating grogs benefit from an encouragement to experiment, to try out ideas, and to “push the envelope” a bit. This allows them to get their feet wet before they spend the effort to design a full magus, and prevents them from feeling committed to a magus character  with obvious failings arising from misunderstandings about the game system. Grogs are both simpler and more “disposable,” allowing one to feel safe in making mistakes.''
 ''Covenfolk also provide the storyguide with a sideline in walk-on roles, especially in sagas where there is only one alpha storyguide running adventures, with no full-time character in the saga.''
 
-|]
+|}
 ''Fist: Init –1, Attack +8, Defense +5,''
 ''Damage +2 Hammer (as mace): Init +0, Attack +9,''
 ''Defense +3, Damage +10 Soak: +4 (partial heavy leather) Fatigue Levels: OK, 0, –1, –3, –5,''
@@ -323,8 +323,8 @@
 ''The natural assumption when sketching out a medieval community is to allo''
 ''cate people to perform the work that is needed, whether they be grogs or specialists. However, this is not always convenient or possible. The most obvious constraint is the space available within the covenant. A single tower can only accommodate a limited number of folk, especially when the largest chambers are occupied by magi and their laboratories''
 ''(and their benches, glassware, and such), leaving perhaps only one common room for the others. Some such towers may have ancillary buildings for grogs, or a nearby village that can house covenfolk, but other covenants cannot even manage that much extra space. A flying boat, for example, has only the space within its own confines, and no more is possible.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Rego magic can make any change a mundane craftsman can effect, even when the magus is limited by lack of tools, time, or skill. However, Rego cannot create matter, so whatever is in the final product must be supplied as source material: to turn iron into steel a magus needs both iron and carbon; to dye cloth or leather she must have a supply of dye. Materials that a craftsman would use  and then remove from the product, are not needed for craft magic. For example, magic can bleach skins to make parchment without the lye that a percamenarius must use.''
 ''Rego craft magic works by rearranging existing material, and requires a Finesse roll to control this rearrangement. (Creo magic draws on the realm of Forms to produce things, which are always at least roughly right.) As a baseline, this has an Ease Factor at least 3 higher than the Ease Factor for doing the same thing by normal craft. Failure means that the spell produces a mess rather than a useful item; a botch means that the failure is overlooked (that is, the object is seemingly normal) but will let the user down treacherously, usually when he least expects it. For example, a botched woven cloth might not unravel until a garment made from it is worn in public; a botched parchment might accept the ink, but flake it off when left undisturbed.''
 ''Factors which might increase the Ease Factor of the Finesse roll include drastic shortening of time. While a day’s work in an instant is “just normal magic,” a month’s or longer effort would increase the Ease Factor by +3 for a month’s work, +6 for a season’s work, or +9 for a year’s work. If the mundane craft would use many temporary substances to process the work, consider adding +3 or more to the Ease Factor.''
@@ -346,7 +346,7 @@
 ''Remarkable 21 24''
 ''Almost Impossible 24+ 27+''
 
-|]
+|}
 ''Whatever the reasons magi might find it difficult to attract or house covenfolk, however, magic gives them  options for getting work done that are not available to common, mundane communities.''
 ''Spells can perform a task in a trice: Rego magic can make any change which a mundane craftsman can perform, even when the magus is limited by lack of tools, time, or skill. But while spells can be an instant solution, they are not always perfect. Spontaneous magic is limited in its results, while formulaic magic requires that some magus spend time to invent the spell formula (either from a Lab Text, or worse, from scratch). Spells also require a magus to cast them, which distracts the magus from study or lab-work whenever the spell is needed — and requires that the magus be present at the covenant, not away enjoying an adventure. Rego craft magic furthermore depends on the Finesse''
 ''of the casting magus, another study burden, and the Finesse required for a given task may be higher than the available magi are prepared to work up to.''
@@ -521,15 +521,15 @@
 ''fooled by the various ruses of his prey, such as heading through water or doubling back. If the prey has Magic Resistance, this effect has to Penetrate in the usual fashion. Colloqui Cum: 0 points, –, Imaginem: The''
 ''Virtuous Hound can speak by creating sounds, apparently from his mouth. Equipment: None Encumbrance: 0 (0) Vis: 2 Intellego, in nose Customization Notes: The Virtuous''
 ''Hound is one of those unusual magical creatures who can be found in Mythic Europe — an intelligent, beast-shaped creature, with Magic Might and magical powers. He has been recruited as a covenfolk character in return for such as he values: plenty of food, warmth and comfort, and to be praised for his faithful service. He has learnt some new skills since joining the covenant, primarily Area Lore and begging-by-cuteness.   The Virtuous Hound is based on the bloodhound in The Book of Mundane Beasts, with species Virtues of Long-Winded and Sharp Ears, and a species Flaw of Reckless. Other breeds or species can be substituted for the bloodhound.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Beasts as Characters==
 
 ''A number of beasts of Mythic Europe are described in The Book of Mundane Beasts, a free download from the Atlas Games website. The hound and cat (and the skinchanger’s raven form) are based on that supplement. Each species of beast has certain Virtues and Flaws common to all members of the species, which are not balanced in game terms (as the normal balance reflects costs for humans), but rather indicate the unique strengths and weaknesses of beasts. Exceptional beasts may take individual Virtues and Flaws, on top of their species types, but these must balance as normal.''
 ''Normal Beasts cannot learn new Abilities unless Trained, but can improve existing Abilities; intelligent beasts can improve as normal. Beasts usually have a number of Abilities, which represent what members of their species can perform instinctually, rather than things they have learned. (Beasts are usually “too young” to have learned anything by the normal process of character generation.)''
 
-|]
+|}
 
 ==The (Over) Familiar Cat==
 
@@ -557,8 +557,8 @@
 
 ''In addition to serving and providing the economic base of the covenant, it is possible for grogs to define a secondary theme for the covenant. For example, the covenant may have resident ghosts in a high Magic aura, or the magi may magically bind the spirits of deceased grogs as wardens. The magi may be involved in Hermetic politics and employ spies, thieves (“burglars”), and political agents; or they may have a religious or academic affiliation and employ (or at least provide residence for) scholars, scribes, or clergy. A covenant with strong links to a faerie forest would be well advised to acquire at least some covenfolk with faerie gifts or faerie blood; indeed, magi with a practical bent and an eye for the future may set out to breed such grogs.''
 ''For added personality, a covenant which makes extensive use of enchanted devices to aid, enhance, or replace grogs may have had most of the devices manufactured by a single magus (stereotypically a Verditius magus, but quite possibly''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Muto Animal (Corpus, Mentem) 34 Pen +0, constant effect R: Touch, D: Constant Effect, T: Ind This collar transforms a normal hound into an ideal servant, who walks erect and has hands; has the intellect of a grog; but retains the devotion, willingness to please. and loyalty of a hound. The creature’s overall appear''
 ''ance remains hound-like, but its limbs and intellect are transformed by the device.''
 ''One defect is that the hounds suffer Warping from the constant effect, but over the lifetime of a dog, this is generally not too much of a problem.''
@@ -575,7 +575,7 @@
 ==Fantastical Device: The Remote Entrance Portal==
 
 
-|]
+|}
 ''one from some other House) with a pronounced quirk to her style. She might fashion all of her devices in the form of gargoyles, for example, or domestic fowl, or as abstract colored spheres.''
 
 ==Burglar==
@@ -618,5 +618,6 @@
 ''Liberales 1 (logic), Awareness 5 (search), Brawl 2 (dagger), Charm 2 (first impressions), Covenant Lore 2 (politics), Etiquette 2 (magi), Folk Ken 3 (magi), Guile 4 (elaborate lies), Intrigue 5 (alliances), Latin 5 (smooth talking), Order of Hermes Lore 3 (politics), Ride 1 (speed), Stealth 2 (shadowing) Equipment: fine clothes, badge of author''
 ''ity from covenant, fine dagger Encumbrance: 0 (0) Customization Notes: Add a third''
 ''Flaw and Virtue; Temperate can be swapped for various other Flaws.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

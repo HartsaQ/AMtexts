@@ -21,15 +21,15 @@
 
 =Horror Stories=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Sources==
 
 ''Films, books, and other media are good sources of inspiration for horror stories. For example, some of the archetypical plots discussed here are based on film criticism by K. Newman’s Nightmare''
 ''Movies: Critical History of the Horror Film, 1968-1988 (London: Bloomsbury, 1988) and S. Prince’s The Horror Film (New Brunswick, NJ: Rutgers University Press, 2004).''
 
-|]
+|}
 ''hordes are possible, too. For example, a few lost grogs terrorized by a large gang of outlaws makes for a great horde horror story.''
 
 ==The Idiots==
@@ -125,5 +125,9 @@
 
 =Glossary=
 
+
+==Appendix==
+
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

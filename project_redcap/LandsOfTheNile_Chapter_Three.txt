@@ -31,8 +31,8 @@
 ''In the thirteenth century hyenas (Arabic dhubba) are found throughout the Levant, North Africa, Iraq, Persia, and lands beyond. These striped hyenas can be trained and tamed like dogs, even to the extent of becoming part of a dog pack if raised with hounds. Although not sacred to the ancient Egyptians, hyenas were used in hunting desert game. Some greater African specimens (Size +1) may be significantly larger than the standard sized versions detailed here and their Middle Eastern cousins (also Size –1). These fell beasts are often ridden by jinn or witches. The hyena is also a common animal form for ghul to assume.''
 ''Hyena of Virtue (Crocotta)''
 ''The Hyena of Virtue, known as the crocotta or kynolykos (Greek: “dog-wolf”), hails from Ethiopia and is believed to be the product of a hyena and a lion. These spotted hyenas are larger (at least Size +1), appear to shift sexes readily (as per the Sex Shift Virtue) and are comparatively much stronger and faster (Strength +4, Quickness +3, and Tough Hide Quality) than their mundane cousins. Add the Improved Characteristics Virtue, the Tough Virtue and the Tainted by Evil Flaw. They are also both more violent (add the Aggressive Quality and increase their Brawl score to 5) and less cowardly (replace Cowardly with Fierce +3 Personality Trait). Unlike their lesser cousins, the crocotta has real Intelligence (Int +2) and a laughing humanlike cackle with improved powers of mimicry (equivalent to speaking Arabic 3) that they use to trick human prey.All crocotta possess the Greater Immunity: Steel Virtue and many have the ability to enthrall their victims as per the Entrancement Ability. Some crocotta can strike dogs dumb if their shadow falls across them, and can paralyse any creature they look at thrice. A stone found in the body of a Hyena of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Hippopotamus==
 
@@ -51,7 +51,7 @@
 ''to have Protection 5 in addition to its Virtues and Qualities. Appearance: Fifteen to eighteen feet long, this immense beast is covered in thick scales that can be colored in shades of yellow, green, and brown; indeed, its name is said to come from the yellow color of the crocus. However, these scales provide perfect camouflage both in the water and out.''
 ''A crocodile can hold its breath for half an hour if moderately active, and two hours if inactive. Crocodiles are camouflaged when in the water, and receive a +3 to all Stealth rolls made when stationary or moving slowly. They automatically win Initiative and receive a +3 to Attack totals on the first round of combat if they take their victim by surprise. A crocodile’s Crushing Jaws Quality adds +3 to damage; however, the muscles that open a crocodile’s jaws are quite weak and they can be held closed with a successful Grapple. This crocodile is more challenging than the one that first appeared in Magi of Hermes, page 11.''
 
-|]
+|}
 ''Virtue can be enriched to make a charm of protection for whoever wears it on his upper arm (Personal Power (Ward Against Faeries of the Desert)) or alternatively grants ability to see the future (Premonition and/or Visions). In some cultures it is the eyes of the crocotta grant similar powers. A charm made from the genitalia and anus grants the Venus’s Blessing Virtue to the wearer according to Persian sources.''
 
 ==Mongoose==
@@ -75,8 +75,8 @@
 ==Ostrich==
 
 ''Ostriches are common in Nubia and Ethiopia, and a smaller variety can be found in North Africa, Egypt and Arabia. The statistics here reflect the larger African ostrich. Valued for their feathers, leather, and eggs, and less so for their meat, they roam the semi-arid plains in great flocks but avoid the deep desert. Ostrich hunting remains a favorite pastime''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Mongoose (Ichneumon)==
 
@@ -84,14 +84,14 @@
 ''Natural Weapons: A mongoose’s teeth have the following combat characteristics: Init 0, Attack +3, Defense +1, Damage +1. Appearance: An elongated animal with grizzled gray fur and a black tail tuft. It is about 3 ½ feet long nose to tail, and weighs eight pounds.''
 ''Mongooses receive a +3 bonus to all rolls involving climbing. A mongoose covered in dried mud benefits from +5 Protection; it takes at least three hours for the mud to dry, and the benefit starts to decline with vigorous activity, decreasing by one every three rounds of combat. If an enhydrus manages to get inside a crocodile, its opponent automatically has a zero Defense and Soak Total against the mongoose’s attacks.''
 
-|]
+|}
 ''of nobles.African ostriches are notorious for their habit of hurling stones using their feet with great accuracy and strength. Ostriches have a natural inclination to hide their heads in bushes as a response to any threats. However, they can be trained against this habit, and may be ridden as mounts by lightweight riders.''
 
 ==Serpent, Elephant-Eating==
 
 ''These immense serpents live in the ravines at the base of hills, and in deep caves that can take their bulk. When it is time for them to feed, they congregate at rivers where elephants are known to gather. Often, several serpents attack the same elephant, fighting as an untrained group; several can grapple at the same time, but only one can use the Constriction power. They are not averse to attacking other suitable prey. When attacking an elephant, the serpent attempts to lasso its victim’s legs in a knot of its tail and then suffocate it. If possible, a giant serpent attacks from ambush. It aims to subdue its prey as quickly as possible. It expends a Fatigue level on its initial bite attack, and again in its next action''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Baboon (Hamadryas)==
 
@@ -108,7 +108,7 @@
 ''New Quality''
 ''Crushing Jaws: This quality reflects situations in which, although the animal is not particularly strong compared to humans, the muscles with which they bite down are tremendously powerful. The muscles which open its mouth are comparatively weak. A human may hold closed the animal’s jaws with a successful Grapple. This Quality adds +3 Damage to any bite attack.''
 
-|]
+|}
 ''when it initiates a grapple (and constriction) by throwing the thick coils of its body around its prey. If it succeeds, it can continue to constrict while biting its victim, gaining a bonus to its bite Attack Total equal to its grapple strength.''
 
 ==Elephant-Eating Serpent==
@@ -117,13 +117,16 @@
 ''less. Constriction is based on the grappling rules (see Non-Lethal Combat, ArM5, page 174). As long as the serpent maintains the grapple, its opponent is considered deprived of air (see ArM5, page 180). The victim must make a Stamina check every five rounds, or suffer the normal effects of deprivation. Once the serpent has successfully grappled an opponent (and begun constricting), on subsequent rounds it can continue constricting and still attack with its bite. These attacks may be directed at the grappled victim (in which case the Grapple Strength adds to the Attack Total), or at another opponent. The serpent can usually only constrict a single creature at a time. Swallow Whole (non-magical): The serpent can swallow whole any creature of Size –1 or smaller. If the creature has not first been subdued with a Constriction attack (see above) it can struggle to escape, but it continues to be affected by constriction while swallowed. It is impossible to breathe inside the serpent, requiring deprivation rolls (ArM5, page 180) even if the victim escapes the grapple. Three rounds after being swallowed, the victim reaches the stomach. The powerful acids inflict +9 damage every round, complete immersion quadruples this to +36''
 ''(ArM5, page 181). A character may be able to brace himself and avoid complete immersion: make a Strength + Athletics roll each round; Ease Factor 6 results in only half immersion (triple damage), Ease Factor 9 results in immersion of a limb (double damage), and Ease Factor 12 means just a splash (normal damage). The serpent cannot swallow a second creature until the previous one has reached the stomach. Appearance: A snake over 45 feet long, with a diameter of nearly two feet at its thickest point. They are mostly mottled brown in coloration, but have patches and swirls of olive green, black, and yellow.''
 ''These giant elephant eating snakes are capable of swallowing creatures up to Size +5, but it takes hours to accomplish this, gradually inching its articulated jaws around the dead creature’s body. The Swallow Whole power represents its ability to swallow smaller prey items alive. The serpents automatically win Initiative and receive a +3 to Attack totals on the first round of combat if they take their victim by surprise. They have a +3 to all Stealth rolls when they are remaining still, and a +3 to all Perception rolls involving their sense of smell.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Ostrich, African (Struthio)==
 
 ''Characteristics: Cun –2, Per +2, Pre –1, Com –2, Str +2, Sta +2, Dex +2, Qik +2 Size: +1 Confidence Score: 0 (0) Virtues and Flaws: Improved Characteristics, Keen Vision, Perfect Balance, Sharp Ears; Fragile Constitution Qualities: Camouflage, Defensive Fighter, Fast Runner, Hardy, Herd Animal, Keen Eyesight, Thick Feathers Reputations: None Combat: Dodge: +3, Attack na, Defense +5, Damage na Kick (as hoof): Init +4, Attack +8, Defense +6, Damage +2 Thrown Stone: Init –1, Attack +8, Defense +7, Damage +6 Soak: +4 Fatigue Levels: OK, 0/0, –1, –3, –5, Unconscious''
 ''Wound Penalties: –1 (1–6), –3 (7–12), –5 (13– 18), Incapacitated (19–24), Dead (25+) Abilities: Athletics 3 (running), Awareness 4 (predators), Brawl 4 (dodging), Survival 5 (home terrain), Thrown Weapons 4 (stones) Natural Weapons: The weapon statistics for an ostrich’s kick are Init +2, Atk +2, Def +0, Dam +0. Its ability to hurl rocks with its feet is treated as a sling, but with a range increment of 15 paces. Appearance:This large bird has a long neck and legs with huge eyes. Males are typically black with white tail plumage and wing fringes whereas females are a more discreet gray color.''
 ''An ostrich gets a +3 to all rolls involving running.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

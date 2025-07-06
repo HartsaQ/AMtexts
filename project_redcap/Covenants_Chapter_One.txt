@@ -19,8 +19,8 @@
 
 ====
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Encourage the players to contribute to the design and ongoing development of the covenant as much as possible.''
 ''Put all the notes with the basic covenant information together into a single file, which is accessible by the players. This file might also contain the character sheets for pool grog characters.''
 ''Keep a private file for the storyguide to record plans and adventures.''
@@ -33,7 +33,7 @@
 ==Some Tips for a Smoothly Run Covenant==
 
 
-|]
+|}
 
 ====
 
@@ -46,8 +46,8 @@
 ''As the saga progresses and the covenant evolves, there is inevitably some''
 ''bookkeeping involved. You will probably want to keep a record of the covenant’s game statistics, its resources (such as the library and vis stores), its inhabitants, and any ongoing stories and events. To help with this process, you will find a number of sheets in Appendix B. The most important is the covenant sheet (effectively a “character sheet” for the covenant); there are also sheets to record the details of vis stores, libraries, and laboratories, as well as a yearly summary sheet to record the most important changes from year to year.''
 ''Lastly, we wish you the best of luck with your covenant, and most importantly of all, have fun creating and playing it!''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''This is a summary of the existing rules for covenant creation (see ArM5, page 70), with some minor additions. Starting from the baseline below, choose a power level, and once you have a basic concept, proceed to select Boons and Hooks, and buy Resources.''
 
 ===Baseline===
@@ -122,5 +122,8 @@
 ''Medium 300–1250 40 10 years''
 ''High 1250–2500 No limit 50 years''
 ''Legendary 2500+ No limit 100 years''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

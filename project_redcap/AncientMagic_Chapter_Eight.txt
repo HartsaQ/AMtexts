@@ -1,5 +1,5 @@
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''I myself used to be even more cynical than you about such things, for I thought that there was no way they could happen, yet when I first saw the foreign visitor fly — he came from the Hyperborean people, as he said — I came to believe and I was overcome, despite having held out for so long. For what was I supposed to do when I saw him traveling through the air in the middle of the day, walking on water, and strolling through fire at a leisurely pace?''
 ''— Cleodemus, in Lucian’s''
 ''Philopseudes, 13–5''
@@ -24,7 +24,7 @@
 =Hyperborean Magic=
 
 
-|]
+|}
 ''Ancient Magic New Virtues''
 
 ===Hyperborean Hymnist===
@@ -43,8 +43,8 @@
 ''This is a variation of Mythic Blood (ArM5, page 47); your character gains all the benefits of the Minor Hyperborean Descent Virtue, as well as the other benefits to spellcasting granted by Mythic Blood.''
 ''Additionally, your character can perform one of two magical feats''
 ''common to Hyperboreans: either the ability to transform into a bird (either a crow or a swan), or to fly, as per the equivalent Hermetic spells, Cloak of Black Feathers (note: does not require a cloak) and Wings of Soaring Wind. Both powers have a +0 Penetration and require words (song) and gestures (libations) to invoke. This replaces the otherwise free-choice Mythic Blood grants you.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Your character knows a sacred name of Apollo Phoebus, and has memorized the complex and intricate prayers, formulas, and vowel strings needed to perform a recitation. There is a different, unique Ability for each Hyperborean hymn. The hymns are recited in the Hyperborean language; however, your character does not need to know the language to recite a hymn, as the necessary words are learned by rote.''
 ''For each level of a Hymn Ability, your character gains 15 levels of powers (see below for details).''
 ''The hymns represent not only knowledge of the sacred names; if''
@@ -102,7 +102,7 @@
 
 ''continued on next page''
 
-|]
+|}
 ''He cannot infuse a Power that costs more levels than he has available (either through his 15 levels from each point of his Ability score, or additional levels gained by spending vis — see below).''
 ''In order to successfully recite the Hyperborean hymn and infuse himself with a magical Power, a character’s hymn recitation total of Communication + Hymn Ability + modifiers + aura must equal or exceed the hymn recitation Ease Factor.''
 
@@ -125,8 +125,8 @@
 ===Hymn Recitation Example===
 
 ''Quaesitor Moratamis stumbles upon an ancient manuscript that records the sacred hymn of Psyrinpheu, the fire breather. After much difficult study, she manages to learn the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''decision to use. The transformed character also cannot change back to human form (by any means short of miraculous) or cannot re-enter his body. While in spirit form the character is entirely controlled by his emotions and cannot make any rational decisions. Automatic or continuous Powers may still be effective. The character appears to Hermetic magic as wholly an animal or spirit during this time (and is thus affected by Animal, or Mentem and Vim, magic only). The character may remember the time spent transformed as though it were a recent dream.''
 ''At the end of the duration of the transformation, the character must attempt to assert his human nature. This requires a second Control roll, although the total that the character needs to beat is simply his Warping Score + aura + modifiers (no stress roll). If this succeeds, the character returns to human form, or may re''
 ''inhabit his body; if it fails, the character remains transformed for a full day, and may then roll again with a –1 penalty (cumulative). Eventually, the Warping Score of a Hyperborean wizard becomes so great that the transformation becomes complete and irreversible.''
@@ -140,5 +140,906 @@
 ==Illumination: Hyperborean Warping, Continued==
 
 ''continued from previous page''
+''Ability, gains a score of 1, spends a season preparing to recite the hymn (in addition to the base season, for a total of two seasons), and then spends a season reciting it. Her hymn recitation total is 7 (Communication 1 + Hymn score 1 + devotional behavior 3 + Magic aura 2), so she successfully infuses the Power Victory of the Lapiths (Ease Factor of 5) into herself.''
+
+==Hymn Powers==
+
+''The Hyperborean hymns, such as the Seven Beautiful Names of Light, grant spell-like Powers which, for convenience, have their level determined using the Hermetic Arts guidelines in''
+''Chapter 9: Spells of Ars Magica Fifth Edition.''
+''Hyperborean hymns are both more flexible and more restrictive than the Hermetic Arts. For example, Pentiterouni could alter, perceive, control, destroy, or create ash, coal,''
+''Troupes may wish to have an adventure focused on uncovering the Hyperborean hymns. Alternatively, a troupe may wish to merely spend a season in search of a teacher or text. You may do the latter by making an Intelligence + Magic Lore stress roll against an Ease Factor of 21. If you succeed, your character manages to track down a teacher (likely a ghost), a hymn fragment, or a''
+''relic. A failure may uncover a minor magical manuscript, or may reveal that the teacher sought is long dead. A botch wastes the season, or more interestingly, leaves the character prone to Infernal or faerie deception of some kind.''
+
+===Finding a Hyperborean Hymn Source: Intelligence + Magic Lore===
+
+
+===+ Stress Die Vs. Ease Factor 21===
+
+''Finding Hymns, the Easy Way Puissant Hymns and Hymn Affinities''
+''It is possible to take the Affinity with Ability and Puissant Ability Virtues for a Hyperborean hymn. Puissant Hymn effectively increases your hymn recitation totals for that hymn, and other totals that may use your character’s Hymn Ability score (such as Soak). It does not, however, increase the number of points your character gets for Powers, which uses the unmodified Ability score only. Affinity with Hymn acts as normal, making it easier for you to increase your character’s Hymn Ability for that hymn.''
+''Devotional behavior* +3 per season''
+''Distraction** –1 per day not reciting hymn''
+''Hyperborean Descent*** +2/+4''
+''Language: Hyperborean + score in Ability''
+''Honorable Minor Personality Flaw† +1''
+''Honorable Major Personality Flaw +3''
+''Dishonorable Minor Personality Flaw‡ –1''
+''Dishonorable Major Virtue or Flaw –3''
+
+==Recitation Total Modifiers==
+
+''* Devotional behavior means spending a season prior to reciting the hymn in activity devoted to the veneration of Apollo. This could include prayer, ecstatic meditation, pilgrimage to an Apollonian sacred site (such as Delphi or Delos), or intellectual contemplation and refraining from both pleasures of the flesh (such as sex or eating extravagantly) and from dishonorable acts (lying, cheating, etc.). The bonus for devotional behavior stacks for a maximum of three sea''
+''sons (i.e., up to a +9 bonus), after which no further bonus is gained. ** This has a maximum of 20 days, after which reciting the hymn has no benefit. *** Refers to having either the Minor or Major Virtue, Hyperborean Descent, respectively. † An Honorable Personality Flaw is one that the storyguide decides is considered favorable by Apollo. ‡ A Dishonorable Personality Flaw is one that the storyguide decides is considered unfavorable by Apollo.''
+
+==Apollonian Personality Traits==
+
+''Apollo symbolized a number of virtuous Personality Traits, the most prominent one being Austerity. Apollo favored Perseverance and Compassion, but also embodied fearsome Retribution. Personality Traits that were disliked by Apollo include Pride, Rashness, and Presumption. Apollo was a deity who believed in and personified tradition and dignity; innovation and new ideas were largely frowned upon, while old ways of thinking and behaving were favored.''
+
+|}
+''lead, onyx, and sapphires, but could not affect any other kind of gem or metal covered by Terram. A character may also use the new Duration 19 Years (see text box) for Hyperborean hymn Powers.''
+''The Ease Factor to recite a hymn is determined by dividing the level of the Power by three (round up). You may further alter the Ease Factor by using the effect modifications from ArM5, page 99. The modifiers for the Power’s level are applied before any division.''
+''Hyperborean hymns do not require vis, and do not require “Rituals” for high-level effects. A hymn may have permanent effects, such as healing or creation, with none of the requirements of Hermetic magic. Due to the high Ease Factor of some Powers, Hyperborean wizards often assisted each other by using the Ceremony Ability (see below).''
+
+===Gaining New Powers and Improving Existing Ones===
+
+''Each time you increase one of your character’s Hymn Ability scores, he gains 15 additional levels in powers. The additional levels may be spent on new Powers, or on improving existing ones. You may choose to not spend some or all of the levels, and these may be later spent at any time on Powers through the recitation process. You may divide the levels between new Powers and improving existing ones as you wish, as long as your character’s hymn recitation total equals or exceeds the total Ease Factor for all of the Powers combined.''
+''To gain a new Power, the character must recite the hymn again and spend an additional season consecrating himself, as above.''
+''To improve an existing Power, the character recites the hymn, with the Ease Factor determined by the difference between the Power’s new level and its old one. This also takes a season to infuse. When he improves an existing Power, he may increase the Range, Duration, or Target of the Power; its Penetration; or the number of times per day he is able to invoke it. If he improves the Range, Duration, or Target, he may not use the Power at its lower level, only at its improved level.''
+
+===Gaining and Improving Powers Example===
+
+''Moratamis of House Guernicus has the Hyperborean hymn Psyrinpheu with a score of 1, with one Power. Upon increasing the Ability to 2, she gains an additional 15 points to spend on Powers, decides to infuse a new Power with a level cost of 10, and use the remaining 5 points to improve her existing Power. It takes Moratamis one season for each power she infuses, regardless of level.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+
+==Learning to Speak Hyperborean==
+
+''Hyperborean and Ancient (Attic) Greek are similar enough that they sound and look similar. Indeed, knowing Ancient Greek allows limited understand of Hyperborean.''
+''There were no Hyperborean dictionaries, but many of the (nonmagical) prayers to Apollo are similar enough in both Ancient Greek and Hyperborean that a dedicated researcher who manages to discover written fragments of hymns and prayers in both languages may be able to spend time decoding Hyperborean.''
+''Most written versions of the Hyperborean hymns use the Hyperborean language and alphabet, as does any writing on Hyperborean relics.''
+''Hyperborean ghosts may be able to teach the lost language, as may some spirits (particularly those that guard shrines to Apollo). This would require that the character be able to communicate with the ghost or spirit, such as by having a language in common, or using magical means.''
+
+==Power Level Modifiers==
+
+''Hyperborean hymn Powers use the same effect modifications as those found in ArM5, pages 98–99. The constant effect and environmental triggers both cause Warping, as per the constant mystical effect rules (ArM5, page 168).''
+
+==New Duration: 19 Years==
+
+''It is also said that . . . Apollo visits the island of Hyperborea once in the course of nineteen years, in which period the stars complete their revolutions, and that for this reason the Greeks distinguish the cycle of nineteen years by the name of “the great year.”''
+''— Hecataeus of Abdera,''
+''Peri Hyperboreon''
+''The power or spell lasts for 19 years, or until the stars complete their 19-year revolution, whichever is the lesser. Some understanding of astrology (Artes Liberales) is required to know the positions and revolutions of the stars. This Duration is one magnitude higher than Year Duration.''
+
+===Gaining More Levels===
+
+''Without any external assistance, characters are practically limited to 150 levels of powers for each hymn. Luckily, hymnists are able to infuse extra levels of Powers into themselves, although this comes at an exorbitant cost in vis.''
+''For each pawn of vis expended during the recitation of a hymn, the''
+''character gains one extra level to spend on Powers. Thus, it costs five pawns of vis to gain five extra levels to spend on Powers. The character may spend vis during the normal course of recitation (when he gains more Powers due to an increase in the Ability) or, alternatively, he may spend a season reciting the hymn and simply expend the vis to gain additional Powers.''
+''Troupes with high-vis sagas may wish to alter this cost, so that it costs two or more pawns of vis to gain a level of Powers. The vis used should be of an appropriate Technique or Form.''
+
+==The Seven Beautiful Names of Light==
+
+''akrakanarba kanarba anarba narba arba''
+''rba ba a O Phoebus, helper of your oracles, Come joyous, Leto’s son, who works afar, Averter, hither come, hither, come hither. Foretell, give prophecies amid night’s hour, allalala allalala santalala talala If e’er with vict’ry-loving laurel branch Here from your holy peak you often voiced Words of good omen, so may you now speed Your way to me with truthful oracles, laetonion and tarbaraoth aeo eo, Lord Apollo''
+''semesilam, who control this night, who are master of it, who hold the hour of prayer too. Come, mighty daimons, help me today by truly speaking with the son of Leto and Zeus.''
+''— Extract from Hyperborean''
+''Hymn to Apollo Semesilam,''
+''Lightmaker''
+''Although the Hyperborean priests who worshiped at the basilica once knew many hundreds of sacred names, in the 13th century only the Seven Beautiful Names of Light remain. These names are the sacred epithets of Apollo Phoebus.''
+''Each hymn includes a number of principles, which form the core of what the hymns’ Powers affect, similar to Hermetic Forms. The listed Hermetic Forms are relevant only for the purpose of Magic Resistance.''
+
+|}
+''To invoke the effect of the hymn, the practitioner must speak, chant, or sing the relevant prayer, which during the day takes approximately as much time as a formulaic Hermetic spell.''
+''During the nighttime the hymn takes longer to invoke: 15 minutes per point of the Ease Factor. Thus, a power with an Ease Factor of 9 would take two hours and 15 minutes to invoke at night.''
+''Each hymn includes sample Powers, the Ease Factor required to recite them, the number of levels the Power costs, and the Power’s principle.''
+
+==Azai (Beautiful Light)==
+
+''Through Azai, Apollo gives and governs life and self. The beautiful light is the seat of authority, by which Apollo leads and rules. Azai is the wellspring of energy and vitality from which all things draw sustenance.''
+''Principles Animal: birth Corpus: birth, the heart, vitality Herbam: growth Ignem: daytime, light, sunshine Mentem: authority, ghosts, love,''
+''respect, spirits Terram: gold Other: defense, leadership,''
+''understanding''
+
+===Example Azai Effects===
+
+
+===Apollo’s Luminescent Blessing===
+
+''R: Touch, D: Conc, T: Ind Ignem, Pen +4, 6 uses/day Causes the touched character to glow with light that is as bright as daylight on a cloudy day. Looking directly at the light is possible, but uncomfortable (unless the character has Magic Resistance).''
+''(Base 4, +1 Touch, +1 Conc, +2 levels for Penetration)''
+''Ease Factor: 5 Level Cost: 15 Principle: Light''
+
+===Sovereignty of Phoebus Apollo===
+
+''R: Sight, D: Sun, T: Ind Mentem, Pen +(user’s total), 1 use/day''
+''This Power invokes deep respect for your character in all spiritual beings, so long as he Penetrates their Magic Resistance. Spirits, elementals, and ghosts from all realms treat your character with great respect and are inclined to obey him.''
+''(Base 5, +3 Sight, +2 Sun, +4 levels for Penetration)''
+''Ease Factor: 12 Level Cost: 34 Principle: Authority, ghosts, leadership''
+
+===Defy the Hound Cerebus===
+
+''R: Arc, D: Conc, T: Ind Mentem, Pen +10, 1 use/day''
+''This Power summons a ghost to whom your character has an Arcane Connection, or who is haunting an area (should your character possess its full name), and allows it to possess a body. The body is animated by the ghost, but may be directed by your character’s commands. If the ghost has a Might score, you must successfully penetrate its Magic Resistance for the Power to work. The bodies and ghosts of people buried by a Divine rite are not affected by this Power.''
+''(Base 15, +4 Arc, +1 Conc, +5 levels for Penetration)''
+''Ease Factor: 15 Level Cost: 45 Principle: Ghosts''
+
+===The Swan-drawn Chariot===
+
+''R: Per, D: Sun, T: Ind Mentem, Pen +(user’s total), 2 uses/day''
+''This Power infuses your character with ethereal energies, which can only be detected by spiritual creatures, such as daimons and faeries, or angels and demons (who are rarely deceived). It magically brightens your character’s “soul-spark,” the liminal glow that is visible to many spiritual beings. It also makes your character appear to spirits as though he possesses a Magic Might equal to (the level of this power – 15) / 2.''
+''(Base: General guideline, +2 Sun, +4 levels for Penetration, +1 uses/day)''
+''Ease Factor: variable Level Cost: variable Principle: Authority, leadership''
+
+==Eloure (Fire Delighter)==
+
+''The emotions of Apollo Eloure are deep and momentous, and are a guide towards true reconciliation with the world. As fire delighter, Apollo’s''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+
+==Hyperborean Hymns and Magic Resistance==
+
+''All Hyperborean hymns may grant a form of Magic Resistance, as an infused power. Such Magic Resistance is very specialized and narrow. Additionally, constant Magic Resistance causes Warping Points.''
+
+===Numina of Apollo [hymn]===
+
+''R: Per, D: Sun, T: Ind Vim, Pen +0, 1 use/day This hymn grants Magic Resistance against magical effects connected to the hymn’s principles, equal to the (level of the Power – 5).''
+''(Base Gen, +1 Sun) Ease Factor: variable Level Cost: variable Principle: All''
+''rule over the fields and water is soft, honest, and loving.''
+''Principles Aquam: lakes, oceans, rain, rivers Corpus: blood, breasts, fertility, the''
+''stomach Herbam: fertility Mentem: emotions, dreams, honesty,''
+''maternal urges Terram: amber, silver''
+
+===Example Eloure Effects===
+
+
+===False Dream===
+
+''R: Arc, D: Sun, T: Ind Mentem, Pen +4, 1 use/day Changes the target’s dreams to be anything the hymnist may desire. The target must be asleep and the hymnist must possess an Arcane Connection to the dreamer.''
+''(Base 2, +4 Arc, +2 Sun, +2 levels for Penetration)''
+''Ease Factor: 8 Level Cost: 22 Principle: Dreams''
+
+===Demeter’s Blessing===
+
+''R: Sight, D: Sun, T: Bound Aquam, Pen +0, 1 use/day Causes nourishing rain to fall upon a designated area up to 6 miles across.''
+''(Base 1, +1 Touch, +4 Year, +4 Bound, +1 Size [for a total of +4 Size])''
+''Ease Factor: 12 Level Cost: 35 Principle: Rain''
+
+===Bestow Fecundity===
+
+''R: Touch, D: Mom, T: Ind Animal, Corpus, Pen +0, 1 use/day''
+''This Power allows a touched person or animal to conceive a child, even if one of the partners is sterile (although not magically sterile,''
+''such as from the Longevity Ritual). The offspring of this Power may be magically Warped or possess Flaws such as Age Quickly, Magical Air, or Offensive to Animals. (For more information on the consequences of magically interfering with fertility, see Chapter 4: Fertility Magic).''
+''(Base 30, +1 Touch) Ease Factor: 12 Level Cost: 35 Principle: Fertility''
+
+==Iaó (Fire Feeler)==
+
+''Iaó is Apollo’s sensitivity, delight in pleasure, and his beauty. Through Iaó, Apollo attracts both men and women, revels in the world’s luxuries, and creates beauty, whether music, poetry, or song.''
+''Principles Aquam: cold, damp, the sky Auram: wind, sweet smells Corpus: disease, hearing, hunger,''
+''sight, taste, veins Imaginem: hearing, sight Mentem: affection, attraction, creativ''
+''ity, pleasure Terram: copper, emeralds Vim: auras, sensing magical effects Other: cleanliness, harmony''
+
+===Example Iaó Effects===
+
+
+===The Gift of Far-sighted Apollo===
+
+''R: Per, D: Sun, T: Vision Imaginem, Pen +0, 1 use/day This Power allows your character to see clearly great distances, as if the area were only a few feet away. Your character can also judge distances well.''
+''(Base 3, +2 Sun, +4 Vision) Ease Factor: 9 Level Cost: 25 Principle: Sight''
+
+===Opening the Hidden Eyes===
+
+''R: Touch, D: Conc, T: Sight Vim, Pen +0, 1 use/day By this Power, the touched character is able to see the fluid vis of an area, the nature and strength of an aura, the presence of nearby regiones, and even elementals, spirits, and magical effects. This Power completely replaces the character’s normal sight, so he cannot see the normal, mundane world. This Power cannot detect non-Magic auras or creatures. The target may also see into and enter magical regiones, and lead other people into them. Specific Abilities, such as Magic Theory or Magic Lore, may be required to interpret the information.''
+''(Base 5, +1 Conc, +5 Vision, +2 extra detail)''
+''Ease Factor: 15 Level Cost: 45 Principle: Auras''
+
+===Cleansing Libation of===
+
+
+===The Sybil of Cumae===
+
+''R: Touch, D: 19 Years, T: Bound Corpus, Pen +0, 1 use/day This Power grants all those within the boundary a +12 bonus to resisting or recovering from the effects of illness and disease. Note that this may cause Warping if a person is exposed for a long period of time.''
+''(Base 5, +5 19 Years, + 4 Bound) Ease Factor: 18 Level Cost: 55 Principle: Disease''
+
+==Óai (Light Breather)==
+
+''Apollo Óai is intelligent, quick thinking, and expressive. The light breather is adaptable and eloquent, ruling over animals, subtlety, and the imagination.''
+
+|}
+''Principles Animal: birds, crows, dolphins, grass''
+''hoppers, hawks, mice, snakes, swans, wolves Mentem: imagination, the intellect,''
+''speech, spirits Terram: opals Other: the spirit world, obscurity,''
+''travel, secrecy''
+
+===Example Óai Effects===
+
+
+===The Unseen Traveler===
+
+''R: Per, D: Sun, T: Ind Imaginem, Pen +0, 1 use/day Like a spirit, your character become completely invisible and undetectable (except by Intellego magic, Second Sight, or an equivalent), regardless of what the character does.''
+''(Base 4, +2 Sun, +1 changing image)''
+''Ease Factor: 5 Level Cost: 15 Principle: Secrecy''
+
+===Turn To Lofty Heights===
+
+''R: Per, D: Spec, T: Ind Mentem, Vim, Pen +0, 1 use/day This Power allows the hymnist’s spirit to leave his body and travel free of its mortal flesh. While using this Power, the hymnist is completely insubstantial, can move through material barriers and items, and may travel as fast as a flying bird. Other spiritual creatures can see the character and interact with him, and can be deceived into believing that he is a native inhabitant of the spirit worlds through a Communication + Guile stress roll versus an Ease Factor equal to the spirit’s Perception + (Might / 2). The hymnist’s physical body is completely immobile and helpless while this power is in effect, does not respond to external stimuli, and may die if not looked after. The hymnist’s spiritual body is vulnerable''
+''to control by Mentem and Vim spells, although it is invisible and intangible. If the physical body dies while the hymnist is using this Power, he is permanently stuck in spirit form, and may eventually die, or transform into a spirit or ghost (at the storyguide or troupe’s discretion). If the character does not return from the spirit world in short order, he may begin to accrue Warping Points.''
+''(Non-Hermetic) Ease Factor: 12 Level Cost: 35 Principle: Intellect, spirits''
+
+===Ride the Arrow of Abaris===
+
+''R: Sight, D: Mom, T: Ind Corpus, Pen +0, 1 use/day This Power instantly transports your character to any place she can see. Most hymnists, before using this Power, fly to a great height (normally after turning invisible) and use other magic to see a great distance. Remote scrying, at the troupe or storyguide’s option, could also work.''
+''(Base 35, +3 Sight) Ease Factor: 17 Level Cost: 50 Principle: Travel''
+
+==Pentiterouni (Firewalker)==
+
+''When in his firewalker guise, Apollo undertakes his duties with austere discipline and responsibility. Pentiterouni is the god’s dour hard work as he walks steadily and without haste. It governs perseverance, temperance, control, experience, and earthy things.''
+''Principles Animal: animal skin Corpus: aging and growth, bones, the''
+''organs and flesh, skin, trembling Herbam: ash, fermentation, night''
+''shade, yew''
+''Mentem: concentration, depression,''
+''greed, guilt, seriousness Terram: ash, coal, lead, onyx,''
+''sapphires Other: authority, caves, contractions,''
+''organization''
+
+===Example Pentiterouni Effects===
+
+
+===Punishment of Marsyas===
+
+''R: Touch, D: Mom, T: Ind Animal, Corpus, Pen +(user’s total), 2 uses/day''
+''When Apollo was challenged by the satyr Marsyas to a reed-pipe competition, he grievously punished the satyr’s impertinence by tearing off his skin. This Power tears the skin off the whole surface of a touched person’s body, dealing an Incapacitating Wound (regardless of Soak). It is very unlikely that anyone can survive this Power without immediate supernatural aid.''
+''(Base 20, +1 Touch, + 4 levels Penetration, +1 level uses/day)''
+''Ease Factor: 10 Level Cost: 30 Principle: Skin''
+
+===Radiant Mantle of the Night-wanderer===
+
+''R: Per, D: Spec, T: Ind Vim, Pen +0, 1 use/day This Power, when used with the Óai Power Turn to Lofty Heights, allows the hymnist’s spirit to take on pseudo-flesh and appear in the mundane world. This phantasmal body appears exactly like the character’s true body, may wear clothes, and is real enough that it can handle light objects, touch people, and otherwise appear real. If the shell suffers any damage at all, it dissolves, ending the Power’s effect and pushing the character’s spirit back into the spirit world, although there are no other ill effects.''
+''While clothed in pseudo-flesh the character can see the mundane''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+''world clearly. Close examination of the character, with a Perception + Awareness stress roll against an Ease Factor of 9, reveals that there is something not quite right about the pseudo-flesh — that it is merely a fabrication. This Power has no effect if the character casts it when his spirit is connected to his body. Note that if the character possesses The Gift, then people still react to it as normal.''
+''(Non-Hermetic design) Ease Factor: 15 Level Cost: 45 Principle: Skin, flesh''
+
+==Psyrinpheu (Fire Breather)==
+
+''Apollo the fire breather is the ambitious conqueror, tyrant, and gen''
+''eral. Psyrinpheu is fiery and hot, sharp and bitter, and governs passion, feats of war, hazards, and victory.''
+''Principles Animal: wolves Corpus: fevers, the head, muscles,''
+''sexuality, stamina, youth Herbam: chestnut trees, nettles, roses,''
+''thorns Ignem: heat Mentem: aggression, conflict, willpower Terram: arsenic, diamond, iron, ruby''
+
+===Example Psyrinpheu Effects===
+
+
+===Fortitude of Cadmus===
+
+''R: Per, D: Sun, T: Ind Corpus, Pen +0, 1 use/day Your character becomes filled with stamina and endurance, gaining a +1 bonus that can be used for either''
+''Soak or to resist Fatigue (see ArM5, page 178).''
+''(Base 5, +2 Sun) Ease Factor: 5 Level Cost: 15 Principle: Stamina, willpower''
+
+===Victory of the Lapiths===
+
+''R: Per, D: Diam, T: Ind Corpus, Pen +0, 1 use/day The Lapiths were a tribe guarded by Apollo in their victorious battle against the centaurs. This Power allows your character to endure any wound (short of death) or fatigue without penalty. Keep track of all wounds and Fatigue levels lost, as they immediately affect your character once the Power wears off.''
+''(Base 10, +1 Diam) Ease Factor: 5 Level Cost: 15 Principle: Stamina, conflict''
+
+|}
+
+===Courage of the Python Slayer===
+
+''R: Voice, D: Sun, T: Ind Mentem, Pen +2, 12 uses/day This Power grants resolute courage and determination in a person who hears the consecration. Supernatural effects that inspire fear must have a greater level than this Power in order to work.''
+''(Base 4, +2 Voice, +2 Sun, +1 for Penetration, +4 uses/day)''
+''Ease Factor: 9 Level Cost: 25 Principle: Aggression, willpower''
+
+===Slaying of Niobe’s Children===
+
+''R: Voice, D: Mom, T: Ind Corpus, Pen +4, 6 uses/day Your character may shoot unseen bolts, which infect the target with a deadly disease. The disease causes the equivalent of a Heavy Wound, has an Ease Factor of 9 to resist (see ArM5, page 180), and is not contagious.''
+''(Base 20, +2 Voice, +2 levels for Penetration, +3 levels uses/day)''
+''Ease Factor: 12 Level Cost: 35 Principle: Conflict, fever Eternal Youth of the Sun R: Per, D: 19 Years, T: Ind Corpus, Pen +0, 1 use/day One of the most powerful hymns of Apollo Phoebus, this Power allows the hymnist to ignore the debilitating effects of aging for the duration of the power, up to and including terminal Aging Crises. This, of course, inflicts 1 Warping Point per year of its effect, and aging continues normally once the Power wears off (i.e., as though the character did not age for the duration).''
+''(Base 40 [non-Hermetic], + 5 19 Years)''
+''Ease Factor: 22 Level Cost: 65 Principle: Youth''
+
+==Semesilam (Encloser, Lightmaker)==
+
+''Apollo lightmaker is lord of the nine Muses and patron of the arts; he is optimistic and brings good fortune. Semesilam brings growth and prosperity, metes out justice, and upholds honor. It directs Apollo’s wisdom, good cheer, and intellectual endeavors.''
+''Principles Animal: swans Corpus: good health, vigor Imaginem: song, music Herbam: fig trees, fruit, oak, palms,''
+''vines Mentem: benevolence, justice, moral''
+''ity, optimism Terram: amethyst, marble, tin''
+
+===Example Semesilam Effects===
+
+
+===Thalia’s Relief===
+
+''R: Touch, D: Sun, T: Ind Mentem, Pen +0, 1 use/day Thalia is the Muse of comedy, and this Power relieves the touched character’s worry, anxiety, or grief, filling him with good cheer and delight.''
+''(Base 4, +1 Touch, +2 Sun) Ease Factor: 5 Level Cost: 15 Principle: Optimism''
+
+===Divination of True Intent===
+
+''R: Eye, D: Mom, T: Ind Mentem, Pen +4, 6 uses/day Your character may divine the true intent of a single action or thought of the target. This is done by asking the storyguide a question as to the truth or sincerity of the target, who remains oblivious to the use of this Power unless it fails to penetrate her Magic Resistance (although she almost certainly notices the character’s praying''
+''or singing, and eye contact). Note that this only detects what the target believes, and so may be inaccurate.''
+''(Base 15, +1 Eye, +2 levels for Penetration, +3 uses/day)''
+''Ease Factor: 9 Level Cost: 25 Principle: Justice''
+
+==Hyperborean Choirs==
+
+''The Hyperboreans were mighty wizards individually, but their real strength lay when working — singing — together as a choir. In this way, they created a paradise for themselves, manipulating the seen and unseen forces of creation like so many musical notes and harmonies. Furthermore, singing hymns in a choir is the only way to use more than one Hyperborean hymn at once. To do so requires the use of a special Supernatural Ability, Ceremony (see box).''
+
+==Virtue: Ceremony==
+
+''Minor, Supernatural This Virtue grants your character the Supernatural Ability Ceremony, with a score of 1. Ceremony allows your character to lead or participate with a group of people in a supernatural activity, thus allowing great effects.''
+''This Virtue first appeared in Realms of Power: The Divine, page 34.''
+
+==Choir Mechanics==
+
+''The group of hymnists must first determine what effect they wish to achieve and choose a focus character''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+''to guide the hymn. The storyguide must set an Ease Factor and determine which hymns are appropriate. If the effect calls on more than one hymn, increase the level of the Power by 5 for every extra hymn it requires. Only the focus character must possess all the hymns used in the choir. Unlike normal hymns, the effect for a choir is not infused and may only be performed once. Additionally, choirsung hymns come at a greater cost, requiring as many pawns of vis as the final Ease Factor of the power being invoked. (The Technique or Form of the vis should roughly accord with the effect of the power.)''
+''Each member of the choir then adds his Communication + Hymn Ability to the focus character’s recitation total.''
+''Unlike infusing hymns, this process takes a minimum of a single day of meditation and trance from all of the participants. The choir may spend more than one day performing the hymn, and gain a bonus doing so. Likewise, all of the normal modifiers affect the focus character’s recitation total.''
+
+==Choir Example==
+
+''A group of six hymnists gather to perform a consecration to punish a nearby''
+''city for their hubris by inflicting it with a deadly plague. The storyguide decides that this is a level 60 effect (as per Curse of the Unportended Plague, with Range Arcane Connection), which makes the Ease Factor 20 (and thus requires 20 pawns of Perdo or Corpus vis). They decide on the hymn Iaó (and the principle of disease), which they all possess, and choose a focus character with a Communication of +2, a Hymn Iaó score of 6, and a Ceremony of 5. All the other participants have a Communication of +1 and Hymn Iaó scores of 4. The focus character’s recitation total is 8 (Communication 2 + Hymn Iaó 6) with a Ceremony Bonus of 25''
+''Ceremony is an Ability used in conjunction with another Ability, generally a Supernatural Ability, and with other participants, to produce a greater effect. To use Ceremony, your character must gather together a group and agree on a common effect to produce; at least one of the participants (generally the focus character) must possess the Ability or Power being used.''
+''All participants add their totals of the appropriate Characteristic + Ability to the focus character’s total. If a participant doesn’t have the relevant Ability, then only his Characteristic is added.''
+
+===Ceremony Bonus: Characteristic + Ability Total of Each Participant===
+
+''After this bonus is determined, the focus character rolls as normal, adding the Ceremony Bonus to his total.''
+''The group may appoint a leader (who must be the focus character), who then uses her Ceremony score to determine how many other characters may contribute to the effort; others may still take part, but their''
+''assistance gives no additional benefit. Alternatively, the group may chose to participate without a leader, but doing so results in a penalty to the Ceremony Bonus equal to the number of participants.''
+''Ceremony may also be used for seasonal activities, adding the Ceremony Bonus to the seasonal total. Seasonal ceremonial work, however, must be done with a leader. Assistants gain Exposure XP during that season, typically in the Ceremony Ability or the relevant seasonal Ability (if they possess it).''
+''Specialties: with a certain Ability, in particular circumstances, with a specific group or leader. (Supernatural)''
+''This Ability first appeared in Realms of Power: The Divine, page 36, although this version is slightly different, as it derives from the Magic, rather than Divine, realm.''
+''When reciting the hymns in a group, the Hyperboreans were able to invoke free-form magical effects, rather like spontaneous Hermetic magic (although such invocations take days rather than seconds).''
+''Ability: Ceremony Virtue: Ceremony''
+''Minor, Supernatural This Virtue grants your character the Supernatural Ability Ceremony, with a score of 1. Ceremony allows your character to lead or participate with a group of people in a supernatural activity, thus allowing great effects.''
+''This Virtue first appeared in Realms of Power: The Divine, page 34.''
+
+==Choir Recitation Modifier==
+
+
+===Time Spent Modifier===
+
+''1 day +0''
+''3 days +1''
+''7 days +2''
+''14 days +3''
+''21 days +4''
+''28 days +5*''
+''* This is the maximum bonus possible.''
+
+|}
+''(five participants, each with Communication 1 + Hymn Iaó 4), for a grand total of 33. Over a day of meditation and prayer, the hymnists successfully call down the wrath of Apollo upon the unsuspecting city.''
+
+==Sacred Relics of Hyperborea==
+
+''But there is no room to doubt that this race exists, since so many authorities state that their custom is to send the first fruits of their harvest to Delos, as offerings to Apollo, whom they specially worship. Virgins used to take these and were for many years held in respect and given hospitality by the local people until, because of a breach of good faith, they began the custom of depositing their offerings at the nearest frontiers of the neighboring people; these in turn took the offerings to their neighbors and so on until they arrived at Delos.''
+''— Pliny, Natural History, Book IV, 91''
+''The relics of Hyperborea are in honor of Apollo Phoebus, their patron god, and are sacred objects of great potency. Most of the relics were marvelous tapestries and weavings, gathered from all the villages of Hyperborea, showing things that are sacred to Apollo. So great was the workmanship of the tapestries''
+''that the images are entirely lifelike and real, showing the lyre and silver bow of Apollo, and all of the mythic adventures and actions of the deity, such as his involvement in the Trojan war and his various competitions and conquests. Sadly, the Hyperboreans no longer send their relics to Delphi, and few of the sacred items are now found in lands outside of Hyperborea.''
+
+==Hyperborean Enchantments==
+
+''Any character who possesses a Hyperborean hymn could attempt to craft a relic. Hyperborean magic does not come with the many of the restrictions of Hermetic magic, and the chief Hermetic restrictions that are removed are the need for vis and for the investment of the item with vis. Hyperborean hymns can infuse even the most mundane items with Apollo Phoebus’s essence, although to do so inflicts Warping Points upon the enchanter.''
+''The enchantment total used to create Hyperborean relics is Intelligence + Hymn Ability + modifiers + aura, and the Ease Factor is the total level of Powers being enchanted + modifiers, divided by three.''
+
+===Enchantment Total: Intelligence + Hymn Ability + Modifiers + Aura===
+
+
+===Enchantment Ease Factor: (total===
+
+
+===Level of Power(s) + Modifiers) / 3===
+
+''It takes a season to enchant a single Power into a relic, and if the total does not equal or exceed the Ease Factor, then the character cannot enchant the item with that Power. The Power levels for enchantment and the Enchantment Total can be modi''
+''fied by the same modifiers as reciting hymns (see the above Power Level Modifier and Recitation Modifiers text boxes), excluding the devotional behavior modifier.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+
+==New Virtue: Hyperborean Relic==
+
+''Minor, General Your character owns a Hyperborean relic, either a tapestry or a bouquet of feathers and beeswax. This relic has 30 levels of Powers from the sample list. You may take this Virtue multiple times to increase the number of levels of Powers the relic has, by 30 each additional time the Virtue is taken. Note that if your character’s Personality Traits are incompatible with the relic, its Powers may begin to fade.''
+''There are two common types of relic: elaborate tapestries, and those made of beeswax and feathers. Most of the relics’ Powers are activated by invoking one of the sacred names or epithets of Apollo. Most of these names are now lost, although a Hermetic magus could investigate a relic in the laboratory.''
+
+==New Shape and Material Bonuses==
+
+''These new shape and material bonuses are available to all characters.''
+''Cappadocian Salt: +6 purifying''
+''effects Doum Palm Leaf: +3 controlling''
+''instincts and base emotions Pure Honey: +5 spiritual travel,''
+''+2 preservation Sun Scarab: +4 detect magic''
+''The process for creating relics follows the Magical Enchantments section in Ars Magica Fifth Edition (see pages 95–100), the key change being the removal of the shape, material, and size limits. Any item can be invested with any level of Power and any number of effects, even items like beeswax and feathers, or a simple cloth tapestry (although Warping Points are still inflicted for the number of pawns of vis the opening would have needed).''
+''Furthermore, instead of using vis, the Hyperborean enchanter Warps his own body, at a rate of 2 Warping''
+''Points for every pawn of vis the enchantment would have needed (in both opening the item and instilling the effect). Warping from “opening” an item occurs only once for that item. Hyperborean magic can also enchant Powers into a relic that would otherwise be considered Hermetic Rituals (in particular, permanent healing effects).''
+''Unlike Hermetic enchanters, who can slowly enchant items (by accumulating points) over seasons, a Hyperborean enchanter must be able to enchant an item in a single season, or else he is unable to enchant the''
+''item at all. Hyperborean enchantments cannot infuse a Power that uses two hymns at once — only choirs can do that (although a single item could be infused with separate powers from multiple hymns). Hyperborean magic cannot create talismans or charged items; it also cannot bind familiars or create Longevity Rituals (except for the Eternal Youth of the Sun Power, above). Likewise, it cannot make use of similar spells, it does not create Lab Texts, and Hyperborean enchanters cannot experiment.''
+''Hyperborean relics commonly appear as either a bouquet of black feathers held together by beeswax, or a large tapestry with beautiful images and sacred words and prayers woven into the fabric. Relics typically have between two and five of the following Powers. These could also be used as examples of hymn Powers.''
+
+===Protection of the Bright Lightener===
+
+''Re(In)Co(An, Me) 64 Pen +20, 2 uses/day, constant effect''
+''R: Touch, D: Sun, T: Ind This Power prevents creatures with ill intent from touching or otherwise damaging the relic, in particular creatures associated with the Infernal realm that have an Infernal Might of 20 or less. This also affects humans and animals without a Might score.''
+''Hymn: Azai Principle: Defence (Base Gen 20, +1 Touch, +2 Sun, +3 requisites, +1 level uses/day, +10 levels Penetration, +3 levels environmental trigger)''
+
+===Apollo’s Soothing Relief===
+
+''CrCo 23 Pen +0, 6 uses/day R: Touch, D: Mom, T: Ind As the Hermetic spell, Gentle Touch of the Purified Body.''
+''Hymn: Semesilam Principle: Good health (Base 15, +1 Touch, +3 levels uses/day)''
+
+===Lifting Apollo’s Curse===
+
+''CrCo 23 Pen +0, 6 uses/day R: Touch, D: Moon, T: Ind As the Hermetic spell, Purification of the Festering Wounds.''
+''Hymn: Semesilam Principle: Good health (Base 4, +1 Touch, +3 Moon, +3 levels uses/day)''
+
+===Blessing of the Body of Light===
+
+''CrCo 28 Pen +0, 6 uses/day R: Touch, D: Mom, T: Ind As the Hermetic spell. Restoration of the Defiled Body.''
+''Hymn: Semesilam Principle: Good health''
+''(Base 20, +1 Touch, +3 levels uses/day)''
+
+===Interrogation of Asclepius===
+
+''InCo 13 Pen +0, 6 uses/day R: Touch, D: Mom, T: Ind As the Hermetic spell, Revealed Flaws of Mortal Flesh.''
+''Hymn: Iaó Principle: Harmony (Base 5, +1 Touch, +3 levels uses/day)''
+
+===The Fates Denied===
+
+''CrCo 30 Pen +0, 1 use/day R: Touch, D: Mom, T: Ind As the Hermetic spell, Cheating the Reaper.''
+''Hymn: Pentiterouni Principle: Aging (Base 25, +1 Touch)''
+
+===Blessing of the Solar Body===
+
+''CrCo 40 Pen +0, 1 use/day R: Touch, D: Mom, T: Ind''
+
+==Sample Hyperborean Relic Powers==
+
+''continued on next page''
+''As the Hermetic spell, Incantation of the Body Made Whole.''
+''Hymn: Semesilam Principle: Good health (Base 35, +1 Touch)''
+
+===The Gift of Far-sighted Apollo===
+
+''InIm 26 Pen +0, 2 uses/day R: Per, D: Sun, T: Vision As Interrogation of Asclepius, above.''
+''Hymn: Iaó Principle: Sight (Base 3, +2 Sun, +4 Vision, +1 level uses/day)''
+
+===Sight of the Pythian Oracle===
+
+''InIm 34 Pen +0, 2 uses/day, constant effect''
+''R: Arc, D: Sun, T: Room A variation of the Hermetic spell, Summoning the Distant Image. The user of this Power must possess an''
+''Arcane Connection to the place she wishes to see.''
+''Hymn: Iaó Principle: Sight (Base 2, +4 Arc, +2 Sun, +2 Room, +1 level uses/day, +3 levels constant effect)''
+
+===Apollonian Prayer of Chryses===
+
+''PeCo 80 Pen +20, 1 use/day R: Arc, D: Mom, T: Bound Chryses was a priest of Apollo whose daughter was enslaved by the Greek king Agamemnon during the Trojan War. When Agamemnon refused to return the priest’s daughter, Apollo punished the Greek army by raining down plague arrows. This Power’s effect is as the Hermetic spell, Curse of the Unportended Plague. The user of this Power must possess an Arcane Connection to the place she wishes to inflict the plague upon. The user may also invoke this Power if she can see the target, such as''
+''through using the Power Sight of the Pythian Oracle.''
+''Hymn: Iaó Principle: Disease (Base 20, +4 Arc, +4 Bound, +1 additional effect, +10 levels Penetration)''
+''A damaged or profaned relic may lose some or all of its Powers. A relic is considered profaned if it is handled by anyone aligned with the Infernal realm, or any creature with Infernal Might, in which case it permanently loses all of its Powers. Prolonged exposure to a character possessing a Personality Flaw that was considered by Apollo Phoebus to be dishonorable causes the relic to permanently lose one Power each season it is in the character’s presence. A damaged relic (such as a torn tapestry, or a bouquet missing feathers) may lose one or more Powers, at the storyguide’s discretion (determined by the extent of the damage).''
+
+==Sample Hyperborean Relic Powers, Continued continued from previous page==
+
+''The mighty Hyperborean wizard, Abaris Hyperberetaeos, decides to enchant the Semesilam Power Thalia’s Relief into a stone obelisk near his temple, and decides to give the Power a Target of Boundary. His total enchantment Ease Factor is 14 (Base 4, +1 Touch, +2 Sun, +5 Boundary = 40, divided by 3). To craft this would normally require 20 pawns of vis to prepare (material is hard stone 4, size is huge x5), and a further four pawns to enchant (total level effect is 40 divided by 10).''
+''Abaris has the Semesilam Hymn Ability at level 6, and his Intelligence is +2. The magic aura is 4, Abaris''
+''has the Major Virtue Hyperborean Descent (+4) and speaks the Hyperborean language fluently (Ability score 6). He also has the Personality Trait Continence, which is approved of by Apollo (granting a +1). There are no shape or material bonuses. His Enchantment Total is 21, easily exceeding the Ease Factor.''
+''It takes Abaris a mere season to enchant the obelisk; however, in doing so he inflicts 24 Warping Points upon himself (though this does not trigger Illumination). Abaris would be able to further enchant the obelisk as he wished (and would be''
+''further Warped), but would not need to “open” the obelisk again.''
+
+===Obelisk of Thalia’s Relief===
+
+''ReMe 45 Pen +0, 1 use/day R: Touch, D: Sun, T: Bound All those who cross the boundary marked by the obelisk have their worry, anxiety, or grief relieved, and are filled with good cheer and delight.''
+''Hymn: Semesilam Principle: Optimism (Base 4, +3 Sight, +2 Sun, +4 Bound)''
+
+==Hyperborean Enchantment Example==
+
+
+==Ancient Magic Integrating Hyperborean Magic==
+
+''Upon learning or finding a Hyperborean hymn or relic, a magus may decide to attempt to incorporate its magic into Hermetic theory.''
+
+==The Breakthrough==
+
+''Below are the minimum numbers of breakthrough points required to integrate various aspects of Hyperborean magic into Hermetic theory. It is recommended that the required number of breakthrough points be slightly varied (by perhaps 3 to 5 up or down) so players are never sure exactly how many they need.''
+
+===Integrating a New Duration (Minor Breakthrough): 30 Break===
+
+
+===Through Points===
+
+
+===Integrating Spirit-travel (Minor Breakthrough): 35 Breakthrough===
+
+
+===Points===
+
+
+===Integrating Vis-less Permanent Magic: 70 Breakthrough Points===
+
+
+===Integrating Vis-less Enchantment: 65 Breakthrough===
+
+
+===Points===
+
+
+===Integrating the Elimination of Shape, Material, and Size Limits:===
+
+
+===60 Breakthrough Points===
+
+
+===Integrating Ritual Effect Enchantment: 65 Breakthrough===
+
+
+===Points===
+
+
+==Hyperborean Insight==
+
+''Most of the remaining fragmented hymns and relics are not very good sources for gaining Insight. Their remnants hint at once-powerful magic, but in most cases, without the complete words of the hymn or a working relic, Insight into the magic of Hyperborea is elusive.''
+''Hymns: Most Hyperborean hymns were carved onto Apollo’s temples, or stored on fragile parchment. Having only a fragment of a hymn (such as a sacred name or fragments of a prayer string) imposes a –2 penalty on the Insight roll, while a near-complete fragment grants a +2 bonus to the roll. The completeness (or lack thereof) of a fragment, and its modifier to Insight rolls, is up to the storyguide, but should not be more than +/– 2. Knowing (or using Insight gained from) other Hyperborean hymns grants no additional bonus; each Hymn Ability is''
+''different enough from others that one must, in effect, learn the system all over again. (That is, your character has to integrate or gain Insight from each of the hymns).''
+''Relics: There are very few working Hyperborean relics still extant. Using a whole, working relic as a source grants a +2 to the Insight roll. A damaged relic can still be a source of Insight, but decreases the Insight roll by –2. A profaned relic (or a relic with no working Powers) decreases the Insight roll by –3.''
+''Teachers: The last known Hyperborean wizards were killed over 300 years ago. Nevertheless, several ghostly priests still persist, and, with difficulty, could be convinced to share their knowledge. It is also possible that the Hyperboreans still live safely in their northern lands, venturing out only in spirit form; the tale of Cleodemus, in the quote at the start of this chapter, tells of the case of a Hyperborean mysteriously visiting''
+''1. Finding the Source: Sources for Hyperborean hymns or relics are scattered throughout Mythic Europe, concentrating on areas sacred to Apollo or other significant sun deities, and require quests and stories to find. There are legends of Hyperboreans who reached as far as Iberia, Britain, and the Far East. Sources of Hyperborean hymns would include fragments of the hymns, such as those found at the Basilica of Ten Thousand Columns (see below), scribed upon ancient relics, or even related by the ghosts of famous Hyperboreans. 2. Gaining Insight: Each source allows your character to gain one Insight, which permits him to create one specific effect.''
+''3. Incorporating the Insight: The researcher must incorporate the Insight into a magical effect, either a spell or magical device. The effect must resemble the most significant Power of the source of the Insight. If your character finds a hymn fragment with that allows someone to command spirits, the effect he creates must do likewise; a source can only be used to attempt a Breakthrough related to its Powers. 4. Research, Research, Research: As per the process outlined in the Introduction. 5. Consequences: Some advice as to the consequences of integrating aspects of Hyperborean magic into Hermetic theory is included in the text nearby.''
+
+==Hyperborean Integration Process==
+
+
+|}
+''the estate of a Roman noble. Thus, the hymns could form the basis for a mysterious hedge-wizard antagonist who visits the players characters’ covenant.''
+''Hyperborean Language: Knowing the Hyperborean language makes gaining Insight easier. Having a basic proficiency in Hyperborean grants +1 to the Insight roll for every point the researcher has in the Ability above 4, to a maximum of +3. Multiple Sources: Insight can be gained from multiple sources, so long as both sources are similar enough. If two different sources are used, and both utilize the aspect of Hyperborean magic that the researcher is trying to integrate, then breakthrough points from both can be added to the research project. Remember, however, that you may not use a single source for repeated Insight. One source only provides Insight one time for one thing. To gain an Insight into another Breakthrough from Hyperborean magic requires an adventure to find another source.''
+
+===Insight Example===
+
+''Moratamis finds a fragment of a hymn that uses the 19 Year Duration and starts to research it, gaining breakthrough points for an effect using that duration. Some years later, she finds a more complete fragment of another hymn that also uses the 19 Year Duration. She decides to use this as well, and the more complete fragment allows her to gain Insight more easily; the breakthrough points accumulated from her earlier research are added to her new breakthrough points, as both aspects of the research focus on the 19 Year Duration.''
+
+==Consequences==
+
+''19 Years Duration: Currently, unless enchanted into a magical device,''
+''Hermetic magic cannot produce spells with an ongoing duration longer than one year; with this duration, for a single increase in magnitude, Rituals would last almost 20 times longer. This Breakthrough would dramatically increase Hermetic magic’s longevity. Hermes portals would need only a small amount of extra vis to last 19 times as long, and year-long Rituals would similarly have a substantially greater impact. Most importantly for the Order, attempting to integrate a new 19 Year Duration with the Aegis of the Hearth spell would revolutionize Hermetic defenses, although to do so would require another Major Breakthrough (as Aegis of the Heath was itself a Major Breakthrough, see ArM5, page 161).''
+''Spirit Travel: Hermetic magic already allows for limited spirit travel, through the Art of Mentem. Hyperborean spirit travel is less risky than with Hermetic magic. Magi, particularly Seekers, may find Powers such as Radiant Mantle of the Night Wanderer a safer way to travel to dangerous and faraway locations. This could also alter the way that Hermetic society operates, as magi not wanting to make the trip to a Tribunal meeting could still attend in spirit. This may also have consequences for the Redcaps, as magi start traveling in spirit to visit their sodales, rather than writing them letters.''
+''Vis-less Spells: Hyperborean magic does not require vis for permanent effects. This is the most upsetting of the Breakthroughs, as it would allow Hermetic magi to create permanent objects out of thin air, heal wounds, resolve aging crises, and devise Longevity Rituals, all without vis. Vis would become useful only for making magic easier to cast, and for enchanting items in the laboratory, rather than as an absolute necessity for Rituals or healing magic. Hermetic''
+''society and its economy would change dramatically. The vis-trading system of House Mercere (see Houses of Hermes: True Lineages, pages 84–85) would dramatically decline in value, and the vis stocks of powerful covenants would be of less use. It could be in the interests of these groups to prevent such a discovery from being propagated. Of all of the possible ways to integrate Hyperborean hymns into Hermetic magic, this is the most potentially saga-upsetting, and may unbalance the game.''
+''Vis-less Enchantment: This Breakthrough would allow the enchantment of magical devices by supplementing vis with Warping Points, at a rate of 2 Warping Points for every pawn of vis that would have been needed. This would give Hermetic magi the unenviable choice between personal sacrifice or resource sacrifice when creating magical devices. This Breakthrough would allow vis-poor magi to compete with their richer sodales, but effectively decrease their Hermetic lifespans. Elimination of Shape, Material''
+''and Size Limits: For Hermetic magi who regularly enchant items, this would allow any item to be enchanted with any number of effects. A single copper ring could be enchanted with scores of levels of effects. Precious metal and gems would cease being the main materials used to for powerful effects, and this, like vis-less enchantment, would allow poor magi to compete with their rich colleagues. Items would still need to be “opened,” and would require the same number of pawns of vis (or twice as many Warping Points, if that Breakthrough had also been integrated) as normal to prepare for any enchantment (ArM5, Preparation for Enchantment, page 97). Once prepared, however, the item could be invested with an effectively unlimited number of magical effects.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+''Ritual Effect Enchantment: Hermetic magic cannot currently enchant Ritual effects into magical devices, which makes it impossible for devices or potions to permanently heal. . The unlimited Ritual effect Breakthrough would allow Hermetic magi to enchant Ritual effects into magical devices, including permanent Creo effects (see ArM5, pages 96 and 98). (The Mercere Portals in Houses of Hermes: True Lineages, page 80, made use of a Breakthrough like this one.) The result — an Order of Hermes that could create charged items with permanent effects, as well as enchanted devices that can permanently heal — would be dramatic. Longevity Rituals could be enchanted into devices, as could powerful Creo Corpus spells such as Cheating the Reaper or Incantation of the Body Made Whole. Magi deaths due to injury or aging would decrease. Safe Hermetic travel, as covenants began enchanting permanent Hermes Portals, would increase. Items that permanently create food or precious metals could alter the economy of the Order or even Mythic Europe, as covenants would no longer require supporting villages to feed''
+''themselves.''
+
+==The Basilica of Ten Thousand Columns==
+
+''In that island, there is a magnificent grove (or precinct) of Apollo, and a remarkable temple, of round form, adorned with many consecrated gifts. There is also a city, sacred to the same god, most of the inhabitants of which are harpers, who continually play upon their harps in the temple, and sing hymns to the god, extolling his actions.''
+''— Hecataeus of Abdera,''
+''Peri Hyperboreon''
+
+==The Legend==
+
+''From the fourth century BC, the Basilica of Ten Thousand Columns was a temple to Apollo Phoebus, “the Shining One.” Amid its marble columns walked the descendants of the Hyperboreans. Nestled at the foot of Mount Pelister among the Balkan Mountains and on the banks of the River Dragor, the basilica stood as a testament to the majesty of Apollo. Perpetually surrounded by a sweet, nourishing breeze, the basilica was a place of peace and tranquility.''
+''One day, towards the end of the eighth century, the basilica was visited by five strange people, Latin-speaking''
+''scholars from the West with arcane powers. They told the priests of a fraternity of wizards, the Order of Hermes, which offered protection to those who joined, and death to those who did not. The priests replied that''
+''they served only Apollo and therefore could not join the Hermetic Order; they sent the five Western magi away.''
+''Several years passed. The Westerners’ visit was''
+''forgotten by most of the priests, and they thought no more of it.''
+''Trianoma and Tremere attacked without warning. Tremere and his three filii sucked away the breath and twisted the tongues of the Hyperboreans, making it difficult for them to sing their hymns. Trianoma invoked powerful Thessalian curses of bad fortune and heated the air, damaging the fragile relics.''
+''The magical battle that followed is recalled in early Hermetic histories as a great victory for the nascent Order of Hermes. Trianoma, assisted by Tremere, defeated a group of formidable Hellenic wizards whose stubborn refusal to join the Order jeopardized Hermetic peace in the East. The wizards, priests of Apollo, were aided by many mighty spirits and potent magical devices, and held out valiantly against Trianoma and Tremere before finally succumbing. Tremere himself was badly wounded and one of his allies, a mighty Dacian necromancer, was killed by Abaris Hyperberetaeos, the basilica’s high priest. With the Apollonian priests defeated, Trianoma and Tremere looted the temple, uncovering many of Apollo’s relics and hymns and returning them to the West.''
+
+==Finding the Basilica==
+
+''Both Trianoma and Tremere recorded the approximate location of the basilica in letters, and histories of the Order of Hermes’s early years also mention the ruins. The journals and letters of later Hermetic explorers, who visited the ruins in the hope of finding the hidden regio, also hint at where the temple may be hidden.''
+''Due to the legends of the great treasures to be found at the temple, however, few magi gave the exact location. The temple is also missing''
+
+|}
+''from most ancient maps, although it is mentioned as the receptacle of many devotional gifts to Apollo, and as a sister-temple to Delphi and Delos. The tombs of the Hyperborean maidens, Arge and Opis, could be inscribed with a map to the basilica.''
+''Hermetic researchers attempting to locate the basilica would be able to find the rough area in which it is located, perhaps even its proximity to Mt. Pelister, but the exact location was never recorded. Older texts are likely to be found in monastic libraries in Greece, or in venerable covenants in the Transylvanian Tribunal. Due''
+''to the great magical wealth fabled to be at the basilica, few Hermetic magi would be willing to give this information to rivals, even if they were unlikely to make the journey themselves.''
+''A troupe interested in visiting the basilica could start their quest with a story dedicated to finding a record of its location. A journey to the spacious halls of Coeris, or the somber shelves of a Byzantine monastic library, would be good places to start.''
+''If your troupe is more interested in just getting straight to the basilica, a character could merely spend a sea''
+''son researching the Order’s histories and archives. To find the location of the basilica in this way, you may make an Intelligence + Order of Hermes Lore stress roll against an Ease Factor of 21.''
+
+===Locating the Basilica: Intelligence===
+
+
+===+ Order of Hermes Lore + Stress===
+
+
+===Die Vs. Ease Factor 21===
+
+''If you succeed, the character successfully locates a letter or record that states the location of the basilica’s ruins; failure means that his season’s search was fruitless. A botch could''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+''Why did Tremere and Trianoma attack the basilica? Theories regarding the motives of Trianoma abound, particularly given her normally diplomatic temperament.''
+''One Hermetic legend tells of the jealously between the Hyperboreans and the Thessalian witches, particularly the enmity held by Erictho and her ancestor Medea, who were badly treated by Apollo. The Hyperborean priests, aligned with the sun, were the natural enemies of the lunar Thessalian witches. Trianoma, born of the same blood as Erictho and Medea, was naturally inclined against the Hyperboreans.''
+''Another tale recalls an ancient Greek myth of Apollo, where the sun god was commanded to kill Otos and Ephialtes, the two giant children of Poseidon, before they had time to grow too great in power and threaten the home of the gods. Trianoma, gifted with visions, foresaw that the Hyperborean priests were charged with ensuring that the Order of Hermes would not grow so great as to threaten the gods. She believed that one day the Hyperboreans would seek to destroy the Order — the''
+''mighty child of Hermes — lest it grow too great in stature. She and Tremere both decided on a preemptive strike to preserve the Hermetic Order.''
+''Some Trianoma magi believe that Trianoma sought the secret of Longevity Rituals from the Hyperboreans, who were renowned for their long lives, and that when the priests refused to share their secrets, she was convinced by Tremere to take them by force. These Trianoma magi note the practical maximum of the Longevity Ritual is just over 250 years, the same life-span as Aristeas the Hyperborean.''
+''There is little discussion as to why Tremere was involved in the attack on the basilica, concerned as he was with the subjugation of the Hellenic magi of Greece and the growth of his House’s influence. Indeed, the destruction of the basilica was the catalyst for many Greek wizards to accept the suzerainty of Jerbiton in exchange for protection from Tremere (see Houses of Hermes: True Lineages, page 112). Others, however, note a similar lunar tendency with Tremere, given his chosen familiar was a wolf.''
+''Finally, some in House Bonisagus and House Tremere dismiss this Hermetic legend as slander and an attempt by Schism-war era propaganda to blacken Trianoma’s and Tremere’s good names.''
+''In the ninth century, a monastery was established by Constantine VII over the temple’s ruins, and part of which were incorporated into a new building. Even with the consecrated altar in the monastery, the area remained deeply magical. A century and a half later, despite repeated exorcisms by abbots and priests who believed the area to be haunted, the monastery was abandoned.''
+''Attempts by Hermetic Seekers to uncover the Hyperborean treasure-trove proved largely fruitless, and as time passed the basilica was largely forgotten by the Order of Hermes. The last expedition, in the late 11th century by a group of Hellenic Jerbiton magi from the Tribunal of Thebes, was confronted by the resistance of several potent spirits, perhaps the same spirits who aided the original Hyperborean priests.''
+
+==Motives of the Founders==
+
+''mean that he uncovers a mistaken location far, far away from where the basilica truly lies.''
+
+==On the Banks of the Dragor==
+
+''The ruins of the Basilica of Ten Thousand Columns can be found on the banks of the Dragor River, secreted amid the Baba Mountains in the Despotate of Epirus. The basilica is a temple complex of great beauty and wealth. Parts of it have been built over by a ninth century Byzantine monastery, although this too has fallen into ruin. The entire area is surrounded by an unusually high Magic aura, and parts of the ruin have been absorbed into a Magic regio.''
+''The basilica is a complex of four buildings: a sanctuary of Apollo in which the god is supposed to have resided, a treasury in which votive offerings to Apollo were stored, a small amphitheater used for religious''
+''festivals, and the gymnasium used by the priests for education. All of the buildings of the basilica are modeled on those found in Hyperborea.''
+''Upon approaching the basilica, a traveler is struck by the incredible beauty of the vale, the picturesque stream that courses through the ruins, the magnificent rose bushes, the incredible brightness of the sun even on overcast days, and the sweetness of the air. A majestic snow-topped mountain towers over the vale. Despite having been uninhabited for centuries, the grass appears neatly clipped; the rosebushes, hedges, and trees pruned; and most of the buildings free of weeds, lichen, or moss. An intricately paved road winds its way through the complex, around a large olive tree, and ends at the sanctuary to Apollo.''
+''The ruins themselves are made from a pure white marble, except for the treasury, which is crafted from yellow marble. Boulders of varying sizes, torn from the mountain, lie strewn throughout the complex. The''
+''gymnasium and amphitheater are almost entirely destroyed, although the foundations and a few roofless rooms remain. The sanctuary to Apollo has been converted into a small monastery, although this has been abandoned for 300 years, its domed roof half-collapsed and its fine mosaics flaking.''
+
+===Apollo’s Sanctuary===
+
+''The sanctuary of Apollo is the center of the basilica complex. A number of complete Doric columns remain standing, while the stumps of 30 or so others remain, spread about the foundations. The entrance of the sanctuary faces east, joined to the road by the stands where two large stone bulls once stood, the feet of which remain. A large stone pillar, with badly damaged inscriptions in Hyperborean, stands directly before the sanctuary, although the statue of Apollo that stood upon it now lies''
+''The closest town to the basilica is Manastir, the 11th century capital of the Bulgarian Empire, not far from where Emperor Basil blinded 14,000 Bulgarian captives in 1014 (see Houses of Hermes: True Lineages, page 114). The region is populated by Slavs and Bulgars, and ruled in 1220 by Theodore Ducas, magnate of one of the powerful imperial families of Byzantium. Manastir has its own bishop, and is on a trade route between the Adriatic Sea and Thessalonica.''
+''Under Theodore, the Despotate is locked in endemic conflict with the Kingdom of Serbia and Bulgaria, and the Latin Empire. Theodore controls a number of strategically important towns, including Larissa, Dyrrhachium,''
+''several ports on the Gulf of Corinth, and access to the Egnatian Way, the main road to Constantinople.''
+''Theodore is known for being ruthless and unscrupulous, taxing his subjects harshly, and waging what seems like an endless war against his neighbors. He is currently laying siege to Thessalonica, which is governed by the Latin rulers of Constantinople. Theodore recently captured Peter of Courtenay, the Latin emperor of Constantinople and an influential French aristocrat, cruelly torturing and executing him. Due to this, the Latin Empire is without a ruler, although succession has passed to Peter’s son, Robert of Courtenay, who is traveling from his father’s French lands.''
+
+===Story Hook===
+
+''The bishop of Manastir decides to revive the failed monastery of Saints Cyril and Methodius, located at the site of the Basilica of Ten Thousand Columns. This is a major exercise, requiring monks to be recruited, and a team of masons and other tradesmen to make the dangerous journey to Mount Pelister in order to rebuild the monastery. The bishop is most concerned over the tales of mighty ghosts haunting the site, and so searches for assistants to his exorcists, possibly even Hermetic magi.''
+
+==The Despotate of Epirus==
+
+
+|}
+''in pieces. The head of the statue was taken as a trophy by Tremere.''
+''The sanctuary itself is a circular building, 70 paces in diameter, with a row of 48 columns in the outer sanctuary. The inner sanctuary once housed an ornate statue of Apollo Phoebus, and contained carvings depicting the''
+''god’s journeys to Hyperborea in the winter months and his passage across the sky in his fiery chariot.''
+''The inner sanctuary and half of the outer sanctuary have been converted into a monastery, a whitewashed two-story building with a domed roof that is collapsing. There is room for a community of 20 monks and laypeople, with a large central common area, and a small sacristy and shrine.''
+''The monastery is elaborately decorated with mosaics and painted wooden panels covered in gold leaf. Icons of SS. Cyril and Methodius, the Archangel Raphael, and the emperor Basil II in golden armor abound, while''
+''the altar is still shrouded by a fragile and faded curtain.''
+
+===The Treasury of the Hyperboreans===
+
+''Surrounded by a low wall, the Treasury of the Hyperboreans was the storehouse of the many devotional offerings made to Apollo. The remains of 30 statues of kings of Hyperborea stand before the treasury, which is built from deep-yellow limestone. Its walls are covered in carvings of scenes from Apollo’s life, particularly of him curing disease and prophesying the future. Many of the details have been defaced, or covered over with Christian symbols. The treasury is a relatively small building with a modest antechamber leading through to the storage room, which is empty and plain. The arched doorway has faded scorch marks and signs of forced entry that are many centuries old.''
+''It is this building that Trianoma and Tremere looted in the eighth cen''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+
+==The Basilica’s Aura==
+
+''The ruins of the basilica have an exceptionally high Magic aura. Upon entering the vale where the ruins lie, the Magic aura quickly rises to a rating of 5. Along the elaborately paved road that winds through the basilica’s buildings, the Magic aura is 6. Amid the buildings, the Magic aura is 7, while most of the buildings themselves have an aura of 8. A small copse, home to a flock of crows, has a Magic aura of 7, as do the stream and small ponds, where a large wedge of swans swims. Seven days after each new moon, the Magic auras in the vale increase by one, and decrease by one on the seventh day after the waning of the moon.''
+''In the ruins of the monastery, attached to the sanctuary, the Magic aura drops to 4, and in the crumbling tabernacle, there is no Magic aura at all. On the holy day of SS. Cyril and Methodius (February 14) a feeble Dominion aura of 1 emerges around the altar. The olive tree radiates a Divine (Empyreal) aura of 1, which extends to its furthest branch.''
+''Due to some lingering mystic correspondences, any spells cast or supernatural abilities used that relate to the summoning or control of the dead, divining the future, curing or causing disease, or invoking spirits receive double the benefit from the magical aura.''
+
+==Agyieus Pillars==
+
+''If a traveler started at Delphi and walked back along the Via Sacra (“Sacred Way”), he would find that the path is marked by conical Agyieus pillars, which are sacred to Apollo. These pillars are connected to the Hyperboreans because two of them, Pagasus and Agyieus, visited Delphi and marked their journey with these “Apollo stations.” The Agyieus pillars are few and far between, crossing through Greece intermittently and into the Carpathians, and finally leading to the Black Sea.''
+''The pillar in front of the ruined sanctuary of Apollo is also an Agyieus pillar. Like the herms — sacred stone idols of Hermes — the Agyieus pillars mark sacred paths and places to Apollo. The pillars may be enchanted, and provide the following shape and material bonuses: +2 invoking or controlling spirits, +3 divining the future, + 3 summoning sunlight, +5 cause or cure disease, and + 5 protection from hostile spirits.''
+
+==Apollo Phoebus==
+
+''Apollo Phoebus means “Shining One,” and from the fifth century BC he came to be seen as the deity of the sun, often being identified with Helios. According to one Hermetic legend, Apollo gained this title after defeating Hyperion during the Titanomachy (the war between Olympian gods and titans).''
+''One of the 12 great Olympian Gods, Apollo is the god of prophecy and divination, and is also said to have dominion over plagues, healing, light, archery, the arts, and the sun. His symbols include swans, crows, dolphins, bows and arrows, the laurel crown, the lyre, and the tripod.''
+''tury. Following the defeat and deaths of the Hyperborean priests, the two Founders spent a great deal of time and effort to break into the treasury, which was the most heavily defended of the buildings. Eventually they broke in, but found only a few treasures — certainly not the grand hoard that legends spoke of. Tremere wrote in later years that he believed the destroyed door was the passage to a regio, now forever cut off from the world.''
+
+===The Amphitheater===
+
+''Some way up the slope of the mountain is an amphitheater, although little remains except the stone semicircle used as the stage, and the elegant curve cut into a natural auditorium. On the night seven days after the new moon, a ghostly replica of''
+''the amphitheater appears, and minor spirits can be glimpsed reenacting scenes from Apollo’s life.''
+
+===The Gymnasium===
+
+''The gymnasium is where the priests taught and contemplated their religious duties. Little remains except for the foundations, with a few stones rising to shoulder height. At nighttime and on Apollo’s sacred days, ghosts of the slain priests can be glimpsed going about their sacred rites.''
+
+==Inhabitants==
+
+''Although abandoned centuries ago by the living, the basilica is still the dwelling-place of spirits, ghosts, and daimons.''
+
+===The Restless Dead===
+
+''Murdered by the Founders, many of the Hyperborean priests remain as spectral remnants of their former selves, unwilling to travel to the afterlife and desert their sacred duty. The most potent of the ghosts, the senior priests of Apollo, still carry out their priestly tasks, praying, tending to the buildings and grounds as best they can, and guarding the secrets of the basilica from those who would steal them. (Note that these ghosts differ from those presented in The Broken Covenant of Calebais, Revised Edition, page 35, in that their lives of dealing with the dead have prepared them more for an afterlife of ghostly haunting.)''
+
+===Spirit Guardians===
+
+''The Hyperborean priests of the basilica were protected by several underworld spirits, particularly those connected with Apollo’s sister,''
+''During his many conquests, Alexander the Great, an initiate of many powerful arcane mysteries, founded cities and build shrines and temples upon ancient sites. These sites were located upon potent magical currents known as “dragon lines.” Alexander believed that by “pinning” the dragon lines, he would be able to channel the earth’s forces into his body and become a living god. The dragon lines are centered on Alexandria in Egypt and reach as far as Delphi, India, and the Island of Meroë at the Nile’s source.''
+''There is a ruined Alexandrian altar in the basilica, converted by monks into a Christian altar. However, ancient records indicate that Alexandrian altars can be found throughout Greece and the East, and throughout the barbarian lands to the very shores of the Scythian coast. One of the altars is''
+''believed to have the bronze sword of Alexander interred within it — the same sword used to assassinate his father, Phillip.''
+''The altars of Alexander have powerful mystical connections to each other, and link to over 70 different sites. A magus, casting a spell using the Arcane Connection Range while touching such an altar, is considered to have an Arcane Connection with a +4 multiplier to the other shrines, cities, or temples connected by the dragon lines.''
+''It is possible that House Mercere knows the location of many of the 70 sites linked by the altars; indeed, many of the Merceres’ Portals (see Houses of Hermes: True Lineages, page 80) may be built upon the ruins of altars. Determining the locations of other altars would require Magic Lore research (see Covenants, page 98).''
+''The Altars of Alexander the Great Hyperborean Relics in the Order of Hermes''
+''The Basilica of Ten Thousand Columns was looted by Trianoma and Tremere, its magical lore and devices carried triumphantly back to the West. It is possible, therefore, that Hyperborean relics or Apollonian hymns could be found in other parts of Mythic Europe, particularly at covenants associated with the Founders. Hidden upon or within the relics could be clues as to the whereabouts of the basilica, the true names of spirits, or information about the road to Hyperborea itself. Alternatively, it is also possible that these powerful relics may have been used, and destroyed, during the Schism War.''
+''The nekuomanteioi (“oracles of the dead”) are ghosts that can recite prophecies and oracles. Wizards who summon or control these ghosts are known as psuchagôgoi (“prophets of the soul”). Many of the murdered Apollonian priests still remain, and some may be much more powerful than the ghost below (with Might scores as high as 40); they are likely to be hostile towards, or at least wary of, Hermetic magi.''
+''Magic Might: 15 (Mentem) Characteristics: Int +2, Per +1, Pre 0,''
+''Com +2, Str 0, Sta 0, Dex 0, Qik 0 Size: 0 (non-physical) Age: n/a (35–40) Decrepitude: n/a Confidence Score: 1 (3) Virtues and Flaws: Ceremony,''
+''Hyperborean Descent (Minor), Hyperborean Hymnist x3, Premonitions, Second Sight Personality Traits: Honest +3, Self''
+''serving –1 Combat: Fist: Init +1, Atk +2, Dfn +2, Dam +0* * When manifested only Soak: +0 (plus Hymn Ability scores''
+''where relevant) Fatigue Levels: n/a Wound Penalties: n/a Abilities: Ancient Greek 5 (songs),''
+''Area Lore Balkans 3 (Hyperborean relics), Artes Liberales 4 (astronomy), Athletics 2 (running), Awareness 3 (spirits), Bargain 3 (spirits), Brawl 1 (fist), Ceremony 4 (Hymn Psyrinpheu), Folk Ken 3, Hymn Pentiterouni 3, Hymn Psyrinpheu 2, Hymn Eloure 2, Hyperborean 5 (hymns), Magic Lore 6 (spirits), Premonitions 7 (good fortune), Second Sight 4 (ghosts), Sing 4 (prayer), Teaching 4 (Hyperborean hymns)''
+''Powers:* Courage of the Python Slayer, 4 points,''
+''Init +0, Mentem: As per the Psyrinpheu Power. False Dream of Aktióphis, 4 points, Init''
+''+0, Mentem: As per the Eloure power. Manifest, 1 point, Init +0, Mentem:''
+''The nekuomanteioi may manifest as a physical being, either in a human or crow form, as if it were using Radiant Mantle of the Night Wanderer. Oracle of the Dead, 10 points, Init +0,''
+''Imaginem: The nekuomanteioi may see into the past or future if it possesses an Arcane Connection to the person or location it is examining. The information it receives is indistinct and transmitted in a confusing manner, filled with strange symbols. Its visions of the future are not what will happen, but what may happen, and are typically even more vague. Possession, 3 points, Init +0, Mentem:''
+''The nekuomanteioi may attempt to control the living by possessing a person’s spirit. Spending 3 Might points allows the ghost to possess a person (or animal) for at least a few minutes (Diameter Duration), and gain control over his body, assuming the ghost penetrates any Magic Resistance the person may have. The possessed person may attempt to resist the possession by making a Stamina + Concentration roll against an Ease Factor of 9. If this roll fails, then the nekuomanteioi is able to possess the person for a full day, after which the person may resist again. This roll may be repeated every day. The ghost may be exorcised as normal, through Perdo or Rego Mentem spells, or through other Supernatural Powers such as the''
+''Adjuration Divine Power (Realms of Power: The Divine, page 49). While possessing a person, the ghost may use any Powers or magic the host has (except Divine Powers). Slaying of Niobe’s Children, 6 points, Init''
+''+0, Corpus/Ignem: As per the Psyrinpheu power. * Many of the Powers once possessed''
+''by the nekuomanteioi through his Hyperborean hymns are no longer available in death. Vis: 3 pawns Mentem. Appearance: The nekuomanteioi appears''
+''as a middle-aged man, dressed in elaborate clothes that resemble a mix of ancient Greek and Celtic dress, or as a large black crow. Unless using its Manifest Power, the nekuomanteioi appears translucent and indistinct, and during the day it is completely invisible. The nekuomanteioi may use its Premonition Ability and other Supernatural Abilities as it wishes.''
+''In the presence of a nekuomanteioi (who may be summoned through Incantation of Summoning the Dead), a necromancer may use the ghost as an Arcane Connection for Intellego spells (in particular, Intellego Imaginem) in order to look into the past or future. This increases the magnitude of the spell by 4 if looking into the past, or 5 if looking into the hazy and indistinct future. Either option also makes the spell a Ritual. Casting spells in this manner is very dangerous, and inflicts upon the magus a number of Warping Points equal to the total magnitude of the spell (which may cause Twilight). If a nekuomanteioi were captured or otherwise persuaded to assist, a Hermetic researcher (with the storyguide’s blessing) could use it as a source for a Hermetic Breakthrough.''
+
+==The Nekuomanteioi, Hyperborean Priests of Apollo==
+
+''Artemis, and the underworld goddess Hekate. Similarly, many of the spirits allied to the Hyperboreans are connected to Apollo by marriage.''
+''Three powerful spirits still haunt the basilica, linked as they were to the vale through mighty bargains forged in centuries past: Aktióphis’s Displeasure,''
+''Triple-formed Méné Marzouné, and Queen Brimo. At the storyguide’s discretion, these spirits may be considered chthonic, and mistaken for creatures of''
+''Aktióphis’s Displeasure is one of the four earthly manifestations of the Goddess of the Heavenly Vault. Aktióphis herself is the bride of Tem, and is sister to Helios and Selene. Her Displeasure is a groan from the deepest depth of the nighttime void, manifesting as a sepulchral menace that can be physically felt, and seen as a writhing morass of solid, dark grief. Aktióphis is a highly sensitive goddess and takes great offense at even the smallest slights. Her Displeasure is her most powerful semi-autonomous manifestation, and the most active. (Note: References to Aktióphis below refer only to her Displeasure — Aktióphis herself is much more powerful.) Magic Might: 10 (Corpus) Characteristics: Int +3, Per +3, Pre''
+''+2, Com +0, Str +2, Sta +2, Dex +0, Qik +1 Size: +0 Confidence Score: 3 (9) Virtues and Flaws: Greater Immunity''
+''(animal attacks, and weapons made of plant matter or lead); Piercing Gaze, Personality Traits: Merciless +3,''
+''Adamant +2 Combat: Coil: Init +1, Attack +10, Defense''
+''+0, Damage +9* * When manifested only Soak: +8 Fatigue Levels: n/a Wound Penalties: –1 (1–5), –3 (6–''
+''10), –5 (11–15), Incapacitated (16–20)* * When manifested only Abilities: Area Lore Spirit World''
+''8 (Hyperborean spirits), Bargain''
+''6 (pacts), Etiquette 6 (celestial courts), Guile 5 (misleading promises), Magic Lore 10 (spirits), Penetration 4 (ill-fortune), Teaching 5 (secrets) Powers: Augur of the Illuminated Revelation, 5''
+''points, Init +1, Vim: Aktióphis is privy to certain truths, and from her starry throne resplendent in the heavenly firmament, her gaze is wide and all-encompassing. Aktióphis can give the true answer to any question to a character standing beside her, but she demands that a price be paid: the supplicant must swallow a hot coal from a fire at moonrise (see ArM5, page 181). Aktióphis must be summoned in order to use this power. Drawing the Undeserved Breath, 4 points,''
+''Init +1, Corpus: This is the most potent of Aktióphis’s rebukes, for it makes the target unable to breathe for two hours. Should he survive being unable to draw breath for that amount of time (such as by having air magically moved into his lungs), he forever remains unmolested by Aktióphis. To date, no mortal has survived. Banish the Nighttime Respite, 2 points, Init''
+''+1, Mentem: This Power denies its target the gift of sleep. The target is unable to sleep for one week, and suffers extreme effects of fatigue, and the other concomitant effects of sleep deprivation. Gather the Dark Clouds, 3 points, Init''
+''+1, Corpus: By removing her good will, Aktióphis makes it known to the other denizens of''
+''the spirit world that the target is spiritually unprotected. Spirits of sickness, illness, bad luck, and other misfortune are drawn to the target like moths to a flame. Within seven hours of this power being exercised, a terrible illness or disease strikes the target. Spirits of disease may add +3 to their Penetration if attempting to enervate or sicken the target. If the target has explicit protection from another powerful entity (for example, characters with True Faith), this Power fails automatically. Loosen the False Dream, 2 points, Init''
+''+1, Mentem: Aktióphis coerces and empowers a dream spirit to travel to the sleeping target and implant a false dream (chosen by the character who bargained with her, or by Aktióphis herself) in his mind. If the target is awake when the spirit arrives, it hovers nearby, unseen, until the target falls asleep. The spirit uses Aktióphis’s Penetration. Vis: 1 pawn of Perdo vis, 1 pawn of''
+''Corpus vis. Appearance: Aktióphis herself nor''
+''mally appears as a shining and beautiful woman, illuminated by a sparkling internal radiance, arrayed in the formal dress of a Ptolemaic princess. On her feet are fiery sandals, and about her head is a garland of bright hissing snakes that spit white fire. Her voice is the roar of a bull, her eyes shoot darts like lightning and her hands hold three baskets woven from the hair of adulterers.''
+
+==Aktióphis’s Displeasure==
+
+
+|}
+''the Infernal realm by Virtues such as Sense Holiness and Unholiness (see Realms of Power: The Infernal, page 123).''
+''All of the spirits here can spend 1 Magic Might point to manifest in physical form (and return to spiritual form at will). In this material form, the spirit can be wounded and even incapacitated, although if “killed,” it simply returns to its spiritual form. Unless manifested, the spirit cannot physically attack or be attacked.''
+''Other, lesser elementals and airy spirits also flit through the ruins and among the rosebushes and groves.''
+
+==Other Locations for the Basilica==
+
+''The Basilica of Ten Thousand Columns need not be located in the Balkans. There are several other''
+''sites where the basilica could be located.''
+
+===Delos===
+
+''The center of Apollo’s cult, Delos is an island in the Aegean Sea with a great number of Apollonian ruins. Many of the tales of Hyperborea originate from Delos, and there are a number of cultic sites dedicated to''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+''Méné Marzouné is the triplenamed, horn-faced goddess of eternity, source of the Primal Aphrodite, and dread lamp-bearer from the depths. From her toneless throat come unworldly cries drawn from the shining chasm of Tartarus, from her mouth spits the burning water of Lethe.''
+''Magic Might: 40 (Vim) Characteristics: Int +2, Per +3, Pre''
+''+1, Com +0, Str +3, Sta +3, Dex +0, Qik +2 Size: +1 Confidence Score: 3 (12) Virtues and Flaws: Greater Immunity''
+''(damage from animals, fire, light, and heat) Personality Traits: Hostile +2,''
+''Volatile +3, Cheerful –3 Combat: Fist: Init +7, Attack +9, Defense +6,''
+''Damage +5* Dart: Init +5 Attack +10, Defense''
+''+1, Damage +10* Toneless Scream: Init +9, Attack +10,''
+''Defense +0, Damage +10** Horn Charge: Init +10, Attack +11,''
+''Defense +6, Damage +15* Four-named Fire: Init +5, Attack +6,''
+''Defense +0, Damage +15** * When manifested only ** See Power description Soak: +12''
+''Fatigue Levels: n/a Wound Penalties: –1 (1–6), –3 (7–''
+''12), –5 (13–18), Incapacitated (19–24)* * When manifested only Abilities: Area Lore Spirit World''
+''8 (Hyperborean spirits), Bargain 6 (pacts), Brawl 7 (horn charge), Magic Lore 10 (Spirits), Penetration 5 (void) Powers: Burning Heat of the Soul, 4 points, Init''
+''+2, Vim: Méné Marzouné may ignite a soul’s yearning for an ecstatic reunification with its lost spiritual self. While under the effect of this Power, the target seeks to extinguish his worldly desire by having sex with his spiritual double; most people do not know who this is, and so may spend years searching. This is not an overpowering carnal desire, but a deeply spiritual longing; asking the advice of oracles or saints may help the target find his soul mate. This Power cannot affect anyone with True Faith, or the True Love Virtue or Flaw. Four-named Fire of the Burning River, 1''
+''point, Init +5, Ignem: The fiery waters of the Lethe issue from Méné Marzouné’s mouth in great burning gouts, igniting whatever they touch. When wounded by''
+''this Power, the target thenceforth suffers from the effects of Pains of Perpetual Worry (although the Duration is Year instead of Month). Toneless Scream of the Black-clad Abyss,''
+''3 points, Init +9, Mentem: If the target is damaged by Méné Marzouné’s Toneless Scream, he suffers from the effects of Weight of a Thousand Hells (although the Duration is Year instead of Month). Vis: 2 pawns of Mentem vis in eyes, 2''
+''pawns of Perdo vis in each horn, 2 pawns of Corpus vis in tongue Appearance: Méné Marzouné appears''
+''in a constantly changing guise of hideous proportions, always a combination of all her three forms. Her most majestic form is that of a great three-headed black bull, with lightning-flecked eyes. Her human form appears to be a black-clad maiden carrying a basket woven from snakes. Her face cannot be seen, for under her hood is an unending void as dark and deep as night. Her final form is a hybrid, with a distorted human form transfigured with the head of a mare, the skin of a vulture, the eyes of a goat, the calves of a lion, and the ankles of a wolf.''
+
+==Triple-Formed Méné Marzouné==
+
+''the Hyperborean maidens Arge and Opis, and Hyperoche and Laodice. In the 13th century, Delos is under the rule of the Venetians (following the collapse of the Byzantine Empire) and its inhabitants are devout Orthodox Christians. Delos could be the location of hidden Hyperborean hymns''
+''or relics, especially in the tombs of the Hyperborean maidens.''
+
+===Tribunal of Novgorod===
+
+''With Hyperborea to the extreme north of the Tribunal of Novgorod, it''
+''is still possible that the basilica could be further north than the Balkans. This option may be suited to troupes who set their saga in Novgorod; travel to the basilica may even take the characters into the lands of the barbarian Scythians.''
+''Queen Brimo (also known as Daeria, Brimo means “mighty” or “furious”), adopted daughter of Hekate, is a lesser monarch of Hades and attendant of Demeter. She was honored at Eleusis every September where the hierophant and priestess of Demeter would represent Brimo’s birthing of the Sacred Child, Brimos the Mighty (a personification of agricultural wealth). The child would be conceived through a mystic union, where the hierophant symbolized the holy Dionysus Iacchos and the priestess symbolized Brimo.''
+''Queen Brimo was the daughter of Perseus and Medea, and lost her virginity when she was raped by Hermes on the banks of Boibeis Lake in Thessaly. The result of the rape was Eleusos, the patron goddess of the town of Eleusis and home of the Eleusinian Mysteries. Brimo was invoked by both her parents before her birth to honor Hekate, her sacred mother. Queen Brimo is likely to be hostile to followers of Hermes, such as Hermetic wizards.''
+''Magic Might: 25 (Corpus) Characteristics: Int +2, Per +3, Pre''
+''+4, Com +1, Str +2, Sta +2, Dex +1, Qik +0 Size: +0 Confidence Score: 4 (14) Virtues and Flaws: None Personality Traits: Furious +4,''
+''Tormented +2 Combat:''
+''Fist: Init +0, Attack +3, Defense +3,''
+''Damage +2* Bow: Init –1, Attack +10, Defense''
+''+0, Damage +8* * When manifested only Soak: +4 Fatigue Levels: n/a Wound Penalties: –1 (1–5), –3 (2–''
+''10), –5 (11–15), Incapacitated (16–20)* * When manifested only Abilities: Area Lore Spirit World 8''
+''(Hyperborean spirits), Brawl 3 (fists), Bows 7 (hunting), Etiquette 6 (the Underworld), Magic Lore 10 (spirits) Powers: Harvest of the Golden Heart, 10 points,''
+''Init +5, Herbam: Queen Brimo can intervene with either Persephone or Demeter to grant a small community a bountiful harvest that season, or stave off a famine. Rejuvenation of Nyx, 3 points, Init +1,''
+''Corpus: This Power grants the target a +18 to his Recovery rolls, which lasts until her wounds are all healed. The Company of the Miserable Man, 1''
+''point, Init +0, Mentem: For someone (typically a woman) who sacrifices a black dog in her honor, Queen Brimo uses this Power, which creates a bittersweet longing for each other in the hearts of both supplicant and the Power’s target. For every moment they are not together, both suffer a pain''
+''in their breasts and deep despondence, until they are reunited. This Power ends after the couple have eaten a meal and had sex with each other three times, or until either of them hears the sound of a bull-roarer (a kind of toy). The affection becomes permanent after nine months if the Power’s effect has not ended, and at the troupe’s discretion, may grant the True Love Virtue or Flaw. The Stygian Firebrand, 1 point, Init''
+''+4, Ignem: When threatened or filled with wrath, Queen Brimo’s scream can ignite the air with baleful liquid fire, inflicting +25 damage to all those in her path (equivalent to Range Voice and Target Group). Vis: 5 pawns of Perdo vis in hair. Appearance: Brimo appears as a''
+''naked, tormented teenaged girl with muddied feet, garlanded by 50 fearsome snakes and accompanied by a pack of terrible underworld hounds. Her other two forms are of a beautiful queen in saffron veils with a bleeding womb, and of a maiden huntress whose hands have been torn by bears. The ground trembles beneath her feet, while thousands of twinkling torch lights sparkle around her. She is often accompanied by Hekuba, the queen of Troy, who was transformed into a terrifying bitch-hound.''
+
+==Queen Brimo Trimorphos==
+
+
+|}
+
+===Phoebus’s Garden===
+
+''At the eastern edge of the world, on the great Ocean Stream, lies the garden of Apollo Phoebus, and within, Apollo’s palace, from which he emerged each morning from the Gate of the Sun in his chariot to issue light to the world. At this eastern gate, at the junction of the Earth and Heaven, is Homer’s Ivory Gate, the gate of false dreams.''
+''Where is this garden? The ancient authorities Virgil, Sophocles, and Stesichorus are firm in drawing a distinction between Phoebus’s Garden and the Hesperides. Just as the Hesperides are considered the mystic Western Pole, so too could Phoebus’s Garden be the mystical Eastern Pole. It is known as the “region of the bright day,” and is also where Helios, or Sol (the sun), starts his journey across the sky every day. The extreme''
+''East is a place of mystery and myth, with many fantastic legends told in European romances, including many monsters, strange peoples, and bizarre customs.''
+
+===The British Isles===
+
+''It is possible that the Hyperboreans were really ancient British Celts, which could allow for Hyperborean temples in such places as Ireland or Wales. Alternatively, since the druids were deeply connected to sun cults, an ancient druidic temple may have been inhabited by Hyperborean descendants before the creation of the Order of Hermes.''
+
+==Mythic Hyperborea==
+
+''O King Apollo, son of great Zeus, whom thy father did furnish forth at thy birth with golden headband and lyre of shell, and giving thee moreover a swan-drawn chariot to drive, would have thee go to Delphi. But nevertheless, once mounted, thou bade thy swans fly to the land of the Hyperboreans.''
+''— Alcaeus''
+''Far north, near the icy regions of the North Pole, legends tell of an earthly paradise, the home of an ancient civilization guarded by the great god Apollo. Also known as Helixoia, Hyperborea is now a powerful regio.''
+''According to some traditions, Hyperborea predated Greece and Rome, and even ancient Egypt and Babylon. A mighty race that treated magic as a mere toy ruled this civilization, a people whose very lives were intimately woven with magic. While''
+''most point to the legend of Plato and the mythic lost city of Atlantis as the source of civilization, certain esoteric traditions claim that Hyperborea was the origin of mankind.''
+''From this golden age and civilization, the primal humans ventured to other regions of the Earth, establishing new civilizations, such as legendary Atlantis, hoary Egypt, and mighty Babylon. Legend has it that Apollo, the deity of the Old Ones, visited his Hyperborean demesne every 19 years, the same period over which the stars in the heavens return to the same place. The Celtic druids adopted this calendar cycle, and it was used by many within the Order of Hermes until the destruction of House Diedne.''
+''Some Hermetic scholars link Hyperborea to the realm of Magic, in the same way that Arcadia is the highest realm of Faerie. In Mythic Europe, Hyperborea is a real place, a paradise on Earth, deeply connected to the Magic realm. By the 13th century, none have made the journey to the furthest north for a millennium.''
+
+==The Legend==
+
+''Behind [the Ripaean Mountains] and beyond the north wind (if we are to believe this) lives a happy race known as the Hyperboreans who survive to a ripe old age and are famous for marvelous things handed down in stories. It is believed that here are the hinges on which the world turns and the extreme limits of the circuits of the stars. The Hyperboreans enjoy six months of daylight. The sun rises once a year, at midsummer, and sets once, at midwinter. It is a sunny region with an equable climate, free from all harmful gales. The Hyperboreans live in the woods and groves and worship gods both individually and in groups; all disharmony and sorrow are unknown. Death does not come until they have had their fill of life. Setting a banquet, they greet their old age''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+''with luxury, and then leap into the sea from a certain rock. This method of burial is the most serene.''
+''— Pliny, Natural History, Book IV, 89''
+''Hyperborea is an island hidden in a level 7 regio (although at its highest level it extends to a level 10 regio). Protected by an impregnable wall, great fiery gates are the only entrance, shut tight with a fourfold, bright bar, holding closed against all strangers. It is not possible to accidentally wander into Hyperborea. Only those who know the passwords, or who are invited, may enter.''
+''Inside, the island is a veritable paradise, filled with every beautiful and gracious thing. A sweet, nourishing breeze floats across the island, which is perpetually bathed in the sustaining bright light of the eternal sun. Few sounds break the peace and serenity of Hyperborea.''
+''Its common inhabitants are the Hyperboreans, a people who live in peace and harmony amid the sacred groves and woods of the island. All Hyperboreans possess Supernatural Powers, whether these are control of the elements, the ability to send their spirit into the astral regions of the sky,''
+''or to transform into graceful swans or jet-black crows. In their human form, they appear as radiant and goldenskinned men and women. A great many sacred animals to Apollo live on the island and in the waters surrounding it: snakes, dolphins, hawks, swans, crows, and oxen.''
+''At the center of the island stands a great mountain, known as the Mountain of Salvation. At the pinnacle of the mountain is the great temple of Apollo Phoebus, in which the sun god resides. It stands so tall that it may only be reached by flight, or through spirit travel.''
+
+===Abaris===
+
+''The philosopher Porphyry writes that Pythagoras showed his golden thigh to Abaris, the Hyperborean priest of Apollo. Abaris was called “air-traveler,” because he once rode on an arrow given to him by Apollo, by which he crossed rivers and seas, and reached inaccessible places.''
+
+===Aristeas===
+
+''Herodotus the historian mentions another Hyperborean, Aristeas of Proconessus, who was a member of a prestigious and respected family. Maximus of Tyre records that Aristeas would often have his spirit leave his body, which would fly off like a bird while he lay breathing distinctly and in a fashion close to death. His spirit would observe everything — land, seas, rivers, cities, and peoples — and then reenter his body and recount the various things that it had seen. Aristeas was also famous for living for over 250 years, a feat that saw the city''
+''of Metapontines erect a statue with the legend “Aristeas of Proconessus” in his honor.''
+
+===Arge and Opis===
+
+''A legend among the Delians tells of two Hyperborean women, Arge and Opis, who came to Delos accompanied by Apollo’s sister, Artemis. The purpose of the visit was to pay tribute to Eileithyia (the goddess who presided over childbirth) for the birth of Apollo, to ensure quick and painless childbirth for themselves. Arge and Opis were later taken to Olympus by Artemis and became her servants.''
+
+===The Hyperborean Necromancer===
+
+''Lucian’s Philopseudes tells of a mysterious unnamed Hyperborean necromancer who flew down from the sky near a small Roman estate and used necromancy and other magic to make a woman fall in love''
+''with the local lord. In doing so, he called down the moon and called up Hekate, and summoned the ghost of the lord’s father.''
+
+===Olen the Bard===
+
+''A Hyperborean who made his home in Lycia, Olen composed many of the Hyperborean hymns once sung on Delos and the other Aegean islands.''
+
+===Hyperoche and Laodice===
+
+''The sacred virgins sent by the Hyperboreans to deliver Apollo’s sacred relics to Delos, Hyperoche and Laodice failed to return home from their mission, despite being protected by five Hyperborean guards. It was the disappearance of Hyperoche and Laodice that caused the Hyperboreans to decide to rarely leave Hyperborea. In honor of Hyperoche and Laodice, the boys and girls of Delos in antiquity would offer locks of their hair.''
+
+==Famous Hyperboreans==
+
+
+|}
+''Every 19 years, at the time when the stars complete their revolutions — the vernal equinox of the rising of the Pleiads — Apollo Phoebus leaves his temple and goes among the Hyperborean people. During this time he sings, dances, and plays the harp, distributing his blessings to the faithful.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
+
+==Getting into Hyperborea==
+
+''Needless to say, getting into Hyperborea is difficult, and is likely only to happen if characters are invited in by one of its residents. Learning the passwords to the gates of Hyperborea would be a major quest, and could involve tracking down the spirits or ghosts of famous Hyperboreans such as Abaris or the maids of Delos. An invitation may be given if the characters are returning the earthly remains of a Hyperborean priest, or a relic, with the intent to leave them in Hyperborea.''
+''The scholars of the ancient world disputed the precise location of Hyperborea. Here are three other possible locations for the Land Beyond the North Wind.''
+''1.	 According to Livy, whose interpretation of “bora” refers to the hills of Pelagonia, the Hyperboreans lived somewhere near Monastir, a mountain range in the Balkans of Macedonia. The legends told of sacred Hyperborean gifts being brought to Delos from distant regions of Dodona and the Maliac Gulf (in Greece), along what would become the Via Egnatia. This legend grew from the sheltered rose gardens and rich farming land on the Pierian side of the Bora Mountains in Paeonia, and welldeveloped sun-cults.''
+''2.	 Based on the writings of''
+''Greek historian Hecateus, the''
+''Hyperboreans were British Celts, and their worship of Apollo was based on the importance of Bel, the sun god, in Celtic religion. The significance of songs to the Celtic bards and druids is evidence of this legend, as are the many ancient standing stone circles containing 19 stones, and the similarity of the Hyperborean and Celtic astrological calendars (both of which used 19-year cycles).''
+''3.	 Hyperborea was Chinese Turkistan, and the griffins said to live with the Hyperboreans were the dragons on the Chinese flags. The great Hypergoraei Mountains were the Urals in Central Asia, which placed the Turks near the lands of Terraconta. There has even been suggestion that the Issedonians were ancient Tibetans (who may or may not exist in Mythic Europe).''
+
+==Other Locations for Hyperborea==
+
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

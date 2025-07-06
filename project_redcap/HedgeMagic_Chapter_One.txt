@@ -22,12 +22,12 @@
 ===Certamen===
 
 ''No hedge wizard knows how to engage in certamen; certamen is unique to the Order of Hermes. A hedge wizard can only learn certamen if his Hermetic Arts are Opened. If a hedge wizard without Hermetic Arts does accept a certamen challenge, he cannot cause his phantasm to manifest; so, he cannot participate. From a legal standpoint, this is equivalent to a victory to the Hermetic magus due to a lack of concentration in the opponent. The vulnerability to certamen of a hedge wizard who converts to the Order of Hermes means he’s an obvious target for certamen bullying, although sometimes a hedge wizard might be championed by a magus ally. Typically, the fact that the victim is a hedge wizard means that tribunals are unlikely to censure this sort of bullying unless it is very excessive or impacts on other magi. Certamen is similar to the abilities of NightWalkers (see Chapter 6) and this correspondence may be a profitable basis of Hermetic research (see later in this chapter).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''New Spell: The Numbness of The Gift''
 ''InVi Level 20 R: Personal, D: Conc, T: Touch When the caster places his hand on another character who has The Gift, his hand feels numb. This effect must penetrate the Magic Resistance (if any) of the character whose Gift is being sensed, and if that character is a member of the Order of Hermes, casting this spell normally counts as scrying (which is prohibited by the Code). This spell is based on the “detect the traces of powerful magic” guideline. If the target has the Blatant or Gentle Gift, the spell still works. (Base 10, +1 Conc, +1 Touch).''
 
-|]
+|}
 ''Hedge Magic Allies to the Order''
 ''A hedge tradition may be allied to a covenant, or even to the entire Order, without actually joining the Order. They may even act as servants to magi. Using hedge wizards as servants is usually uncontroversial in the Order, unless the servants include Gifted hedge wizards. This exception is mainly because of the risk that Gifted hedge wizard servants could learn Parma Magica. The troupe might choose to represent a covenant allied with a hedge tradition using the Major Covenant Boon Hedge Tradition (Covenants, page 21). Alternatively, the hedge wizard allies of a single magus can be represented with the Minor Virtue Social Contacts (ArM5, page 49), and if the magus trades vis with his hedge allies this could be represented with the Minor Virtue Personal Vis Source (ArM5, page 47). A lone hedge wizard character living near (or even in) the covenant also opens up interesting possibilities for stories (Minor Covenant Boon Local Ally; Covenants, page 21). However, again the troupe should bear in mind the effect that the attitudes of Hermetic visitors to the covenant will have on the saga.''
 ''The Shadow of Hermes''
@@ -57,12 +57,12 @@
 ===Social Penalty of the Gift===
 
 ''The Gift imposes a heavy social penalty on a character when he attempts to interact socially with other characters (see ArM5, page 75), including when he interacts with other Gifted characters. Hermetic magi have overcome this difficulty through the innova''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Opening the Arts''
 ''The Hermetic Opening of the Arts is the Order of Hermes’ equivalent of Opening The Gift. Rules for this are given in ArM5 (page 106) and again in Houses of Hermes: Societates (page 128), but they do not address the possibility of the apprentice’s Gift being already Opened by another tradition. If a magus attempts to Open the Arts of an apprentice whose Gift has already been Opened by a hedge tradition, add 30 to the Intellego Vim Lab Total required by the magus.''
 
-|]
+|}
 ''Flawed Opening of The Gift''
 ''To be a fully competent master, the character must have a score of at least 2 in each Supernatural Ability and Art of the tradition. For every Supernatural Ability or Art that the master fails to meet this criterion, the apprentice gains a Flaw that affects his magic use. Usually, this is something like Deficient Art, but the troupe may substitute other Flaws as appropriate.''
 ''tion of Parma Magica; one of its functions is to shield magi from the social effect of each other’s Gift. Some hedge traditions who have Gifted members have found other ways to overcome this social penalty, while other traditions like folk witches have not solved the social problems of the Gift, and consequently their Gifted members only interact in small, factious, paranoid groups.''
@@ -84,15 +84,15 @@
 ===Favored Abilities===
 
 ''Some traditions have a set of favored Supernatural Abilities. Gifted characters who belong to these traditions do not have to subtract the total of their Supernatural Ability scores from the source quality to learn other Abilities that are favored by that tradition. Usually, the character has to undergo some sort of ritual — Opening The Gift — before he gains this benefit of the tradition. Favored Abilities have no meaning for unGifted characters, as they cannot learn Supernatural Abilities at all. Characters with favored Abilities must subtract the total of all their Supernatural Abilities, including favored Abilities,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The Limit of Magic Resistance''
 ''No hedge tradition has a general resistance to magic. This is obviously not a true Limit of Magic, as clearly a Hermetic magus has a general magic resistance from his Form Art Scores (augmented even further by his Parma Magica). However, Hermetic theorists have noted that hedge traditions are constrained by this apparent limit. It is unclear why this should be so, but it is undeniably convenient for the Order of Hermes. In fact, if a hedge tradition did develop a method of breaking the Limit''
 ''of Magic Resistance, its members would be ruthlessly eliminated by the Order of Hermes. This is because the wider Order fully understands that its hegemony over the hedge traditions relies on magi’s ability to resist the magical effects of hedge wizards, and the hedge wizard’s corresponding inability to resist the magic of magi. Perhaps the historic efficiency of the Order of Hermes in identifying and destroying such challenges to their power is sufficient to explain the apparent Limit of Magic Resistance.''
 ''Difficult Arts Mechanically''
 ''Difficult Arts are necessary to prevent hedge wizard traditions from being easily able to generate high Penetration scores to bypass the Magic Resistance of Hermetic magi. The troupe should consider this when developing its own traditions. A good guideline for game balance is that if a combination of hedge Arts can affect magi, then at least one should be a Difficult Art.''
 
-|]
+|}
 ''from the source quality when learning Supernatural Abilities that are not favored.''
 ''Magic Defenses''
 ''As noted above no hedge wizard can resist magic, but some do have limited magical defenses that reduce the effect of magic. Magical defenses apply either a numerical bonus to the hedge wizard, or a penalty to an attacking caster, in an area of the hedge wizard’s specialty. If the specialty is a hedge Art, then the bonus is equal to the hedge wizard’s Score in the Art divided by 5 (round up). If the specialty is a Supernatural Ability, then the bonus is equal to the hedge wizard’s Score in the Ability. Difficult Arts are treated as Arts, so for them the bonus is equal to Score divided by 5 (round up), and Accelerated Abilities are treated as Abilities.''
@@ -240,8 +240,8 @@
 ===Insight===
 
 ''Insight is gained from studying some feature of the hedge tradition. Every insight the magus gains allows him to produce a partially Hermetic effect incorporating some aspect of the tradition in question. As he produces more of these effects, he gains the broader understanding necessary to incorporate that aspect into Hermetic theory as a whole. The seasons spent gaining insight produce Lab Texts. Any magus may study these Lab Texts over the course of a season in order to gain the same insight for himself, even without direct access to the hedge tradition. Summaries of Lab Texts are not useful in this way, however; only the whole thing can be used. For purposes of copying, insight Lab Texts have a level equal to the typical number of breakthrough points needed for the type of Breakthrough in question. For every season a magus spends investigating a source of insight, make a stress roll of Intelligence + Magic Theory against an Ease Factor of 18. Inventive Genius adds 3 to this roll, and some sources of insight may add their own modifiers. If the roll succeeds, the magus gains an insight. If it fails, he learns nothing now, but may try again in another season. He may do other things before returning to his study. On a botch, the magus thinks he has an insight, but does not. He realizes this if he creates an effect, as described below, in an attempt to use the insight; the final product is entirely Hermetic, or simply non-functional. There are three sources of insight: texts, relics, and teachers. Texts are books, Lab Texts, or other explanatory sources that describe how to learn, perform, or cast a hedge magic effect. A text generally only provides a single insight and the same text provides the same insight for any magus who studies it. Texts are unlikely to be given away by hedge wizards and would usually need to be stolen or found''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''UnGifted Initiations''
 ''Usually, only Gifted characters may be initiated. However, some hedge traditions can Initiate unGifted characters. These Initiations follow all the usual rules except:''
 ''•	 Initiations that affect unGifted characters must include an Ordeal (i.e. the character must gain a Flaw or lose a Virtue).''
@@ -251,7 +251,7 @@
 ''1. Find a source for information about the hedge magic tradition, such as spell texts, items, captured laboratories, books, or similar. This typically involves a quest or adventure of some sort. 2. Investigate the source to gain Insight; this typically takes two or three seasons. 3. Invent a spell or magical device incorporating the Insight. You must experiment while doing this. If you succeed in inventing the spell, you gain a number of breakthrough points equal to the''
 ''magnitude of the spell or device. The invention may break Hermetic limits, but if so, it cannot be invented by another character without a Lab Text, and cannot be varied in any way. 4. Continue to research, gaining more breakthrough points, until you equal or exceed the threshold. 5. Bask in the glory of having improved Hermetic Theory; or alternatively, prepare for the political consequences of your impudence.''
 
-|]
+|}
 ''abandoned. Of course, the magus must be able to read the language in which the text written, and many hedge traditions are oral and do not generate texts. If the text contains the information needed to gain a Supernatural Ability, a character could use it to learn the Ability as per the normal rules (ArM5, page 166). Most Hermetic magi however, cannot learn Supernatural Abilities due to prohibitive penalties from their Arts scores. Relics are mystical devices or items enchanted by practitioners of the hedge tradition, which incorporate unique aspects of that tradition, and may be investigated by a Hermetic magus. A relic may be an on-going mystical effect caused by the hedge tradition, and a laboratory used by a hedge wizard is also a relic, in this sense. Relics normally provide a single insight and the same relic provides the same insight for any magus who studies it. Even a laboratory normally only provides a single insight, although of course a laboratory will often contain texts and other relics that provide independent insights. Teachers are individuals who are members of the hedge tradition who are able and either willing or persuaded to instruct a Hermetic magus. A teacher can provide a number of insights equal to his (Hedge Magic) Theory Ability, in each Breakthrough associated with his tradition. A hedge wizard who has no (Hedge Magic) Theory Ability cannot act as a teacher, as he does not have the sort of theoretical understanding of his magic works that is helpful to a researcher — although he may, of course, be able to produce relics or texts that can be studied as sources of insight. If a magus has learned the relevant (Hedge Magic) Theory Ability he may act as his own source of insight, but he may not take a bonus to the Insight roll for assisting himself. In addition, a Gifted teacher can act as an assistant to the Hermetic magus, in which case add the teacher’s Intelligence + (Hedge Magic) Theory to the magus’ when making the roll to produce an Insight Lab Text. A teacher may only assist one magus in a season, and a magus may only be assisted by one teacher each season when attempting to find an Insight — this is because additional teachers tend to confuse the issue with their own interpretation.''
 
 ===Creating the Effect===
@@ -259,8 +259,6 @@
 ''A particular insight allows the researcher to create one specified effect. This effect might be a spell or an effect enchanted into''
 ''an item. It could, conceivably, be another laboratory project; anything that uses a Lab Total and creates something. However, spells are by far the most common, followed by item enchantments. The researcher does not get to choose the effect for which he receives insight, and as the level of the effect is fixed, the insight might be for an effect he cannot yet invent. For example, the effect might be level 40, while the researcher has a Lab Total of 32. In that case, the researcher can increase his Lab Total and then work on the effect. The troupe should decide on the effects that result from particular pieces of insight, choosing ones that advance the saga without upsetting play balance. The following chapters give some examples of possible ef''
 ''fects for the traditions detailed in this book. Player characters can vary things as much as they like once they fully integrate the system, so the restrictions at this stage should be accepted with good grace. The researcher must invent exactly the effect inspired by the insight. He may not vary the Range, Duration, or Target, or any other parameters. As the magus must experiment while inventing the effect, the result may be slightly different as a result of rolls on the Extraordinary Results table. If the researcher has a teacher, that teacher (and other similarly skilled individuals) may assist in the invention process, acting as laboratory helpers (see ArM5, page 103): use their Intelligence + (Hedge Magic) Theory Ability as a bonus to the invention laboratory activity.''
-
-[|
 ''Story Seeds: Stories About Teachers''
 ''Some stories that could arise if a hedge wizard works with a magus to create Insight are below. Of course, if the hedge wizard is an NPC character, the magus may also have to go to considerable trouble to find a teacher in the first place.''
 
@@ -279,8 +277,6 @@
 ===The Plagiarist===
 
 ''Other magi become aware that the magus is learning Insights from a hedge wizard and are derisive of his methods. Even if the Breakthrough is important and successful, the magus is not revered as its creator. The magus gains a reputation for poor-quality research and a Bonisagus magus gains no Acclaim for completing this Breakthrough (see Houses of Hermes: True Lineages, page 21) unless he can convince his peers that the hedge wizard was only a minor contributor to the project. This story is particular suitable if the hedge wizard is a player character.''
-
-|]
 ''A spell is cast like a normal formulaic spell, and characters with Flexible Formulaic Magic may vary it at casting time in the normal way. The spell may also be Mastered, again in the normal way. The effect created may bend or break the limits of magic, as it incorporates nonHermetic elements. Setting the level of the effect may well require a judgment call by the troupe, as it may do something for which there is no Hermetic guideline. If the effect is successfully created, the magus gains a number of breakthrough points equal to the magnitude of the effect. This applies even if the final effect is warped or has a side effect. These points are added to the magus’ running total, and he must find another source of insight before repeating the procedure. The effect produced in this way can be''
 ''reproduced by other Hermetic magi. However, they can only do so if they have access to a Lab Text describing it, and it is not possible to vary the effect in any way; it must be reproduced exactly as it was initially created. Reproducing the effect in this way does not grant breakthrough points unless the reproducing magus also gains the relevant insight, whether from investigating the same item or from reading the original investigator’s Lab Texts. It is possible to reproduce the effect first, and study the insight Lab Texts later.''
 
@@ -292,13 +288,16 @@
 ===Integration By Hedge Wizard Researchers===
 
 ''Some hedge wizards have recovered artifacts of other hedge traditions, and even some of Hermetic origin, and have attempted to replicate the effects they have discovered. Except for the invention of (Hedge Magic) Theory itself, a hedge wizard may only attempt research if he has a Score in the (Hedge Magic) Theory Ability. The possible effects of such activity by hedge researchers are too numerous to list here, but usually (due to the theoretical inferiority of hedge traditions) a hedge researcher requires double the number of breakthrough points that an equivalent Hermetic researcher would require. In addition, few hedge traditions have a culture that encourages innovation, and a hedge researcher’s peers are as likely to condemn as commend him for his achievements.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Hermetic Use of Hedge Theory''
 ''If a hedge tradition lacks a theoretical foundation (and therefore a (Hedge Magic) Theory Ability), a Hermetic researcher may invent such an Ability as a Hermetic Breakthrough. A Hermetic researcher may also invent a (Hedge Magic) Theory Ability if he lacks access to teachers with the Ability, and a hedge wizard may attempt to invent this Ability for his own tradition. This Breakthrough normally requires 60 breakthrough points, but the researcher reduces this amount by his greatest existing (Hedge Magic) Theory or Magic Theory Ability Score. Once he has completed this Breakthrough, the researcher converts his break''
 ''through points into experience points in the relevant Ability. He may then go on to act as his own source of insight for subsequent Breakthroughs (based on the same hedge tradition), as described above. If the researcher wants to integrate several effects from a single tradition, this is efficient as it reduces the overall amount of original material from the hedge tradition (texts and relics) that the researcher requires. If a hedge wizard invents (Hedge Magic) Theory for his own tradition, he gains the benefits of having a theoretical understanding of magic. For example, he can improve his laboratory, adds his (Hedge Magic) Theory Ability Score to his Lab Totals, etc.''
 ''Original Research and Ancient Magic''
 ''Houses of Hermes: True Lineages includes rules for original research — adding features to Hermetic magic based purely on a magus’ own inspiration. Integrating hedge traditions tends to be faster and safer, but it does have two disadvantages. First, the magus can only aim for the Breakthroughs available in the hedge tradition. Second, he has to get out of his laboratory and find (possibly uncooperative) sources of insight. From the storyguide’s perspective, these may be advantages, of course. The two sets of rules are similar, and both approaches may be taken to a single Breakthrough. That is, breakthrough''
 ''points from integration may be added to breakthrough points from original research to determine whether a Breakthrough has been achieved. Ancient Magic also includes similar rules for integrating extinct, ancient traditions into Hermetic magic. Technically, breakthrough points gathered from integrating ancient traditions are compatible with those gathered from integrating hedge traditions, and vice versa. However, in practice it would be very rare for an ancient and hedge tradition to share a common Breakthrough: ancient traditions are meant to be extinct.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

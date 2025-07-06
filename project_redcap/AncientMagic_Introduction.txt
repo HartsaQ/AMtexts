@@ -1,5 +1,5 @@
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ====
 
@@ -27,15 +27,9 @@
 =Introduction=
 
 
-==Ancient Magic==
-
-
-|]
+|}
 
 ====
-
-
-==Ancient Magic==
 
 ''Hermetic characters who are trying to integrate the ancient knowledge of the following chapters into Hermetic theory.''
 ''Chapter 1: The Language of Adam. The first language of the world names things more truly than later tongues, giving those who speak it Arcane Connections to anything they can name. Learning the language, however, is far from easy, and may lead the characters to the Garden of Eden itself.''
@@ -54,8 +48,8 @@
 
 ''The Order of Hermes is, relatively speaking, a new tradition, comprising a hodge-podge of arcane methods and knowledge from the barbarian secrets of the druids to the mighty rites of the Romans. Most of what constitutes Hermetic theory is based on the surviving remnants of rituals from the Cult of Mercury. Apart from the innovations Bonisagus learned from Bjornaer and Diedne, Hermetic magic derives from a single magical tradition; most Founders traced their lineages back to the Roman Cult of Mercury. The ancient magic in this book is distinctly non-Hermetic, and pre-dates the Order of Hermes, and even the Cult of Mercury, by hundreds of years.''
 ''The magi of the Order of Hermes are well aware of the once-mighty magic of the past. While many scoff at the powers of the wizards of yore, pointing out that Hermetic magic is more versatile than any past form of magic, other Hermetic magi search out what remains of the long-lost and forgotten rites and rituals. These''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''This book is not a book of Mysteries for Initiates of Hermetic sects and cults. Hermetic Mysteries have been detailed extensively in Houses of Hermes: Mystery Cults and The Mysteries Revised Edition. The magic in this book cannot be Initiated by a Hermetic magus; rather, it must be integrated into the very essence of Hermetic theory. Unlike a Hermetic Mystery, there are no living practitioners for Hermetic wizards to learn ancient magic from, to assist them in understanding the golden age lore, or to advise them on how to overcome the many obstacles in the way of even finding the lost secrets. The result of discovering these secrets may, however, be a new Hermetic Mystery, if the troupe so desires.''
 ''Furthermore, Ancient Magic is not an adventure book. Although it does''
 ''contain numerous story hooks and saga seeds, as well as locations for characters to visit and explore, they are offered as the beginnings of ideas that can be used to build and develop your own stories, rather than as ready-made scenarios. They detail many possible quests and obstacles that may stand between a Hermetic magus and the lost secrets of the ancient world.''
@@ -95,7 +89,7 @@
 
 ''Many of the traditions described in this book are given enough detail to make it possible to play a living member of the tradition. While the traditions are dead in 1220, at least in the standard Ars Magica setting, you might choose to set your saga in an earlier period, when they are still active. You will need to fill in a few rule details, as the traditions have not been written up as full examples of hedge magic traditions, but most of what you need is here.''
 
-|]
+|}
 
 ====
 
@@ -127,8 +121,8 @@
 ===Creating the Effect===
 
 ''A particular Insight allows a researcher to create one specific effect. This effect might be a spell, or an effect enchanted into an item. It could, conceivably, be another laboratory project; anything that uses a Lab Total and creates something may be a legitimate Insight outgrowth. However, spells are by far''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ====
 
@@ -153,5 +147,8 @@
 
 ''Houses of Hermes: True Lineages includes rules for original research, which allows magi to add features to Hermetic magic based purely on their own inspiration. Integrating ancient magic tends to be faster and safer, but it does have two disadvantages. First, the magus can only aim for the Breakthroughs suggested by the ancient magic in question. Second, he has to get out of his laboratory and find existing sources of Insight. From the storyguide’s perspective, these may be advantages, of course.''
 ''The two sets of rules are similar, and both approaches may be taken to a single Breakthrough. That is, breakthrough points from integration may be added to breakthrough points from original research to determine whether a Breakthrough has been achieved.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

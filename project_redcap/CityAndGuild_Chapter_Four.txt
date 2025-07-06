@@ -1,5 +1,3 @@
-
-[|
 ''In the 13th century most working people derive their subsistence from the land, engaging in the agricultural occupations that are still the foundation of Mythic Europe’s society. Like their forefathers, they till the soil of inherited fi elds, raise cattle, grow crops, develop additional arable land, herd sheep and feral pigs, and regularly combat nature’s intrusions into their cultivated holdings. Agricultural concerns permeate every aspect of medieval life and touch every member of society, regardless of social rank or geographical location. Even Paris, one of the largest community centers of the West, has set aside specifi c districts of the city to accommodate the populations’ agricultural needs for raising livestock and personal vegetable gardens.''
 ''Dotted among this population of farmers and herders are craftsmen, men and women who produce the tools and fi nished goods on which society at large has come to rely. Every community, from the smallest hamlets of thatched-roofed shacks to the greatest metropolises of the continent and the Near East, has a collection of craftsmen who provide indispensable services or products. Some goods can be made at home, but the important tools must be bought: a plow for the fi eld, a''
 ''mill-wheel for fl our, a loom for cloth, and a sword for battle. A Hermetic magus’s laboratory would be useless without its assortment of beakers, balances, fl asks, furnaces, cups, cauldrons, and arcane bric-a-brac.''
@@ -21,14 +19,16 @@
 ''come''
 ''their i their''
 ''ants a''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Ab''
+
+|}
 ''in''
 ''i in the own men a or ec''
 
 =Crafts=
 
-
-|]
 ''similar conditions, although their apprentices are naturally not related to them, but rather, are other ecclesiastical youths directed by a Church superior to learn a specific trade.''
 ''Rural and foreign craftsmen are often forbidden to sell surplus goods in the local town, since only resident craftsmen have that right. Rural craftsmen make a decent living at their trade, but nothing compared to their urban contemporaries. Ecclesiastical craftsmen, typically monks who serve God through craft labor, may sell their goods in town, regardless of whether a guild governs that particular craft or not. The Church has this universal right in all urban areas.''
 ''A regular craftsman character must have the Free Social Virtue Craftsman. Every craftsman character should have a Craft Ability score to cover his trade. Such a craftsman is not a guild member because his trade has not been incorporated into''
@@ -46,14 +46,14 @@
 ==Covenant Craftsmen==
 
 ''Most Ars Magica covenants include a handful of craftsmen, either specialists bought with covenant Build''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Companions vs. Grogs==
 
 ''There is a natural assumption that Ars Magica companion characters should be of a higher social rank than grog characters. This is not necessarily so. Companions and grogs are defined by their narrative role; if you want your character to be a central protagonist in the troupe’s stories, no matter what his craftsman rank, make him a companion. If your character is only a minor participant in the saga, make him a grog. Master craftsmen can be grogs, and apprentices can be companions. You must, however, adhere to the maximum number of Virtues and Flaws for grog and companion characters.''
 
-|]
+|}
 ''Points, or players’ grogs and perhaps companions. Covenants usually fall on the margins of medieval society, mimicking villages and small feudal estates, although this depends on the type of covenant you have selected for your saga. Like the covenant, covenfolk craftsmen inhabit a gray area in the typical medieval social structure, and you should determine the specifics of each craftsman. This does not have to be arduous or extensive, but should be determined before these craftsmen interact with urban folk.''
 ''The simplest method is to make every craftsman a regular craftsman. He may train apprentices to continue his trade and does not have to abide by any guild restrictions described in this book. If covenant management is lenient, the craftsman might train others in his field. This should be determined by story events during the course of the saga. This option ignores interactions between craftsmen and guilds, but only until a nearby guild takes notice of the characters.''
 ''Covenant craftsmen could be those who have been expelled from a guild or found it to be too restrictive. A covenant craftsman could be a journeyman who couldn’t find work in town and decided to work at the covenant. He is treated like a regular craftsman but still maintains connections to a nearby guild. This option has the best of both worlds, letting storyguides include guilds when they would make for an interesting story, but not forcing guilds to constantly interact with the covenant. A more dynamic example would be to make a specialized craftsman a defrocked master who is illegally practicing his trade at the covenant. A craftsmen could be a run-away apprentice, matured in years and competent in''
@@ -69,8 +69,6 @@
 ''Storyguide character craftsmen are assumed to be busily working in their workshops, and only need''
 ''to follow these rules when asked to make a specific item, or when commissioned by the player characters for a shipment of goods. Craftsman characters use these rules to deter''
 ''mine how many items of their trade they can produce, for creating specialized items, and for making minor enchanted items, for those who have the ability to make such things.''
-
-[|
 ''According to the Ars Magica core rules, a character’s Craft Ability should be defined by the material that he works with rather than his occupation (page 64). Thus, the Ability Craft Blacksmith is incorrect, and should more correctly be listed as Craft Wrought Iron. This is problematic. First, it contradicts published examples of craftsmen characters who list their occupation as the form of their Craft Ability. Secondly, some occupations deal in a variety of material; a successful embroiderer works with taffeta, velvet, satin, and luxurious silk. Adhering strictly to the core description would force some characters to spend experience points on relevant, but ultimately unnecessary, similar Craft Abilities. Lastly, adults living in Mythic Europe know that a blacksmith works with wrought iron, and to them the occupation is synonymous with the material used. Since we do not have this intrinsic knowledge, this section provides information about the basic materials used in common medieval crafts. For all these reasons, a craftsman should define his Craft Abilities by vocation rather than material, save where the material he is expert in is rare and cannot be used by multiple types of craftsmen.''
 ''Blacksmiths work in either wrought or cast iron. Wrought iron is mined iron ore that is melted down without adding any carbon. It is fairly soft and pliable and is good for making nails, horseshoes,''
 ''door hinges, locks, keys, and some farm implements. Cast iron is saturated with carbon, primarily from charcoal. It is melted down and poured into molds to make kettles, cookware, and decorative building motifs.''
@@ -86,8 +84,6 @@
 ==The Craft Ability==
 
 
-|]
-
 ==City & Guild The Workshop==
 
 ''The first thing a craftsman needs to pursue his craft is an adequate workshop. It takes a season to build such a workshop, either starting one from scratch or converting an existing building. The cost of construction depends on the type of goods to be manufactured. Workshops for inexpensive goods cost one Mythic Pound to construct, while those for standard goods cost two, and those for expensive goods cost five.''
@@ -101,8 +97,8 @@
 ''Many craftsmen seek to improve their craft, hoping to utilize the latest advances in technology to augment their training. This information is spread by guild inquisitors and visiting members of the trade. It is also one of the many topics discussed at the guild hall. While many crafters have a reluctance to incorporate''
 ''new procedures, preferring to rely on the tried and true methods of their ancestors, most eventually see the advantages that new technology offers their craft.''
 ''A workshop has an Innovation score that starts at 0. The workshop’s Innovation score is added to the Workshop Total. A character increases his Innovation score with Labor Points. It takes 100 Labor Points to increase Innovation to +1, 200 more Labor Points for a +2 Innovation score, and another 300 Labor Points''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Working with Related Material==
 
@@ -113,7 +109,7 @@
 
 ''The intent of the specialization rules is to allow a character to gain a +1 bonus to a single aspect of a broader Ability. Craftsmen characters should pick a single item of the many that they can craft to specialize in. Alternatively, you can pick a specific sort of workshop activity your character specializes in, or a specific quality of the goods your character can produce (see Crafting Items). Good examples include Craft Blacksmith (locks), Craft Jeweler (votive crowns), Craft Embroiderer (table clothes), Craft Ivory (altars), Craft Painter (religious miniatures), Craft Weaver (shoddy goods), Craft Armorer (excellent helmets), and Craft Carpenter (standard residential houses).''
 
-|]
+|}
 ''to have a +3 Innovation score, the highest possible Innovation score. A workshop retains its Innovation score for as long as it exists, allowing heirs and purchasers to benefit from its improvement.''
 
 ===Innovation===
@@ -185,14 +181,14 @@
 ===12 + Magnitude of Effect===
 
 ''The Craft Level is influenced by outside variables dependent upon extraneous situations that are usually determined by the storyguide, so she may raise this Craft Level as she sees fit. Substandard raw mate''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Primary Characteristic==
 
 ''Many of the craftsman formulas in this chapter use the term “primary Characteristic.” A character’s primary Characteristic is the Characteristic most used for his specific craft, usually Strength or Dexterity. Usually the primary Characteristic demanded by a craft is Dexterity, measuring the agility and nimbleness of a character’s hands, hand-to-eye coordination, and manual precision. Some craft trades have other demands, and use Strength (for a blacksmith, miner, or logger) or Stamina (cloth dyer or baker). A common rule of thumb is that craftsmen use Dexterity and laborers use Strength. There are exceptions. For example, a wine caller – a laborer who wanders the markets proclaiming the merits of a particular vintage and the tavern that carries it – would use Communication. You and your troupe should decide which Characteristic is appropriate for a given character’s occupation.''
 
-|]
+|}
 
 ===Item Guild Cost===
 
@@ -262,8 +258,8 @@
 
 ===3, Rounded Up===
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''The standard Craft Level used for seasonal crafting is 6. This can be modified, and the following chart offers suggestions for doing so. Anything that might somehow hamper production raises the Craft Level. Modifying the basic Craft''
 ''Level also changes the Craft Levels of different quality goods. For example, if the storyguide decides that the Basic Craft Level is 9, then a craftsman character needs a 15 to make superior goods and an 18 to make excellent goods.''
 
@@ -280,7 +276,7 @@
 ''Gaining a new employee +1 (first season only)''
 ''Working in an Infernal, Faerie, or Magical aura +1''
 
-|]
+|}
 ''An excellent longsword adds its bonus to both attack and defense rolls. Excellent armor increases a character’s Soak, and excellent shields increase his defense roll. Excellent shoes could add the bonus to LongTerm Fatigue rolls made at a journey’s end, gowns could add to all Etiquette rolls, and excellent parchment could add to a scribe’s rolls to make a book. Some adjudication is necessary, and you and your troupe determine the exact situations in which an excellent item’s bonus applies.''
 
 ==Wondrous Items==
@@ -293,8 +289,8 @@
 ''While these effects and their use are similar to Hermetic magic, the power that a craftsman instills is based on older, more unpredictable forces. There are essential differences between wondrous items and Hermetically enchanted items, namely the latter’s predictable operation and ability to affect other magical entities or items. Wondrous items have no Penetration scores and cannot affect anyone with even the slightest Magic Resistance.''
 ''Wondrous items are made for a specific customer. A blacksmith does not have a collection of wondrous horseshoes available for ready sale, but must create a set designed for a specific animal. Because of this close association, each wondrous item acts as an Arcane Connection to the person it was made for, rather than to its maker. The Arcane Connection lasts until the recipient dies, and for a number of years after that. Roll a simple die on the recipient’s death to determine how much longer the connection persists. This connection can be broken like any other, but if it is the item loses its powers.''
 ''It takes a least one season to create a wondrous item, during which a character cannot undertake any other workshop activity, although he can work alongside his staff while they are engaged in the regular operations of the workshop. He may be assisted by one helper for every two points he has in his Leadership score. The assistant need only have a score in the specific Craft Ability. The process begins by taking exact measurements and weights of the item’s recipient, as''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Hermetic magi theorize that magic is the reflection of a perfect realm, and that created magical items are facsimiles of a single perfect image of a specific item. Not all magi follow this Platonic thinking, but all admit that when enchanting devices, magical effects adhere more strongly to better crafted items.''
 ''If a magus is enchanting a crafted item — be it a boot, blade, or broom — the item must be of at least superior quality. Lesser items dirty the process and impose negative modifiers to a Lab Total. Regular, standard quality goods subtract one from a maga’s Lab Total, and shoddy goods subtract three. Superior quality goods do not affect''
 ''a Lab Total, while excellent quality goods add any bonuses they have to a maga’s Lab Total. Wondrous goods are treated as superior goods for these purposes. If a Hermetic magus enchants a wondrous item, the non-Hermetic effects are wiped out, replaced by the more reliable Hermetic effect instilled.''
@@ -303,13 +299,11 @@
 ==Regarding Enchanted Items==
 
 
-|]
+|}
 ''well as collecting her hair, blood, and other bodily excreta. After selecting the finest raw materials available, the character begins the enchantment process.''
 ''The Craft Level of a wondrous item has a base of 12. Like other finished goods, the Craft Level can be modified by the storyguide accord''
 ''ing to the situation. Then, estimate the level of effect a Hermetic spell that mirrors the power the character wishes to instill would have, and add the magnitude to the Craft Level. The powers of a wondrous item are not as flexible as Hermetic enchanted items. The Range of the effect must be Personal or Touch,''
 ''since wondrous items can only affect themselves or the bearer of the item, the Duration cannot be greater than Sun, and the Target must be Individual. The craftsman must also determine how often he wishes this power to occur. Consult the Effect Frequency Table (ArM5, page 98) and add this number to the Craft''
-
-[|
 ''Three Supernatural Virtues exist that should be available only for craftsmen characters. Your troupe may decide to let other characters take them at character generation, but only the Eye of Hephaestus is potentially usable for a character who does not have a Craft Ability or vocation.''
 ''Eye of Hephaestus (Minor): The character can innately tell the quality of a manufactured item. If the item is somehow flawed he is instantly aware of that by merely touching it. He also has a chance to tell if an item is magical. For supernatural items made by a craftsman, make a Perception + Awareness + stress die roll against an Ease Factor of 9. If successful, the character knows the power of the item. For Hermetic enchanted items, or those made by other sorcerers, make a Perception + Awareness + stress die roll against a 12. If successful, the character knows the item is enchanted, but has no idea how, or what its powers might be. Botching either roll results in false information. This Virtue does not offer any information about the actions or commands necessary to trigger an item’s powers.''
 ''Hephaestus was a pagan god of craftsmen, primarily metallurgists. Calling this Virtue the Eye of St Dunstan is more appropriate for Christian characters.''
@@ -320,8 +314,6 @@
 
 ==Craftsmen Supernatural Virtues==
 
-
-|]
 ''Total. A wondrous item can only have one instilled effect.''
 
 ===Base Supernatural Item Craft===
@@ -336,8 +328,6 @@
 ''based on the strength of the aura and the Realms Interaction Table (ArM5, page 183). If he has a helper, add half the helper’s Craft Ability score to the Workshop Total. Unlike regular workshop activities, the crafter of a wondrous item can only have one assistant. For each point the Workshop Total is above the Craft Level, the craftsman accumulates points toward the item’s completion. Once the accumulated points equal the Craft Level, the item is finished.''
 ''The craftsman may add any applicable bonuses listed on the Shape and''
 ''Material Bonus chart (ArM5, page 110) for his wondrous item to his Workshop Total. This bonus is limited by his Craft Ability score. If starting with an excellent quality item, the bonuses from the excellent item may be added to the Workshop Total if the enhanced features of the wondrous item are similar to its final instilled power. For example, an excellent quality cloak that provides a +2 bonus to Charm rolls can be added to the Workshop Total to make it a supernatural item with a power similar to the spell Aura of Ennobled Presence.''
-
-[|
 ''Here is a suggested list of some of the common magical effects that wondrous items can have. They can serve as guidelines for your troupe in creating such minor enchantments. Each item works once per day. Craft Levels have been included in the examples. They are determined by the magnitude of the Hermetic effect + 12.''
 ''Bishop’s Platter: Made by a silversmith, this silver serving tray copies the effects of the spell Taste of the Spices and Herbs. Craft Level 13: Magnitude 1 (Muto Imaginem base 2, +1 Touch, +2 Sun).''
 ''Bridle of the Talking Horse: Made by a leather maker, this bridle allows a horse’s rider to talk to his steed. Craft Level 17: Magnitude 5 (Intellego Animal base 10, +1 Touch, + 2 Sun).''
@@ -355,8 +345,6 @@
 
 ==Common Wondrous Items==
 
-
-|]
 ''A wondrous item can only be used by the person for whom it was crafted. Hermetic magic can learn this if the item’s enchantment is investigated in the laboratory.''
 ''Wondrous items have verbal triggers to activate their power. The bearer touches the item and recites a specific word or phrase determined by the crafter during construction. Divine wondrous items are triggered by saying a small prayer, Infernal wondrous items by an unholy name, Faerie wondrous items by a quick song or pagan prayer, and Magic wondrous items by a special phrase or arcane word.''
 
@@ -393,8 +381,6 @@
 
 ''Once an item is made, it is sold from the workshop or included in a larger lot for sale. Craftsmen are''
 
-[|
-
 ===Roll Result===
 
 ''Botch Disaster''
@@ -417,15 +403,11 @@
 
 ==Workshop Exertion Results==
 
-
-|]
 ''responsible for selling their items, either directly to a customer or to a merchant who will later sell it to another. Being able to sell finished items for good prices is just as important to a craftsman as being able to manufacture them in the first place.''
 ''A guild has set price ranges for each kind of finished item they govern, a minimum and a maximum that they feel fairly reflect the efforts involved in making those goods, and the compensation due the craftsman to adequately maintain him in the guild’s desired lifestyle. This flexibility allows a customer and craftsman to haggle over the price, knocking a few pennies off the price or includ''
 ''ing a few more items in a lot they propose to purchase. Many medieval goods are sold in lots, and getting 11 swords for the price of 10 is considered a good deal. Superior and excellent quality goods also sell for more, and the guild does not regulate the price of these commodities.''
 ''Most of the time goods are sold off-stage, not affecting the story or directly influencing a session’s events. If, however, a situation warrants a specific selling interaction, craftsman characters may make a roll to sell their goods. When interacting with a typical customer, a craftsman rolls Presence + Bargain + a simple die against an Ease Factor of 9. If suc''
 ''cessful, the character sells the item for 10% above its standard cost. Each additional point of success above 9 increases the price by 10%, to a maximum of 50%. Failing means the character receives the standard price. If the customer is an important storyguide character, or another player, the craftsman makes a Presence + Bargain + stress die roll against an opposed Communication + Bargain + stress die roll. If the craftsman rolls higher than his opponent, he receives more money based on the same formula above. If the customer rolls higher, the craftsman loses money, deducting 10% for each point of advantage the customer has over the''
-
-[|
 ''Klaus is a companion-level craftsman character played by Toby. A master of the Swordsmiths’ Guild, he has an apprentice named Gunter and a journeyman employee named Hans, both storyguide characters. Toby and his troupe have agreed that the swordsmith’s primary Characteristic is Strength, which will be used to calculate Labor Points and Workshop Totals. Klaus has Strength +3, Swordsmith 6, Leadership 3, and Puissant Swordsmith. Gunter has Strength +1 and Swordsmith 3, and Hans has Strength +2 and Swordsmith 5. None of the characters has the Poor Flaw or the Wealthy Virtue, so each is considered to be a financially average craftsman.''
 ''Everyone works the first season. Klaus’s Workshop has Innovation and Raw Material scores of 0. Toby decides that both Gunter and Hans will contribute to Klaus’s Workshop Total. Klaus’s Workshop Total is 15: Strength (+3) + Swordsmith (6+2) equals 11, plus half of Gunter’s''
 ''Swordsmith Ability (3) and Han’s Swordsmith Ability (5), or 4. The group makes an excellent quality greatsword, which has a +1 bonus to all its weapon statistics. Klaus receives 33 Labor Points: the sum of his Strength (+3) + Swordsmith (6+2), times three. However, Klaus should have three employees in his shop for it to function properly, since his Leadership should be half of his Swordsmith Ability. Lacking one assistant subtracts 3 Labor Points from Klaus’s regular 33, leaving a net total of 30 Labor Points. Toby doesn’t have to calculate Labor Points for the apprentice and journeyman storyguide characters. All three characters receive 2 Exposure experience points each.''
@@ -436,8 +418,6 @@
 ==Example: Klaus’s Workshop==
 
 ''continued on next page''
-
-|]
 ''craftsman’s roll, to a maximum discount of 50%. Botching means the craftsman makes a terrible error and sells the item for next to nothing, so desperate for the sale that he loses all common sense.''
 
 ===Selling Goods: Presence + Bargain + Simple Die Vs. Ease===
@@ -457,8 +437,6 @@
 ''Like craftsmen, laborers use a similar seasonal formula to determine how successful they are at their occupation. Instead of a Workshop Total compared to a Craft Level, they generate a Labor Total and compare it to a Profession Level. Both are derived in a similar fashion to craftsmen’s totals. Labor Level is the laboring character’s primary''
 ''Characteristic + Profession Ability and the Profession Level has a base of 6, modified in the same way Craft Levels are.''
 ''If a character’s Labor Total is above the Profession Level, he provides standard quality services for the season. If it is below his Profession Level, his services are shoddy. He can provide superior quality service the same way a craftsman can make a superior quality item. Labors cannot provide excellent or wondrous quality services. Laborers have a (Profession) Reputation, just like craftsmen have a (Craft) Reputation, and earn and spend Labor Points to maintain their livelihoods and expand their business.''
-
-[|
 ''Hans receives 2 Exposure experience points for training Gunter, and Gunter receives 8 Training experience points (Hans’s Swordsmith Ability + 3). Klaus has accumulated 54 extra Labor Points.''
 ''Klaus’s shop is a lesser source of income, meaning he earns 40 Mythic Pounds a year. Toby could save the Labor Points, hoping to eventually make Klaus Wealthy. He could also spend 50 of his accumulated Labor Points to improve the Workshop’s Raw Material score. However, Klaus has the Virtue Touched by the Divine Realm, and Toby would rather make a wondrous item. Klaus can instill either Ignem or Terram spell-like effects (because these forms were chosen at character generation by Toby). He wants to make a greatsword that shines like a lantern upon command, and enters into a bargain with a local bishop for such an item.''
 ''In the fourth season, then, Klaus sets out to make this wondrous item,''
@@ -469,8 +447,6 @@
 ==Example: Klaus’s Workshop, Continued==
 
 ''continued from previous page''
-
-|]
 
 ==City & Guild Damaged Goods==
 
@@ -560,5 +536,6 @@
 
 ''A skilled craftsman can repair an item that is damaged. It is a fairly straightforward process that does not require a die roll, only the absence of the item from the owner for a period of time. An absolutely broken item cannot be repaired, however. Broken items must be discarded, being too damaged to warrant any repair effort.''
 ''The craftsman must be able to make the item he is repairing, although he does not have to personally have made the damaged item itself. Damaged standard quality items are automatically repaired in a season. Superior and excellent quality items are also automatically repaired. However, the craftsman must have a Craft Ability equal to the twice the bonus of the item to repair it. He must also spend one Labor Point for every damage level he repairs.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

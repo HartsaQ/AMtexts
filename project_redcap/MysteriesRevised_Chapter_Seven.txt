@@ -56,8 +56,6 @@
 
 ''The rules on increasing Penetration Bonus on ArM5, page 84 apply as normal.''
 
-[|
-
 ===Did William Steal My Book?===
 
 ''This is an Intellego Mentem base 10 “discover the truth of a statement,” but as the information comes from William’s mind, the total would also have to beat his Magic Resistance, if any.''
@@ -166,8 +164,6 @@
 ==Ceremonial Augury Phenomena==
 
 
-|]
-
 ===Divination in Practice===
 
 ''The magus has two options, casual divination and ceremonial divination.''
@@ -269,8 +265,8 @@
 ===of 6===
 
 ''You may interpret this dream later, as described above.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''In(Forms) Gen Pen +0, uses per day: as enchanted R: Touch, D: Mom, T: Ind The effect may be enchanted with any Hermetic Forms desired, applying them as requisites to each other (no cost for extra requisites). The Forms enchanted (main and requisites) limit the range of divinations possible with the device. Such a device adds a magical bonus of +1 per 2 magnitudes of effect (round up).''
 
 ===Magical Bonus = Effect Level / 10===
@@ -285,5 +281,8 @@
 
 ==Enchantment of the Scrying Device==
 
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

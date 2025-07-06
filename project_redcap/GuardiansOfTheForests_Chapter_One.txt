@@ -12,14 +12,14 @@
 
 =Introduction=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Note on German Names==
 
 ''German-speaking readers should note that we have used the English versions of many German place names (for example “Black Forest” instead of “Schwarzwald” and “Brunswick” instead of “Braunschweig”) and people (for example “Charlemagne” instead of “Karl der Grosse” and “Henry the Lion” instead of “Heinrich der Löwe”). We have adopted some German creature names, but have used English-style capitalization and plurals (for example “bockmen” instead of “Bockmänner”). Further information on German languages and names may be found in Appendix A.''
 
-|]
+|}
 ''Roman and Germanic traditions, with an addition of Slavic and Scandinavian inﬂuences. Here at the historical center of the Order of Hermes, home to the Grand Tribunal, are to be found within the forests some of the most ancient covenants, including the domus magnae of Houses Bjornaer, Bonisagus, and Merinita. Other, newer, covenants are to be found within mundane lands or even cities. The landscape of the Rhine Tribunal is also littered with the ruins of failed covenants, those that have fallen prey to enemies Hermetic or otherwise.''
 
 ==History and Myth==
@@ -31,8 +31,6 @@
 
 ''This book is primarily designed to be of use to storyguides and players whose saga is based in the Rhine Tribunal. Nevertheless, it may also be useful to those whose saga is located elsewhere; perhaps your covenant is situated in nearby lands, you have magi who plan to attend House gatherings at Crintera, Irencillia, or Durenmar, or even the Grand Tribunal, or you wish to explore the forests near your covenant in more detail. Some of the covenants, mythic sites, and stories contained herein may also be adapted for your part of Mythic Europe. There are three important things that should be borne in mind as you read this book: Firstly, if you are player in a saga set in the Rhine Tribunal, you should ﬁrst consult with your storyguide — while''
 ''much of this book is safe for you to read, there are numerous plots and statistics scattered throughout that may be best kept secret. Chapters 11 and 12 consist mostly of saga plans. Secondly, not all the covenants, and by no means all the magi of the Rhine Tribunal, are described in this book. Anywhere from one to six additional covenants are therefore left to the storyguide(s) to devise, one of which may be the covenant of the player characters. The number of extra covenants you create may depend in part on the number of Hermetic societies and Mystery Cults you wish to include, with a larger Tribunal allowing more of these to plausibly exist. Lastly, nothing in this book is compulsory for your saga, and there is no single “correct” Rhine Tribunal. Rather, this should be regarded as a set of common tools or ingredients for your Rhine Tribunal, all of which are optional. This book is designed to increase, not restrict, ideas and possibilities. Want to change the number of magi in the Tribunal? Go ahead ... it still works, whether you have 80 magi or 180. Want to site the player covenant on the island of Rügen? No problem, simply move Crintera to the Pomeranian Forest instead. The modular nature of this book should allow you to simply pick and choose those elements that are to your liking. (Of course, you may decide to use everything without any problems, either.) Having said that, there are many historical and geographical facts (such as the fact that the city of Cologne exists and is located on the River Rhine, for example) that you will probably not want to change.''
-
-[|
 ''HOLY ROMAN EMPIRE Frederick II''
 ''Lower Lorraine (L.L.) Upper Lorraine (U.L.) Kingdom of Arelat (Are.) Normandy Tribunal Saxony (Sax.) Franconia (Fra.) Thuringia (Thu.) Swabia (Swa.) Margravate of Brandenburg (Bra.) Margravate of Meissen (Mei.) Margravate of Lusatia (Lus.) Bavaria (Bav.) Greater Alps Tribunal Kingdom of Bohemia (Boh.) Margravate of Moravia (Mor.) Austria (Aus.) Greater Alps Tribunal''
 ''KINGDOM OF HUNGARY Andrew II''
@@ -43,5 +41,6 @@
 ''Flanders (Fla.) Normandy Tribunal Picardy (Pic.) Normandy Tribunal Champagne (Cha.) Normandy Tribunal''
 ''KINGDOM OF POLAND Leszek the White''
 ''Poland (Pol.) Novgorod Tribunal Pomeralia (Por.) Novgorod Tribunal Silesia (Sil.) Novgorod Tribunal''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

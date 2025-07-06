@@ -37,9 +37,6 @@
 
 =Demons as Deceivers=
 
-
-==The Infernal==
-
 ''Aqrab is a Deluder who is most active in Islamic lands. She masquerades as either a sorceress or a djinnja who is willing to teach others her magic, which, along with other Powers, includes knowledge of how to summon magical creatures. What she actually does is places them on the road towards becoming diabolists. She is capable of teaching the Infernal Abilities of Incantation and Diablerie (see Chapter 10: Maleficia), and the Goetic Arts of Summoning and Commanding (see Chapter 11: Ars Goetia) to Gifted students. Anyone learning from her subtracts her Might from the penalty applied to Study Totals when learning Supernatural Abilities (ArM5, page 166).''
 
 ===Ataf the Separator===
@@ -104,9 +101,6 @@
 ''(11–15), Incapacitated (16–20) Abilities: Leadership 6+2 (children),''
 ''Single Weapon 5 (switch) Powers: Crushing the Will, 2 points, Init 0, Mentem:''
 ''This Power saps the will and vitality of its target, leaving him listless, less energetic, and withdrawn. All Personality Trait rolls suffer a –3 modifier, and the target may not spend Confidence Points to increase other rolls. Each use of this Power lasts until the victim has slept for at least six hours.''
-
-==The Infernal==
-
 ''Chastise the Disobedient, 0 points, Init +3,''
 ''Corpus: Every strike of Bordelon’s switch inflicts a fearsome sting. Double the Wound Penalties inflicted by the weapon, although these extra penalties vanish after an hour. Wound Penalties caused by any actual wounds she inflicts are healed as normal. Coagulation, 2 points, Init –1, Corpus: See''
 ''Chapter 4: Infernal Legions, Demonic Powers. Obsession, 1 to 3 points, Init –5, Vim:''
@@ -132,8 +126,8 @@
 ''Imaginem: Forcas can render anyone he can see invisible, although they are never hidden from his sight. This is true invisibility, as it cannot be revealed with Hermetic magic, due to its Infernal nature. The invisibility lasts until the next Sunday, or until Forcas decides to cancel it. Retrieve That Which is Lost, 4 points, Init''
 ''+6, Terram: Forcas can locate any object to which he has an Arcane Connection, or a sympathetic connection such as its true owner. Once located, he can cause the item to disappear from its current location and appear in close proximity to himself. This Power must penetrate the Magic Resistance of anyone holding or wearing the summoned object. The Wordless Conversation, 0 points, Init 0,''
 ''Mentem: See Watchers.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Order: Deluders These demons lurk around magicians and make their magic appear to be stronger than it really is. They promote overconfidence. This surge of power is often used to negate the usual draining effect on magic-affiliated Powers in an Infernal aura, and sometimes to even mimic the effects of a Magical aura. Enervators appear as typical Deluders — slashes of darkness filled with eyes and teeth — but also have disembodied, clawed hands floating around in the darkness. Infernal Might: 20 (Vim) Weakness: Salt Powers: Deceiver’s Boost, 1 or more points, Init''
 ''+5, Vim: When a demon uses this Power, its target is a spell cast by a mortal. The demon must spend at least one Might Point on the effect,''
 ''but can choose to spend more. The demon must also penetrate the Magic Resistance of the spellcaster, if any. For every point of Might spent by the demon, the magus gets +2 to his Casting Total. However, spells enhanced by this Power may be manipulated in minor ways by the demon, such as changing the target of the spell, ending concentration at the whim of the demon, and the like. The spell must remain within the rules for Similar Spells (ArM5, page 101), and can’t be more powerful than the spell level + Might Points spent, but the demon is free to manipulate any one aspect of the spell otherwise. If a spellcaster’s player rolls a zero while being influenced by this Power, he must roll an extra botch die.''
@@ -141,10 +135,7 @@
 ==Enervators==
 
 
-|]
-
-==Realms of Power==
-
+|}
 ''Corrupted Knowledge, 2 points, Init –3,''
 ''Mentem: See Watchers. Coagulation, 4 points, Init –1, Corpus: See''
 ''Chapter 4: Infernal Legions, Demonic Powers. Obsession, 1 to 3 points, Init –5, Vim:''
@@ -163,8 +154,8 @@
 ''Com 0, Str +1, Sta 0, Dex +1, Qik +2 Size: –2 Personality Traits: Loquacious +3 Reputations: None Hierarchy: 0 Combat: Dodge: Init +2, Attack n/a, Defense +5,''
 ''Damage n/a Soak: +18 (made of solid brass, no vital''
 ''organs)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Order: Masters of the Spirits of Deceit''
 ''These hideous demons can be found haunting isolated patches of wilderness, often mountains and swamps. They take the form of dragons of at least Size +5, with corroded scales of a disgusting green-black hue and immense, toothfilled maws. Infernal dragons rarely have wings. Each dragon has at least one human form that it regularly adopts, and may take an interest in the local human population, often exploiting them and causing misery. Many use their powers of deceit to provoke wars between neighboring lands, to slake their hunger for corpses. They may only be safely confronted by the pure of heart, whom they cannot harm; to claim this protection a character must have either True Faith or at least two noble Personality Traits at +3 or higher, and no sins on her conscience which have not been absolved. Infernal Might: 35 (Animal)''
 ''Weakness: Protected Group (the pure''
@@ -183,10 +174,7 @@
 ==Men of Good Intent==
 
 
-|]
-
-==The Infernal==
-
+|}
 ''Fatigue Levels: Tireless Wound Penalties: –1 (1–3), –3 (4–6), –5''
 ''(7–9), Incapacitated (10–12) Abilities: Athletics 5 (when pursued),''
 ''Brawl 2 (dodge), Charm 4 (misers), Folk Ken 4 (rich people) Powers: Body of Brass, 0 points, Init +6, Terram:''
@@ -208,8 +196,6 @@
 ''Com +1, Str +6, Sta +1, Dex +1, Qik +1 Size: 0 Confidence Score: 1 (3 points) Personality Traits: Cruel +6 Reputations: Captain of a Legion of''
 ''Corrupt Priests 3 (Infernal) Hierarchy: 3 Combat: Punch: Init +1, Attack +7, Defense +7,''
 ''Damage +6 Soak: +5''
-
-[|
 ''Order: Deluders The mighty Wizard-king Solomon commanded many demons in the service of God. Among those whom he summoned were seven female spirits, who appeared together and spoke with one voice. They called themselves Deception, Strife, Battle, Envy, Power, Error, and Corruption. Each threatened King Solomon with her powers, but his holiness was too great and he put them to work in building his temple.''
 ''Although Solomon bound the demons to the power of his seal, they have since escaped his control and roam the earth once more. These demons never appear singly, and they may indeed be seven reflections of the same, more powerful demon.''
 ''The Seven Spirits of Solomon take the form of beautiful women with long, fair hair, clothed in fine silk apparel. However, their hands are bound with wire, behind their backs and to each other, and their eyes are blank holes. This appearance is actually the inside of their bodies; if they turn themselves inside out they reveal their true forms, which is seven columns of darkness filled with eyes and weapons.''
@@ -218,11 +204,6 @@
 ''Mentem: The Spirits of Solomon can inflict upon a victim one of the seven curses for which they are named. The Curse of Deception prevents the victim from speaking the truth. The Curse of Strife makes the victim quarrelsome over the slightest issue. The Curse of Battle causes others to fight over the victim. The Curse of Envy causes others to envy the victim, and work evil against him. The Curse of Power causes the victim to be filled with an overwhelming ambition and obsession for raw power. The Curse of Error causes the victim to misinterpret anything he is told in earnest. The Curse of Corruption amplifies the worst trait of the victim to tragic proportions. Each curse should be treated as a Lesser Malediction, and is permanent unless the spirits are forced to retract it, or it is removed by some Divine agency.''
 
 ==Spirits of Solomon==
-
-
-|]
-
-==Realms of Power==
 
 ''Fatigue Levels: OK, 0, –1, –3, –5,''
 ''Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5''
@@ -250,8 +231,8 @@
 ''(11–15), Incapacitated (16–20) Abilities: Charm 4 (the gullible), Europe''
 ''Lore 3 (superstitions), Folk Ken 6 (fortune-telling), Guile 5+2 (about future events), Premonitions 4 (non-urgent events), Survival 2 (on the road) Powers: The Abandoned Corpse, 1 point, Init +5,''
 ''Corpus: Premnemosyne can create a corpse as she converts to spiritual form, appearing to leave a body behind. This body rots quicker than a real human cadaver, disappearing entirely within a month.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Order: Dukes of the Deluders The legend of the Watchers states that there were once angels (collectively called the Grigori) sent to earth by God to instruct mankind. However, some of these Grigori started to cohabit with the daughters of men. They became corrupted and fell from God’s grace, joining the ranks of the Deluders and teaching mankind the secrets of Supernatural Powers. The Watchers are among the most powerful members of the order, and are highly sought after by those who would practice magic. Because there are some holy Watchers (see Realms of Power: The Divine, page 26), many do not realize that these creatures teach “magic” from an unholy source. Unlike the other Deluders, the unholy Grigori are humanshaped, although solid black and taller than giants; no details of their shape can be made out other than the hundreds of eyes which cover their featureless skin. They are eternally silent, communicating their teaching directly into the minds of their pupils. All of these high-status demons have the rank of Duke.''
 ''An example of a Watcher is Forcas.''
 ''Infernal Might: 40 (Corpus) Weakness: Ordering Powers: The Wordless Conversation, 0 points, Init''
@@ -261,10 +242,7 @@
 ==Watchers==
 
 
-|]
-
-==The Infernal==
-
+|}
 ''Coagulation, 1 point, Init –1, Corpus: See''
 ''Chapter 4: Infernal Legions, Demonic Powers. Obsession, 1 to 3 points, Init –5,''
 ''Vim: Acedia (spiritual sloth). See Chapter 4: Infernal Legions, Demonic Powers. Change Form, 0 points, Init 0,''
@@ -279,5 +257,6 @@
 ''Premnemosyne is a demon of acedia, the spiritual version of the sin of sloth. She harms by spreading false prophe''
 ''cies. The events she predicts are always precipitous: they encourage characters to avoid involvement in situations that they might correct, since, she assures them, everything will turn out alright in the end. Premnemosyne encourages people to trust in Providence, beyond all limits of caution. She often serves other demons. Her skill at predicting the pattern of future events is highly developed, and she advises diabolists concerning the future. She is not a warrior and never fights, but she occasionally maneuvers people into appearing to kill her, so that she can have them charged with murder.''
 ''Premnemosyne is currently active in a small town in the Rhineland, ruled by a nobleman under diabolic influence. She spreads folktales about a hero who will come to cast him down, so that people are tempted to wait for a savior who will never come.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

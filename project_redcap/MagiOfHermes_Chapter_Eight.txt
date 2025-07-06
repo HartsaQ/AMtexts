@@ -7,13 +7,13 @@
 
 =Maris of Tytalus=
 
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Ormurin Langi''
 ''Ormurin Langi or “The Long Serpent” is an old ballad about King Olaf Tryggvason, who violently brought Christianity to Norway. In the tale, King Tryggvason’s fleet is attacked by a massive force from his enemies, the Swedish and Norwegian kings. Tryggvason’s armada, although outnumbered, violently opposes and eventually repulses the two opposing fleets. However, Tryggvason’s flagship, the Long Serpent, is critically damaged in a third attack by his countryman, Eiríkr Hákonarson. Knowing that his ship is doomed, Tryggvason and his crew jump overboard into the frigid waters never to be seen again. This great battle is said to have taken place in the Oresund Straight, near the isle of Slvolder. The isle, however, was lost to history. Until, that is, Maris stumbled across it during a particularly nasty''
 ''storm that was unaffected by his magical protections. Located in a magical regio, the island of Slvolder is shrouded in mist, only opening when someone near is truly in peril of being lost to the sea. There is no other known way of accessing the island. Taking advantage of the magical aura the isle possessed, Maris set up a permanent lab on Slvolder to use as a base of operations. The nature of Slvolder’s regio proves to be quite an asset to Maris’ cause, preventing him from returning unless he is truly failing in his rivalry with Natura. Each time Maris returns to Slvolder, he has learned a valuable lesson, and can use the island’s resources to overcome the challenges he failed. The day Maris can no longer return to Slvolder, he will consider his vow fulfilled.''
 
-|]
+|}
 ''Twilight Scars: None Equipment: Various seafaring equipment, as well as tools for repairs and fishing. Encumbrance: 0 (0) Spells Known: Soothe the Ferocious Bear (ReAn 10/+13): Mastery 1 (quiet casting) Eyes of the Cat (MuCo(An) 5/+8): Mastery 1 (quiet casting) Comfort the Drenched Caster (PeAq 5/+13): Mastery 1 (quiet casting) Cloak of the Duck’s Feathers (ReAq 5/+13): Mastery 1 (silent casting) Air’s Ghostly Form (CrAu 5/+18): Mastery 1 (fast casting) Wind at the Back (ReAu 5/+13): Mastery 1 (multiple casting) Bind Wound (CrCo 10/+14): Mastery 1 (multiple casting) In Christ’s Footsteps (ReCo 5/+9): Mastery 1 (fast casting) Conjure the Sturdy Vine (CrHe 5/+13): Mastery 1 (multiple casting) Probe Nature’s Hidden Lore (InHe 4/+18): Mastery 1 (quiet casting) Hunt for the Wild Herb (InHe 5/+13): Mastery 1 (quiet casting) Palm of Flame (CrIg 5/+18): Mastery 1 (quiet casting) Repel Winter’s Clutches (CrIg 5/+18): Mastery 1 (quiet casting) Lamp Without Flame (CrIg 10/+18): Mastery 1 (quiet casting) Prying Eyes (InIm 5/+8): Mastery 1 (quiet casting) Taste of the Spices and Herbs (MuIm 5/+9): Mastery 1 (quiet casting) Eyes of the Eons (InTe 10/+9): Mastery 1 (quiet casting) Supple Iron and Rigid Rope (MuTe 10/+9): Mastery 1 (quiet casting) The Invisible Glass Worker (ReTe 4/+9): Mastery 1 (multiple casting) The Unseen Porter (ReTe 10/+9): Mastery 1 (quiet casting) Sense of Magical Power (InVi 2/+9): Mastery 1 (quiet casting) Scales of the Magical Weight (InVi 5/+9): Mastery 1 (quiet casting) Sense the Nature of Vis (InVi 5/+9): Mastery 1 (quiet casting) Appearance: Maris is a gruff, weathered man of Nordic descent. He keeps himself in a practical, maintainable appearance, with hair uncut, and often with a month or more growth of beard. Sigil: When Maris casts a spell, he grasps at ethereal threads connecting him to his target, weaving them into a desired effect. His voting token is a snowflake bound in a spiral.''
 ''Maris +15 years''
 ''Characteristics: Int +1, Per +1, Pre 0, Com –1, Str +1, Sta +2, Dex +1, Qik +1 Size: 0 Age: 40 (36) Warping Score: 3 (5) Confidence: 2 (5) Virtues and Flaws: The Gift; Hermetic Magus; Flawless Magic, Affinity: Creo, Affinity: Rego, Arcane Lore, Cautious Sorcerer, Free Study, Self-Confident*, Skilled Parens, Study Bonus; Plagued by Supernatural Entity, Weak Spontaneous Magic; Cyclic Magic (Negative): During Low Tide, Fear: Twilight, Infamous (mad), Vow (Independence) * 	 House Virtue Personality Traits: Careful +3, Determined +2, Disciplined +1, Brave +1 Reputations: Dedicated (Tytalus) 1, Insane 4 Combat: Dodge: Init: +1, Attack –, Defense +3, Damage – Fist: Init: +1, Attack +2, Defense +2, Damage +1 Kick: Init: +0, Attack +2, Defense +1, Damage +4 Harpoon: Init: +3, Attack +5, Defense +3,''
@@ -158,13 +158,13 @@
 ===Reveal the Ocean’s Secrets===
 
 ''InAq 19 Pen +0, Constant Effect R: Touch, D: Sun, T: Part Reveal the Ocean’s Secrets senses the motion, speed, and boundaries of the ocean up to 1500 feet in all directions. Tides, currents, obstacles, depth, and other such information are constantly gathered by this spell. (Base 3, +1 Touch, +2 Sun, +1 Part, +2 Size, +1 Complexity; +1 2/day, +3 environmental trigger: sunrise/set)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Voices in the Ocean''
 ''Humans are not aquatic creatures by nature, and Hermetic magic was certainly not designed with submerged use in mind. There are several fundamental differences between casting a spell underwater and casting a spell in the open air. Unless aided by magical means, no words and only subtle gestures may be used to cast spells while submerged, accruing the normal casting penalties. Note that sound has a difficult time leaving the water, and Voice-Range spells cast while submerged can only affect targets in, or touching the''
 ''surface of, the water. Drowning is not the only threat an adventurous magus needs to worry about. The great weight of the ocean can crush unsuspecting magi. After each 10 meters of descent, a character looses one tenth of his current depth minus soak (extra soak from armor does not apply) in Fatigue Levels. Example: Hydas is diving toward a library, lost to the deep centuries ago. At a depth of 50 meters, Hydas looses 5 – 3 (Hydas’ soak) = 2 Fatigue Levels. If Hydas descends another ten meters, he will lose three more Fatigue Levels, and be in real trouble.''
 
-|]
+|}
 
 ===Visualize the Water’s Flow===
 
@@ -186,5 +186,6 @@
 ''MuHe (Te) 24 Pen +0, Constant Effect R: Per, D: Sun, T: Ind The Paregro Mare’s hull has been enchanted to be as hard as metal. The thick timbers of the hull provide protection from accidental collisions, punctures, and damage of all types. The Paregro Mare’s hull is immune to ramming, and if another captain is foolish enough to try, he will successfully wreck his own ship if he fails the contested Int + Profession roll by more than his own Profession skill. (Base 4, +2 Sun, +2 Size; +1 2/day, +3 environmental trigger: sunrise/set)''
 ''Helios’ Companionship''
 ''CrIg 24 Pen +0, Constant Effect R: Per, D: Sun, T: Room The lower deck of the Paregro Mare has been enchanted to produce enough light to brighten the hold to the equivalent of torchlight, and to heat it to be as warm as a pleasant summer’s eve. Not only is this extremely convenient as well as comfortable, if you are using the optional rules from Covenants this grants the laboratory the Free Supernatural Virtue: Magical Lighting (Superior) and the Free Supernatural Virtue: Magical Heating (Superior) (pages 118-119). Base 3, +2 Sun; +2 Room, +1 Heat; +1 2/day, +3 environmental trigger: sunrise/set)''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

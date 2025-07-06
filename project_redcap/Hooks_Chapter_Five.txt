@@ -1,6 +1,7 @@
-
-[|
 ''An elderly merchant clutches the rigging on a ship as it is tossed about in a violent storm. His frightened gaze flickers between the struggling helmsman and a weak light in the darkness, which he hopes fervently is the lighthouse showing the way to the safety of the port. A wave the size of a castle rises from the sea and swallows the ship. In the foam and churning waters no debris can be seen.''
+
+==Introduction==
+
 ''Mythic Europe has aspects not involving faeries, griffins, and demons. Mundanes produce much-needed items with their hands and merchants use their talents and connections to distribute these wares. The explosive growth of towns during the 13th century provides ample opportunity for business as well as adventure. The story below illuminates the importance of arranging for supplies through well-maintained trade relations. It can''
 ''be used as a stepping stone for using City and Guild for stories about liaising with traders or setting up merchant businesses. Troupes who resolve bookkeeping and economics in a loose manner may find inspiration in the possibilities for merchant adventurers traveling to far-off lands and meeting foreign cultures at the edge of the known world and the Order’s influence.''
 
@@ -13,8 +14,6 @@
 
 ''A proactive approach is to send envoys to town to check up on things, and to see if any information on Charles is to be found. The journey is uneventful, although since at least the latter half of the trip takes them through populated areas any Gifted individuals in the group draw attention to themselves. This is a good opportunity to get socially adept companion characters into play. There are a number of logical places to start in town, among others the warehouse Charles usually rents and the taverns frequented by the laborers and teamsters employed by the merchants. Activities of this kind lead to a minor investigation covered below on a location by location basis in The Town.''
 
-|]
-
 ==Waiting==
 
 ''If the magi simply choose to wait, a letter arrives by a mundane messenger within a few weeks. If the covenant has a difficult approach (for example, in a regio) the directions were found in Charles’ letters (see later). The letter is from a merchant named Simon who offers to supply what Charles obviously has failed to deliver. He cordially invites a representative of the wizards to his house to negotiate. Should the matter be ignored at this point, the shortage is there to stay. If a character attempts to procure some of the missing materials in town he certainly crosses paths with Simon.''
@@ -24,8 +23,8 @@
 ''Stores of rare consumables and replacement tools have been running low since the''
 ''shipment was due to arrive. The shortage affects the magi from the start of the following season. The bulk of the substances consumed by lab work''
 ''is missing, as well as any specific items ordered (such as for enchanted devices). The situation both forces magi to postpone projects requiring specific''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Charles and the Shipment==
 
@@ -34,12 +33,10 @@
 ''The Coroner’s Ruling''
 ''As Charles’ body was found washed up on shore, the coroner (or other regional variation of this office) investigated for evidence of a crime. He found none, and the death was ruled accidental. No goods were salvaged after the accident. Charles’ body was buried within a few days of his demise.''
 
-|]
+|}
 ''items until such are procured, and results in a general shortage hampering lab work. If only rules from ArM5 are used, the shortage means that the number of active labs must be reduced to half (round down). If the shortage is not dealt with''
 ''within four seasons, all labs need to be closed down completely. If using the rules for labs from Covenants page 106–124, the covenant can only support the equivalent of half of the sum of Upkeep values of all labs (round down). Labs need to take''
 ''Flaws (or remove Virtues) in order to reduce Upkeep to half of the usual value immediately, distributed in any way the magi see fit. Even though the funding in Mythic pounds is there, the materials are missing. Once the shortage has ended, any''
-
-[|
 
 ==Use of Magic==
 
@@ -52,8 +49,6 @@
 ''will raise a case with the Quaesitores. Making Simon disappear isn’t hard either, but since he is an influential merchant this is also investigated.''
 ''A Hermetic Case''
 ''The Order does not know every thing that goes on in the mundane world. However, if the case with Simon is resolved using considerable magic or foul play the Order might find out in a number of ways. Simon knows he is dealing with wizards, and if he senses interference he will raise a complaint with his guild. The guild knows of the Order and has a way of contacting the Order with a grievance; the same goes for the Church and major nobles. Depending on the player magi’s situation there may be a rival or enemy who smells a rat and fingers them. Once this happens a Quaesitorial investigation starts, which could end with Tribunal proceedings for meddling with mundanes. An allied magus in the city could foresee problems arising and give a friendly warning in advance.''
-
-|]
 ''new Flaws are removed without needing to spend time doing this, but lost Virtues take time to regain. If the shortage is not dealt with within four seasons, the sum of Upkeep of the labs needs to be reduced to zero.''
 
 ==The Town==
@@ -87,14 +82,10 @@
 ''Breaking and Entering''
 ''If player characters think to break into the house to learn more or steal something, it should be''
 
-[|
-
 ==Peter the Merchant==
 
 ''Peter is a moderately successful and well-off merchant in his early forties dealing in cloth and leather wares. He does not see himself as a rival of Simon but will, in time, notice that Simon is in fact trying to take over his market. He grudgingly respects Simon’s success but fears his schemes rather than admires him. Peter was chosen as a neutral third party to hold the shipment of goods which Charles used as collateral when borrowing money from Simon. Peter expected this to be a straight-forward transaction and is genuinely sorry for the player characters about the whole mess. However, he can’t in good conscience give them the wares before a settlement or official ruling is reached. If he is approached with good sense and treated well he will testify on behalf of the covenant, and he may even offer to''
 ''make their case before the Trade Guild officials. Full game stats are not given for Peter. He has above average mental characteristics and all relevant Abilities for his trade. Key stats are Artes Liberales 3 (arithmetic), Civil and Canon Law 3 (commercial), Organization Lore: Trading Guild 4 (personalities) and Communication +2. If the player characters do not take matters before the officials but instead do Simon’s bidding, they might attempt to sabotage the leather goods in his warehouse. They may then be facing him as defendants in a future court session. If the situation ends amicably with Peter, he may become a future supplier to the covenant, albeit of necessary consumables and clothing rather than exotic goods and lab supplies.''
-
-|]
 ''possible for determined and skilled specialists. Naturally, all doors and windows are secured with deadbolts, and a single thug makes regular patrols through the house. For game statistics use the Tough Guy template on ArM5 page 22, except that no armor is worn, for Soak +6 and his only weapon is a Club with Init +2, Atk +7, Dfn +7, Dam +4.''
 
 ==Smiling Simon==
@@ -102,16 +93,12 @@
 ''If the player characters answer the invitation Simon sent, or if they identify themselves at the house as representatives of the magi, they are received politely and with little waiting. If they assume other identities, their reception and waiting time''
 ''depends on how important Simon believes they are and how profitable a deal he thinks he can strike. In any case, a meeting is easy to set up. Simon receives his guests in a gaudy room cluttered with various tapestries, furniture, and nicknacks. Simon is devious and scheming, he is good at what he does, and outfoxing him by mundane''
 
-[|
-
 ==Simon the Merchant==
 
 ''Characteristics: Int +1, Per +1, Pre +2, Com +1, Str 0, Sta +1, Dex 0, Qik 0 Size: 0 Age: 32 (32) Decrepitude: 0 Warping Score: 0 (0) Confidence Score: 1 (3) Virtues and Flaws: Capo*, Wealthy; Vernacular Education*; Avaricious, Dark Secret; No Sense of Direction * 	 These Virtues and Flaws are found in City & Guild page 109. Capo is a Major Social Virtue: Simon manages the trading company in this town. Vernacular Education is a Minor General Virtue, granting additional experience points for trade-related abilities. Personality Traits: Avaricious +6, Smiling +3, Devious +2 Reputations: Powerful Merchant 2 Combat: Dodge: Init +0, Attack n/a, Defense +2, Damage n/a Dagger: Init +0, Attack +5, Defense +3, Damage +3 Soak: +1''
 ''Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Area Lore: Town 4 (business), Artes Liberales 1 (arithmetic), Bargain 6 (selling), Brawl 2 (dagger), Charm 4 (customers), Etiquette 4 (nobility), Folk Ken 4 (while trading), Guile 4 (half-truths), Intrigue 4 (plotting), Latin 4 (trade), Leadership 2 (merchant), Local Language 5 (upper class), Organization Lore: Trading Guild 3 (personalities), Profession: Merchant 6 (rare goods), Ride 3 (walk) Equipment: Fine merchant’s clothes, writing implements, dagger Encumbrance: 0 (0) Appearance: Simon is a handsome man, fair-skinned with a healthy complexion. His lightly curled hair is dark brown as is his neatly trimmed beard. He is al''
 ''most constantly smiling, giving rise to his nickname, but the smile has a sneaky and predatory quality. His sleek frame looks slightly more imposing due to the cut of his clothes, as well as padding in the right places.''
 ''Simon’s merchant father recently died of old age, and the four sons split the business between them. Simon was tasked with setting up a new venture in this town. It was perhaps the hardest task, but he relishes the challenge as well as the freedom to do as he pleases without interference. Besides his trading, he is also a successful moneylender. Since Christians don’t charge interest, his profit comes from impounding wares, ships, or buildings from debtors who fail to pay, and adding any expenses for storage and transport he can get away with.''
-
-|]
 ''means is hard, as he is well versed in social abilities. Contrary to what one might think, Simon did not contribute by any direct action to the demise of Charles, but he did lure Charles into borrowing money with the covenant’s shipment as collateral; this in turn drove Charles to take unnecessary risks, even''
 ''tually leading to his death. Simon does not feel responsible for Charles’ tragedy, but is quick to take advantage of it. His long term goals are simply profit and overshadowing his rivals and competitors. It is obvious that he intends to milk the covenant for all the money and magical favors he can. The important point here''
 ''is that Simon genuinely believes the shipment to be rightfully his.''
@@ -119,8 +106,6 @@
 ==The New Deal==
 
 ''A business meeting with Simon is straight to the point. He offers the exact shipment Charles failed to deliver for a quarter more than the original price. He believes he can rightfully do this due to Charles’ unpaid debt; he does not know that the covenant paid in advance. If''
-
-[|
 
 ==Court Mechanics==
 
@@ -133,22 +118,24 @@
 ''Situation Modifier: +3 for having the better Reputation''
 ''Situation Modifier: +3 if the defendant is actually innocent. Note that Simon isn’t guilty of fraud, he has a credible contract for the loan. However, if the case focuses on the ownership of the shipment, then the player characters get this bonus.''
 ''The court finds in favor of the side which rolls higher. Court officials quickly settle the issue and pass sentence on the basis of the town charter or appropriate written law. In this case it is simply a question of the ownership of the shipment; no punishment will be administered. However, a moderate sum is to be paid by both sides for the court’s time.''
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Double Scandal==
 
 ''The scandal revealed takes on a life of its own. Maria’s mother Odile lost her husband to an accident shortly after the birth of the child. The priest took the widow in as housekeeper. On closer inspection, Maria does look an awful lot more like the priest than she does her plump mother. Exposing this scandal can lead to unwanted attention on the priest, who then goes looking for those responsible. Simon is sure to try to ride out the storm as best he can by fingering the player characters as the source of the rumors. A case of meddling with the mundanes can start to form if the player characters are not very careful.''
 
-|]
+|}
 ''and when confronted with this and even shown a receipt, he is loath to admit defeat and insists that any fault lies with Charles. If the player characters give in to his demands, they will have paid two and a quarter times the original price. Even if the troupe does not use detailed rules for economy from Covenants, but runs things in a more abstract manner, this must have consequences. The storyguide should enforce the situation by ruling that the covenant lacks funds for long journeys, luxury items, hired specialists, and similar. However, doing Simon a simple, little favor would be worth a discount; see Favors later. Since this seems completely unfair, there are other solutions as well. Refusing to follow Simon’s interpretation means taking the matter to the Trading Guild. Simon is fully prepared to face this. Refer to the section Official Rulings later. The wares are in town, kept safe by Peter. Simon claims there are some challenges regarding transport. There is a shortage of ships or wagons (whichever is more relevant to the geography of the saga). Simon can deliver the goods in three months’ time; he is even so generous that he adds no extra cost for storage in the meantime. Alternatively, the characters could do him a small favor, which will free up transport to get the wares to the covenant in two weeks. See the section Favors, later.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Old Letters==
 
 ''The old letters found at the warehouse were hidden there by Charles before his last journey. Rumors of them had circulated among disgruntled employees, and the story is that Simon has them now. They are hidden in his vault, but this fact is only known for certain to Simon himself. The letters are old correspondence and contracts for deals with both sellers and producers of the rare materials which Charles dealt in, as well as with buyers (like the covenant). These are all highly useful for Simon, who wants to''
 ''take up this business in order to get hold of the supplies. They also give details of how to get in touch with the covenant. Simon will not sell the letters, nor will he let them go easily. He does remember most of the information in them, so even if they are stolen he tries to make a profit from the ventures, If the player characters become rivals, they have to compete with him. However, Simon has no particular interest in this business, so if it becomes too risky or low on profit he abandons the project.''
 
-|]
+|}
 ''Future Deals with Simon''
 ''In the future, Simon offers to continue supplying the covenant with everything Charles used to supply, and he will do his very best to procure anything else they want. However, the prices go up by a quarter compared to what the characters are used to. Simon thinks it is quite obvious that Charles sold his wares too cheaply and was forced to lower his priorities on security measures and quality of travel arrangements. He also goes on about variable delivery times and fluctuating prices. However, there are a number of factors which might help, as his customers are wizards, they might be able to provide valuable wares for him to sell or be able to help in other ways. Simon suggests that he could easily sell books on magical subjects to nobles and academics in his contact group, fetching high prices. Simon knows of magic, but he does not know that the books are useless to unGifted buyers. Alternatively, he cuts better deals if the characters do him a “little favor.”''
 
@@ -180,8 +167,8 @@
 
 ''Any deal with Simon most likely sours in time, and enterprising player characters might think seriously about setting up a merchant business of their own. Alternatively, they might refuse to deal with Simon from the start. Such a venture is''
 ''beyond the scope of this hook beyond its inspiration, and thus it will not be treated further. It requires a companion or even magus level character to invest a lot of time and money in the process. Details about running a business, maintaining it, and seeing it grow are covered in City and Guild, as are seeds for stories to run in this environment. The book also contains many new and useful Virtues and Flaws, details about guilds and trading, as well as a system to keep records of how the business is thriving by means of Labor Points. A profitable venture takes local wares to sell in a foreign place and brings home valuable goods. The initial investment''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Setting Up Business Story Seeds==
 
@@ -192,9 +179,10 @@
 ''Faux Pas''
 ''In a port far from home and in a foreign culture, a vital crewmen or trusted grog has the misfortune to anger a merchant. The merchant’s guards haul the miscreant off and imprison him, and horrible punishment awaits. But what did he do wrong? Was it a cultural or religious taboo? And how can he be saved: through diplomacy, a daring rescue raid, or the rattle of swords?''
 
-|]
+|}
 ''is needed to buy such wares, as well as purchase or hire transport and staff. A local warehouse need not be kept on hand by the merchant venturer, only being needed if a permanent local presence is desired. The most pressing need is contacts or clues about what to deal in and where to go. Charles’ letters are a good start; the magi can try to get them from Simon. An alternative is for the magi to make use of the extensive network they have in the Redcaps. It would be appropriate to pay a small fee of silver, a favor, or a pawn of vis for information. Leads can be information on a place where the sought-after items''
 ''are available as well as names of sellers. Paying still more may even get a Redcap with local connections to act as agent and liaison. The investments could end up being quite significant, but also pay very well in the long run. Details on the merchants and suppliers are up to the storyguide to define for specific sagas. Each journey and each meeting could be stories in their own right. In addition to a trade business, the covenant could start up workshops to produce some of the equipment needed, but this is a greater endeavor since it requires many different crafts. The most important items needed for labs are glassware and metal''
 ''tools, as well as consumables like alchemical compounds, metals, and minerals. The raw materials needed must also be procured in order to manufacture the supplies. As the power of the guilds does not reach far from the towns, skilled craftsmen are not hard to hire, especially if the covenant employs those tired of the rigid rules or with little possibility of financing a shop of their own. Craftsmen moving to the covenant win themselves a bad reputation in town should they ever return, or may be unsavory characters to begin with. Nearby are listed a few story seeds to get things going, but beyond this refer to City and Guild.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

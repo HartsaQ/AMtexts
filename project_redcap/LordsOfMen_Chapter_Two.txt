@@ -6,8 +6,6 @@
 ''ative gossips will come up with several alternative stories that suit the prevailing mood of the court. Characters who serve secretly can be repaid with money, with minor titles, with heiresses, and by setting up stories that justify the repayment, or the lord and his liege can just brazen out any social opprobrium and accept damaged Reputations. 1 Gratitude: In cases where the story has an outcome that favors the lord, but this was not the character’s main focus. Characters accompanying magi can often pick up a point of Gratitude as part of their reward for a story that affects the covenant. 2 Gratitude: If the story has an outcome that strongly favors the lord, and was the character’s main focus. Characters accompanying magi can occasionally earn 2 points of Gratitude by cleverly tying what the magi are doing into the needs of their lord. 5 Gratitude: If the story requires the character to complete a feat that will be widely renowned for its difficulty, primarily to serve the needs of the lord. Turning away a great army with a minor host, scaring off a dragon with a clever ruse, or rescuing the lord from the depths of his rival’s dungeon would each earn 5 points.''
 ''The Projection of Power''
 ''Great Nobles have a sphere of influence that can be divided into levels of proximity. The closest bond, which affects the fewest people, is between the lord and his retinue. These are the people he directly employs as part of his household for an extended period of time. This includes his officers, who are''
-
-[|
 ''Advancement Requirements Table''
 ''See Chapter Three: A Comparison of Titles for more on those positions mentioned here.''
 
@@ -33,8 +31,6 @@
 ''appointment as justiciar Story event, substantial baronial role, or church equivalent, plus Loyalty to the dead person and a Reputation of 5 or more.''
 ''Appointment as an officer to Greater Baron or higher requires Gratitude 10, Landed Noble (at minimum), Reputation for loyalty to the lord, vacancy in the office, and office-specific traits. Abilities below 2 assume the noble has an oversight role and is aided by a skilled deputy in the practical functions of the office. A noble wishing to skillfully administer the daily business of the office should develop an appropriate Ability score of 5. Making a vassal an officer costs the granter nothing. It does, however, cost the previous holder of the office his status and income, which may lead to a story.''
 ''In brief, to move from serf to freeman, or warrior to knight, or knight to bacheler, requires a single story in which the character provides heroic service to his lord, or the gradual accumulation of merit equivalent to this. To move through the middle ranks of knighthood requires two heroic services, five exceptional services, or ten stories with the magi that can be tied to the interest of the lord. These payments, again, require that the lord wishes to reward merit, that he has the desired reward available, and that there is no better claimant in his affinity.''
-
-|]
 ''servants trusted with a portion of the lord’s power in exchange for their loyal service. The next most significant bond is between the magnate and his tenants. These are the lords and knights who hold land from the magnate. They are more autonomous than his household, but cannot risk his displeasure save in times of crisis, when he lacks the power to punish their insolence. The magnate also has influence over people who are not dependent on him for their livelihood. Powerful magnates usually create coalitions of allies around their demesne lands. This area of influence is called his country, and the people who participate in the alliance are called the magnate’s affinity. Significant political figures are carefully watched by other members of the noble class, who do their best to avoid the anger of a magnate. A magnate’s reputation can influence the actions of his neighbors without any effort on his part.''
 
 ==Retinue==
@@ -48,8 +44,8 @@
 ''Designing a Family''
 ''Players wishing to generate a family for their characters may freely select any reasonable number of living siblings that they wish, and may select which are bastards. For a random number of legitimate siblings, roll two''
 ''dice of different colors and halve each result. One die represents the number of male children surviving to adulthood, the other the number of female. Zeros represent no surviving children of that gender. For birth order, assign each child a number and roll randomly until all have a place. Distribute the births of all characters so that they lie within a 12-year span. Male characters older than 21 and female characters older than 18 are almost certainly married or committed to the religious life. For a random number of bastards, roll a die, halve it, and then add or subtract appropriate Personality traits of the father and mother. Roll birth order for each, comparing to the above siblings, and roll odd or even to determine gender. Bastards created by a straying husband and a woman of lower sta''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Random Method of Death==
 
@@ -63,7 +59,7 @@
 ''An elderly lord keeps falling ill. His sickness is not lethal, but it takes him longer to recover from each bout. He fears that he will die in the next few years as he weakens, so he dispatches the player characters to find his heir. The boy took the cross, but has not been heard from since he left. The lord has four daughters, and the lands will be divided among them if the heir is not produced. The husband of one of these daughters sends assassins and saboteurs to shadow the player characters. They strike at the group if they sense weakness, but prefer to let them find the heir, so that they can kill him without''
 ''forewarning. Even if the heir is bought home, he still needs the protection of the player characters. After all, his brothersin-law can also claim his land if he dies in accident, or in war. And some may claim that he is not the son at all, but rather an impostor. The player characters also have a second lead to the identity of the heir’s enemy. The illnesses suffered by his father are not natural: they are poisonings, given in a slow series so as not to arouse suspicion. If the characters can catch the servant who administers the poison, they may be able to trap her handler, who can provide the name of the lord responsible.''
 
-|]
+|}
 ''tus are usually known; those from a noble woman who finds a lover are usually hidden among her legitimate children, which may be a source of the Dark Secret Flaw. To see how loyal to the head of the family each sibling is, the player rolls a stress die and then, if the child is a legitimate son, subtracts the number of older sons of military inclination. The result is used to generate a number as per the Arts table on ArM5, page 31. The maximum score is 3 and negative scores are permitted. This score is the son’s Loyal Personality Trait. A roll of zero indicates that the child is implacably disloyal to the head of the family. The subtraction of the birth number of the legitimate sons models the way that families in cultures that practice primogeniture ration economic support to favor the elder sons. It does not apply in those families that are so wealthy that they support all of their sons. Sons of “military inclination” do not include those who are dead, bastards, have joined the Church, have become magi, or are seriously disabled, as these sons do not inherit land. In powerful, wealthy families, the support required to prevent loss of loyalty may include land. Disloyal sons may remain in the service of their fathers for a long time, waiting for an opportunity to assert their indepen''
 ''dence. Sons who are not implacably disloyal may become loyal over time as their older brothers die, tying their interests closer to the head of the family’s. On the other hand, many nobles feel that heirs are more likely to be disloyal than younger sons, since they have so much to gain by the deaths of their fathers; if this is the case in your campaign, troupes should shuffle these scores between sons to create interesting supporting characters for their stories. A family may be as detailed as the player and troupe prefer. Many troupes liketo keep extended families vague, so that new characters can be added as stories require.''
 ''Inheritance''
@@ -71,15 +67,15 @@
 ''Four measures are taken to limit fratricide. First, younger brothers and nephews are given choice offices in the retinue of the family’s head. Second, the lands that a father inherited from his father are kept together as demesne, but land gained by conquest or marriage may be split away to endow younger sons. Third, if the lord gains wardship of an heiress, she will be married to a landless son to provide for him. And fourth, sections of the estate called appanages may be given to younger sons for the length of their lifetime only. These non-heritable appanage lands are frowned upon by many. They assert that appanages are not usually resumed by the primary line of a family without warfare, and so they are a way of dividing the estate in slow stages. This does occur in some families, but in the majority, war and infant mortality prevent this from occurring. The French royal family has divided its lands somewhat through appanage. In contrast, the English crown has not, since the Conquest, been able to create a cadet branch that has held its land separate for more than two generations. If there is no male heir, the lands of families in many areas are divided between the daughters of the last lord. This prevents his sons-in-law from going to war, and provides lands to the Church through daughters who have taken the veil. This is one factor that prevents nobles having contiguous territories. The average noble family fails to provide a male heir every fourth generation, so this churning of lands is common.''
 ''Marriage and Dowries''
 ''A player may select the degree of affection in the character’s marriage in consultation with the troupe. Arranged matrimony is common for nobles, but many of these become loving marriages. Adultery is considered immoral, but is relatively common among noblemen of high status. The Church has recently ruled that a marriage requires, at minimum, only a spoken intent to marry and a dowry, although it prefers the addition of a priest and two witnesses. In many areas, the father of the bride must consent to her marriage. This allows him to threaten his daughter, by saying he will approve no man other than his choice. A father does not, however, formally choose the husband of his daughters in any Christian part of Europe. The sacrament of marriage requires voluntary participation. Marriage may occur at very young ages''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Not A Bastard==
 
 ''A monk at a nearby abbey has made a final confession at unction that has alarming consequences. Before he entered the monastery, the monk was a village priest, and he performed a secret marriage for a young, smitten nobleman and his common lover. The young nobleman was later offered a rich marriage, and bigamously married the daughter of a neighboring landholder, acknowledging his children by his first marriage only as bastards. They have been the loyal servants of the “legitimate” line of the family for a generation, and fill many lesser positions in the court of the lord. Legally, the effect of this confession, which the dying man asked his confessor to make public after a little encouragement, is that the head of the “bastard” line should become the lord, dispossessing his younger half brother. Characters may earn gratitude by negotiating the continuing loyalty of the “bastard” line, by negotiating a smooth transition between the two''
 ''lineages, or by taking the winning side if the parties seek justice in the courts or on the field of battle. Characters who hush up the confession cannot earn Gratitude points, but may be given other favors. This story seed may have several different twists, as well. The current lord may be murderously dedicated to keeping the land in his branch of the family for his sons, and try to eliminate the characters who have hushed the matter up, so that the secret remains buried. He might, alternatively, be almost too good, and be glad to give up his land to his wronged brother. The brother, however has a hatred for a neighboring community, and his ascension would pitch the land into war. His player-character vassals must choose between loyalty to their somewhat naive lord and loyalty to their community, which would be ravaged if the war was lost. Finally, the confession itself may be a lie, fostered by a demon or faeries to cause strife.''
 
-|]
+|}
 ''for the heirs of greater nobles. The average groom of the lower noble class is, however, in his late twenties. This is lower if he has an opportunity to marry well and establish himself financially. Women marry slightly younger than men. Dowries are an important part of the marriage contract. A dowry is a sum of money or goods paid by the bride’s family to the bride upon marriage. Dowries are the usual way for parents to pass wealth intergenerationally to daughters. In most of Italy and much of France, a husband has the right to invest and manage his wife’s dowry, but not spend it. He may be sued for mismanagement, and must be able to give it back to the wife’s family if the couple separates. In Italy, if the wife dies before the husband, her dowry must be given to her children or be returned to her parents. In parts of France, the husband may keep much of the dowry. In England, the husband owns all of the goods of the wife, including her body. In all three places, a free woman has the right to use a portion of her husband’s property for support, if he predeceases her. For game purposes, assume this is one third of his estate, and that she likely loses this property if she remarries.''
 
 ==Military==
@@ -87,8 +83,8 @@
 ''The military accompaniment of a nobleman varies with his wealth. Simple knights are accompanied only by one or two servants. Wealthy lords have tails of between eight and ten knights during peacetime, sometimes accompanied by other mounted warriors and infantrymen. These household knights are called the lord’s mesnie. Membership in a lord’s mesnie has many advantages. The knights of a nobleman’s household are fed, clothed, billeted, and their gear is replaced if it wears out or is lost occasionally in tournaments. As the personal guards of a lord, the mesnie knights profit from their lord’s wars. If the lord is powerful, or becomes powerful, his mesnie is often rewarded with offices or lands. Many are rewarded with the lord’s largesse. It is usual for lords to stuff their mesnie with young men from their extended family, or those of their neighbors. Younger sons raised as squires in a lord’s court, for example, may lack the resources required to maintain their status. Placement in a mesnie is an excellent station for them. A mesnie filled with younger sons, who lack the prospect''
 ''of independent inheritance, is preferred by some lords, while others prefer to befriend young heirs. Mesnie knights are expected to be loyal to their lord above all else, but in practice noblemen understand that knights have common sense. During the recent civil wars in England, the mesnie of the chief marshal showed extreme loyalty by being willing to lose all of their lands and be reduced to penury to follow their lord. This behavior is considered ideal. In practice, a mesnie is expected to desert a lord whose cause is failing. When Thomas Becket, the archbishop''
 ''of Canterbury, was provoking the king, his mesnie knights deserted him and this was not considered a shameful thing for them to do, given that their lord was ensuring their annihilation. A member of the mesnie of a lord is sometimes called a bacheler, or “bachelor.” This title is used to demonstrate that the knight has a patron. This means that if the knight is abused, the dishonor can be answered with more than the force of his arm. A knight becomes a bacheler by being offered a place in a mesnie. The mesnie knights of a lord tend to have''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Size of Dowries==
 
@@ -111,7 +107,7 @@
 ''There are two powerful territories in part of the lord’s lands. He is on poor terms with the ruler of one, who feels he has some right to the lordship himself, due to a claim that one of current lord’s ancestors couldn’t inherit legally. The other territory currently has no lord, being administered by the widow of the previous holder. The greater lord has the right to select a husband for this woman, and is reserving her as a reward for service. News reaches the court that the son of the rival ruler was traveling through the country and was seduced by the widow. It''
 ''has caused a great scandal. The bishop, who is a stern man of God and not given to laxity with regard to matters of fornication, is demanding that the two marry regardless of the objections of their overlord. A character who manages to prevent the lord’s rival from consolidating this territory gains 5 Gratitude, and character who at least gets a fine out of the widow for not choosing who her lord wished earns 2. A character who pushes the marriage forward may gain Gratitude from the rival and the couple, however, and they have become a significant force in their territory.''
 
-|]
+|}
 ''the personality traits that the lord admires. In the estates of powerful nobles, there is a select group of friends of the lord, called the mesnie privée, who strongly reflect his tastes. The average mesnie is much like a street''
 ''gang. It is made up of violent and wealthy young men whose behavior is not effectively restricted by the law, and whose main business is the defense of their territory. Other flavors of mesnie are unusual, but''
 ''common enough for a character to be able to seek one that suits his strengths. Mesnies filled with poets or knights interested in theology are common, particularly in the households of landholding women and priests. A character may make an Intelligence + Intrigue roll against an Ease Factor of 6 to recall if the mesnie members of a lord with whom he is interacting have a common feature. A character may make an Intelligence + Intrigue roll against an Ease Factor of 12 to recall or discover the name of a lord who favors a particular skill. Characters with high Intrigue scores will, for a small fee or owed favor, arrange introductions between player characters and either lords whose tastes they suit, or knights who suit their taste. A carissimus is the captain of a mesnie. A character becomes a carissimus by being the best friend of the lord, or by being so skilled that he is made leader of the mesnie regardless of personality. The carissimus of a powerful lord has great social cachet, and is treated as superior to the other members of the mesnie. Its common for the carissimus of a powerful nobleman to be landed, but to either still live within the household of his lord, or to live close by so that his advice can be easily sought.''
@@ -119,15 +115,15 @@
 ==Clerical and Menial==
 
 ''The ability to read and write is common in the upper class of Mythic Europe. The work of writing letters is, however, dull and time consuming, so clerks are employed to fulfill this menial task. Most of these clerks are, as their name suggests, priests, but in some parts of Mythic Europe a professional class of estate managers has developed. These men are not clerks in the traditional sense, but they have an education and skill in improving the profit of land. In large estates this section of the household is called the chancery. The clerical and militant sections of a household have different values, but usually co-operate with some degree of tension. In smaller households, the priests are often the younger brothers of the knights. In larger households, the priests generally have a degree of financial and legal autonomy from the lord. This can create tension with his militant servants who see this as compromising the loyalty of the priests. Common menial workers will be discussed in greater length in Chapter Six: Manorial Fiefs and Chapter Seven: The Peasantry.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Choosing the Lord or Heir==
 
 ''The heirs to many major holdings are permitted to select their own mesnies, but are required to accept the priests foisted on them by their lord or the bishop. In some cases, this makes for a fiercely divided and partisan court. Each participant is required to either favor the current lord, or the heir to the lord. Generally, older characters favor the current lord, who can punish and reward them immediately. Younger courtiers tend to favor the heir, since they know that all they need to do is wait for their lord to die before reprisals against his supporters can begin. Characters serving a covenant need to play a difficult game of supporting both sides sufficiently that they do not suffer reprisal now or later. One popular strategy, if the ill will between the lord and his''
 ''son degenerates to war, is to send the head of the family to support the lord, and a younger son to support the heir. The hope is that if the heir wins and the lands of the lord are forfeit, they will be awarded to the younger son for his service. If the lord wins, then the family can just disclaim the younger son, and he can live in exile until the lord dies. Covenants with tame nobles may need to employ similar stratagems. Covenants may also be asked to shelter younger sons who were sacrificed to lost causes. These characters may have a Dark Secret Flaw, because they are wanted by the current authorities, but they also have a variant of the Heir Virtue, because if they wait sufficiently long they will have a powerful Patron.''
 
-|]
+|}
 
 ==Lords of Men Criminals==
 
@@ -152,8 +148,6 @@
 ==Offices==
 
 ''Hereditary vassals are often unreliable, and so sensible magnates invest their powers into officers. An officer is a loyal person to whom the lord lends a portion of his power. That portion of power is usually greater than what is required to fulfill the function of the office, and so offices are sought as prizes. Some noblemen circulate offices through their retainers to limit corruption, and to prevent offices from becoming hereditary. Other nobles, in times of crisis, have allowed their offices to be purchased from them with money or service, and so have lost control of their office bearers. A character who is ordered to fulfill a mundane task related to his or her employment as an officer will do so. This privilege grants no particular loyalty in the character’s underlings, although their loyalty may be selected using Virtues and Flaws at character creation. This means that underlings will not, conventionally, do things that are not in their own self-interest. They will not break the law beyond trivialities, and will not participate in combat, unless that is one of their conventional duties. Women may be officers. It is traditional for women to be the treasurers or stewards of the husband’s holdings in some areas. Senior nobles have female officers more rarely, but there is no bar on women fulfilling those offices that lack military command. In those rare cases where women hold land in their own right, it is even possible for them to lead armies themselves. This is unusual behavior, though, because even kings often leave the command of their forces to marshals schooled in war. The following offices are described as if they were part of the court of a king, but many great nobles have courts that, in a sim''
-
-[|
 
 ==Intrigue and the Art of Indirect Action==
 
@@ -196,8 +190,6 @@
 ''known only to a small number of people who are loyal to the target. Information that will cause one of the •''
 ''target’s friends to conspire toward his downfall. The intriguer forges convincing evi•''
 ''dence that makes the target appear to have a Dark Secret, like the Flaw. The target, or his friends, may determine the identity of the person who reveals the Flaw with an Intelligence + Intrigue roll of equal to the intriguer’s and prove the secret false, but it is almost impossible to tie the intriguer to the revealer of the flaw, or the forgery (Intelligence + Intrigue roll of 21 or more).''
-
-|]
 ''plified way, have vassals fulfilling parallel roles. The exact title for a role varies widely. Characters designed as officers need the Temporal Influence Virtue.''
 ''Admiral''
 ''In many courts, a permanent force of dedicated warships is a novel idea. Traditionally, kings have simply hired or requisitioned the ships required for warfare. When a king does have a personal fleet, it is maintained by an officer. This officer serves as an aide to whichever nobleman is given charge of a particular campaign in which the fleet is engaged. The term “admiral” is an Arabic one, and is not yet widely used. Lesser noblemen usually have boats, but rarely use them for naval warfare. The main role of ships in war is to transport supplies that are required to keep armies in the field or, in more limited circumstances, to transport the armies themselves. The medieval ship is equipped with certain weapons for defense against boarders, and in exceptional cases — like the Greek fire of the galleys of Byzantium — to destroy other ships. Ships are not weapons platforms capable of bombardment against coastal positions. A character who holds the office of admiral can find, provision, crew, and command vessels of war. Their number is commensurate with the power of the character’s liege. An admiral is also able to command men who make their livelihood from warships and trading, through a mixture of charm and force.''
@@ -228,15 +220,15 @@
 ==Offices Found Only Near England==
 
 ''The following offices are found only in England, Scotland, and the parts of Ireland and Wales dominated by the English. Britain is such a focus of play for Ars Magica groups, and the play potential of these offices so obvious, that they have been described here. Troupes with sagas in alternative countries can still use the ideas suggested below, because the kings of their own countries reserve the right to appoint vassals to perform any task.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Amercements: Money From The Law==
 
 ''Bribes, fines, and taxes provide much of the revenue gathered by the law officers of the kingdom, but a fourth, and lucrative, form of judicial remuneration exists. For many infractions, rather than a fine, the law provides a gruesome and disfiguring punishment. The hands of thieves, as a simple example, are cut off. Amercement occurs when, having found a person guilty, his judge allows that person to throw himself on the court’s mercy. In exchange for a fine that is negotiated with the judge, the person is permitted to avoid physical punishment. Some of the punishments are deliberately horrific to encourage amercements. King Richard’s forest law stated that any''
 ''one who killed one of his deer was to have his eyes and testicles extracted. Poachers were not, generally, blinded and castrated, since they far preferred to pay amercements. The most extreme case of amercement occurs when a felon — that is, someone who has performed a capital crime — has found sanctuary in a church and has asked to abjure the realm. In this case, the coroner takes a detailed confession from the felon, makes him take serious oaths on the Bible to not return, and then nominates a port he must walk to, to take ship from the realm. All of the felon’s personal goods are forfeit to the crown, and his land falls under royal protection for a year.''
 
-|]
+|}
 ''Coroner''
 ''Much as the sheriffs are a curb on the power of the earls, so the coroners are a curb on the power of the sheriffs. The coroner acts as an inspector who binds people for trial and deals with petty cases summarily, depriving the sheriff of some of his revenue. Each shire elects four knights for a period to serve as its coroners. Towns also have coroners, sufficient in number to deal with the royal business of the town. In areas like the Marches, where the judicial rights of the crown have been delegated, coroners are often appointed by the nobleman directly. Each coroner must be a knight with an income sufficient to support himself. The role of coroner is unpaid, and coroners who take gifts in exchange for their services are punished harshly. Those who offer bribes to the coroners are similarly punished. The coroner also acts as the king’s representative, collecting rights that would otherwise go to the sheriff. These rights include the personal goods of people who have committed suicide, the proceeds of shipwrecks, the flesh or money to the value of any whale or sturgeon caught by fishers, certain articles from buildings that burn down, objects that have killed people (deodands), and valuable objects that have been buried (treasure troves). The coroner is also the person to arrange the process by which a felon in sanctuary quits the realm, in the process confiscating all his land and goods for the king. The coroners are also the collectors of murdrum. This is the fine levied on a community where a person has been secretly killed, if the members of the community cannot prove the body to be English (or Welsh''
 ''or Irish, for coroners in the invaded parts of those countries), as opposed to Norman. The fine is high, up to 30 pounds per body, so many towns buy exemption from the law of murdrum through royal charter. They have too many merchants, pilgrims, and sailors visiting them and dying anonymously to leave this to chance.''
@@ -253,15 +245,15 @@
 ''Some kings try to minimize the role of their vassals in the politics of the kingdom. A land governed by royal officers, without a hereditary caste of landowners, would be more stable and provide greater revenue to its ruler, they assert. These attempts usually end badly. Regardless of its efficiency, the noble class exists, and when the king is weak, it has the financial and military power to crush the commoners raised as opponents by earlier, stronger kings.''
 ''Vassalage Allows Nobles to Express a Common Interest''
 ''Initially, in most kingdoms vassalage was voluntary. The great landholders of the kingdom came together and elected their kings. They did this so that a central figure of authority could lead them in war and settle their disputes. This method of select''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Avoiding the Murdrum==
 
 ''In towns where a body has been found, it is often considered best to circumvent the law of murdrum. If player characters find a body, he has the following choices: Investigate the murder, and see if the person is a Norman. This is difficult, because many Norman families are effectively English in the 13th century. Smuggle the body to a desolate place and bury it in secret. This is a crime, and characters must plan carefully to not be seen, or at least to only be seen by characters who also believe it best for the community to avoid the tax. A murder victim in an unhallowed grave may return to''
 ''haunt his killer, though, and the characters if they were complicit in hiding the crime. Smuggle the body to another community, and make sure the coroner finds it before the people in the rival village can smuggle it back over the border. This strange sport is undignified, however, and is unlikely to end in a church burial. The ghosts of bodies that have been carted backward and forward over the countryside tend to range widely and be deeply distressed, particularly if pieces of the corpse have been lost in various places.''
 
-|]
+|}
 ''ing kings is failing, though. The current king of England was still a baby when loyalists defeated the army of the barons, who had offered the throne of England to the crown prince of France, forcing them to accept primogeniture on the English throne. Philip Augustus, the current king of France, has not forced the nobles of his kingdom to appoint his son co-king, as Phillip’s father did just before dying. Again, primogeniture has been accepted as the proper way for the crown to pass to the next generation.''
 ''Vassalage Allows for Huge Transactions''
 ''Vassalage allows a noble to pay a supporter with land, while not losing some of the rights associated with that land. When the Normans invaded England and William divided its lands between his retainers, he was paying them the fee expected for their service. Mustering an army and conquering territory is best rewarded with land. This encourages the supporters of a noble to excel themselves in future conflicts.''
@@ -290,15 +282,15 @@
 
 ''An idealized version of the raising of a noble child has him separated from his mother at five, when he joins the service of the ladies of the family’s lord’s court as a page. This teaches him manners and morals. When he reaches puberty, he is taken as the servant of a particular knight, to act as his squire. The knight mentors him in the arts of war. In some areas, this knight makes him a knight in turn, but in most lands the right to make knights has been withdrawn to the barons, or even the king himself. It is believed that boys who are not fostered are coddled, so they are less-able knights. An heir is a hostage for the good conduct of his father. It is considered entirely just, by many, to kill such a child if his father rebels. However, it is considered even better to defeat the rebel, put him to death, and then claim wardship of his lands on behalf of his child. The revenues of wardship are not, generally, reserved for the child, going''
 ''straight into the treasury of the liege until the child turns 21 if male, or marries if female. If the ward’s father dies, the liege has the right to determine who the child will marry. This allows the liege to enmesh the vassal’s interests with those of other vassals he knows to be loyal, or to ensure that a problematic estate gets no larger through marriage. The betrothal of a young, landed man is a valuable commodity, for which nobles are willing to offer useful concessions in other areas of dispute. The landed sons of lesser vassals are prized husbands for the daughters of rich merchants, and the boy’s marriage may be sold through a less-than-genteel process that resembles an auction. This is technically illegal in many areas: it’s called disparagement. Disparagement also includes marriage to deformed people, or women past childbearing age. The lord’s actions are, however, only limited by the array of forces who oppose him, and in this case the heir’s immediate family are dead. Heiresses are even more valuable than heirs. Marriage to an heiress is the fastest way to progress to a higher social status. Heiresses are given to supporters as rewards for their service. They are also the usual way for a lord to grant land to his younger sons, without splitting his patrimony or taking new territory through war. The right to select husbands or brides for the children of enemies is one of the concessions usually demanded after victory in war. Even a grown heir, returned to his parents, is still valuable to his father’s lord. His friends and romantic interests are established''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Scutage Raid==
 
 ''The lord that a character is allied to lacks sufficient money to pay his scutage, but he has a plan to make good the shortage. He hates another, more-powerful lord. His plan is to place a group of bandits on the road that his enemy’s troops will follow when they are carrying their scutage to the king. His men will then take a little silver for themselves, give the rest to him, and he will use his enemy’s money to pay the scutage. This will leave the enemy embarrassed before the king, and will grant the king an excuse to chip a piece off the rival’s land. The land won’t come to the lord planning all of this, but he doesn’t mind. A light blow against his''
 ''enemy is still a blow. For this to work, the lord needs some men he can trust, like his mesnie, and somewhere for them to work. The player characters may become aware of this plot at any stage. They may hear rumors of it leaking out of the mesnie. They may find a group of bandits camped near a road who seem to have no intention of attacking passing merchants and wonder what is at the root of their strange behavior. They may intervene in the fight, or find the group switching clothes and carts on covenant land. Or they may be asked by the lord whose money was stolen to seek the thieves.''
 
-|]
+|}
 ''in the court of the lord, to whom he may look with greater loyalty than to his own parents. If a vassal rebels, an adult heir loyal to the liege is a formidable weapon, as he is able to divide the loyalty of the vassal’s supporters.''
 
 ==Wardship of Widows==
@@ -314,8 +306,8 @@
 ''An ally often has similar resources to the magnate. Alliances remain lucrative because the resources of allies cost little, and making neighbors allies allows characters focus their attention, money, and time elsewhere. Public alliances prevent unnecessary wars by making it clear that, should a particular nobleman be attacked, wider conflict is inevitable. In many lands it is illegal for senior nobles to enter into treaties with foreign powers. It is seen as threatening treason. Informal public alliances are, however, common. In many places, alliances between senior noblemen in a realm and the kings of neighboring realms are inevitable, given the entanglement of marriages that bind the upper class of Europe together. Alliances may be secret. This is common in those cases where a nobleman is being bribed by his liege’s neighbor to rebel, or to simply not send his full support in wartime. Detailed charters are still written in these cases and carried between the conspirators by messengers.''
 ''Church Allies''
 ''A powerful churchman has all of the resources of a secular ally, coupled with his''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: A Matter of Hermetic Honor==
 
@@ -325,7 +317,7 @@
 
 ''A lord is attempting to claim back the lands of an heiress, because her husband has not paid the fee that was agreed upon for her hand. The local bishop really hates this kind of behavior, although the lord has a case in the royal court and may well succeed. The characters may earn Gratitude from the bishop and couple if they can get the lord to drop his suit, or from the lord by having the couple pay the money they owe. The story can be twisted in several ways: the lord might be lying about the fee, or the couple might have already paid by doing some shameful service to which they cannot admit. For example, the wife may not be the original widow, but instead a maidservant substituted before the wedding. The husband is unwilling to admit this, because he would then lose the widow’s lands, but is unwilling to pay for a false widow.''
 
-|]
+|}
 ''powers as a lord of the Church’s land and a representative of the power of the vicar of Christ. Church allies are sought in a variety of ways. The land the Church uses may be held from a lord, or may have been granted by the lord’s family. The churchman who uses that land is expected, socially, to demonstrate gratitude for it. Noblemen also seek positions in the Church for their younger sons, and maneuver to have them appointed to vacant offices within their country. The Church is a major landholder throughout Mythic Europe. Its lands are usually carved from the wild and improved over time, so they do not owe onerous duties to higher lords. The wealth of the Church is of great aid to a lord involved in war, and it is not unusual in major wars for both sides to field knights supported by Church manors, or mercenaries paid with Church aid. Some senior officers of the Church try to force their subordinates to only provide military aid to the side that is “right,” but their prohibitions are often ineffective. The most powerful weapon in the hands of the Church is excommunication. Christians are forbidden any dealing with an excommunicant. He may not receive the services of the Church, which effectively damns him to Hell. In countries where the faith is strong and the nobleman weak, excommunication can serve as a useful excuse allowing vassals to refuse to pay their rents, and even to rebel. In lands where the king is either strong or willing to buy subservience, excommunication has little effect on the daily operation of governance. Interdiction forbids the services of the Church in all of a nobleman’s lands. In some cases this is relaxed in monasteries and nunneries, where services continue, although they are no longer heralded with bells. Interdiction is less effective than it initially appears, because saints ignore it and many of the services of the Church, like baptism and marriage, can be performed without a priest. It does prevent the forgiveness of sins and the proper burial of the dead. Churchmen who use interdiction trivially are held accountable by the representatives of the pope. A powerful churchman can lend his Reputation to a character’s cause, so that disinterested or uninformed parties follow his guidance. Note that the support of the Church does not automatically sway even pious believers if the churchman in question is unexceptional. Many nobles are cynical about the Church’s operation, if not its teaching. King John of England, for example, expressed the opinion that he was better off an excommu''
 ''nicant, because it allowed him to retain the funds of seven bishoprics and countless abbeys whose holders died and could not be replaced. Similarly, the Church’s idea that work, including warfare as the work of the knightly class, should stop for about a third of the year to celebrate the feasts of obscure saints is considered a sign of the laziness of the holders of clerical office by some.''
 
@@ -334,8 +326,8 @@
 ''A character may use his Affinity score as a bonus to social Ability rolls that are directly related to his role as a powerful and respected person within a specific region. These rolls affect only nobles, land-holding ecclesiastics, and the senior councilors of towns that do not hold charters from the king. A character has an Affinity bonus of:''
 ''+1	 For being a landholding noble of at least banneret stature. +2	 For being the officer or baron of a minor lord. +3	 For being an officer or minor baron of the king. +4	 For being a greater baron. +5	 For being the senior noble beneath the king in the region (count, earl, duke).''
 ''The bonus above is halved (round down) if the area is divided between two warring affinities. A character who neglects to support his affinity has his bonus reduced. A character supports an affinity by providing its members with offices and largesse. He must also exercise his power within that affinity, so that he is seen doing the things a regional''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seeds: Faulty Vassals==
 
@@ -346,7 +338,7 @@
 
 ''A character may roll a stress die + Intelligence + Intrigue to feel the political mood of an organization, or the nobles of a region. This roll can only be made in a place where the character is familiar with the ruling class. It represents the character taking time to learn the superficial details of the concerns of the members of the surveyed group, sufficiently well to predict their attitude to an event. For example, a character who has a vacant benefice and wishes to give it to a certain priest can judge how other nobles will feel about it using this roll.''
 
-|]
+|}
 ''leader must do, like resolving disputes and putting down brigands. A typical lord spends about 20% of his income on minor offices that favor the members of his affinity. This expense is already calculated into the surplus figures found in Chapter Three: A Comparison of Titles. A character who diverts most of his usual spending to another cause, like a crusade or a covenant, may lose standing in his affinity. Affinity leadership may be used, for example, in rolls that:''
 ''Muster an army from the local minor •''
 ''nobility. Resolve disputes between local nobles •''
@@ -384,8 +376,6 @@
 ''Acquiring Agents''
 ''Some characters have agents at character creation due to Virtues they have selected. These include Social Contacts, Mercenary Captain, Close Family Ties, or Landed Noble. Each of these virtues grants 12 points to spend on the accompanying Agent Recruitment Table for thematically appropriate agents. Each agent must cost at least 1 point, and have a Bond of +1 or more. Most agents are gained as a result of interaction during stories. Some agents are offered freely by the Storyguide as a reward for players who complete a story. Others must be recruited. Recruitment is a process of wearing down the resistance of the potential agent. The scores on the Agent Recruitment Table represent how difficult it is to draw people under the principal’s influence. The principal must first impress the potential agent, so that the potential agent knows that the offers and threats that the principal makes should be considered seriously. The principal does this by making a forceful and obvious intrusion into the po''
 
-[|
-
 ==Agent Recruitment Table==
 
 ''A potential agent always has a minimum resistance score of 1.''
@@ -414,8 +404,6 @@
 ''Useful Minor Flaw +1 Busybody, Faerie Friend, Magical Animal Companion, Mentor''
 ''Has more than three selections from this list +6''
 ''Has more than six selections from this list +9''
-
-|]
 ''tential agent’s life. This can be done by assisting the potential agent, for example by aiding him in a story. It can also be completed through less-pleasant methods, for example a criminal may be beaten and left in an alley or hung by the ankles from a tower for an hour. A character seeking to impress a potential agent must roll:''
 
 ===a Stress Die + Presence + Leadership – Social Penalty for the Gift Against an Ease Factor of 6.===
@@ -428,8 +416,6 @@
 ===Stress Die + Communication + (Charm, Intrigue, Or Leadership As Situationally Appropriate) + Bond Strength – Social Penalty of the Gift Vs. an Ease Factor On the Tasks for Agents Table===
 
 ''If the agent attempts the task, the player makes a roll using the Characteristics and Abilities of the agent against the Ease Factor of the task. Storyguides may prefer to run a brief scene in which the agent fulfills the task. The most common use for agents is as sources of information. Passive information gathering, which allows the principal to know, after a delay for communication, any specific fact, piece of gossip, or news that the agent knows or can casually ask people about, is not considered a task in these rules. It occurs at the discretion of the principal’s player and requires no roll. Actively gathering private information counts as a form of assistance, as described later, and if required more than once per season may cause the agent to lose Bond strength. Troupes may decide that certain agents, such as the professional spies employed by the Church and some merchant houses, don’t consider finding information in this way so onerous as to strain their Bond strength. Agents may also be asked for assistance: that is, they may be asked to expend their time and resources on behalf of the principal. Again, the agent must have Abilities suited''
-
-[|
 
 ==Tasks For Agents Table==
 
@@ -453,8 +439,6 @@
 ''Risk of embarrassment or reputation (stress die, 1 botch die). +1 Deliver a prostitute to a merchant.''
 ''Risk of injury or imprisonment (stress die, 3 botch dice). +3 Deliver a threat to a rich merchant.''
 ''Risk of death (stress die, 5 botch dice). +6 Deliver a threat to a count in his own palace.''
-
-|]
 ''to the task and have sufficient free time. A character with a Minor Flaw that consumes his time, or requires him to drop out of public sight, is unable to assist his principal in one quarter of those cases where his services are desirable. A character with a Major Flaw is unavailable half the time.''
 ''Maintaining Agents''
 ''Valuable agents are often the source of stories. Characters may seek to aid agents who are in legal or financial trouble. If an agent dies, the principal may seek to recover any resources loaned to the agent, and may wish to ensure that the agent has left no written record of their dealings. The strength of the bond that agents have to the principal may wane due to life events, and need reinforcement. A principal can grant favors to an agent to reinforce their bond. This requires the principal to participate in a story that substantially aids the agent. When the principal earns Adventure experience, he simultaneously earns an equal number of Agency experience points, which are spent to increase the agent’s Bond score using the same progression as Abilities (see the Advancement Table, ArM5, page 31). Money may be used to support an agent, although this is not a very effective mechanism. A character may buy 5 Agency experience points per pound, and spend them as above to increase the bond of characters. This method only works with agents who are not already prosperous, and also fails for those agents who feel that accepting money for service is a crime or sin. Some agents are maintained through selections made during the covenant creation process. These agents are outside the scope of these rules, although they may still be used to model the principal’s relationship to the agents.''
@@ -472,14 +456,14 @@
 ''prudhomme to other knights, a man must be willing to do what is necessary to win war. A prudhomme makes war using means that the Church abhors as foul, and he does it well, and with delight.''
 ''Improving Noble Reputation''
 ''A character first develops a reputation by entering feudal life. The character does this by being born into a noble family, or by becoming the vassal of a landed person. This gives the character a Noble Reputation of 1, with boring content like “son of Lord Corvinius” or “vassal of the Count of Champagne.” A character may gain a higher Reputation for doing anything so interesting that it is discussed widely by his or her peers. Being a Crusader touched by a miracle before an army of witnesses, or being caught lead''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Genetic Memory==
 
 ''For the true knight, battle is more than a vocation: the need to fight is built into the knight before he is born. In folklore, this love of battle is said to pass in the blood. The sons of knights, raised away from court, are instinctively drawn to weapons or to make their own. In Mythic Europe, supernatural forces answer human desires. Demons and faeries place the tools of violence into the infant hands of knights kept from their birthright. Such children need no instruction in arms: it passes to them in the blood. Many covenants receive unwanted children, and raise them as custodes. One of the children in the covenant seems to have a mental illness. He is driven to kill small animals, and feels no shock at dreadful injuries suffered by other people. Instead, he is fascinated by the mechanics of their damaged bodies. Characters who interview the boy note that he seems utterly unable to feel sympathy for anyone else. His only strong desire is to kill people and animals. When he is alone and out of the covenant he keeps finding weapons. These are faerie-wrought and left for him by a dark faerie that knows his secret. The boy is a knight, and the lost heir of a noble house.''
 
-|]
+|}
 ''ing a Black Mass, both add to the character’s Reputation. The flavor of the events alter the content of the Reputation. Every time a noble spends a season performing great deeds notable to other members of his class, he adds 1 Experience to his reputation. These points are spent using the Abilities table on page 31 of ArM5. Examples include:''
 ''Hosting a tournament. •''
 ''Masterminding a coronation. •''
@@ -500,8 +484,8 @@
 ''Reputation is Utterly Vital''
 ''It can be difficult for modern players, who are used to board games and computer games, to understand how significant Reputation is to Mythic European nobles. The Reputation of a rival tells a character what a noble wants, what resources he has, and, crucially, what he is willing to do if provoked. Most significant decisions during the outbreak of war are not made based on detailed consultation with powerful individuals; communication is too poor. They are based on an estimate of what others will do in response to a situation, and to a character’s actions. Mythic Europeans, unlike the characters in most board games and computer games, do not usually engage in total war to the annihilation of the foe. It’s considered honorable, skillful even, to avoid pitched battle. It’s acceptable to retreat from battle and to wait, perhaps for years, before continuing a military campaign. It is wise, and well-respected, to drive a hard bargain in peace negotiations. It is a frequent feature of medieval war that''
 ''combatants change sides as the fortunes of each cause wax or wane. A rival’s Reputation allows a character’s player to gain some sense of when that rival is willing to retreat, to negotiate an armistice, or even to change to the player character’s side. Comparing the Reputations of the major nobles on each side of a conflict doesn’t just tell a character what each group wants. It allows the character to compare the resources of the two sides, and their determination to achieve particular objectives. Knowledge of these objectives often allows the character to have some idea of where battles are likely to be fought. This understanding that war is limited, and continues only until one side can claim some approximation of what it wants, allows a character to guess when each side will want to discuss peace. Single actions can seriously affect Reputations, and this can dramatically alter the way that characters are perceived. A king who flees a battle before defeat is certain to lose much more than a single army, because other armies will not follow him into battle.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Reputation Roll Adjustments==
 
@@ -522,7 +506,7 @@
 ''+3 A widow who does not hold in her own right, or an heir of a noble.''
 ''+6 An acknowledged lover or bastard.''
 
-|]
+|}
 ''This does not reduce his Reputation score, but does alter its effect. A less decisive, but more instructive, example is found in the life of William Marshal. William Marshal’s father, John, was holding a castle for the Queen Matilda against the forces of her rival, King Stephen. John asked for a brief truce in Stephen’s siege, to consult with Matilda about conditions of surrender. Stephen agreed, provided that John gave him a suitable hostage. John offered his son William, who was three or four at the time. John promptly went back on his word. He used the truce to re-enforce the castle. Stephen had William loaded into a catapult and threatened to have him pitched over the wall unless John surrendered. John replied that he still had the hammer and anvils with which to make more and better sons. Stephen chose not to kill William, and instead played knights with him for the rest of the afternoon. As a story event, this alters the Reputation of both parties, and alters their coalitions of supporters. A character obedient to the king because of a hostage now knows that Stephen will not kill him or her, so the character is free to act as he wishes. A character considering changing sides to join Stephen now knows that offering hostages is an insignificant gesture rather than a binding pledge. An enemy facing Stephen in war might be more willing to surrender, seeing that his chances of survival are good. An enemy facing John, however, might choose to carry the fight longer, because John is not concerned by conventional morality. Killing him, or delivering him to Stephen, would earn a great deal of Gratitude. If John was a character’s prisoner then the usual ties of honor, like promises not to attempt escape or the offer of sureties, would not hold him, and only a fool would accept his promise of ransom. In neither John nor Stephen’s case does the Reputation score fall. The information provided by a successful roll against the Reputation changes, and this alters how characters, including non-player characters, act.''
 
 ==Public Power for Women==
@@ -540,14 +524,14 @@
 ''Absence''
 ''Landholding is intimately tied, in most of Mythic Europe, to providing military service. The male head of most families must be available to fight in campaigns, some of which last for months, or in civil wars, which can sputter along for years. Many nobles leave their wives as their deputies. The value of an educated wife to the military preparedness of her husband has overcome many of''
 ''the objections concerning the education of women. Women raised for this task always have Leadership and Profession: Steward scores. They also rapidly develop Ability scores that their husbands have due to the peculiarities of their holdings, allowing them to oversee work, or at least select competent overseers.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Paid Rights: A Free Virtue==
 
 ''Through much of this book, prohibitions against women are discussed. These provisions need to be enforced for them to be effective, and a woman with sufficient wealth can often buy an exclusion from enforcement, or even permission to do something that this book states elsewhere is forbidden. All a woman need do, if she wishes to be a baroness in her own right, is pay the king enough money that he allows it. All a woman need do if she wishes to hold a smaller fief in her own right, and not marry as directed, and not be in wardship, is pay a large enough fine to her guardian. This is of particular interest to player characters, because their Virtues and Flaws are balanced at the time they start play. This means that if a female character has paid a huge fine for a right before play begins, she does not necessarily have any Flaw representing that fine. She may choose a free Virtue, called Paid Rights, to note that she has paid for the right to do a certain thing that is generally forbidden for women. She may also take a Story Flaw that represents her family’s displeasure at this use of her funds, the frustrations of suitors who would take her land by marriage, or other forms of social opprobrium, although this is not required. There are, however, a few prohibitions that a woman cannot pay a fine to ignore. She cannot pay a fine to do anything that only men are permitted to do in the administrative structure of the Church. It is also difficult for a woman to gain the rank of knight. There are some examples of female knights in folklore, so it is not impossible. But a female knight needs an unusual back story and her player should consider Story Flaws.''
 
-|]
+|}
 ''In this role of deputy, the woman has the right to spend the income of the husband’s territory, and may command his vassals in many matters, including war. The role that women play in the command of troops varies between the societies of Europe. It is further influenced by the personalities, Reputations, and resources of the lady and her vassals. Women rarely lead troops into battle, but there are many references to noble women holding castles against sieges. During a siege the lady may command troops directly, or may direct their command through a skilled lieutenant. Many noblewomen maintain networks of agents completely separate from the households of their husbands. A wife may take over her husband’s network if he dies or is on campaign. This role, as correspondent and diplomat, is expected of the wives of nobility. A woman who does not socialize is considered a poor supporter of her husband’s efforts.''
 ''Inheritance''
 ''Lands inherited by women are a recognized feature of feudal life. In most kingdoms land goes to sons before daughters, but daugh''
@@ -559,14 +543,14 @@
 ''Some women claim land through invasion, allowing their retinue of knights to settle conquered areas as vassals. This requires loyal retainers and either a friendly monarch or a formidable reputation, as a mercenary captain or disloyal male vassal might try to swear fealty for the land himself. Such women rarely enter combat themselves, but since they are the leaders of their armies, it would be insubordinate to gainsay them if they wished it.''
 ''Widow’s Portion and Stewardship''
 ''In most areas a widow is permitted to retain the use of a portion of her husband’s lands for her own use after his death. As a rule of thumb, assume a widow can keep''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Note on Life Expectancy==
 
 ''A key to female landholding is the comparative longevity of women in wartime. Players in sagas designed for female nobles to play a significant role need to consciously cull male non-player characters. The rules for doing this are in the Random Method of Death insert, in the Family section earlier.''
 
-|]
+|}
 ''the profit, not income, of a third of her husband’s land until she remarries. If the woman was already landed at marriage, and has no adult sons, then she is likely to have complete ownership of her lands returned to her. Widows are extremely common in Mythic Europe. In some areas, like France, Castile, and parts of the Holy Roman Empire, a widow may act as her son’s guardian. This allows her to administer land on his behalf until he is an adult. Stewardship of lands may need to be purchased from the dead husband’s overlord. In many areas the lord has the right to''
 ''select the stewards for the heirs of vassals, and he may even arrange the marriage of the widow.''
 
@@ -574,8 +558,6 @@
 
 ''A third avenue for power, and one much enjoyed by the younger daughters of some lords, is the Church. The role of nunneries is discussed in greater detail in the supplement Realms of Power: The Divine. Nuns are considered wards of the bishop, and brides''
 ''of Christ. They cannot usually be forced to marry, and are not answerable to their fathers or other local lords. Nuns hold a great deal of land in Mythic Europe, and their estates are not divided by inheritance. Young women may take temporary vows that allow them to retreat into the life of a nun while events unfold in the secular world. It is possible for a sufficiently influential nobleman to force a woman to leave the nunnery and marry, but this is rare. It is common for the female relatives of a man who has lost a war to retreat into the nunneries, so that they are not at the mercy of the victors.''
-
-[|
 
 ==Women as Warriors==
 
@@ -591,5 +573,6 @@
 ''Petronilla is recorded as having armed herself as a knight and fought in battles during the reign of Henry II, perhaps due to the absence of her husband. A namesake was active during the wars of John against his barons, and purchased the right to select her own husband. This Petronilla used John’s desperation for money to haggle the relatively good price of 4000 marks. The latter Petronilla has only been dead eight years.''
 ''Matilda of Tuscany: Political Success''
 ''Matilda’s parents were allies of the pope, and open rebels against his rival the emperor. Matilda was trained in warfare from an early age. Her tutor was later the commander of her forces and stated he had trained her in lance, pike, axe, and sword. Matilda is widely believed to have ridden into battle from her teenage years. She was the primary proponent of the pope’s cause during the Investiture Controversy, and through a series of marriages, alliances, and wars, she all but destroyed Imperial authority in Northern Italy. Matilda led her armies through a series of wars, crushing Imperial forces so that only a few cities remained under the emperor’s banner. She spent her old age dispatching armies to besiege and capture many of these.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

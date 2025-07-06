@@ -6,14 +6,14 @@
 ==Gourneh: Village of the Tomb Robbers==
 
 ''Many people take up tomb robbing outside the guild system. Poorer people, for example, cannot usually afford the annual fee before they begin prospecting. Others simply do not wish to pay 20% of their finds to the sultan. This supports a black market, which intertwines with the legitimate trade to ship artifacts out of the country, often by sale to wealthy pilgrims. The finest tomb thieves come from a village called Gourneh, which is at Luxor. Its residents have been looting tombs since ancient times, when they were building them by day and emptying them at night. Older Gournehs train their grandchildren in excavation, tunneling, bargaining and disarming traps. They are not often skilled at combat, but can usually hire mercenaries to face guardians. When these mercenaries die, as they often do, it’s considered a sign of skill to recover their corpses, and steal back the money already paid. The families of Gourneh often infiltrate legitimate expeditions to tombs, seeking hire as laborers. A Gourneh summons his family if the tomb’s excavation is complete and it is likely to be left unattended. The Gournehs consider themselves good Muslims, and so they do not kill tomb guards, but they may distract them from their duty, or drug their food. Gourneh families are extremely loyal to each other, and to their community as a whole, and could make interesting allies for a group of magi wealthy enough to keep their minds off theft.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Yes Really: A Guild of Adventurers==
 
 ''Medieval Egyptians had an adventurers’ guild, with a guildhall and licenses. They had a library of scrolls listing sites for members to loot, and books describing the beasts and traps found within. They trained each other, exchanged rumors about local sites, and constructed parties of specialists. Players new to Ars Magica, but familiar with other fantasy games may find the Guildhall of the Seekers a familiar environment from which to explore Mythic Africa. Old hands at the game may enjoy a refreshing change of pace.''
 
-|]
+|}
 
 ==Story Seeds For Treasure Hunters==
 
@@ -57,8 +57,8 @@
 ''to the Form of Mentem. The stele takes the form of a linteled door facing west. Generally the stele is merely the representation of a door; the ghost walks through it in a spiritual rather than physical sense. In some tombs, the stelae are tiny representations, because the ghost does not need to physically enter and so their size does not matter. In the very early tombs, this is instead a narrow passage, a few inches wide, punched through the western wall of the tomb from the serdab outward. In early tombs the stele is unadorned. In slightly later tombs the name of the person appears on the stele, perhaps to prevent ghosts using each other’s stelae to steal grave goods. Over time the decoration became more complicated. Late stelae include the name and biography of the dead person, and hints for them about how to live in the afterlife. These hints sometimes include spells, or, at least, incantations that the creatures of the Field of Reeds accept as binding them to act in certain ways.''
 ''Statues''
 ''Egyptian ghosts in the mundane world prefer to be incarnate. While material they''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Guardians of Graveyards==
 
@@ -73,7 +73,7 @@
 
 ''Sagas vary in their tone, so this chapter presents a guide for the construction of simple, realistic tombs, and for the labyrinthine necropolises of treasure seeker manuals. Troupes may include tombs of various types within a single saga. Assume the simpler tombs were constructed earlier, when the technologies of tomb defense were less developed, as the resting places of less wealthy individuals, or after Egypt had suffered a long drought.''
 
-|]
+|}
 
 ==Guardians of Graveyards (Cont’d)==
 
@@ -114,8 +114,8 @@
 ==Treasures==
 
 ''In Mythic Europe, there are two contradictory sets of beliefs about tomb contents, and each is attested with evidence by seekers, allowing troupes to vary tomb contents between stories. The first is that tombs are filled with gold, jewels, and valuable medicines. Other seekers suggest that this is true only of early tombs, and that later people merely buried representations of treasures. These, although valuable, are not worth as much as might be imagined by a tomb’s excavator. An early pharaoh might be buried with a throne of solid gold, but his later successor might have''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Carving Equipment==
 
@@ -134,7 +134,7 @@
 
 ''There is a secret valley, filled with rock-cut tombs, which lies close to Alexandria. To hide the location of these tombs, the mortuary chapel of each was placed near the banks of the Nile. The ghosts of the dead regularly ride to their chapels, to gather supplies from among the offerings, or to scrounge from the garbage in the street if their chapels are destroyed or unattended. Characters with Second Sight may be able to follow the ghosts back to their tombs, but if they are spotted while doing this, the ghosts will attack – their spectral weapons entirely solid on the Paths of the Dead.''
 
-|]
+|}
 ''been buried with a wooden chair covered with sheets of gold leaf, since the representation becomes the real thing in the Field of Reeds. Three classes of treasures are never replaced with representations, and so can dependably be found in many tombs: writing, personal possessions, and items that preserve the body. Mystical writings are representations of greater things, such as invocations to gods. They cannot be replaced with simplified versions. When the ba needs to invoke the protection of spirits against the Great Serpents of the Hours, it needs the actual words, not a picture of a scroll. Imhotep, who invented medicine and architecture, took every scroll he owned to the grave, and his grave has never been found. Favorite items are buried with their owners. A nobleman who wants his favorite chariot in the Afterlife is buried with that exact chariot, not a generic model of a chariot crafted by''
 ''his goldsmith. This extends to many personal items but, oddly, no actual crown of Egypt has ever been found, in any tomb. Its appearance is known only from paintings and statues. The items which protect the body need to be real: they can’t be representations. Gold doesn’t rust, so it is used to make some of the coffins which contain the mummy. The talismans that protect the mummy are made of valuable materials and create mystical wards. The medicines that preserve the flesh are extractable and reusable. Extra medicine is often stored in tombs, presumably so that the ka can perform maintenance on the body.''
 
@@ -154,14 +154,14 @@
 ==Mechanical Traps==
 
 ''Ancient mechanisms are made with exceptional cunning and skill. Treasure-seeker manuals often discuss the cunning devices used by the ancients, and give instructions for making these machines safe. Ancient devices made of bronze and clockwork power traps that reload projectiles, reset between victims, move large objects, and respond to pressure plates or hidden levers. These mechanisms may be hidden in the walls, floors or ceilings of tombs, or may be contained in an ark or statue in the room where the trap lies. Destruction of the mechanism can cause a trap to seize in its current position. Spells that detect metal can help pinpoint the mechanism’s location, allowing magi, or strong characters with mining tools, to break through the intervening stonework. Traps serve a different purpose in Egyptian tombs stories than in many other role-playing games: they give player characters a chance to show how skilled and powerful they are, by overcoming the obstacle in interesting ways. As an example, a maga and her retinue are proceeding cautiously along a passageway in a tomb. The lead character, a grog, breaks through a layer of plaster over a pit, and begins to fall. Each player needs to frame an interesting thing for his character to do, and each rolls only for that thing. The player with the grog says “I notice the sound of the plaster cracking and then vault clear to the other side” or “I hear the sound and smash the tip of my sword so hard into the wall that I can hang off it” or “I do a flip backward so I can grab the solid edge of the pit, that I just stepped off onto the weak area.” The player of the companion standing behind the grog says “I throw myself flat on the ground and reach out for him if he falls. I hold him up until other people can haul us in. My heavy armor should stop him pulling me into the pit with him, right?” or “I run at him and catch him in a tackle which sends us both sprawling to the other side of the pit” or “I grab him and make sure I’m under him when we hit bottom, because I’m really tough, and he’s a weedy little guy.” In each of these cases, the player suggests to the troupe what the appropriate roll is and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Field of Reeds==
 
 ''The Field of Reeds is located within the Magic Realm. Described by sources as the ka of the Nile Delta, the Field of Reeds consists of numerous islands, each one the paradise of a different ka. These kau rule as they did in life, attended by the servants who accompanied them into death. Each island has a stele, a copy of the one in the ghost’s tomb. A ghost could travel to a different island and use the stele there to enter the mundane world at a different tomb, but this is considered a gross breach of etiquette. The Field of Reeds is ruled by Wesir (the Egyptian name for Osiris), a powerful Daimon who is a powerful ally of the Black. It was his ordeals that provided the formula for other ka to follow, and he is revered as the originator of this form of immortality, and possibly the first human ever to undergo apotheosis and become a Daimon. He has made the path available to others in the hope of recruiting more friends of the Black. Euhemerized stories of Wesir may have been the origin of the Osiris myth, or else the stories of that Faerie god may have instead inspired Wesir; none really know which came first. Either way, there is a copy of the Field of Reeds in the Faerie Realm ruled over by the god Osiris and populated by faerie ka.''
 
-|]
+|}
 ''if the troupe finds it plausible, the storyguide provides an Ease Factor for the roll. Each trap is assigned a base Ease Factor, indicating the complexity of its construction. The storyguide should feel free to adjust these base Ease Factors by three, six, or more points either way for each character in turn, depending upon the difficulty of the attempted action. The table on page 7 of Ars Magica Fifth Edition can be used as a guide. A maga using magic to respond to a trap must use a Fast-Cast spell; the success of her actions is not affected by the trap’s Ease Factor but adjudicated normally. One magus might turn the falling grog into a bat so that he flies free, another may fill the pit with human hair, to provide a cushioning surface, and so on. The actions are resolved in order of Quickness, but with the character actually in danger always being treated as fastest, and the trap always going last. Quick characters can therefore affect or even interfere with the actions of slower ones. If a conflict between character actions takes place, then an Action Priority Roll might be appropriate (each character rolls Quickness + an appropriate Ability; the one with the highest total acts first; fast-casting magi use Finesse in this roll). Those characters affected by the trap who failed their rolls and were not assisted by the other characters then suffer the consequences of the trap’s mechanism. Examples of traps and their Ease Factors are given later in this section.''
 
 ==Puzzles==
@@ -172,14 +172,14 @@
 ==Magical Defenses==
 
 ''The combat magic of the ancient Egyptians was poor. Moses and the finest magi of the court of the richest of the pharaohs performed a sort of primitive certamen, which is recorded in the Bible. Each performed their mostly flashy Ritual spells, and challenged the rival to copy the effects. The most powerful spell effects created by the Egyptians are weak by the standards of the spirit masters of modern Arabia, and seem simple enough, in many cases, for Hermetic apprentices to replicate them. There are rare exceptions, a scant handful for the thousands of years of Egyptian power. In particular, their ability to create lasting enchantments in the form of curses, talismans, and wards was exceptional in some cases. These were created using a lost form of magical craftwork described in Chapter 5, and can be studied as a source of insight by characters wishing to restore or adapt this art. It is unusual for the magical defenses of tombs to have been entrusted to one-use objects such as seals or temporary amulets. For the most part, Egyptian curses, talismans, and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Minigame==
 
 ''If you think your troupe is interested, have them play a historical game to pass through a puzzle room. If they like combat, have the player characters take a place on the board and fight the pieces they take, or that attempt to take them. If the player characters use magic, let them cheat.''
 
-|]
+|}
 ''wards should be designed using the rules for Hermetic magic items, but some might be more suited to Learned Magic (in Hedge Magic Revised Edition) with the provisos noted in the next chapter regarding magical craftwork. Egyptian enchanters always used opulent materials. This countered their weaker ability to force magic into material objects.''
 ''Curses''
 ''Curses are a special variety of tomb enchantments (see later). Most tombs have at least one curse, and some may have many multiclause maledictions that promise a number of horrible fates to anyone who defiles the tomb. These curses were designed and enchanted by lector priests using long-forgotten magic. A curse is written, usually in hieroglyphs but sometimes in Demotic, in a prominent location. All curses have two parts: a condition and one or more excoriations. The condition lists the circumstances by which targets will incur the curse. Typical formulae include the following:''
@@ -212,14 +212,14 @@
 ''Realms of Power: Magic contains detailed rules to create a wide variety of magical creatures. Rather than repeat them here, this section includes kits which you can use to alter other characters, for example those from ArM5, to make them suit Egyptian stories. Muslim writers in period saw the ka as a ghostly double of the body. In play, this means that characters encounter particularly resilient, well-resourced, and dangerous ghosts who have easy access to the Magic Realm, quite unlike the specters, apparitions, or shades of the West. Ka look slightly different from medieval European ghosts: they are transparent but fully colored, with increasing opacity as their Might increases.''
 ''Quick Ghost Conversion Notes''
 ''Take a mortal character, such as a grog or companion described in ArM5. Give the character a Magic Might score of between 5 and 25, depending on how challenging you want the encounter to be, and how many times you want the spirit to be able to use its powers. All Characteristics remain the same as in life, although the character cannot fail Fatigue rolls now.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Possess Statue (Minor Power)==
 
 ''3 points, Init Qik–3, Terram or Herbam This power allows a ghost to step into a statue and animate it at Range: Personal; it cannot animate multiple statues with this power simultaneously. The Improved Powers Magic Quality is often taken to reduce Might cost to zero. Note that the physical attacks of an animated statue have to Penetrate the Magic Resistance of any opponents struck. Wooden Statue: ReHe 25 (Base 10, +2 Sun, +1 constant effect) Stone Statue: ReTe 25 (Base 3, +2 Sun, +1 affect stone, +1 constant effect, +2 intricacy) Metal Statue: ReTe 30 (Base 3, +2 Sun, +2 affect metal, +1 constant effect, +2 intricacy)''
 
-|]
+|}
 ''Remove all of the Virtues or Flaws based on social role, or the character’s body. It does not matter if the Virtues and Flaws no longer balance. Most will take on the Magical Monster Major Social Status Flaw, although some could be Magical Friends (a Minor Social Status Flaw). Add the Magic Spirit Virtue. This represents the character’s spiritual nature and powers, ability to sense strong spiritual forces, and the eerie, magical air that makes Gifted magi untrustworthy. All Abilities remain the same, although many will be practically useless. Ghosts are intangible and cannot be harmed by material things like weapons or fire. Against magic, its Protection and Soak totals work normally. Ghosts are vulnerable to Mentem magic. Add a Personality Trait of +3 tied to some piece of mortal business, like “defending the tomb.” Many ancient Egyptian ghosts can possess statues of themselves (see insert). If a ghost possesses a statue, see the details later for Animated Statue. Few Egyptian ghosts have the ability to take material form (through the Donning the Corporeal Veil Power, which costs 5 points and allows the ghost to take material form until it releases its materiality; the ghost’s personal equipment also becomes material). Add any new power you like. Base it on Hermetic spells, and assume it costs 1 temporary Might per 5 spell levels to use, or 1 Might per 10 levels for powers which only affect the ghost. The power has an Initiative of (Qik – magnitude/2). Add vis, usually Mentem, equal to the Might score divided by 5.''
 ''Quick Animated Statue Conversion Notes''
 ''Take a mortal character, like a grog or companion described in ArM5. Give the statue a Magic Might score of between 5 and 25, depending on how challenging you want the encounter to be, and how many times you want the spirit to be able to use its powers. A ghost possessing a statue has the same Might as when disembodied. All Characteristics remain the same as in life, although the character cannot fail Fatigue rolls now. It is rare for Egyptian ghosts to be able''
@@ -231,14 +231,14 @@
 ''The ghosts of Egyptian royalty differ from each other due to the different origins and life experiences of, and death rituals performed on each ghost.''
 ''Blood Virtues''
 ''Many different families ruled Egypt over the centuries, and these had various''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New Virtue: Blood of the Old Gods==
 
 ''Major or Minor Supernatural Virtue As a Minor Virtue, this is a variety of Faerie Blood. This Virtue also grants the character a Sympathy Trait of +1. As a Major Virtue, this is a variety of Strong Faerie Blood with the same benefit. A Sympathy Trait can replace the character’s speciality on any applicable Ability roll, but doing so always makes the roll a stress roll. Any botches when using Sympathy Traits give the character Warping Points equal to the number of zeros. A Sympathy Trait can be raised with experience as if it were an Ability, and has a maximum value equal to the character’s Warping Score +1 (for the Minor Virtue) or +2 (for the Major Virtue). At character creation, the player can choose a Warping Score for her character and raise the Sympathy Trait up to its maximum using experience points acquired from her age. Scions of pharaohs most often had a Sympathy Trait of Royalty. Other dynasties had links to specific gods, and had Sympathy Traits applicable to their purview (warfare, scholarship, healing, and so forth).''
 
-|]
+|}
 ''relationships with the Realms expressed in their blood. The commonest story is that the Faerie god to which the dynasty was dedicated invested the body of the pharaoh while he conceived his heir, which grants the child the Blood of the Old Gods Virtue. Anyone descended from a pharaoh who was not, at that time, filled with the spirit of a Faerie god instead gained a Minor version of the Virtue. The last dynasty of all, the Ptolomies, constructed their own god instead, named Serapis, who was a supernatural ally but not an ancestor.''
 ''Powers of the Pharaoh in Life''
 ''A pharaoh whose rule was just by Egyptian standards kept the world in balance so that the floods came, food was plentiful, and people lived well. A pharaoh might make people richer or poorer simply by ruling that it should be so. All pharaohs were thought able to command spirits, but in many cases this was power at one remove: the pharaoh asked his divine patron to punish the spirit if it did not obey. As wealthy men of great influence, many pharaohs were able to fulfill Mystery quests, and had access to unique sources of training. Any particular pharaonic ghost might have an odd power based on a life experience. Sometimes biographers like Herodotus indicate what these powers were. For example, one of the pharaohs apparently had the ability to slow the passage of time, so that those in his company aged less quickly than other people, and spells did not reach their Duration at the normal rate.''
@@ -252,15 +252,15 @@
 ''There are two tombs, in particular, that Hermetic wizards wish to find. They are arguably the first and last of the distinctive, Egyptian kind.''
 ''The Tomb of Imhotep, probably at Saqqara''
 ''Imhotep was a priest of Thoth, who lived in the reign of Djoser, the first king to have a pyramid. Imhotep himself is said to have invented architecture, but what this means is that he developed many of the features now common in architecture, to allow such a large building to be constructed. The column and lintel, for example, are based on his designs. His healers were trained''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example Akh: Sethos==
 
 ''Sethos was an early king of Egypt. He antagonized the warrior caste by taking the crop lands they had been given as personal demesnes away from them. When his kingdom was invaded, the warriors refused to muster, so Sethos led an army of peasants and shopkeepers against his enemies. The gods favored him, and the night before the battle a plague of mice poured silently through the camp of the sleeping enemy, eating their bowstrings and provisions, and fouling or spilling their water. Sethos defeated the enemy, and then had statues of himself raised. These statues show him holding a mouse, and are inscribed: “Let him''
 ''who looks on me learn to fear the gods.” His life is described in Herodotus’s History. In Mythic Europe, Sethos travels and studies as suits his whim. He knows full well that the days of Pharaonic Egypt have passed, but he maintains the dignity and virtue of his former status. He often pretends to be a Coptic priest. He is a foe of those who despoil monuments other than tombs, but prefers not to fight his enemies directly. He is subtle, skilled at spying, absolutely convincing, has the patience of an immortal, and is able to manufacture natural-seeming obstacles and problems for his foes. He is also interesting as an ally or parent.''
 
-|]
+|}
 
 ==Example Akh: Sethos (Cont’d)==
 
@@ -273,14 +273,14 @@
 ''these aliases will yield clues to the tomb. Others dispute this identification.''
 ''The Tomb of Marcus Antonius, probably near Alexandria''
 ''The final queen of Egypt was Cleopatra. Players are likely only familiar with the Roman accounts of this ruler. Mythic Egyptians believe these were lies spread by her political and military foes. Their own tales suggest she was a just and wise ruler, that she held salons for the wisest men in her country and was acknowledged their peer in debates, and that she wrote a book of alchemy which collated much of the wisdom of her predecessors, and included her own contributions to the art of medicine. Her body was stolen, and placed in her tomb, but none can find it. Cleopatra had at least two tombs prepared, but none of them have ever been found. Her final resting place is described later in this chapter, but her intended tomb was far closer to Alexandria. Her wish was to be buried next to her Roman lover Marcus Antonius, a plan which was forestalled by the Roman invasion of Egypt and her subsequent suicide in captivity. The Romans never could find Antonius’s Tomb, despite concerted searching and the assistance of thousands of witnesses who watched his funeral procession, or helped construct the building. Cleopatra’s resting places are of interest to Hermetic wizards for several reasons. Cleopatra’s Book is reputed to be the apex of the alchemical arts, and no Egyptian library acknowledges owning a copy. Further, some magi suggest that the fire at the Great Library was used as cover to hide many books from the invading Romans. This includes not only the books of the Great Library of Alexandria, a priceless treasure in themselves, but also the 200,000 books of its rival, the Library of Pergamon. Antonius took these by force and gave them to his beloved as a wedding present. Cleopatra is the youngest possible Akh, and so might not have completed the process. Her ka may seek Hermetic aid, removing obstacles to her ba’s spiritual journey, which makes her well disposed toward magi. If she is available, she’s a remarkably skilled communicator, and this may make her a peerless teacher or Egyptian mysteries. Her death companion, Marcus Antonius, is the only Roman known to have undergone Egyptian burial rituals. He was familiar with the Order of Mercury while''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Tombs As Lairs for the Cult of Dedun==
 
 ''A tomb may become a significant part of a saga containing an important presence of the Cult of Dedun (see later). Temple Priests and Undying Ones use ancient tombs as both homes and temples to Dedun. These tombs are the font of their power, acquired during their Initiation into the rank of temple priest, and the home to their ghoulish court. On holy days once per month, adherents gather at the temple to offer worship to the god of the dead. You may wish to detail a tomb’s resources when a player character first embarks on Initiation to the rank of temple priest; alternatively, an Undying One could be a villain or important ally of the player characters, and determining the game statistics for the tomb are a useful way of knowing what resources he may draw upon.''
 
-|]
+|}
 ''acting as governor of Italy on behalf of Julius Cesar, and so may have some useful insights into their magic. Caesarion, the son of Cleopatra and Antonius, might be the progenitor of a secret society centered around Egyptian rites.''
 
 ==Designing Tombs and Mortuaries==
@@ -298,8 +298,8 @@
 ''Tombs may have the following resources. Unless stated otherwise, the costs can be found in Chapter 6 of Ars Magica Fifth Edition.''
 ''Curses''
 ''Curses are a special variety of enchantment created by lector priests. Most tombs have at least one curse, and some may have many multi-clause maledictions that promise a number of horrible fates to anyone who defiles the tomb. These were created using magical craftwork described in Chapter 5. A curse’s excoriation should be described as a Hermetic enchantment within the following guidelines. Most curses are Range: Touch and Target: Room. Each curse is triggered when the condition is broken. The condition can describe situations that could not normally be triggers of effects in Hermetic devices without further magic; for example, the trigger could require the target to be ritually pure, but the enchantment need not have an effect that determines purity. An excoriation is also triggered if someone tries to destroy the text of the curse. Once a curse has been triggered a number of times equal to its uses per day, the text can be safely destroyed to prevent anyone else from being affected. Most curses are designed with just one use per day. Excoriations may be designed with Penetration Totals in the usual manner for enchantments, but this is rare — these were intended to protect against mundane rather than magical intruders. Some excoriations cannot be duplicated with Hermetic Magic, and these should instead be treated as the Greater or Lesser Malediction Flaw. Curses of this variety have a Special Duration (which adds no magnitudes to the level):''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example Wards==
 
@@ -312,7 +312,7 @@
 ''A Sovereign Ward Against Robbers''
 ''Pen 0, constant effect Rego Corpus 49 The structure targeted by this effect is warded against human beings. They find it nigh-impossible to enter, and cannot damage it from outside. The ward has an Ease Factor of 19 to overcome; for example, a character might try to force her way through the ward, or throw a stone to dislodge the amulet suspected of producing the effect. (Base 15, +1 Touch, +2 Sun, +3 Structure; +3 environmental trigger, +1 2/day)''
 
-|]
+|}
 ''they are permanent but may be dispelled with appropriate magic. Maledictions can be of any appropriate Technique or Form, and have a base level of 10 for a Lesser Malediction, and level 30 for a Greater Malediction. To add insult to injury, those under a Malediction suffer Warping. Not all curses are actually effective. It costs no Build Points to have a dire curse written on one’s tomb that has no magical force. Furthermore, some individuals (or their duplicitous architects) may have saved costs by having a lector''
 ''priest write a false curse instead of a real one (see Hollow Promise of a Swift Death in the nearby insert). A curse costs two Build Points for every five levels of effects.''
 ''Enchanted Items (Talismans and Wards)''
@@ -349,8 +349,8 @@
 ''A Temple Priest of Dedun or an Undying One who lives in a tomb may have altar priests or adherents of the cult at their beck and call. These cost build points just like any other specialist. However, a tomb can have more unusual inhabitants, such as walking cadavers as tomb guardians, or the ghosts of long-dead viziers who offer advice from beyond the grave. If these characters are not intended to be player characters, then they should be purchased as specialists. Tomb guardians usually cost Build Points equal to their highest Martial Ability or Brawl, as applicable. Ghosts can be specialists or teachers, and cost Build Points appropriately.''
 ''Traps''
 ''A tomb is often built with a variety of traps intended to guard the contents against interlopers and robbers. A tomb may also''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example Talismans==
 
@@ -366,7 +366,7 @@
 ''On Lowering the Waters''
 ''Rego Aquam 28 (12 Build Points) Pen 16, 1/day R: Touch, D: Sun, T: Ind Many tombs contain magical water which acts as a living thing, straining to drown intruders. This unnatural liquid is generated by a talisman, but is effectively a water elemental, as described in Realms of Power: Magic. This talisman controls a Might 15 water elemental using the guideline given in Chapter 8 of that book; when triggered, it commands the dormant elemental to attack. The talisman has an Ease Factor of 12 if characters attempt to avoid its effects; for example, trick the elemental into accepting a new command. (Base 5, +1 Touch, +2 Sun; +8 Penetration 16)''
 
-|]
+|}
 
 ==Example Traps==
 
@@ -414,8 +414,8 @@
 ''Treasure hunters have sought high and low for the tomb and many plundered pyramids have been claimed to have belonged to the doomed queen. Cleopatra famously surrounded herself with fabulous wealth, and her court was a place of magic and wonder; these riches were never recovered by the conquering Romans, and are believed to have been buried with her. In reality, everyone has been looking in the wrong place; Cleopatra was interred, not in a pyramid, but in a walled compound at Taposiris Magna, an isolated bay west of Alexandria and far from any trade routes. An enchantment keeps the tomb from being discovered by the casual visitor (see later). There are only a handful of individuals who know of its location; one is a jinniyya called Nahrou, whose Magic Might protected her from the concealing enchantment.''
 ''The Garden''
 ''Fifteen foot high walls enclose an opulent temple to Isis. An impressive pylon gate is the only entrance; it is decorated with images of Isis, along with cows, cats, lionesses, vultures, and hippopotamuses, representing the Egyptian goddesses. Within the walls is a lush garden of both edible and medicinal herbs. Dates and bananas grow in the garden along with smaller amounts of other fruits;''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Means of Avoiding Traps==
 
@@ -426,7 +426,7 @@
 ''Evading Traps''
 ''Characters using the optional Combat rules in the Lords of Men supplement may prefer to use the Evasion Combat Statistic, described on page 125, to determine if characters dodge attacks from traps. To do this, assume the trap’s Attack total is stress die + Intelligence of the trap setter + Profession of the trap setter. Traps that involve weapon-like components also add the Attack modifier of a similar weapon.''
 
-|]
+|}
 ''these, and the insects they attract, are enough to feed several families of mongooses that call the regio home. Over the centuries, Warping has caused occasional members of these families to become Magic Animals, and these now rule the rival clans like royals. The pool in the center of the temple complex is the entrance to a Faerie regio of level 3. Once a year on the eve of the anniversary of Cleopatra’s death (12 August), hordes of asps emerge from the regio entrance and spill forth into the temple grounds, each with a small Faerie Might. These do battle with the families of mongooses which dwell within the compound. The bodies that are left behind provide the temple with one of its sources of vis, but these are usually consumed rapidly by the few magical mongooses for the purpose of Transformation. Anyone intending to remain here for any time might seek a permanent solution to the annual inundation by venomous snakes; however, the regio can only easily be accessed on that one night every year. At other times, a Regio Sight roll against an Ease Factor of 23 is required (ArM5, page 189). What is inside the regio is left for the storyguide to develop.''
 ''The Temple''
 ''The temple stands opposite the entrance across a lush garden. Its roof is supported by columns carved to resemble handmaidens. There are four different faces represented on these statues, each one repeated many times. Inside, the temple walls are covered with inscriptions in Koine Greek and Ancient Egyptian detailing spells of midwifery and healing. Some of these inscriptions can be studied as texts on the Arts of Learned Magicians; they are not precisely the same Arts, and the Quality given is that available to a 13th century magician. The temple contains two mighty statues of the lioness-headed goddess Sekhmet, bows drawn. If the name of Cleopatra is not intoned the statues shoot upon anyone in the temple, loosing a fiery arrow each per round. Four handmaidens, all dedicated priestesses of Isis, sacrificed their lives to guard Cleopatra in the afterlife. Their ghosts haunt the temple, and their faces adorn its statues. Each one was a powerful sorceress in life and retains some of this power after death. One is skilled in spells of healing, another in lifeshriveling and destructive magic. The third has the power of transmutation and transforma''
@@ -439,5 +439,6 @@
 ''Curses: Those Romans who who shall seek to disturb my rest and defame my name, they shall be inflicted by boils. They shall sicken and medicine will give them no succor. They shall have no issue. A combination curse with three excoriations. It is triggered by anyone speaking Latin in the burial chamber. The curse of boils leaves its victims hideous but causes no actual harm (PeCo 20 effect; Pen 0, 1/day; Base 5, +1 Touch, +2 Room); The sickening effect is a Lesser Malediction equivalent to the Fragile Constitution Flaw (PeCo 25); the curse of barrenness is the same as that mentioned earlier (PeCo 35) (32 Build Points) As for anyone who shall break this seal, I shall cast the fear of myself into him. See earlier for details. This curse is written on a clay seal on the queen’s treasure chamber (6 Build Points)''
 ''Enchantments: The Shrouded Oasis: The walls of the compound of Cleopatra’s tomb are enchanted with a ward identical to The Shrouded Glen (ArM5, page 152). Anyone researching a breakthrough in the enchantment of Hermetic Ritual effects can derive insight from this enchantment. This effect has a zero Penetration, so it is only good for repelling mundane treasure hunters. Non Hermetic effect (50 levels) (Ease Factor 19, 20 Build Points) Two Statues of Sekhmet (enchantment as per Destroying Uraeuses, earlier) (Ease Factor 10, 16 Build Points) The Djet: This twenty-foot-tall statue of the god Osiris is made of thirty individual pieces of green stone that cunningly fit together. If burning incense is placed within its hand, it will answer one question posed by the operator. The statue will only ever answer one question from each individual, and the questioner must be personally curious about the answer — it will not answer a question posed on behalf of another. Its knowledge seems unrivaled, but it only actually knows the answer if it is known to someone who is dead (this excludes all questions about the future), answering randomly if it does not know the answer. The statue is currently disassembled and scattered throughout the complex and it takes a certain amount of skill to fit it back together; furthermore, one piece is missing, and its whereabouts unknown. Instructions on its use are helpfully inscribed — in hieroglyphs — on the statue itself. Non Hermetic effect (100 levels) (40 Build Points)''
 ''Traps: A section of the corridor is closed off by two heavy stone doors. When opened, there is a faint floral smell, and dust can be seen whirling in eddies in the shafts of sunlight let in from above. Within moments, the pharmaceutical powder reaches critical levels, and everyone still within the room must make a Stamina roll against an Ease Factor of 9 or collapse into unconsciousness. The amount by which the roll was failed determines the number of minutes the character is unconscious. A horde of mongooses swarms through the ground level holes, and start to consume the bodies of the fallen; they are immune to the poison. The swarm initially a Light Wound to each person; this is increased in severity one step every two minutes. (Ease Factor 9, 12 Build Points) There is a covered pit trap just before the door to the burial chamber. However, this trap is initially safe to walk on (and does not even appear to be a trap), but doing so sets a mechanism into motion that releases the pin holding the pivot of the trap’s cover in place. This arming process takes about a minute from the point that the trap is triggered. Characters returning from the burial chamber are liable to fall for the trap, especially since they will not be expecting a trap here, having not encountered it on the way in. A character might hear the mechanism arming itself, requiring a Perception + Awareness roll, although this is very quiet and adds 3 to the base Ease Factor. Leaping off the pit cover as it pivots requires a Dexterity + Athletics – Encumbrance roll, if the character is moving cautiously on the return journey. Those fleeing from the fear curse in the burial chamber might find this much harder to avoid. The pit is twelve feet deep and lined with spikes; they must Soak +12 damage from the fall and +8 damage from each of up to four spikes. (roll a simple die: 1 – 2 = miss all spikes; 3 – 4 = penetrated by 1 spike; 5 – 6 = penetrated by 2 spikes; 7 – 8 = penetrated by 3 spikes; 9 – 10 = penetrated by 4 spikes). (treated as two traps; one inflicts a serious injury, the other a minor injury; Ease Factor 12, 21 Build Points) The treasure chamber is boobytrapped; anyone stepping on the threshold will cause several tons of sand to flood in from the roof, burying the treasure. The purpose of the trap is to leave the treasure inaccessible and the flow of sand is fast, but can be outrun by those who have not yet entered the treasure chamber. A Perception + Awareness roll is needed to spot the trigger. (Ease Factor 15, 12 Build Points)''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

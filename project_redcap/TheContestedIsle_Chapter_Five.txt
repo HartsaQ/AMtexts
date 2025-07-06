@@ -49,8 +49,8 @@
 ''The western part of Bréifne, ruled by the Uí Ruairc family, is a dramatic wooded land ringed with high mountains. These woodlands provide good hunting and are filled with wild pigs, boar, deer, and all manner of game birds. Wolves are also common, and eagles are often seen overhead.''
 ''The Glencar Waterfall''
 ''The 50-foot tall Glencar Waterfall in Bréifne’s north-west flows with clean fresh water all year round. The beauty of the waterfall is at the heart of a strong Magic aura. Its waters are said to cleanse and heal wounds, effects resulting from the spell-like vis (Realms of Power: Magic, page 121) found within the waterfall.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Diocese of Triburnia==
 
@@ -62,7 +62,7 @@
 ''A Bréifne farmer seeks out a druid to ask for help, offering one seventh of his harvest for the next seven years. A witch, protected by an Uí Raghallaigh noble, has entranced the farmer’s son''
 ''and will not release him from her spell. Traveling east, the farmer finds magi of the Order, but do the magi feel able to intervene or must they work through agents?''
 
-|]
+|}
 ''The Black Pig’s Dyke''
 ''The Black Pig’s Dyke runs north to south through West Bréifne before running west to east and then rising south to north through East Bréifne. This Faerie trod is in a poor condition and is not currently continuous. The Connachta druids want to keep it that way; if it were replowed it would form a boundary around Ulster, which would carve into Connacht and open up more land for the Order of Hermes to claim.''
 
@@ -108,8 +108,8 @@
 ''The plateau Binn Ghulbain can be clearly seen from Sligo town and all the environs around. Much of its 1700 feet slope is steep grassland before the cliff suddenly rises from the ground. Binn Ghulbain was where the Fianna, the young landless fighting men who marched under Finn Mac Cumhail, were to be found. Some say that their spirits are still there and that their heroics may be employed by those willing to climb Binn Ghulbain.''
 ''Loch na Súl''
 ''The Fomórach king Balor of the Baleful Eye was slain by Lugh of the Tuatha Dé at the second battle of Mag Tuired by loosing a stone from his sling that shattered Balor’s eye. The fire from Balor’s eye gouged a hole in the earth. As the giant fell, his blood filled the hole to form Loch na Súl, or the Lake of the Eye. The blood may be gone but part of Balor’s shattered eye remains and is the source of the lake’s level 2 Magic aura. Were a covenant in''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Queen Maedhbh==
 
@@ -118,7 +118,7 @@
 ''Conniving, lascivious, and duplicitous, Meadhbh knew every type of magic that could control a man’s head and heart and she employed this against mortal and immortal alike. Those who think the faerie Queen Maedhbh pow''
 ''erless in death should think again. Her mortal form may be buried at Cnoc na Ré, but her spirit still holds court and she may be sought out by kings, princes, and druids, offering her power to those who would give themselves to her. Her jealous love for Connacht may be roused should the Ulaidh deign to attack and she could lead a mighty army out of the Otherworld to meet them on the battlefield.''
 
-|]
+|}
 ''search of a cathach to remove the eye from the lake, the aura would fade.''
 
 ==The Diocese of Mayo==
@@ -137,15 +137,15 @@
 ''Croaghaun is Achill’s highest point at over 2000 feet and the cliffs drop away from the northern slopes of the mountain straight down into the Atlantic. Croaghaun is partnered to the east by the similarly impressive Slievemore, and throughout the island with further mountains to the south. The dramatic landscape across Achill gives the island an underlying Magic aura, broken only by the dominion centered upon the church bells. Given the sometimes harsh conditions and the relative lack of agricultural land, most of the inland population of Achill have nomadic tendencies. They live in a series of booley villages across the island and move with the seasons. The island has a number of natural harbors, sheltered by the high cliffs, including Keel and Keem on the western side of the island and Cashel on the east.''
 ''Clew Bay''
 ''Clew Bay is a large natural ocean bay, protected at its mouth by the mountainous Clare Island and inshore by numerous drumlins, small submerged hills the tips of which just breach the surface. Some say the drumlins are actually faerie whales, free to roam the ocean at high tide but turning to stone when the tide turns. It is certain that nobody who counts the drumlins on different days arrives at the same count twice.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: An Appeal==
 
 ''A clerical companion character is approached by the clergy of Mayo to take their case to Rome to argue against the dissolution of their diocese. They feel an outsider’s voice added to their own may give them the weight they need. When the cleric receives a''
 ''menacing visit from agents apparently sent by the Archbishop of Tuam, it seems that Tuam is prepared to go to supernatural lengths to secure its hold on Mayo. But is the archbishop really behind this, or is he just a pawn in a larger game?''
 
-|]
+|}
 ''Croagh Patrick''
 ''Overlooking Clew Bay, Croagh Patrick is over 2000 feet tall and sits above the villages of Murrisk and Lucanvey about four miles from the town of Westport. Saint Patrick climbed this mountain and fasted at its summit for forty days and nights. The she-demon Caoranach tormented Patrick throughout his fast, sending a vast flock of crows and all the snakes of Ireland to distract him. At the end of his fast, he threw a silver bell into the air. The noise as it fell dispersed the crows and caused every serpent across the island to flee, never to return. Caoranach herself was knocked from the sky, falling into the lake now called Lough Nacorra, where she was imprisoned for a while by its Divine waters. Upon her escape, Patrick tracked the demon to Lake Derg near Donegal where he finally defeated her. Croagh Patrick itself is an important pilgrimage site and has a strong Divine aura. Numerous shrines to Patrick surround the mountain and a small church has been built on its summit. However, the roads in the area can be dangerous and robbers, faeries, and demons alike test the faith of those going to Lough Nacorra. If using the pilgrimage rules presented in The Church, page 16, these trials form useful oppositional elements when calculating the Pilgrimage Level.''
 
@@ -160,15 +160,15 @@
 ''Lough Mask, the smaller of the two lakes, empties into the larger Lough Gaillimhe, and through it into the Atlantic. Lough Gaillimhe is a large lake a short walk to the north of Dún Bhun na Gaillimhe. A canal, called the Friar’s Cut, has been channeled from Lough Gaillimhe, through the settlement surrounding the nearby Dún and into the Atlantic. As the Tuatha Dé Manannán mac Lir claims sovereignty over Lough Gaillimhe, the druids of Tuam were called upon to negotiate the canal’s route.''
 ''Dún Bhun na Gaillimhe''
 ''This fort, looking south into Loch Lurgain on the west coast, was built by Tairrdelbach Uí Conchobhair in 1124 and its location was chosen both as a naval base and for its defensibility by land. It is protected from the north by boggy ground that makes progress difficult, and from the south and east by the extensive muddy tidal flats. This did not deter assault, however. The Maigh Seola, those lands east of the Gaillimhe, were rich pickings and successive kings of Munster not only raided huge quantities of cattle but also destroyed the Dún in 1132 and 1149. While attackers made slow progress to the fort, it was neither easy to resupply nor was it particularly robust. These flaws remain in its current incarnation. If you saga follows real-world history, the fort and its settlement will be a repeated target for the Normans when they enter Connacht around 1230.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Devils of Tuam==
 
 ''With scant leadership and no cathedral, the wealthy merchants of Tuam rule themselves and grow fat upon their profits. Outside the city, harvests fail, illness spreads, and money is ever harder to find. Stirring both greed and''
 ''hardship are hell’s demons. As desperate men turn to robbery and raiding, hedge wizards and maybe even magi feel the effects. Do they punish these straying souls or do they confront the Infernal powers that forced their hands?''
 
-|]
+|}
 ''Connemara''
 ''Connemara is the region to the west of Lough Gaillimhe and is further divided into north and south areas by the short mountain range known as the Twelve Bens. The distinction between north and south is considered very important by the feuding families living in their respective areas. Connemara is currently ruled by the Ó Cadhla clan, but they are facing competition as families from Leinster and Munster seek out new lands after being displaced by the English.''
 ''Clifden''
@@ -206,8 +206,8 @@
 ''The small diocese of Annaghdown has a small human population, but it is notable as Ireland’s Fir Bolg population falls under its influence.''
 ''The Aran Isles''
 ''The series of three Aran Isles off the coast of Gaillimhe Bay are home to Ireland’s remaining Fir Bolg. Árainn Mhór is the largest and most westerly of the major islands, and is home to the Fir Bolg royal blood line. Their king, Rudraige Ua Sláine, lives in the Dún Aonghasa, a large ancient ringfort at the top of a cliff built by Aonghus mac Úmhór, king of the Fir Bolg upon their exile to Connacht. It has four concentric walls of dry stone construction. There are three other smaller forts of similar construction on Árainn Mhór; Dún Dubhchathair, Dún Eochaill, and Dún Eoghanachta. These are home to others of the Fir Bolg royal line. The rest of the Fir Bolg live in large beehiveshaped drystone huts called clóchan. There are also a dozen monasteries on Árainn Mhór and these are home to human and Fir Bolg monks alike. To the west of Árainn Mhór are the two small Brannock Islands. Giraldus Cambrensis wrote of them when he described an island upon which human corpses did not decay. Instead, they are left in the open and it is known that a man may visit the island and find any number of his forebears laid out before him. This same island also has no mice and those brought to the island either throw themselves to the sea or die on the spot. The magi of Qui Sonant have heard of the island and would be interested to know more but for the treaty that prevents them from entering Connacht.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Cry of the Banshee==
 
@@ -219,7 +219,7 @@
 ''When a number of villages on the Meath side of the Sionainne are put to the sword by mysterious and savage warriors, the Bishop of Athlone asks the magi of Leinster for their help. These Fer Caille are faeries (Realms of Power: Faerie, page 77) looking for mortal heroes to fight''
 ''and slay them. The trouble is that the Connachta men are following the Fer Caille example and raiding against Meath holdings. Can the magi arm and prepare their grogs and consortes to withstand the Fer Caille? And what orders do they give concerning the mortal men of Connacht?''
 
-|]
+|}
 ''The Fir Domhnann of Árainn Meáin are the smallest of the three tribes and they all live within the Dun Chonchuir ringfort. As may be expected of the tribe who have turned to venerating the Fomóir goddess Domnu, there are no churches on Árainn Meáin and no Divine auras. Árainn Thiar, the smallest of the major islands, is inhabited by the Fir Gaileoin. They are nominally Christian but virtually non-observant and island is home to only one church. Tempull Bheanáin is a small oratory situated on high ridge on the south-east of Árainn Thiar. It is outwardly very small and appears to be an abandoned ruin. On stepping through into the Terrestrial regio that overlays it (see Realms of Power: The Divine Revised Edition, page 13), however, the church is large and overwhelmingly beautiful and no harm may come to those inside.''
 
 ==The Diocese of Cill Mhic Dhuach==
@@ -260,8 +260,8 @@
 ''Ádhamh Brathair''
 ''Age: 55 (Apparent Age: 55) Personality Traits: Charismatic +3, Determined +2, Cautious +1 Tradition: Learned Magician''
 ''Ádhamh is a master of experimental philosophy and a Gifted Learned Magician, tracing his magic ultimately back to Bologna in Italy. It was Ádhamh who conceived the Pact of Oireadh and he is also the principle researcher working toward unifying the druidic gifts. He sees his work as being for the greater good. While he would prefer to take the glory he is aware that it is the work of more than a single lifetime. He is cautious about revealing too much to the Coill Trí as he knows of their connection to the Ordo Hiberniae and is concerned as to their potential reaction. This is especially resonant as the Coill Trí recently took a Gifted child from him in order to provide tribute to the Hermetic magi across the border.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Hedge Magic and Original Research==
 
@@ -270,7 +270,7 @@
 ''Ádhamh Brathair (EWE BRO-hur) has a vision of a theory of magic that encompasses all the traditions of Ireland and grants all practitioners the magical defenses afforded by each tra''
 ''dition. This breakthrough requires at least 120 breakthrough points (Houses of Hermes: True Lineages, page 28). Ádhamh suspects that he cannot succeed during his lifetime, but he has secured his notes in the hope that future generations can build upon his research. His work so far has centered on the creation of Amulets (Hedge Magic Revised Edition, page 86) that grant the wearer the Supernatural Virtues for Second Sight, Dowsing, and Cursing, inspired by the Folk Witch tradition. These grant the associated Ability at a score of 4 for a season. Through these he has learned how his own magic differs from that of the Folk Witches, an important point of comparison when understanding his own tradition. In addition, by learning these Abilities, he hopes to gain the limited magical defenses that they offer, which furthers his ultimate goal. He currently has fifteen points toward his research total.''
 
-|]
+|}
 ''Ádhamh is ordained in minor orders but is supported by a wealthy nobleman of Cong, where he turns his powers to helping the noble and his family.''
 ''Umor Ard Mac Adar''
 ''Season: Autumn (Apparent Age: 50) Magic Might: 25 Personality Traits: Gentle +3, Independent +2, Idealistic +1 Tradition: Transformed Fir Domhnann''
@@ -280,8 +280,6 @@
 ''Mór Greannach (MORE GRENnukh), meaning “grey-beard,” gains her name from the thin grey beard that hangs from her aged chin. She is well into her''
 ''seventies, and all those years have been put to the pursuit of her arts for the benefit of her community. She is feared and distrusted every bit as much as she is revered and consulted. Mór Greannach is hugely knowledgeable on the workings of the magical world around her and she frequently collects herbs and objects of virtue from the rolling hills and woodlands around her village, magically enriching them to add to her own powers.''
 ''Of the Pact of Oireadh, Mór Greannach is the one with the widest contacts among other druids and hedge wizards. Aside from her coven, she is on friendly terms with scores of nightwalkers, faerie-touched craftsmen, Ollamhain (Realms of Power: Faerie, page 135), and the Kilkenny coven across the border in Leinster. Mór Greannach is also the closest to Oireadh as she lives in nearby Carrowmore.''
-
-[|
 
 ==Oireadh Story Seeds==
 
@@ -295,8 +293,6 @@
 ''When Ádhamh Brathair discovers that Tuathal’s arts are infernal in origin he casts his net wider. He begins looking for a true magical summoner to learn from and his quest takes him out of Connacht. He makes contact with the apprentice taken from him, asking her to tell him of any summoners her new covenant encounters. When she is discovered sending messages to Ádhamh, the covenant must confront her origins and loyalties as well as the nature of Ádhamh’s unknown research.''
 ''The Words of Wisdom''
 ''A magical spirit, created during Ádhamh Brathair’s experiments, flees on the wind, fearful of being enslaved. Stopping near the player covenant, it imparts its knowledge to the villagers around it and, as though a madness has overcome them, they all begin to speak of strange things in a Latin that none of them understand. With the magi quickly involved, they discover that the spirit is a thing of accumulated magical knowledge but with no guidance on how to use it. Discovering that the spirit is already fading, should they let it die and with it the knowledge it contains, or should they guide it back to the one who created it?''
-
-|]
 ''Tuathal an Iarrainn''
 ''Age: 40 (Apparent Age: 40) Personality Traits: Honest +3, Disciplined +2 Tradition: Goetic Sorcerer''
 ''Tuathal an Iarrainn (TUH-ah-hal AN IR-ran) is a master of the Ars Goetica, which give him the means to summon, bind, and command spirits. There are some who distrust both the means and the source of his magic, but Tuathal seeks never to hide his nature. He is a master smith by trade; he can use his magic to bind spirits to the items and weapons he makes. However, he has been using his Commanding art more recently under Ádhamh’s request as he seeks out more resources that could help with the research. Tuathal maintains a well-equipped workshop in the coastal village of Rosbeg to the west of Oireadh and has two mundane apprentices, neither of whom is suited to the Goetic Arts. See Realms of Power: The Infernal (pages 114–119) for more information on the Goetic Arts.''
@@ -338,8 +334,8 @@
 ''Báetáin Ua Traimair''
 ''Age: 60 (Apparent Age: 47) Personality Traits: Regretful +3, Conflicted +2, Pragmatic +1''
 ''Báetáin Ua Traimair is a traitor. Originally one of the magi besieged by Ballack, his support for Meadhbh waned as the siege looked increasingly hopeless. He ultimately chose the survival of Praesis over its destruction and delivered the Gáe Bulg to Ballack. When this was discovered, the magi of Praesis saw that they had lost the fight and fled. He rarely leaves the old tower now. Every time he does he passes the burned homes of those he once knew. He can still hear their screams as the fire rained''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Remember Who You Work For==
 
@@ -347,6 +343,8 @@
 ''Story Seed: The Broken Treaty''
 ''Faolán of the Younger House fled to Connacht before the fall of Praesis.''
 ''His parens was one of the true Ollamhain (see Realms of Power: Faerie, page 135) and Faolán has a limited grasp on the Arts. As a result, he sees himself as closer to the druids of Connacht than the Order. While he may have friends within the Coill Trí, his extended stay across the border is a clear breach of the treaty. When the Tribunal realizes where Faolán is, and that he is turning his back on the Order, the player characters are commissioned to find him and bring him back to the Tribunal with or without the assistance of the Coill Trí. The player characters find themselves on a manhunt in hostile territory.''
+
+|}
 ''down from the sky. And he now shares the covenant with Guillaume, their killer. But for all that, Praesis still stands and can be rebuilt. Báetáin is one of the few native magi of House Tremere in Hibernia and has been stationed at Praesis all his life. His parens retired to Coeris some years ago, taking Báetáin’s sigil with him.''
 ''Guillaume Flambeau of Normandy''
 ''Age: 65 (Apparent Age: 52) Personality Traits: Bombastic +3, Aggressive +2, Patient –1''
@@ -360,5 +358,6 @@
 ==Covenfolk==
 
 ''Aside from a few personal servants brought by the conquering magi, the covenant has yet to recruit new covenfolk. The exception is the turb of Breifne mercenaries led by Guillaume. They are content to work for to Guillaume as long as they are paid well and have a plentiful supply of food, fighting, wine, and women. The area around Praesis has learned to fear the men of Breifne. The giant-blooded Oscar von Harz is entirely without fear and is utterly loyal to Ballack. The white-haired giant is the current guardian of the Gáe Bulg and he can be found on a wooden platform looking out to Meath holding the terrible spear in challenge to those who would try to steal it. While outside the Aegis of the Hearth as convention dictates, the tower and the spear are actually within a regio, out of sight of the mortal world, and are well-warded and protected with magic. Oscar has seen his death, thanks to the magic of the Gáe Bulg. All anyone knows is that he has taken an interest in the legends of the Fir Bolg since being given the spear.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

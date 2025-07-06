@@ -20,19 +20,19 @@
 ''With the exception of Mythic Alchemy, Mythic Herbalism, and Natural Magician, the list of Virtues below is only suitable for learned magician characters or characters from a related magical tradition.''
 ''Mathematicus of Bologna Free, Social Status The character is a member of the magical tradition of the Mathematici of Bologna. The character may cast charms and perform laboratory activities according to the rules of this chapter. To possess this Social Status, the character must have at least one Hedge Technique and Form from this chapter. A mathematicus must also possess a Social Status that defines his role in mundane society, suitable examples include: Clerk, Gentleman, Landed Noble, Magister in Artibus, Mendicant Friar, or Priest. The Social Statuses listed in the Universities and Medicine chapters of Art & Academe are very appropriate, as are those listed in Realms of Power: The Divine, pages 92-93. These lists are not exhaustive, and the troupe may include additional Social Statuses that are appropriate to the learned magician character. The amount of freedom a mathematicus has to study is based on his other Social Status, or whether he possesses the Wealthy Virtue or Poor Flaw.''
 ''Entreat the Powers Major, Supernatural This Virtue grants the character the ability to minimize or overcome the negative''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Lore of the Mathematici''
 ''This is the (Organization) lore of the learned magician tradition based in Bologna. A character with this Ability has knowledge of the following: the general effects that charms and amulet magic produce, the identities of the powerful members of the Mathematici of Bologna, their''
 ''history, and the secrets of the tradition. The secrets of the Mathematici include knowledge of the rites and rituals to Initiate another into the powers of the tradition. Other groups of learned magicians may exist in Mythic Europe and possess their own (Organization) Lore Abilities.''
 
-|]
+|}
 ''effects associated with using magic-aligned powers in Divine or Infernal auras. The mechanics for using this Virtue are described fully later. See Magic of the Learned Magicians: Mitigation of Realm Interaction Effects.''
 ''Mythic Alchemy Major, Supernatural This Virtue grants the character a score of 1 in the Mythic Alchemy Supernatural Ability. Mythic alchemists can actually transmute types of atoms into other types of atoms through the application of magical rather than philosophical techniques. This Ability always requires at least one season of activity in a properly outfitted alchemical laboratory. The rules described here depend on the rules for alchemists given in Art & Academe, Chapter 5: Experimental Philosophy. Briefly, a formula is invented in a season by acquiring 5 experience points. Formulae are described like spells, with a single parameter called Alteration that describes the magnitude of the change. The formula is used to produce a reagent in a season using a Lab Total equal to Intelligence + Philosophiae, and the alchemist must accumulate points in excess of the formula’s level just like inventing a spell. Mythic alchemists are superior to their non-magical brethren in this, and they may add their Mythic Alchemy to their Lab Totals for creating any alchemical reagents. Those with this Virtue can devise formulae that employ guidelines for alchemical reagents that are not available to those without the Virtue. The changes effected by Mythic Alchemy are permanent transmutations of the elements and result in non-magical substances, which cannot be dispelled. Alchemists without Mythic Alchemy always fail if they try to recreate these formulae from a Laboratory Text. Learned magicians with the Mythic Alchemy Virtue may extract and transfer vis as described in ArM5, page 94. The Mythic Alchemist uses his Succurro Magicam Lab Total to determine the number of pawns of Vim vis he may extract from a magical aura. Substitute the character’s score in Mythic Alchemy for Magic Theory to determine the number of pawns a character may use in a single season. Mythic Alchemists can also prepare the raw materials for a craftsman in such a way that the Ease Factor for creating Superior, Excellent, or Wondrous items is reduced; see City & Guild, pages 63-73. The alchemist produces a reagent in the form of the primary component of the item to be created. For example, to create superior swords or armor, the alchemist would need to treat the metal''
 ''used, but not the leather for the hilt or straps. The alchemist may prepare enough raw materials for a craftsman to use in one season (City & Guild, page 68). This process does not require vis. A Slight Alteration subtracts 1 from the Craft Ease Factor, a Minor Alteration subtracts 2, a Substantial Alteration subtracts 3, and a Major Alteration subtracts 4. Transmuting a complex element into a similar sort of complex element is a Slight Alteration if there is no change in the type of substance; for example, as in turning Welsh copper into Cornish copper (which has a slightly different luster). A Minor Alteration can effect a transmutation of species; for example, base metal to base metal, or processed liquid to processed liquid. And a Substantial Alteration can change genus; for example, base metal to noble metal, or oil into acid. Major Alterations can affect higher categories of genus; so wood can be turned into tin, for example. Solids must remain solids, and liquids must remain liquids in any transmutation, and this is true when transmuting simple matter to complex matter and vice versa. Each dose of a transmutative reagent requires a pawn of Vim vis or vis of the appropriate Form for every 5 points (rounded up) of the reagent’s final level. A Mythic Alchemist can handle a number of pawns of vis in a season equal to twice his Mythic Alchemy score; and this may limit the number of doses he can produce regardless of his Lab Total or any Laboratory Texts.''
 ''Mythic Herbalism Major, Supernatural Mythic Herbalism is a Major Supernatural Virtue that grants a score of 1 in the Mythic Herbalism Ability. Mythic Herbalism permits a character to create unguents and poultices that can heal the wounded, cure the diseased, or assist the poisoned. The Ability also allows a character to create especially virulent poisons. Finally, the Mythic Herbalist may create potions that grant temporary bonuses to various physical characteristics. The effects of the concoctions are detailed in the nearby chart. For any creation, the character must spend a number of days equal to one-third the Ease Factor of the intended effect to prepare and brew the necessary ingredients. Anyone with the Ability Profession (Apothecary) and access to plants growing in a Magic aura may supply the ingredients. The character may create multiple doses of any concoction; the Ease Factor is increased by 1 for each additional dose. The character must select the total number of doses he wishes to create prior to beginning the brewing process. Large batches are more difficult to create because of instability during the brewing process, but they do not take longer to create than a single dose does. The character does not need access to a full Hermetic laboratory, but may create potions with only a few basic tools and a constant source of heat.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''New Reagent Guidelines''
 ''Level 2: Prepare raw materials for a craftsman to produce superior goods. Level 5: Transmute complex matter to a different type of complex matter.''
 ''Level 10: Transmute complex matter to simple matter. Level 15: Transmute simple matter to complex matter.''
@@ -46,7 +46,7 @@
 
 ''Reagent Level 5 Alteration: Minor Prepares raw animal hides into superior boiled leather, such that any craftsman working with it reduces the Ease Factor for his Craft (Leather), or similar Ability, by 2. The leather can be made any conceivable color as part of the transmutation process. Each dose of this reagent makes sufficient leather for a suit of full leather armor. (Base 2, +1 Minor, +2 Size)''
 
-|]
+|}
 ''At the end of the process, the player must roll the character’s Intelligence + Mythic Herbalism against the target Ease Factor. If the roll fails, the concoction is useless. If the roll is a botch, the resulting concoction may poison the creator or its recipient.''
 ''Ease Factor: 3 Healing Effects: Add Mythic Herbalism Score to patient’s Stamina roll to resist all disease. Poisons: Ease Factor 6, Sleep Physical Bonuses: Add +2 to Fatigue rolls.''
 ''Ease Factor: 6 Healing Effects: Prevent all of a patient’s Wounds from getting worse for one day. Poisons: Ease Factor 6, Light Wound Physical Bonuses: Ignore Wound Penalties up to Medium Wounds.''
@@ -138,12 +138,12 @@
 ===Vis Use===
 
 ''Learned magicians may utilize raw vis in casting charms. The casting score modifier, botch modifiers, and vis limit are the same as those for Hermetic magi (ArM5, pages 8283). The learned magicians’ knowledge of their Arts does not mesh perfectly with the Hermetic Arts, and the storyguide should use common sense in allowing vis to be applied in casting charms. If a charm’s effects could be duplicated by a Hermetic spell, any vis that could be used to assist that spell assists the charm. Learned magicians may not study from vis. In general, when casting Tueor charms, a caster may utilize Rego vis. Succurro charms may use Creo vis, and Vulnero charms benefit from Perdo vis. Learned magicians may use Vim vis in casting Magicam or Fortunam charms. A Salutem charm may utilize Corpus, Herbam, Animal, or Mentem vis depending on the nature of the target. Salutem charms that protect against a specific form of damage may utilize Aquam, Auram, Terram, or Ignem vis depending on the specifics of the charm.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Ranges, Durations, & Targets for Charms''
 ''Range: Personal, Eye/Touch (+1), and Voice (+2) Duration: Momentary, Diameter (+1), and Sun (+2) Target: Individual and Group (+1)''
 
-|]
+|}
 ''Hedge Magic Laboratory Activities''
 ''Learned magicians are able to create two types of magical devices: amulets and chartae. Amulets require a season to create, but may contain multiple charges. Chartae (singular: charta) are single-use magical devices that the learned magicians may produce relatively quickly. Both types of devices are transcribed on physical media — usually paper, vellum, or parchment. In general, amulets and chartae have the potential to produce longer-lasting and more-powerful effects than a learned magician’s charms. Learned magicians may also create amulets of moresubstantial materials, such as metals or engraved gemstones.''
 
@@ -170,12 +170,12 @@
 ===Ranges, Durations, and Targets===
 
 ''Like Hermetic devices, all amulets and chartae must have a Range, Duration, and Target. Only those parameters listed below are available for use in amulets and chartae. The base parameters for amulets and chartae are Touch, Momentary, and Individual. Amulets and chartae that vary from these parameters are more difficult to cast, and the level of the device is increased just as Hermetic spells are. The magnitudes used to determine the spell level are slightly different for amulets and chartae, and they are listed in the insert. All amulets and chartae have Range: Touch — a device must be in physical contact with the Target for it to have any effect. Where the Target is Group, the device must be in the possession of the group’s leader. For the requirements of the Bloodline Target, see ArM5, page 93. For Structure and Boundary Targets,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Ranges, Durations, and Targets for Amulets and Chartae''
 ''Range: Touch Duration: Momentary, Sun (+1), Moon (+2), and Season (+3) Target: Individual, Group (+1), Bloodline (+2), Structure (+3), and Boundary (+4)''
 
-|]
+|}
 ''the charm must be placed somewhere near the main entrance to the relevant location. Magicians may create an amulet or charta with a Duration of Season. The effect of the device lasts until the next solstice or equinox. To determine the level of effect of the amulet or charta, the Season Duration adds +3 magnitudes to the level of the effect.''
 
 ===Amulet and Charta Effects===
@@ -247,14 +247,14 @@
 
 ''Stay the Fickle Hand of Fate TuFa Level 5 R: Touch, D: Sun, T: Ind For the duration of the charm, the character is not subjected to any random mishaps. Whenever the storyguide determines that something occurs randomly, the character protected by the charm is not selected. For example, if a chamber pot is emptied into the street, the character will not be hit, but his companions may be. If the storyguide determines who a cutpurse will rob randomly, the character protected by the charm cannot be selected. (Base 2, +1 Touch, +2 Sun)''
 ''Grant Fortuna Belli (Single Weapon) TuFa Level 15 R: Touch, D: Diam, T: Ind Different versions of this charm exist for each Martial Ability. For the duration of the charm, if the character’s Attack Advantage using her Single Weapon Ability is 0 or less, both combatants re-roll. If the second roll produces a positive Attack Advantage, it is used. Should the player botch on any of his rolls, that result is discarded unless he botches on both rolls, in which case he suffers the less-serious botch. (Base 5, +1 Touch, +1 Diameter)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Tueor Fortunam Guidelines''
 ''Whenever a character under the influence of a Tueor Fortunam charm makes a contested roll against a character with Magic Resistance, the charm must penetrate the opposing character’s Magic Resistance to be effective. A different charm must be used for every Ability affected. Fortunam spells affect rolls on Abilities, not all stress die or botch rolls. They have no affect on rolls for learning from vis, experimentation, or Twilight-related botch dice, for example.''
 ''General:	Reduce the number of botch dice a character must roll for a single Ability. Each magnitude of the effect eliminates one botch die. Level 1:	 Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 3 and use the better of the two rolls. Level 2:	 Allow a player to re-roll a failed''
 ''roll for a single Ability where the Ease Factor is no more than 6 and use the better of the two rolls. Level 2:	 Prevent random mishaps from occurring to the character. Level 3:	 Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 9 and use the better of the two rolls. Level 4:	 Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 12 and use the better of the two rolls. Level 5:	 Allow a character to re-roll a failed contested roll for a single Ability. Level 5:	 Allow a player to re-roll a failed roll for a single Ability where the Ease Factor is no more than 15 and use the better of the two rolls. Level 10:	Allow a player to treat a stress die roll of 0 as a 10 for a single Ability, eliminating the possibility of a botch.''
 
-|]
+|}
 ''Charm Against Capriciousness (Great Weapon) TuFa Level 20 R: Touch, D: Diam, T: Ind For the duration of the charm, the player treats all stress die rolls for his Great Weapon Ability as simple die rolls; except when the player rolls a 1, the roll is treated as if it were a stress roll. The character cannot botch with his Great Weapon Ability while this charm is in effect. A different charm must be used for any other Ability. (Base 10, +1 Touch, +1 Diameter)''
 
 ===Succurro Fortunam===
@@ -262,13 +262,13 @@
 ''Fortune Favors the Bold SuFa Level 5 R: Touch, D: Sun, T: Ind The player receives a bonus of +2 to all rolls involving her character where luck is a greater factor than skill or talent. The character excels at games of chance and in other situations where benefits are distributed by random chance. If the player makes a contested roll, the charm must penetrate the Magic Resistance of the character against whom the roll is made. (Base 2, +1 Touch, +2 Sun)''
 ''Gift of Venus (Venus’ Blessing) SuFa Level 25 R: Touch, D: Sun, T: Ind The character gains the benefits of the Virtue Venus’ Blessing for the charm’s duration. The character says the right things, catches the target in the right mood, and generally benefits from fortuitous circumstances, adding +3 to all Communication and Presence rolls involving sexually compatible characters in appropriate situations. If the object of the character’s advances possesses Magic Resistance, the charm must penetrate to have an effect. This charm exists for each eligible Virtue. The following is a non-exhaustive list of examples of other charms, in the Gift of [God] category: Prometheus (Good Teacher), Mars (Berserk), Mercury (Lightning Reflexes), Hercules (Reserves of Strength), Hera (StrongWilled), Fortuna (Luck), Apollo (Free Expression), and Minerva (Common Sense). (Base 10, +1 Touch, +2 Sun)''
 ''Charm of Quickness SuFa Level 20 R: Per, D: Sun, T: Ind For the duration of the charm, the character benefits from fortuitous circumstances surrounding all attempts to use any Ability or''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Succurro Fortunam Guidelines''
 ''Succurro Fortunam charms affect both the character upon whom they are cast, and any person with whom that character interacts; therefore, they must penetrate the Magic Resistance of the Target and any character against whom the character attempts to use the enhanced Ability or Characteristic. Different charms must be used for each Ability or Characteristic affected. The player does not have the option to select which Ability or Characteristic the charm affects without inventing a new charm. The troupe should use common sense in selecting Virtues appropriate for charms. For example, a Fortunam effect may not grant Virtues that affect the accumulation of experience points, allow specific types of Abilities to be learned, provide the character with benefits from a third party, or grant a physical object. This Form cannot grant some other Virtues, as well — Social Statuses and Divine or Infernal Virtues, for example.''
 ''Level 1:	 Provide a bonus of +1 to all Luck related rolls. (As per Luck Virtue, see ArM5, page 45.) Level 2:	 Provide a bonus of +1 to rolls for a single, non-Supernatural Ability. Level 2:	 Provide a bonus of +2 to all Luck-related rolls. Level 5:	 Provide a bonus of +3 to all Luck-related rolls. Level 5:	 Provide a bonus of +2 to rolls for a single, non-Supernatural Ability. Level 10:	Grant a Minor General Virtue. Level 10:	Provide a bonus of +3 to rolls for a single, non-Supernatural Ability. Level 10:	Provide a bonus of +1 to all Ability rolls using a single Characteristic. Level 15:	Provide a bonus of +2 to all Ability rolls using a single Characteristic. Level 20:	Grant a Major General Virtue. Level 20:	Provide a bonus of +3 to all Ability rolls using a single Characteristic.''
 
-|]
+|}
 ''roll that involve his Quickness. For example, in combat, the character’s Initiative Total is increased by +1 because his hand happens to be on the hilt of his weapon when combat occurs, his adversary slips on loose footing, or a strap on his equipment unexpectedly shifts or breaks putting the adversary off balance. This charm exists for each Characteristic. (Base 10, +2 Sun)''
 
 ===Vulnero Fortunam===
@@ -285,13 +285,13 @@
 ''Magical Fortitude Charm Against Lightning TuMa Level 5 R: Per, D: Diam, T: Ind This charm adds +8 to the caster’s Soak Total against any damage caused by magical lightning. A different version of this charm exists for other types of damage. (Base 4, +1 Diameter)''
 ''Charm of Alacritous Fortune Against Earth TuMa Level 10 R: Per, D: Diam, T: Ind This charm adds +4 to the caster’s Defense Total for any magical earthor stonebased attacks aimed at him. A different version of this charm exists for other types of magical damage. (Base 5, +1 Diameter)''
 ''Charm Against the Hex TuMa Level 10 R: Touch, D: Sun, T: Ind This charm protects the target against a single Supernatural Ability, Hex in this case (Realms of Power: The Infernal, page 92). The Ease Factor required to use Hex against the wearer is increased by +9 for the duration of the charm. A different version of this charm exists for other Supernatural Abilities. (Base 3, +1 Touch, +2 Sun)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Vulnero Fortunam Guidelines''
 ''A different Vulnero Fortunam charm must be used for each Ability or Characteristic affected. The player does not have the option to select which Ability or Characteristic the charm affects. All Vulnero Fortunam charms cause minor unlucky or inconvenient things to happen to their victims, in addition to the game mechanic effects. The more powerful the curse, the more frequent and annoying the inconvenience must be. Astute characters may realize that they have been cursed. To discover the curse, the player must roll a Perception + Magic Lore against an Ease Factor of 12, minus the magnitude of the Vulnero Fortunam charm; the more powerful the curse, the more obvious it is.''
 ''General:	 Increase the number of botch dice a player must roll. Each magnitude of the charm adds one botch die. Level 2:	 Modify a single Ability roll by –1. Level 2:	 Force a character to re-roll a successful contested roll for a single Ability once and use the worse of the two rolls. Level 5:	 Modify a single Ability roll by –2. Level 10:	Modify a single Ability roll by –3. Level 10:	Modify all Ability rolls using a single Characteristic by –1. Level 10:	Force a player to treat all simple die rolls as a stress die rolls for a single Ability; but if the player rolls a 1, she does not roll again. Level 15:	Modify all Ability rolls using a single Characteristic by –2. Level 20:	Modify all Ability rolls using a single Characteristic by –3.''
 
-|]
+|}
 
 ===Succurro Magicam===
 
@@ -304,17 +304,17 @@
 ===Vulnero Magicam===
 
 ''Stifle the Lengthy Sickness VuMa Level Gen R: Voice, D: Mom, T: Individual This charm reduces the Duration of a magical effect causing disease or sickness. If the level of the charm + a stress die (no botch) + 10 is at least double the casting total of the targeted spell-like effect, the Duration of the spell is recalculated using one less magnitude than the original spell. For example a Moon Duration (+3 magnitudes) Hermetic spell would be reduced to Sun Duration (+2 magnitudes). If the magical effect’s duration is not determined by magnitude, as in some Supernatural Abilities, the duration is reduced by half. To determine the spell level equivalent of a Supernatural Ability, use the Ability score x 5. A different charm exists for each type of''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Tueor Magicam Guidelines''
 ''Tueor Magicam charms provide some level of protection against hostile magic. Magical defense charms are tied to a specific type of magical damage, and protection for any other type of damages requires a different charm. For example, a Magical Fortitude Charm (fire) would provide protection against all supernatural fire, but would provide no protection from cold, although cold is also an Ignem effect.''
 ''General: Add +2 to the Target’s Soak Total for damage caused by magical damage of specific type for every level of the base charm effect. General: Add +4 to the Target’s Defense Total for magical attacks aimed at him of one specific type for each magnitude of the base charm effect. General: Increase Ease Factor of Supernatural Ability used against Target by +3 for each level of base charm effect.''
+
+|}
 ''Succurro Magicam Guidelines''
 ''Succurro Magicam charms grant bonuses to a character’s Supernatural Abilities, or they allow a character to temporarily enjoy the benefit of such Abilities. The troupe should use common sense in selecting Virtues appropriate for charms. For example, a Magicam charm may not grant Virtues that affect the accumulation of experience points, allow specific types of Abilities to be learned, provide the character with benefits from a third party, or grant a physical object. This Form cannot grant some Virtues — Social Statuses and Faerie, Hermetic, Divine, or Infernal Virtues, for example. A charm may only improve or grant Supernatural Virtues that derive their power from the Magic Realm. Where a Supernatural Virtue is granted that has a corresponding Ability, the character is able to perform the Ability as if he had a score of 4. No magical effects resulting from a granted Virtue last longer than the duration of the charm, amulet, or charta. The mundane results of using the granted Virtue do remain, however. For example, if the granted Virtue allows the creation of enchanted items, those items lose their enchantment when the charm granting the Virtue expires. Succurro Magicam charms also aid charms that have already been cast or amulets that have already been created. The target is always the charm or amulet, and Touch Range is sufficient for any charm that is still in effect. Charms that have expired and Momentary charms may not be affected with''
 ''Succurro Magicam charms. A general charm must be learned at a specific level of effect for a learned magician. To allow charms to be cast within the Dominion or with Penetration, magicians often learn their charms at a level below the highest they could cast.''
 ''General:	 Significantly change a charm of less than the level +1 magnitude of the Magicam charm. This may not change either the Technique or Form of the target charm. A change in Duration, Range, Target, or level of the charm is appropriate, so long as the charm is changed by no more than one magnitude. The new charm parameter must be one available for the charm in question, and the final level of the charm modified may not be a higher level than the Magicam charm. General: Increase the number of charges in an amulet of a level less than or equal to the charm +1 magnitude by one. The amulet must be one created by the learned magician casting the charm. Level 1:	 Detect the presence of vis. Level 2:	 Provide a bonus of +1 to rolls for a single Supernatural Ability. Level 5: Provide a bonus of +2 to rolls for a single Supernatural Ability. Level 10:	Grant a Minor Supernatural, Magic Virtue. Level 10:	Provide a bonus of +3 to rolls for a single Supernatural Ability. Level 20:	Grant a Major Supernatural, Magic Virtue.''
-
-|]
 ''magical curse or spell. This charm does nothing to affect spells of Momentary Duration. (Base effect, +2 Voice)''
 ''Charm of Protection Against the Faerie VuMa Level Gen R: Touch, D: Sun, T: Ind Creatures with Faerie Might equal to or less than the level of the spell are unable to affect Individual. The spell must penetrate the Faerie creature’s Magic Resistance to have an effect. The charm doesn’t affect spells or Supernatural Abilities unless the creature responsible for the effect has a Might Score. Different versions of the charm exist for the other realms. (Base effect)''
 ''Salutem''
@@ -328,18 +328,18 @@
 ''the Attacks of Semita Errabunda TuSa Level 15 R: Touch, D: Diam, T: Ind This charm protects a person from nonmagical attacks by the residents of Semita Errabunda, a narrow category of damage. The recipient of the charm receives a +4 to his Defense Total for the Duration of the charm. The charm protects against attacks by any member of the covenant of Semita Errabunda regardless of the weapon used, so long as it is not magical. (Base 5, +1 Touch, +1 Diameter)''
 ''Charm of Protection Against Achilles’ Bane (Arrows) TuSa Level 5 R: Per, D: Diam, T: Ind When an arrow successfully strikes the caster, he is protected by this charm. The charm adds +8 to the character’s Soak Total against any non-magical arrow, a broad category of damage. The Soak bonus of this''
 ''charm is cumulative with the character’s Soak provided by armor, the Tough Virtue, or any other source, but multiple charms do not stack. If a character has two or more charms''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Vulnero Magicam Guidelines''
 ''Vulnero Magicam charms suppress or eliminate the effects of magic on the target. For Vulnero Magicam charms, an Individual Target refers to a single spell or magical effect. If the victim of the spell has Magical Resistance, the charm must penetrate to be effective.''
 ''General:	 Reduce the Duration of a specific type of continuing magic with a casting total less than half the level +''
 ''4 magnitudes of the charm + a stress die (no botch). A specific type of magic should be narrower than a single Hermetic Form. For example, one spell would protect against flame, but not heat, cold, and smoke — all types of damage produced by Ignem. General:	 Ward the target against creatures from a single realm with Might less than the level of the charm. (Touch, Sun, Individual)''
+
+|}
 ''Tueor Salutem Guidelines''
 ''For Tueor Salutem charms that protect against a broad category of damage, the troupe should use the guidelines provided by the Virtue Greater Immunity to determine appropriate categories. For broad categories, the potential harm should be both common and potentially deadly. Suitable examples are fire, iron weapons, swords, or the like. For Tueor Salutem charms that protect against a narrow category of damage, the troupe should use the guidelines for the Virtue Lesser Immunity to determine appropriate categories. For narrow categories, the potential harm should be rare, not deadly, or both. Unlike the Virtues Greater Immunity and Lesser Immunity, a Tueor Salutem charm never protects against magical versions of the damage category defended against. If the learned magician seeks protection against magical forms of damage, a Tueor Magicam charm is required. Tueor Salutem wards can only be placed on locations with either a Structure or Boundary Target. They may never affect anyone or anything in the category warded if they possesses a Might score. If a ward would prevent a magus from entering an area, it must penetrate his Magic Resistance to have any effect. Wards that keep out a specific type of person or animal should be easily described by a single word, but not so broad as to include significantly more than half of the human populace. Suitable examples for animal wards are vermin, predators, or birds, for example, and examples of a''
 ''single type of human might be thieves, Mongols, or men.''
 ''General:	Provide +4 bonus to a person’s Soak Total against a narrow category of damage per level of the base effect. General:	Provide +2 bonus to a person’s Soak Total against a broad category of damage per level of the base effect. General:	 Provide +1 bonus to a person’s Stamina for Disease Avoidance rolls for a single disease per level of base effect. See the Medicine chapter of Art & Academe. General:	 Provide +1 bonus to a person’s Stamina for rolls to avoid the effects of poison per level of the base effect. General:	 Provide +2 bonus to a person’s Soak Total against all damage per magnitude of the base effect. General:	Add +4 to the Target’s Defense Total for attacks from a narrow category of damage for each magnitude of the base charm effect. General:	 Add +2 to the Target’s Defense Total for attacks from a broad category of damage for each magnitude of the base charm effect. Level 2:	 Ward a target against a single type of animal. Level 5:	 Ward a target against a single type of human being. Level 10:	Prevent a person from being harmed by narrow category of damage. Level 10:	Ward a single target against all human beings. Level 15:	Prevent a person from being harmed by broad category of damage.''
-
-|]
 ''protecting against the same form of damage, only the more-powerful charm works. Versions of this charm exist for all common weapons and must be learned individually. (Effect: Base 4, +1 Diameter)''
 ''Charm of Warding Against Unwanted Pests TuSa Level 5 R: Touch, D: Sun, T: Ind The charm protects the recipient against all forms of pests, including insects, spiders, lice, etc., none of which may come in contact''
 ''with the person. Creatures with a Might score of any type are not affected by the ward. (Effect: Base 2, +1 Touch, +2 Sun)''
@@ -354,8 +354,8 @@
 ===Vulnero Salutem===
 
 ''Curse of Coughing Fits VuSa Level 10 R: Voice, D: Diam, T: Ind This curse causes the character to cough uncontrollably for its duration. A victim must make an Intelligence + Concentration roll against an Ease Factor of 12 to successfully cast or maintain a spell while affected. All others''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Succurro Salutem Guidelines''
 ''Succurro Salutem charms track the guidelines for Creo Corpus spells very closely, except they are incapable of permanently healing. Short of that, any questions regarding application of a Succurro Salutem charm should be resolved in the same way a Creo Corpus spell of the same level would be. Because the Succurro Salutem effects must linger over long periods of time, they are best suited as magical devices, and example chartae and amulets are listed below. The levels listed below are the minimum Lab Totals necessary to create the devices.''
 ''General:	 Add +1 to a person’s Living Conditions modifier per level of the Base. The target must be under the effects of the charm for the entire year for it to provide any benefit. Level 1:	 Give a character a +2 bonus to Recovery rolls for a single non-magical disease, poison, or injury.''
@@ -365,12 +365,12 @@
 ''Level 3:	 Do superficial damage to body. Level 4:	 Cause a person pain, but do no real damage. Level 5:	 Inflict a Light Wound. Level 5:	 Hamper a person without actu''
 ''ally injuring him. For example, make him lame, blur his eyesight, or cramp his hand severely. It heals as a Light Wound. Level 10:	Inflict a Medium Wound. Level 10:	Cause loss of a Fatigue Level. Level 10:	Inflict a minor disease. Level 15:	Cripple a limb, making it unusable but still capable of healing as a Medium Wound. Level 15:	Destroy one of a person’s minor senses. It heals as a Medium Wound. Level 15:	Inflict a serious disease. Level 20:	Destroy one of a person’s major senses. It heals as a Heavy Wound. Level 20:	Inflict a major disease.''
 
-|]
+|}
 ''are at –2 to most activities while coughing. (Base 3, +2 Voice, +1 Diameter)''
 ''Curse of Quotidian Fever VuSa Level 25 R: Voice, D: Mom, T: Ind This curse potentially afflicts the target with a serious disease. If the player fails a Stamina check against an Ease Factor of 6, her character contracts a serious form of quotidian fever. Within a simple die hours, the character begins to suffer from a high temperature, red color, and a constant fever. The disease inflicts a Medium Wound on the character, and she suffers the symptoms of the disease until the Medium Wound is healed. (Base 15, +2 Voice)''
 ''Curse of the Aged Swordsman VuSa Level 15 R: Voice, D: Mom, T: Ind The curse causes the victim to suffer painful cramping and stiffness in one hand. The character suffers –2 to all activities involving the afflicted hand. The cramping and stiffness heal as a Light Wound. (Base 5, +2 Voice)''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seeds for the Learned Magician Spell Guidelines''
 
 ===Ill News===
@@ -391,7 +391,7 @@
 
 ''Banditry in the forests near the characters’ covenant is on the rise. The ill-organized and poorly equipped bandits have started defeating the local authorities with ease. Prices start to rise and all commerce begins to dwindle. The characters are forced to investigate. They discover the bandits are exceptionally strong, tough, and skilled with weapons. If the characters defeat one of the bandits, they discover he has a Tueor Salutem and Fortunam chartae on him. When the bandits are tracked back to their hideout, the characters discover that the highwaymen have captured a scholar and are forcing him to provide them with charms. If the learned magician is rescued, he is very grateful and offers his services to the covenant for a time.''
 
-|]
+|}
 ''Hedge Magic Magical Dangers''
 ''The learned magicians are exposed to several hazards through the use of their magic. Magicians call upon the powers of the realms in which they cast their charms, and sometimes those powers take exception to the entreaties. When this occurs, a learned magician can temporarily lose his ability to cast charms, and sometimes those powers abduct the learned magician, forcing him to spend a period of time in their realm.''
 
@@ -440,12 +440,12 @@
 ===Epistolary Community===
 
 ''The Gifted members of the Mathematici seldom teach as masters. The social effects of The Gift prevent them from being effective teachers to large classes, after all. The unGifted members of the Mathematici bear that burden instead, but in exchange for teaching they require instruction in the magic of the learned magicians. However, despite their desire to improve their magical abilities, few unGifted magicians wish to remain in close contact with their Gifted masters. To limit personal contact, the Gifted masters often loan their unGifted students tractatus on their Arts in exchange for freedom from teaching. Because both student and teacher live in the same community, they are able to prepare correspondence and receive a response within the hour. This close proximity allows the master and student to engage in a disputatio through correspondence. In fact, whenever possible the Gifted members of the Mathematici rely on correspondence to communicate with others, which allows them to overcome the negative social aspects of The Gift to a certain extent. A Gifted mathematicus might exchange extensive correspondence with a potential employer, provide a copy of a text, or send written commentary of his lectures to establish his bona fides and secure a teaching position. If the mathematicus maintains the correspondence over months or years and is successful in a Communication + Charm roll against an Ease Factor set by the storyguide, the character might be treated as described under “Established Relationship,” rather than “First Impression” (see ArM5, page 76) when''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: Historical Investigation''
 ''Despite their ambivalent feelings about the history of their magical tradition, many learned magicians recognize that Greek and Egypt sources provide fertile ground for discovering new charms and laboratory texts. The characters might encounter a mathematicus exploring these lands for new sources of magic, or a well-traveled mathematicus might have discovered a valuable source of Insight for Hermetic integration.''
 
-|]
+|}
 ''finally dealing with the correspondent in a face-to-face meeting. Because of the negative social effects of The Gift, the learned magicians also conduct much of their internal business via correspondence. When the Mathematici must meet, the meetings are often held in darkened rooms with each member hooded to ensure anonymity. It is often the case that members of the Mathematici who have engaged in extensive correspondence with one another have no idea what the others look like.''
 
 ===Traditions of the Mathematici===
@@ -463,17 +463,17 @@
 ===Minor Covenant Boon: Mathematicus Ally===
 
 ''Take this Boon if the troupe wants to limit the stories about the existence of their learned magician ally. A single mathematicus lives near the covenant. He’s likely a graduate of the University of Bologna and may be teaching or tutoring students locally. He assists the magi if possible and shares information with them. The magician may aid the covenant out of intellectual curiosity or because he’s seeking employment.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Story Seed: Second-hand Books''
 ''The covenant unknowingly hires an unGifted mathematicus as a librarian or to instruct apprentices in Latin and Artes Liberales. The mathematicus copies and trades texts on Code of Hermes, Magic Theory, and Order of Hermes Lore to his Gifted brethren, to improve the player characters’ mundane library. How do the charac''
 ''ters react if the discover this trade? If the characters aren’t careful, the mathematicus might discover and propagate the secrets of Parma Magica, after all. And if the Order discovers the characters were indirectly responsible for allowing information on Parma Magica to be learned by others, it would be a serious breach of the Code.''
+
+|}
 ''Stefano the Master''
 ''Characteristics: Int +4, Per +1, Pre +1, Com +2, Str –1, Sta –1, Dex 0, Qik +1 Size: 0 Age: 30 Decrepitude: 0 Warping Score: 1 Confidence Score: 1 (3) Virtues and Flaws: The Gift; Magister in Artibus, Mathematicus of Bologna; Affinity with Divine Lore, Arcane Lore, Book Learner, Educated, Great Intelligence, Improved Characteristics, Skilled Master; Driven, Dependent; Deleterious Circumstances (wilderness), Susceptibility to Infernal Power, Weak Magic, Poor Eyesight Personality Traits: Driven +3, Scholarly +3, Stubborn +2, Fair +1 Reputations: Accomplished Scholar 2 (local) Combat: Dodging: Init +1, Attack n/a, Defense +1, Damage n/a Soak: –1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Arabic 1 (charms), Artes Liberales 5 (astronomy), Bologna Lore 2 (geography), Charm 2 (putting others at ease), Church Lore 2 (history), Civil and Canon Law 2 (treatment of magic), Divine Lore 5 (names of power), Etiquette 2 (nobility), Faerie Lore 2 (names of power), Folk Ken 2 (clergy), Infernal Lore 2 (names of power), Italian 5 (poetry), Latin 5 (letter writing), Lore of the Mathematici 2 (Initiations), Magic Lore 2 (names of power), Medicine 3 (physician), Philosophiae 4 (moral philosophy), Profession (Scribe) 1 (flowery script), Teaching 3 (Artes Liberales),''
 ''Theology 2 (treatment of magic) Arts: Tu 2, Su 2, Vu 2, Fa 14, Ma 6, Sa 5 Equipment: Clothes, walking stick, and a writing material. Encumbrance: 0 (0) Spells Known: Grant Fortuna Belli (Single Weapon) (TuFa 15/+9) Grant Fortuna Belli (Brawl) (TuFa 15/+9) Charm against Capriciousness (Medicine) (TuFa 15/+9) (Personal Range) Magical Fortitude Charm against Magic Fire (+8 Soak) (TuMa 5/+5) Magical Fortitude Charm against Magic Claws (+8 Soak) (TuMa 5/+5) Magical Fortitude Charm against Magic Teeth (+8 Soak) (TuMa 5/+5) Charm against Entrancement (+9 Ease Factor) (TuMa 10/+5) Charm against Hex (+9 Ease Factor) (TuMa 10/+5) Gift of Prometheus (Good Teacher) (SuFa 20/+9) (Personal Range) Charm of Communication (+1) (SuFa 20/+9) Charm of Stamina (+1) (SuFa 20/+9) Charm of Protection against Achilles’ Bane (fists) (+8 Soak) (TuSa 5/+5) Charm of Protection against Achilles’ Bane (kicks) (+8 Soak) (TuSa 5/+5) Dispel Fortuna Belli (Brawl) (VuFa 5/+9) Dispel Fortuna Belli (Single Weapon) (VuFa 5/+9) Charm of Protection against the Faerie (Might 5) (VuMa 5/+5) Charm of Protection against the Infernal (Might 5) (VuMa 5/+5) Curse of Coughing Fits (VuSa 10/+5) Appearance: Stefano is a slight man with spindly arms and legs. He has a slight paunch from spending too much time at his studies. He has a broad smile and cheerful brown eyes. His bushy black beard is starting to go grey.''
 ''Stefano was born in Rome, where his father was a well-known jurist. The social effects of The Gift made Stefano’s childhood an uncomfortable one, and his father sent him off to the finest teachers money could buy, largely to keep the strange child from embarrassing the family. Stefano attended the University of Bologna where he encountered the Mathematici. He was a quick study and became an accomplished scholar. Stefano impressed the senior members of the guild of masters and was offered a teaching position. Stephano’s father died recently, and his stepmother sent his adolescent sister to Bologna to live with him. They frequently argue because Stephano pays little attention to his sister and she resents living in the relative poverty required by Stephano’s profession. Although their relationship is tense, Stephano would do anything for his sister. Stefano is very concerned about doing a good job as a teacher, and casts Gift of Prometheus and Charm of Communication before every lecture. These charms do not allow him to overcome the effects of The Gift, but as the year progresses his students warm to him as the negative effects diminish somewhat, and they begin to appreciate his eloquent lectures. Stefano obsesses about the Church and its stance on the use of magic. He is worried that the Church will uncover the Mathematici and make trouble for them and the University. In his spare time, Stefano has been corresponding with clergy across Mythic Europe to discuss his research on canon law regarding the use of magic. Because Stefano learned his magic while studying to become a Magister, no additional experience points were assigned for the years of his “apprenticeship.”''
-
-|]
 
 ===Minor Covenant Hook: Mathematicus Resident===
 
@@ -491,14 +491,10 @@
 ===History and Culture===
 
 ''Developed in ancient Egypt, the occult science of alchemy has been practiced for thousands of years. The ancient Greeks and Romans were well versed in its mysteries, but with the fall of the Roman Empire the knowledge of alchemy was nearly lost to the West and only survived in fragments. The alchemists of Mythic Europe have recently gained new insight into this art. In 1144, Robert of Chester translated Morienus Romanus’ Liber de Compositione Alchemiae into Latin, making it the first Arabic alchemical work accessible to the West. By 1220, many other treatises on alchemy are available in Mythic Europe — both Greek and Roman classics translated from Arabic, and alchemical texts written by Arab practitioners. For an extensive discus''
-
-[|
 ''Marco the Student''
 ''Characteristics: Int +1, Per +2, Pre +1, Com +2, Str 0, Sta 0, Dex –1, Qik 0 Size: 0 Age: 27 Decrepitude: 0 Warping Score: 0 Confidence Score: 1 (3) Virtues and Flaws: Priest, Mathematicus of Bologna; Strong Amulet Magic, Tueor; Magicam, Relic, Salutem, Sense Holiness and Unholiness, Social Contacts (minor clergy), Student of the Divine, Well-Traveled; Compassionate, Intervention Prone, Plagued by Angel; Incompatible Hedge Arts (Vulnero & Salutem), Fragile Constitution, No Magic Defenses, Short-Lived Magic, Short-Ranged Magic, Social Handicap (sickly), Vow (celibacy), Warped Magic, Weak Magic Personality Traits: Kind +3, Curious +2, Shy +1, Brave –1 Reputations: Creepy 2 (local) Combat: Dodging: Init +1, Attack n/a, Defense +1, Damage n/a Soak: –1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–5), –3 (6–10), –5 (11–15), Incapacitated (16–20), Dead (21+) Abilities: Artes Liberales 2 (rhetoric), Brawl 1 (dodging), Bologna Lore 3 (graveyards), Charm 2 (superiors), Church Lore 2 (legends), Civil and Canon Law 2 (regulations), Divine Lore 3+2 (names of power), Etiquette 3 (Church), Folk Ken 3 (clergy), Intrigue 1 (appointments), Italian 5 (preaching), Latin 4 (Church rites), Lore of the Mathematici 1 (history), Magic Lore 2 (ghosts), Philosophiae 2 (natural philosophy), Sense Holiness''
 ''and Unholiness 4 (ghosts), Theology 2 (purgatory) Arts: Tu 1, Su (n/a), Vu (n/a), Fa (n/a), Ma 7, Sa 7 Equipment: Simple robes. Encumbrance: 0 (0) Spells Known: Magical Fortitude Charm against Magical Claws (+10 Soak) (TuMa 10/+5) Charm of Alacritous Fortune against Claws (+4 Defense) (TuMa 10/+5) Charm against Hex (+9 Ease Factor) (TuMa 10/+5) Charm of Protection against Achilles’ Bane (knives) (+10 Soak) (TuSa 10/+5) Charm of Protection against Achilles’ Bane (clubs) (+10 Soak) (TuSa 10/+5) Appearance: Marco is a portly man with a thin smile and beady black eyes. Marco is constantly coughing, wheezing, and wiping his nose on the sleeve of his black habit.''
 ''Marco came to Bologna after corresponding with Stefano for several years. Through their correspondence, Marco came to realize that Stefano possessed knowledge of the supernatural. Marco sought him out because for as long Marco can remember he has been pestered by a creature claiming to be an angel. The creature exhorts Marco to assist the spirits of the recently departed on their way to the afterlife. Marco is not sure that this creature is an angel, but it seems to be prodding him to do good deeds. The angel has also encouraged Marco to learn more about purgatory. In his travels, Marco has acquired a finger bone of Saint Odilo, the patron saint of souls in purgatory. Although Marco has only studied for two years as a member of the learned magicians, he is able to create amulets and chartae to assist him in his vocation.''
-
-|]
 ''sion, see the Experimental Philosophy chapter of Art & Academe. Although alchemical texts are available to the literate population of Mythic Europe, alchemists and alchemical writers express constant concern about the need to keep its secrets from the general populace, from the ignorant, and from the foolish for fear of the damage it could do. Of course, some alchemists also acknowledge that widespread knowledge of the secrets of alchemy would diminish the power of each practitioner. Regardless of the reason, most mythic alchemists are loath to divulge their powers to others. They write in code and speak in parables to ensure that only those worthy of the knowledge may obtain it. Many mythic alchemists gain their knowledge from a single teacher, but some are born with the ability to practice alchemy or gain it through exposure to alchemical texts. Mythic alchemist Initiations follow the rules presented in the Introduction. The Ordeals inflicted often reflect the alchemists’ obsession with keeping their knowledge secret and ensuring that their magic does not fall into the wrong hands.''
 
 ===Magic===
@@ -539,10 +535,13 @@
 ===Consequences of Integration===
 
 ''The principal consequence of Integrating this effect is to greatly increase the number of magical devices available to nonmagi. With this Breakthrough, magi are able to create devices tailored to situations their grogs are expected to encounter. Grogs are likely to benefit from devices to assist them in combat, such as projectile weapons with Perdo Corpus, Creo Ignem, or other combat effects. Other uses include defensive devices, such as Rego Terram, Rego Herbam, or Muto Corpus effects. Because the charged device is essentially the equivalent of a formulaic spell for magi, it is unlikely that they will create many devices for themselves. Magi with different areas of expertise might exchange useful charged devices with each other. The primary benefit of the Integration would be to allow a magus to use his Lab Total to cast the equivalent of a formulaic spell that he does not know. Of course, a magus who uses a particular spell effect on a regular basis would always be better served by learning and mastering it, rather than relying upon a charged device.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Minor Hermetic Virtue: Quick Charged Items''
 ''The magus is able to create singleuse charged items. The level of the effect of the charged item must be less than or equal to the magus’ Lab Total. The magus must spend one hour per magnitude of''
 ''the effect of the item. At the end of that period, the magus creates a charged item with a single charge. All other restrictions on the creation of charged items must be followed.''
+
+|}
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -25,8 +25,8 @@
 ''haunts of the fae, humans can sometimes slip through the cracks and end up in Faerie. This is especially true if the characters are lost — add 3 Threshold points for a border crossed when the travelers truly have no idea where they are. Even without a Faerie aura, a geographical boundary is a potent attractor of the Threshold, and the sharper and more distinct the border crossed, the larger effect it has on the Threshold points of the travelers.''
 ''Border Crossed: Insignificant Threshold Points: 3 Examples: A road, stream, or fence.''
 ''Border Crossed: Minor Threshold Points: 6 Examples: A crossroads, confluence of rivers, edge of a wood, or city wall.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example Threshold==
 
@@ -37,7 +37,7 @@
 ''A trod is a geographic boundary — a river, shoreline, edge of a forest, and so forth — that has a Faerie Aura. In a trod, just the liminal space of the border itself has an aura, not the surrounding landscape, so the edge of a faerie forest is not a trod. A Faerie Road (see Chapter 1: The Nature of Faerie) is a particularly effective trod, since regiones in general are highly amenable to passage into Faerie. Trods are potent paths into Faerie; as well as their inherent Faerie aura, they are also always accounted to be at least a Significant Threshold. Those entering the Faerie Realm on a trod often find them''
 ''selves on the Mother Road (see later), and the locations of trods are highly sought by those who use the Mother Road. Trods also connect the different levels of a Faerie regio with one another, and characters with Second Sight, Magic Sensitivity, or suitable Intellego Vim spells can see them as winding paths, and follow them between the levels of reality (see ArM5, page 189). No trod has verifiably connected a layer of one regio to a layer of a different regio; those who claim to have made such a journey are believed to have briefly used the Mother Road.''
 
-|]
+|}
 ''Border Crossed: Significant Threshold Points: 9 Examples: An oasis in a desert, beyond the treeline of a mountain, or a trod.''
 ''Border Crossed: Major Threshold Points: 12 Examples: A significant border that is also a boundary into a Faerie regio.''
 ''Border is Crossed While Lost: +3''
@@ -84,8 +84,8 @@
 ==The Guardian of the Threshold==
 
 ''The Guardian of the Threshold is always the first entity encountered when a character (or group of characters) gains access to the Faerie Realm. Until the Guardian has been passed, the crossing to Faerie has not actually occurred. The purpose of the Guardian is to test the resolve of the characters. Faerie protects its own borders, and the Guardian''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==New Power: Spirit Away==
 
@@ -96,7 +96,7 @@
 ''A faerie must go through exactly the same procedure as a mortal character to enter Faerie. Cognizant faerie characters can often pinpoint specific conditions that grant the best chance of attracting a Threshold, and consequently are more adept at entering the Faerie Realm. Highly cognizant faeries automatically have a number of Threshold points equal to the magnitude of their Might. Narrowly cognizant faeries can add the magnitude of their Might to Threshold totals that evoke liminal conditions related to their understanding of their role. Thus a narrowly cognizant night terror can assist in Threshold totals that occur at night or rely on strong emotions of fear. Incognizant faeries get no bonuses to Threshold totals. Note that these extra Threshold points are different than the''
 ''Spirited Away power; in this case, the faerie itself must be crossing the Threshold, rather than assisting others to do so. All faeries intuitively know which of the choices provided by the Guardian of the Threshold leads to the Faerie Realm, and which one goes to the mundane world. When in the Faerie Realm, faerie characters retain the same role that they possessed in the mundane world, but often find it easier to gain fable points (see later) since they understand the rules of the game better than humans. Assume that all faerie characters have the Common Sense Virtue while in the Faerie Realm. Since they have a Might Score, they are also immune to any Warping acquired when leaving the Faerie Realm (see Leaving Faerie, later).''
 
-|]
+|}
 ''is there to ensure that people do not slip through its bounds whenever they cross into a Faerie aura. The Guardian presents a choice (in reality or metaphorically) — carry on or go back. It should usually be obvious to the characters which choice indicates passage into the Faerie Realm. If they are struggling, a successful Intelligence + Faerie Lore roll against an Ease Factor of 6 will provide additional hints. In general, choices that lead to adventure, danger, or wonder take the characters into the Faerie Realm; whereas those that suggest safety, routine, or mundanity take the characters home. The form of the Guardian of the Threshold varies wildly between trips, and is also dependent on the circumstances of the journey. It is not always even a faerie being. For example, the Guardian could take the form of a physical barrier (such as a bramble thicket) or a monument. As a barrier, the traveler must make a choice to cross; the monument might have a foreboding aspect or bear dire words to repel the unready. Passive Guardians of this type may be incorporated into the Threshold itself, particularly if it’s a geographic boundary. Characters can therefore slip inadvertently into Faerie by trying to overcome the obstacle presented by a passive Guardian. More commonly, the Guardian takes the form of a human or animal who attempts to halt the journey, through threats or friendly counsel. Such characters are never purely mundane, and there is always something unusual about them. Most obvious, for animal Guardians, is the ability to speak; more rarely the animal takes on human mannerisms or even clothes. Guardians who take the form of animals are usually creatures who straddle a border — often waterfowl such as geese, storks, herons, or ibis — which all partake in both water and air. Amphibious creatures such as frogs and otters are also common Guardians. Another type of animal guardian is those that have undergone a role reversal, such as a domestic animal that has clearly gone feral, or a wild animal that has adopted the trappings of domesticity. Fierce animals such as wolves and bears usually come under the category of the kerberoi (see later). Human Guardians often have a deformity, such as giant size, excessive amounts of hair, or the feet of a duck. The color of the skin may be particularly vivid, with green being the most common. Human Guardians are more often women than men, and more often old women than maidens. The shape that they take is again is that of a person who traverses multiple human realms, such as a wanderer or outcast, a prophetess or madman.''
 ''The last type of Guardian is a fearsome monster that blocks the way. This sort of Guardian is referred to as kerberoi by the followers of Merinita, and many travelers make the mistake of trying to fight the monster, assuming that the only progress can be over its corpse. This is certainly one way; however, a kerberos is always restrained in some fashion, and can always be bypassed through trickery''
 ''or courage. The fearsomeness of the monster is usually sufficient to repel the casual traveler. All Guardians of the Threshold have a Faerie Might at least equal to the Threshold total of the group, although Guardians at famed entrances to Faerie (such as a powerful aura or regio) may have much higher Might. The other details must be determined according to the situation, but some of the statistics of faeries in Chapter 4’s Faerie Bestiary can be used for inspiration. However, the Guardian is supposed to be a roleplaying challenge rather than a battle, and a fight should never be inevitable. The sections below about the different aspects of Faerie give typical Guardians.''
@@ -113,14 +113,14 @@
 ===The Mother Road===
 
 ''The imagery of the Faerie Realm as a road, and adventures therein as journeys, is a pervasive metaphor. After all, stories them''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Power of God in the Faerie Realm==
 
 ''As the home (and perhaps source) of all things fay, the beings found in the Faerie Realm are subject to the same restrictions as those found in the mundane realm. Faeries with traditional or sovereign wards (see Chapter 3: Faerie Characters) involving religious symbols are affected by them just as strongly on their home turf. The power of God permeates the Faerie Realm just as it does all creation, so characters with True Faith, miraculous powers, or relics find these things just as potent as they are elsewhere.''
 
-|]
+|}
 ''selves are journeys that bring the hero from boring mundanity, through a place of fantasy and adventure, to attain some wondrous prize at his destination. Furthermore, a road — like a story — is a method of communication. Some storytellers tell of a Mother Road, the source of all roads, whose highways and byways may be traveled by those who know its secrets. This Mother Road is the Faerie Realm, and it can be used to swiftly traverse vast distances in a short space of time. Practitioners of the Faerie Power of Portage have learned to exploit the Mother Road as if they were a native. Hermetic magic is more limited in this regard, and expertise with the Mother Road is largely the expertise of those members of House Merinita who belong to the group known as the Wayfarers (Houses of Hermes: Mystery Cults, page 80). By stepping onto a trod, a maga deliberately invokes the Threshold and enters the Faerie Realm. She must then strike a bargain with the Guardian of the Threshold to allow her to immediately leave Faerie, but at a point of her choosing (although the exit must also be onto a trod). The stay in the Faerie Realm is often so brief that she see little more of it than a road, which supports the hypothesis that all paths in Faerie are really one. Since the traveler spends no time interacting with story elements, she accumulates no fable points (see later) and the whole journey might take a fraction of the time that it appears to (typically one minute passes for every 24 minutes spent in the Faerie Realm; see Leaving Faerie, later). This method of travel is not without peril, since the Guardian of the Threshold may be her only way out of the Faerie Realm. Since her purpose is the journey itself, she cannot complete her story, which is the usual method for leaving the Faerie Realm. Without possessing another exit (such as the Arcadian Travel Mystery Virtue), she is dependent on pleading, bargaining with, or forcing the Guardian to let her return to the mundane world. Nevertheless, the advantages of being able to travel to a place to which one has never been, nor owns an Arcane Connection, is worth the risk in the opinion of some magi.''
 
 ==Glamour==
@@ -222,14 +222,14 @@
 
 ''Adventures in the Faerie Realm come to an end when the story reaches its conclusion. Due to the nature of stories in Faerie there is''
 ''always a conclusive end: the hero triumphs over the villain, recovers the princess, or fails to save his kingdom from his half-brother. Once the story has run its natural course, the characters encounter the Guardian of the Threshold again, who sends them home. Under most circumstances, the Guardian appears slightly different than when the characters first met it, depending on the outcome of the story. For example, if a story revolved around fighting the force of Winter and restoring Spring, then the ancient white stag who initially barred their passage may return as a stumbling fawn. If the story ends by the hero marrying the princess, the bride may transform into the crone who acted as the Guardian. The inscription on a monolith might change, or a barrier of thorns transform into a garden of roses. Whatever the change, passing the Guardian the second time returns the characters to the mundane world. They are usually deposited in the same place they left, but characters exploiting the Mother Road (see later) intentionally or by accident find themselves elsewhere. Characters cannot prolong their stay in the Faerie Realm by refusing to partake in stories. For example, aware of the time dilation effect of Faerie (see later), a magus''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Consequences of Creativity==
 
 ''The use of creativity in the Faerie Realm allows a character to change a story, and potentially bypass a dramatic story element. However, the intention is that this process should never be resolved by a simple die roll; to make even relatively minor changes to a faerie the character must come up with a clever way to employ his creative abilities, and must often also promise a story in return for the resolution. Further, the cost in terms of fable points and Fatigue limits the use of this device in any given story. Creativity cannot entirely bypass an entire story, just a single plot element. And by encouraging creative ways to negotiate their way out of a situation they cannot solve in their usual manner, the player characters are generating stories and feeding Faerie. A storyguide should ensure that as much enjoyment can be derived from the creative changes as from the original story.''
 
-|]
+|}
 
 ==Leaving by Using Merinita Mysteries==
 
@@ -247,15 +247,15 @@
 ==Living in the Story==
 
 ''A character can quite literally become a living story in the Faerie Realm. Rather than participating in stories, the character begins to stage them instead, and becomes more and more mired in the glamour of the realm. Eventually the desire to return home fades entirely, along with the character’s humanity. The glamour of the Faerie Realm gradually replaces his flesh, and the character becomes a faerie. Since the character has retired from the game by choosing to remain in Faerie, there needs to be no specific mechanic for this process; troupes who need to simulate it are directed towards the Becoming Mystery Virtue on pages 93–96 of Houses of Hermes: Mystery Cults, House Merinita. Typically, this process starts to takes place after several years pass since gaining a fable score of 10.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Subjective Nature of Time==
 
 ''What happens if a group of characters travels into the Faerie Realm and meets up with another human who has been there for a different amount of real time — and then they all return together? For example, the characters aim to release the captive of a faerie from several months of bondage. Should this situation occur, the storyguide must determine what happens when they all return together; some possibilities are given here. Note that the effects of such a situation should not be known prior to the rescue event, and may be different the next time such a situation occurs.''
 ''• Time passes at the rate determined by the rescuers. • As above, but the rescued person ages the number of years difference. • Time passes at the rate determined by the rescued character. • The rescued character disappears upon reaching the mundane world, only to reappear years later after the appropriate time has passed. • The rescued person is replaced by an exact faerie replica. • Nothing untoward appears to happen at all.''
 
-|]
+|}
 
 ==Realms of Power: Faerie Spinning Tales in the Faerie Realm==
 
@@ -274,8 +274,8 @@
 ===Player-influenced Stories===
 
 ''An alternative to the player-driven stories, but still not returning wholly to the storyguide-driven stories of the mundane world, are those stories in which players influence the outcome of certain events in a way that enhances the enjoyment for all without abandoning the point of the story itself. This can be done by issuing each player with a generic plot device that he can use once during the adventure in the Faerie Realm. A plot device should be encapsulated in a succinct phrase or proverb, such as “misery loves company” or “never judge a book by its cover,” and given in secret to the player. At any point in the game, the player can elect to influence the plot by employing his device, which he should do by revealing the device to the storyguide and briefly outlining how the device can be used to change the current situation. A plot device is applied to the player’s own character, and can change the situation for that character only; although storyguide characters and perhaps any pooled characters may be indirectly affected. A plot device cannot directly influence another player’s character. The storyguide should try find a way to integrate the''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example Plot Devices==
 
@@ -283,7 +283,7 @@
 ''Charity Begins at Home Even a Strong Man Drowns in Armor Familiarity Breeds Contempt Double Jeopardy Pride Comes Before a Fall To Err is Human A Stumble Prevents a Fall''
 ''Misplaced Trust is the Unkindest Cut Barking Dogs Don’t Bite Give a Man a Second Chance Every “Bad” has its “Worse” Diamonds May Be Overlooked When Covered in Mud Kind Words Unlock Iron Doors A Dragon’s Tail Can Look Like a Snake Every Garden Has Weeds Every Cloud has a Silver Lining Many Hands Make Light Work There is Nothing to Fear but Fear Itself A Problem Shared is a Problem Halved What Doesn’t Kill Me Makes Me Stronger''
 
-|]
+|}
 ''suggestions of the player into the scene, but is not obliged to do so and can always veto the use of a plot device if it does not seem appropriate. If the plot device is refused by the storyguide, then the player can attempt to use it later on in the story. Example: In the court of the King of Summer, Mark’s character accidentally insults the king, and is condemned to imprisonment awaiting judgment. Richard (another player) employs his “misery loves company” plot device, and suggests to the storyguide that his magus is condemned along with the offending character, as Richard feels that the two characters together may be able to make an escape. Their storyguide agrees, and the king deems that since the magus laughed at the insult, he will suffer the same fate as the slanderer. Note that Mark couldn’t have used the same plot device to drag Richard’s magus into the same fate as his own character, because plot devices do not work on another player’s character. Plot devices should not be tailored to the specifics of the story. That is, the successful resolution of a story should not be dependent on a player employing the plot device assigned to him. Plot devices are assigned to players, not characters. If you are using the troupe-style play of Ars Magica Fifth Edition, then the player should use his plot device on his magus or companion character rather than any grog character he is currently''
 ''running. However, this is not a hard and fast rule, and the plot device should be employed where it will improve the game the most. Successfully employing a plot device is worth the reward of a bonus Confidence point at the end of the story, and also earns the character to whom it was applied a fable point.''
 
@@ -299,15 +299,15 @@
 ==The Inhabitants of Arcadia==
 
 ''Everything in Arcadia is potentially a faerie — the creatures, the objects, even the landscape the characters walk though. More precisely, every entity that comes to the attention of mortal characters has the potential to become an element in the story they experience while in Arcadia. Students of Faerie have debated as to whether Arcadia is the home to faeries, or their point of origin, or if it is independent of the faeries found in the mortal realm. Like the nature of the faeries themselves, such questions cannot be answered. The same types of faeries found in the mundane world are found in Arcadia, but here they all take on an additional role — The role is that imposed upon them by the presence of the characters. In the mundane world, a story is defined by the faeries who act it out; but in Arcadia, the story defines the faerie.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example of Arcadian Story Creation==
 
 ''Andrea is planning an adventure in Arcadia. She knows that the purpose of the journey is to free the local priest from the grip of a disgruntled faerie, so she makes the Enchanted Priest one of her story elements. She also wants to introduce her players to a particular faerie— Lofanneth Wolf-Brother — who will be important in a later story. Finally, she needs to include the priest’s captor Arduinna, the villain of the piece, and a variant of the Pale Man element described later. She decides to pick two more elements at random from the tables later on in this chapter, and comes up with the Stone Drum and the Wounded River. She now has to associate these elements with each other. Arduinna is clearly the captor of the Enchanted Priest, and Andrea also decides to make Lofanneth Wolf-Brother her captive as well, but she overlays this with a link of rivalry between the two faeries. Andrea makes the Stone Drum the weakness of Arduinna; the sound it makes causes all her powers to cease. Lofanneth is the donor who is the means by''
 ''which the heroes (i.e. the characters) acquire the Drum, in that he knows where it is hidden. But since he is under Arduinna’s power, he can’t tell anyone. Finally, the Wounded River (a strange combination, but it came up at random and Andrea liked the idea of a river of blood) is where the drum is hidden, but Andrea also decides to link it to Arduinna, in that she bathes there every day to refresh her Might. From starting with a handful of elements, Andrea has invented a story in a matter of minutes that has the feel of a faerie tale. She doesn’t know the details yet, but the framework is there already. Since she already knows that the characters will be entering Arcadia using a river as a geographical boundary, she decides that this will become the Wounded River once they cross the Threshold, making it the first story element to be encountered. They will then encounter a Transference act that takes them either to Arduinna (initiating a Reconnaissance) or Lofanneth (initiating a Receipt).''
 
-|]
+|}
 
 ==Realms of Power: Faerie The Path of Chance==
 
@@ -373,15 +373,15 @@
 ===Identification As the Hero===
 
 ''An important aspect of embarking on this road is that of identification. The character or characters, as soon as they pass the Guardian of the Threshold, must declare''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Hermetic Legends==
 
 ''Even the stories of the Order of Hermes have been witnessed in Elysium. Magi have reported taking part in Merinita’s first meeting with Bonisagus, the First Tribunal, and the Tempest that ended the Schism War. However, witnessing and participating in such stories cannot reveal secrets, for the components of such legends are constituted from the reportage of those who participated and told the tale to other mortals. Thus, the fate of Tytalus when he disappeared into the Maddenhofen woods cannot be illuminated in Faerie, since there were no spectators to this event. Similarly, conflicting stories of the same event (such as the many confused retellings of the Schism War) are equally''
 ''true in Elysium. And the appearance of the actors (who are of course faeries) conform to the preconceptions of the talespinners — the character of Bonisagus in a story from his own house has a very different appearance than the same character born of a Flambeau tale. Despite these limitations, Hermetic legends are still a popular topic among the few members of the Order who travel in Elysium. As most of these are members of House Merinita, that Founder is the most commonly witnessed. Those faerie magi who have conversed with an Elysian version of Merinita have come away with the distinct impression that their Founder is alive and well, and living in Faerie …''
 
-|]
+|}
 ''themselves to be the hero they wish to emulate. By standing in faerie and stating clearly and unequivocally “I am Prince Ivan,” the character is infused with the glamour of Elysium, and becomes Prince Ivan. Every faerie he meets from that point on will treat him as Prince Ivan. His clothes and possessions will change to signify the identification, although he does not acquire any magical accouterments that are significant in the story about to be embarked upon, and all his Characteristics, Abilities, and so forth remain the same. Identification with the hero in this manner costs the character a Confidence point, and thus is only possible for companions and magi. Simply identifying with the hero grants the character his first fable point, and thus a fable score of 1 (see Vitality in Faerie, earlier). This will prove useful in executing the functions of the hero. If the character is not alone on his journey, then there are two options. Firstly, one character can take the role of the hero and be supported by the other characters. In this case the other characters are largely ignored''
 ''by the inhabitants of Elysium. Any actions they perform to assist the hero in the completion of his tasks are assumed to originate from the hero. However, allowing other characters to overcome challenges on behalf of the hero means that he can never claim total victory for that scene. See later for more details of measuring success. The other way for multiple characters to take part in a Elysian story is for them to share the role of hero. Each must identify himself as the hero upon entering Elysium through a firm statement and the expenditure of a Confidence point. Following this, any of the identified characters can act in the role of the hero, but only one at a time. There must be some form of token — a sword, hat, cloak, or so forth — that the character currently taking the role of the hero must possess. The character who carries this token is treated as the hero. Even if the token is handed over in full view of a faerie, the faerie simply redirects his attention to the new character and seems not to notice the change in person. Note, however, that highly cognizant faeries (of which there are admittedly''
 ''few in Elysium) recognize this change in role and may seek to prevent it, although will still accept it if it takes place. It is wise from a game management point of view to issue the players with a token as well (such as a stick or a hat), to indicate the current “owner” of the hero’s role.''
@@ -393,15 +393,15 @@
 ===Planning Elysian Stories===
 
 ''To create a mythological story for characters to emulate, first decide on the base tale that fulfills the needs of the story. This process is normally completed by the players on behalf of their characters. The storyguide should then take the chosen story and break it down into different stages or''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example of Elysian Story Creation==
 
 ''The characters in Andrea’s saga are in desperate need of a source of particular vis to maintain a ritual to safeguard the covenant. They elect to go on an Elysian quest to uncover clues to its location. The story decided upon is that of Reynard the Fox, who is desperately seeking food. The story breaks down into the following scenes: Scene 1: Reynard raids the henhouse and catches Chantecler the cockerel, but is pursued by dogs. The cockerel escapes by appealing to Reynard’s pride, making him open his mouth to speak. The characters must sneak into the henhouse and capture the vigilant chicken, then — ensuring that they have been spotted — let their prize go. Scene 2: Still hungry, Reynard encounters a titmouse, who he persuades to give him a kiss, hoping to get a juicy mouthful of bird. He is tricked by the titmouse into revealing his true nature. The characters must continue to evade the dogs, which is the real purpose of this act; since deliberately failing to eat a small bird is hardly a challenge. Scene 3: Reynard next encounters Tibalt the cat. Knowing where there is a''
 ''snare trap, Reynard challenges Tibalt to a race, but fails three times to snare himself some supper. When the dogs from the henhouse incident catch up with Reynard, Tibalt trips him up and into the snare. Similarly to the previous challenge, deliberately losing a race is no fun. However, the storyguide decides that Tibalt fails to see the snare, and so the characters must prevent him from getting caught despite his own best efforts to do precisely that. Scene 4: Caught in the snare, the farmer has his hands on the thieving fox, and prepares to give him a beating. Once again, Reynard escapes using his sharp tongue. The challenge is two-fold here — endure the beating handed out by the farmer, and outwit him to secure escape. Scene 5: Finally, Reynard encounters Tiercelin the Raven, who has found some cheese. Reynard persuades Tiercelin to display his beautiful singing voice, thus he drops the cheese. Reynard finally gets to eat. Unfortunately for the characters, Tiercelin is unwilling to sing; he’s wise to the fox’s plan and will not be fooled in this manner. The characters must make him drop the cheese in a different manner.''
 
-|]
+|}
 ''scenes. Most stories of decent length have five or more separate acts; one element per story experience point you intend to hand out at the culmination of the quest is a good guide. If the story is a short one, then more acts may need to be added; see later for details on this process. For each act, decide what constitutes successful completion, and what factors can prevent the characters from achieving this completion. These factors need not be attested to in the original story, but if complications are invented out of dramatic necessity, they cannot interfere with the original tale. Example: In enacting the Arthurian Tale of the Barking Beast (see Chapter 4: Faerie Bestiary), the characters (playing the role of Sir Pellinore) must volunteer for the quest. However, another knight of Arthur’s court might volunteer before they get the opportunity; so the characters must persuade him to withdraw, perhaps by dueling him for the honor of the quest.''
 
 ===Adding New Scenes===
@@ -413,15 +413,15 @@
 ''The important part of an Elysian story is preserving the narrative of the original tale. Whether the characters are taking part in a''
 ''well-known story and interacting with the characters, or whether they are following an allegorical reflection of a particular tale, each story element must be resolved in the manner of the underlying story for the characters to succeed in their quest. Sometimes it might appear that the story drifts from its original plan due to the meddling of the characters, and that there is a danger that matters will not resolve as they should. For example, in the story of Gawain and the Green Knight, the characters take the role of Gawain. In the original story, Gawain smote the head from the shoulders of the Green Knight. But what if the character playing Gawain misses, or refuses to make an attempt? To complete the''
 ''story (and thus escape from the Faerie Realm) they must find a way to complete their objective, and bring the story back on track even if the exact circumstances are no longer applicable. In the above example, they must perhaps challenge the Green Knight again, and repeat the intervening quests — this certainly has more flair (and is mythically more appropriate) than simply taking another swing at the knight’s neck. The characters are also more likely to succeed in bringing their story back on track if their actions to rectify it generate fable points, since they are obeying the dictates of the story when doing such actions.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Twist to the Tale==
 
 ''An interesting twist on the Elysian story is for the characters to adopt a role other than that of the hero. For most stories, the only appropriate dramatis personae other than the hero are the roles of villain and princess — the remaining minor roles do not offer sufficient scope for stories''
 ''For example, in the story of Orpheus and Eurydice, the characters could take the role of Hades. They must ensure that Orpheus is sorely tested but succeeds, and also make sure that he looks back at just the right moment so that Eurydice is still lost to him.''
 
-|]
+|}
 
 ===The Measure of Success===
 
@@ -463,8 +463,8 @@
 ===Faerie Boons===
 
 ''Characters who embark on a Eudokian journey often return with a blessing or a malediction. Since a journey on the Forked Path is precipitated by a life-changing event, the boon or bane granted by the fae pertains to that event, either on a personal or a community level. Every choice made by the character should be recorded, and a tally made of the number of choices that bring the character closer to the theme of the story (“correct choices”) and further away (“incorrect choices”). Note that a correct choice has no moral designation. A story themed around Infidelity played out for a bridegroom has correct choices that lead to cheating and philandering. It might indicate that he is not ready for marriage, if he makes more “correct” choices in this quest. If the number of good choices outweigh the bad, then the overall experience has been positive. The character should adjust an appropriate Personality Trait by one point accordingly. Otherwise, the experience has been negative; again, adjust a Personality Trait to reflect the character’s new outlook. If the character made more correct choices than incorrect choices, then he acquires a Virtue. If all the choices he made were correct, then the Virtue is Major, else it is Minor. All Virtues acquired in this manner are balanced by the Lesser Charm Flaw (for a Minor Virtue) or the Greater Charm Flaw (for a Major Virtue). The Virtue (and its Flaw) may be permanent or it may fade over time, depending on the desires of the troupe. In the latter case, the Virtue vanishes when its governing charm is uncovered, copied, or stolen. See Chapter 5: Touches of Faerie for more details on how Charms affect Virtues. However, if the character made more incorrect choices than correct choices, then he acquires a Flaw. If all the choices took him further away from the goal, then this Flaw is Major, else it is a Minor Flaw. These Flaws are not balanced with a Virtue, but they fade with time; the character bears the Flaw for an amount of time equal to the time that passed while the character was in Faerie.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example Story Themes, and Virtues & Flaws==
 
@@ -473,7 +473,7 @@
 ''Theme: Magic Situation: End of Hermetic Apprenticeship Virtue: Cautious Sorcerer Flaw: Careless Sorcerer''
 ''Theme: Skill Situation: End of Craft Apprenticeship Virtue: Puissant Craft Flaw: Clumsy''
 
-|]
+|}
 
 ==Story Elements==
 
@@ -504,8 +504,8 @@
 
 ''A beautiful maiden imprisoned in a tower, pit, or dungeon. An essential companion actor is her guard — typically an ogre, a dragon, or a hedge of thorns. Her parents have placed her in this situation, for complex reasons of their own.''
 ''Path of Chance: This is a straightforward rescue mission. Path of Destiny: The obstacles must be overcome and the princess rescued in precisely the right manner. Alternatively, the quester could be the princess, or the guard who must fail to stop the hero.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Example of Eudokian Story Creation==
 
@@ -513,7 +513,7 @@
 ''An Ancient Wall: The first story element is a physical barrier to the characters, and Andrea decides it will double as the Guardian of the Threshold. If they cannot surmount the wall, then they cannot even enter Eudokia. The Ease Factors for Athletic rolls get tougher as one gets higher. Magic can easily bypass the wall’s barrier, but the wall remains unclimbed — every other act in this story is preceded by having to climb the wall until it is climbed properly. The Empty Forest: Beyond the wall is a forest, the villain. The trees resent the presence of animals and has scared them away — after all, plants were created before mere animals (this mirrors the magical threat as an older tradition than the “upstart” Order). The Empty Forest is seemingly endless, but''
 ''with enough perseverance against the vegetative foes raised against them, the characters will eventually meet ... The Leafy Counselor: A tree that is at odds with its fellows (does this hint at a potential ally in the rival tradition?). The Counselor wants to help, but must be convinced to betray its leaf-mates (the Counselor acts as the Donor here) through a series of tasks. One of these tasks introduces them to ... The Son of the Coin: A mercenary, who, as the False Hero, intends to incarcerate the characters and steal any honor they have in the eyes of the ruler of this realm. The characters are transferred to a distant place, and they must win their way back to the court of ... The Dying Lady: An ancient ash tree, that has suffered animal attacks (she has serpents gnawing at her roots, deer stripping her bark, and squirrels stealing her seeds), and is the source of the forest’s antagonism. She offers them a simple choice — either one character can return to the mundane realm, and win against the foe; or else all can return and they are sure to lose. Are they willing to sacrifice everything for victory?''
 
-|]
+|}
 ''Forking Path: Have the characters stopped to think as to why the princess is imprisoned? Perhaps there is a very good reason. Alternatively, this could be a test of obedience — is it not a father’s right to dispose of his children as he sees fit?''
 
 ===The Task-setting Ogre===
@@ -537,15 +537,15 @@
 
 ''An emaciated man with taut gray skin, red eyes, and prominent teeth. He is dressed in a burial shroud. The man is a vampire, who feeds on the living. Alternatively, the Pale Man is a woman.''
 ''Path of Chance: The vampire is a ravaging monster who eats corpses and craves''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Further Ideas for Actor Story Elements==
 
 ''Other ideas include:''
 ''• The Cruel Stepmother • The Queen of Otters • The Green Knight • The Boy Made from Iron • The Evil Twin (or the Foolish Twin)''
 
-|]
+|}
 ''blood. Since he is already dead, he is difficult to defeat. Those who he has consumed alive can be rescued from his belly. Path of Destiny: The man is Death, or, at least, a death. He is a guide to the recently departed, who must be tricked into passing over his victim, or taking someone else instead. Forking Path: Does the man represent death, or the refusal to accept that one has died? The Pale Man can assist in grief, since he demonstrates that there are worse alternatives to dying.''
 
 ==Props==
@@ -583,15 +583,15 @@
 
 ''A bubbling cauldron of brown-gray liquid, with suspicious-looking meat and unknown vegetables. Alternatively, a green fluid in a bottle, or a knobbly fruit with red spots.''
 ''Path of Chance: Suspicion over the safety of the soup might cause the characters to miss out on the magical powers it grants, or else save them from a horrible curse. Path of Destiny: The soup is served to her dinner guests by a crone, who gives her son the choicest portion with the meat of three white snakes. When eaten, they grant supernatural strength and resilience. The questers must ensure that they receive the magical portion, not the witch’s son. Forking Path: It’s all a matter of trust. What looks foul and unappetizing might be beneficial, but again it might also be exactly as it appears — disease-ridden swamp water.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Further Ideas for Prop Story Elements==
 
 ''Some more ideas include:''
 ''• The Soul in the Egg • The Magic Ring • The Self-Filling Purse • The Horn that Furnishes Soldiers • The Helm of Invisibility • The Word That Opens All Locks''
 
-|]
+|}
 
 ==Realms of Power: Faerie Scenery==
 
@@ -627,15 +627,15 @@
 
 ''A dark and foreboding wood, where little light reaches through the canopy. Strange noises haunt the forest, along with half-seen, swiftly moving shapes. Alternatively, the trees could be dead, and all sounds are swallowed.''
 ''Path of Chance: A forest can hide all sorts of ne’er-do-wells, mysterious hermits, magical trees, and fierce beasts. Path of Destiny: The traditional abode of the hag, the Ironwood is filled with her wolfish children. Forking Path: They say there is nothing to fear except fear itself. How true is that when one is lost among demonic-looking shadows and sharp-fanged critters?''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Further Ideas for Scenery Story Elements==
 
 ''Consider these ideas, as well:''
 ''• Spring • Autumn • Beneath the Sea • In the Kingdom of Death''
 
-|]
+|}
 
 ===The Abandoned Shrine===
 
@@ -643,8 +643,6 @@
 ''blood. Alternatively, the shrine could be found in a deep pit, or in a deserted town.''
 ''Path of Chance: This is the place for the villain to hold his showdown, or for the priest to be forced to yield his faerie powers.''
 ''Path of Destiny: The blood of an innocent will wake the god who slumbers in the shrine. Forking Path: Is it fair to let gods die? A powerful faerie who has protected his human worshipers for millennia risks death because his worship is considered idolatrous.''
-
-[|
 
 ==Ten Thousand More Story Elements==
 
@@ -657,5 +655,6 @@
 ===Objects===
 
 ''Second	 1 on 2 on 3 on 4 on 5 on 6 on 7 on 8 on 9 on 10 on Die First Die First Die First Die First Die First Die First Die First Die First Die First Die First Die 1 Queen Fox Eagle Drum Knife Acorn Child Mason Summer Fort 2 Serf Mouse Salmon Bed Loaf Apple Page Weaver Autumn Wall 3 Lady Weasel Robin Lute Key Willow Maiden Magistrate	 Lake Shack 4 King Lion Frog Mirror Book Rose Soldier Counselor	 Sea Manor 5 Prince Bear Ant Cauldron Sword May Blossom	 Hermit Orchard-Keeper	River Bridge 6 Beggar Wolf Swan Shawm Shield Hazelnut Crone Smith Dawn Ditch 7 Scholar Stag Bull Bottle Hammer Water Lily	 Holy Woman	 Dancer Shore Hill 8 Priest Goat Bat Coin Chalice Seaweed Infant Flautist Battlefield Forest 9 Merchant Ox Owl Gaming Piece	 Needle Thistle Father Shepherdess	 Harbor Desert 10 Death Badger Partridge Candle Cloak Burdock Waif Knight Crossroads	 Marsh''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

@@ -24,8 +24,6 @@
 ''hazard can be found in Tales of Mythic Europe, The Ship of Desire. Raffle is even simpler, as three dice are thrown and the highest total, or the highest matching numbers on two or three dice, wins. In “pair with an ace,” three dice are thrown in turn by each player, and the first to roll a matching pair and a one wins. These are the simplest dice games, with dozens more known, many with much more complex rules. It is simple — if six-sided dice are available — for Ars Magica players to play several authentic medieval games, and allow those with successful Legerdemain''
 ''tests or the Virtue Luck to change one die to the desired result! Even without dice at hand, Mythic Europeans played “heads or tails” (or, rather, “cross or piles,” for the designs on the coins). People gamble on almost anything to relieve boredom, from races between people or animals, to the weather, to the outcome of contests of skill. Games of chance are based upon the Ability Carouse, games of skill upon the Ability Concentration.''
 
-[|
-
 ==Some Unusual Pets==
 
 ''Some medieval pets seem unusual to a modern reader, but were widely kept even by monks and nuns. Game statistics are given for some of these animals here. These animals may be trained by their owners. The animals’ Qualities are described here in terms of the rules given in Houses of Hermes: Mystery Cults, page 40 but necessary skill modifiers are summarized here for ease of reference. These statistics are for mundane versions of these animals, but may be used as templates for Magical Animal Companions.''
@@ -36,8 +34,6 @@
 ''Size: –3 Qualities: Crafty, Defensive Fighter, Skilled Climber, Timid +3 to all climb rolls. Personality Traits: Mischievous +2 Combat: Bite: Init +3, Attack +9, Defense +8, Damage –5 Dodge: Init +3, Attack n/a, Defense +8, Damage n/a Soak: 0 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1–2), –3 (3–4), –5 (5–6), Incapacitated (7–8), Dead (9+) Abilities: Athletics 3 (climbing), Awareness 4 (food), Brawl 4 (dodge), Stealth 4 (hiding), Survival 3 (foraging)''
 ''Squirrel''
 ''Characteristics: Cun +1, Per 0, Pre –3, Com –5, Str –12, Sta +1, Dex +3, Qik +5 Size: –7 Qualities: Crafty, Defensive Fighter, Skilled Climber, Timid +3 to all climb rolls. Virtues & Flaws: Lightning Reflexes Personality Traits: Timid +3, Acquisitive +2, Inquisitive +1 Combat: Dodge: Init +5, Attack n/a, Defense +10, Damage n/a Soak: +1 Fatigue Levels: OK, 0, –1, –3, –5, Unconscious Wound Penalties: –1 (1), –3 (2), –5 (3), Incapacitated (4), Dead (5+) Abilities: Athletics 3 (climbing), Awareness 4 (food), Brawl 4 (dodge), Stealth 4 (hiding), Survival 3 (foraging)''
-
-|]
 
 ==Good Drink, Song, and Dance==
 
@@ -50,8 +46,8 @@
 ''common, and a host who does not put on a feast for a guest will soon gain a Reputation for being inhospitable. It is also customary in many manors for the lord to provide a public feast on certain holidays or special occasions.''
 ''Preparing the Feast''
 ''The noble feast is prepared as any other meal is, in the kitchen and bakehouse, which are usually detached structures built outside the hall to lessen the ever-present risk of fire. The kitchen often possesses cellars for the purpose of storing hanging meat. Cooking is performed on spits over an open fire, the spit turned by a small boy shielded from the heat by a screen of wet rushes. A metal dripping tray is placed below the meat to catch the fats and juices, and it is not uncommon for several large fires to be kept each with its own spit laden with cooking game and poultry. Stone ovens are heated by fires lit within within them, and then, when the flames have burned down to embers, the ovens are swept clean and are used for baking, with bread, pies, and pastries placed inside and allowed to cook as the oven cools. Adjustable cranes (a curved pole or metal rod) support cauldrons dangling over fires, in which sauces, stews, and boiled foods are prepared, the temperature being adjusted by raising or lowering the cauldron. The kitchen staff carries wood-handled metal ripping forks called''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Chess Partners==
 
@@ -65,7 +61,7 @@
 
 ''A visiting noble lady introduces a new dance to the court, and causes a sensation. The dance involves leaping, pirouetting, and performing spirals in a chain of dancers, and is very hard to get right, but when it is finally achieved everyone present is consumed with mirth and great excitement. But later that night, a number of the dancers slip off to adulterous liaisons, while others act lewdly and inappropriately in polite company. The chaplain is horrified, and entertains the whispered claims of the guilty that the dance bewitched them. What is the secret of the dance, and is the lady involved in some intrigue against the household?''
 
-|]
+|}
 ''flesh hooks for tasting the stew and checking if the meat is properly cooked. Work in a kitchen is extremely hot. Smoke and fumes exit through a louver of latticed boards set into the roof. Once ready, the food is placed in bowls of red or gray earthenware that is finished with a greenish lead glaze and sometimes decorated with simple patterns and carried to the hall to be served. With some castles having a staff of up to three hundred servants, officials, and others with the customary right to take certain meals in the lord’s hall, the kitchens are continuously busy and the cooks are extremely important members of the household.''
 ''The Noble Diet''
 ''Meat and fish served at feasts has usually been preserved by smoking, pickling, or salting, though par-boiling removes much of the salt before cooking in the case of roasts. Spices can be extremely expensive, especially if imported over long distances, but are used for their flavoring. However, because of the great price, they are used in small quantities and so much of the food tastes quite bland. No root vegetables are eaten, and it is considered unhealthy to eat fruit raw. (Fruit is, however, often served stewed or in preserves.) Even so, the noble household can draw upon a varied range of foodstuffs, all prepared with seasonal berries, vegetables,''
@@ -73,8 +69,8 @@
 ''Seating the Guests, and Good Manners''
 ''Within the hall itself, benches against either wall have trestles set up in front of them, so the staff sit with their backs to the walls.''
 ''Dancing and other entertainments take place in the central area, while at the top end of the hall a table is placed for the lord, his family, and important guests. The top table is headed by a chair where the lord himself sits, with guests sitting closer to or further from him in order of precedence. Most are seated on benches, but important guests are sometimes seated on wooden stools. Placing someone in too low a position can be seen as an insult, so Etiquette is used to decide the correct seating. The ladies eat with the men, and everyone on a table shares similar dishes, with the top table having the very best food. The top table is laid with a white tablecloth, with guests bringing their own eating knives and napkins. The food is served from bowls onto trenchers of flat, stale bread, which serve as plates, often with two guests to one trencher. Spoons may be used, and forks, though the latter are used mainly for serving rather than eating. A servant moves around with bowls of warm water and cloths for washing and drying hands throughout the meal, with fresh warm water brought for each course. Each table has its own dish of salt, with the finest salt on the top table, and coarser salt lower down. Salt degrades as guests dip their food in it, even though proper etiquette suggests they should avoid this practice and instead sprinkle salt onto their plates to season their food. Etiquette is gaining in popularity, with good table manners being a mark of noble birth. Polite conversation, gracious remarks''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Rats in the Kitchens==
 
@@ -88,7 +84,7 @@
 
 ''On a dark winter’s night a mysterious lady arrives at the court with a very small escort and claims hospitality. Young, noble in demeanor, and beautiful, she refuses to speak. Her escort explains she is vowed to silence by a solemn oath until what troubles her is resolved, but will not say, or do not know, what troubles her. None will speak of her rank or dignity, and with several important guests present, the household is troubled by the question of where she should be seated given that her birth is unknown. And why does the elderly nurse, a woman with a deep knowledge of the family history that reaches back generations, seem so worried by the visitor?''
 
-|]
+|}
 ''about the host, and restraint in eating are always appreciated, and gluttons and the crass are noted for their base behavior. At the lower tables, less emphasis is placed on manners, and good cheer and companionship as reflected in the Ability Carouse are more important than gracious manners governed by the Ability Etiquette.''
 ''Time to Eat''
 ''Feasts are an exception to the usual meal pattern. In most noble households breakfast is taken soon after dawn, with dinner served at some point between the hours of nine and eleven in the morning, although in warm climes it comes later, towards noon. Supper is usually served at six in the evening. A feast generally takes place in the very late hours of the night, with noble households often sitting down long after the sun has set, and eating and drinking until the early hours. With multiple courses and entertainers performing throughout, the feast takes many hours to conclude, and it is not uncommon for guests to fall asleep or succumb to drink and be placed on the hall floor. A few feasts break this pattern, mainly those held on religious holidays like Christmas and Easter. These feasts are held in the daytime, often with a number of tenants and even villeins''
@@ -99,14 +95,14 @@
 ==The Hunt==
 
 ''Hunting is an activity common to nobles across Mythic Europe. Whereas the Church is often opposed to tournaments, hunting is seen as a vigorous and manly exercise befitting a knight, and it is an expected leisure pursuit of all males of noble birth, also participated in by many ladies. It serves three purposes. First, it is considered a thrilling and enjoyable pursuit in its own right, occupying energies that might otherwise be spent on more sinful pursuits. Second, it is a martial pursuit, and those well trained in the tactics and skills needed for hunting can employ those skills in time of war, so it is a form of training for the knight’s primary role. Finally, there is a purely pragmatic benefit, in that the prey is taken home for the larder, and hunting therefore serves an important role in the noble diet and in providing for the household. The lower orders also engage in hunting, albeit outside of the chases, warrens, and forests where hunting rights are reserved. Game elsewhere may be freely taken by anyone with the ability to do so. (A chase or warren is a Minor Surroundings Boon; see Covenants, page 23.) In any area where hunting rights are not protected (as they will be increasingly in a century if your saga follows mundane history) peasants hunt and trap game with impunity. In some areas, like the Pyrenees or the forests of Germany, villages have specialist huntsmen who use bows, nets, and snares to catch prey and sell the game on the open market. However, within the Angevin domains and France it is customary for feudal grants of exclusive hunting rights to be made, and large parts of the countryside are designated as warrens or chases, places where hunting is forbidden to all but the noble (or clergyman) who holds the right. Given the economic importance of hunting, this is a minor source of income, and given the extremely high status attached to noble hunting, especially hunting with hounds, a grant of lands as a warren or chase is extremely prestigious, and fiercely protected with vicious gamekeepers and, against noble trespassers, lawsuits. Most protected of all were the forests, areas where hunting rights were held by the king. The designation of forests in England (where a third of the nation was designated as forest during the reign of King John) have become a major political issue. It is worth noting that a “forest” is not necessarily a wooded area, but rather a term designating a hunting reserve. The Royal''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Village Politics==
 
 ''Each Christmas time it is traditional for six leading tenants and six of the poorest tenants, plus the freemen of the manor, to gather in the lord’s hall for a lavish feast, with as much good ale as they can drink. This year, however, resentment and village politics threaten to boil over. Several squabbles break out, becoming more and more heated as calls are made for justice and a brawl seems about to break out. Normally the lord would quickly deal with such foolishness, but earlier in the day, news arrived that a gang of outlaws had ransacked the church and made off with the altar plate, and most of the fighting men have set off with the lord in pursuit. Can the ladies of the court manage to achieve peace, when so many of the servants are related to the disputants, or will the feast end in a fight?''
 
-|]
+|}
 ''Forest of Dartmoor in England, for example, is comprised of moorland. Wherever there are forests there are also usually poachers. Just as noble hunting is a high-status occupation, the poacher — who apes and deprives his betters of their rights — is a high-status criminal, and armed gangs of even clerical and noble poachers participate in this lucrative and illegal pastime, a significant insult to the landholder’s prerogatives, and therefore fiercely punished whenever practical. Holding hunting rights is therefore not only a privilege and sign of status, it can also require expenditure and effort to protect the right and to maintain it. The association of snares, nets, and traps with poaching and with commoners’ hunting makes all nobles decry such practices as contemptible, and such pragmatic approaches to taking game are considered to be a sign of low birth, and crass in the extreme. For the nobility hunting is a sport, and is played by rules and strict procedures governed by a well-established hunting etiquette, even if the taking of game is ultimately for practical reasons, that is, for the kitchen. Noble hunters do accept supernatural aid as being within the “rules of the game,” and frequently seek out charms, amulets, or prayers to bring success. Nobles are highly likely to seek such aid from any magician they are aware of in the vicinity. Spells that cause the prey to simply fall over dead, or otherwise fail to provide a challenging pursuit, are, however, regarded as a breach of etiquette as serious as the employment of nets or traps, and bring about nothing but embarrassment and hostility when employed, for they ruin''
 ''the sport. Similarly, only the healthiest and finest specimens of prey are sought after, as there is no status or sport in hunting a beast unable to provide anything less than a serious challenge. Old, sick, or lame animals might be hunted by clergymen or ladies, but for anyone else to pursue them results in a poor Reputation and a loss of respect from one’s peers. Noble hunting falls into two main types, which are similar across Mythic Europe: hunting with hounds, and bow and stable hunting.''
 
@@ -114,8 +110,6 @@
 
 ''Hunting is a prestige sport that requires the upkeep of specialist kennels, trained dog handlers, and considerable expenditure. The breeding, care, and acquisition of hounds are a noble preoccupation and source of conversation, even if much of the work is conducted by paid professionals attached to the household of the noble. The types of dogs found in noble households show considerable variation in breed and characteristics, but can be classified into main groups differentiated by the role for which they are bred. The main classes are lymers, running dogs, greyhounds, alaunts, mastiffs, harriers, and bird dogs. The first four are used when hunting with hounds, whereas harriers have a role in bow and stable hunting, and bird dogs are primarily''
 ''employed in hawking. Before considering how a hunt proceeds, one must be familiar with the role and characteristics of the hounds themselves. All hunting dogs are highly trained, requiring many seasons of work to teach them their specialist duties. This is the work of a commoner called a master of kennels, a skilled professional who holds a high-status position within the noble household, but there is no shame — and indeed there is some respect and status (represented by Reputation)—for the noble who participates directly in training his own pack of hounds. Lymers, heavy-jowled beasts related to the modern bloodhound, are dogs bred for their sense of scent and ability to move quietly while tracking prey. From an early age they are taught to remain silent, and to suppress yaps or barks while following an almost imperceptible trail. Running dogs are the animals that actually pursue the prey, and work in pairs, trained to move together and fight as a team with other pairs when the prey is finally cornered, exhausted. Like lymers they require a good sense of smell to follow the trail of the prey, but they lack the lymers’ stealth and restraint. Many running dogs resemble modern foxhounds and come in many colors. By far the best breed is the St. Hubert, from the Swiss monastery of that name where the abbot breeds these superb hounds, which, while slow, have unrivaled noses for prey. Greyhounds, the best examples of which hail from Scotland, are used to catch and bring down the prey, but are expensive and''
-
-[|
 
 ==Hunting Dogs==
 
@@ -132,8 +126,6 @@
 ''The Pack leader has Com –3, Leadership 5. Personality Traits: Cooperative +3, Loyal +3 Combat: Bite: Init +4, Attack +7, Defense +9, Damage –3 Dodge: Init +4, Attack n/a, Defense +7, Damage n/a Soak: +1 Fatigue Levels: OK, 0,–1, –1, –1, –3, –3, –5, Unconscious Wound Penalties: –1 (1–3), –3 (4–6), –5 (7–9), Incapacitated (10–12), Dead (13+) Abilities: Athletics 3 (running), Awareness 3 (deer), Brawl 3 (bite), Hunt 4 (deer)''
 ''Mastiff''
 ''Characteristics: Cun +1, Per +1, Pre –4, Com –4, Str +1, Sta +2, Dex +1, Qik +1 Size: –1 Confidence: 1 (3) Virtues & Flaws: Ferocity (defending owner) Qualities: Aggressive, Domesticated, Keen Sense of Smell, Large Teeth +3 to all rolls using scent, +2 to all Hunt rolls. Personality Traits: Loyal +3, Vicious +1 Combat: Bite: Init +1, Attack +11, Defense +8, Damage +4 Dodge: Init +1, Attack n/a, Defense +6, Damage n/a Soak: +1 Fatigue Levels: OK, 0,–1, –3, –5, Unconscious Wound Penalties: –1 (1–4), –3 (5–8), –5 (9–12), Incapacitated (13–16), Dead (17+) Abilities: Athletics 3 (running), Awareness 3 (intruders), Brawl 5 (bite)''
-
-|]
 ''limited to Northern Europe. The Irish provide the shaggy-coated wolfhound, which performs a similar role. The greyhound has unparalleled speed, but a poor sense of scent, and must be unleashed within sight of the prey or it will soon lose its quarry. Alaunts (Great Danes) are powerful animals that are generally brought forward for the final kill, held on leashes till the last stages of the chase. They are fighting animals, fresh and ready for the dangerous task of holding the quarry until the huntsmen can administer the killing blow. The best are white with black patches, and because of their vicious temperaments they are frequently kept muzzled. Where greyhounds or wolfhounds are not available, the lower-status alaunt performs the same role. Mastiffs are shaggy, powerful dogs, slower than a greyhound but bred for viciousness and strength, used when facing dangerous prey such as boar or bear. Mastiffs can be formidable opponents even to a man. They are kept as guard dogs or to protect flocks, are common throughout society, and are sometimes employed in the hunt instead of more expensive greyhounds. Harriers are small dogs used to chase hares, and employed in bow and stable hunting. Finally, bird dogs are trained for hawking. The best come from Iberia, and they are sometimes called espagnols or spaniels. Exceptional kennels may also use pairs of leashed leopards, but this is very rare even in Mythic Europe and only the very wealthiest can afford this extravagance. There are, of course, many other breeds of medieval dogs, from the lady’s lap dog to exotic animals from Scandinavia or the East, and a considerable trade exists, with animals being bred and imported from afar by ship. Any noble could be interested in acquiring a high-status or unusual hound for his kennels, and many regional varieties exist of each of these hounds.''
 ''Hounds and Aging''
 ''There is generally no need to keep track of the births and deaths of individual hounds. However, in the case of favorite dogs, trained animals, and other hounds important to the saga it may be desirable to keep track of their individual age and health. Medieval hounds can expect to live up to fourteen years, but some exceptional animals may live longer. A dog begins to age at ten years, and must make an Aging roll every season thereafter except in the spring, rather than every''
@@ -146,14 +138,10 @@
 ''The Quest''
 ''A formal hunt begins an hour or so before dawn when the first glimmer of light shows. The huntsmen set out in different directions on foot with leashed lymers to seek out suitable prey, in a process known as the quest. The huntsmen will have gathered the night before for a feast to discuss''
 
-[|
-
 ==Taming Creatures==
 
 ''Taming creatures is a seasonal activity. A character undertaking it accumulates a number of points each season towards taming a given animal equal to Intelligence + Animal Handling (no die). The taming is complete when the accumulated total of points exceeds a total equal to 1 + (2 x the creature’s Confidence Score). Points only accumulate between consecutive seasons, so if the character does something else for a season, accumulated point are lost. Points for taming animals cannot be transferred between trainers. The tamer must be able to interact daily with the creature throughout the season. If the tamer can generate enough points to tame a creature in a single season he may split his point total among the taming of several creatures of the same species, but he cannot tame a number of additional creatures in excess of his Animal Handling Ability Score. Once an animal is tamed characters with an Intelligence characteristic may command it. The animal can be commanded by any such character with the Animal Handling Ability, or by a character to whom the animal is loyal (as described in the next paragraph). Once a creature is tamed it acquires the Personality Trait (Loyal +0), directed towards the character who tamed it. If the creature already had a Loyal Personality Trait before it was tamed, it does not gain a new Trait, but rather, the old Trait becomes focused towards the trainer and its level does not change. Sometimes, commanding an animal calls for a Loyalty test, and as this is a “social interaction,” penalties for The Gift apply.''
 ''If he wishes, any character with the Animal Handling Ability may spend additional seasons with an already-tamed creature to improve or transfer the loyalty of that creature. Each additional season of training increases the Loyal Personality Trait by +1, to a maximum of +3. A character can only improve the loyalty of an animal that is loyal to him. Instead of increasing a creature’s Loyal Personality Trait with a season of extra training, the trainer can choose to instead transfer the animal’s loyalty to another character, who must also be present for the season. The trainer may even transfer the loyalty of the animal to himself if he was not the character who originally tamed the animal. Any character with the Animal Handling Ability may train and therefore improve a tamed animal’s Abilities using the standard training rules (see ArM5, page 164). As normal, the master must have a greater score in the Ability than the animal does. Usually, an animal may only be trained in Abilities that it already has a score in, as other Abilities are beyond its capacity, but the troupe may relax this restriction on a case-by-case basis, for example, to allow a horse to be taught to swim. At the end of any season spent training an Ability that the animal does not already have a score in, make a Loyalty test for the animal against an Ease Factor of 6. If this Loyalty test fails, then the animal does not gain any training experience and the season is wasted. Loyalty tests are not required to improve existing Abilities.''
-
-|]
 ''and determine the nature of the hunt’s prey, and then stayed overnight as guests of the host. The huntsmens’ job is to locate a suitable example of the chosen beast, in perfect condition, that will give good sport. Huntsmen each make Perception + (the lymer’s or huntsman’s Hunt Ability, whichever is lower) rolls against Ease Factor 9, to track an appropriate beast to its lair. After locating potentially suitable prey the huntsman does not approach, but instead tests Presence + Animal Handling against Ease Factor 9 to keep the lymer quiet. He then circles the prey collecting droppings and examining marks. The huntsman makes an Intelligence + Hunt roll against Ease Factor 9 to establish the quarry’s age and condition, and whether the beast is suitable, and then returns swiftly to be back in time for the hunt breakfast.''
 ''The Assembly''
 ''When the huntsmen return the guests have risen, and as dawn breaks and breakfast is served at a meal called the assembly, the huntsmen make their respective cases for the suitability for the day’s hunt of the prey they have found. The huntsmen pass around the table animal feces they have collected for the guests to inspect as they eat. These are examined with a test of Perception +Hunt against Ease Factor 12, with success telling a great deal about the age, health, and size of the animals. Based upon this the prey for the day’s sport is selected. The successful huntsman is praised and rewarded, and the guests hurry outside to mount.''
@@ -168,14 +156,14 @@
 ''If the Evasion Total is higher, the prey has won that round; if the Pursuit Total is higher, the hounds have won. On a tie, neither side wins. If the prey wins four rounds (which need not be successive), it has escaped. Similarly, if darkness falls before the prey is cornered (very unlikely), the prey escapes. If the hounds win four rounds (which, again, need not be successive), they have cornered the prey, ready for the kill.''
 ''The Kill''
 ''The hunters dismount now, and close in on foot to kill the prey. The host normally makes the kill with a sword, though he may''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: Poachers==
 
 ''Recently, game has been diminishing in a noble’s forest. Last night two gamekeepers were found dead, one apparently slain by a sword, the other’s skull crushed by a club or mace. Clearly, this is not the work of peasant poachers, and a person of some wealth was involved. Frightened villagers claim to have heard the sound of hooves and armor, as if several men rode through the woods at night, and whispers have began to circulate of devils in the forest. Who is responsible, and can they be brought to justice?''
 
-|]
+|}
 ''grant this honor to one of his guests if he wishes, and with dangerous creatures like bear or boar the hunters may all approach, or even call upon the huntsmen to assist with spears if the situation is severe enough. This is best resolved as a melee combat, but as the prey is typically fatigued it is normally over swiftly.''
 ''The Unmaking and Curee''
 ''Once the animal is slain it is butchered, which is known as the unmaking, and the dogs rewarded with offal and blood – the curee. There is a formal set of customs to this, represented by the Hunt Ability, and the hunters perform the task of skinning and cutting up the beast, while the huntsmen then carry it back to the larder. The hunters return home for the hunt feast, hopefully satisfied with a good day’s sport, but if the animal was run to ground too quickly then the whole process may be continued with another quarry selected from the report at that morning’s assembly. Of course not all hunts are this formal. Knights and lesser nobles often participate in quite informal hunts. Nonetheless, whenever possible, formal hunting in preferred.''
@@ -188,8 +176,8 @@
 ==Hunting Stories==
 
 ''While the process of playing out a hunt might not seem attractive, it has great dramatic potential, as the many medieval hunting tales show. A hunt ranges over large areas of wilderness filled with animals magical and mundane, and many hazards not found in the manor, village, or road. It involves characters from all levels of society who wander in small groups, often guided only by the distant cries of the hounds. Any hunting story should involve many encounters and mysteries stumbled upon in the depths of the woods. The wilderness of Mythic Europe is a strange and dangerous place, and no hunt should ever feel safe or mundane, just as in medieval stories no hunt was ever prosaic. It is quite possible for the hunters to become the hunted if they stum''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==The Terrain Bonus==
 
@@ -204,6 +192,8 @@
 
 ''While out hunting in the forest, an arrow glances off a stag and kills a prominent noble. The knight who fired the arrow is a vassal of another noble with a long-time enmity for the dead man. Was it an accident, or a deliberate assassination? The knight has been captured attempting to flee the country, but protests his in''
 ''nocence before God. The only witnesses are the wounded stag and the silent trees. Magi can question either easily enough, but who will believe their testimony? This story idea is taken directly from a historical incident, the death of William Rufus, King of England, in August 1100 after William Tyrell accidentally shot him.''
+
+|}
 ''ble upon predators or enemies, and in one of the most common medieval folklore motifs this happens quite literally, when a magician or fairy transforms one of the hunters into a beast of prey by some enchantment. Hermetic magi who make their homes in the wilderness may be troubled by hunts that come to the covenant, especially if the quarry takes refuge therein, and given that Beasts of Virtue and magical animals are the highest aspirations of any hunter as quarry, there are many possibilities for stories arising from hunting.''
 
 ==The Prey==
@@ -215,8 +205,6 @@
 ==L f M==
 
 
-|]
-
 ==Lords of Men Horses==
 
 ''A huntsman requires excellent hounds, but fine horses are essential to all aspects of noble life. The use of horses goes far beyond hunting and leisure; travel, war, and even some farm work is also often best served by a fine horse. Medieval horses are not differentiated from one another by breed, but rather by their suitability for certain roles. (A war horse is not suited for lengthy journeys, for example, and a farm horse is unsuitable for war or travel.) Horses are distinguished by pedigree (usually given orally but sometimes recorded in writing), by coloration, and by country of origin, but at the most basic level a horse is described by a name designating its role. Horses, even farm horses, are expensive to possess, and give the owner status. Theft''
@@ -226,8 +214,6 @@
 ==The Types of Horses==
 
 ''Horses are, as noted, distinguished by their role rather than their breed. Horse templates typical of each type are provided that the storyguide can modify to individualize horses available at market or presented''
-
-[|
 
 ==Horses==
 
@@ -240,13 +226,9 @@
 ''Characteristics: Cun –2, Per 0, Pre 0, Com –4, Str +4, Sta +3, Dex +1, Qik 0 Size: +2 Confidence Score 1 (3) Virtues & Flaws: Ferocity (when ridden in battle), Improved Characteristics, Long-Winded, Proud (minor) Qualities: Domesticated, Fast Runner, Herd Animal, Imposing Appearance, Tireless Personality Traits: Proud +3, Loyal +2, Brave +1 Soak: +3''
 ''Fatigue Levels: OK, 0/0, –1/–1, –3, –5, Unconscious Wound Penalties: –1 (1–7), –3 (8–14), –5 (15–21), Incapacitated (22–28), Dead (29+) Abilities: Athletics 5 (in battle), Awareness 2 (bad footing), Brawl 3 (hooves) Combat: Hooves: Init +2, Attack +7, Defense +7, Damage +5''
 ''Coursers are the most common combat-trained warhorses of the era. Like most horses in Mythic Europe, they are between fourteen and fifteen hands in height. A courser usually costs around 10 to 20 pounds, varying based on the horse’s quality, with 16 pounds being the average price for most sagas (see Covenants, page 71). Coursers are completed unsuited as pack animals and workhorses, and are temperamentally unsuited as general riding horses for travel. A rouncey, often favored by squires, can be used as a general utility horse, but retains the combat training of the courser; such horses lack Ferocity and Confidence, and gain the Flaw Proud. A rouncey costs between five and ten pounds, though some fine specimens cost many times that sum. A commoner or squire who rides a particularly fine rouncey may attract a Reputation as having ideas above his station, and the scorn of his betters. (continued on the next page)''
-
-|]
 ''as gifts. Individualizing a horse can be as simple as adding a new Personality trait, adding a new Quality (see Houses of Hermes: Mystery Cults, page 40), altering the characteristics to reflect unusual speed or intelligence, or — for faerie or magical horses (though Divine horses and Infernal horses are also known) — adding Might and Magical Qualities using the process described in Realms of Power: Magic or Realms of Power: Faerie. No two horses should ever be identical, and each should have a distinct personality and quirks, whether a proclivity to eat hedges or''
 ''being frightened of rabbits. Even more than with other horses, there is no such thing as a standard destrier. The term denotes not so much a type of horse as a horse of exceptional quality far beyond the norm. Many destriers are Horses of Virtue, and others have powers aligned with one of the realms and possess appropriate Might, but no two destriers are the same. As well as being differentiated by type, horses are differentiated by country of origin. Barbs from North Africa, the Muslim regions of Iberia, or the Levant, make fine''
 ''coursers and destriers, as do Spanish horses, with perhaps the majority of destriers being stallions from Iberia, and in particular Andalusia. Northern Britain produces particularly fine fell ponies, with Iceland being the source of the very best beasts of this type. Hungary is known for the quality of its riding horses, such as palfreys and jennets, with fine rounceys being available in England, Ireland, France, and Scandinavia. The Low Countries and the Novgorod Tribunal produce good draught horses, with English and German breeds also being notable.''
-
-[|
 
 ==Horses (continued)==
 
@@ -262,8 +244,6 @@
 ''Characteristics: Cun –2, Per +1, Pre 0, Com –4, Str +2, Sta +3, Dex +2, Qik 0 Size: +1 Virtues & Flaws: Improved Characteristics, Long-Winded, Perfect Balance, Noncombatant Qualities: Domesticated, Herd Animal, Imposing Appearance, Tireless Personality Traits: Brave+2, Resilient +1 Soak: +3 Fatigue Levels: OK, 0/0, –1/–1, –3, –5, Unconscious Wound Penalties: –1 (1–6), –3 (7–12), –5 (13–18), Incapacitated (19–24), Dead (25+) Abilities: Awareness 2 (footing)''
 ''This sturdy pony is suited for use on the roughest terrain. These statistics may be used to represent animals from the north of England and Scotland, or Iceland, and such beasts are greatly prized for their ability to cross mountain trails and treacherous moors. A working pony costs about one pound in Northern Europe, but far more in southern regions. Superb pack animals, sure footed and sturdy, they are used to carry supplies over long distances where no cart can go, and across country. The Perfect Balance Virtue represents their abilities on treacherous mountain paths.''
 
-|]
-
 ==Lords of Men The Care of Horses==
 
 ''Horses are extremely important and valuable, so their care can be come an important consideration in the saga.''
@@ -275,14 +255,14 @@
 
 ''While hunting is a prestigious activity, there is one other form of sport that is perhaps even more prestigious. Hawking, or falconry, is a truly noble pursuit, with almost endless opportunities to spend money on training and equipping birds of prey that are used to hunt either small game like rabbits, or other birds. The birds employed are divided into two classes, hawks and falcons, though the terms “hawking” and “falconry” are used as synonyms irrespective of the actual bird employed. Training a bird of prey to take orders''
 ''is an extremely specialized skill subsumed under the Ability Animal Handling, and wealthy nobles who pursue hawking employ at least one falconer to train their birds, and maintain a building for the falconer and the birds. The upkeep of hawks requires perches, a good water supply, and a specialist diet, all of which increase the expense. A dove cote is often also maintained to feed the hawks as well as supplement the household diet. It is worth noting, however, that dove cotes are often a cause of contention between a lord and his tenants, as the tenants usually believe that the lord’s birds eat their grain and seed from the fields. Even after all this expense, even the best-trained hawks and falcons sometimes stray, and the loss of a rare bird causes much sorrow — not to mention expense — to its owner. Anyone finding a hawk or falcon can expect a substantial reward for returning it, and many areas have laws making any such stray bird the property of the lord upon whose land it is found. Hawking birds often live within a chamber in the falconer’s house, where they are secured to their perches by leather or silk cords called jesses. The far end is placed on a ring called a terret, which is slipped over the perch, or can be worn over the finger on the creep, the great leather gloves worn by the hawker to protect his hands from the birds’ talons when they are taken out to hunt. A new fashion originating at the court of Sicily but becoming increasingly widespread involves the hawk being kept calm with a hood, often elaborately embroidered or bejeweled. Hunting birds are first trained by professional falconers, and then afterward trained''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==A Note on Size and Capacity==
 
 ''Horses are measured in hands, abbreviated “hh.” A hand is four inches, or approximately ten centimeters, and the horse is measured from the ground to the top of the withers, which is the highest point on a horse’s back. In modern terms a horse up to 14.2 hands is classified as a pony, but medieval horses are smaller. A modern thoroughbred averages about sixteen hands in comparison, so is eight inches higher than the horses of Mythic Europe. A horse can carry unencumbered about 30% of its weight in pounds, so a 14 hh horse weighing perhaps 1,200 pounds can carry 400 pounds of goods or riders without being encumbered.''
 
-|]
+|}
 ''to be loyal to their owners (see the rules for animal training earlier for information about how this transfer of loyalty is effected). When hunting, the hawker rides out with a party, and beaters or sometimes bird dogs are used to flush the game out. Prey varies from rabbit and hare on the ground to birds in flight, with experienced hawkers able to get two birds to work together to bring down such large birds as ducks and cranes, though pigeons are more normal prey. The mechanics of hunting require a Presence + Animal Handling roll from the hawker, as he releases the hawk and issues commands. The result is determined on the table below. Penalties for The Gift apply as normal.''
 ''Roll Result''
 ''0 or less Make a Loyalty check for the animal. On a failure, the animal leaves, never to be seen again.''
@@ -302,8 +282,8 @@
 
 ''Nobles often wish to ensure they have available the finest hounds, horses, and hawks for their pleasure. The following rules provide a simple system for maintaining kennels, stables, and mews, which are interchangeably referred to as “establishments” here. The quality of kennels, stables, or mews''
 ''describe their capacity, bonus to the housed animals’ Living Conditions modifier, and the prestige they confer upon their owner. All nobles are assumed to own standard stables at no cost, as part of their estate. Mews and kennels must be built if desired. Note that a noble’s (and his visitors’) horses, hackneys, ponies, mules, and farm horses generally do not require more than minimal stabling — a paddock and a stable for wintering — so do not apply these rules, which are intended for more valuable and delicate war and riding horses, to such common beasts. Establishments are defined by a quality, such as “shoddy” or “superior.” Each quality corresponds to a rank of noble to which its ownership is typically appropriate. A given establishment’s quality corresponds to a capacity of active animals it may support. The actual number of animals present may include up to one-third again the capacity in immature beasts and breeding stock. Each establishment has a maintenance cost for a year listed, but a stable of appropriate level to its owner’s rank can be main''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Some Typical Prey Animals==
 
@@ -320,12 +300,10 @@
 
 ''A contest of falconry has been declared, with a great prize to be awarded by the king. One lady who wishes to enter has recently lost her prize hawk, which simply vanished in mid-air over a sunny meadow while in plain sight of the hawking party. She is distraught, and offers a great prize to any who can solve the mystery and return the magnificent bird to her in time for the contest.''
 
-|]
+|}
 ''tained at no cost. (Thus, a knight running a standard stable does not incur a maintenance cost, nor an earl who keeps an excellent stable. However, if a covenant of Hermetic magi wished to own anything better than a standard stable, or a knight wished to maintain a superior stable, the cost would be incurred as given.) Kennels and mews always require the maintenance cost to be paid. Staff are any folk who are dedicated to the care and maintenance of the stables as their primary occupation, spending at least three seasons a year in this role and typically possessing the Abilities Animal Handling, Ride, and Hunt.''
 ''The Living Conditions modifier applies to the animals, not the staff, but if it is higher than the prevailing Living Condition of the residences, then the staff also benefit from it. The Living Conditions modifier assumes that a suitable specialist is available (see Living Conditions and Specialists, later.) Paying the annual maintenance cost keeps the number of animals constant, through breeding and training. Exceptional circumstances, such as an outbreak of disease, may reduce the number of animals, as may failure to meet maintenance costs, or an interruption of supplies, such as during a siege. Reduce the number of animals''
 ''by 15% (round up) for each season these requirements are not met. The cost of initially purchasing the animals is not included in the maintenance cost. Failure to meet the annual maintenance cost results in the establishment dropping to the next lower level of quality immediately. While the maintenance cost covers replacing normal losses, players may wish to keep track of the aging of superior and particular animals separately, as described in the various sections describing horses, hounds, and hawks earlier in this chapter. A superior stables or better requires at least one specialist (a marshal, head falconer,''
-
-[|
 
 ==Hawks and Falcons==
 
@@ -340,8 +318,6 @@
 ''Merlin: A small but very fast falcon. Modify the gyrfalcon statistics to Size –5, Str –10, Qik +8, and Beak Init +11*, Attack +6, Defense +11, Damage –9. Merlins are useful for hunting small prey up to partridge size (–6). Four untrained birds can be purchased for a pound.''
 ''Lanner: Found mainly in North Africa and Mediterranean climes, the lanner is often used to teach falconry. A Size –4 falcon, it lacks the Ferocity virtue and Confidence Score and is therefore easy to train. Lanners are, uniquely, usually taught to hunt in pairs. The lanner has Str –8, Qik+7, and Talons with Init +7, Attack +6, Defense +14, Damage –6, but a pair can be taught to fight as a trained group, and a lanner has Leadership 1. A trained pair therefore attacks with Str –8, Qik +7, and Talons with Init +7, Attack +12, Defense +14, Damage –6. A pair of untrained birds can be purchased for a pound.''
 ''Sparrowhawk: The most commonly found hawk in Mythic Europe, and hence the most widely flown, sparrowhawks are often captured in the wild. If purchased, six untrained bird can be bought for a pound. Remove the Quality Fast Flyer, reduce Size to –4, and add Beak Init +8, Attack +6, Defense +13, Damage –7. Sparrowhawks are notoriously difficult to raise, with an Aging rolls modifier of –3 and a Stamina of –3, giving them Soak –3 to reflect their extreme fragility. They are naturally perverse, sometimes dying just to spite their owners.''
-
-|]
 ''or master of kennels) with the appropriate Profession Ability. Royal quality establishments require additional specialists.''
 
 ==The Kennels==
@@ -360,8 +336,6 @@
 
 ''An individual with a score in the relevant Profession Ability equal to at least twice the Living Conditions modifier is required for an establishment to make use of a positive Living Conditions modifier. Alternatively, an individual without the appropriate Ability may dedicate a season each year to running the establishment and thereby preserve the Living Conditions modifier, so long as he has a''
 ''score in Animal Handling at least three times the positive Living Conditions modifier. A stress roll of Intelligence + Animal Handling against Ease Factor 9, or Intelligence + Profession Marshal, Profession Falconer, or Profession Master of Kennels as appropriate against Ease Factor 9, should made annually in the winter. A success indicates the establishment is well run. A failure causes a decline of establishment quality by one class, which does not improve until the test is made successfully in a later year, when it reverts one class upwards toward its''
-
-[|
 
 ==Kennels, Mews, and Stables Tables==
 
@@ -393,8 +367,6 @@
 ''Excellent (Great Noble) 40 3 per horse 12 +2''
 ''Royal 250 5 per horse 36 +3''
 ''*Knights do not need to pay this maintenance, however, as it is already calculated in their expenditure.''
-
-|]
 ''original quality. Maintenance costs remains at the original level regardless of a temporarily lower quality due to poor maintenance. A botch indicates a catastrophe, of which the most common are fires, outbreaks of disease in the animals, theft, or a situation requiring a story to resolve.''
 
 ==Romance==
@@ -405,8 +377,6 @@
 
 ''The affair begins with the noble beholding a lady of great worth and beauty, and being entranced by her physical charms. The beholder immediately loses his composure, and from this point on is subject to nothing but thoughts of the lady, and the urgent need to win her favors. Sleep escapes him, and other pursuits hold no excitement; he devotes himself completely to the romantic quest to obtain her love. The pursuit must be achieved by certain methods alone. A handsome appearance,''
 
-[|
-
 ==New Virtues==
 
 ''Master of Kennels''
@@ -416,8 +386,6 @@
 ''cons. The Ability Animal Handling is used for the training of the hawks. A specialist in non-falcons, such as the hawks, is called an austringer. A falconer receives 50 extra experience points at character generation to spend on the Abilities Animal Handling, Area Lore, Etiquette, Hunt, Latin, Profession Falconer, and Ride. Many falconers are also Educated.''
 ''Marshal''
 ''Social Status, Minor As well as their non-specialist staff, superior stables and above require a specialist to coordinate the care, feeding, and welfare of the animals. This person is called a marshal, and the title holds considerable honor. The Marshal of England is the king’s official in charge of his cavalry, but even the marshal of a baron is an important personage, given the vital roles played by horses in warfare and hunting, as well as routine travel. A marshal should take the Ability Profession Marshal, which deals with understanding, purchasing, and caring for horses. It functions as the Ability Medicine for the purpose of treating veterinary diseases, and for surgery involving these animals. A marshal receives 50 extra experience points at character generation to spend on the abilities Animal Handling, Etiquette, Hunt, Latin, Profession Marshal and Ride, and may take Martial Abilities freely. A marshal may overseen other specialists, including farriers who make horseshoes; leatherworkers who produce tack, harness, and saddles; and the trained staff who administer day-to-day grooming and mucking out of the stables.''
-
-|]
 ''honesty of character, and fluent and eloquent speech are the primary methods. However, acts of great valor or heroism inspired by the lady, or dedicated to her, are also part of the pursuit. Love knows no social boundaries, and a male — even a commoner if learned in the arts of love — may seek romance from the noblest lady, even a queen. Here is another threat to the divinely ordered nature of things, and any commoner presumptuous enough to pursue the love of a noble lady runs a terrible risk. Only the clergy should seek to avoid romance. Equally deadly, according to Capellanus, is to seek the heart of a nun, and so vile an infamy that it destroys one’s reputation forever. Equally unacceptable is to love a whore, for that cheapens the noble romance to a coarse and commercial prospect. At first the lover should adore his lady secretly, and take every opportunity to seek out her company and gaze lovingly upon her person. Eventually there comes a time when he must profess his love to her, and she then chastely refuse his advances, with scorn and coldness. Even if the lady ardently desires the lover, and deliberately sought his attentions (for many ladies initiate the romance by their actions and subtle encouragements),''
 ''she must act coldly, and treat the lover as if he was a source of disgust to her. He must then prove his devotion, and pursue her. The pursuit of the lady is primarily a matter of Charm, but appropriate gifts and performances in her honor are to be expected. Gifts may be given and received, but money should not be the means of gaining her heart. At all times both parties must be discreet, and under no circumstances must the lady’s husband discover the affair. Trusted servants and friends act as go betweens, and Intrigue is used to arrange meetings in suitably romantic situations. At all times the lover should be jealous and passionate, and watch out for rivals, suspecting all. He must also eschew all other ladies, for to pursue another or seek comfort elsewhere would be to betray love. He must obey every whim and command of his lady, and prove his moral worth, bravery, and most of all utter devotion. To him salvation is his lady, and she is his religion, she his lord, he her obedient vassal in all matters of the heart. Finally the lady deigns to grant the lover her favor, and the affair is consummated. In the southern tradition this may imply a full sexual relationship, and adultery. To what''
 ''extent this actually occurs is little known, since couples who do and don’t all have strong reasons to keep the facts secret, but both parties run the risk of death if an affair is discovered. In France and England the platonic nature of the love is stressed, and adultery denied and decried, as in the popular romance of Tristan and Iseult, where their adultery brings disaster upon the lovers. In these regions, romance is seen as a chaste game, and may even be smilingly approved by trusting husbands. Most husbands, however, with an eye to ensuring their heirs are truly their own, regard the fin’ amors as a dangerous and corrupting pastime, not to be practiced on their wives.''
@@ -438,24 +406,24 @@
 ''fairs. You shall be in all things polite and cour11.''
 ''teous. You shall not exceed the desires of your 12.''
 ''lover.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 ''Love is an inborn suffering, which results from the sight of, and uncontrolled thinking about, the beauty of the other sex. This feeling makes a man desire before all else the embraces of the other sex, and to achieve the utter fulfillment of the commands of love in the other’s embrace by their common desire — Andreas Capellanus''
 
-|]
+|}
 
 ==Lords of Men Patronage==
 
 ''Medieval society runs off a series of interconnected obligations and favors. The feudal system has a set of vassal-liege relationships that run from the lowest level of society to the very highest, but the process is not oneway despite the hierarchical basis of society. Even landed knights and nobles struggle to meet from their manorial incomes the many expenses they face, and just as they offer support and justice to the villeins, cottars, and freemen who reside upon their estates, and receive service on the demesne and fees and dues in return, so they expect to receive assistance from their social betters. Without significant assistance many lesser nobles would be unable to enjoy the lifestyles they do. Gifting money, food, expensive equipment, or even land grants is common and expected of one’s liege. Traditionally, gifting takes place at the major religious festivals, Christmas, Pentecost, and Easter. The nature of gifts may be proscribed or left to the discretion of those who give them. Patronage — the distribution of land, money, favors, and titles to one’s loyal vassals — is a vital part of the politics game. A generous gift can secure support as much or more than a politically advantageous marriage, and greater nobles and kings use this power wisely. If too much is granted, such as a hereditary fief, the noble can grow to become a potentially dangerous rival, yet if too little is given he may brood in resentment and begin to plot treachery. Recognition and status are as important as monetary gifts. A feast given in a noble’s honor, a title bestowed (even if accompanied by little actual wealth), a gift of clothing, or even a fine horse publicly given, may all increase a noble’s reputation as a prudhomme — “an upstanding man” — and result, in game terms, in an increase in a positive noble Reputation. Favors may be as intangible as words of friendship, but those who understand Intrigue realize that the having ear of a king makes jealous enemies as well as powerful friends. It is important to reflect the customs of giftand grant-giving in play. Lieges should provide their vassals with wealth, and player characters should benefit from this largesse, lest their feudal relationships appear entirely one-sided. Vassals who find themselves under attack or threat from others may appeal to the king for justice, and in some cases even receive military assistance (although usually, news that a high-ranking noble backs one’s cause is sufficient to end any unpleasantness,''
 ''lest his wrath descend upon a transgressor). Just as a lord is a recipient of patronage, so he should be a generous giver to cement useful alliances. The Intrigue Ability allows an understanding of the complicated politics of any given situation, and the leverage that a carefully given gift might bring to bear. Even the lowliest cottar should receive (indirectly) the benefits of his lord’s largesse, in acts of alms or public feasts, because this ensures the loyalty of the estate’s people. When characters direct their patronage at specific individuals who belong to a certain social group, this is reflected in a new Reputation applicable to that social group, and improves a Loyal Personality Trait in the recipient that is directed toward the patron. (For more on Reputations and Noble Reputation in particular see Chapter Two: Politics, Reputation.) For example, if Jonathan Carpenter builds a new nave for the dilapidated parish church, he may gain the Reputation Patron (Clergy) and the benefits of a Loyal +1 (or more) Personality Trait in the priest, as well as a single Gratitude point on behalf of the Church from the grateful priest and parishioners, which may well prove useful in future stories. (Remember that the Church is a major landholder, and the ecclesiastical authorities can grant manors or bring influence to bear to help you achieve an office, like any other lord.) All nobles of both genders should indulge in generous patronage of causes dear to their hearts, and many a noble lady has been a patron to a struggling artist, paid for fine renovations to a church, or supported a scholar and received a book dedicated to her in return. The main groups who can be influenced by a Reputation arising from patronage are the types listed in Ars Magica Fifth Edition, with two additions. Reputations can pertain to Local (meaning all in the vicinity), Clergy, Order of Hermes, Nobles, or Academics. Artists may also be patronized, but the Reputation thus gained applies to one of the other groups, designated as the intended audience. Someone who is known by reputation as a generous patron in one of these groups can expect positive modifiers in future social interactions with others of the same class. Appropriate forms of patronage are discussed for each of these groups in turn in the sections that follow. Local Reputations generally apply when a noble grants patronage to his own estates or local area. The granting of royal charters is a form of patronage performed by the crown that raises its Reputation, but most nobles, lacking the authority to grant royal charters,''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Is Love True?==
 
 ''Historians remain deeply divided over to what extent courtly love was an ideal, and to what extent a reality, in medieval society. Troupes should decide for their saga whether courtly love represents an ideal played at by knights and ladies, or a real practice. Is courtly love an idealized platonic romance mainly playacted, and accepted by many as harmless and diverting, or a tempestuous and real passion leading many to adultery and ruin? In some sagas romance will not feature at all, being merely something troubadours sing about. In others, it will be a real and potent force — this is Mythic Europe after all! It is hard from the extant sources for us to be sure of the truth, so the troupe must decide if it wishes to employ the motif in its stories. Three main considerations apply. First, no character with the True Love or Lost Love Virtue or Flaw may ever be caught up in romance, except with the object of their affections. Second, no character should be involved in a romance subplot unless the character actively seeks it out. Keep in mind that a romance can be initiated by a lady as much as her suitor; indeed, scheming to ensnare a noble’s love is perfectly acceptable. While Andreas Capellanus writes mainly from the male perspective, the lady is a full partner in whom power is ultimately vested in the relationship. She has the ability to end it at any time, or choose to scorn any potential lover. Finally, romances should always require stories, rather than being something that “just happens.” As the ancient cliché has it, “the path of true love never runs smooth,” and complications, opportunities for heroic adventure, and moonlit intrigues are the very stuff of the romance. Stories, not mechanics, should drive a developing relationship between lovers, and the ever-present threat of discovery should add a certain spice.''
 
-|]
+|}
 ''are only able to offer feasts, alms, or possibly the relaxation of feudal dues, though the latter creates a dangerous precedent and diminishes the noble’s power. Acts of kind charity and impartial justice can go a long way towards gaining a positive Reputation, and a small amount of silver can help in times of hardship. The granting of offices is one very popular way of expressing patronage (see Chapter Two: Politics, Offices). Unfortunately, this form of patronage is unlikely to earn Gratitude points. Acting as a patron to the Order of Hermes is fraught with difficulties, discussed in Chapter Four: Interference. Patronage to other nobles usually means granting gifts to one’s vassals, such as knights, or to one’s liege in hope of favor. Meeting one’s feudal obligations is not patronage, however. Patronage means an exceptional gift, whether of a manor, a fine horse or hound, or a gift of money or food to assist in times of hardship. Outfitting one’s knights with fine chargers and excellent quality arms and armor might be a normal gift, unworthy of any Reputation increase, whereas granting a sum of thirty pounds to a knight experiencing difficulties would be an exceptional gift worthy of praise. Gifts may, however, be offered to one’s liege to help cement the relationship. A finely trained Hawk of Virtue, the hide of a magical beast hunted and slain by one’s own hand, or a magical device or ancient treasure might qualify as a gift worthy of one’s liege, and earn a point of Gratitude (see Chapter Two: Politics, Gratitude), as well as experience in one’s Noble Reputation. Artists are frequent recipients of patronage, and indeed many of them depend upon patronage for their survival and continued work. Artistic patronage may seem strangely altruistic, for artists generally seem to have little to offer in return other than their aesthetic productions. Yet in fact art is a powerful political force. Troubadours, for example, may sing of a noble’s distinguished genealogy, cementing his claim to nobility and importance, granting him legendary ancestors of distinction, and perhaps legitimizing future legal or inheritance claims based upon these very legends. A noble’s arms and device seen in fine artworks may spread knowledge to the burgers of nearby towns his learning, culture, and benign justice. The art a patron funds usually celebrates him and his dynasty as much as it does the artwork’s supposed theme. The Reputation of a patron of artists does not increase among artists (though other artists definitely pay attention''
 ''to the patronage of their peers, and enthusiastically seek further patronage of known patrons), but rather among a group the patron wishes to target. Paying an artist to produce ecclesiastical murals or statuary, for example, increases one’s reputation with the clergy, whereas having a fine miniature painted of one’s liege improves one’s standing in noble circles. A story ostensibly about Arthurian legend but that celebrates one’s ancestor’s prowess as, say, a dragon slayer, or memorializes her legendary beauty, may well improve one’s standing in the local community, and even academics can be won over by suitably fine works of art. Artistic patronage is therefore extremely versatile, but it does require a lengthy relationship and considerable continued expenditure compared with granting a benefice to a clergyman or helping out a knight who faces a famine on his manor after terrible crop blight. Full rules for artistic patronage from the recipients’ perspective are given in Art & Academe, page 130. Academic patronage can serve the purpose of promoting an idealized view of its patron. Supporting a scholar, however, also has definite benefits in terms of access to learning, and further helps with the education of a patron’s children. Nobles are not unaware of the importance of academics in extending political influence, and so many academic works are dedicated to a patron who sponsored their writing. This form of immortality, like artistic patronage, can be undertaken for purely altruistic reasons, but generally the patron enjoys basking in the reflected glory of his protégé’s success. Nonetheless, one must be careful, for many a noble has supported an academic only to find their beneficiary guilty of heresy or worse, and this can lead to disaster. It is far safer to provide patronage to the Church, normally in the form of a monastery or parish church. The most basic form of patronage is the right to appoint a priest. If a noble builds a church upon his land, the right to appoint the incumbent who receives its income resides with the noble, not with the Church. Many parishes all over Europe were created this way, and these rights of appointment are inherited by the noble’s heirs. The right of a noble to appoint clergy who reflect his own concerns as well the Church’s interests is a very useful one, and it also provides a handy way of dealing with younger sons who will not stand to inherit. Similarly, patronage of a monastery, which always seem keen to conduct expensive building works, gains one not only a potentially powerful ally but also a place to retire''
 ''in extremis, place unmarriageable daughters, or seek medical aid. Many prosperous peasants give money to monasteries as a kind of retirement pension, paying sums that guarantee them the right to retire there when they are too frail to work their lands, and do not wish to be a burden on or dependent to their heirs. Nobles have less need to plan for this eventuality, though there remains for nobles the further consideration of the state of their immortal soul. Whatever patronage is granted, giving generously is a noble virtue that has important real-world benefits. Noble characters do well to consider the options available to them, and to plan carefully how to best employ their wealth to cement their position and to further their long-term goals. To be a miser is a terrible thing; medieval society does not value frugality, but quite the reverse. To be a noble is to be given stewardship, by God, of wealth. Failure to shower coin upon the pursuit of a noble life is to deny one’s social standing, attract the contempt of ones peers, and possibly earn a bad Reputation.''
@@ -474,15 +442,15 @@
 ''In 1220, tournaments in England are more rare than on the continent. For much of the previous century, hard on the heels of a civil war, tournaments had been banned by King Henry II. It was not until 1194 that King Richard allowed the events to take place, though he controlled them by granting royal charters. Even in the reign of Henry III tournaments are sometimes viewed as challenges to royal authority. The draw of the tournament is such that patrons are often willing to hold unlicensed events.''
 ''Costs''
 ''Holding a tournament is a costly business. Messengers are employed to attract participants; while criers draw knights to the tourney, envoys take written invitations to select dignitaries. And in the meantime, the tournament site needs preparation, with carpenters and laborers building stands to allow wealthy observers a comfortable view of events. Patrons also engage artists, chroniclers, or poets to record their events for posterity, commissioning artworks to portray their tournaments in the best and most exciting light. And since tournaments attract powerful individuals, grand receptions, feasts, and fitting entertainments must be provided. A degree of opulence is both expected and provided. Patrons award prizes to those knights who show great courage, and to the knight judged to have been the best. Jewels and artifacts of silver and gold are often awarded. Their value most often comes from being unusual, unique, or masterworks. Patrons take delight in awarding prizes not seen at other tournaments. Crafted items awarded as priz''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Bohorts, Tirocinia, and Jousts==
 
 ''A bohort is an informal and impromptu tournament, essentially a rough-and-tumble between friends and comrades, usually conducted with blunted or even wooden weapons (the latter of which are very often simply sticks taken up from the roadside). Armor is not generally within the spirit of the bohort. Use the non-lethal combat rules on ArM5, page 174 or the additional rules in Chapter Nine: Optional Combat Rules, Option: Non-Lethal Combat. Tirocinia are tournaments open to younger and less-experienced knights that remove the threat of being targeted by''
 ''seasoned elders looking for easy ransom. The rules of tirocinia are the same as for open events, but participants over the age of 25 are rare. The joust sees two knights ride at each other with couched lances. Jousting usually takes place before the melee. At some tournaments, a whole day may be set aside for jousting, providing additional practice and entertainment. The ransoms won and lost are the same as for the melee. The joust is gaining in popularity as an event in itself, as a means of avoiding bans on grand tournaments.''
 
-|]
+|}
 ''es are never less than superior quality works (see City & Guild, page 69). It is common for noble animals to be awarded as prizes, often with costly harnesses. Falcons, hounds, and horses are popular. Sometimes animals are chosen for their comedy value. As a rule of thumb, a patron should spend ten Mythic Pounds per point of his Prudhomme Reputation to hold a tournament. Anything less is seen as not befitting his station.''
 ''Team Sponsors''
 ''Some sponsors pay substantial retainers to companies of knights to fight under their banner. The sponsor is responsible for replacing lost horses, arming his men, and ensuring that all their needs are paid for. Henry the Young King, son of Henry II of England, took five hundred knights to the tourney at Lagny-sur-Marne in November 1179 at a cost of over two hundred pounds per day. Most nobles can expect to pay four Mythic Pounds per season per knight retained for tourney.''
@@ -497,8 +465,8 @@
 ==Rules of Melee==
 
 ''A tournament’s melee is subject to certain rules and customs. The recets, and any villages and churches in the melee field, are safe territory and no fighting is allowed within them. In addition, those not taking part are not to be molested. Beyond these rules, there are also points of honor to observe. A noble who enters his company into the melee is expected to ride with them, and gains little credit if he does not place himself in harm’s way. While the rules of tourney are clear, they are not always obeyed. Knights may be fined for breaking rules and in particular may be forced to pay for damages to the host’s property or churches. Tactical advantage may outweigh this threat and the knights often do as they please. One noted''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Story Seed: The Silent Tourney==
 
@@ -512,7 +480,7 @@
 
 ''A nearby magus is secretly sponsoring a team of knights active in the local tourney circuit. Other knights in the area ask the covenant for aid against the seemingly unbeatable team. But what does the Code say about this? Has the Hermetic sponsor exposed a weakness the covenant can use against him?''
 
-|]
+|}
 ''underhand tactic is to ride to the lists prior to estor but not join the melee until later, when the fighting has taken its toll on the other participants. The heralds acting as adjudicators are not above purchase, and may be paid to look the other way, allowing such knights free rein.''
 ''Ransom''
 ''The aim of the melee is to force surrender, or fiance, and thereby secure a ransom, usually the knight’s horse, his armor, or even his weapons. Great sums of money can also be extracted, and the wealthy should expect to be held to account if they lose at tournament. Payment of ransom is a matter of honor. Those who do not make good their promises gain 1 experience point towards an appropriate negative Reputation. It is considered poor etiquette to extract too high a price from a poor, young, or inexperienced knight. There have been many cases of knights being forced by their peers to return ransoms to those who could not afford the price. The wealthy expect to pay ransoms according to their status, and may take umbrage if a ransom beneath their station is demanded. It is reasonable to take both horse and armor from a wealthy knight, either horse or armor from a knight of average means, and perhaps weapons from a poor knight. Service cannot be demanded as a ransom, nor can oaths of loyalty.''
@@ -528,8 +496,8 @@
 ''The vespers, or commencailles, are an important showcase for individual talent and another source of ransoms for the victors. These contests can take several forms but are most often single combat, either jousting or fencing.''
 ''Jousting''
 ''At the call to charge, two opposing knights, both mounted and armed with lances, attempt to unhorse the other. Each charge comprises a single combat round, and each knight has enough time between charges to take up a new lance or shield. Botches may result in the breaking of equipment or injury to either horse or rider. Use the shock''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Profession Herald==
 
@@ -543,7 +511,7 @@
 ''Story Seed: The Craftsman''
 ''A local Verditius complains to a Quaesitor that a magus from a neighboring Tribunal is flouting the Code by crossing the border and selling enchanted devices to knights at local tournaments. What is the legal situation? Does the foreign magus know where his devices are being sold? And is the Quaesitor simply becoming a pawn in a vendetta between the two magi?''
 
-|]
+|}
 ''of the charge rules (see Chapter Nine: Optional Combat Rules, Option: Shock of the Charge) to determine the outcome of each charge. The rules of the joust may change between venues. The simplest sees the winner declared if he knocks his opponent from his horse. In some cases, if both riders remain in their saddles after a set number of passes, judges may declare a winner, perhaps by a count of broken lances or by which knight took the lightest hit. In others venues the''
 ''joust continues until one knights submits. This almost always means that the contest goes beyond lances and horseback, and ends with the two knights engaged on foot.''
 ''Fencing''
@@ -573,8 +541,8 @@
 ''earns 2 experience points.''
 ''Company Reputations''
 ''Deeds done while under the banner of a company also feed that company’s Reputation. Companies have a Reputation named after its leader or chant, which applies only within the tournament circuit. To gain the benefit of a company Reputation, a knight must travel under the colors of that company or be otherwise identified as a member (by using the company motto, for instance).''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Melee Events Table==
 
@@ -590,7 +558,7 @@
 ''15–16 The character’s company is targeted by a large company of two combat groups.''
 ''17+ The character’s company is targeted by a large company of three combat groups.''
 
-|]
+|}
 ''Patronage''
 ''Those hosting tournaments gain experience points towards their Prudhomme Reputation. If multiple patrons work together to host tournaments in any given season, all experience points are divided equally between them.''
 ''Hosting one or more tournaments in a •''
@@ -606,8 +574,8 @@
 
 ''Winning awards at tournament is a matter of drawing attention to one’s feats and accomplishments. When a character increases''
 ''his Prudhomme Reputation he comes to the notice of the patron. Martial achievements are certainly rewarded, but so too are great noblesse and generosity. Storyguides might also want to present specific challenges of talent and resolve that, if passed, show a character’s worth. These should be tailored to the player characters involved in the tournament. The actual awarding of prizes is determined by storyguide fiat, with the patron’s character taken into account and the efforts of the troupe in drawing attention to their characters also noted. The value of a prize should be in keeping with the Reputation of its beneficiary. Storyguides should consider one Mythic Pound per point of Prudhomme Reputation as a baseline.''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Labor Points from Stories==
 
@@ -622,6 +590,8 @@
 ==Story Seed: The Mantle is Passed==
 
 ''An elderly knight is looking for a way to see his colors ride onto the field of tourney once more and one of the grogs is surprisingly willing to help. Armed in the old knight’s armor, riding his horse, and carrying his sword, lance, and shield, the grog finds himself invincible in the melee. He has claimed ransom after ransom and not lost a single contest. But the assembled knights are suspicious and claim witchcraft is afoot. Can the magi extract their increasingly determined grog from the tournament and free him from the old knight’s curse?''
+
+|}
 ''Ars Magica has two compatible systems for measuring wealth: a simple system for troupes who do not like to spend too much time considering money, and a system based on tracking the approximate values of goods and services in Mythic Pounds.''
 ''The Simple System, From the Core Rulebook''
 ''In the simple system a character’s level of wealth is an effect of social status, modified by Virtues and Flaws like Wealthy or Poor. In Mythic Europe, a knight who holds at least a single manor has the Social Status Virtue Landed Noble, for example. A character with an area of land so large that it requires infeudation to be run effectively has the Social Status Virtue Great Noble. In this system a character is wealthy or poor compared only to other people of the same social class; a wealthy peasant is less rich than a poor king. Most manorial lords cannot meet their basic expenses in difficult times without patronage from their lords, or by finding supplemental income through raiding or banditry. That lords are perpetually short of money does not grant them the Poor Flaw. Their precarious financial situation is, rather, the average for their social class. A manorial lord is only poor if disaster has already struck and his social status is at risk. Wealthy manorial lords have sources of income beyond a basic manor. These may include additional land, or the right to collect sources of income usually reserved for greater nobles, like river tolls or port duties. In the simple system, fiefs increase in value only as a reward for stories. This reward may be directly related to the story, or might have no obvious link within the game setting, but be agreed as a reward by the troupe.''
@@ -632,5 +602,6 @@
 
 ==Money in Ars Magica: A Recap==
 
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}

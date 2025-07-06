@@ -1,6 +1,7 @@
-
-[|
 ''A hooded figure searches through the ruins of a Byzantine fortress under the light of a full moon, trusting the stories of ghosts to keep the curious at bay. Reaching between two stones, he extracts a tooth from a shattered skull, his grin of triumph eerie in the wan light. “If anyone is watching,” he thinks, “those stories are about to get stronger.”''
+
+==Introduction==
+
 ''Long before Bonisagus introduced his unified theory of magic and founded the Order''
 ''of Hermes, powerful magic was practiced in lands far away from the heartland of Mythic Europe. These secrets are all but forgotten and lost, yet rumors and clues of some find their way to enterprising magi. These hints of great power and magic are worthy of the attention of the Seekers, who delve into ancient lore. Such magic is incompatible with Hermetic magic, but can be integrated for great benefit through hard work. Finding sources of insight can often be as hard as understanding them. This story delivers ancient artifacts by pure chance to the covenant, challenging determined''
 ''magi to investigate, seek, integrate and use powerful magic of ancient days. The intent of this hook is to introduce the player magi to the concepts of Ancient Magic — more specifically Canaanite vecromancy — and the search for and integration of such magics, as well as introduce the tradition and organization of the Seekers. For more information, consult Ancient Magic, Chapter 2.''
@@ -8,8 +9,6 @@
 ==Prelude==
 
 ''Prior to the first events of this story, the Seeker Argos''
-
-|]
 ''of Bonisagus made a deal with Vito, a Genoese merchant, to buy ancient clay tablets from the Holy Land. Vito took the advance payment but doublecrossed Argos, rationalizing that cheating such an unsavory character couldn’t be a sin. Vito sent the clay tablets by courier to the Teutonic Knights, who had shown an interest in the artifacts as well. Argos is now tracking the tablets by magic through an Arcane Connection to the courier.''
 
 ==Events==
@@ -30,8 +29,6 @@
 ''it would be best for all parties if Argos simply took them and went his own way. If asked about the ghosts, he answers that the sinister Bellox from “some dirty necromantic cult” desires the artifacts as well. If not asked, he casually remarks that Bellox will probably try to get his filthy hands on them. He says no''
 ''more at this time. Argos tells his story and answers but a few questions. Canaan should be mentioned. He acts slightly offended if the player magi don’t immediately roll over and obey; he is apparently expecting the whole affair to be a formality. He agrees to give the player''
 
-[|
-
 ==Mechanics of the Tablets==
 
 ''Decoding is a seasonal activity requiring a stress roll of Intelligence + Hebrew against an Ease Factor of 18. If successful, the tablets are revealed to be a Summa in Area Lore: Canaan. A complete sequence of six tablets is Level 10 Quality 15, with each missing tablet subtracting three from Quality. In total there are seven sequences consisting of six tablets, each of which is a separate summa. Some tablets are safe at Durenmar and some are held by the Teutonic Knights, but most are unaccounted for since they were scattered in Constantinople long ago. A more detailed description of the tablets can be found in Ancient Magic, pages 34–36. Precisely how many and which tablets the Genoese merchant was selling to Argos is up to the storyguide. The number of tablets found influences the likely style of any follow-up story. A set of four tablets results in a respectable study source of Quality 9. Fewer means that it takes longer to finish reading the text, but it might send the magi searching for other sources, or''
@@ -48,8 +45,6 @@
 ''spectre cannot be affected by or affect any physical object. By spending 1 Might point it can make a chilling attack that causes a single Fatigue level instead of damage, disregarding Soak. A weapon affected by a MuTe(Me) effect of Base 25 will affect it. Note the kataphraktos’ power Reaching Through the Veil. Their bodies may be affected by physical magic (e.g. Creo Ignem) with a Mentem casting requisite, as may their spectral mounts. This power is always active. Reaching Through the Veil, 1 point, Init +1, Mentem/Terram: The kataphraktos can affect the mundane world and corporeal objects with his entire array of weapons for Duration: Sun, making him very efficient. Against a mundane opponent with wholly mundane gear the kataphraktos has +3 Attack, Defense, and Soak, which is not included in the calculated statistics. Defense against the kataphraktos is as normal, but physical attacks still do not affect him. Fearsome Appearance, 1 point, Init +1, Mentem: Anyone seeing the ghost must succeed in a Stress Roll against an Ease Factor of 6, modified by Brave Personality Trait, to avoid cowering in fear. Affected victims miss their next action and need to roll again the following round until successful. Power affects a group of up to 10 people.''
 ''Spectral Mount, 1 point, Init +1, Animal: The kataphraktos may conjure up a spectral horse as a prop for Duration Sun. He may ride across any terrain, including water, faster than any mundane horse can run on level ground. Affecting the mount is effectively affecting the rider, so it uses the kataphraktos’ Might for Resistance. When the kataphraktos is mounted, modify all Attack totals by +3. Appearance: Mounted warriors of impressive stature clad in archaic mail and helmets, from within a skull with thin, wilted skin can sometimes be seen staring with hollow eye sockets. Equipment: Full chain mail, spatha, shield, bow, camping equipment, and sometimes a warhorse if that power is used Encumbrance: 0 (0) Vis: 3 pawns Mentem, finger bones from right hand''
 ''The kataphraktoi were the cavalry fighters of the Rhomanoi Eastern Empire. Statistics are given for veteran spectres from an elite unit; they have excellent training and years worth of experience. This unit consisting of an officer, two sergeants, and 12 soldiers were killed to the last man in the sixth century while on a mission to drive the pagans away. They have not received a Christian burial and have unfinished business.''
-
-|]
 ''magi a day to discuss and consider, while he collects his possessions from his camp. This is mainly because he needs to meet up with the ghosts yet again to arrange for further stages of his plan, in case he doesn’t get the tablets right away. If offered hospitality, kind words, and genuine interest, he appears to thaw out a bit but still declines hospitality for now. Should the player magi hand over the tablets at once with no questions asked, refer to the section “Argos Gets the Tablets.” Should they want to meet him again and offer their help, refer to the section “Working with Argos.” In such a situation they have more time and opportunity to investigate, but there is little more to learn about Argos, except perhaps for stronger hints that Bellox is entirely fictitious and that it is Argos himself who controls the kataphraktoi ghosts.''
 
 ==Further Investigation==
@@ -62,13 +57,15 @@
 ''Since he is not a Hermetic magus, very little information can be found about the so-called necromancer Bellox. The name occurs in some legal accounts; he has a history as the villain blamed for various nefarious and sinister acts in the Roman Tribunal concerning breaking into and stealing from old burial sites. He must have crossed paths with Argos previously, since many of the times Bellox is mentioned is in testimony from Argos.''
 ''The Seekers''
 ''Seekers are a self-declared, informal group of magi looking for secrets of the Old Ones, extinct lineages of pre-Hermetic magic, or other Mystery cults with which to complement and''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Notes on Balance==
 
 ''If the storyguide feels that the player magi are too weak to face the kataphraktoi as written, for example if they are recently Gauntleted or completely without Mentem magic, the power level can be lowered. In addition to reducing the number of ghosts to as few as seven, reduce their Might to 12 or lower, reduce their combat Abilities, or limit their Fearsome Appearance power to give –1 to –3 to actions taken against them. Alternatively, you can''
 ''have the kataphraktoi be fully affected by mundane weapons when in corporeal form and therefore also affected by all physical magic without the need for Mentem requisites. However, should the player magi be seasoned veterans and skilled necromancers themselves, simply raising the Might should be sufficient. Consider having Argos use his Dirge rite (see later) to bolster the ghosts against spells of dominance and Might-stripping.''
+
+|}
 
 ==Argos, Magus of Bonisagus==
 
@@ -81,8 +78,6 @@
 ''F Includes Focus''
 ''Argos originally came from a tribe of shepherds in northern Italy. From a''
 ''young age he had some strange abilities and was drawn to old, pagan burial caverns where no sane man would set foot. In such a place he crossed paths with Lucretia, a non-Hermetic necromancer, who taught him Lore of the Dead. Soon after, he was taken on as an apprentice by Pharla of Bonisagus, a Seeker from the Levant with an interest in necromancy. Pharla died a decade ago and Argos has continued her work, focusing on single aspects of her initial forays into necromantic secrets. He spreads rumors about the made-up character Bellox, whom he invented as scapegoat and deterrent in order to further his plans. Using the fixed Arcane Connections to the bodies of the Kataphraktoi ghosts, Argos dominates them by use of the spell Coerce the Spirits of the Night. This way he gets them to promise one favor to him at a time, each favor being defined as obeying him for a single long-term action. He orders them to ravage the countryside, and they do this over the course of a few days. Afterward, he may order them to stand by and come to his aid if called. If Argos is not sufficiently powerful to challenge the magi he can easily be modified to present a greater challenge. Making him older leaves room to raise Arts and invent new or more powerful spells. A higher Rego Mentem Penetration total allows Argos to command more powerful spirits using only the spells he already has. Within the scope of the core rules he could benefit greatly from an owl Familiar, a Talisman (staff, cypress wood, or with green turquoise), or enchanted devices. Several other books for Ars Magica Fifth Edition contain potentially useful material, and some of these are briefly outlined in Additional Material later.''
-
-|]
 ''refine Hermetic theory. Seekers are nominally under the control of House Bonisagus, the House containing the most Seekers, but they are in reality individuals working autonomously. The first Seeker was Lucian, Trianoma’s first apprentice. For more details see Houses of Hermes: True Lineages pages 12 & 15.''
 ''Canaanite Necromancy''
 ''The biblical land of Canaan and its culture is mentioned in religious works like the Bible as well as by some classical authors; see Ancient Magic, page 35. The Canaanite necromancers had mastery well beyond Hermetic magic: they were able to affect the dead regardless of physical range, able to create Arcane Connections to the dead with only a trivial effort, and able to sense whether named persons were dead. There are also dire warnings about the consequences. If Hermetic limits are suddenly surpassed, contacting individuals thought dead and gone might easily resurrect old and implacable conflicts, like those of the Schism War. Houses Tremere and Guernicus would rather the secrets stay lost forever.''
@@ -106,18 +101,15 @@
 
 ''The player magi can, with little effort, keep their access to the clay tablets or a copy one way or another. As mentioned earlier, many Houses feel the need to keep these secrets out of circulation, so whether the motivation is to find the place or prevent the finding of''
 ''it there are many chances for stories. Because many other tablets exist and at least one other group — the Teutonic Knights — are also known to seek En-Dor, the player magi must do more than just destroy these tablets to hide the place. The big wild card is what deal they strike with Argos. The tablets need to be deciphered and the texts read before an expedition has any chance of finding En-Dor in the Levantine desert. Prudent magi research further to find out all they can and be prepared for the search, as well as for whatever awaits in the ancient ruins. However, Argos is known as a perfectionist and in no particular hurry, so the magi need not feel that they can never catch up. In fact, he readily spreads rumors of himself being engaged in timeconsuming activities or suffering setbacks in order to motivate the rivals he is too arrogant to count as serious competitors. Examples''
-
-[|
+{|style="border-style: solid; border-width: 3px; border-color: chocolate"
+|style="padding-left: 7px; padding-right: 7px"|
 
 ==Spectres==
 
 ''A spectre is a ghost defined by its work or role and keeps doing the same thing in the afterlife; it remembers and knows nothing else. Detailed rules for a deceased person returning as a ghost can be found in Realms of Power: Magic Chapter Five; information about the different kinds of ghosts is found on pages 115–116. The kataphraktoi are examples of spectres; they keep on taking orders to fight.''
 ''Simple rules for converting a dead character to a spectre are as follows. Might is assigned depending on importance and power, typically between 1 and 20. Virtues and Flaws are retained if applicable; note that most social or physical traits become irrelevant after death. Characteristics are unchanged, all Abilities relating to the vocation are kept unchanged but all others are lost.''
 
-|]
-
-==Hooks==
-
+|}
 ''include him being called on as a witness in a Hermetic case, being severely wounded during his travels, or having set off on a chase for ghosts to bind.''
 ''Working With Argos''
 ''Although Argos initially just wanted to get the tablets and be off, he has since decided he wants another set of magi investigating and perhaps drawing attention. If the player magi are just a little diplomatic, they easily arrive at an understanding with Argos. He moves his research to the player covenant if need be; he carries with him his notes from his previous research. Otherwise, he can as easily return home to his work, and they can communicate through Redcaps. Argos now uses the player magi to make his work easier, and does not want to have the deal soured by Quaesitors or those magi wanting the secrets lost forever. His language skills means that the player need not bother learning Hebrew. He plots to allow the player magi to help him all the way to the desert, and then separate from them in a dangerous place. He could insert a cleverly falsified “reliable source” into the research material naming a somewhat vague landmark from the tablets as something else, in order to lead the player magi into a trap in the form of dangerous quicksand, malevolent jinn, or vicious desert bandits. Argos would rather the player magi got''
@@ -125,6 +117,9 @@
 ''Denying Argos His Tablets''
 ''It is possible that the player magi want the tablets for themselves and attempt to get rid of Argos. He may even be exposed as the one controlling the ghosts, thus being the very villain Bellox. The legal consequences need to be considered, though. Technically, Argos is right; he did lawfully buy the tablets and thus has the right to take them from the cheating merchant. By interfering the player magi are in principle guilty of deprivation of magic, but it is not the strongest or most aggravated case since they acted in good faith, at least to begin with. But if they insist on refusing him they face a Quaesitor, and if this should happen Argos is likely to win the case. Even if he is exposed as “Bellox” it is debatable whether he has broken the Code, since his ghosts have merely destroyed mundane property, not magical. However, destroying the food resources and scaring off the work force seriously hampers the magi’s activities. He is willing to accept a fine for this. Certamen may seem like a solution, but the contest can''
 ''not be used to force a magus to overlook violations of the Code nor to breach it himself. Argos will not accept a certamen challenge in which he gives up the tablets if he loses. Legal issues aside, the player magi can decide that Argos is enough of a pest to declare Wizard’s War. He is not much of a fighter personally, although his ghosts are a force to be reckoned with. He would rather retreat and cut his losses than risk serious injury. If he survives, he becomes an active enemy regardless of the outcome, and he is only more adamant in his charges of deprivation of magic. He tries to spoil the player magi’s chances of finding En-Dor and beat them to the place. The Teutonic Knights are certainly tipped off as are any magi wishing for the secrets to remain hidden. Should he be killed in the Wizard’s War, Argos’ story ends there, and the player magi now have free rein to pursue the secrets of Canaanite necromancy. If Argos had any intimation of what was coming, he leaves a letter with an ally or a Redcap to be opened on his death in order to tip off the opposition that the player magi are looking for En-Dor.''
+
+==Appendix==
+
 ''This section contains some new rules used in this story.''
 ''Hooks New Major Supernatural Virtue: Lore of The Dead''
 ''The character can perform certain necromantic spell-like effects called rites, representing powers that are relatively common among cults of the dead, although not very widespread in Hermetic circles. This Virtue gives the character a Score of 1 in the Supernatural Ability Lore of the Dead.''
@@ -156,5 +151,6 @@
 
 ''This hook utilizes only material from ArM5, but troupes may be in the possession of more books and wish to explore these to expand its scope. A few choice references for such are given here. Ancient Magic, pages 30–40. Some information has been included in this hook, but having the entire book at hand allows the option of integrating the Teutonic Knights. This book also presents the rules and mechanics for integrating nonHermetic magic, which gives''
 ''a better idea of what can be gained from the secrets. Houses of Hermes: True Lineages, pages 110–143 has in the Tremere chapter a lot of material on ghosts, such as spells and Virtues useful for a necromancer, especially if he works with ghosts who lack the ability to affect the physical world. Some of these could render Argos’ Lore of the Dead Virtue unnecessary, giving him room for other Virtues. He might want to take Second Sight instead. Houses of Hermes: Societates, page 89 features in the Tytalus chapter the Supernatural Ability Personae, which would be a way for Argos to expand the use of the fictional Bellox, and make it a long-term, deep cover. However, Argos may very well commit Low Crimes by doing this, or even breach the Code proper if he manages to create Bellox as a Hermetic identity. In this case there could have been a real Bellox in the Order who was a bit of a loner, and Argos kept his death a secret and took over his identity and sigil. The Mysteries, Revised Edition, page 129–131 mentions the Disciples of the Worm, which could be the sinister necromantic cult Bellox is said to associate with. The Necromantic Spirit Magic on pages 64–74 could be of use, especially Spirit Familiar. In addition, the common mystery of Potent Magic could really boost his Penetration.''
+===Attribution===
 {{OpenArs Attribution}}
 {{ArsMnavbox}}
